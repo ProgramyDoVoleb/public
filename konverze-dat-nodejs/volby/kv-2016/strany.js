@@ -7,27 +7,62 @@ var parser = new xml2js.Parser();
 
 var reg = undefined;
 
-function fetchPartyDetail (id, o, reg) {
+function writeResults (json) {
+  fs.writeFile("../data/volby/kv-2016/strany.json", JSON.stringify(json), function(err) {
 
-  var item = reg.CVS.CVS_ROW.find((item) => Number(item.VSTRANA[0]) === id);
-
-  o.name = item.NAZEVCELK[0];
-  o.short = item.ZKRATKAV8[0];
-
-  if (item.TYPVS[0] === "K") {
-    o.coalition = [];
-
-    item.SLOZENI[0].split(",").forEach(c => {
-      var c_o = {
-        reg: Number(c)
+      if(err) {
+          return console.log(err);
       }
 
-      fetchPartyDetail (Number(c), c_o, reg);
-
-      o.coalition.push(c_o);
-    });
-  }
+      console.log("The file was saved!");
+  });
 }
+
+var allPartiesFile = new Promise (function (resolve, reject) {
+  fs.readFile('../data/obecne/strany.json', function(err, data) {
+    resolve(JSON.parse(data));
+  });
+});
+
+var resultsFile = new Promise (function (resolve, reject) {
+  fs.readFile('../zdroje/volby/kv-2016/kzrkl_s.xml', function(err, data) {
+    parser.parseString(data, function (err, json) {
+      resolve(json);
+    });
+  });
+});
+
+Promise.all([allPartiesFile, resultsFile]).then(function (values) {
+  var allParties = [];
+
+  values[1].KZ_RKL_SOUHRN.KZ_RKL_SOUHRN_ROW.forEach(function (row) {
+
+    var item = values[0].list.find((item) => Number(item.reg) === Number(row.VSTRANA[0]));
+
+    if (item.coalition) {
+      item.coalition.forEach(party => {
+        if (allParties.indexOf(party) === -1) allParties.push(party);
+      });
+    }
+
+    if (allParties.indexOf(Number(row.VSTRANA[0])) === -1) allParties.push(Number(row.VSTRANA[0]));
+  });
+
+  allParties.sort((a, b) => a - b);
+
+  var json = {
+    created: new Date().getTime(),
+    list: []
+  };
+
+  allParties.forEach(party => {
+    json.list.push(values[0].list.find(p => p.reg === party))
+  });
+
+  writeResults(json);
+});
+
+return;
 
 fs.readFile('../zdroje/obecne/cvs-utf8.xml', function(err, dataReg) {
 
@@ -79,15 +114,6 @@ fs.readFile('../zdroje/obecne/cvs-utf8.xml', function(err, dataReg) {
 
                 json.push(row_o);
 
-              });
-
-              fs.writeFile("../data/volby/kv-2016/strany.json", JSON.stringify(json), function(err) {
-
-                  if(err) {
-                      return console.log(err);
-                  }
-
-                  console.log("The file was saved!");
               });
             });
         });
