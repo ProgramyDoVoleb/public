@@ -55,57 +55,76 @@ var areaFile = new Promise (function (resolve, reject) {
 
 function createHierarchy(nums) {
 
-  var json = {
+  var hierarchy = {
     num: 0,
     name: "Česká republika",
     list: []
   }
 
+  var regions = [];
+  var areas = [];
+
   nums.CNUMNUTS.CNUMNUTS_ROW.forEach(num => {
     if (num.NUMNUTS[0] === "0" || num.NUMNUTS[0] === "9999") return;
 
     if (Number(num.NUMNUTS[0]) % 1000 === 0) {
-      json.list.push({
+      hierarchy.list.push({
         num: Number(num.NUMNUTS[0]),
         name: num.NAZEVNUTS[0],
         list: []
       });
     } else {
       var areaID = Math.floor(Number(num.NUMNUTS[0]) / 1000)*1000;
-      var area = json.list.find(a => a.num === areaID);
+      var area = hierarchy.list.find(a => a.num === areaID);
 
       if (Number(num.NUMNUTS[0] - areaID) % 100 === 0) {
-        area.list.push({
+
+        var a = {
           num: Number(num.NUMNUTS[0]),
           name: num.NAZEVNUTS[0],
           list: []
-        });
+        };
+
+        regions.push({
+          id: a.num,
+          name: a.name
+        })
+
+        area.list.push(a);
       } else {
         var regID = Math.floor(Number(num.NUMNUTS[0]) / 100)*100;
         var reg = area.list.find(a => a.num === regID);
 
-        console.log(regID, num.NAZEVNUTS[0]);
-
-        reg.list.push({
+        var b = {
           num: Number(num.NUMNUTS[0]),
           name: num.NAZEVNUTS[0],
           list: []
+        }
+
+        reg.list.push(b)
+
+        areas.push({
+          id: b.num,
+          name: b.name,
+          in: regID
         })
       }
     }
   });
 
-  return json;
+  return {created: new Date().getTime(), hierarchy, regions, areas};
 }
 
 Promise.all([regionFile, areaFile, cityFile]).then(function (values) {
 
+  var cz = createHierarchy(values[0]);
+
   var json = {
     created: new Date().getTime(),
+    regions: cz.regions,
+    areas: cz.areas,
     list: []
   };
-
-  var cz = createHierarchy(values[0]);
 
   values[1].EP_COCO.EP_COCO_ROW.forEach(item => {
 
@@ -129,25 +148,13 @@ Promise.all([regionFile, areaFile, cityFile]).then(function (values) {
     var area = values[0].CNUMNUTS.CNUMNUTS_ROW.find(c => Number(c.NUMNUTS[0]) === Number(item.OKRES[0]));
     var region = values[0].CNUMNUTS.CNUMNUTS_ROW.find(c => Number(c.NUMNUTS[0]) === Number(item.KRAJ[0]));
 
-    if (area) {
-      o.area = {
-        id: Number(area.NUMNUTS[0]),
-        name: area.NAZEVNUTS[0]
-      }
-    }
-
-    if (region) {
-      o.region = {
-        id: Number(region.NUMNUTS[0]),
-        name: region.NAZEVNUTS[0]
-      }
-    }
+    o.in = Number(area.NUMNUTS[0]);
 
     json.list.push(o);
 
-    var a1 = cz.list.find(a => a.num === Math.floor(o.region.id / 1000)*1000);
-    var a2 = a1.list.find(a => a.num === o.region.id);
-    var a3 = a2.list.find(a => a.num === o.area.id);
+    var a1 = cz.hierarchy.list.find(a => a.num === Math.floor(Number(region.NUMNUTS[0]) / 1000)*1000);
+    var a2 = a1.list.find(a => a.num === Number(region.NUMNUTS[0]));
+    var a3 = a2.list.find(a => a.num === Number(area.NUMNUTS[0]));
 
     if (!a3) a3 = a2;
 
@@ -157,7 +164,7 @@ Promise.all([regionFile, areaFile, cityFile]).then(function (values) {
       a4 = a3.list.find(a => a.num === o.city.id);
 
       if (a4) {
-        console.log(a4);
+        // console.log(a4);
       } else {
         a4 = {
           num: o.city.id,
