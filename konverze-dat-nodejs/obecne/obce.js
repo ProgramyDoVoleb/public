@@ -58,7 +58,8 @@ function createHierarchy(nums) {
   var hierarchy = {
     num: 0,
     name: "Česká republika",
-    list: []
+    list: [],
+    nuts: "CZ"
   }
 
   var regions = [];
@@ -71,7 +72,8 @@ function createHierarchy(nums) {
       hierarchy.list.push({
         num: Number(num.NUMNUTS[0]),
         name: num.NAZEVNUTS[0],
-        list: []
+        list: [],
+        nuts: num.NUTS[0]
       });
     } else {
       var areaID = Math.floor(Number(num.NUMNUTS[0]) / 1000)*1000;
@@ -82,12 +84,14 @@ function createHierarchy(nums) {
         var a = {
           num: Number(num.NUMNUTS[0]),
           name: num.NAZEVNUTS[0],
+          nuts: num.NUTS[0],
           list: []
         };
 
         regions.push({
           id: a.num,
-          name: a.name
+          name: a.name,
+          nuts: a.nuts
         })
 
         area.list.push(a);
@@ -98,6 +102,7 @@ function createHierarchy(nums) {
         var b = {
           num: Number(num.NUMNUTS[0]),
           name: num.NAZEVNUTS[0],
+          nuts: num.NUTS[0],
           list: []
         }
 
@@ -106,6 +111,7 @@ function createHierarchy(nums) {
         areas.push({
           id: b.num,
           name: b.name,
+          nuts: b.nuts,
           in: regID
         })
       }
@@ -186,6 +192,8 @@ Promise.all([regionFile, areaFile, cityFile]).then(function (values) {
 
   writeJSON(json);
   writeJSON2(cz);
+
+  createTownDirectory(cz);
 });
 
 return;
