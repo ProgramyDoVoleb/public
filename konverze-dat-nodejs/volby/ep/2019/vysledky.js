@@ -40,11 +40,11 @@ var resultsFile = new Promise (function (resolve, reject) {
 
 function fetchPartyDetail (id, o, reg) {
 
-  var item = reg.CVS.CVS_ROW.find((item) => Number(item.VSTRANA[0]) === id);
+  var item = reg.list.find(party => party.reg === id);
 
   if (item) {
-    if (item.TYPVS[0] === "K") {
-      o.coalition = item.SLOZENI[0].split(",").map(item => Number(item));
+    if (item.coalition) {
+      o.coalition = item.coalition;
     }
   } else {
     console.log("Strana nenalezena: ", id);
@@ -95,7 +95,7 @@ Promise.all([partiesFile, resultsFile, cvsFile]).then(function (values) {
     }
 
     fetchPartyReg(strana_o.id, strana_o, parties);
-    // fetchPartyDetail(strana_o.reg, strana_o, cvs);
+    fetchPartyDetail(strana_o.reg, strana_o, cvs);
 
     if (strana.MANDATY_STRANA) {
       strana.MANDATY_STRANA[0].POSLANEC.forEach(function (zastupitel) {
