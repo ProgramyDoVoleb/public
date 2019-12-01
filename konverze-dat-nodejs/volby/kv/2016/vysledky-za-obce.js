@@ -37,9 +37,12 @@ function processTown (nuts, town, results) {
         if (!content || content === "undefined") {
           console.log(nuts, town);
         } else {
-          resolve(JSON.parse(content));
+          try {
+            resolve(JSON.parse(content));
+          } catch (e) {
+            console.log("JSON ERROR", nuts, town);
+          }
         }
-
     });
   }).then (function (json) {
 
@@ -78,7 +81,7 @@ function processTown (nuts, town, results) {
 
       if (info) {
         r.reg = info.reg;
-        // r.short = info.short;
+        r.name = info.name;
       }
 
       o.result.push(r);

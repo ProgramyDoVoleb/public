@@ -92,7 +92,7 @@ Promise.all([candidatesFile, resultsFile]).then(function (values) {
           }
         }
 
-        json.winner.push(r3);
+        json.winner = r3;
 
       }
 

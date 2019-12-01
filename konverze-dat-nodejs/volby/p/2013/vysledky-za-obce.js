@@ -70,6 +70,7 @@ function processTown (nuts, town, round1, round2, cis) {
     round1.HODN_KAND.forEach(candidate => {
       o.round1.candidates.push({
         id: Number(candidate.$.PORADOVE_CISLO),
+        name: cis.list.find(p => p.id === Number(candidate.$.PORADOVE_CISLO)).name,
         votes: Number(candidate.$.HLASY),
         pct: Math.round(Number(candidate.$.HLASY) / o.round1.votes * 10000) / 100
       });
@@ -78,6 +79,7 @@ function processTown (nuts, town, round1, round2, cis) {
     round2.HODN_KAND.forEach(candidate => {
       o.round2.candidates.push({
         id: Number(candidate.$.PORADOVE_CISLO),
+        name: cis.list.find(p => p.id === Number(candidate.$.PORADOVE_CISLO)).name,
         votes: Number(candidate.$.HLASY),
         pct: Math.round(Number(candidate.$.HLASY) / o.round2.votes * 10000) / 100
       });

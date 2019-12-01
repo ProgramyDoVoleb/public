@@ -78,7 +78,7 @@ function processTown (nuts, town, results) {
 
       if (info) {
         r.reg = info.reg;
-        // r.short = info.short;
+        r.name = info.name;
       }
 
       o.result.push(r);
