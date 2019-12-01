@@ -37,7 +37,11 @@ function processTown (nuts, town, results) {
         if (!content || content === "undefined") {
           console.log(nuts, town);
         } else {
-          resolve(JSON.parse(content));
+          try {
+            resolve(JSON.parse(content));
+          } catch (e) {
+            console.log("JSON ERROR", nuts, town);
+          }
         }
 
     });
