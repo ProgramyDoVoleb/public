@@ -63,13 +63,13 @@ function processTown (nuts, town, values) {
 
     updateTownFile (nuts, town, area, so.name, so.votes);
   } else {
-    console.log(town.name, "(", nuts, ") has no area, but maybe deeper");
+    console.log(town.num, town.name, nuts, "no area, but maybe deeper");
+  }
 
-    if (town.list) {
-      town.list.forEach(part => {
-        processTown(nuts, part, values);
-      })
-    }
+  if (town.list) {
+    town.list.forEach(part => {
+      processTown(nuts, part, values);
+    })
   }
 }
 
