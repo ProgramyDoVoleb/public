@@ -75,7 +75,7 @@ function processTown (nuts, town, values) {
 
 function updateTownFile (nuts, town, soNumber, soName, soVotes) {
   try {
-    fs.readFile('../data/obecne/obce/' + nuts + '/' + town.num + '.json', function(err, data) {
+    fs.readFile('../data/souhrny/obce/' + nuts + '/' + town.num + '.json', function(err, data) {
       if (data) {
         var json = JSON.parse(data);
 
@@ -86,7 +86,7 @@ function updateTownFile (nuts, town, soNumber, soName, soVotes) {
 
         json.volby.senat = soVotes;
 
-        fs.writeFile('../data/obecne/obce/' + nuts + '/' + town.num + '.json', JSON.stringify(json), function(err) {
+        fs.writeFile('../data/souhrny/obce/' + nuts + '/' + town.num + '.json', JSON.stringify(json), function(err) {
             if(err) {
                 return console.log(err);
             }

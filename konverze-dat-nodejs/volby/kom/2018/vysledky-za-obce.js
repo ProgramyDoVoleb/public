@@ -63,7 +63,7 @@ function processPart (results, o) {
 
 function processTown (nuts, town, result) {
 
-  var file = '../data/obecne/obce/' + nuts + '/' + town + '.json';
+  var file = '../data/souhrny/obce/' + nuts + '/' + town + '.json';
 
   new Promise (function (resolve, reject) {
     fs.readFile(file, function(err, content) {

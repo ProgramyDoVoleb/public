@@ -31,7 +31,7 @@ function processTown (nuts, town, round1, round2, cis) {
 
   if (nuts === "CZ010") nuts = "CZ0100";
 
-  var file = '../data/obecne/obce/' + nuts + '/' + town + '.json';
+  var file = '../data/souhrny/obce/' + nuts + '/' + town + '.json';
 
   new Promise (function (resolve, reject) {
     fs.readFile(file, function(err, content) {

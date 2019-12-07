@@ -25,7 +25,7 @@ Promise.all([hierarchyFile]).then(function (values) {
 
       kraj.list.forEach(okres => {
 
-        var dir = "../data/obecne/obce/" + (okres.nuts || "CZ0100");
+        var dir = "../data/souhrny/obce/" + (okres.nuts || "CZ0100");
 
         if (!fs.existsSync(dir)){
             fs.mkdirSync(dir);

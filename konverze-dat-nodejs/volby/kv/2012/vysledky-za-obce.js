@@ -30,7 +30,7 @@ function writeJSON (json, file) {
 function processTown (nuts, town, results) {
 
 
-  var file = '../data/obecne/obce/' + nuts + '/' + town + '.json';
+  var file = '../data/souhrny/obce/' + nuts + '/' + town + '.json';
 
   new Promise (function (resolve, reject) {
     fs.readFile(file, function(err, content) {
