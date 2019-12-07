@@ -1,5 +1,7 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "unzipper": "^0.10.5"
+  },
   "name": "convertors",
   "version": "1.0.0",
   "main": "index.js",
