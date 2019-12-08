@@ -1,0 +1,101 @@
+{
+	"id": "jsi-pro",
+	"source": "http://www.jsipro.cz/program",
+	"published": "1. května 2019",
+	"title": "Jsme PRO:",
+	"keys": [],
+	"segments": [
+		{
+			"name": "JSME PRO postavení všech neziskových organizací pod zákonnou kontrolu",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Zredukování těch neziskových organizací, které prokazatelně působí proti zájmům občanů České republiky.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO reformu školství",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Domníváme se, že není možná plošná inkluze taková, aby nadané žáky brzdili tací, kteří ke studiu daného oboru nemají intelektuální předpoklady, ač v jiných oborech vzdělanosti by se uplatnili dobře.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO revizi sociálního systému",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Současně nastavený sociální systém často zvýhodňuje ty, kteří nikdy nepřijali zodpovědnost ve svém pracovním životě a žijí jen ze sociálních dávek. </p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO podporu drobných živnostníků",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>a samostatných lidí včetně těch, kteří se nebojí vkročit do poctivého podnikání. Stejně tak JSME PROTI plošnému zavádění nejrůznějších dávek</p>",
+					"tags": ["hospodářství"]
+				}
+			]
+		},
+		{
+			"name": "JSME PRO zodpovědnou sociální politiku",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>založenou na osobní odpovědnosti jednotlivce, nikoliv přehazování zodpovědnosti na stát.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO zjednodušení a zpřehlednění legislativy",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>tak, aby výklad zákonů byl jasný, přehledný a právo nelámaly politické elity u moci, dle svých požadavků.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO stejnou kvalitu potravin a dalších produktů v ČR",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>jaká je běžná ve vyspělých státech EU. JSME PROTI dvojí kvalitě zboží.</p>",
+					"tags": ["dvojí kvalita"]
+				}
+			]
+		},
+		{
+			"name": "JSME PRO interní rozhodování České republiky bez vlivu EU",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>JSME PRO možnost řešit interní rozhodnutí České republiky bez vlivu a vměšování EU.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO odmítání škodlivých ideologií",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>JSME PRO jednoznačné odmítání bolševických, komunistických, fašistických a dalších ideologií a názorů, které odporují Ústavnímu pořádku České republiky, právu EU, jakož i smlouvám, kterými je ČR vázána v rámci demokratických společnenství, kterými je členem.</p>"
+				}
+			]
+		},
+		{
+			"name": "JSME PRO setrvání v EU i NATO",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>JSME PRO setrvání v EU i NATO</p>"
+				}
+			]
+		}
+	]
+}

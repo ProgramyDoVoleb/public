@@ -1,0 +1,68 @@
+{
+	"id": "apcr",
+	"source": "http://apcr.cz/index.php/component/k2/item/222-co-budeme-prosazovat",
+	"published": "15. února 2019",
+	"title": "Co budeme prosazovat",
+	"keys": [],
+	"segments": [
+		{
+			"name": "Co budeme prosazovat",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Neuvěřitelný nárůst národní i nadnárodní byrokracie, která se vymkla všem pravidlům a omezením, vede k tomu, že státní správa přestala sloužit občanům.</p>"
+				}
+			]
+		},
+		{
+			"name": "Spolupráce národních států, ne kolonie",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Návrat zpět ke společenství samostatných, hospodářsky spolupracujících států, ideálně do stavu, jak tomu bylo před Lisabonskou smlouvou. Žádná euroarmáda ani ideopolicie, žádný „nadnárodní superstát“, vedený nikým nevolenými byrokraty. Ochrana vnějších hranic – společná i v kompetenci národních států.</p>",
+					"tags": ["budoucnost", "ochrana hranic"]
+				}
+			]
+		},
+		{
+			"name": "Suverénní národ v bezpečné Evropě",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Politická cenzura je nepřípustná, svoboda slova, názoru a kritického myšlení musí mít přednost před politickou korektností. Podpora společných aktivit Visegrádské čtyřky, případně Trojmoří. Naopak nulová podpora politických „neziskových“ organizací, obcházejících demokratické mechanismy států prosazováním vlastní nebo cizí politické agendy.</p>"
+				}
+			]
+		},
+		{
+			"name": "Samostatná azylová a migrační politika bez multikulturalismu",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Migrační politika, která bude pro země přínosem, ne ohrožením. Konec zavírání očí před ilegální migrací a s ní spojeným etnobyznysem. Důraz na kulturní integraci a pracovní uplatnění příchozích. Aktivní využívání možnosti deportace těch, kteří porušují zákon. Nulová tolerance politických a náboženských konfliktů, zavlečených migrací ze zemí třetího světa. Nulová tolerance šíření a podpory antidemokratických politických ideologií, i jejich maskování za náboženství.</p><p>Důsledné trvání na evropském pojetí demokracie a lidských práv. Pokud bude odklon od nich nadále pokračovat, podpoříme czexit.</p>",
+					"tags": ["migrace"]
+				}
+			]
+		},
+		{
+			"name": "V krátkosti",
+			"parts": [
+				{
+					"type": "list",
+					"meta": {
+						"start": 1
+					},
+					"content": [
+						"EU zpět před Lisabonskou smlouvu/ anebo vystoupení z EU",
+						"EU = obchodní svazek suverénních národních států",
+						"EU bez politické ideologie",
+						"EU bez cenzury",
+						"EU bez migrantů",
+						"EU bez islámu"
+
+					]
+				}
+			]
+		}
+	]
+
+}

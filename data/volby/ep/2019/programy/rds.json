@@ -1,0 +1,35 @@
+{
+	"id": "rds",
+	"source": "https://rds58.webnode.cz/volby-do-ep/",
+	"published": "13. dubna 2019",
+	"title": "RDS si klade své priority a cíle",
+	"keys": [],
+	"segments": [
+		{
+			"name": "Cíle",
+			"parts": [
+				{
+					"type": "list",
+					"meta": {
+						"start": 1
+					},
+					"content": [
+						"Hájit suverenitu ČR",
+						"RDS bude podporovat zásady Evropského sociálního modelu, který zahrnuje respektování demokracie a dodržování lidských práv, svobodné odbory, zaměstnaneckou účast na řízení podniků, sociální ochranu na principech solidarity, rovné příležitosti a důstojné životní podmínky pro všechny občany ČR",
+						"Trváme na kvalitních potravinách.",
+						"Rozšířit zemědělskou a živočišnou výrobu v ČR.",
+						"Zlepšit dostupnost zdravotní péče občanům ČR.",
+						"Zajištění bezpečnosti a pocitu bezpečí každému člověku ",
+						"Podpora vzdělání ,sportu a kultury.",
+						"Jde nám o to, aby se všem žilo lépe, aby se starším občanům dostalo pomoci a úcty, jež jim náleží."
+					],
+					"tags": ["bezpečnost"]
+				},
+				{
+					"type": "copy",
+					"content": "<p>Naším cílem je všestranná, bohatě vyspělá společnost, která bude přátelská vůči všem slušným a poctivým lidem. Společnost solidární s těmi, kdo pomoc potřebují a nemohou si ji sami zajistit.</p>"
+				}
+			]
+		}
+	]
+}

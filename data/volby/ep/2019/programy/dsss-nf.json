@@ -1,0 +1,57 @@
+{
+	"id": "dsss-nf",
+	"source": "http://eu.dsss.cz/programove-body/",
+	"published": "13. února 2019",
+	"title": "Program k Evropským volbám v bodech",
+	"keys": [
+		"Pryč z Evropské unie!",
+		"Budoucnost má česká koruna, ne euro",
+		"Hospodářská spolupráce místo bruselského diktátu"
+	],
+	"segments": [
+		{
+			"name": "Praha místo Bruselu",
+			"perex": "Česká republika si musí zachovat právo na samostatné rozhodování. Nepotřebujeme, aby nám úředníci z Bruselu určovali, co je pro nás správné, co smíme a co ne, jaké žárovky máme používat, či jak máme říkat tradičním českým výrobkům.",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Česká republika si musí zachovat právo na samostatné rozhodování. Nepotřebujeme, aby nám úředníci z Bruselu určovali, co je pro nás správné, co smíme a co ne, jaké žárovky máme používat, či jak máme říkat tradičním českým výrobkům.</p><p>Evropská unie dávno sešla ze své cesty a dnes již tvoří jen nesmyslnou federaci, jejímž hlavním účelem je prosazovat zájmy skupiny nadnárodních korporací na úkor národních států. Naším cílem musí být rozbít zevnitř tento nefunkční superstát a návrat do doby navzájem spolupracujících suverénních národních států na základě volné obchodní unie.</p><p><strong>Prosazujeme:  Referendum o vystoupení ČR z EU. Obnovení naší suverenity a nezávislosti na nadnárodním kapitálu. Ekonomickou orientaci i na alternativní trhy mimo EU.</strong></p>",
+					"tags": ["budoucnost"]
+				}
+			]
+		},
+		{
+			"name": "Identita místo globalizace",
+			"perex": "Náš národ je stejně jako další národy v Evropě systematicky ničen a rozpouštěn v multikulturním experimentu. Pro nadnárodní firmy představujeme jen „levnou montovnu“ v srdci Evropy, kde se dají za minimální mzdu vykořisťovat novodobí otroci.",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Náš národ je stejně jako další národy v Evropě systematicky ničen a rozpouštěn v multikulturním experimentu. Pro nadnárodní firmy představujeme jen „levnou montovnu“ v srdci Evropy, kde se dají za minimální mzdu vykořisťovat novodobí otroci.</p><p>Obludnou politiku multikulturalismu už odsoudili mnohé státy a jejich čelní představitelé a je jen na nás, jestli necháme dojít šílené pokusy multikulturních inženýrů tak daleko, abychom se i u nás dočkali hořících aut jako v Paříži, vraždících gangů jako v Londýně, či statisícových muslimských čtvrtí jako v Berlíně.</p><p>Každý národ má právo na svoje sebeurčení a identitu. Neexistuje žádný jediný model dokonalého systému, který by byl aplikovatelný v každých podmínkách. Respektujme cizí kultury v jejich státech a zároveň se zasazujme o zachování naší kulturní identity v ČR.</p><p><strong>Prosazujeme: Okamžité opuštění multikulturní politiky, jejíž  propagace a podpora devastuje naši zemi. Jako podmínku pro české občanství požadujeme zkoušky z českého jazyka, historie našeho národa a zároveň dlouhodobou bezúhonnost. Podporu českých výrobků a drobných podnikatelů, včetně založení českého řetězce domácích potravin.</strong></p>",
+					"tags": ["hospodářství"]
+				}
+			]
+		},
+		{
+			"name": "Koruna místo eura",
+			"perex": "Společná evropská měna euro je v mnoha případech hlavní příčina špatné ekonomické stability některých dnes již fakticky krachujících států.",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Společná evropská měna euro je v mnoha případech hlavní příčina špatné ekonomické stability některých dnes již fakticky krachujících států.</p><p>Ve chvíli, kdy některé státy zkoumají možnosti, jak se eura zbavit a obnovit svoji původní národní měnu, se naši vládní politici naopak snaží přijetí rozpadající se vize evropské měny u nás co nejvíce uspíšit.</p><p><strong>Prosazujeme: Zachování české koruny jako naší národní měny. Lepší dozor nad ČNB, tak abychom mohli regulovat hodnotu naší měny podle zájmů naší země a ne podle finanční situace členů rady ČNB.</strong></p>"
+				}
+			]
+		},
+		{
+			"name": "Práce místo přistěhovalectví",
+			"perex": "Upřednostňujeme v prvé řadě možnost práce pro občany České republiky. Není možné zaměstnávat nekvalifikované zahraniční pracovníky, když mnoho našich občanů nemá dlouhodobě práci. Práce musí být právem a ne přepychem.",
+			"parts": [
+				{
+					"type": "copy",
+					"content": "<p>Upřednostňujeme v prvé řadě možnost práce pro občany České republiky. Není možné zaměstnávat nekvalifikované zahraniční pracovníky, když mnoho našich občanů nemá dlouhodobě práci. Práce musí být právem a ne přepychem.</p><p><strong>Prosazujeme: Zastavení přijímání zahraničních pracovníků s nízkou kvalifikací a srovnatelné pracovní a platové podmínky v nadnárodních  společnostech v rámci působnosti EU. Snížení DPH a s tím zvýšenou možnost koupěschopnosti českých domácností. Daňové úlevy pro menší české firmy, určení minimální mzdy v rámci celé EU, aby se tak částečně zamezilo pohybu pracovních sil z jednotlivých států. Zrušení pracovních agentur, které by mohly fungovat v rámci EU pouze jako zprostředkovatelé nabídek pracovních míst a nikoliv jako zaměstnavatelé, kdy se pracovní síla stává zbožím.</strong></p>",
+					"tags": ["migrace"]
+				}
+			]
+		}
+	]
+
+}
