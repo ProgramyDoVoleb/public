@@ -7,8 +7,8 @@ var parser = new xml2js.Parser();
 
 var reg = undefined;
 
-function writeJSON (json) {
-  fs.writeFile("../data/obecne/strany.json", JSON.stringify(json), function(err) {
+function writeJSON (json, file) {
+  fs.writeFile(file, JSON.stringify(json), function(err) {
 
       if(err) {
           return console.log(err);
@@ -27,7 +27,7 @@ var partiesFile = new Promise (function (resolve, reject) {
 });
 
 var logoFile = new Promise (function (resolve, reject) {
-  fs.readdir("../data/obecne/loga-stran", function (err, list) {
+  fs.readdir("../data/obecne/strany/loga", function (err, list) {
     if (err) {
         return console.log('Unable to scan directory: ' + err);
     }
@@ -51,10 +51,38 @@ function getLogo (id, list) {
   var item = list.find(x => x.id === id);
 
   if (item) {
-    return "/data/obecne/loga-stran/" + item.path;
+    return "/data/obecne/strany/loga/" + item.path;
   } else {
     return undefined;
   }
+}
+
+function createHash (str) {
+
+  str = str.toLowerCase();
+  str = str.split("á").join("a");
+  str = str.split("č").join("c");
+  str = str.split("ď").join("d");
+  str = str.split("é").join("e");
+  str = str.split("ě").join("e");
+  str = str.split("í").join("i");
+  str = str.split("ň").join("n");
+  str = str.split("ó").join("o");
+  str = str.split("ř").join("r");
+  str = str.split("š").join("s");
+  str = str.split("ť").join("t");
+  str = str.split("ú").join("u");
+  str = str.split("ů").join("u");
+  str = str.split("ý").join("y");
+  str = str.split("ž").join("z");
+  str = str.split(" ").join("-");
+  str = str.split("/").join("-");
+  str = str.split(",").join("-");
+  str = str.split('"').join("");
+  str = str.split('.').join("-");
+  str = str.split('+').join("-");
+
+  return str;
 }
 
 Promise.all([partiesFile, logoFile]).then(function (values) {
@@ -66,29 +94,36 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
 
   values[0].CVS.CVS_ROW.forEach(item => {
 
-    var o = {
-      reg: Number(item.VSTRANA[0]),
-      name: item.NAZEVCELK[0]
-    };
+    var short = item.ZKRATKAV8 ? item.ZKRATKAV8[0] : item.ZKRATKAV30[0];
+    var hash = createHash(short);
 
-    o.short = item.ZKRATKAV8 ? item.ZKRATKAV8[0] : item.ZKRATKAV30[0]
+    var o;
+
+    try {
+      o = fs.readFileSync("../data/obecne/strany/data/" + Number(item.VSTRANA[0]) + "-" + hash + ".json")
+    } catch (e) {
+      o = {
+        reg: Number(item.VSTRANA[0])
+      };
+    }
+
+    o.name = item.NAZEVCELK[0];
+    o.hash = hash;
+    o.short = short;
 
     if (item.TYPVS[0] === "K") {
       o.coalition = item.SLOZENI[0].split(",").map(it => Number(it));
     }
 
     o.links = [];
+    o.logo = getLogo(o.reg, values[1]);
 
-    var logo = getLogo(o.reg, values[1]);
-
-    if (logo) {
-      o.logo = logo;
-    }
+    writeJSON(o, "../data/obecne/strany/data/" + o.reg + "-" + o.hash + ".json");
 
     json.list.push(o);
   });
 
-  writeJSON(json);
+  writeJSON(json, "../data/obecne/strany.json");
 });
 
 return;
