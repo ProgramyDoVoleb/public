@@ -38,8 +38,8 @@ function processTown (nuts, town, round1, round2, cis) {
         if (!content || content === "undefined") {
 
           var o = {
-            id: Number(result.$.KODZASTUP),
-            name: result.$.NAZEVZAST,
+            id: Number(town),
+            name: results.$.NAZ_OBEC,
             nuts: nuts,
             volby: {
               prezident: [],

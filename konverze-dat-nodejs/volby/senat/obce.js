@@ -119,8 +119,6 @@ Promise.all([set1, set2, set3, areas, towns]).then(values => {
 
           var nuts = okres.nuts;
 
-          console.log(nuts);
-
           if (nuts) {
             okres.list.forEach(mesto => {
               processTown(nuts, mesto, values);

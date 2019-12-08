@@ -70,7 +70,7 @@ function processTown (nuts, town, result) {
         if (!content || content === "undefined") {
 
           var o = {
-            id: Number(result.$.KODZASTUP),
+            id: Number(town),
             name: result.$.NAZEVZAST,
             nuts: nuts,
             volby: {
