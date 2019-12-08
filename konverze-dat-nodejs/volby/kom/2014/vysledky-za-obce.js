@@ -13,8 +13,8 @@ var hierarchyFile = new Promise (function (resolve, reject) {
   });
 });
 
-var regionFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/volby/kv/2012/strany.json', function(err, content) {
+var resultsFile = new Promise (function (resolve, reject) {
+  fs.readFile('../data/volby/kom/2014/vysledky.json', function(err, content) {
     resolve(JSON.parse(content));
   });
 });
@@ -27,8 +27,41 @@ function writeJSON (json, file) {
   });
 }
 
-function processTown (nuts, town, results) {
+function processPart (results, o) {
 
+  o.stats = {
+    voters: Number(results.UCAST[0].$.ZAPSANI_VOLICI),
+    pct: Number(results.UCAST[0].$.UCAST_PROC)
+  };
+
+  o.results = [];
+
+  results.VOLEBNI_STRANA.forEach(party => {
+    var p = {
+      id: Number(party.$.POR_STR_HLAS_LIST),
+      votes: Number(party.$.HLASY),
+      pct: Number(party.$.HLASY_PROC),
+      reg: Number(party.$.VSTRANA)
+    };
+
+    if (party.ZASTUPITEL) {
+      p.list = [];
+
+      party.ZASTUPITEL.forEach(member => {
+        var m = {
+          id: Number(member.$.PORADOVE_CISLO),
+          name: [member.$.TITULPRED, member.$.JMENO, member.$.PRIJMENI, member.$.TITULZA]
+        }
+
+        p.list.push(m);
+      });
+    }
+
+    o.results.push(p);
+  });
+}
+
+function processTown (nuts, town, result) {
 
   var file = '../data/souhrny/obce/' + nuts + '/' + town + '.json';
 
@@ -64,46 +97,44 @@ function processTown (nuts, town, results) {
     });
   }).then (function (json) {
 
-    var o = json.volby.kraje.find(k => k.year === 2012);
+    var o = json.volby.obce.find(k => k.year === 2014);
 
     if (!o) {
       o = {};
-      json.volby.kraje.push(o);
+      json.volby.obce.push(o);
     }
 
-    o.year = 2012;
-    o.stats = {
-        voters: Number(results.UCAST[0].$.ZAPSANI_VOLICI),
-        pct: Number(results.UCAST[0].$.UCAST_PROC)
-    };
-    o.result = [];
+    o.year = 2014;
+    o.parts = [];
+    o.results = undefined;
 
-    results.HLASY_STRANA.forEach(result => {
+    try {
 
-      var r = {
-          id: Number(result.$.KSTRANA),
-          votes: Number(result.$.HLASY),
-          pct: Number(result.$.PROC_HLASU)
+      if (result.$.POCET_OBVODU && Number(result.$.POCET_OBVODU) > 1) {
+
+        result.OBVOD.forEach(part => {
+          var p = {
+            id: Number(part.$.CIS_OBVODU)
+          };
+
+          processPart(part.VYSLEDEK[0], p)
+
+          o.parts.push(p);
+        });
+
+      } else {
+        var p = {};
+
+        processPart(result.VYSLEDEK[0], p)
+
+        o.parts.push(p);
       }
 
-      var info = undefined;
+    } catch (e) {
 
-      cis.list.forEach(c => {
+      console.log("Chyba", nuts, town, result)
 
-        if (c.id) {
-          var cx = c.id.find(cx0 => cx0 === r.id);
-
-          if (cx) info = c;
-        }
-      });
-
-      if (info) {
-        r.reg = info.reg;
-        r.name = info.name;
-      }
-
-      o.result.push(r);
-    });
+    }
 
     writeJSON(json, file);
   });
@@ -112,22 +143,20 @@ function processTown (nuts, town, results) {
 function processNuts (nuts) {
 
   new Promise (function (resolve, reject) {
-    fs.readFile('../zdroje/volby/kv/2012/data/' + nuts + '.xml', function(err, content) {
+    fs.readFile('../zdroje/volby/kom/2014/data/' + nuts + '.xml', function(err, content) {
       parser.parseString(content, function (err, json) {
         resolve(json);
       });
     });
   }).then (function (result) {
-    result.VYSLEDKY_OKRES.OBEC.forEach(obec => {
-      processTown(nuts, obec.$.CIS_OBEC, obec);
+    result.VYSLEDKY_OBCE_OKRES.OBEC.forEach(obec => {
+      processTown(nuts, obec.$.KODZASTUP, obec);
     });
   });
 }
 
-Promise.all([hierarchyFile, regionFile]).then(function (values) {
+Promise.all([hierarchyFile]).then(function (values) {
   var cz = values[0].hierarchy.list;
-
-  cis = values[1];
 
   var list = [];
 
@@ -138,10 +167,12 @@ Promise.all([hierarchyFile, regionFile]).then(function (values) {
 
         var nuts = okres.nuts;
 
-        if (nuts && nuts != "CZ0100") {
+        if (nuts) {
           processNuts(nuts);
         }
       });
     })
   })
+
+  // processNuts("CZ020A");
 });

@@ -35,7 +35,24 @@ function processTown (nuts, town, results) {
   new Promise (function (resolve, reject) {
     fs.readFile(file, function(err, content) {
         if (!content || content === "undefined") {
-          console.log(nuts, town);
+
+          var o = {
+            id: Number(result.$.KODZASTUP),
+            name: result.$.NAZEVZAST,
+            nuts: nuts,
+            volby: {
+              prezident: [],
+              snemovna: [],
+              senat: [],
+              kraje: [],
+              obce: [],
+              eu: []
+            }
+          }
+
+          console.log("Nová obec:", o.nuts, o.name)
+
+          resolve(o);
         } else {
           try {
             resolve(JSON.parse(content));
