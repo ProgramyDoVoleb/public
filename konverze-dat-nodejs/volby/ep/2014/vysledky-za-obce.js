@@ -61,32 +61,39 @@ function processTown (nuts, town, results) {
     };
     o.result = [];
 
-    results.HLASY_STRANA.forEach(result => {
+    try {
 
-      var r = {
-          id: Number(result.$.ESTRANA),
-          votes: Number(result.$.HLASY),
-          pct: Number(result.$.PROC_HLASU)
-      }
+      if (!results.HLASY_STRANA) return;
 
-      var info = undefined;
+      results.HLASY_STRANA.forEach(result => {
 
-      cis.list.forEach(c => {
-
-        if (c.id) {
-          var cx = c.id.find(cx0 => cx0 === r.id);
-
-          if (cx) info = c;
+        var r = {
+            id: Number(result.$.ESTRANA),
+            votes: Number(result.$.HLASY),
+            pct: Number(result.$.PROC_HLASU)
         }
+
+        var info = undefined;
+
+        cis.list.forEach(c => {
+
+          if (c.id) {
+            var cx = c.id.find(cx0 => cx0 === r.id);
+
+            if (cx) info = c;
+          }
+        });
+
+        if (info) {
+          r.reg = info.reg;
+          r.name = info.name;
+        }
+
+        o.result.push(r);
       });
-
-      if (info) {
-        r.reg = info.reg;
-        r.name = info.name;
-      }
-
-      o.result.push(r);
-    });
+    } catch (e) {
+      console.log(nuts, town, e, results);
+    }
 
     writeJSON(json, file);
   });
@@ -101,9 +108,13 @@ function processNuts (nuts) {
       });
     });
   }).then (function (result) {
-    result.VYSLEDKY_OKRES.OBEC.forEach(obec => {
-      processTown(nuts, obec.$.CIS_OBEC, obec);
-    });
+    try {
+      result.VYSLEDKY_OKRES.OBEC.forEach(obec => {
+        processTown(nuts, obec.$.CIS_OBEC, obec);
+      });
+    } catch (e) {
+      console.log(nuts, e);
+    }
   });
 }
 

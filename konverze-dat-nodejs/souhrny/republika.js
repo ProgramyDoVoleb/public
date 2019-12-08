@@ -35,8 +35,8 @@ function processType(years, path, o) {
 function processFile(o) {
   try {
     processType([2013, 2018], "p", o.volby.prezident);
-    processType([2017], "psp", o.volby.snemovna);
-    processType([2019], "ep", o.volby.eu);
+    processType([2006, 2010, 2013, 2017], "psp", o.volby.snemovna);
+    processType([2004, 2009, 2014, 2019], "ep", o.volby.eu);
   } catch (e) {
     console.log(e);
   }

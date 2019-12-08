@@ -14,7 +14,7 @@ var hierarchyFile = new Promise (function (resolve, reject) {
 });
 
 var regionFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/volby/ep/2014/strany.json', function(err, content) {
+  fs.readFile('../data/volby/ep/2009/strany.json', function(err, content) {
     resolve(JSON.parse(content));
   });
 });
@@ -47,14 +47,14 @@ function processTown (nuts, town, results) {
     });
   }).then (function (json) {
 
-    var o = json.volby.eu.find(k => k.year === 2014);
+    var o = json.volby.eu.find(k => k.year === 2009);
 
     if (!o) {
       o = {};
       json.volby.eu.push(o);
     }
 
-    o.year = 2014;
+    o.year = 2009;
     o.stats = {
         voters: Number(results.UCAST[0].$.ZAPSANI_VOLICI),
         pct: Number(results.UCAST[0].$.UCAST_PROC)
@@ -95,7 +95,7 @@ function processTown (nuts, town, results) {
 function processNuts (nuts) {
 
   new Promise (function (resolve, reject) {
-    fs.readFile('../zdroje/volby/ep/2014/data/' + nuts + '.xml', function(err, content) {
+    fs.readFile('../zdroje/volby/ep/2009/data/' + nuts + '.xml', function(err, content) {
       parser.parseString(content, function (err, json) {
         resolve(json);
       });

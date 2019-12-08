@@ -14,7 +14,7 @@ var hierarchyFile = new Promise (function (resolve, reject) {
 });
 
 var regionFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/volby/ep/2014/strany.json', function(err, content) {
+  fs.readFile('../data/volby/ep/2004/strany.json', function(err, content) {
     resolve(JSON.parse(content));
   });
 });
@@ -47,46 +47,53 @@ function processTown (nuts, town, results) {
     });
   }).then (function (json) {
 
-    var o = json.volby.eu.find(k => k.year === 2014);
+    var o = json.volby.eu.find(k => k.year === 2004);
 
     if (!o) {
       o = {};
       json.volby.eu.push(o);
     }
 
-    o.year = 2014;
+    o.year = 2004;
     o.stats = {
         voters: Number(results.UCAST[0].$.ZAPSANI_VOLICI),
         pct: Number(results.UCAST[0].$.UCAST_PROC)
     };
     o.result = [];
 
-    results.HLASY_STRANA.forEach(result => {
+    try {
 
-      var r = {
-          id: Number(result.$.ESTRANA),
-          votes: Number(result.$.HLASY),
-          pct: Number(result.$.PROC_HLASU)
-      }
+      if (!results.HLASY_STRANA) return;
 
-      var info = undefined;
+      results.HLASY_STRANA.forEach(result => {
 
-      cis.list.forEach(c => {
-
-        if (c.id) {
-          var cx = c.id.find(cx0 => cx0 === r.id);
-
-          if (cx) info = c;
+        var r = {
+            id: Number(result.$.ESTRANA),
+            votes: Number(result.$.HLASY),
+            pct: Number(result.$.PROC_HLASU)
         }
+
+        var info = undefined;
+
+        cis.list.forEach(c => {
+
+          if (c.id) {
+            var cx = c.id.find(cx0 => cx0 === r.id);
+
+            if (cx) info = c;
+          }
+        });
+
+        if (info) {
+          r.reg = info.reg;
+          r.name = info.name;
+        }
+
+        o.result.push(r);
       });
-
-      if (info) {
-        r.reg = info.reg;
-        r.name = info.name;
-      }
-
-      o.result.push(r);
-    });
+    } catch (e) {
+      console.log(nuts, town, e, results);
+    }
 
     writeJSON(json, file);
   });
@@ -95,15 +102,19 @@ function processTown (nuts, town, results) {
 function processNuts (nuts) {
 
   new Promise (function (resolve, reject) {
-    fs.readFile('../zdroje/volby/ep/2014/data/' + nuts + '.xml', function(err, content) {
+    fs.readFile('../zdroje/volby/ep/2004/data/' + nuts + '.xml', function(err, content) {
       parser.parseString(content, function (err, json) {
         resolve(json);
       });
     });
   }).then (function (result) {
-    result.VYSLEDKY_OKRES.OBEC.forEach(obec => {
-      processTown(nuts, obec.$.CIS_OBEC, obec);
-    });
+    try {
+      result.VYSLEDKY_OKRES.OBEC.forEach(obec => {
+        processTown(nuts, obec.$.CIS_OBEC, obec);
+      });
+    } catch (e) {
+      console.log(nuts, e);
+    }
   });
 }
 
