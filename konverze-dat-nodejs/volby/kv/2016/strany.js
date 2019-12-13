@@ -38,6 +38,13 @@ Promise.all([allPartiesFile, resultsFile]).then(function (values) {
   values[1].KZ_RKL_SOUHRN.KZ_RKL_SOUHRN_ROW.forEach(function (row) {
 
     var item = values[0].list.find((item) => Number(item.reg) === Number(row.VSTRANA[0]));
+
+    if (!item) {
+      item = {
+        reg: Number(row.VSTRANA[0])
+      };
+    }
+
     item.name = row.NAZEVPLNY[0];
     item.short = row.ZKRATKAK8[0];
 
@@ -60,7 +67,14 @@ Promise.all([allPartiesFile, resultsFile]).then(function (values) {
   allParties.forEach(party => {
     var o = values[0].list.find(p => p.reg === party);
 
-    var id = values[1].KZ_RKL_SOUHRN.KZ_RKL_SOUHRN_ROW.filter(i => Number(i.VSTRANA[0]) === o.reg);
+    var id = values[1].KZ_RKL_SOUHRN.KZ_RKL_SOUHRN_ROW.filter(i => Number(i.VSTRANA[0]) === (o ? o.reg : party));
+
+    if (!o) {
+      o = {
+        reg: party,
+        name: id[0].NAZEVPLNY[0]
+      }
+    }
 
     if (id.length > 0) {
       o.id = [];

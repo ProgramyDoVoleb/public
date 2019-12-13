@@ -100,7 +100,7 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
     var o;
 
     try {
-      o = fs.readFileSync("../data/obecne/strany/data/" + Number(item.VSTRANA[0]) + "-" + hash + ".json")
+      o = JSON.parse(fs.readFileSync("../data/obecne/strany/data/" + Number(item.VSTRANA[0]) + "-" + hash + ".json"))
     } catch (e) {
       o = {
         reg: Number(item.VSTRANA[0])
