@@ -13,8 +13,6 @@ function writeJSON (json, file) {
       if(err) {
           return console.log(err);
       }
-
-      console.log("The file was saved!");
   });
 }
 
@@ -81,6 +79,7 @@ function createHash (str) {
   str = str.split('"').join("");
   str = str.split('.').join("-");
   str = str.split('+').join("-");
+  str = str.split('?').join("");
 
   return str;
 }
@@ -96,14 +95,15 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
 
     var short = item.ZKRATKAV8 ? item.ZKRATKAV8[0] : item.ZKRATKAV30[0];
     var hash = createHash(short);
+    var reg = Number(item.VSTRANA[0])
 
     var o;
 
     try {
-      o = JSON.parse(fs.readFileSync("../data/obecne/strany/data/" + Number(item.VSTRANA[0]) + "-" + hash + ".json"))
+      o = JSON.parse(fs.readFileSync("../data/obecne/strany/data/" + reg + "-" + hash + ".json"))
     } catch (e) {
       o = {
-        reg: Number(item.VSTRANA[0])
+        reg: reg
       };
     }
 
@@ -115,10 +115,15 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
       o.coalition = item.SLOZENI[0].split(",").map(it => Number(it));
     }
 
-    o.links = [];
+    if (!o.links) {
+      o.links = [];
+    }
+
     o.logo = getLogo(o.reg, values[1]);
 
-    writeJSON(o, "../data/obecne/strany/data/" + o.reg + "-" + o.hash + ".json");
+    if (reg===768) console.log(o);
+
+    writeJSON(o, "../data/obecne/strany/data/" + reg + "-" + hash + ".json");
 
     json.list.push(o);
   });
