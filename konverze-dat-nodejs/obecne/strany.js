@@ -115,13 +115,18 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
       o.coalition = item.SLOZENI[0].split(",").map(it => Number(it));
     }
 
-    if (!o.links) {
-      o.links = [];
+    if (!o.links || o.links.length === 0) {
+      o.links = {
+        global: [],
+        regional: []
+      };
+    }
+
+    if (!o.color) {
+      o.color = "#aaa";
     }
 
     o.logo = getLogo(o.reg, values[1]);
-
-    if (reg===768) console.log(o);
 
     writeJSON(o, "../data/obecne/strany/data/" + reg + "-" + hash + ".json");
 
