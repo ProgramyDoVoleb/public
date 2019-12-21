@@ -1,156 +1,143 @@
 [
   {
     "id": 1,
+    "nuts": "CZ020",
     "name": "Středočeský kraj",
     "short": "stk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Central_Bohemian_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "hash": "stredocesky-kraj",
+    "colors": ["#fff", "#031093"],
     "links": [
       {"www": "https://www.kr-stredocesky.cz/"}
     ]
   },
   {
     "id": 2,
+    "nuts": "CZ031",
     "name": "Jihočeský kraj",
+    "hash": "jihocesky-kraj",
     "short": "jhč",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/South_Bohemian_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#0a630c", "#b82d22"],
     "links": [
       {"www": "http://www.kraj-jihocesky.cz/"}
     ]
   },
   {
     "id": 3,
+    "nuts": "CZ032",
     "name": "Plzeňský kraj",
+    "hash": "plzensky-kraj",
     "short": "plk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Plzen_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#149417", "#b82d22"],
     "links": [
       {"www": "http://www.plzensky-kraj.cz/"}
     ]
   },
   {
     "id": 4,
+    "nuts": "CZ041",
     "name": "Karlovarský kraj",
+    "hash": "karlovarsky-kraj",
     "short": "kvk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Karlovy_Vary_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#0d3efb", "#b82d22"],
     "links": [
       {"www": "http://www.kr-karlovarsky.cz/"}
     ]
   },
   {
     "id": 5,
+    "nuts": "CZ042",
     "name": "Ústecký kraj",
+    "hash": "ustecky-kraj",
     "short": "ulk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Usti_nad_Labem_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#063693", "#b82d22"],
     "links": [
       {"www": "http://www.kr-ustecky.cz/"}
     ]
   },
   {
     "id": 6,
+    "nuts": "CZ051",
     "name": "Liberecký kraj",
+    "hash": "liberecky-kraj",
     "short": "lbk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Liberec_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#0d3efb", "#fff"],
     "links": [
       {"www": "http://www.kraj-lbc.cz/"}
     ]
   },
   {
     "id": 7,
+    "nuts": "CZ052",
     "name": "Královéhradecký kraj",
+    "hash": "kralovehradecky-kraj",
     "short": "hkk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Hradec_Kralove_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#1998fc", "#fec72e"],
     "links": [
       {"www": "http://www.kr-kralovehradecky.cz/"}
     ]
   },
   {
     "id": 8,
+    "nuts": "CZ053",
     "name": "Pardubický kraj",
+    "hash": "pardubicky-kraj",
     "short": "pak",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Pardubice_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#0e6aac", "#e02037"],
     "links": [
       {"www": "https://www.pardubickykraj.cz/"}
     ]
   },
   {
     "id": 9,
+    "nuts": "CZ063",
     "name": "Kraj Vysočina",
+    "hash": "kraj-vysocina",
     "short": "vys",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/CZE_Kraj_Wysoczyzna_COA.svg",
-      "ratio": 0.88
-    },
+    "colors": ["#fff", "#d82827"],
     "links": [
       {"www": "https://www.kr-vysocina.cz/index.asp"}
     ]
   },
   {
     "id": 10,
+    "nuts": "CZ064",
     "name": "Jihomoravský kraj",
+    "hash": "jihomoravsky-kraj",
     "short": "jhm",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/South_Moravian_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#b82d22", "#13548f"],
     "links": [
       {"www": "http://www.kr-jihomoravsky.cz/"}
     ]
   },
   {
     "id": 11,
+    "nuts": "CZ071",
     "name": "Olomoucký kraj",
+    "hash": "olomoucky-kraj",
     "short": "olk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Olomouc_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#e8cb30", "#1269fb"],
     "links": [
       {"www": "http://www.kr-olomoucky.cz/"}
     ]
   },
   {
     "id": 12,
+    "nuts": "CZ072",
     "name": "Zlínský kraj",
+    "hash": "zlinsky-kraj",
     "short": "zlk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Zlin_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#fbc52f", "#0b1062"],
     "links": [
       {"www": "https://www.kr-zlinsky.cz/"}
     ]
   },
   {
     "id": 13,
+    "nuts": "CZ080",
     "name": "Moravskoslezský kraj",
+    "hash": "moravskoslezsky-kraj",
     "short": "msk",
-    "logo": {
-      "url": "data/obecne/logo/loga-kraju/Moravian-Silesian_Region_CoA_CZ.svg",
-      "ratio": 0.83
-    },
+    "colors": ["#13548f", "#e8cb30"],
     "links": [
       {"www": "http://www.msk.cz/"}
     ]

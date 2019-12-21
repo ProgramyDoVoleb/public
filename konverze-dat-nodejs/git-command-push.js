@@ -1,1 +1,0 @@
-git ftp push
