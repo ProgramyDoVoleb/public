@@ -41,7 +41,8 @@ function processPart (results, o) {
       id: Number(party.$.POR_STR_HLAS_LIST),
       votes: Number(party.$.HLASY),
       pct: Number(party.$.HLASY_PROC),
-      reg: Number(party.$.VSTRANA)
+      reg: Number(party.$.VSTRANA),
+      name: party.$.NAZEV_STRANY
     };
 
     if (party.ZASTUPITEL) {
