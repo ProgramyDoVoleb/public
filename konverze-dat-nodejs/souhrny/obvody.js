@@ -33,8 +33,42 @@ function writeJSON (json, file) {
   });
 }
 
+var simplified = {
+  list: [],
+  dates: []
+};
+
+function addToSimplifiedList (date, obvod) {
+  var o = simplified.list.find(o => o.id === obvod.id);
+
+  if (!o) {
+    simplified.list.push({
+      id: obvod.id,
+      name: obvod.name
+    });
+  }
+
+  var d = simplified.dates.find(d => d.date === date.date);
+
+  if (!d) {
+    d = {
+      date: date.date,
+      obvod: []
+    }
+
+    simplified.dates.push(d);
+  }
+
+  var od = d.obvod.find(o => o.id === obvod.id);
+
+  if (!od) {
+    d.obvod.push(obvod.id)
+  }
+}
+
 dates.forEach(date => {
   var content = JSON.parse(fs.readFileSync('../data/volby/senat/' + date.date + '/vysledky.json'));
+  var cand = JSON.parse(fs.readFileSync('../data/volby/senat/' + date.date + '/kandidati.json'));
 
   content.areas.forEach(obvod => {
     var ar = area.find(a => a.id === obvod.id);
@@ -43,14 +77,21 @@ dates.forEach(date => {
     var o = {
       date: content.date,
       regular: content.regular,
-      round1: obvod.round1,
-      round2: obvod.round2
+      results: {
+        round1: obvod.round1,
+        round2: obvod.round2
+      },
+      candidates: cand.list.filter(c => c.reg === obvod.id)
     };
 
     ar.elections.push(o);
+
+    addToSimplifiedList(date, obvod);
   });
 });
 
 area.forEach(a => {
   writeJSON(a, '../data/souhrny/obvody/' + a.id + '.json');
 })
+
+writeJSON(simplified, '../data/obecne/senatni-volby.json');

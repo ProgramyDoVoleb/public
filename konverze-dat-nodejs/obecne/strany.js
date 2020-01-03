@@ -130,6 +130,8 @@ Promise.all([partiesFile, logoFile]).then(function (values) {
 
     writeJSON(o, "../data/obecne/strany/data/" + reg + "-" + hash + ".json");
 
+    o.links = undefined;
+
     json.list.push(o);
   });
 
