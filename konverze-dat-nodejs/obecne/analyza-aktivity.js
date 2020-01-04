@@ -13,6 +13,8 @@ function writeJSON (json, file) {
 var main = JSON.parse(fs.readFileSync("../data/obecne/strany.json"));
 var elec = JSON.parse(fs.readFileSync("../data/obecne/seznam-voleb.json")).list;
 
+var highlightedTowns = [554782, 582786, 569810, 586846, 554961, 563889, 500496, 554821, 555134, 554791, 554804, 585068];
+
 var parties = main.list;
 
 // TEST
@@ -304,6 +306,92 @@ elec.forEach(type => {
           }
         });
       });
+    });
+  }
+
+  if (['komunalni-volby'].indexOf(type.hash) > -1) {
+    type.list.forEach(el => {
+      var districts = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json")).list;
+
+      districts.forEach(district => {
+
+        district.list.forEach(town => {
+
+          town.parties.forEach(result => {
+
+            var party = parties.find(p => p.reg === result.reg);
+
+            if (party) {
+
+              var affect = [party];
+
+              if (party.coalition) {
+                party.coalition.forEach(coal => {
+                  var member = parties.find(p => p.reg === coal);
+
+                  if (member) {
+                    affect.push(member);
+                  }
+                });
+              }
+
+              affect.forEach(affected => {
+                if (el.date[0] > affected.activity.last) affected.activity.last = el.date[0];
+
+                var data = affected.activity.list.find(d => d.type === type.hash && d.id === el.id);
+
+                if (!data) {
+                  data = {
+                    type: type.hash,
+                    id: el.id,
+                    date: el.date[0],
+                    count: {
+                      self: 0,
+                      coalition: 0
+                    },
+                    coalitions: [],
+                    list: [],
+                    top10: []
+                  }
+
+                  affected.activity.list.push(data);
+                }
+
+                if (party.reg != affected.reg) {
+                  data.count.coalition++;
+                  data.coalitions.push(party.reg);
+                } else {
+                  data.count.self++;
+                }
+
+                var item = {
+                  num: town.id,
+                  reg: party.reg,
+                  name: affected.reg != party.reg ? party.name : undefined,
+                  coalition: party.reg != affected.reg ? party.coalition : undefined,
+                  pct: result.pct || result.ptc
+                };
+
+                if (highlightedTowns.indexOf(town.id) > -1) {
+                  data.list.push(item);
+                }
+
+                data.top10.push(item);
+              });
+            }
+          });
+        });
+      });
+
+      parties.forEach(party => {
+        var kv = party.activity.list.find(v => v.type === type.hash && v.id === el.id);
+
+        if (kv) {
+          kv.top10.sort((a, b) => b.pct - a.pct);
+          kv.top10.splice(25);
+        }
+      });
+
     });
   }
 });

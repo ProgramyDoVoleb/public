@@ -1,14 +1,9 @@
-var fs = require('fs'),
-    util = require('util'),
-    xml2js = require('xml2js'),
-    iconv = require('iconv-lite');
+var fs = require('fs');
 
-var parser = new xml2js.Parser();
-
-var reg = undefined;
+var year = 2006;
 
 function writeResults (json) {
-  fs.writeFile("../data/volby/kom/2006/vysledky.json", JSON.stringify(json), function(err) {
+  fs.writeFile("../data/volby/kom/" + year + "/vysledky.json", JSON.stringify(json), function(err) {
 
       if(err) {
           return console.log(err);
@@ -18,76 +13,59 @@ function writeResults (json) {
   });
 }
 
-var cvsFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/obecne/strany.json', function(err, data) {
-    resolve(JSON.parse(data));
-  });
-});
+var json = {
+  created: new Date().getTime(),
+  list: []
+}
 
-var townsFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/obecne/obce.json', function(err, data) {
-    resolve(JSON.parse(data));
-  });
-});
+const nutsList = fs.readdirSync('../data/souhrny/obce', { withFileTypes: true })
 
-var resultsFile = new Promise (function (resolve, reject) {
-  fs.readFile('../zdroje/volby/kom/2006/kvros.xml', function(err, data) {
-    parser.parseString(data, function (err, json) {
-      resolve(json);
+nutsList.forEach(nuts => {
+  if (nuts != '.DS_Store') {
+
+    var obj = {
+      nuts,
+      list: []
+    };
+
+    json.list.push(obj);
+
+    numList = fs.readdirSync('../data/souhrny/obce/' + nuts, { withFileTypes: true })
+
+    numList.forEach(num => {
+      var town = JSON.parse(fs.readFileSync('../data/souhrny/obce/' + nuts + '/' + num));
+
+      var o = {
+        id: town.id,
+        name: town.name,
+        parties: []
+      }
+
+      obj.list.push(o);
+
+      try {
+        var election = town.volby.obce.find(el => el.year = year);
+
+        if (election) {
+          election.parts[0].results.forEach(party => {
+            var p = {
+              reg: party.reg,
+              name: party.name,
+              votes: party.votes,
+              pct: party.pct,
+              seats: party.list ? party.list.length : 0
+            }
+
+            o.parties.push(p);
+          });
+        }
+      } catch (e) {
+        console.log(nuts, num, e);
+      }
+
     });
-  });
+
+  }
 });
 
-Promise.all([townsFile, resultsFile, cvsFile]).then(function (values) {
-
-  var towns = values[0];
-  var results = values[1];
-  var cvs = values[2];
-
-  var json = {
-    created: new Date().getTime(),
-    list: towns.areas
-  };
-
-  json.list.forEach(area => area.list = []);
-
-  results.KV_ROS.KV_ROS_ROW.forEach(record => {
-    var area = json.list.find(a => a.id === Number(record.OKRES[0] === "1100" ? 1199 : record.OKRES[0]));
-
-    if (area) {
-      var town = area.list.find(t => t.id === Number(record.KODZASTUP[0]));
-
-      if (!town) {
-          town = {
-            id: Number(record.KODZASTUP[0]),
-            name: record.NAZEVZAST[0],
-            parties: []
-          };
-
-          area.list.push(town);
-      }
-
-      var party = {
-        id: Number(record.POR_STR_HL[0]),
-        reg: Number(record.VSTRANA[0]),
-        local: Number(record.OSTRANA[0]),
-        name: record.NAZEVCELK[0],
-        short: record.ZKRATKAO8 ? record.ZKRATKAO8[0] : record.ZKRATKAO30[0],
-        votes: record.HLASY_STR ? Number(record.HLASY_STR[0]) : 0,
-        pct: record.PROCHLSTR ? Number(record.PROCHLSTR[0]) : 0,
-        seats: record.MAND_STR ? Number(record.MAND_STR[0]) : 0
-      }
-
-      if (Number(record.POCSTR_SLO[0]) > 1) party.coalition = record.SLOZENI[0].split(",").map(p => Number(p));
-
-      town.parties.push(party);
-
-    } else {
-      console.log("Okres nenalezen", record.OKRES[0]);
-    }
-
-  });
-
-  writeResults(json);
-
-});
+writeResults(json);
