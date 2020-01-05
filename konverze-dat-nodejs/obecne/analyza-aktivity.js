@@ -59,7 +59,8 @@ elec.forEach(type => {
               reg: party.reg,
               name: affected.reg != party.reg ? party.name : undefined,
               coalition: party.reg != affected.reg ? party.coalition : undefined,
-              pct: result.ptc
+              pct: result.ptc,
+              elected: result.elected.length
             });
           });
         }
@@ -109,7 +110,8 @@ elec.forEach(type => {
                 reg: party.reg,
                 name: affected.reg != party.reg ? party.name : undefined,
                 coalition: party.reg != affected.reg ? party.coalition : undefined,
-                pct: result.ptc
+                pct: result.ptc,
+                elected: result.elected.length
               });
             });
           }
@@ -351,7 +353,8 @@ elec.forEach(type => {
                     },
                     coalitions: [],
                     list: [],
-                    top10: []
+                    top10: [],
+                    elected: 0
                   }
 
                   affected.activity.list.push(data);
@@ -363,6 +366,8 @@ elec.forEach(type => {
                 } else {
                   data.count.self++;
                 }
+
+                data.elected += result.seats
 
                 var item = {
                   num: town.id,
