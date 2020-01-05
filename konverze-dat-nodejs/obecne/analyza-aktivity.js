@@ -374,7 +374,8 @@ elec.forEach(type => {
                   reg: party.reg,
                   name: affected.reg != party.reg ? party.name : undefined,
                   coalition: party.reg != affected.reg ? party.coalition : undefined,
-                  pct: result.pct || result.ptc
+                  pct: result.pct || result.ptc,
+                  elected: result.seats
                 };
 
                 if (highlightedTowns.indexOf(town.id) > -1) {
