@@ -44,7 +44,7 @@ nutsList.forEach(nuts => {
       obj.list.push(o);
 
       try {
-        var election = town.volby.obce.find(el => el.year = year);
+        var election = town.volby.obce.find(el => el.year === year);
 
         if (election) {
           election.parts[0].results.forEach(party => {
