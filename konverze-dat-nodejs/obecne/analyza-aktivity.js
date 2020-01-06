@@ -371,6 +371,7 @@ elec.forEach(type => {
 
                 var item = {
                   num: town.id,
+                  townName: town.name,
                   reg: party.reg,
                   name: affected.reg != party.reg ? party.name : undefined,
                   coalition: party.reg != affected.reg ? party.coalition : undefined,
@@ -394,7 +395,7 @@ elec.forEach(type => {
 
         if (kv) {
           kv.top10.sort((a, b) => b.pct - a.pct);
-          kv.top10.splice(25);
+          kv.top10.splice(10);
         }
       });
 
