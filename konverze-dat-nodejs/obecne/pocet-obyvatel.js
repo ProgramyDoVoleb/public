@@ -41,7 +41,8 @@ function processNum (values, num, nuts) {
     if (data) {
       json.stats.seats = Number(data.MANDATY[0]);
       json.stats.type = Number(data.TYPZASTUP[0]);
-      json.stats.typeOf = Number(data.DRUHZASTUP[0]);
+      json.stats.druh = Number(data.DRUHZASTUP[0]);
+      json.stats.typeOf = undefined;
       json.stats.population.push({
         year: 2006 + index * 4,
         value: Number(data.POCOBYV[0])
