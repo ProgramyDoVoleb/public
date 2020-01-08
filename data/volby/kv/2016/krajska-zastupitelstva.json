@@ -334,13 +334,11 @@
         "seats": [
           {
             "name": "Jana Mračková Vildumetzová",
-            "level": 0,
+            "level": 1,
             "areas": [
-              "hejtmanka",
               "finance",
               "legislativa",
-              "krizové řízení",
-              "vnější vztahy"
+              "komunikace s ústředními orgány státní správy"
             ],
             "wiki": "https://cs.wikipedia.org/wiki/Jana_Mra%C4%8Dkov%C3%A1_Vildumetzov%C3%A1"
           },
@@ -349,25 +347,30 @@
             "level": 1,
             "areas": [
               "doprava",
-              "silniční hospodářství"
+              "silniční hospodářství",
+              "kultura",
+              "památková péče"
             ]
           },
           {
             "name": "Petr Kubis",
-            "level": 1,
+            "level": 0,
             "areas": [
+              "hejtman",
               "sociální věci",
               "bezpečnost",
-              "vnitřní záležitosti"
+              "krizové řízení",
+              "vnitřní záležitosti",
+              "vnější vztahy"
             ],
             "wiki": "https://cs.wikipedia.org/wiki/Petr_Kubis"
           },
           {
-            "name": "Daniela Seifertová",
-            "level": 1,
+            "name": "Josef Váňa",
+            "level": 2,
             "areas": [
-              "kultura",
-              "památková péče"
+              "tělovýchova",
+              "sport"
             ]
           }
         ]
@@ -440,7 +443,7 @@
             "level": 2,
             "party": 0,
             "areas": [
-              "školství, mládež a tělovýchova"
+              "školství a mládež"
             ]
           }
         ]
