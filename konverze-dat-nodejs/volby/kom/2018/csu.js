@@ -39,6 +39,4 @@ Promise.all([hierarchyFile]).then(function (values) {
       });
     })
   })
-
-  // readXML("CZ0201");
 });

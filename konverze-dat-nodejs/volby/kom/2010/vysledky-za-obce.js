@@ -34,6 +34,8 @@ function processPart (results, o) {
     pct: Number(results.UCAST[0].$.UCAST_PROC)
   };
 
+  o.stats.attended = Math.floor(o.stats.voters * o.stats.pct / 100);
+
   o.results = [];
 
   results.VOLEBNI_STRANA.forEach(party => {
@@ -60,6 +62,46 @@ function processPart (results, o) {
 
     o.results.push(p);
   });
+}
+
+function processSegments (segments) {
+
+  var obj = {
+    stats: {
+      voters: 0,
+      attended: 0,
+      pct: 0,
+      votes: 0
+    },
+    results: []
+  }
+
+  segments.forEach(segment => {
+    obj.stats.voters += segment.stats.voters;
+    obj.stats.attended += segment.stats.attended;
+
+    segment.results.forEach(party => {
+      var partySum = obj.results.find(p => p.reg === party.reg);
+
+      if (!partySum) {
+        obj.results.push(party);
+      } else {
+        partySum.votes += party.votes;
+        if (party.list && !partySum.list) partySum.list = [];
+        if (party.list) party.list.forEach(l => partySum.list.push(l));
+      }
+
+      obj.stats.votes += party.votes;
+    });
+  });
+
+  obj.stats.pct = Math.round(10000 * obj.stats.attended / obj.stats.voters) / 100;
+
+  obj.results.forEach(party => {
+    party.pct = Math.round(10000 * party.votes / obj.stats.votes) / 100;
+  });
+
+  return obj;
 }
 
 function processTown (nuts, town, result) {
@@ -107,11 +149,14 @@ function processTown (nuts, town, result) {
 
     o.year = 2010;
     o.parts = [];
+    o.segments;
     o.results = undefined;
 
     try {
 
       if (result.$.POCET_OBVODU && Number(result.$.POCET_OBVODU) > 1) {
+
+        o.segments = [];
 
         result.OBVOD.forEach(part => {
           var p = {
@@ -120,8 +165,10 @@ function processTown (nuts, town, result) {
 
           processPart(part.VYSLEDEK[0], p)
 
-          o.parts.push(p);
+          o.segments.push(p);
         });
+
+        o.parts.push(processSegments(o.segments));
 
       } else {
         var p = {};

@@ -20,7 +20,10 @@ var json = {
 
 const nutsList = fs.readdirSync('../data/souhrny/obce', { withFileTypes: true })
 
-nutsList.forEach(nuts => {
+nutsList.forEach(nut => {
+
+  let nuts = nut.name;
+
   if (nuts != '.DS_Store') {
 
     var obj = {
@@ -32,7 +35,10 @@ nutsList.forEach(nuts => {
 
     numList = fs.readdirSync('../data/souhrny/obce/' + nuts, { withFileTypes: true })
 
-    numList.forEach(num => {
+    numList.forEach(nums => {
+
+      let num = nums.name;
+
       var town = JSON.parse(fs.readFileSync('../data/souhrny/obce/' + nuts + '/' + num));
 
       var o = {
