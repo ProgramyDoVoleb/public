@@ -11,14 +11,6 @@ function writeFile (json, to) {
   });
 }
 
-function writeJSON (json, file) {
-  fs.writeFile(file, JSON.stringify(json), function(err) {
-      if(err) {
-          return console.log(err);
-      }
-  });
-}
-
 var cz = JSON.parse(fs.readFileSync('../data/obecne/obce-struktura.json'));
 
 function processNum (num, nuts, num2, name) {
