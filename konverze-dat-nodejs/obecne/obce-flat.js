@@ -11,10 +11,28 @@ function writeFile (json, to) {
 
 var cz = JSON.parse(fs.readFileSync('../data/obecne/obce-struktura.json'));
 var json = {
+  popis: [
+    'num: číslo obce',
+    'nuts: číslo okresu (po dělení 10 kraje)',
+    'obvod: senátní obvod',
+    'GPS lng',
+    'GPS ltn',
+    'velikost obce podle typu obce',
+    'num: část obce'
+  ],
   list: []
 };
 
 var sum = 0;
+
+var druhy = [
+	0, //'obec',
+	3, // 'město',
+	4, // 'statutární město',
+	5, // 'hlavní město',
+	2, // 'městská část či obvod',
+	1  // 'městys'
+];
 
 function processNum (num, nuts, num2, name) {
   var file = '../data/souhrny/obce/' + nuts + '/' + num + '.json';
@@ -32,7 +50,7 @@ function processNum (num, nuts, num2, name) {
       m: town.hierarchy.mesto ? town.hierarchy.mesto.num : 0,
       s: town.hierarchy.obvod ? town.hierarchy.obvod.id : 0,
       g: town.hierarchy.gps,
-      p: town.stats.population.length > 0 ? town.stats.population[town.stats.population.length - 1].value.toString().length : 0,
+      p: druhy[town.stats.druh],
       c: town.stats.population.length > 0 ? Math.round((town.stats.population[town.stats.population.length - 1].value - town.stats.population[0].value) / town.stats.population[0].value * 100) : 0
     }
 
