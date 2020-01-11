@@ -11,19 +11,18 @@ function writeFile (json, to) {
 
 var cz = JSON.parse(fs.readFileSync('../data/obecne/obce-struktura.json'));
 var json = {
-  popis: {
-    'nuts: číslo okresu (po dělení 10 kraje)': {
-      'obvod: senátní obvod, u více obvodů -1': [
-        'num: číslo obce',
-        'GPS lng',
-        'GPS ltn',
-        'velikost obce podle typu obce',
-        'velikost obce podle 0-250-1000-2500-1000-25000-10000-více',
-        'num: část obce'
-      ]
-    }
-  } ,
-  list: []
+  popis: {
+    'nuts: číslo okresu (po dělení 10 kraje)': [
+      'num: číslo obce',
+      'obvod: senátní obvod, u více obvodů -1',
+      'GPS lng',
+      'GPS ltn',
+      'velikost obce podle typu obce',
+      'velikost obce podle 0-250-1000-2500-1000-25000-10000-více',
+      'num: část obce'
+    ]
+  },
+  list: {}
 };
 
 var sum = 0;
@@ -68,8 +67,8 @@ function processNum (num, nuts, num2, name) {
     var obj = {
       id: num,
       n: town.name,
-      k: Number(town.hierarchy.kraj.nuts.split("CZ0")[1]),
-      o: Number(town.hierarchy.okres.nuts.split("CZ0")[1]),
+      k: town.hierarchy.kraj.nuts,
+      o: town.hierarchy.okres.nuts,
       m: town.hierarchy.mesto ? town.hierarchy.mesto.num : 0,
       s: town.obvod ? town.obvod.id : -1,
       g: town.hierarchy.gps,
@@ -80,21 +79,36 @@ function processNum (num, nuts, num2, name) {
 
     obj.g = [Math.round(obj.g.lng * 1000) / 1000, Math.round(obj.g.lnt * 1000) / 1000];
 
-    // if (!json.list[obj.o]) json.list[obj.o] = {};
+    if (!json.list[obj.o]) json.list[obj.o] = [];
     // if (!json.list[obj.o][obj.s]) json.list[obj.o][obj.s] = [];
 
     if (obj.m === 0) {
-      json.list.push([obj.id, obj.o, obj.s, obj.g[0], obj.g[1], obj.p, obj.p2, obj.n]);
+      json.list[obj.o].push([obj.id, obj.s, obj.g[0], obj.g[1], obj.p, obj.p2, obj.n]);
     } else {
       sum++;
-      json.list.push([obj.id, obj.o, obj.s,obj.g[0], obj.g[1], obj.p, obj.p2, obj.n, obj.m]);
+      json.list[obj.o].push([obj.id, obj.s,obj.g[0], obj.g[1], obj.p, obj.p2, obj.n, obj.m]);
     }
   }
 }
 
+var listKraju = [];
+var listOkresu = [];
+
 cz.hierarchy.list.forEach(reg => {
   reg.list.forEach(kraj => {
+
+    listKraju.push({
+      nuts: kraj.nuts,
+      name: kraj.name
+    });
+
     kraj.list.forEach(okres => {
+
+      listOkresu.push({
+        nuts: okres.nuts || 'CZ0100',
+        name: okres.name
+      });
+
       okres.list.forEach(obec => {
         processNum(obec.num, okres.nuts || 'CZ0100');
 
@@ -108,6 +122,6 @@ cz.hierarchy.list.forEach(reg => {
   });
 })
 
-console.log(sum);
-
 writeFile(json, '../data/obecne/obce-flat.json');
+writeFile({list: listKraju}, '../data/obecne/kraje-flat.json');
+writeFile({list: listOkresu}, '../data/obecne/okresy-flat.json');
