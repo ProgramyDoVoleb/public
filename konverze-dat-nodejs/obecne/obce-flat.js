@@ -23,7 +23,7 @@ var json = {
       ]
     }
   } ,
-  list: {}
+  list: []
 };
 
 var sum = 0;
@@ -80,14 +80,14 @@ function processNum (num, nuts, num2, name) {
 
     obj.g = [Math.round(obj.g.lng * 1000) / 1000, Math.round(obj.g.lnt * 1000) / 1000];
 
-    if (!json.list[obj.o]) json.list[obj.o] = {};
-    if (!json.list[obj.o][obj.s]) json.list[obj.o][obj.s] = [];
+    // if (!json.list[obj.o]) json.list[obj.o] = {};
+    // if (!json.list[obj.o][obj.s]) json.list[obj.o][obj.s] = [];
 
     if (obj.m === 0) {
-      json.list[obj.o][obj.s].push([obj.id, obj.g[0], obj.g[1], obj.p, obj.p2, obj.n]);
+      json.list.push([obj.id, obj.o, obj.s, obj.g[0], obj.g[1], obj.p, obj.p2, obj.n]);
     } else {
       sum++;
-      json.list[obj.o][obj.s].push([obj.id, obj.g[0], obj.g[1], obj.p, obj.p2, obj.n, obj.m]);
+      json.list.push([obj.id, obj.o, obj.s,obj.g[0], obj.g[1], obj.p, obj.p2, obj.n, obj.m]);
     }
   }
 }
