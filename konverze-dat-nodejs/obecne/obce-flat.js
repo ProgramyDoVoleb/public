@@ -22,7 +22,8 @@ var json = {
       'num: část obce'
     ]
   },
-  list: {}
+  list: {},
+  vycleneno: []
 };
 
 var sum = 0;
@@ -87,6 +88,8 @@ function processNum (num, nuts, num2, name) {
     } else {
       sum++;
       json.list[obj.o].push([obj.id, obj.s,obj.g[0], obj.g[1], obj.p, obj.p2, obj.n, obj.m]);
+
+      if (json.vycleneno.indexOf(obj.m) === -1) json.vycleneno.push(obj.m);
     }
   }
 }
