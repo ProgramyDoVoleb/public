@@ -11,7 +11,7 @@ function writeJSON (json, file) {
 }
 
 var hierarchyFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/obecne/obce-struktura.json', function(err, content) {
+  fs.readFile('../data/obecne/obce-flat.json', function(err, content) {
     resolve(JSON.parse(content));
   });
 });
@@ -26,11 +26,13 @@ function processPrezident (results, o) {
         round1: {
           voters: 0,
           votes: 0,
+          attended: 0,
           candidates: []
         },
         round2: {
           voters: 0,
           votes: 0,
+          attended: 0,
           candidates: []
         }
       };
@@ -40,9 +42,11 @@ function processPrezident (results, o) {
 
     el.round1.voters += election.round1.voters;
     el.round1.votes += election.round1.votes;
+    el.round1.attended += election.round1.attended;
 
     el.round2.voters += election.round2.voters;
     el.round2.votes += election.round2.votes;
+    el.round2.attended += election.round2.attended;
 
     election.round1.candidates.forEach(cand => {
       var c = el.round1.candidates.find (e => e.id === cand.id);
@@ -75,17 +79,32 @@ function processPrezident (results, o) {
 
       c.votes += cand.votes;
     });
+
+    election.round1.candidates.forEach(cand => {
+      var c = el.round1.candidates.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.round1.votes * 10000) / 100;
+    });
+
+    election.round2.candidates.forEach(cand => {
+      var c = el.round2.candidates.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.round2.votes * 10000) / 100;
+    });
   });
 }
 
-function processSnemovna (results, o) {  results.forEach(election => {
+function processSnemovna (results, o) {
+  results.forEach(election => {
     var el = o.find(e => e.year === election.year);
 
     if (!el) {
       el = {
         year: election.year,
         stats: {
-          voters: 0
+          voters: 0,
+          votes: 0,
+          attended: 0
         },
         result: []
       };
@@ -94,6 +113,7 @@ function processSnemovna (results, o) {  results.forEach(election => {
     }
 
     el.stats.voters += election.stats.voters;
+    el.stats.attended += Math.round(election.stats.voters * election.stats.pct / 100);
 
     election.result.forEach(cand => {
       var c = el.result.find (e => e.id === cand.id);
@@ -110,37 +130,42 @@ function processSnemovna (results, o) {  results.forEach(election => {
       }
 
       c.votes += cand.votes;
+      el.stats.votes += cand.votes;
+    });
+
+    election.result.forEach(cand => {
+      var c = el.result.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.stats.votes * 10000) / 100;
     });
   });
 }
 
 function processTowns(okres, o) {
-  okres.list.forEach(town => {
+
+  okres.forEach(town => {
 
     if (town.list) return;
 
     try {
-      var content = fs.readFileSync('../data/souhrny/obce/' + o.nuts + '/' + town.num + '.json');
+      var content = fs.readFileSync('../data/souhrny/obce/' + o.nuts + '/' + town[0] + '.json');
       var json = JSON.parse(content);
 
-      processPrezident(json.volby.prezident, o.volby.prezident);
-      processSnemovna(json.volby.snemovna, o.volby.snemovna);
-      processSnemovna(json.volby.kraje, o.volby.kraje);
-      processSnemovna(json.volby.eu, o.volby.eu);
+      if (town[0] != 554782) processPrezident(json.volby.prezident, o.volby.prezident);
+      if (town[0] != 554782) processSnemovna(json.volby.snemovna, o.volby.snemovna);
+      if (town[0] != 554782) processSnemovna(json.volby.kraje, o.volby.kraje);
+      if (town[0] != 554782) processSnemovna(json.volby.eu, o.volby.eu);
     } catch (e) {
-      console.log(town.nuts, e);
+      console.log(town[0], e);
     }
   });
 }
 
-function processFile(okres, kraj) {
+function processFile(list, okres, kraj) {
   var o = {
-    num: okres.num,
-    name: okres.name,
-    nuts: okres.nuts,
+    nuts: okres,
     kraj: {
-      num: kraj.num,
-      name: kraj.name
+      nuts: kraj.nuts
     },
     volby: {
       prezident: [],
@@ -150,17 +175,43 @@ function processFile(okres, kraj) {
     }
   }
 
-  processTowns(okres, o);
+  processTowns(list, o);
 
-  writeJSON(o, '../data/souhrny/okresy/' + o.num + '.json');
+  writeJSON(o, '../data/souhrny/okresy/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {prezident: o.volby.prezident}}, '../data/souhrny/okresy/prezident/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {snemovna: o.volby.snemovna}}, '../data/souhrny/okresy/snemovna/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {kraje: o.volby.kraje}}, '../data/souhrny/okresy/kraje/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {eu: o.volby.eu}}, '../data/souhrny/okresy/eu/' + o.nuts + '.json');
+
+  all.push(o);
 }
 
+var all = [];
+
 Promise.all([hierarchyFile]).then(values => {
-  values[0].hierarchy.list.forEach(reg => {
-    reg.list.forEach(kraj => {
-      kraj.list.forEach(okres => {
-        processFile(okres, kraj);
-      });
-    });
+
+  Object.keys(values[0].list).forEach(key => {
+    processFile(values[0].list[key], key, {nuts: key.substring(0, 5)});
   });
+
+  Object.keys(all[5].volby).forEach(type => {
+    all[5].volby[type].forEach(el => {
+
+      var o = {
+        type,
+        el: el.date || el.year,
+        list: []
+      }
+
+      all.forEach(kraj => {
+        o.list.push({
+          nuts: kraj.nuts,
+          results: kraj.volby[type].find(e => (e.date || e.year) === o.el)
+        })
+      });
+
+      writeJSON(o, '../data/souhrny/okresy/' + type + '/' + o.el + '/souhrn.json');
+
+    });
+  })
 });

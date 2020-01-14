@@ -49,11 +49,13 @@ function processPrezident (results, o) {
         round1: {
           voters: 0,
           votes: 0,
+          attended: 0,
           candidates: []
         },
         round2: {
           voters: 0,
           votes: 0,
+          attended: 0,
           candidates: []
         }
       };
@@ -63,9 +65,11 @@ function processPrezident (results, o) {
 
     el.round1.voters += election.round1.voters;
     el.round1.votes += election.round1.votes;
+    el.round1.attended += election.round1.attended;
 
     el.round2.voters += election.round2.voters;
     el.round2.votes += election.round2.votes;
+    el.round2.attended += election.round2.attended;
 
     election.round1.candidates.forEach(cand => {
       var c = el.round1.candidates.find (e => e.id === cand.id);
@@ -98,17 +102,32 @@ function processPrezident (results, o) {
 
       c.votes += cand.votes;
     });
+
+    election.round1.candidates.forEach(cand => {
+      var c = el.round1.candidates.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.round1.votes * 10000) / 100;
+    });
+
+    election.round2.candidates.forEach(cand => {
+      var c = el.round2.candidates.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.round2.votes * 10000) / 100;
+    });
   });
 }
 
-function processGeneric (results, o) {  results.forEach(election => {
+function processGeneric (results, o) {
+  results.forEach(election => {
     var el = o.find(e => e.year === election.year);
 
     if (!el) {
       el = {
         year: election.year,
         stats: {
-          voters: 0
+          voters: 0,
+          votes: 0,
+          attended: 0
         },
         result: []
       };
@@ -117,6 +136,7 @@ function processGeneric (results, o) {  results.forEach(election => {
     }
 
     el.stats.voters += election.stats.voters;
+    el.stats.attended += Math.round(election.stats.voters * election.stats.pct / 100);
 
     election.result.forEach(cand => {
       var c = el.result.find (e => e.id === cand.id);
@@ -133,6 +153,13 @@ function processGeneric (results, o) {  results.forEach(election => {
       }
 
       c.votes += cand.votes;
+      el.stats.votes += cand.votes;
+    });
+
+    election.result.forEach(cand => {
+      var c = el.result.find (e => e.id === cand.id);
+
+      c.pct = Math.round(c.votes / el.stats.votes * 10000) / 100;
     });
   });
 }
@@ -154,7 +181,7 @@ function processKraj(kraj, o, results) {
   kraj.list.forEach(okres => {
 
     try {
-      var content = fs.readFileSync('../data/souhrny/okresy/' + okres.num + '.json');
+      var content = fs.readFileSync('../data/souhrny/okresy/' + okres.nuts + '.json');
       var json = JSON.parse(content);
 
       processPrezident(json.volby.prezident, o.volby.prezident);
@@ -188,8 +215,16 @@ function processFile(kraj, results) {
 
   processKraj(kraj, o, results);
 
-  writeJSON(o, '../data/souhrny/kraje/' + o.num + '.json');
+  writeJSON(o, '../data/souhrny/kraje/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {prezident: o.volby.prezident}}, '../data/souhrny/kraje/prezident/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {snemovna: o.volby.snemovna}}, '../data/souhrny/kraje/snemovna/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {kraje: o.volby.kraje}}, '../data/souhrny/kraje/kraje/' + o.nuts + '.json');
+  writeJSON({nuts: o.nuts, volby: {eu: o.volby.eu}}, '../data/souhrny/kraje/eu/' + o.nuts + '.json');
+
+  all.push(o);
 }
+
+var all = [];
 
 Promise.all([hierarchyFile, getYearResultFile(2008), getYearResultFile(2012), getYearResultFile(2016)]).then(values => {
 
@@ -204,4 +239,25 @@ Promise.all([hierarchyFile, getYearResultFile(2008), getYearResultFile(2012), ge
       processFile(kraj, results);
     });
   });
+
+  Object.keys(all[5].volby).forEach(type => {
+    all[5].volby[type].forEach(el => {
+
+      var o = {
+        type,
+        el: el.date || el.year,
+        list: []
+      }
+
+      all.forEach(kraj => {
+        o.list.push({
+          nuts: kraj.nuts,
+          results: kraj.volby[type].find(e => (e.date || e.year) === o.el)
+        })
+      });
+
+      writeJSON(o, '../data/souhrny/kraje/' + type + '/' + o.el + '/souhrn.json');
+
+    });
+  })
 });
