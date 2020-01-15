@@ -10,12 +10,6 @@ function writeJSON (json, file) {
   });
 }
 
-var hierarchyFile = new Promise (function (resolve, reject) {
-  fs.readFile('../data/obecne/obce-flat.json', function(err, content) {
-    resolve(JSON.parse(content));
-  });
-});
-
 function processPrezident (results, o) {
   results.forEach(election => {
     var el = o.find(e => e.year === election.year);
@@ -104,7 +98,8 @@ function processSnemovna (results, o) {
         stats: {
           voters: 0,
           votes: 0,
-          attended: 0
+          attended: 0,
+          pct: 0
         },
         result: []
       };
@@ -131,6 +126,7 @@ function processSnemovna (results, o) {
 
       c.votes += cand.votes;
       el.stats.votes += cand.votes;
+      el.stats.pct = Math.round(el.stats.attended / el.stats.voters * 10000) / 100;
     });
 
     election.result.forEach(cand => {
@@ -141,77 +137,54 @@ function processSnemovna (results, o) {
   });
 }
 
-function processTowns(okres, o, except) {
+function processTowns(o, okres, mesto) {
 
-  okres.forEach(town => {
-
-    if (town.list) return;
-
+  values.list[okres].filter(t => t[7] && t[7] === mesto).forEach(town => {
     try {
-      var content = fs.readFileSync('../data/souhrny/obce/' + o.nuts + '/' + town[0] + '.json');
+      var content = fs.readFileSync('../data/souhrny/obce/' + okres + '/' + town[0] + '.json');
       var json = JSON.parse(content);
 
-      if (except.indexOf(town[0]) === -1) processPrezident(json.volby.prezident, o.volby.prezident);
-      if (except.indexOf(town[0]) === -1) processSnemovna(json.volby.snemovna, o.volby.snemovna);
-      if (except.indexOf(town[0]) === -1) processSnemovna(json.volby.kraje, o.volby.kraje);
-      if (except.indexOf(town[0]) === -1) processSnemovna(json.volby.eu, o.volby.eu);
+      processPrezident(json.volby.prezident, o.prezident);
+      processSnemovna(json.volby.snemovna, o.snemovna);
+      processSnemovna(json.volby.kraje, o.kraje);
+      processSnemovna(json.volby.eu, o.eu);
     } catch (e) {
       console.log(town[0], e);
     }
   });
 }
 
-function processFile(list, okres, kraj, except) {
+function processFile(okres, mesto) {
   var o = {
-    nuts: okres,
-    kraj: {
-      nuts: kraj.nuts
-    },
-    volby: {
-      prezident: [],
-      snemovna: [],
-      kraje: [],
-      eu: []
-    }
+    prezident: [],
+    snemovna: [],
+    kraje: [],
+    eu: []
   }
 
-  processTowns(list, o, except);
+  processTowns(o, okres, mesto);
 
-  writeJSON(o, '../data/souhrny/okresy/' + o.nuts + '.json');
-  writeJSON({nuts: o.nuts, volby: {prezident: o.volby.prezident}}, '../data/souhrny/okresy/prezident/' + o.nuts + '.json');
-  writeJSON({nuts: o.nuts, volby: {snemovna: o.volby.snemovna}}, '../data/souhrny/okresy/snemovna/' + o.nuts + '.json');
-  writeJSON({nuts: o.nuts, volby: {kraje: o.volby.kraje}}, '../data/souhrny/okresy/kraje/' + o.nuts + '.json');
-  writeJSON({nuts: o.nuts, volby: {eu: o.volby.eu}}, '../data/souhrny/okresy/eu/' + o.nuts + '.json');
+  var file = '../data/souhrny/obce/' + okres + '/' + mesto + '.json';
 
-  all.push(o);
+  var content = JSON.parse(fs.readFileSync(file));
+
+  content.volby.prezident = o.prezident;
+  content.volby.snemovna = o.snemovna;
+  content.volby.kraje = o.kraje;
+  content.volby.eu = o.eu;
+
+  writeJSON(content, file);
 }
 
-var all = [];
+var values = JSON.parse(fs.readFileSync('../data/obecne/obce-flat.json'));
 
-Promise.all([hierarchyFile]).then(values => {
+values.vycleneno.forEach(num => {
 
-  Object.keys(values[0].list).forEach(key => {
-    processFile(values[0].list[key], key, {nuts: key.substring(0, 5)}, values[0].vycleneno);
+  Object.keys(values.list).forEach(district => {
+    var town = values.list[district].find(t => t[0] === num);
+
+    if (town) {
+      processFile(district, num);
+    }
   });
-
-  Object.keys(all[5].volby).forEach(type => {
-    all[5].volby[type].forEach(el => {
-
-      var o = {
-        type,
-        el: el.date || el.year,
-        list: []
-      }
-
-      all.forEach(kraj => {
-        o.list.push({
-          nuts: kraj.nuts,
-          results: kraj.volby[type].find(e => (e.date || e.year) === o.el)
-        })
-      });
-
-      writeJSON(o, '../data/souhrny/okresy/' + type + '/' + o.el + '/souhrn.json');
-
-    });
-  })
 });
