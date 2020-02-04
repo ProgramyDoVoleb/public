@@ -38,6 +38,11 @@ electionList.forEach(y => {
         if (err) throw err;
       });
     }
+      if (!fs.existsSync(electionPath + y + '/mapy/obce-podle-okresu/')) {
+        fs.mkdir(electionPath + y + '/mapy/obce-podle-okresu/', err => {
+          if (err) throw err;
+        });
+      }
   }
 
   var partyList = JSON.parse(fs.readFileSync(electionPath + y + '/strany.json'));
@@ -47,6 +52,11 @@ electionList.forEach(y => {
     districts: [],
     regions: []
   };
+  var best5 = {
+    towns: [],
+    districts: [],
+    regions: []
+  }
 
   partyList.list.forEach(party => {
     parties.push({reg: party.reg, towns: [], districts: [], regions: []});
@@ -111,6 +121,28 @@ electionList.forEach(y => {
               }
             }
           });
+
+          // FIND BEST 5 IN TOWN
+
+          el.result.sort((a, b) => b.pct - a.pct);
+
+          var best = {
+            num: town.id,
+            list: []
+          }
+
+          for (var i = 0; i < 5; i++) {
+            if (el.result[i]) {
+              var p = {
+                reg: el.result[i].reg,
+                pct: el.result[i].pct
+              }
+
+              best.list.push([p.reg, p.pct]);
+            }
+          }
+
+          best5.towns.push([best.num, best.list]);
         }
       }
     });
@@ -173,6 +205,28 @@ electionList.forEach(y => {
             }
           }
         });
+
+        // FIND BEST 5 IN TOWN
+
+        district.results.result.sort((a, b) => b.pct - a.pct);
+
+        var best = {
+          num: district.nuts,
+          list: []
+        }
+
+        for (var i = 0; i < 5; i++) {
+          if (district.results.result[i]) {
+            var p = {
+              reg: district.results.result[i].reg,
+              pct: district.results.result[i].pct
+            }
+
+            best.list.push([p.reg, p.pct]);
+          }
+        }
+
+        best5.districts.push([best.num, best.list]);
       }
     });
   }
@@ -234,6 +288,28 @@ electionList.forEach(y => {
             }
           }
         });
+
+        // FIND BEST 5 IN TOWN
+
+        region.results.result.sort((a, b) => b.pct - a.pct);
+
+        var best = {
+          num: region.nuts,
+          list: []
+        }
+
+        for (var i = 0; i < 5; i++) {
+          if (region.results.result[i]) {
+            var p = {
+              reg: region.results.result[i].reg,
+              pct: region.results.result[i].pct
+            }
+
+            best.list.push([p.reg, p.pct]);
+          }
+        }
+
+        best5.regions.push([best.num, best.list]);
       }
     });
   }
@@ -242,6 +318,11 @@ electionList.forEach(y => {
   writeFile(attendance.towns, y + '/mapy/ucast-obce.json');
   writeFile(attendance.districts, y + '/mapy/ucast-okresy.json');
   writeFile(attendance.regions, y + '/mapy/ucast-kraje.json');
+
+  writeFile(best5, y + '/mapy/nej5.json');
+  writeFile(best5.towns, y + '/mapy/nej5-obce.json');
+  writeFile(best5.districts, y + '/mapy/nej5-okresy.json');
+  writeFile(best5.regions, y + '/mapy/nej5-kraje.json');
 
   parties.forEach(party => {
     writeFile(party, y + '/mapy/strany/' + party.reg + '.json');
