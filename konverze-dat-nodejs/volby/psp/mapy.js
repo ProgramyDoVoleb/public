@@ -5,6 +5,26 @@ var electionList = [2006, 2010, 2013, 2017];
 var electionPath = '../data/volby/psp/';
 var electionKey = 'snemovna';
 
+function getSize (size) {
+  if (size < 250) {
+    return 0
+  } else if (size < 1000) {
+    return 1
+  } else if (size < 2500) {
+    return 2
+  } else if (size < 10000) {
+    return 3
+  } else if (size < 25000) {
+    return 4
+  } else if (size < 100000) {
+    return 5
+  } else if (size < 1000000){
+    return 6
+  } else {
+    return 7
+  }
+}
+
 function writeFile (json, file) {
   fs.writeFile(electionPath + file, JSON.stringify(json), function(err) {
 
@@ -64,7 +84,7 @@ electionList.forEach(y => {
           }
 
           var obj = {
-            num: town.id,
+            num: [town.id, (town.hierarchy || {gps: {lng: 0}}).gps.lng, (town.hierarchy || {gps: {lnt: 0}}).gps.lnt, getSize(((town.stats || {population: [{value: 0}]}).population[(town.stats || {population: [{value: 0}]}).population.length - 1] || {value: 0}).value)],
             pct: el.stats.pct
           }
 
@@ -116,7 +136,7 @@ electionList.forEach(y => {
             if (party) {
 
               var res = {
-                num: town.id,
+                num: [town.id, (town.hierarchy || {gps: {lng: 0}}).gps.lng, (town.hierarchy || {gps: {lnt: 0}}).gps.lnt, getSize(((town.stats || {population: [{value: 0}]}).population[(town.stats || {population: [{value: 0}]}).population.length - 1] || {value: 0}).value)],
                 pct: result.pct
               };
 
@@ -146,7 +166,7 @@ electionList.forEach(y => {
           el.result.sort((a, b) => b.pct - a.pct);
 
           var best = {
-            num: town.id,
+            num: [town.id, (town.hierarchy || {gps: {lng: 0}}).gps.lng, (town.hierarchy || {gps: {lnt: 0}}).gps.lnt, getSize(((town.stats || {population: [{value: 0}]}).population[(town.stats || {population: [{value: 0}]}).population.length - 1] || {value: 0}).value)],
             list: []
           }
 
