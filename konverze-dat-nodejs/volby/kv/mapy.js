@@ -111,7 +111,7 @@ electionList.forEach(y => {
           }
 
           if (lastAttendance) {
-            var last = lastAttendance.towns.find(r => r[0] === obj.num);
+            var last = lastAttendance.towns.find(r => r[0][0] === obj.num[0]);
 
             if (last) {
               obj.diff = Math.round((obj.pct - last[1]) * 100) / 100;
