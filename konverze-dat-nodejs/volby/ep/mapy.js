@@ -23,39 +23,21 @@ electionList.forEach(y => {
 
   console.log(y, !!lastParties);
 
-  // vytvoří adresář v rámci voleb
-  if (!fs.existsSync(electionPath + y + '/mapy/')) {
-    fs.mkdir(electionPath + y + '/mapy/', err => {
-      if (err) throw err;
-    });
-
-    fs.mkdir(electionPath + y + '/mapy/strany/', err => {
-      if (err) throw err;
-    });
-  } else {
-    if (!fs.existsSync(electionPath + y + '/mapy/strany/')) {
-      fs.mkdir(electionPath + y + '/mapy/strany/', err => {
-        if (err) throw err;
-      });
-    }
-      if (!fs.existsSync(electionPath + y + '/mapy/obce-podle-okresu/')) {
-        fs.mkdir(electionPath + y + '/mapy/obce-podle-okresu/', err => {
-          if (err) throw err;
-        });
-      }
-  }
-
   var partyList = JSON.parse(fs.readFileSync(electionPath + y + '/strany.json'));
   var parties = [];
   var attendance = {
     towns: [],
     districts: [],
-    regions: []
+    regions: [],
+    tir: {},
+    tid: {}
   };
   var best5 = {
     towns: [],
     districts: [],
-    regions: []
+    regions: [],
+    tir: {},
+    tid: {}
   }
 
   partyList.list.forEach(party => {
@@ -70,9 +52,42 @@ electionList.forEach(y => {
         var el = town.volby[electionKey].find(e => e.year === y);
 
         if (el) {
+
+          var tir = {
+            attendance: undefined,
+            best5: undefined
+          }
+
+          var tid = {
+            attendance: undefined,
+            best5: undefined
+          }
+
           var obj = {
             num: town.id,
             pct: el.stats.pct
+          }
+
+          if (town.hierarchy && town.hierarchy.kraj && town.hierarchy.kraj.nuts) {
+            if (!attendance.tir[town.hierarchy.kraj.nuts]) attendance.tir[town.hierarchy.kraj.nuts] = [];
+            if (!best5.tir[town.hierarchy.kraj.nuts]) best5.tir[town.hierarchy.kraj.nuts] = [];
+
+            tir.attendance = attendance.tir[town.hierarchy.kraj.nuts];
+            tir.best5 = best5.tir[town.hierarchy.kraj.nuts];
+          } else {
+            tir.attendance = [];
+            tir.best5 = [];
+          }
+
+          if (town.hierarchy && town.hierarchy.okres && town.hierarchy.okres.nuts) {
+            if (!attendance.tid[town.hierarchy.okres.nuts]) attendance.tid[town.hierarchy.okres.nuts] = [];
+            if (!best5.tid[town.hierarchy.okres.nuts]) best5.tid[town.hierarchy.okres.nuts] = [];
+
+            tid.attendance = attendance.tid[town.hierarchy.okres.nuts];
+            tid.best5 = best5.tid[town.hierarchy.okres.nuts];
+          } else {
+            tid.attendance = [];
+            tid.best5 = [];
           }
 
           if (lastAttendance) {
@@ -87,8 +102,12 @@ electionList.forEach(y => {
             }
 
             attendance.towns.push([obj.num, obj.pct, obj.last, obj.diff]);
+            tir.attendance.push([obj.num, obj.pct, obj.last, obj.diff]);
+            tid.attendance.push([obj.num, obj.pct, obj.last, obj.diff]);
           } else {
             attendance.towns.push([obj.num, obj.pct]);
+            tir.attendance.push([obj.num, obj.pct]);
+            tid.attendance.push([obj.num, obj.pct]);
           }
 
           el.result.forEach(result => {
@@ -143,6 +162,8 @@ electionList.forEach(y => {
           }
 
           best5.towns.push([best.num, best.list]);
+          tir.best5.push([best.num, best.list]);
+          tid.best5.push([best.num, best.list]);
         }
       }
     });
@@ -314,15 +335,29 @@ electionList.forEach(y => {
     });
   }
 
-  writeFile(attendance, y + '/mapy/ucast.json');
   writeFile(attendance.towns, y + '/mapy/ucast-obce.json');
   writeFile(attendance.districts, y + '/mapy/ucast-okresy.json');
   writeFile(attendance.regions, y + '/mapy/ucast-kraje.json');
 
-  writeFile(best5, y + '/mapy/nej5.json');
   writeFile(best5.towns, y + '/mapy/nej5-obce.json');
   writeFile(best5.districts, y + '/mapy/nej5-okresy.json');
   writeFile(best5.regions, y + '/mapy/nej5-kraje.json');
+
+  Object.keys(attendance.tir).forEach(key => {
+    writeFile(attendance.tir[key], y + '/mapy/ucast/obce-podle-kraje/' + key + '.json');
+  });
+
+  Object.keys(attendance.tid).forEach(key => {
+    writeFile(attendance.tid[key], y + '/mapy/ucast/obce-podle-okresu/' + key + '.json');
+  });
+
+  Object.keys(best5.tir).forEach(key => {
+    writeFile(best5.tir[key], y + '/mapy/nej5/obce-podle-kraje/' + key + '.json');
+  });
+
+  Object.keys(best5.tid).forEach(key => {
+    writeFile(best5.tid[key], y + '/mapy/nej5/obce-podle-okresu/' + key + '.json');
+  });
 
   parties.forEach(party => {
     writeFile(party, y + '/mapy/strany/' + party.reg + '.json');
