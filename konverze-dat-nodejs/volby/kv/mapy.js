@@ -118,7 +118,7 @@ electionList.forEach(y => {
               obj.last = last[1];
             } else {
               obj.diff = 0;
-              obj.last = obj.pct
+              obj.last = 0;
             }
 
             attendance.towns.push([obj.num, obj.pct, obj.last, obj.diff]);
@@ -144,7 +144,7 @@ electionList.forEach(y => {
                 var partyLast = lastParties.find(p => p.reg === party.reg);
 
                 if (partyLast) {
-                  var partyLastRegion = partyLast.towns.find(r => r[0] === res.num);
+                  var partyLastRegion = partyLast.towns.find(r => r[0][0] === res.num[0]);
 
                   if (partyLastRegion) {
                     res.last = partyLastRegion[1];
@@ -208,7 +208,7 @@ electionList.forEach(y => {
             obj.last = last[1];
           } else {
             obj.diff = 0;
-            obj.last = obj.pct
+            obj.last = 0;
           }
 
           attendance.districts.push([obj.nuts, obj.pct, obj.last, obj.diff]);
@@ -291,7 +291,7 @@ electionList.forEach(y => {
             obj.last = last[1];
           } else {
             obj.diff = 0;
-            obj.last = obj.pct
+            obj.last = 0;
           }
 
           attendance.regions.push([obj.nuts, obj.pct, obj.last, obj.diff]);
