@@ -84,7 +84,7 @@
 			"id": 4,
 			"parties": [
 				{
-					"reg": 53,
+					"reg": [1, 53],
 					"leader": "Karel Jakobec"
 				},
 				{
@@ -101,7 +101,7 @@
 			"id": 5,
 			"parties": [
 				{
-					"reg": 53,
+					"reg": [1, 53],
 					"leader": "Jiří Kulhánek"
 				},
 				{

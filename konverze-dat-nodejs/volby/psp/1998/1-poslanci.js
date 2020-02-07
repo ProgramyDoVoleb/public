@@ -12,7 +12,7 @@ function writeFile (content, file) {
 
   console.log(file);
 
-  fs.writeFile('../../../zdroje/volby/psp/1998/' + file + '.html', str, function(err) {
+  fs.writeFile('../../zdroje/volby/psp/1998/' + file + '.html', str, function(err) {
       if(err) {
           return console.log(err);
       }

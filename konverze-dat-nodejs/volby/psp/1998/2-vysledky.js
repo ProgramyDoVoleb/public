@@ -3,7 +3,8 @@ const $ = require('cheerio');
 const fs = require('fs');
 const iconv = require('iconv-lite');
 
-const base = 'https://volby.cz/pls/ps1996/';
+const base = 'https://volby.cz/pls/ps1998/';
+const dir = '../../zdroje/volby/psp/1998/';
 
 function writeFile (content, file) {
   var cnt = iconv.decode(content, 'latin1');
@@ -12,12 +13,25 @@ function writeFile (content, file) {
 
   console.log(file);
 
-  fs.writeFile('../../../zdroje/volby/psp/1996/' + file + '.html', str, function(err) {
+  fs.writeFile('../../../zdroje/volby/psp/1998/' + file + '.html', str, function(err) {
       if(err) {
           return console.log(err);
       }
   });
 }
+
+function writeTowns () {
+  fs.writeFile(dir + 'hierarchie/mesta.json', JSON.stringify(towns), function(err) {
+
+      if(err) {
+          return console.log(err);
+      }
+
+      console.log("The file was saved!");
+  });
+}
+
+var towns = [];
 
 function scrape (url, target, deeper) {
 
@@ -52,15 +66,15 @@ function scrape (url, target, deeper) {
 
                   setTimeout(() => {
                     scrape(l, 'okresy/' + value2[1] + '-' + value[1])
-                  }, 150 * index)
+                  }, 30 * index)
                 }
                 if (type[0] === 'u5311') {
                   var value = keys[1].split('=');
                   var value2 = keys[0].split('=');
 
                   setTimeout(() => {
-                    scrape(l, 'obce/' + value2[1] + '-' + value[1], true)
-                  }, 15000 * index * Number(value2) - 30)
+                    scrape(l, 'hierarchie/' + value2[1] + '-' + value[1], true)
+                  }, 10 * index)
                 }
                 // https://volby.cz/pls/ps1996/u53112?xkraj=32&xokres=1&xobec=529303
                 if (type[0] === 'u53112') {
@@ -69,9 +83,10 @@ function scrape (url, target, deeper) {
                   var value2 = keys[0].split('=');
                   var value3 = keys[2].split('=');
 
-                  setTimeout(() => {
-                    scrape(l, 'obce/' + value2[1] + '-' + value[1] + '-' + value3[1])
-                  }, 350 * index)
+                  towns.push({
+                    link: l,
+                    target: 'obce/' + value2[1] + '-' + value[1] + '-' + value3[1]
+                  });
                 }
               } else {
                 var value = keys[0].split('=');
@@ -90,4 +105,6 @@ function scrape (url, target, deeper) {
     });
 }
 
-scrape('u53', 'main', true);
+scrape('u53', 'hierarchie/republika', true);
+
+setTimeout(() => writeTowns(), 15000);
