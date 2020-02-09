@@ -59,7 +59,7 @@ elec.forEach(type => {
               reg: party.reg,
               name: affected.reg != party.reg ? party.name : undefined,
               coalition: party.reg != affected.reg ? party.coalition : undefined,
-              pct: result.pct,
+              pct: result.pct || result.ptc,
               elected: result.elected.length
             });
           });
