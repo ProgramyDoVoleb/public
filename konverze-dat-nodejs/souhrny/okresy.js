@@ -129,8 +129,8 @@ function processSnemovna (results, o) {
         el.result.push(c);
       }
 
-      c.votes += cand.votes;
-      el.stats.votes += cand.votes;
+      c.votes += cand.votes || 0;
+      el.stats.votes += cand.votes || 0;
     });
 
     election.result.forEach(cand => {
