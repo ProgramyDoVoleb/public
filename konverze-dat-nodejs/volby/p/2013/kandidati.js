@@ -48,7 +48,7 @@ Promise.all([allPartiesFile, resultsFile]).then(function (values) {
       from: row.BYDLISTEN[0],
       fromID: Number(row.BYDLISTEK[0]),
       member: Number(row.PSTRANA[0]),
-      nomimee: Number(row.NSTRANA[0])
+      nominee: Number(row.NSTRANA[0])
     }
 
     json.list.push(person)

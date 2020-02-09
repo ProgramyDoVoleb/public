@@ -83,7 +83,7 @@ Promise.all([partiesFile, resultsFile, cvsFile]).then(function (values) {
       reg: 0,
       // name: strana.$.NAZ_STR,
       votes: Number(strana.HODNOTY_STRANA[0].$.HLASY),
-      ptc: Number(strana.HODNOTY_STRANA[0].$.PROC_HLASU),
+      pct: Number(strana.HODNOTY_STRANA[0].$.PROC_HLASU),
       elected: []
     }
 

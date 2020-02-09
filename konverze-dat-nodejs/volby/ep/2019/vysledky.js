@@ -90,7 +90,7 @@ Promise.all([partiesFile, resultsFile, cvsFile]).then(function (values) {
       reg: 0,
       // name: strana.$.NAZ_STR,
       votes: Number(strana.HLASY_STRANA[0].$.HLASY),
-      ptc: Number(strana.HLASY_STRANA[0].$.PROC_HLASU),
+      pct: Number(strana.HLASY_STRANA[0].$.PROC_HLASU),
       elected: []
     }
 
@@ -147,7 +147,7 @@ fs.readFile('../zdroje/obecne/cvs.xml', function(err, dataReg) {
                 var strana_o = {
                   id: Number(strana.$.ESTRANA),
                   votes: Number(strana.HLASY_STRANA[0].$.HLASY),
-                  ptc: Number(strana.HLASY_STRANA[0].$.PROC_HLASU),
+                  pct: Number(strana.HLASY_STRANA[0].$.PROC_HLASU),
                   elected: []
                 }
 

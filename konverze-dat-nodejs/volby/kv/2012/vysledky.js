@@ -50,7 +50,7 @@ fs.readFile('../zdroje/obecne/cvs-utf8.xml', function(err, dataReg) {
                     id: Number(strana.$.KSTRANA),
                     reg: Number(strana.$.VSTRANA),
                     votes: Number(strana.HODNOTY_STRANA[0].$.HLASY),
-                    ptc: Number(strana.HODNOTY_STRANA[0].$.PROC_HLASU),
+                    pct: Number(strana.HODNOTY_STRANA[0].$.PROC_HLASU),
                     elected: []
                   }
 
