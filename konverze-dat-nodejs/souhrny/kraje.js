@@ -12,6 +12,8 @@ var kraje = [
   { id: 8, num: 5300},
   { id: 9, num: 6100},
   { id: 10, num: 6200},
+  { id: 9, num: 6300},
+  { id: 10, num: 6400},
   { id: 11, num: 7100},
   { id: 12, num: 7200},
   { id: 13, num: 8100}
