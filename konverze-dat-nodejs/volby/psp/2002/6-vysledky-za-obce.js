@@ -59,9 +59,9 @@ electionFiles.forEach((file, index) => {
 
       var cells = $('br + br + table tr + tr + tr td', html);
 
-      stats.voters = Number(cells[3].children[0].data.split(' ').join(''));
-      stats.votes = Number(cells[6].children[0].data.split(' ').join(''));
-      stats.attended = Number(cells[4].children[0].data.split(' ').join(''));
+      stats.voters = Number(cells[3].children[0].data.split(' ').join(''));
+      stats.votes = Number(cells[6].children[0].data.split(' ').join(''));
+      stats.attended = Number(cells[4].children[0].data.split(' ').join(''));
       stats.pct = Number(cells[5].children[0].data);
 
       var resultCells = $('table + br + table td:nth-child(1), table + br + table td:nth-child(6) ', html);
