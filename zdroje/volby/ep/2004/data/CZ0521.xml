@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-2"?>
 <VYSLEDKY_OKRES xmlns="http://www.volby.cz/ep/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.volby.cz/ep/ ep_vysledky_okres.xsd"
-                 DATUM_GENEROVANI="08/12/2019" CAS_GENEROVANI="00:24:32">
+                 DATUM_GENEROVANI="09/02/2020" CAS_GENEROVANI="23:26:29">
 <OKRES NUTS_OKRES="CZ0521" NAZ_OKRES="Hradec Králové">
 <UCAST OKRSKY_CELKEM="262" OKRSKY_ZPRAC="262" OKRSKY_ZPRAC_PROC="100.00" ZAPSANI_VOLICI="129862" VYDANE_OBALKY="42086" UCAST_PROC="32.41" ODEVZDANE_OBALKY="41965" PLATNE_HLASY="41804" PLATNE_HLASY_PROC="99.62" />
 <HLASY_STRANA ESTRANA="1" HLASY="4902" PROC_HLASU="11.73" />

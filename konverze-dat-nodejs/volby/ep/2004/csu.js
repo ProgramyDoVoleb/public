@@ -35,7 +35,11 @@ request.get('https://volby.cz/opendata/ep2004/EP2004ciselniky.zip')
 // GENERIC
 
 function readXML (nuts) {
-  request.get('https://volby.cz/pls/ep2004/vysledky_okres?nuts=' + nuts)
+  var nuts2 = nuts;
+  if (nuts.substring(0, 5) === 'CZ063') nuts2 = nuts.split('063').join('061');
+  if (nuts.substring(0, 5) === 'CZ064') nuts2 = nuts.split('064').join('062');
+
+  request.get('https://volby.cz/pls/ep2004/vysledky_okres?nuts=' + nuts2)
          .pipe(iconv.decodeStream('iso-8859-2'))
          .pipe(iconv.encodeStream('utf8'))
          .pipe(fs.createWriteStream('../zdroje/volby/ep/2004/data/' + nuts + ".xml"));

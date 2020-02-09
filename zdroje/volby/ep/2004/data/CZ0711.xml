@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-2"?>
 <VYSLEDKY_OKRES xmlns="http://www.volby.cz/ep/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.volby.cz/ep/ ep_vysledky_okres.xsd"
-                 DATUM_GENEROVANI="08/12/2019" CAS_GENEROVANI="00:24:30">
+                 DATUM_GENEROVANI="09/02/2020" CAS_GENEROVANI="23:26:28">
 <OKRES NUTS_OKRES="CZ0711" NAZ_OKRES="Jeseník">
 <UCAST OKRSKY_CELKEM="49" OKRSKY_ZPRAC="49" OKRSKY_ZPRAC_PROC="100.00" ZAPSANI_VOLICI="33581" VYDANE_OBALKY="8255" UCAST_PROC="24.58" ODEVZDANE_OBALKY="8251" PLATNE_HLASY="8196" PLATNE_HLASY_PROC="99.33" />
 <HLASY_STRANA ESTRANA="1" HLASY="598" PROC_HLASU="7.30" />

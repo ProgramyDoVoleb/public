@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-2"?>
 <VYSLEDKY_OKRES xmlns="http://www.volby.cz/ep/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.volby.cz/ep/ ep_vysledky_okres.xsd"
-                 DATUM_GENEROVANI="08/12/2019" CAS_GENEROVANI="00:24:31">
+                 DATUM_GENEROVANI="09/02/2020" CAS_GENEROVANI="23:26:30">
 <OKRES NUTS_OKRES="CZ0802" NAZ_OKRES="Frýdek-Místek">
 <UCAST OKRSKY_CELKEM="225" OKRSKY_ZPRAC="225" OKRSKY_ZPRAC_PROC="100.00" ZAPSANI_VOLICI="180815" VYDANE_OBALKY="47947" UCAST_PROC="26.52" ODEVZDANE_OBALKY="47921" PLATNE_HLASY="47651" PLATNE_HLASY_PROC="99.44" />
 <HLASY_STRANA ESTRANA="1" HLASY="5743" PROC_HLASU="12.05" />

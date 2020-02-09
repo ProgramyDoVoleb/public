@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-2"?>
 <VYSLEDKY_OKRES xmlns="http://www.volby.cz/ep/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.volby.cz/ep/ ep_vysledky_okres.xsd"
-                 DATUM_GENEROVANI="08/12/2019" CAS_GENEROVANI="00:24:30">
+                 DATUM_GENEROVANI="09/02/2020" CAS_GENEROVANI="23:26:30">
 <OKRES NUTS_OKRES="CZ0803" NAZ_OKRES="Karviná">
 <UCAST OKRSKY_CELKEM="258" OKRSKY_ZPRAC="258" OKRSKY_ZPRAC_PROC="100.00" ZAPSANI_VOLICI="218993" VYDANE_OBALKY="44620" UCAST_PROC="20.38" ODEVZDANE_OBALKY="44575" PLATNE_HLASY="44318" PLATNE_HLASY_PROC="99.42" />
 <HLASY_STRANA ESTRANA="1" HLASY="4034" PROC_HLASU="9.10" />

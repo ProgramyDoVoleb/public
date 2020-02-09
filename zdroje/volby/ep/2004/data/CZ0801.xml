@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-2"?>
 <VYSLEDKY_OKRES xmlns="http://www.volby.cz/ep/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.volby.cz/ep/ ep_vysledky_okres.xsd"
-                 DATUM_GENEROVANI="08/12/2019" CAS_GENEROVANI="00:24:30">
+                 DATUM_GENEROVANI="09/02/2020" CAS_GENEROVANI="23:26:30">
 <OKRES NUTS_OKRES="CZ0801" NAZ_OKRES="Bruntál">
 <UCAST OKRSKY_CELKEM="153" OKRSKY_ZPRAC="153" OKRSKY_ZPRAC_PROC="100.00" ZAPSANI_VOLICI="82722" VYDANE_OBALKY="17887" UCAST_PROC="21.62" ODEVZDANE_OBALKY="17872" PLATNE_HLASY="17763" PLATNE_HLASY_PROC="99.39" />
 <HLASY_STRANA ESTRANA="1" HLASY="1185" PROC_HLASU="6.67" />
