@@ -79,7 +79,7 @@ var json = {
   votes: stats.votes,
   attended: stats.attended,
   pct: stats.pct,
-  list: []
+  parties: []
 }
 
 Object.keys(resultCells).forEach(cellID => {
@@ -102,7 +102,7 @@ Object.keys(resultCells).forEach(cellID => {
     obj.ptc = obj.pct;
   }
 
-  json.list.push(obj);
+  json.parties.push(obj);
 });
 
 fs.writeFile(targetDIR + 'vysledky.json', JSON.stringify(json), err => {console.log(err)});
