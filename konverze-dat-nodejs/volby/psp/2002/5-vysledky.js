@@ -51,12 +51,14 @@ electedFiles.forEach(file => {
           }
 
           electedByParty[id].push(
-            [
-              rows[row].children.filter(c => c.name)[5].children[0].data.trim(),
-              rows[row].children.filter(c => c.name)[4].children[0].data.split(' ')[1],
-              rows[row].children.filter(c => c.name)[4].children[0].data.split(' ')[0],
-              ''
-            ]
+            {
+              name: [
+                rows[row].children.filter(c => c.name)[5].children[0].data.trim(),
+                rows[row].children.filter(c => c.name)[4].children[0].data.split(' ')[1],
+                rows[row].children.filter(c => c.name)[4].children[0].data.split(' ')[0],
+                ''
+              ]
+            }
           );
         }
       }

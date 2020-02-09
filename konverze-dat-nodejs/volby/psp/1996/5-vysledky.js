@@ -31,7 +31,7 @@ function parseName(str) {
     name[0] = parts[2];
   }
 
-  return name;
+  return {name};
 }
 
 electedFiles.forEach(file => {
