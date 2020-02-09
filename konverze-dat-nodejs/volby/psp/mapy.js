@@ -1,7 +1,7 @@
 var fs = require('fs'),
     util = require('util');
 
-var electionList = [2006, 2010, 2013, 2017];
+var electionList = [1996, 1998, 2002, 2006, 2010, 2013, 2017];
 var electionPath = '../data/volby/psp/';
 var electionKey = 'snemovna';
 
@@ -380,7 +380,7 @@ electionList.forEach(y => {
   });
 
   parties.forEach(party => {
-    writeFile(party, y + '/mapy/strany/' + party.reg + '.json');
+    // writeFile(party, y + '/mapy/strany/' + party.reg + '.json');
     writeFile(party.towns, y + '/mapy/strany/' + party.reg + '-obce.json');
     writeFile(party.districts, y + '/mapy/strany/' + party.reg + '-okresy.json');
     writeFile(party.regions, y + '/mapy/strany/' + party.reg + '-kraje.json');
