@@ -59,7 +59,7 @@ elec.forEach(type => {
               reg: party.reg,
               name: affected.reg != party.reg ? party.name : undefined,
               coalition: party.reg != affected.reg ? party.coalition : undefined,
-              pct: result.ptc,
+              pct: result.pct,
               elected: result.elected.length
             });
           });
@@ -110,7 +110,7 @@ elec.forEach(type => {
                 reg: party.reg,
                 name: affected.reg != party.reg ? party.name : undefined,
                 coalition: party.reg != affected.reg ? party.coalition : undefined,
-                pct: result.ptc,
+                pct: result.pct,
                 elected: result.elected.length
               });
             });
@@ -129,7 +129,7 @@ elec.forEach(type => {
         var obj = {
           name: candidate.name,
           member: candidate.member,
-          nominee: candidate.nomimee,
+          nominee: candidate.nominee,
           elected: false
         }
 
@@ -223,7 +223,7 @@ elec.forEach(type => {
           var obj = {
             name: candidate.name,
             member: candidate.member,
-            nominee: candidate.nominee || candidate.nomimee,
+            nominee: candidate.nominee || candidate.nominee,
             elected: false
           }
 
@@ -375,7 +375,7 @@ elec.forEach(type => {
                   reg: party.reg,
                   name: affected.reg != party.reg ? party.name : undefined,
                   coalition: party.reg != affected.reg ? party.coalition : undefined,
-                  pct: result.pct || result.ptc,
+                  pct: result.pct || result.pct,
                   elected: result.seats
                 };
 
