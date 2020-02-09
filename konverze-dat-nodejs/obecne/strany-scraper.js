@@ -50,6 +50,8 @@ function toColor (num) {
   // return 'rgb(' + [r, g, b].join(',') + ')';
 }
 
+var color = JSON.parse(fs.readFileSync('../data/obecne/strany/barvy.json'));
+
 Object.keys(rows).forEach(row => {
 
   if (rows[row].children) {
@@ -66,7 +68,14 @@ Object.keys(rows).forEach(row => {
             party.short = rows[row].children[3].children[0].data;
           }
 
-          party.color = toColor(party.name.hashCode());
+          var c = color.find(p => p.reg === party.reg);
+
+          if (c) {
+            party.color = c.color;
+          } else {
+            party.color = toColor(party.name.hashCode());
+          }
+
           party.hash = betterURL(party.short || party.name);
 
           lastParty = party;
