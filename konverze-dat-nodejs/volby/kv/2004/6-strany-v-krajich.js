@@ -170,10 +170,11 @@ fs.writeFile(targetDIR + 'listiny.json', JSON.stringify(jsonCandidates), () => {
 var parties = JSON.parse(fs.readFileSync('../data/obecne/strany.json')).list;
 
 jsonCandidates.forEach(party => {
-  var node = parties.find(p => p.reg === party.reg);
+  var node = parties.find(p => p.reg === party.reg || p.short === party.short);
 
   if (node) {
     party.logo = node.logo;
+    party.reg = node.reg;
   }
 
   jsonParties.push(party);
