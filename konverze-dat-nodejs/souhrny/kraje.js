@@ -228,12 +228,14 @@ function processFile(kraj, results) {
 
 var all = [];
 
-Promise.all([hierarchyFile, getYearResultFile(2008), getYearResultFile(2012), getYearResultFile(2016)]).then(values => {
+Promise.all([hierarchyFile, getYearResultFile(2000), getYearResultFile(2004), getYearResultFile(2008), getYearResultFile(2012), getYearResultFile(2016)]).then(values => {
 
   var results = [
-    {year: 2008, results: values[1]},
-    {year: 2012, results: values[2]},
-    {year: 2016, results: values[3]}
+    {year: 2000, results: values[1]},
+    {year: 2004, results: values[2]},
+    {year: 2008, results: values[3]},
+    {year: 2012, results: values[4]},
+    {year: 2016, results: values[5]}
   ]
 
   values[0].hierarchy.list.forEach(reg => {

@@ -55,7 +55,7 @@ for (var i = 1; i < 14; i++) {
     if (cells.length === 10) {
 
       var person = {
-        name: parseName(cells[3].children[0].data),
+        name: parseName(cells[3].children[0].data).name,
         id: Number(cells[0].children[0].data)
       }
 
@@ -93,6 +93,8 @@ for (var i = 1; i < 14; i++) {
             pct: Number(cells[3].children[0].data.split(' ').join('')),
             elected: mandates.filter(m => m.id === party.id)
           }
+
+          result.elected.forEach(item => item.id = undefined);
 
           if (!region.parties.find(p => p.id === result.id)) {
             region.parties.push(result);
