@@ -112,7 +112,7 @@ var lastParty;
 
 var rowsCandidates = $('tr', htmlCandidates);
 
-Object.keys(rowsCandidates).forEach(row => {
+Object.keys(rowsCandidates).forEach((row, ix) => {
 
   if (rowsCandidates[row].children) {
 
@@ -139,7 +139,7 @@ Object.keys(rowsCandidates).forEach(row => {
           party.color = toColor(party.name.hashCode());
         }
       } else {
-        party.reg = 9999;
+        party.reg = 9000 + ix;
         party.color = '#aaa';
       }
 
