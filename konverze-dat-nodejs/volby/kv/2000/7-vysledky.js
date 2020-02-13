@@ -94,7 +94,9 @@ for (var i = 1; i < 14; i++) {
             elected: mandates.filter(m => m.id === party.id)
           }
 
-          region.parties.push(result);
+          if (!region.parties.find(p => p.id === result.id)) {
+            region.parties.push(result);
+          }
         }
       }
     })
