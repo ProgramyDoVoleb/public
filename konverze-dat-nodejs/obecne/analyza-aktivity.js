@@ -209,6 +209,7 @@ elec.forEach(type => {
 
   if (['senatni-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
+      try {
       var resultsAll = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json"));
       var candidatesAll = JSON.parse(fs.readFileSync("../" + el.path + "/kandidati.json")).list;
 
@@ -308,6 +309,9 @@ elec.forEach(type => {
           }
         });
       });
+    } catch (e) {
+      console.log("Neznámé volby", type.hash, el.label)
+    }
     });
   }
 
@@ -429,4 +433,4 @@ writeJSON(main, "../data/obecne/strany.json");
 
 var check = parties.find(p => p.reg === 53);
 
-console.log(util.inspect(check, false, null, true /* enable colors */));
+// console.log(util.inspect(check, false, null, true /* enable colors */));
