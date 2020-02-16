@@ -12,8 +12,8 @@ function parseName(str) {
 
   var parts = str.split(' ');
 
-  name[1] = parts[0].split(' ')[0].trim();
-  if (parts[0].split(' ')[1]) name[2] = parts[0].split(' ')[1].trim();
+  name[2] = parts[0].split(' ')[0].trim();
+  if (parts[0].split(' ')[1]) name[1] = parts[0].split(' ')[1].trim();
 
   if (parts[1]) {
     var titles = parts[1].split("CSc.");
@@ -89,5 +89,5 @@ list.forEach((dir, i) => {
     }), () => {})
 
     console.log(dir, 'done');
-  }, 1000 * i);
+  }, 100 * i);
 });

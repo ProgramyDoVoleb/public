@@ -114,8 +114,6 @@ list.forEach((dir, i) => {
             });
 
             passed = true;
-
-            console.log(id, candID);
           }
 
         }
