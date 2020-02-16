@@ -30,11 +30,15 @@ function parseName(str) {
 
 var parties = JSON.parse(fs.readFileSync('../data/obecne/strany.json'));
 
-function getPartyIDByShort (short) {
+function getPartyIDByShort (short, date) {
   var party = parties.list.find(p => (p.short || p.name).toLowerCase() === short.toLowerCase());
 
   if (party) {
-    return party.reg;
+    if (party.reg === 120 && date > 20100000) {
+      return 768;
+    } else {
+      return party.reg;
+    }
   }
 
   if (short === 'BEZPP') {
@@ -73,9 +77,9 @@ list.forEach((dir, i) => {
             obj.electionName = td[4].children[0].data;
             obj.nomineeName = td[5].children[0].data;
             obj.memberName = td[6].children[0].data;
-            obj.electionAs = getPartyIDByShort(td[4].children[0].data);
-            obj.nominee = getPartyIDByShort(td[5].children[0].data);
-            obj.member = getPartyIDByShort(td[6].children[0].data);
+            obj.electionAs = getPartyIDByShort(td[4].children[0].data, dir);
+            obj.nominee = getPartyIDByShort(td[5].children[0].data, dir);
+            obj.member = getPartyIDByShort(td[6].children[0].data, dir);
             obj.work = td[7].children[0].data;
             obj.from = td[8].children[0].data;
 
