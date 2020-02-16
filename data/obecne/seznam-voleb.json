@@ -81,6 +81,7 @@
 						20190412
 					],
 					"type":"extra",
+					"reason": "rezignace Zuzany Baudyšové",
 					"path":"data/volby/senat/20190405",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20190405",
@@ -137,6 +138,7 @@
 						20180525
 					],
 					"type":"extra",
+					"reason": "rezignace Františka Čuby",
 					"path":"data/volby/senat/20180518",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20180518",
@@ -165,6 +167,7 @@
 						20180112
 					],
 					"type":"extra",
+					"reason": "zvolení Jiřího Hlavatého poslancem",
 					"path":"data/volby/senat/20180105",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20180105",
@@ -193,6 +196,7 @@
 						20170203
 					],
 					"type":"extra",
+					"reason": "opakované volby",
 					"path":"data/volby/senat/20170127",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20170127",
@@ -277,6 +281,7 @@
 						20140926
 					],
 					"type":"extra",
+					"reason": "zvolení Jaromíra Štětiny do Evropského parlamentu",
 					"path":"data/volby/senat/20140919",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20140919",
@@ -305,6 +310,7 @@
 						20140117
 					],
 					"type":"extra",
+					"reason": "zvolení Tomio Okamury poslancem",
 					"path":"data/volby/senat/20140110",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20140110",
@@ -361,6 +367,7 @@
 						20110325
 					],
 					"type":"extra",
+					"reason": "úmrtí Jiřího Diensbiera",
 					"path":"data/volby/senat/20110318",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20110318",
@@ -443,6 +450,7 @@
 					"date":[20070427,20070504],
 					"timestamps":[11776824,11782872],
 					"type":"extra",
+					"reason": "zvolení Jitky Seitlové zástupkyní ombudsmana",
 					"path":"data/volby/senat/20070427",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
@@ -453,6 +461,7 @@
 					"date":[20070413,20070420],
 					"timestamps":[11764728,11770776],
 					"type":"extra",
+					"reason": "odstoupení Petra Skály ze zdravotních důvodů",
 					"path":"data/volby/senat/20070413",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
@@ -483,6 +492,7 @@
 					"date":[20041008,20041015],
 					"timestamps":[10972440,10978488],
 					"type":"extra",
+					"reason": "zvolení Josefa Zielence a Vladimíra Železného do Evropského parlamentu",
 					"path":"data/volby/senat/20041008",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
@@ -493,6 +503,7 @@
 					"date":[20031107,20031114],
 					"timestamps":[10682136,10688184],
 					"type":"extra",
+					"reason": "zvolení Dagmary Lastovecké ústavní soudkyní",
 					"path":"data/volby/senat/20031107",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
@@ -503,6 +514,7 @@
 					"date":[20031031,20031107],
 					"timestamps":[10676088,10682136],
 					"type":"extra",
+					"reason": "zvolení Pavla Rychetského ústavním soudcem",
 					"path":"data/volby/senat/20031031",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
@@ -532,6 +544,7 @@
 					"label": "1999/VIII",
 					"date":[19990828,19990905],
 					"timestamps":[9358488,9365400],
+					"reason": "úmrtí Václava Bendy",
 					"type":"extra",
 					"path":"data/volby/senat/19990828",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
