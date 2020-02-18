@@ -55,7 +55,8 @@
 			"id": 3,
 			"parties": [
 				{
-					"reg": 53,
+					"reg": [53, 721],
+					"name": "ODS s podporou TOP09 a nezávislých starostů",
 					"leader": "Ilona Mauritzová"
 				},
 				{
@@ -69,10 +70,6 @@
 				{
 					"reg": 720,
 					"leader": "Rudolf Špoták"
-				},
-				{
-					"reg": 721,
-					"leader": "Richard Pikner"
 				},
 				{
 					"reg": [1, 181, 1119],
@@ -112,6 +109,18 @@
 				{
 					"reg": 720,
 					"leader": "Karel Karika"
+				},
+				{
+					"reg": [5, 721, 1126],
+					"name": "Spojenci pro kraj"
+				},
+				{
+					"reg": 47,
+					"leader": "Radek Černý"
+				},
+				{
+					"reg": 7,
+					"leader": "Martin Klika"
 				}
 			]
 		},
@@ -176,6 +185,16 @@
 				{
 					"reg": 720,
 					"leader": "Hana Hajnová"
+				},
+				{
+					"reg": [53, 779],
+					"leader": "Vítězslav Schrek"
+				},
+				{
+					"reg": [166, 129],
+					"name": "Starostové pro Vysočinu",
+					"leader": "Lukáš Vlček",
+					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"]
 				}
 			]
 		},
@@ -215,7 +234,8 @@
 					"leader": "Jiří Zemánek"
 				},
 				{
-					"reg": 166
+					"reg": 166,
+					"leader": "Josef Suchánek"
 				},
 				{
 					"reg": 720,

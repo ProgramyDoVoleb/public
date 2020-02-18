@@ -15,7 +15,7 @@
 			"name": ["", "Zdeněk", "Bergman", ""],
 			"member": 99,
 			"nominee": 1187,
-			"support": [721],
+			"support": [721, 5],
 			"work": "ředitel gymnázia",
 			"links": [
 				{"url": "https://www.facebook.com/ZdenekBergmanTeplice/","icon":"fb"},
@@ -39,6 +39,7 @@
 			"name": ["", "Hynek", "Hanza", ""],
 			"member": 53,
 			"nominee": 53,
+			"support": 1,
 			"work": "primátor Teplic",
 			"links": [
 				{"url": "https://www.facebook.com/Hynek.Hanza.politik/", "icon": "fb"},
@@ -95,7 +96,10 @@
 		{
 			"name": ["", "Bohumil", "Ježek", ""],
 			"member": 99,
-			"nominee": 1114
+			"nominee": 1114,
+			"links": [
+				{"url": "https://www.facebook.com/bohumil.jezek.16", "icon": "fb"}
+			]
 		}
 	]
 }
