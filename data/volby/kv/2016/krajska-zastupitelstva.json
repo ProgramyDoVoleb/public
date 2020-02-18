@@ -2,7 +2,7 @@
   {
     "id": 1,
     "range": ["2017-11-20", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/1-stredocesky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/1-stredocesky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -110,7 +110,7 @@
   {
     "id": 2,
     "range": ["2017-04-01", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/2-jihocesky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/2-jihocesky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -223,7 +223,7 @@
   {
     "id": 3,
     "range": ["2016-11-21", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/3-plzensky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/3-plzensky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -327,7 +327,7 @@
   {
     "id": 4,
     "range": ["2017-03-01", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/4-karlovarsky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/4-karlovarsky-kraj.json",
     "parties": [
       {
         "reg": 768,
@@ -453,7 +453,7 @@
   {
     "id": 5,
     "range": ["2016-11-10", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/5-ustecky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/5-ustecky-kraj.json",
     "parties": [
       {
         "reg": 47,
@@ -570,7 +570,7 @@
   {
     "id": 6,
     "range": ["2016-11-22", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/6-liberecky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/6-liberecky-kraj.json",
     "parties": [
       {
         "reg": 703,
@@ -679,7 +679,7 @@
   {
     "id": 7,
     "range": ["2016-11-10", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/7-kralovehradecky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/7-kralovehradecky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -794,7 +794,7 @@
   {
     "id": 8,
     "range": ["2016-11-10", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/8-pardubicky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/8-pardubicky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -902,7 +902,7 @@
   {
     "id": 9,
     "range": ["2016-11-10", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/9-kraj-vysocina.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/9-kraj-vysocina.json",
     "parties": [
       {
         "reg": 7,
@@ -1007,7 +1007,7 @@
   {
     "id": 10,
     "range": ["2017-03-22", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/10-jihomoravsky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/10-jihomoravsky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -1127,7 +1127,7 @@
   {
     "id": 11,
     "range": ["2017-04-02", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/11-olomoucky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/11-olomoucky-kraj.json",
     "parties": [
       {
         "reg": 7,
@@ -1231,7 +1231,7 @@
   {
     "id": 12,
     "range": ["2016-11-10", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/12-zlinsky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/12-zlinsky-kraj.json",
     "parties": [
       {
         "reg": 1,
@@ -1341,7 +1341,7 @@
   {
     "id": 13,
     "range": ["2016-10-11", null],
-    "program": "data/volby/kv-2016/programove-prohlaseni/13-moravskoslezsky-kraj.json",
+    "program": "data/volby/kv/2016/programove-prohlaseni/13-moravskoslezsky-kraj.json",
     "parties": [
       {
         "reg": 1,
