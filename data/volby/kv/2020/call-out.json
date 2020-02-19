@@ -128,11 +128,68 @@
 			"id": 6,
 			"parties": [
 				{
-					"reg": 703
+					"reg": 703,
+					"leader": "Martin Půta",
+					"support": ["Unie pro sport a zdraví"],
+					"list": [
+						"Jaroslav Zámečník"
+					]
 				},
 				{
 					"reg": 720,
 					"leader": "Zbyněk Miklík"
+				},
+				{
+					"reg": 7,
+					"leader": "(návrh) Josef Jadrný"
+				},
+				{
+					"reg": 53,
+					"leader", "Dan Ramzer",
+					"list": [
+						"Vladimír Richter",
+						"Petr Židek",
+						"Pavel Jihlavec",
+						"Vít Němeček",
+						"Petr Beitl",
+						"Jiří Čeřovský",
+						"Jaroslav Švehla",
+						"Rostislav Polášek",
+						"Marek Hotovec",
+						"Jindřich Kvapil",
+						{
+							"name": "Jiří Kalenský",
+							"reg": 99
+						},
+						{
+							"name": "Micheal Dufek",
+							"reg": 99
+						}
+					]
+				},
+				{
+					"reg": [1, 721],
+					"list": [
+						{
+							"name": "Jiří Šolc",
+							"reg": 99
+						}
+					]
+				},
+				{
+					"name": "Pro krajinu",
+					"leader": "Josef Šedlbauer",
+					"support": [5]
+				},
+				{
+					"reg": 47,
+					"leader": "Stanislav Mackovík",
+					"list": [
+						"Jan Koros",
+						"František Pešek",
+						"Miloš Tita",
+						"Jan Dvořák"
+					]
 				}
 			]
 		},
@@ -211,11 +268,27 @@
 				},
 				{
 					"reg": 720,
-					"leader": "Lukáš Dubec"
+					"leader": "Lukáš Dubec",
+					"list": [
+						"Jiří Hlavenka"
+					]
 				},
 				{
 					"reg": [166, 158],
 					"leader": "Martin Maleček"
+				},
+				{
+					"reg": 768,
+					"leader": "Petr Vokřál",
+					"list": [
+						"Karin Šulcová",
+						"Bohumil Šimek",
+						"Taťána Malá"
+					]
+				},
+				{
+					"reg": 7,
+					"leader": "Marek Šlapal"
 				}
 			]
 		},
