@@ -201,7 +201,7 @@
 			"id": 7,
 			"parties": [
 				{
-					"reg": [1, 113, 1049],
+					"reg": [1, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": "Pavel Bělobrádek"
 				},
@@ -220,6 +220,10 @@
 				{
 					"reg": 47,
 					"leader": "Zdeněk Ondráček"
+				},
+				{
+					"reg": [721, 1049],
+					"support": [795]
 				}
 			]
 		},
