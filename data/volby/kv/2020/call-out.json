@@ -161,23 +161,14 @@
 						"Rostislav Polášek",
 						"Marek Hotovec",
 						"Jindřich Kvapil",
-						{
-							"name": "Jiří Kalenský",
-							"reg": 99
-						},
-						{
-							"name": "Micheal Dufek",
-							"reg": 99
-						}
+						{"name": "Jiří Kalenský", "reg": 99},
+						{"name": "Micheal Dufek", "reg": 99}
 					]
 				},
 				{
 					"reg": [1, 721],
 					"list": [
-						{
-							"name": "Jiří Šolc",
-							"reg": 99
-						}
+						{"name": "Jiří Šolc", "reg": 99}
 					]
 				},
 				{
@@ -232,11 +223,38 @@
 			"parties": [
 				{
 					"reg": [7],
-					"name": "3PK- Pro prosperující Pardubický kraj"
+					"name": "3PK- Pro prosperující Pardubický kraj",
+					"leader": "Martin Netolický"
 				},
 				{
 					"reg": 720,
 					"leader": "Daniel Lebduška"
+				},
+				{
+					"reg": 768,
+					"leader": "Martin Kolovratník",
+				},
+				{
+					"reg": [1, 181, 129]
+					"name": "Koalice pro Pardubický kraj",
+					"leader": "Roman Línek",
+					"support": ["Sdružení pro Pardubice"],
+					"list": [
+						{"name": "David Šimek", "reg": 181},
+						{"name": "René Živný", "reg": 129},
+						{"name": "Pavel Šotola", "reg": 1},
+						{"name": "Magdaléna Peterková", "reg": 99},
+						{"name": "Petr Hájek", "reg": 181},
+						{"name": "Ivan Jeník", "reg": 129},
+						{"name": "Radomil Kašpar", "reg": 1},
+						{"name": "František Jiraský", "reg": 181},
+						{"name": "Petr Řezníček", "reg": 129},
+						{"name": "Ondřej Výborný", "reg": 99},
+						{"name": "Věra Uhlířová", "reg": 181},
+						{"name": "Dušan Pávek", "reg": 1},
+						{"name": "Alena Jílková", "reg": 1},
+						{"name": "Eva Šmeralová", "reg": 129}
+					]
 				}
 			]
 		},

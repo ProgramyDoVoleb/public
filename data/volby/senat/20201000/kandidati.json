@@ -1,5 +1,14 @@
 {
 	"list": [
+    {
+      "name": ["", "Miroslava", "Němcová", ""],
+      "member": 53,
+      "nominee": 53,
+      "work": "poslankyně",
+      "links": [],
+      "reg": 27,
+      "status": "obvod je předmětem jednání"
+    },
 		{
 			"name": ["Ing.", "Vít", "Vomáčka", "MBA"],
 			"member": 53,
@@ -9,18 +18,17 @@
       "reg": 36
 		},
 		{
-			"name": ["", "Miroslava", "Němcová", ""],
-			"member": 53,
-			"nominee": 53,
-			"work": "poslankyně",
+			"name": ["Ing.", "Miloš", "Tita", ""],
+			"member": 47,
+			"nominee": 47,
+			"work": "krajský zastupitel",
 			"links": [],
-      "reg": 27,
-      "status": "obvod je předmětem jednání"
+      "reg": 36
 		},
 		{
 			"name": ["", "Pavel", "Kováčik", ""],
 			"member": 99,
-			"work": "",
+			"nominee": 99,
 			"links": [],
       "reg": 54
 		}
