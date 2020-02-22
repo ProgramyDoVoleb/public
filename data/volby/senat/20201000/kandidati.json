@@ -1,6 +1,13 @@
 {
 	"list": [
     {
+      "name": ["", "Markéta", "Monsportová", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "krajská zastupitelka",
+      "reg": 3
+    },
+    {
       "name": ["", "Miroslava", "Němcová", ""],
       "member": 53,
       "nominee": 53,
@@ -26,11 +33,17 @@
       "reg": 36
 		},
 		{
-			"name": ["", "Pavel", "Kováčik", ""],
-			"member": 99,
-			"nominee": 99,
+			"name": ["", "Jaroslav", "Petr", ""],
+			"nominee": 47,
 			"links": [],
-      "reg": 54
+      "reg": 60
+		},
+		{
+			"name": ["", "Radim", "Kravčík", ""],
+			"member": 720,
+			"nominee": 720,
+			"links": [],
+      "reg": 75
 		}
 	]
 }
