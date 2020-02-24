@@ -52,6 +52,10 @@
 				{
 					"reg": 166,
 					"leader": "Jiří Švec"
+				},
+				{
+					"reg": 768,
+					"leader": "František Konečný"
 				}
 			]
 		},
@@ -69,7 +73,7 @@
 				},
 				{
 					"reg": 7,
-					"leader": "Ivo Grüner"
+					"leader": "(nepotvrzeno) Ivo Grüner"
 				},
 				{
 					"reg": 720,
@@ -79,6 +83,14 @@
 					"reg": [1, 181, 1119],
 					"name": "Koalice pro Plzeňský kraj",
 					"leader": "Ivana Bartošová"
+				},
+				{
+					"reg": 768,
+					"leader": "Roman Zarzycký"
+				},
+				{
+					"reg": 47,
+					"leader": "Jiří Valenta"
 				}
 			]
 		},
@@ -101,6 +113,16 @@
 				{
 					"reg": 720,
 					"leader": "Josef Janů"
+				},
+				{
+					"reg": 112,
+					"name": "Místní",
+					"leader": "Patrik Pizinger"
+				},
+				{
+					"reg": [1118, 1028],
+					"leader": "Josef März",
+					"support": ["nezávislí starostové"]
 				}
 			]
 		},
@@ -130,7 +152,7 @@
 					]
 				},
 				{
-					"reg": [5, 721, 1126],
+					"reg": [5, 166, 721, 1126],
 					"name": "Spojenci pro kraj"
 				},
 				{
