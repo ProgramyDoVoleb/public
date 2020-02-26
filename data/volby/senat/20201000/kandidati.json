@@ -5,7 +5,26 @@
       "member": 720,
       "nominee": 720,
 			"work": "krajská zastupitelka",
+			"links": [
+				{"url": "https://twitter.com/MMonsportova", "icon": "tw"}
+			],
       "reg": 3
+    },
+    {
+      "name": ["", "Daniel", "Kůs", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupitel",
+      "links": [],
+      "reg": 9
+    },
+    {
+      "name": ["", "Michal", "Horák", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupiteů",
+      "links": [],
+      "reg": 12
     },
     {
       "name": ["", "Milan", "Štěch", ""],
@@ -24,6 +43,16 @@
       "reg": 27,
       "status": "obvod je předmětem jednání"
     },
+    {
+      "name": ["", "Adéla", "Šípová", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "v advokátní kanceláři",
+			"links": [
+				{"url": "https://twitter.com/adela_sipova", "icon": "tw"}
+			],
+      "reg": 30
+    },
 		{
 			"name": ["Ing.", "Vít", "Vomáčka", "MBA"],
 			"member": 53,
@@ -40,6 +69,34 @@
 			"links": [],
       "reg": 36
 		},
+    {
+      "name": ["", "Petr", "Jeník", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "zastupitel a webový developer",
+			"links": [
+				{"url": "https://twitter.com/PetrJenik", "icon": "tw"}
+			],
+      "reg": 36
+    },
+    {
+      "name": ["", "Cyril", "Koky", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "odborný referent pro oblast národnostních menšin",
+      "links": [],
+      "reg": 42
+    },
+    {
+      "name": ["", "Pavel", "Vacek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupitel",
+			"links": [
+				{"url": "https://twitter.com/PavelVacek_HK", "icon": "tw"}
+			],
+      "reg": 45
+    },
     {
       "name": ["", "Michal", "Šmarda", ""],
       "member": 7,
@@ -61,6 +118,16 @@
 			"links": [],
       "reg": 60
 		},
+    {
+      "name": ["", "Jiří", "Kadeřávek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "programátor a manažer",
+			"links": [
+				{"url": "https://twitter.com/Jiri_Kaderavek", "icon": "tw"}
+			],
+      "reg": 60
+    },
 		{
 			"name": ["", "Jiří", "Lajtoch", ""],
 			"nominee": 7,
@@ -69,11 +136,13 @@
       "reg": 63
 		},
 		{
-			"name": ["", "Pavel", "Ondřůj", ""],
+			"name": ["", "Pavel", "Ondrůj", ""],
 			"nominee": 720,
 			"member": 720,
 			"work": "manažer kultury Městského domu v Přerově",
-			"links": [],
+			"links": [
+				{"url": "https://twitter.com/OndrujPavel", "icon": "tw"}
+			],
       "reg": 63
 		},
 		{
@@ -103,7 +172,9 @@
 			"nominee": 1,
 			"member": 1,
 			"work": "starosta",
-			"links": [],
+			"links": [
+				{"url": "https://twitter.com/johnyfrantisek", "icon": "tw"}
+			],
       "reg": 66
 		},
 		{
@@ -111,9 +182,19 @@
 			"nominee": 720,
 			"member": 720,
 			"work": "bankovní specialista",
-			"links": [],
+			"links": [
+				{"url": "https://twitter.com/PiratZdenekZak", "icon": "tw"}
+			],
       "reg": 66
 		},
+    {
+      "name": ["", "Martin", "Tomášek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "místostarosta",
+      "links": [],
+      "reg": 72
+    },
 		{
 			"name": ["", "Radim", "Kravčík", ""],
 			"member": 720,

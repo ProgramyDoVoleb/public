@@ -359,7 +359,8 @@
 			"id": 11,
 			"parties": [
 				{
-					"reg": [1, 5, 721, 1039]
+					"reg": [1, 5, 721, 1039],
+					"leader": "Marián Jurečka"
 				},
 				{
 					"reg": 53,
@@ -376,6 +377,10 @@
 				{
 					"reg": 720,
 					"leader": "Petra Kapounka"
+				},
+				{
+					"reg": 768,
+					"leader": "Ladislav Okleštěk"
 				}
 			]
 		},
