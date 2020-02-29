@@ -35,6 +35,14 @@
       "reg": 15
     },
     {
+      "name": ["", "Jiří", "Burian", ""],
+      "member": 53,
+      "nominee": 53,
+      "work": "senátor",
+      "links": [],
+      "reg": 18
+		},
+    {
       "name": ["", "Miroslava", "Němcová", ""],
       "member": 53,
       "nominee": 53,
@@ -55,6 +63,16 @@
 			],
       "reg": 30
     },
+    {
+      "name": ["", "Jiří", "Dienstbier", ""],
+      "member": 7,
+      "nominee": 7,
+      "work": "senátor",
+      "links": [
+				{"url": "https://twitter.com/jiridienstbier", "icon": "tw"}
+			],
+      "reg": 30
+		},
 		{
 			"name": ["Ing.", "Vít", "Vomáčka", "MBA"],
 			"member": 53,
