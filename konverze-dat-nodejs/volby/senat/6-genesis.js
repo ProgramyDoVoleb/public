@@ -8,7 +8,15 @@ const targetDIR = '../data/volby/senat/';
 var elections = JSON.parse(fs.readFileSync('../data/obecne/seznam-voleb.json')).list.find(x => x.hash === 'senatni-volby').list;
 var genesis = {
   created: new Date().getTime(),
-  timeline: []
+  timeline: [],
+  senate: []
+}
+
+for (var i = 0; i < 81; i++) {
+  genesis.senate.push({
+    area: i + 1,
+    elected: undefined
+  })
 }
 
 list.forEach(date => {
@@ -34,10 +42,16 @@ list.forEach(date => {
 
       obj.elected.push(item);
 
+      genesis.senate[area.id - 1].elected = area.winner;
+
     });
+
+    fs.writeFile(targetDIR + '/' + date + '/senate.json', JSON.stringify(genesis.senate), () => {});
 
     genesis.timeline.push(obj);
   }
 });
+
+genesis.senate = undefined;
 
 fs.writeFile(targetDIR + 'genesis.json', JSON.stringify(genesis), () => {});
