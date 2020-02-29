@@ -46,7 +46,8 @@ list.forEach(date => {
 
     });
 
-    fs.writeFile(targetDIR + '/' + date + '/senate.json', JSON.stringify(genesis.senate), () => {});
+    fs.writeFileSync(targetDIR + '/' + date + '/senate.json', JSON.stringify(genesis.senate));
+    fs.chmodSync(targetDIR + '/' + date + '/senate.json', 0x755)
 
     genesis.timeline.push(obj);
   }
