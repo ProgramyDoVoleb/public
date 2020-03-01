@@ -55,7 +55,11 @@
 			"name": ["", "Jana", "Syslová", ""],
 			"member": 166,
 			"nominee": 166,
-			"work": "starostka Hrobčic"
+			"links": [
+				{"url": "https://www.facebook.com/janasyslova.tp/", "icon": "fb"}
+			],
+			"work": "starostka Hrobčic",
+			"program": "https://www.facebook.com/janasyslova.tp/posts/116158443304114"
 		},
 		{
 			"name": ["", "Zbyněk", "Šimbera", ""],
@@ -81,7 +85,8 @@
 			"nominee": "Trikolora",
 			"links": [
 				{"url": "https://www.facebook.com/profile.php?id=100009358249181", "icon": "fb"},
-				{"url": "https://twitter.com/pesek_senator", "icon": "tw"}
+				{"url": "https://twitter.com/pesek_senator", "icon": "tw"},
+				{"url": "https://instagram.com/pesek_senator", "icon": "ig"}
 			]
 		},
 		{
@@ -94,17 +99,13 @@
 			"program": "https://senatni-volby-2020.estranky.cz/clanky/eugen-sigismund-freimann.html"
 		},
 		{
-			"name": ["Bc.", "Jan", "Vondrouš", ""],
-			"member": 99,
-			"nominee": "Vize národních socialistů"
-		},
-		{
 			"name": ["", "Bohumil", "Ježek", ""],
 			"member": 99,
 			"nominee": 1114,
 			"links": [
 				{"url": "https://www.facebook.com/bohumil.jezek.16", "icon": "fb"}
-			]
+			],
+			"program": "https://www.facebook.com/photo.php?fbid=1541650132649981&set=a.250163365132004&type=3"
 		}
 	]
 }
