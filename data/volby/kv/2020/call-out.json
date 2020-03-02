@@ -52,6 +52,10 @@
 				{
 					"reg": 166,
 					"leader": "Jiří Švec"
+				},
+				{
+					"reg": 768,
+					"leader": "František Konečný"
 				}
 			]
 		},
@@ -69,7 +73,7 @@
 				},
 				{
 					"reg": 7,
-					"leader": "Ivo Grüner"
+					"leader": "(nepotvrzeno) Ivo Grüner"
 				},
 				{
 					"reg": 720,
@@ -79,6 +83,14 @@
 					"reg": [1, 181, 1119],
 					"name": "Koalice pro Plzeňský kraj",
 					"leader": "Ivana Bartošová"
+				},
+				{
+					"reg": 768,
+					"leader": "Roman Zarzycký"
+				},
+				{
+					"reg": 47,
+					"leader": "Jiří Valenta"
 				}
 			]
 		},
@@ -91,11 +103,26 @@
 				},
 				{
 					"reg": 47,
-					"leader": "Eva Valjentová"
+					"leader": "Eva Valjentová",
+					"list": [
+						"Martin Mareš",
+						"Pavel Hojda",
+						"Josef Borka"
+					]
 				},
 				{
 					"reg": 720,
 					"leader": "Josef Janů"
+				},
+				{
+					"reg": 112,
+					"name": "Místní",
+					"leader": "Patrik Pizinger"
+				},
+				{
+					"reg": [1118, 1028],
+					"leader": "Josef März",
+					"support": ["nezávislí starostové"]
 				}
 			]
 		},
@@ -112,10 +139,20 @@
 				},
 				{
 					"reg": 720,
-					"leader": "Karel Karika"
+					"leader": "Karel Karika",
+					"list": [
+						"Kateřina Stojanová",
+						"Vít Rous",
+						"Jiří Baudis",
+						"Jan Kranda",
+						"Vladimír Vlach",
+						"Lukáš Ryšavý",
+						"Hana Vodrážková",
+						"Ludmila Beutelová"
+					]
 				},
 				{
-					"reg": [5, 721, 1126],
+					"reg": [5, 166, 721, 1126],
 					"name": "Spojenci pro kraj"
 				},
 				{
@@ -301,7 +338,7 @@
 				},
 				{
 					"reg": [166, 158],
-					"leader": "Martin Maleček"
+					"leader": "František Lukl"
 				},
 				{
 					"reg": 768,
@@ -315,6 +352,14 @@
 				{
 					"reg": 7,
 					"leader": "Marek Šlapal"
+				},
+				{
+					"name": "Spolu pro Moravu",
+					"reg": [721, 5, 1190, "Idealisté", 795],
+					"leader": "Jan Vitula",
+					"list": [
+						"Jana Drápalová"
+					]
 				}
 			]
 		},
@@ -322,7 +367,8 @@
 			"id": 11,
 			"parties": [
 				{
-					"reg": [1, 5, 721, 1039]
+					"reg": [1, 5, 721, 1039],
+					"leader": "Marián Jurečka"
 				},
 				{
 					"reg": 53,
@@ -339,6 +385,10 @@
 				{
 					"reg": 720,
 					"leader": "Petra Kapounka"
+				},
+				{
+					"reg": 768,
+					"leader": "Ladislav Okleštěk"
 				}
 			]
 		},
@@ -348,6 +398,37 @@
 				{
 					"reg": 720,
 					"leader": "Hana Ančincová"
+				},
+				{
+					"reg": 166,
+					"leader": "Petr Gazdík"
+				},
+				{
+					"reg": 1,
+					"leader": "Jiří Čunek",
+					"status": "nejisté, rozhodnutí se očekává v březnu"
+				},
+				{
+					"reg": 7,
+					"leader": "Taťána Valentová Nersesjan"
+				},
+				{
+					"reg": 768,
+					"list": [
+						"Jiří Sukop",
+						"Pavel Pustějovský"
+					]
+				},
+				{
+					"reg": 53,
+					"leader": "Lubomír Traub",
+					"list": [
+						"Stanislav Blaha"
+					]
+				},
+				{
+					"reg": 47,
+					"leader": "Ivan Mařák"
 				}
 			]
 		},
@@ -357,6 +438,10 @@
 				{
 					"reg": 720,
 					"leader": "Zuzana Klusová"
+				},
+				{
+					"reg": 768,
+					"leader": "Ivo Vondrák"
 				}
 			]
 		}

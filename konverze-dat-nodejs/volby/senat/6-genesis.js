@@ -8,10 +8,20 @@ const targetDIR = '../data/volby/senat/';
 var elections = JSON.parse(fs.readFileSync('../data/obecne/seznam-voleb.json')).list.find(x => x.hash === 'senatni-volby').list;
 var genesis = {
   created: new Date().getTime(),
-  timeline: []
+  timeline: [],
+  senate: []
 }
 
-list.forEach(date => {
+var senate = [];
+
+for (var i = 0; i < 81; i++) {
+  senate.push({
+    area: i + 1,
+    elected: undefined
+  })
+}
+
+list.forEach((date, dateIndex) => {
   var el = elections.find(e => e.id === date);
   var result = JSON.parse(fs.readFileSync(targetDIR + date + '/vysledky.json'));
 
@@ -34,7 +44,53 @@ list.forEach(date => {
 
       obj.elected.push(item);
 
+      senate[area.id - 1].elected = area.winner;
+
     });
+
+    fs.writeFileSync(targetDIR + date + '/senate.json', JSON.stringify(senate));
+
+    var parties = [];
+
+    senate.forEach(senator => {
+
+      var member = parties.find(p => p.reg === senator.elected.member);
+
+      if (!member) {
+        parties.push({reg: senator.elected.member, members: 0, nominees: 0});
+        member = parties.find(p => p.reg === senator.elected.member);
+      }
+
+      var nominee = parties.find(p => p.reg === senator.elected.nominee);
+
+      if (!nominee) {
+        parties.push({reg: senator.elected.nominee, members: 0, nominees: 0});
+        nominee = parties.find(p => p.reg === senator.elected.nominee);
+      }
+
+      member.members++;
+      nominee.nominees++;
+    });
+
+    if (dateIndex > 0) {
+      parties.forEach(party => {
+        var partyPrevious = genesis.senate[dateIndex - 1].parties.find(p => p.reg === party.reg);
+
+        if (partyPrevious) {
+          party.diff = {
+            members: party.members - partyPrevious.members,
+            nominees: party.nominees - partyPrevious.nominees
+          }
+        } else {
+          party.diff = {
+            members: party.members,
+            nominees: party.nominees
+          }
+        }
+      });
+    }
+
+    genesis.senate.push({date, parties});
 
     genesis.timeline.push(obj);
   }

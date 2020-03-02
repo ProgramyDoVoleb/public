@@ -1,6 +1,32 @@
 {
 	"list": [
     {
+      "name": ["", "Markéta", "Monsportová", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "krajská zastupitelka",
+			"links": [
+				{"url": "https://twitter.com/MMonsportova", "icon": "tw"}
+			],
+      "reg": 3
+    },
+    {
+      "name": ["", "Daniel", "Kůs", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupitel",
+      "links": [],
+      "reg": 9
+    },
+    {
+      "name": ["", "Michal", "Horák", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupiteů",
+      "links": [],
+      "reg": 12
+    },
+    {
       "name": ["", "Milan", "Štěch", ""],
       "member": 7,
       "nominee": 7,
@@ -9,14 +35,44 @@
       "reg": 15
     },
     {
+      "name": ["", "Jiří", "Burian", ""],
+      "member": 53,
+      "nominee": 53,
+      "work": "senátor",
+      "links": [],
+      "reg": 18
+		},
+    {
       "name": ["", "Miroslava", "Němcová", ""],
       "member": 53,
       "nominee": 53,
       "work": "poslankyně",
-      "links": [],
+      "links": [
+				{"url": "https://twitter.com/Nemcova_Mirka", "icon": "tw"}
+			],
       "reg": 27,
       "status": "obvod je předmětem jednání"
     },
+    {
+      "name": ["", "Adéla", "Šípová", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "v advokátní kanceláři",
+			"links": [
+				{"url": "https://twitter.com/adela_sipova", "icon": "tw"}
+			],
+      "reg": 30
+    },
+    {
+      "name": ["", "Jiří", "Dienstbier", ""],
+      "member": 7,
+      "nominee": 7,
+      "work": "senátor",
+      "links": [
+				{"url": "https://twitter.com/jiridienstbier", "icon": "tw"}
+			],
+      "reg": 30
+		},
 		{
 			"name": ["Ing.", "Vít", "Vomáčka", "MBA"],
 			"member": 53,
@@ -34,19 +90,139 @@
       "reg": 36
 		},
     {
+      "name": ["", "Petr", "Jeník", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "zastupitel a webový developer",
+			"links": [
+				{"url": "https://twitter.com/PetrJenik", "icon": "tw"}
+			],
+      "reg": 36
+    },
+    {
+      "name": ["", "Cyril", "Koky", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "odborný referent pro oblast národnostních menšin",
+      "links": [],
+      "reg": 42
+    },
+    {
+      "name": ["", "Pavel", "Vacek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "městský zastupitel",
+			"links": [
+				{"url": "https://twitter.com/PavelVacek_HK", "icon": "tw"}
+			],
+      "reg": 45
+    },
+    {
       "name": ["", "Michal", "Šmarda", ""],
       "member": 7,
       "nominee": 7,
       "work": "starosta Nového Města na Moravě",
-      "links": [],
+      "links": [
+				{"url": "https://twitter.com/MichalSmarda", "icon": "tw"}
+			],
       "reg": 51
     },
 		{
 			"name": ["", "Pavel", "Kováčik", ""],
-			"member": 99,
-			"nominee": 99,
+			"member": 47,
+			"nominee": 47,
 			"links": [],
       "reg": 54
+		},
+		{
+			"name": ["", "Jaroslav", "Petr", ""],
+			"nominee": 47,
+			"links": [],
+      "reg": 60
+		},
+    {
+      "name": ["", "Jiří", "Kadeřávek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "programátor a manažer",
+			"links": [
+				{"url": "https://twitter.com/Jiri_Kaderavek", "icon": "tw"}
+			],
+      "reg": 60
+    },
+		{
+			"name": ["", "Jiří", "Lajtoch", ""],
+			"nominee": 7,
+			"member": 7,
+			"links": [],
+      "reg": 63
+		},
+		{
+			"name": ["", "Pavel", "Ondrůj", ""],
+			"nominee": 720,
+			"member": 720,
+			"work": "manažer kultury Městského domu v Přerově",
+			"links": [
+				{"url": "https://twitter.com/OndrujPavel", "icon": "tw"}
+			],
+      "reg": 63
+		},
+		{
+			"name": ["", "Miroslav", "Rajndl", ""],
+			"nominee": 47,
+			"member": 47,
+			"links": [],
+      "reg": 63
+		},
+		{
+			"name": ["", "Jaroslav", "Vomáčka", ""],
+			"nominee": 7,
+			"member": 7,
+			"links": [],
+      "reg": 66
+		},
+		{
+			"name": ["", "Marek", "Ošťádal", ""],
+			"nominee": 166,
+			"member": 166,
+			"work": "starosta",
+			"links": [],
+      "reg": 66
+		},
+		{
+			"name": ["", "František", "John", ""],
+			"nominee": 1,
+			"member": 1,
+			"work": "starosta",
+			"links": [
+				{"url": "https://twitter.com/johnyfrantisek", "icon": "tw"}
+			],
+      "reg": 66
+		},
+		{
+			"name": ["", "Zdeněk", "Žák", ""],
+			"nominee": 720,
+			"member": 720,
+			"work": "bankovní specialista",
+			"links": [
+				{"url": "https://twitter.com/PiratZdenekZak", "icon": "tw"}
+			],
+      "reg": 66
+		},
+    {
+      "name": ["", "Martin", "Tomášek", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "místostarosta",
+      "links": [],
+      "reg": 72
+    },
+		{
+			"name": ["", "Radim", "Kravčík", ""],
+			"member": 720,
+			"nominee": 720,
+			"links": [],
+      "reg": 75
 		}
 	]
 }
