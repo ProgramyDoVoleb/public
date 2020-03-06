@@ -383,12 +383,11 @@
 					"leader": "Jiří Zemánek"
 				},
 				{
-					"reg": 166,
-					"leader": "Josef Suchánek"
-				},
-				{
-					"reg": 720,
-					"leader": "Petra Kapounka"
+					"reg": [166, 720],
+					"leader": "Josef Suchánek",
+					"list": [
+						{"name": "Zdeňka Dvořáková Kocourková", "reg": 720}
+					]
 				},
 				{
 					"reg": 768,
