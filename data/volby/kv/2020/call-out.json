@@ -162,6 +162,14 @@
 				{
 					"reg": 7,
 					"leader": "Martin Klika"
+				},
+				{
+					"reg": 1114,
+					"leader": "Zdeněk Kettner",
+					"list": [
+						"Dominik Hanko",
+						{"name": "Jaroslav Foldyna", "reg": 99}
+					]
 				}
 			]
 		},
