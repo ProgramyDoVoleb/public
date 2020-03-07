@@ -15,7 +15,7 @@
 						20180119
 					],
 					"type":"regular",
-					"path":"data/volby/p/2018",
+					"path":"volby/p/2018",
 					"csu":{
 						"link":"https://volby.cz/pls/prez2018/pe",
 						"open-data":"https://volby.cz/opendata/prez2018/prez2018_opendata.htm"
@@ -43,7 +43,7 @@
 						20130118
 					],
 					"type":"regular",
-					"path":"data/volby/p/2013",
+					"path":"volby/p/2013",
 					"csu":{
 						"link":"https://volby.cz/pls/prez2013/pe",
 						"open-data":"https://volby.cz/opendata/prez2013/prez2013_opendata.htm"
@@ -82,7 +82,7 @@
 					],
 					"type":"extra",
 					"reason": "rezignace Zuzany Baudyšové",
-					"path":"data/volby/senat/20190405",
+					"path":"volby/senat/20190405",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20190405",
 						"open-data":"https://volby.cz/opendata/se2019/se2019_opendata.htm"
@@ -110,7 +110,7 @@
 						20181012
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20181005",
+					"path":"volby/senat/20181005",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20181005",
 						"open-data":"https://volby.cz/opendata/se2018/se2018_opendata.htm"
@@ -139,7 +139,7 @@
 					],
 					"type":"extra",
 					"reason": "rezignace Františka Čuby",
-					"path":"data/volby/senat/20180518",
+					"path":"volby/senat/20180518",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20180518",
 						"open-data":"https://volby.cz/opendata/se2018/se2018_opendata.htm"
@@ -168,7 +168,7 @@
 					],
 					"type":"extra",
 					"reason": "zvolení Jiřího Hlavatého poslancem",
-					"path":"data/volby/senat/20180105",
+					"path":"volby/senat/20180105",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20180105",
 						"open-data":"https://volby.cz/opendata/se2018/se2018_opendata.htm"
@@ -197,7 +197,7 @@
 					],
 					"type":"extra",
 					"reason": "opakované volby",
-					"path":"data/volby/senat/20170127",
+					"path":"volby/senat/20170127",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20170127",
 						"open-data":"https://volby.cz/opendata/se2017/se2017_opendata.htm"
@@ -225,7 +225,7 @@
 						20161014
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20161007",
+					"path":"volby/senat/20161007",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20161007",
 						"open-data":"https://volby.cz/opendata/se2016/se2016_opendata.htm"
@@ -253,7 +253,7 @@
 						20141017
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20141010",
+					"path":"volby/senat/20141010",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20141010",
 						"open-data":"https://volby.cz/opendata/se2014/se2014_opendata.htm"
@@ -282,7 +282,7 @@
 					],
 					"type":"extra",
 					"reason": "zvolení Jaromíra Štětiny do Evropského parlamentu",
-					"path":"data/volby/senat/20140919",
+					"path":"volby/senat/20140919",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20140919",
 						"open-data":"https://volby.cz/opendata/se2014/se2014_opendata.htm"
@@ -311,7 +311,7 @@
 					],
 					"type":"extra",
 					"reason": "zvolení Tomio Okamury poslancem",
-					"path":"data/volby/senat/20140110",
+					"path":"volby/senat/20140110",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20140110",
 						"open-data":"https://volby.cz/opendata/se2014/se2014_opendata.htm"
@@ -339,7 +339,7 @@
 						20121019
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20121012",
+					"path":"volby/senat/20121012",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20121012",
 						"open-data":"https://volby.cz/opendata/se2012/se2012_opendata.htm"
@@ -368,7 +368,7 @@
 					],
 					"type":"extra",
 					"reason": "úmrtí Jiřího Diensbiera",
-					"path":"data/volby/senat/20110318",
+					"path":"volby/senat/20110318",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20110318",
 						"open-data":"https://volby.cz/opendata/se2011/se2011_opendata.htm"
@@ -396,7 +396,7 @@
 						20101022
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20101015",
+					"path":"volby/senat/20101015",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20101015",
 						"open-data":"https://volby.cz/opendata/se2010/se2010_opendata.htm"
@@ -424,7 +424,7 @@
 						20081024
 					],
 					"type":"regular",
-					"path":"data/volby/senat/20081017",
+					"path":"volby/senat/20081017",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20081017",
 						"open-data":"https://volby.cz/opendata/se2008/se2008_opendata.htm"
@@ -451,7 +451,7 @@
 					"timestamps":[11776824,11782872],
 					"type":"extra",
 					"reason": "zvolení Jitky Seitlové zástupkyní ombudsmana",
-					"path":"data/volby/senat/20070427",
+					"path":"volby/senat/20070427",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -462,7 +462,7 @@
 					"timestamps":[11764728,11770776],
 					"type":"extra",
 					"reason": "odstoupení Petra Skály ze zdravotních důvodů",
-					"path":"data/volby/senat/20070413",
+					"path":"volby/senat/20070413",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -472,7 +472,7 @@
 					"date":[20061020,20061027],
 					"timestamps":[11613528,11619576],
 					"type":"regular",
-					"path":"data/volby/senat/20061020",
+					"path":"volby/senat/20061020",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -482,7 +482,7 @@
 					"date":[20041105,20041112],
 					"timestamps":[10996632,11002680],
 					"type":"regular",
-					"path":"data/volby/senat/20041105",
+					"path":"volby/senat/20041105",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -493,7 +493,7 @@
 					"timestamps":[10972440,10978488],
 					"type":"extra",
 					"reason": "zvolení Josefa Zielence a Vladimíra Železného do Evropského parlamentu",
-					"path":"data/volby/senat/20041008",
+					"path":"volby/senat/20041008",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -504,7 +504,7 @@
 					"timestamps":[10682136,10688184],
 					"type":"extra",
 					"reason": "zvolení Dagmary Lastovecké ústavní soudkyní",
-					"path":"data/volby/senat/20031107",
+					"path":"volby/senat/20031107",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -515,7 +515,7 @@
 					"timestamps":[10676088,10682136],
 					"type":"extra",
 					"reason": "zvolení Pavla Rychetského ústavním soudcem",
-					"path":"data/volby/senat/20031031",
+					"path":"volby/senat/20031031",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -525,7 +525,7 @@
 					"date":[20021025,20021101],
 					"timestamps":[10355544,10361592],
 					"type":"regular",
-					"path":"data/volby/senat/20021025",
+					"path":"volby/senat/20021025",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -535,7 +535,7 @@
 					"date":[20001112,20001119],
 					"timestamps":[9740376,9746424],
 					"type":"regular",
-					"path":"data/volby/senat/20001112",
+					"path":"volby/senat/20001112",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -546,7 +546,7 @@
 					"timestamps":[9358488,9365400],
 					"reason": "úmrtí Václava Bendy",
 					"type":"extra",
-					"path":"data/volby/senat/19990828",
+					"path":"volby/senat/19990828",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -556,7 +556,7 @@
 					"date":[19981114,19981121],
 					"timestamps":[9110520,9116568],
 					"type":"regular",
-					"path":"data/volby/senat/19981114",
+					"path":"volby/senat/19981114",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				},
@@ -566,7 +566,7 @@
 					"date":[19961116,19961123],
 					"timestamps":[8481528,8487576],
 					"type":"regular",
-					"path":"data/volby/senat/19961116",
+					"path":"volby/senat/19961116",
 					"csu":{"link":"https://volby.cz/","open-data":"https://volby.cz/opendata/"},
 					"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"candidates","path":"/kandidati.json"}]
 				}
@@ -586,7 +586,7 @@
 						20171020
 					],
 					"type":"regular",
-					"path":"data/volby/psp/2017",
+					"path":"volby/psp/2017",
 					"csu":{
 						"link":"https://volby.cz/cz/ps2017.htm",
 						"open-data":"https://volby.cz/opendata/ps2017/ps2017odata.htm"
@@ -612,7 +612,7 @@
 						20131025
 					],
 					"type":"regular",
-					"path":"data/volby/psp/2013",
+					"path":"volby/psp/2013",
 					"csu":{
 						"link":"https://volby.cz/pls/ps2013/ps",
 						"open-data":"https://volby.cz/opendata/ps2013/ps2013_opendata.htm"
@@ -638,7 +638,7 @@
 						20100528
 					],
 					"type":"regular",
-					"path":"data/volby/psp/2010",
+					"path":"volby/psp/2010",
 					"csu":{
 						"link":"https://volby.cz/pls/ps2010/ps",
 						"open-data":"https://volby.cz/opendata/ps2010/ps2010_opendata.htm"
@@ -664,7 +664,7 @@
 						20060603
 					],
 					"type":"regular",
-					"path":"data/volby/psp/2006",
+					"path":"volby/psp/2006",
 					"csu":{
 						"link":"https://volby.cz/pls/ps2006/ps",
 						"open-data":"https://volby.cz/opendata/ps2006/ps2006_opendata.htm"
@@ -690,7 +690,7 @@
 						20020614
 					],
 					"type":"regular",
-					"path":"data/volby/psp/2002",
+					"path":"volby/psp/2002",
 					"csu":{
 						"link":"https://volby.cz/",
 						"open-data":"https://volby.cz/opendata/"
@@ -716,7 +716,7 @@
 						19980619
 					],
 					"type":"regular",
-					"path":"data/volby/psp/1998",
+					"path":"volby/psp/1998",
 					"csu":{
 						"link":"https://volby.cz/",
 						"open-data":"https://volby.cz/opendata/"
@@ -742,7 +742,7 @@
 						19960531
 					],
 					"type":"regular",
-					"path":"data/volby/psp/1996",
+					"path":"volby/psp/1996",
 					"csu":{
 						"link":"https://volby.cz/",
 						"open-data":"https://volby.cz/opendata/"
@@ -777,7 +777,7 @@
 						20161007
 					],
 					"type":"regular",
-					"path":"data/volby/kv/2016",
+					"path":"volby/kv/2016",
 					"csu":{
 						"link":"https://volby.cz/pls/kz2016/kz?xjazyk=CZ&xdatum=20161007",
 						"open-data":"https://volby.cz/opendata/kz2016/kz2016_opendata.htm"
@@ -803,7 +803,7 @@
 						20121012
 					],
 					"type":"regular",
-					"path":"data/volby/kv/2012",
+					"path":"volby/kv/2012",
 					"csu":{
 						"link":"https://volby.cz/pls/kz2012/kz?xjazyk=CZ&xdatum=20121012",
 						"open-data":"https://volby.cz/opendata/kz2012/kz2012_opendata.htm"
@@ -829,7 +829,7 @@
 						20081017
 					],
 					"type":"regular",
-					"path":"data/volby/kv/2008",
+					"path":"volby/kv/2008",
 					"csu":{
 						"link":"https://volby.cz/pls/kz2008/kz?xjazyk=CZ&xdatum=20081017",
 						"open-data":"https://volby.cz/opendata/kz2008/kz2008_opendata.htm"
@@ -848,8 +848,8 @@
 						12242448
 					]
 				},
-				{"id":2004,"label":2004,"date":[20041105],"type":"regular","path":"data/volby/kv/2004","csu":{"link":"https://volby.cz/pls/kz2008/kz?xjazyk=CZ&xdatum=20081017","open-data":"https://volby.cz/opendata/kz2008/kz2008_opendata.htm"},"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"parties","path":"/strany.json"}],"timestamps":[10996128]},
-				{"id":2000,"label":2000,"date":[20001112],"type":"regular","path":"data/volby/kv/2000","csu":{"link":"https://volby.cz/pls/kz2008/kz?xjazyk=CZ&xdatum=20081017","open-data":"https://volby.cz/opendata/kz2008/kz2008_opendata.htm"},"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"parties","path":"/strany.json"}],"timestamps":[9739872]}
+				{"id":2004,"label":2004,"date":[20041105],"type":"regular","path":"volby/kv/2004","csu":{"link":"https://volby.cz/pls/kz2008/kz?xjazyk=CZ&xdatum=20081017","open-data":"https://volby.cz/opendata/kz2008/kz2008_opendata.htm"},"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"parties","path":"/strany.json"}],"timestamps":[10996128]},
+				{"id":2000,"label":2000,"date":[20001112],"type":"regular","path":"volby/kv/2000","csu":{"link":"https://volby.cz/pls/kz2008/kz?xjazyk=CZ&xdatum=20081017","open-data":"https://volby.cz/opendata/kz2008/kz2008_opendata.htm"},"files":[{"type":"all-results","path":"/vysledky.json"},{"type":"parties","path":"/strany.json"}],"timestamps":[9739872]}
 			]
 		},
 		{
@@ -867,7 +867,7 @@
 						20181005
 					],
 					"type":"regular",
-					"path":"data/volby/kom/2018",
+					"path":"volby/kom/2018",
 					"csu":{
 						"link":"https://www.volby.cz/pls/kv2018/kvs?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/kv2018/kv2018_opendata.htm"
@@ -886,7 +886,7 @@
 						20141010
 					],
 					"type":"regular",
-					"path":"data/volby/kom/2014",
+					"path":"volby/kom/2014",
 					"csu":{
 						"link":"https://www.volby.cz/pls/kv2014/kvs?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/kv2014/kv2014_opendata.htm"
@@ -905,7 +905,7 @@
 						20101015
 					],
 					"type":"regular",
-					"path":"data/volby/kom/2010",
+					"path":"volby/kom/2010",
 					"csu":{
 						"link":"https://www.volby.cz/pls/kv2010/kvs?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/kv2010/kv2010_opendata.htm"
@@ -924,7 +924,7 @@
 						20061020
 					],
 					"type":"regular",
-					"path":"data/volby/kom/2006",
+					"path":"volby/kom/2006",
 					"csu":{
 						"link":"https://www.volby.cz/pls/kv2006/kvs?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/kv2006/kv2006_opendata.htm"
@@ -952,7 +952,7 @@
 						20190524
 					],
 					"type":"regular",
-					"path":"data/volby/ep/2019",
+					"path":"volby/ep/2019",
 					"csu":{
 						"link":"https://volby.cz/pls/ep2019/ep?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/ep2019/ep2019_opendata.htm"
@@ -978,7 +978,7 @@
 						20140523
 					],
 					"type":"regular",
-					"path":"data/volby/ep/2014",
+					"path":"volby/ep/2014",
 					"csu":{
 						"link":"https://volby.cz/pls/ep2014/ep?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/ep2014/ep2014_opendata.htm"
@@ -1004,7 +1004,7 @@
 						20090605
 					],
 					"type":"regular",
-					"path":"data/volby/ep/2009",
+					"path":"volby/ep/2009",
 					"csu":{
 						"link":"https://volby.cz/pls/ep2009/ep?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/ep2009/ep2009_opendata.htm"
@@ -1030,7 +1030,7 @@
 						20040611
 					],
 					"type":"regular",
-					"path":"data/volby/ep/2004",
+					"path":"volby/ep/2004",
 					"csu":{
 						"link":"https://volby.cz/pls/ep2004/ep?xjazyk=CZ",
 						"open-data":"https://volby.cz/opendata/ep2004/ep2004_opendata.htm"
