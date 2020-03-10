@@ -2,11 +2,31 @@
 	"list": [
 		{
 			"reg": 32,
-			"id": -1,
+			"id": 1,
+			"name": ["Ing.", "Bohumil", "Ježek", ""],
+			"member": 1114,
+			"nominee": 1114,
+			"work": "pedagog, člen zastupitelstva Ústeckého kraje",
+			"from": "Ústí nad Labem",
+			"fromID": 554804,
+			"age": 43,
+			"links": [
+				{"url": "https://www.facebook.com/Bohumil-Je%C5%BEek-pedagog-zastupitel-%C3%9Asteck%C3%A9ho-kraje-kandid%C3%A1t-do-Sen%C3%A1tu-106622530942202/", "icon": "fb"}
+			],
+			"program": "https://www.facebook.com/photo.php?fbid=1541650132649981&set=a.250163365132004&type=3",
+			"photo": "lide/fotky/bohumil-jezek.jpg",
+			"sex": "m"
+		},
+		{
+			"reg": 32,
+			"id": 2,
 			"name": ["Mgr.", "Zuzana", "Schwarz Bařtipánová", ""],
 			"member": 768,
 			"nominee": 768,
-			"work": "starostka Bíliny",
+			"from": "Bílina",
+			"fromID": 567451,
+			"work": "starostka města Bílina",
+			"age": 42,
 			"links": [
 				{"url": "https://www.facebook.com/zuzanaschwarzbartipanova/", "icon": "fb"},
 				{"url": "https://www.instagram.com/cerna_bartipanka/", "icon": "ig"}
@@ -16,28 +36,37 @@
 		},
 		{
 			"reg": 32,
-			"id": -1,
-			"name": ["", "Zdeněk", "Bergman", ""],
+			"id": 3,
+			"name": ["PhDr. ThDr. Mgr.", "Eugen S.", "Freimann", "PhD., M.A."],
 			"member": 99,
-			"nominee": 1187,
-			"support": [5, 721, 795, 1126],
-			"work": "ředitel gymnázia",
+			"nominee": 137,
+			"age": 58,
+			"work": "vysokoškolský pedagog",
+			"from": "Teplice",
+			"fromID": 567442,
 			"links": [
-				{"url": "https://www.facebook.com/ZdenekBergmanTeplice/","icon":"fb"},
-				{"url": "https://www.instagram.com/zdenek_bergman/", "icon": "ig"},
-				{"url": "https://twitter.com/ZdenekBergman","icon":"tw"},
-				{"url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_Bergman_(pedagog)", "icon": "wiki"},
-				{"url": "https://www.hlidacstatu.cz/osoba/zdenek-bergman", "icon": "hs"}
+				{"url": "https://senatni-volby-2020.estranky.cz/"}
 			],
+			"program": "https://senatni-volby-2020.estranky.cz/clanky/eugen-sigismund-freimann.html",
+			"answers": [
+				"Samochvála smrdí, proto jen sděluji, že osobně jsem hrdý na každou věc, kterou mohu někomu pomoc, kdo to potřebuje a to permanentně a ne jen za poslední dobu!",
+				"Ochranu práv občanů , to je cíl, který  slibuje kde kdo a pak když je na výsluní nic pro občany nekoná…Tvrdě a důsledně.",
+				"Žádný odliv mozků neexistuje, neslyšel jsem o tom, že by byl nějaký „odliv mozků.“",
+				"To je v kompetenci pouze komunálních politiků a samosprávy obcí, aby řešila potřeby svých obyvatel ohledně sociálního bydlení.  Rád přiložím ruku k dílu."
+			],
+			"photo": "lide/fotky/eugen-s-freimann.jpg",
 			"sex": "m"
 		},
 		{
 			"reg": 32,
-			"id": -1,
+			"id": 4,
 			"name": ["", "Oldřich", "Bubeníček", ""],
 			"member": 47,
 			"nominee": 47,
-			"work": "hejtman kraje",
+			"age": 67,
+			"work": "novinář, hejtman Ústeckého kraje",
+			"from": "Bílina",
+			"fromID": 567451,
 			"links": [
 				{"url": "https://www.facebook.com/oldrich.bubenicek.9", "icon": "fb"},
 				{"url": "https://cs.wikipedia.org/wiki/Old%C5%99ich_Buben%C3%AD%C4%8Dek", "icon": "wiki"},
@@ -48,12 +77,15 @@
 		},
 		{
 			"reg": 32,
-			"id": 10,
+			"id": 5,
 			"name": ["", "Hynek", "Hanza", ""],
 			"member": 53,
 			"nominee": 53,
 			"support": [1],
-			"work": "primátor Teplic",
+			"age": 42,
+			"work": "primátor města Teplice",
+			"from": "Teplice",
+			"fromID": 567442,
 			"links": [
 				{"url": "https://www.facebook.com/Hynek.Hanza.politik/", "icon": "fb"},
 				{"url": "https://www.instagram.com/hynek_hanza/", "icon": "ig"},
@@ -72,7 +104,10 @@
 			"links": [
 				{"url": "https://www.facebook.com/janasyslova.tp/", "icon": "fb"}
 			],
+			"age": 46,
 			"work": "starostka Hrobčic",
+			"from": "Hrobčice",
+			"fromID": 567566,
 			"program": "https://www.facebook.com/janasyslova.tp/posts/116158443304114",
 			"answers": [
 				"Na Hrobčicku se mi podařilo mnoho dobrých věcí, některé bych dokonce přirovnala k zázraku.. V Mukově se zázrakem povedlo zachránit ohromný kostel. Ještě před jeho záchranou jsem zázračně vypátrala 60 let pohřbenou sochu Sv. Prokopa patrona obce, která již zase zdobí naši náves. Neuvěřitelným zázrakem, v který již nikdo ani nedoufal, byla záchrana kostela Sv. Jakuba v Mrzlicích. Ten byl dokonce na některých mapách označován již jen jako zřícenina kostela a dnes září do svého okolí a pořádáme v jeho úžasném prostoru kulturní akce. Zázrakem bylo i vybudování zahrady skřítka Hrobčíka v Mateřské školce Hrobčice. Projekt s 90% dotační podporou, měl na mále, v době jeho realizace (r.2014) jej podpořil jen velmi těsný počet zastupitelů a dnes jsme na zahradu pyšní a obdivují ji školky z celého regionu! Mimo to všechno budujeme tůně proti suchu, opravujeme naše návsi, místní komunikace i polní cesty. Povedlo se nastartovat občankou iniciativu, na našem území působí 16 spolků. Povedlo se mi přesvědčit zastupitele abychom koupili areál původní tvrze v Hrobčicích, jednu z nejstarších staveb na Hrobčicku a využili ji jako samosprávné centrum našich 9.obcí. Dnes již tu sídlí nově vzniklá jednotka dobrovolných hasičů a naše technické služby. Zahájili jsme i rekonstrukci samotné budovy historické tvrze s dotační podporou Ministerstva Pro Místní Rozvoj. Iniciovala jsem i převzetí ruiny zámku Mirošovice, jehož rekonstrukce také začne v letošním roce. Na rekonstrukci jsem získala 90% podporu z programu RE:START. Doposud se nám povedlo zachránit 2 velké kostely, 4 sochy, 6 kapliček, 4 Boží muka, 6 křížků, 5 pomníků, 3 barokní brány a 2 mohutné barokní schodiště. Trefný je citát od J.R.R.Tolkien \"Kde je vůle tam je cesta\". Naše krajina těmito klenoty zkrásněla. Naše obce se stali atraktivnější, příjemnější a navštěvovanější. Nemovitosti získali na ceně. Od roku 2006 máme o 50% více stálých obyvatel. Lidé se k nám rádi vracejí. Díky naučné stezce skřítka Hrobčíka, jsou Hrobčice známé po celém kraji. Stezka je velmi oblíbená a má nyní dokonce další novinku, vzniká zde „Dinosauří údolí“. Ještě není hotové a už vzbudilo velký zájem médií.",
@@ -85,19 +120,14 @@
 		},
 		{
 			"reg": 32,
-			"id": -1,
-			"name": ["", "Zbyněk", "Šimbera", ""],
-			"member": 7,
-			"nominee": 7,
-			"work": "starosta Duchcova",
-			"sex": "m"
-		},
-		{
-			"reg": 32,
 			"id": 8,
 			"name": ["Ing. Mgr.", "Zdeněk", "Pešek", "MBA"],
 			"member": "Trikolora",
 			"nominee": "Trikolora",
+			"age": 60,
+			"work": "ředitel Střední školy obchodu a služeb Teplice",
+			"from": "Teplice",
+			"fromID": 567442,
 			"links": [
 				{"url": "https://www.facebook.com/profile.php?id=100009358249181", "icon": "fb"},
 				{"url": "https://twitter.com/pesek_senator", "icon": "tw"},
@@ -107,34 +137,34 @@
 		},
 		{
 			"reg": 32,
-			"id": -1,
-			"name": ["PhDr. ThDr. Mgr.", "Eugen S.", "Freimann", "PhD., M.A."],
+			"id": 9,
+			"name": ["", "Zdeněk", "Bergman", ""],
 			"member": 99,
-			"nominee": 137,
+			"nominee": 1187,
+			"support": [5, 721, 795, 1126],
+			"age": 60,
+			"work": "ředitel gymnázia",
+			"from": "Teplice",
+			"fromID": 567442,
 			"links": [
-				{"url": "https://senatni-volby-2020.estranky.cz/"}
+				{"url": "https://www.facebook.com/ZdenekBergmanTeplice/","icon":"fb"},
+				{"url": "https://www.instagram.com/zdenek_bergman/", "icon": "ig"},
+				{"url": "https://twitter.com/ZdenekBergman","icon":"tw"},
+				{"url": "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_Bergman_(pedagog)", "icon": "wiki"},
+				{"url": "https://www.hlidacstatu.cz/osoba/zdenek-bergman", "icon": "hs"}
 			],
-			"program": "https://senatni-volby-2020.estranky.cz/clanky/eugen-sigismund-freimann.html",
-			"answers": [
-				"Samochvála smrdí, proto jen sděluji, že osobně jsem hrdý na každou věc, kterou mohu někomu pomoc, kdo to potřebuje a to permanentně a ne jen za poslední dobu!",
-				"Ochranu práv občanů , to je cíl, který  slibuje kde kdo a pak když je na výsluní nic pro občany nekoná…Tvrdě a důsledně.",
-				"Žádný odliv mozků neexistuje, neslyšel jsem o tom, že by byl nějaký „odliv mozků.“",
-				"To je v kompetenci pouze komunálních politiků a samosprávy obcí, aby řešila potřeby svých obyvatel ohledně sociálního bydlení.  Rád přiložím ruku k dílu."
-			],
-			"photo": "lide/fotky/eugen-s-freimann.jpg",
 			"sex": "m"
 		},
 		{
 			"reg": 32,
-			"id": -1,
-			"name": ["", "Bohumil", "Ježek", ""],
-			"member": 99,
-			"nominee": 1114,
-			"links": [
-				{"url": "https://www.facebook.com/Bohumil-Je%C5%BEek-pedagog-zastupitel-%C3%9Asteck%C3%A9ho-kraje-kandid%C3%A1t-do-Sen%C3%A1tu-106622530942202/", "icon": "fb"}
-			],
-			"program": "https://www.facebook.com/photo.php?fbid=1541650132649981&set=a.250163365132004&type=3",
-			"photo": "lide/fotky/bohumil-jezek.jpg",
+			"id": 10,
+			"name": ["", "Zbyněk", "Šimbera", ""],
+			"member": 7,
+			"nominee": 7,
+			"age": 56,
+			"from": "Duchcov",
+			"fromID": 567515,
+			"work": "starosta Duchcova",
 			"sex": "m"
 		}
 	]
