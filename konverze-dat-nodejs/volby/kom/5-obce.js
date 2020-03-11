@@ -1,11 +1,13 @@
 var fs = require('fs');
 const $ = require('cheerio');
 
-const target = '../data/souhrny/obce/';
-const dir = '../zdroje/volby/kom/';
+const target = '../../data/souhrny/obce/';
+const dir = '../../zdroje/volby/kom/';
 
 var list = JSON.parse(fs.readFileSync(dir + 'linksToFetch-4.json'));
-var townsListFile = JSON.parse(fs.readFileSync('../data/obecne/obce-flat.json'));
+var townsListFile = JSON.parse(fs.readFileSync('../../data/obecne/obce-flat.json'));
+var parties = JSON.parse(fs.readFileSync('../../data/obecne/strany.json'));
+
 var townsList = [];
 
 Object.keys(townsListFile.list).forEach(region => {
@@ -16,6 +18,29 @@ Object.keys(townsListFile.list).forEach(region => {
     ]);
   });
 });
+
+function getPartyIDByShort (short, date) {
+  var party = parties.list.find(p => (p.short || p.name).toLowerCase() === short.toLowerCase());
+
+  if (party) {
+    if (party.reg === 120 && date > 20100000) {
+      return 768;
+    } else {
+      return party.reg;
+    }
+  } else {
+    return 90;
+  }
+}
+
+function processName (str) {
+
+  var parts = str.split(' ');
+
+  if (parts.length === 1) parts = str.split(' ');
+
+  return [parts.length > 2 ? parts[2] : '', parts[1], parts[0], ''];
+}
 
 function processTownOld (json, results, people) {
   var date = $('.pismo4', results)[0].children[0].data.split('obcí ')[1].split('.');
@@ -33,8 +58,8 @@ function processTownOld (json, results, people) {
   var statsHTML = $('.pismo1 + br + br + table tr:nth-child(3) td', results);
 
   var stats = {
-    voters: Number(statsHTML[5].children[0].data),
-    pct: Number(statsHTML[7].children[0].data)
+    voters: Number(statsHTML[5].children[0].data.split(' ').join('')),
+    pct: Number(statsHTML[7].children[0].data.split(',').join('.'))
   }
 
   // RESULTS
@@ -48,8 +73,8 @@ function processTownOld (json, results, people) {
 
     var reso = {
       id:    0,
-      votes: Number(lineHTML[2].children[0].data),
-      pct:   Number(lineHTML[3].children[0].data),
+      votes: Number(lineHTML[2].children[0].data.split(' ').join('')),
+      pct:   Number(lineHTML[3].children[0].data.split(',').join('.')),
       reg:   0,
       name:  lineHTML[1].children[0].data,
       list: []
@@ -60,6 +85,8 @@ function processTownOld (json, results, people) {
     } else {
       reso.id = Number(lineHTML[0].children[0].data)
     }
+
+    reso.reg = getPartyIDByShort(reso.name);
 
     res.push(reso);
   }
@@ -75,7 +102,7 @@ function processTownOld (json, results, people) {
 
     var hum = {
       num:    Number(lineHTML[0].children[0].data),
-      name:  lineHTML[3].children[0].data
+      name:   processName(lineHTML[3].children[0].data)
     }
 
     ppl.push(hum);
@@ -97,7 +124,7 @@ function processTownOld (json, results, people) {
   json.push(obj);
 }
 
-function processTownNew (json, results, people) {
+function processTownNew (json, results, people, townID) {
   var date = $('h1', results)[0].children[0].data.split('obcí ')[1].split('.');
       date[2] = date[2].split('\n')[0]
 
@@ -108,8 +135,76 @@ function processTownNew (json, results, people) {
     json.splice(json.indexOf(ex), 1);
   }
 
+  // STATS
+
+  var statsHTML = $('h3 + table tr:nth-child(3) td', results);
+
+  if (statsHTML.length === 0) {
+    statsHTML = $('h3 + h4 + table tr:nth-child(3) td', results);
+  }
+
+  var stats = {
+    voters: Number(statsHTML[5].children[0].data.split(' ').join('')),
+    pct: Number(statsHTML[7].children[0].data.split(',').join('.'))
+  }
+
+  // RESULTS
+
+  var res = [];
+
+  var resHTML = $('table ~ table tr + tr + tr', results);
+
+  for (var i = 0; i < resHTML.length; i++) {
+    var lineHTML = $('td', resHTML[i]);
+
+    var reso = {
+      id:    0,
+      votes: Number(lineHTML[2].children[0].data.split(' ').join('')),
+      pct:   Number(lineHTML[3].children[0].data.split(',').join('.') ),
+      reg:   0,
+      name:  lineHTML[1].children[0].data,
+      list: []
+    }
+
+    reso.reg = getPartyIDByShort(reso.name);
+
+    if (lineHTML[0].children[0].children) {
+      reso.id = Number(lineHTML[0].children[0].children[0].data)
+    } else {
+      reso.id = Number(lineHTML[0].children[0].data)
+    }
+
+    res.push(reso);
+  }
+
+  // PEOPLE
+
+  var ppl = [];
+
+  var pplHTML = $('table tr + tr + tr', people);
+
+  for (var i = 0; i < pplHTML.length; i++) {
+    var lineHTML = $('td', pplHTML[i]);
+
+    var hum = {
+      num:    Number(lineHTML[0].children[0].data),
+      name:   processName(lineHTML[3].children[0].data)
+    }
+
+    ppl.push(hum);
+
+    res.find(r => r.id === hum.num).list.push(hum);
+  }
+
+  // OBJ
+
   var obj = {
-    id: label
+    id: label,
+    stats,
+    parts: [{
+      stats,
+      results: res
+    }]
   };
 
   json.push(obj);
@@ -117,7 +212,7 @@ function processTownNew (json, results, people) {
 
 list.forEach((link, i) => {
 
-  if (i > 5) return;
+  // if (i > 5) return;
 
   var spl = link.split('/');
   var params = spl[1].split('-');
@@ -134,17 +229,17 @@ list.forEach((link, i) => {
       var results = fs.readFileSync(dir + link + '-vysledky.html').toString();
       var people = fs.readFileSync(dir + link + '-mandaty.html').toString();
 
-      console.log(town[1], town[0], 'process');
+      console.log(spl[0], town[1], town[0], 'process');
 
       if (spl[0] === 'kv1998' || spl[0] === 'kv2002') {
-        processTownOld(json.volby.obce, results, people);
+        processTownOld(json.volby.obce, results, people, townID);
       } else {
-        processTownNew(json.volby.obce, results, people);
+        processTownNew(json.volby.obce, results, people, townID);
       }
 
       fs.writeFileSync(file, JSON.stringify(json));
 
-      console.log(town[1], town[0], 'saved');
+      // console.log(town[1], town[0], 'saved');
     } else {
       console.log(townID, 'not in this region (' + town[1] + ') -› skip');
     }
