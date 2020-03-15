@@ -1,12 +1,12 @@
 var fs = require('fs');
 const $ = require('cheerio');
 
-const target = '../../data/souhrny/obce/';
-const dir = '../../zdroje/volby/kom/';
+const target = '../data/souhrny/obce/';
+const dir = '../zdroje/volby/kom/';
 
 var list = JSON.parse(fs.readFileSync(dir + 'linksToFetch-4.json'));
-var townsListFile = JSON.parse(fs.readFileSync('../../data/obecne/obce-flat.json'));
-var parties = JSON.parse(fs.readFileSync('../../data/obecne/strany.json'));
+var townsListFile = JSON.parse(fs.readFileSync('../data/obecne/obce-flat.json'));
+var parties = JSON.parse(fs.readFileSync('../data/obecne/strany.json'));
 
 var townsList = [];
 

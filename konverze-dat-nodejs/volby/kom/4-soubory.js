@@ -45,7 +45,7 @@ list.forEach((d, i) => {
       fs.mkdirSync(dir + date);
     }
 
-    // writeFile(link, date + '/' + file);
+    writeFile(link, date + '/' + file);
 
     console.log(i, 'of', list.length);
   }, i * 30);

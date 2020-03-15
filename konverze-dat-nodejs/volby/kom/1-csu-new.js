@@ -59,7 +59,7 @@ function scrape (url, target, deeper, date, xid) {
                 if (type[0] === 'kv12') {
                   setTimeout(() => {
                     scrape(date + '/' + l, date + '-' + xid + '/helpers/' + type[0] + '-' + xid, true, date, xid);
-                  }, 3000 * index)
+                  }, 300 * index)
                 }
               }
 
@@ -70,7 +70,7 @@ function scrape (url, target, deeper, date, xid) {
 
                   setTimeout(() => {
                     scrape(date + '/' + l, date + '-' + xid + '/helpers/' + type[0] + '-' + xid + '-' + nuts[1], false, date, xid);
-                  }, 1000 * index)
+                  }, 100 * index)
                 }
               }
 
@@ -81,7 +81,7 @@ function scrape (url, target, deeper, date, xid) {
 
                   setTimeout(() => {
                     scrape(date + '/' + l, date + '-' + xid + '/helpers/' + type[0] + '-' + xid + '-' + nuts[1], false, date, xid);
-                  }, 1000 * index)
+                  }, 100 * index)
                 }
               }
 
@@ -133,6 +133,8 @@ function scrape (url, target, deeper, date, xid) {
     });
 }
 
+/**
+
 list.forEach((d, i) => {
 
   var id = Object.keys(d)[0];
@@ -160,6 +162,11 @@ list.forEach((d, i) => {
 
 });
 
+*/
+
+// https://volby.cz/pls/kv2018/kv12?xjazyk=CZ&xid=10
+scrape('kv2018/kv12?xjazyk=CZ&xid=10', 'kv2018/10-prehled', true, 'kv2018', 10);
+
 setTimeout(() => {
 
   console.log("SORTING");
@@ -167,4 +174,4 @@ setTimeout(() => {
   linksToFetch.sort((a, b) => a.localeCompare(b, 'cs'));
 
   fs.writeFileSync(dir + 'linksToFetch.json', JSON.stringify(linksToFetch));
-}, 30000 * (list.length + 2))
+}, 4000)
