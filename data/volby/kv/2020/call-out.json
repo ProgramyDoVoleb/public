@@ -249,7 +249,7 @@
 			"id": 7,
 			"parties": [
 				{
-					"reg": [1, 113],
+					"reg": [1, 88, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": "Pavel Bělobrádek"
 				},
@@ -270,8 +270,14 @@
 					"leader": "Zdeněk Ondráček"
 				},
 				{
+					"name": "Spojenci pro Královéhradecký kraj",
 					"reg": [721, 1049],
-					"support": [795]
+					"support": [795],
+					"leader": "Aleš Cabicar"
+				},
+				{
+					"reg": 7,
+					"leader": "Jiří Štěpán"
 				}
 			]
 		},
