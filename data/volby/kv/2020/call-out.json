@@ -31,7 +31,12 @@
 			"parties": [
 				{
 					"reg": 1,
-					"leader": "František Talíř"
+					"leader": "František Talíř",
+					"list": [
+						"Robert Huneš",
+						"Šimon Heller",
+						"Jan Bartošek"
+					]
 				},
 				{
 					"reg": 53,
@@ -81,7 +86,16 @@
 				},
 				{
 					"reg": 7,
-					"leader": "(nepotvrzeno) Ivo Grüner"
+					"leader": "Ivo Grüner",
+					"list": [
+						"Jaroslav Šobr",
+						"Jiří Struček",
+						"Milada Emmerová",
+						"Milena Stárková",
+						"Jan Látka",
+						"Václav Šimánek",
+						"Michal Černý"
+					]
 				},
 				{
 					"reg": 720,
@@ -198,7 +212,18 @@
 				},
 				{
 					"reg": 720,
-					"leader": "Zbyněk Miklík"
+					"leader": "Zbyněk Miklík",
+					"list": [
+						"Václav Židek",
+						"Jarmila Valešová",
+						"Jan Tempel",
+						"Daniela Weissová",
+						"Marek Förster",
+						"Ondřej Víteček",
+						"Ondřej Novosad",
+						"Helena Vondráková",
+						"Petr Vyhnal"
+					]
 				},
 				{
 					"reg": 7,
@@ -224,8 +249,13 @@
 				},
 				{
 					"reg": [1, 721],
+					"name": "Společně pro Liberecký kraj",
+					"leader": "Jiří Klápště",
 					"list": [
-						{"name": "Jiří Šolc", "reg": 99}
+						{"name": "Štěpán Matek", "reg": 1},
+						{"name": "Jiří Šolc", "reg": 99},
+						{"name": "Josef Šimůnek", "reg": 1},
+						{"name": "Miloslav Václav", "reg": 721}
 					]
 				},
 				{
