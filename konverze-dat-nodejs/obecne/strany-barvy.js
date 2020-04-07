@@ -1,16 +1,15 @@
 var fs = require('fs');
 
 var parties = JSON.parse(fs.readFileSync('../data/obecne/strany.json'));
+var color = JSON.parse(fs.readFileSync('../data/obecne/strany/barvy.json'));
 
-var color = [];
+color.forEach((item, i) => {
+  var party = parties.list.find(x => x.reg === item.reg);
 
-parties.list.forEach(party => {
-  if (party.color != '#aaa') {
-    color.push({
-      reg: party.reg,
-      color: party.color
-    })
+  if (party) {
+    party.color = item.color;
   }
 });
 
-fs.writeFile('../data/obecne/strany/barvy.json', JSON.stringify(color), err => {})
+
+fs.writeFile('../data/obecne/strany.json', JSON.stringify(parties), err => {})
