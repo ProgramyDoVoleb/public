@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "attended": 34.76,
     "range": ["2017-11-20", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/1-stredocesky-kraj.json",
     "parties": [
@@ -109,6 +110,7 @@
   },
   {
     "id": 2,
+    "attended": 36.31,
     "range": ["2017-04-01", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/2-jihocesky-kraj.json",
     "parties": [
@@ -222,6 +224,7 @@
   },
   {
     "id": 3,
+    "attended": 35.74,
     "range": ["2016-11-21", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/3-plzensky-kraj.json",
     "parties": [
@@ -326,6 +329,7 @@
   },
   {
     "id": 4,
+    "attended": 30.23,
     "range": ["2017-03-01", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/4-karlovarsky-kraj.json",
     "parties": [
@@ -452,6 +456,7 @@
   },
   {
     "id": 5,
+    "attended": 28.94,
     "range": ["2016-11-10", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/5-ustecky-kraj.json",
     "parties": [
@@ -569,6 +574,7 @@
   },
   {
     "id": 6,
+    "attended": 35.91,
     "range": ["2016-11-22", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/6-liberecky-kraj.json",
     "parties": [
@@ -678,6 +684,7 @@
   },
   {
     "id": 7,
+    "attended": 37.33,
     "range": ["2016-11-10", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/7-kralovehradecky-kraj.json",
     "parties": [
@@ -793,6 +800,7 @@
   },
   {
     "id": 8,
+    "attended": 36.80,
     "range": ["2016-11-10", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/8-pardubicky-kraj.json",
     "parties": [
@@ -901,6 +909,7 @@
   },
   {
     "id": 9,
+    "attended": 37.34,
     "range": ["2016-11-10", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/9-kraj-vysocina.json",
     "parties": [
@@ -1006,6 +1015,7 @@
   },
   {
     "id": 10,
+    "attended": 36.84,
     "range": ["2017-03-22", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/10-jihomoravsky-kraj.json",
     "parties": [
@@ -1126,6 +1136,7 @@
   },
   {
     "id": 11,
+    "attended": 33.20,
     "range": ["2017-04-02", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/11-olomoucky-kraj.json",
     "parties": [
@@ -1230,6 +1241,7 @@
   },
   {
     "id": 12,
+    "attended": 38.50,
     "range": ["2016-11-10", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/12-zlinsky-kraj.json",
     "parties": [
@@ -1340,6 +1352,7 @@
   },
   {
     "id": 13,
+    "attended": 30.58,
     "range": ["2016-10-11", null],
     "program": "data/volby/kv/2016/programove-prohlaseni/13-moravskoslezsky-kraj.json",
     "parties": [
