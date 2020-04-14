@@ -17,7 +17,7 @@
 						]
 					},
 					"links": [
-						{"url": "https://www.ods.cz/region.stredocesky"},
+						{"url": "https://www.ods.cz/region.stredocesky", "label": "ODS.cz Středočeská"},
 						{"url": "https://www.facebook.com/349496602364", "icon": "fb", "label": "ODS Středočeský kraj"}
 					]
 				},
@@ -68,7 +68,7 @@
 						]
 					},
 					"links": [
-						{"url": "https://www.anobudelip.cz/stredocesky-kraj"}
+						{"url": "https://www.anobudelip.cz/stredocesky-kraj", "label": "ANO Středočeské"}
 					]
 				},
 				{
@@ -87,7 +87,7 @@
 						{"url": "http://strednicechy.kdu.cz"},
 						{"url": "https://www.facebook.com/KDUStredoceskykraj", "icon": "fb"},
 						{"url": "https://www.youtube.com/channel/UCU2S_4AkSEBN9ZCsg9ojCCA", "icon": "yt", "label": "Youtube KDU-ČSL"},
-						{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj"},
+						{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj", "label": "STAN Středočeský"},
 						{"url": "https://www.facebook.com/starostove.stredocesky", "icon": "fb"},
 						{"url": "https://twitter.com/STAN_Stc", "icon": "tw"},
 						{"url": "http://www.snked.cz"},
