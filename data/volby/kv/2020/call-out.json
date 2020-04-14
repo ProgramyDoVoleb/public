@@ -6,23 +6,94 @@
 			"parties": [
 				{
 					"reg": 53,
-					"leader": "Martin Kupka"
+					"leader": {
+						"name": "Martin Kupka",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/region.stredocesky/profil/1158-martin-kupka"},
+							{"url": "https://www.facebook.com/martin.kupka1", "icon": "fb", "label": "Martin Kupka"},
+							{"url": "https://twitter.com/makupka", "icon": "tw", "label": "Martin Kupka"},
+							{"url": "https://www.instagram.com/smartinemprokraj", "icon": "ig", "label": "Martin Kupka"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.stredocesky"},
+						{"url": "https://www.facebook.com/349496602364", "icon": "fb", "label": "ODS Středočeský kraj"}
+					]
 				},
 				{
 					"reg": 7,
-					"leader": "Robin Povšík"
+					"leader": {
+						"name": "Robin Povšík",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.facebook.com/Povsik", "icon": "fb"},
+							{"url": "https://twitter.com/povsik", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "http://stredocesky-kraj.cssd.cz"},
+						{"url": "https://www.facebook.com/JistotyproStredocechy", "icon": "fb"},
+						{"url": "https://www.instagram.com/cssdstredocesky", "icon": "ig"}
+					]
 				},
 				{
 					"reg": 720,
-					"leader": "Jiří Snížek"
+					"leader": {
+						"name": "Jiří Snížek",
+						"reg": 720,
+						"links": [
+							{"url": "https://stredocesky.pirati.cz/lide/jiri-snizek"},
+							{"url": "https://www.facebook.com/snizekjiri", "icon": "fb"},
+							{"url": "https://twitter.com/snizekjiri", "icon": "tw"},
+							{"url": "https://www.instagram.com/snizekj", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://stredocesky.pirati.cz"},
+						{"url": "https://www.facebook.com/PiratiStredniCechy", "icon": "fb"},
+						{"url": "https://www.twitter.com/pirati_sck", "icon": "tw"}
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "Jaroslava Pokorná Jermanová"
+					"leader": {
+						"name": "Jaroslava Pokorná Jermanová",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.anobudelip.cz/cs/lide/predsednictvo/jaroslava-jermanova-20562.shtml"},
+							{"url": "https://www.facebook.com/jarkajermanova", "icon": "fb"},
+							{"url": "https://twitter.com/JermanovaStKraj", "icon": "tw"},
+							{"url": "https://www.instagram.com/jaroslavapokornajermanova", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.anobudelip.cz/stredocesky-kraj"}
+					]
 				},
 				{
 					"reg": [1, 166, 129],
-					"leader": "Petra Pecková"
+					"leader": {
+						"name": "Petra Pecková",
+						"reg": 166,
+						"links": [
+							{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra", "label": "Profil"},
+							{"url": "https://www.facebook.com/peckovapetra", "icon": "fb"},
+							{"url": "https://www.facebook.com/petra.peckova.39", "icon": "fb"},
+							{"url": "https://www.instagram.com/petra_peckova_starostka", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "http://strednicechy.kdu.cz"},
+						{"url": "https://www.facebook.com/KDUStredoceskykraj", "icon": "fb"},
+						{"url": "https://www.youtube.com/channel/UCU2S_4AkSEBN9ZCsg9ojCCA", "icon": "yt", "label": "Youtube KDU-ČSL"},
+						{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj"},
+						{"url": "https://www.facebook.com/starostove.stredocesky", "icon": "fb"},
+						{"url": "https://twitter.com/STAN_Stc", "icon": "tw"},
+						{"url": "http://www.snked.cz"},
+						{"url": "https://www.facebook.com/snked", "icon": "fb"},
+						{"url": "https://twitter.com/SNK_ED", "icon": "tw"}
+					]
 				}
 			]
 		},
@@ -186,8 +257,8 @@
 						{"url": "https://www.facebook.com/spojenciprokraj/", "icon": "fb"},
 						{"url": "https://www.facebook.com/zeleneustecko/", "icon": "fb"},
 						{"url": "https://www.facebook.com/prokraj/", "icon": "fb"},
-						{"url": "https://www.facebook.com/snked/", "icon": "fb"},
-						{"url": "https://www.facebook.com/zeleneustecko/", "icon": "fb"}
+						{"url": "https://www.facebook.com/TOP09.Ustecky.kraj/", "icon": "fb"},
+						{"url": "https://www.facebook.com/snked/", "icon": "fb"}
 					]
 				},
 				{
@@ -202,6 +273,7 @@
 					"reg": 1114,
 					"leader": "Zdeněk Kettner",
 					"list": [
+						"Zdeněk Pešek",
 						"Dominik Hanko",
 						{"name": "Jaroslav Foldyna", "reg": 99}
 					]
