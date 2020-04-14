@@ -180,7 +180,15 @@
 				},
 				{
 					"reg": [5, 166, 721, 1126],
-					"name": "Spojenci pro kraj"
+					"name": "Spojenci pro kraj",
+					"links": [
+						{"url": "https://spojenciprokraj.cz/"},
+						{"url": "https://www.facebook.com/spojenciprokraj/", "icon": "fb"},
+						{"url": "https://www.facebook.com/zeleneustecko/", "icon": "fb"},
+						{"url": "https://www.facebook.com/prokraj/", "icon": "fb"},
+						{"url": "https://www.facebook.com/snked/", "icon": "fb"},
+						{"url": "https://www.facebook.com/zeleneustecko/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 47,
@@ -200,7 +208,11 @@
 				},
 				{
 					"name": "Čistý kraj",
-					"leader": "Tomáš Vandas"
+					"leader": "Tomáš Vandas",
+					"logo": "obecne/strany/loga/x-cisty-kraj.jpg",
+					"links": [
+						{"url": "https://twitter.com/cistykraj", "icon": "tw"}
+					]
 				}
 			]
 		},
