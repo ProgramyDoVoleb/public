@@ -80,6 +80,7 @@
 							{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra", "label": "Profil"},
 							{"url": "https://www.facebook.com/peckovapetra", "icon": "fb"},
 							{"url": "https://www.facebook.com/petra.peckova.39", "icon": "fb"},
+							{"url": "https://twitter.com/PPeckova", "icon": "tw"},
 							{"url": "https://www.instagram.com/petra_peckova_starostka", "icon": "ig"}
 						]
 					},
@@ -102,49 +103,165 @@
 			"parties": [
 				{
 					"reg": 1,
-					"leader": "František Talíř",
+					"leader": {
+						"name": "František Talíř",
+						"reg": 1,
+						"links": [
+							{"url": "http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)", "label": "Profil"},
+							{"url": "https://www.facebook.com/frantisek.talir", "icon": "fb", "label": "FB stránky"},
+							{"url": "https://www.instagram.com/frantisek.talir", "icon": "ig"}
+						]
+					},
 					"list": [
 						"Robert Huneš",
 						"Šimon Heller",
-						"Jan Bartošek"
+						"Jan Bartošek",
+						"Michaela Kudláčková",
+						"Petr Hladík",
+						"Pavel Talíř",
+						"Karel Macků",
+						"Zdeněk Dvořák",
+						"Jaroslav Hejl",
+						"Rudolf Vodička"
+					],
+					"links": [
+						{"url": "http://jiznicechy.kdu.cz", "label": "KDU-ČSL Jižní Čechy"},
+						{"url": "https://www.facebook.com/jihocesky.kdu", "icon": "fb"}
 					]
 				},
 				{
 					"reg": 53,
-					"leader": "Martin Kuba",
+					"leader": {
+						"name": "Martin Kuba",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/region.jihocesky/profil/martin-kuba"},
+							{"url": "https://www.facebook.com/KubaODS", "icon": "fb"},
+							{"url": "https://twitter.com/Kuba_Martin", "icon": "tw"}
+						]
+					},
 					"list": [
 						"Tomáš Fiala",
 						"Martin Hrinek"
+					],
+					"links": [
+						{"url": "https://www.ods.cz/region.jihocesky", "label": "ODS Jihočeský kraj"}
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "Ivana Stráská"
+					"leader": {
+						"name": "Ivana Stráská",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.cssd.cz/nasi-lide/ivana-straska"}
+						]
+					},
+					"links": [
+						{"url": "http://jihocesky-kraj.cssd.cz", "label": "ČSSD Jihočeský kraj"},
+						{"url": "https://www.facebook.com/cssdjihoceskykraj", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 720,
-					"leader": "Lukáš Mareš"
+					"leader": {
+						"name": "Lukáš Mareš",
+						"reg": 720,
+						"links": [
+							{"url": "https://jihocesky.pirati.cz/clenove/mares-lukas"}
+						]
+					},
+					"list": [
+						"Jan Novák",
+						"Josef Soumar",
+						"Veronika Kovářová",
+						"Jiří Roubíček",
+						"Martin Kákona",
+						"Dan Leština",
+						"Jan Hošek",
+						"Lucie Korytářová",
+						"Lukáš Kolářík"
+					],
+					"links": [
+						{"url": "https://jihocesky.pirati.cz"},
+						{"url": "https://www.facebook.com/pirati.jck", "icon": "fb"},
+						{"url": "https://www.twitter.com/PiratiJcK", "icon": "tw"},
+						{"url": "https://www.instagram.com/pirati.jihocesky", "icon": "ig"}
+					]
 				},
 				{
 					"name": "Změna 2020",
-					"leader": "Jiří Zimola",
-					"logo": "obecne/strany/loga/x-zmena-2020.png"
+					"leader": {
+						"name": "Jiří Zimola",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.facebook.com/zimolajiri/", "icon": "fb"},
+							{"url": "https://twitter.com/jirizimola", "icon": "tw"},
+							{"url": "https://www.instagram.com/jiri.zimola/", "icon": "ig"}
+						]
+					},
+					"logo": "obecne/strany/loga/x-zmena-2020.png",
+					"links": [
+						{"url": "https://www.facebook.com/zmena2020", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 166,
-					"leader": "Jiří Švec"
+					"leader": {
+						"name": "Jiří Švec",
+						"reg": 1,
+						"links": [
+							{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj/svec-jiri"},
+							{"url": "https://www.facebook.com/jisvec/", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj", "label": "STAN Jihočeský"},
+						{"url": "https://www.facebook.com/starostove.jihocesky", "icon": "fb"},
+						{"url": "https://twitter.com/jck_stan", "icon": "tw"}
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "František Konečný"
+					"leader": {
+						"name": "František Konečný",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.facebook.com/frantisek.konecny.50"}
+						]
+					},
+					"links": [
+						{"url": "https://www.anobudelip.cz/jihocesky-kraj"},
+						{"url": "https://www.facebook.com/ANOjihoceskykraj", "icon": "fb"}
+					]
 				},
 				{
 					"name": "Trikolora",
-					"leader": "Ivana Kerlesová",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"leader": {
+						"name": "Ivana Kerlesová",
+						"links": [
+							{"url": "https://www.facebook.com/Kerlesova", "icon": "fb"},
+							{"url": "https://twitter.com/IvanaKerlesova", "icon": "tw"}
+						]
+					},
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"links": [
+						{"url": "https://www.facebook.com/trikolora.jiznicechy"}
+					]
 				},
 				{
-					"reg": [766, 136, 753]
+					"reg": [766, 136, 753],
+					"links": [
+						{"url": "http://jihocesi2012.cz"},
+						{"url": "https://www.facebook.com/Jihocesi2012", "icon": "fb"},
+						{"url": "https://twitter.com/Jihocesi2012", "icon": "tw"},
+						{"url": "https://www.tabor2020.cz"},
+						{"url": "https://www.facebook.com/tabor2020", "icon": "fb"},
+						{"url": "https://www.instagram.com/tabor2020", "icon": "ig"},
+						{"url": "https://www.obcaneprobudejovice.cz"},
+						{"url": "https://www.facebook.com/Obcane.pro.Budejovice", "icon": "fb"},
+						{"url": "https://www.instagram.com/obcaneprobudejovice", "icon": "ig"}
+					]
 				}
 			]
 		},
