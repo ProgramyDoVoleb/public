@@ -209,7 +209,7 @@
 					"reg": 166,
 					"leader": {
 						"name": "Jiří Švec",
-						"reg": 1,
+						"reg": 166,
 						"links": [
 							{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj/svec-jiri"},
 							{"url": "https://www.facebook.com/jisvec/", "icon": "fb"}
@@ -231,7 +231,7 @@
 						]
 					},
 					"links": [
-						{"url": "https://www.anobudelip.cz/jihocesky-kraj"},
+						{"url": "https://www.anobudelip.cz/jihocesky-kraj", "label": "ANO Jihočeské"},
 						{"url": "https://www.facebook.com/ANOjihoceskykraj", "icon": "fb"}
 					]
 				},
