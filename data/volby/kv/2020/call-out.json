@@ -271,15 +271,47 @@
 				{
 					"reg": [53, 721],
 					"name": "ODS s podporou TOP09 a nezávislých starostů",
-					"leader": "Ilona Mauritzová"
+					"leader": {
+						"name": "Ilona Mauritzová",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/region.plzensky/profil/ilona-mauritzova"},
+							{"url": "https://www.facebook.com/ilonamauritzova", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.plzensky", "label": "ODS Plzeňský kraj"},
+						{"url": "https://www.facebook.com/regionplzensky", "icon": "fb"},
+						{"url": "https://www.top09.cz/regiony/plzensky-kraj", "label": "TOP 09 Plzeňský kraj"},
+						{"url": "https://www.facebook.com/TOP09.Plzensky.kraj", "icon": "fb", "label": "TOP 09 Plzeňský kraj"},
+						{"url": "https://twitter.com/top09zapad", "icon": "tw"},
+						{"url": "https://www.instagram.com/top09plzen", "icon": "ig"}
+					]
 				},
 				{
 					"reg": 166,
-					"leader": "Pavel Čížek"
+					"leader": {
+						"name": "Pavel Čížek",
+						"reg": 166,
+						"links": [
+							{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj/cizek-pavel"},
+							{"url": "https://www.facebook.com/pavelcizekstan", "icon": "fb"},
+							{"url": "https://twitter.com/PavelCizek", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj"},
+						{"url": "https://www.facebook.com/starostove.plzensky", "icon": "fb"},
+						{"url": "https://twitter.com/STAN_Plz", "icon": "tw"}
+					],
+					"support": [1014]
 				},
 				{
 					"reg": 7,
-					"leader": "Ivo Grüner",
+					"leader": {
+						"name": "Ivo Grüner",
+						"reg": 7
+					},
 					"list": [
 						"Jaroslav Šobr",
 						"Jiří Struček",
@@ -369,6 +401,13 @@
 				{
 					"reg": [5, 166, 721, 1126],
 					"name": "Spojenci pro kraj",
+					"leader": {
+						"name": "Jiří Řehák",
+						"reg": 1126,
+						"links": [
+							{"url": "https://www.facebook.com/brakava", "icon": "fb"}
+						]
+					},
 					"links": [
 						{"url": "https://spojenciprokraj.cz/"},
 						{"url": "https://www.facebook.com/spojenciprokraj/", "icon": "fb"},
