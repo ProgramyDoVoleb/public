@@ -635,7 +635,14 @@
 			"parties": [
 				{
 					"reg": 53,
-					"leader": "Jiří Nantl"
+					"leader": {
+						"name": "Jiří Nantl",
+						"reg": 53
+					},
+					"support": [714, 158],
+					"list": [
+						{"name": "Marek Šoška", "reg": 714}
+					]
 				},
 				{
 					"reg": 1,
