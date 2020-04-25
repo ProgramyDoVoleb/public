@@ -341,37 +341,37 @@
 							{"url": "https://plzensky.pirati.cz/lide/rudolf-spotak"},
 							{"url": "https://www.facebook.com/rudolf.spotak", "icon": "fb"},
 							{"url": "https://twitter.com/spotakruda", "icon": "tw"}
-						],
-						"list": [
-							"Pavel Hais",
-							"Martin Ptáček",
-							"Jiří Pek",
-							"Filip Sequens",
-							"Jiří Hanousek",
-							"Milan Chaloupka",
-							"Magda Daňková",
-							"Michal Ertl",
-							"Jana Tomšíková",
-							"Marek Habruň",
-							"Radek Krejčí",
-							"Olga Sejrková",
-							"Petr Vileta",
-							"Jindřiška Šrámková",
-							"Stanislav Haviar",
-							"Aleš Jakl",
-							"Petr Planeta",
-							"Vladimír Vápeník",
-							"Josef Janoch",
-							"Miroslav Vaňáček",
-							"Tomáš Hraběta",
-							"Michal Hermann"
-						],
-						"links": [
-							{"url": "https://plzensky.pirati.cz"},
-							{"url": "https://www.facebook.com/pirati.plzensky.kraj", "icon": "fb", "label": "Piráti Plzeňsko"},
-							{"url": "https://twitter.com/pirati_pl", "icon": "tw"}
 						]
-					}
+					},
+					"list": [
+						"Pavel Hais",
+						"Martin Ptáček",
+						"Jiří Pek",
+						"Filip Sequens",
+						"Jiří Hanousek",
+						"Milan Chaloupka",
+						"Magda Daňková",
+						"Michal Ertl",
+						"Jana Tomšíková",
+						"Marek Habruň",
+						"Radek Krejčí",
+						"Olga Sejrková",
+						"Petr Vileta",
+						"Jindřiška Šrámková",
+						"Stanislav Haviar",
+						"Aleš Jakl",
+						"Petr Planeta",
+						"Vladimír Vápeník",
+						"Josef Janoch",
+						"Miroslav Vaňáček",
+						"Tomáš Hraběta",
+						"Michal Hermann"
+					],
+					"links": [
+						{"url": "https://plzensky.pirati.cz"},
+						{"url": "https://www.facebook.com/pirati.plzensky.kraj", "icon": "fb", "label": "Piráti Plzeňsko"},
+						{"url": "https://twitter.com/pirati_pl", "icon": "tw"}
+					]
 				},
 				{
 					"reg": [1, 181, 1119],
@@ -406,7 +406,7 @@
 						]
 					},
 					"links": [
-						{"url": "https://www.anobudelip.cz/plzensky-kraj"},
+						{"url": "https://www.anobudelip.cz/plzensky-kraj", "label": "ANO Plzeňský kraj"},
 						{"url": "https://www.facebook.com/anoplzenskykraj", "icon": "fb"}
 					]
 				},
