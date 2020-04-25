@@ -613,7 +613,6 @@
 					"reg": 1114,
 					"leader": "Zdeněk Kettner",
 					"list": [
-						"Zdeněk Pešek",
 						"Dominik Hanko",
 						{"name": "Jaroslav Foldyna", "reg": 99}
 					]
@@ -624,6 +623,13 @@
 					"logo": "obecne/strany/loga/x-cisty-kraj.jpg",
 					"links": [
 						{"url": "https://twitter.com/cistykraj", "icon": "tw"}
+					]
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"list": [
+						"Zdeněk Pešek"
 					]
 				}
 			]
