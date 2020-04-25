@@ -436,30 +436,118 @@
 			"parties": [
 				{
 					"reg": [1, 53],
-					"leader": "Karel Jakobec"
+					"leader": {
+						"name": "Karel Jakobec",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/profil/148-karel-jakobec"},
+							{"url": "https://www.facebook.com/karel.jakobec", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.karlovarsky"},
+						{"url": "http://kvary.kdu.cz"},
+						{"url": "https://www.facebook.com/rs.ods.karlovarsky.kraj", "icon": "fb", "label": "ODS Karlovarsko"},
+						{"url": "https://www.facebook.com/kdukvkraj", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 47,
-					"leader": "Eva Valjentová",
+					"leader": {
+						"name": "Eva Valjentová",
+						"reg": 47,
+						"links": [
+							{"url": "https://karlovyvary.kscm.cz/cs/nasi-lide/ing-eva-valjentova-2"},
+							{"url": "https://www.facebook.com/profile.php?id=100009201264227", "icon": "fb"},
+							{"url": "https://twitter.com/EvaValjentova", "icon": "tw"}
+						]
+					},
 					"list": [
 						"Martin Mareš",
 						"Pavel Hojda",
 						"Josef Borka"
+					],
+					"links": [
+						{"url": "https://karlovyvary.kscm.cz", "label": "KSČM KVK"},
+						{"url": "https://www.facebook.com/KS%C4%8CM-Karlovarsk%C3%BD-kraj-306603932862276/", "icon": "fb", "label": "KSČM Karlovarsko"}
 					]
 				},
 				{
 					"reg": 720,
-					"leader": "Josef Janů"
+					"leader": {
+						"name": "Josef Janů",
+						"reg": 720,
+						"links": [
+							{"url": "https://karlovarsky.pirati.cz/lide/josef-janu/"},
+							{"url": "https://www.facebook.com/pepik.janu", "icon": "fb"},
+							{"url": "https://twitter.com/JosefJanu", "icon": "tw"}
+						]
+					},
+					"list": [
+						"Vojtěch Franta",
+						"Markéta Monsportová",
+						"Lukáš Zykán",
+						"Karel Nykles",
+						"Martin Kalina",
+						"Petr Adamec",
+						"Ondřej Topinka",
+						"Vítězslav Adamec",
+						"Nikola Indrová",
+						"Lucie Trčková",
+						"Pavel Sušanin",
+						"Karolina Vejmělková",
+						"Lada Baranek Lapinová",
+						"Zdeněk Třešňák",
+						"Josef Pavlovic",
+						"Ondřej Špendlíček",
+						"Antotín Šimkanin",
+						"Lukáš Jadlovský",
+						"Daniela Bílá"
+					],
+					"links": [
+						{"url": "https://karlovarsky.pirati.cz/", "label": "Piráti KVK"},
+						{"url": "https://www.facebook.com/pirati.karlovarsko", "icon": "fb"},
+						{"url": "https://twitter.com/Pirati_KaKr", "icon": "tw"},
+						{"url": "https://www.instagram.com/pirati.karlovarsko", "icon": "ig"}
+					]
 				},
 				{
 					"reg": 112,
 					"name": "Místní",
-					"leader": "Patrik Pizinger"
+					"leader": {
+						"name": "Patrik Pizinger",
+						"reg": 112,
+						"links": [
+							{"url": "https://www.facebook.com/Patrik-Pizinger-starosta-970070833183850/", "icon": "fb"},
+							{"url": "https://twitter.com/PatrikPizinger", "icon": "tw"},
+							{"url": "https://www.instagram.com/patrikpizinger", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.hnhrm.cz/index.php/karlovarsky-kraj", "label": "Místní KVK"},
+						{"url": "https://www.facebook.com/hnhrmkv", "icon": "fb"}
+					]
 				},
 				{
 					"reg": [1118, 1028],
-					"leader": "Josef März",
-					"support": ["nezávislí starostové"]
+					"leader": {
+						"name": "Josef März",
+						"reg": 1028,
+						"links": [
+							{"url": "http://www.karlovaraci.cz/index.php/team/josef-marz/"},
+							{"url": "https://www.facebook.com/profile.php?id=100008186927999", "icon": "fb"},
+							{"url": "https://www.instagram.com/pepi9574/", "icon": "ig"}
+						]
+					},
+					"support": ["nezávislí starostové"],
+					"links": [
+						{"url": "http://www.karlovaraci.cz"},
+						{"url": "http://www.spokojenykraj.cz"},
+						{"url": "https://www.facebook.com/karlovaraci", "icon": "fb"},
+						{"url": "https://www.facebook.com/spokojenykraj", "icon": "fb"},
+						{"url": "https://twitter.com/karlovaraci", "icon": "tw"},
+						{"url": "https://twitter.com/spokojenykraj", "icon": "tw"}
+					]
 				}
 			]
 		},
