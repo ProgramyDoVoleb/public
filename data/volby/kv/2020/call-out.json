@@ -300,7 +300,7 @@
 						]
 					},
 					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj"},
+						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj", "label": "STAN Plzeňsko"},
 						{"url": "https://www.facebook.com/starostove.plzensky", "icon": "fb"},
 						{"url": "https://twitter.com/STAN_Plz", "icon": "tw"}
 					],
@@ -310,7 +310,13 @@
 					"reg": 7,
 					"leader": {
 						"name": "Ivo Grüner",
-						"reg": 7
+						"reg": 7,
+						"links": [
+							{"url": "https://www.ivo-gruner.cz"},
+							{"url": "https://www.facebook.com/Ivo.Gruner1969", "icon": "fb"},
+							{"url": "https://twitter.com/IvoGruner", "icon": "tw"},
+							{"url": "https://www.instagram.com/ivo.gruner", "icon": "ig"}
+						]
 					},
 					"list": [
 						"Jaroslav Šobr",
@@ -320,24 +326,108 @@
 						"Jan Látka",
 						"Václav Šimánek",
 						"Michal Černý"
+					],
+					"links": [
+						{"url": "http://plzensky-kraj.cssd.cz"},
+						{"url": "https://www.facebook.com/cssdplzenskykraj", "icon": "fb"}
 					]
 				},
 				{
 					"reg": 720,
-					"leader": "Rudolf Špoták"
+					"leader": {
+						"name": "Rudolf Špoták",
+						"reg": 720,
+						"links": [
+							{"url": "https://plzensky.pirati.cz/lide/rudolf-spotak"},
+							{"url": "https://www.facebook.com/rudolf.spotak", "icon": "fb"},
+							{"url": "https://twitter.com/spotakruda", "icon": "tw"}
+						],
+						"list": [
+							"Pavel Hais",
+							"Martin Ptáček",
+							"Jiří Pek",
+							"Filip Sequens",
+							"Jiří Hanousek",
+							"Milan Chaloupka",
+							"Magda Daňková",
+							"Michal Ertl",
+							"Jana Tomšíková",
+							"Marek Habruň",
+							"Radek Krejčí",
+							"Olga Sejrková",
+							"Petr Vileta",
+							"Jindřiška Šrámková",
+							"Stanislav Haviar",
+							"Aleš Jakl",
+							"Petr Planeta",
+							"Vladimír Vápeník",
+							"Josef Janoch",
+							"Miroslav Vaňáček",
+							"Tomáš Hraběta",
+							"Michal Hermann"
+						],
+						"links": [
+							{"url": "https://plzensky.pirati.cz"},
+							{"url": "https://www.facebook.com/pirati.plzensky.kraj", "icon": "fb", "label": "Piráti Plzeňsko"},
+							{"url": "https://twitter.com/pirati_pl", "icon": "tw"}
+						]
+					}
 				},
 				{
 					"reg": [1, 181, 1119],
 					"name": "Koalice pro Plzeňský kraj",
-					"leader": "Ivana Bartošová"
+					"leader": {
+						"name": "Ivana Bartošová",
+						"reg": 1,
+						"links": [
+							{"url": "https://www.facebook.com/profile.php?id=100007295835833", "icon": "fb", "label": "FB profil"}
+						]
+					},
+					"links": [
+						{"url": "https://plzen.kdu.cz"},
+						{"url": "http://www.adstrana.cz"},
+						{"url": "https://www.facebook.com/koaliceppk", "icon": "fb"},
+						{"url": "https://www.facebook.com/kducslplzenskykraj", "icon": "fb"},
+						{"url": "https://www.facebook.com/adstrana", "icon": "fb"},
+						{"url": "https://www.instagram.com/kducslplzenskykraj", "icon": "ig"},
+						{"url": "https://www.instagram.com/verni_agrarnici_ads", "icon": "ig"},
+						{"url": "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg", "icon": "yt", "label": "KDU-ČSL Plzeň"}
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "Roman Zarzycký"
+					"leader": {
+						"name": "Roman Zarzycký",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.facebook.com/Roman-Zarzycky-101613948110969", "icon": "fb", "label": "FB Roman Zarzycký"},
+							{"url": "https://twitter.com/zarzycky", "icon": "tw"},
+							{"url": "https://www.instagram.com/zarzyckyroman", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.anobudelip.cz/plzensky-kraj"},
+						{"url": "https://www.facebook.com/anoplzenskykraj", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 47,
-					"leader": "Jiří Valenta"
+					"leader": {
+						"name":"Jiří Valenta",
+						"reg": 47,
+						"links": [
+							{"url": "https://www.kscm.cz/cs/nasi-lide/phdr-ing-jiri-valenta", "label": "Profil"},
+							{"url": "https://valenta.estranky.cz/", "label": "Webové stránky"},
+							{"url": "https://www.facebook.com/plzenan2017", "icon": "fb"},
+							{"url": "https://www.facebook.com/jiri.valenta.plzen", "icon": "fb"},
+							{"url": "https://twitter.com/JiValenta", "icon": "tw"},
+							{"url": "https://www.instagram.com/valenta1965/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://plkr.kscm.cz"},
+						{"url": "https://www.facebook.com/groups/110721655612158/", "icon": "fb", "label": "Skupina příznivců"}
+					]
 				}
 			]
 		},
