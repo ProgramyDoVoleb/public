@@ -52,14 +52,16 @@
       "name": ["", "Michael", "Žantovský", ""],
       "member": 721,
       "nominee": 721,
+			"support": [166, 53],
       "links": [],
-      "reg": 21
+      "reg": 21,
+			"status": "nepotvrzeno"
     },
     {
       "name": ["", "Václav", "Láska", ""],
       "member": 99,
       "nominee": 1187,
-			"support": [720],
+			"support": [720, 5, 1],
       "links": [],
       "reg": 21
     },
@@ -67,25 +69,25 @@
       "name": ["", "Miroslav", "Ludvík", ""],
       "member": 7,
       "nominee": 7,
+			"support": [768],
       "links": [],
       "reg": 21
     },
     {
-      "name": ["", "David", "Smoljak", ""],
-      "member": 99,
-      "nominee": 166,
+      "name": ["", "David", "Pavlát", ""],
+      "member": 7,
+      "nominee": 7,
       "links": [],
-      "reg": 24,
-			"status": "nepotvrzeno"
+      "reg": 24
     },
     {
       "name": ["", "David", "Smoljak", ""],
       "member": 99,
       "nominee": 166,
 			"support": [721],
+			"work": "senátor",
       "links": [],
-      "reg": 24,
-			"status": "nepotvrzeno"
+      "reg": 24
     },
     {
       "name": ["", "Eduard", "Stehlík", ""],
@@ -103,16 +105,15 @@
       "links": [
 				{"url": "https://twitter.com/Nemcova_Mirka", "icon": "tw"}
 			],
-      "reg": 27,
-      "status": "obvod je předmětem jednání"
+      "reg": 27
     },
     {
       "name": ["", "Václav", "Hampl", ""],
       "member": 99,
       "nominee": 99,
+      "work": "senátor",
       "links": [],
-      "reg": 27,
-			"status": "nepotvrzeno"
+      "reg": 27
     },
     {
       "name": ["", "Adéla", "Šípová", ""],
