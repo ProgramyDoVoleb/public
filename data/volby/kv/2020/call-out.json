@@ -627,9 +627,28 @@
 				},
 				{
 					"name": "Trikolora",
+					"leader": {
+						"name": "Radek Hoffmann",
+						"links": [
+							{"url": "https://www.facebook.com/RadekHoffmanTrikolora/", "icon": "fb"},
+							{"url": "https://twitter.com/RadekHoffmann1", "icon": "tw"},
+							{"url": "https://www.instagram.com/radek.hoffmann/", "icon": "ig"}
+						]
+					},
 					"logo": "obecne/strany/loga/x-trikolora.png",
 					"list": [
-						"Zdeněk Pešek"
+						"Zdeněk Pešek",
+						"Martina Becková",
+						"Zdeněk Pištora",
+						"Aleš Kuna",
+						"Sabina Lecjaksová",
+						"Michal Závladský",
+						"Jaroslav Poráč",
+						"Miroslav Červenka",
+						"Jindřich John"
+					],
+					"links": [
+						{"url": "https://www.facebook.com/TrikoloraUsteckyKraj", "icon": "fb"}
 					]
 				}
 			]
