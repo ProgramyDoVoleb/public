@@ -556,15 +556,57 @@
 			"parties": [
 				{
 					"reg": [1, 53],
-					"leader": "Jiří Kulhánek"
+					"leader": {
+						"name": "Jiří Kulhánek",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek"},
+							{"url": "https://www.facebook.com/jiri.kulhanek.73", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.ustecky"},
+						{"url": "http://usteckykraj.kdu.cz"},
+						{"url": "https://www.facebook.com/ODS-%C3%9Asteck%C3%BD-kraj-1818344011729113", "icon": "fb", "label": "ODS Ústecko"},
+						{"url": "https://www.facebook.com/kducslkrajustecky", "icon": "fb", "label": "KDU-ČSL Ústecko"},
+						{"url": "https://www.instagram.com/kducsl_ustecky_kraj", "icon": "ig"}
+					]
 				},
 				{
 					"reg": 704,
-					"leader": "Petr Pípal"
+					"leader": {
+						"name": "Petr Pípal",
+						"reg": 704,
+						"links": [
+							{"url": "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal"},
+							{"url": "https://www.facebook.com/IngPetrPipal/", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "http://www.zregionudokraje.cz"},
+						{"url": "https://www.facebook.com/zregionudokraje", "label": "Volební FB", "icon": "fb"},
+						{"url": "https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090", "icon": "fb", "label": "FB Severočeši"},
+						{"url": "https://www.instagram.com/severocesi.cz", "icon": "ig"}
+					]
 				},
 				{
 					"reg": 720,
-					"leader": "Karel Karika",
+					"leader": {
+						"name": "Karel Karika",
+						"reg": 720,
+						"links": [
+							{"url": "https://ustecky.pirati.cz/lide/karel-karika"},
+							{"url": "https://www.facebook.com/karel.karika", "icon": "fb"},
+							{"url": "https://twitter.com/KarelKarika", "icon": "tw"},
+							{"url": "https://www.instagram.com/karelkarika/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://ustecky.pirati.cz"},
+						{"url": "https://www.facebook.com/pirati.ulk", "icon": "fb"},
+						{"url": "https://twitter.com/PiratiUstecko", "icon": "tw"},
+						{"url": "https://www.instagram.com/pirati_uk", "icon": "ig"}
+					],
 					"list": [
 						"Kateřina Stojanová",
 						"Vít Rous",
@@ -603,15 +645,43 @@
 				},
 				{
 					"reg": 47,
-					"leader": "Radek Černý"
+					"leader": {
+						"name": "Radek Černý",
+						"reg": 47,
+						"links": []
+					},
+					"links": [
+						{"url": "https://www.usti-kscm.cz"}
+					]
 				},
 				{
 					"reg": 7,
-					"leader": "Martin Klika"
+					"leader": {
+						"name": "Martin Klika",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.facebook.com/KlikaUsteckyKraj", "icon": "fb"},
+							{"url": "https://twitter.com/Martin_Klika", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "http://ustecky-kraj.cssd.cz"},
+						{"url": "https://www.facebook.com/KvvCssdUsteckyKraj", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 1114,
-					"leader": "Zdeněk Kettner",
+					"leader": {
+						"name": "Zdeněk Kettner",
+						"reg": 1114,
+						"links": [
+							{"url": "https://www.facebook.com/zdenek.kettner.735", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.spd.cz/region/ustecky-kraj", "label": "SPD Ústecko"},
+						{"url": "https://www.facebook.com/SPDustecky/", "icon": "fb"}
+					],
 					"list": [
 						"Dominik Hanko",
 						{"name": "Jaroslav Foldyna", "reg": 99}
@@ -619,7 +689,19 @@
 				},
 				{
 					"name": "Čistý kraj",
-					"leader": "Tomáš Vandas",
+					"leader": {
+						"name": "Tomáš Vandas",
+						"reg": 156,
+						"links": [
+							{"url": "http://www.tomasvandas.cz"},
+							{"url": "https://www.facebook.com/tomasvandas.cz", "icon": "fb"},
+							{"url": "https://twitter.com/tomas_vandas", "icon": "tw"},
+							{"url": "https://www.instagram.com/vandastomas", "icon": "ig"}
+						]
+					},
+					"links": [
+
+					],
 					"logo": "obecne/strany/loga/x-cisty-kraj.jpg",
 					"links": [
 						{"url": "https://twitter.com/cistykraj", "icon": "tw"}
