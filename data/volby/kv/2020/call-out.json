@@ -1060,6 +1060,28 @@
 				{
 					"reg": [5, 721, 1220],
 					"support": [129, 795, "Naše Beskydy"]
+				},
+				{
+					"reg": [53, 721],
+					"leader": {
+						"name": "Jakub Unucka",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.facebook.com/unucka.jakub", "icon": "fb"},
+							{"url": "https://twitter.com/jakubunucka", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.moravskoslezsky", "label": "ODS MSK"},
+						{"url": "https://www.top09.cz/regiony/moravskoslezsky-kraj", "label": "TOP 09 MSK"},
+						{"url": "https://www.facebook.com/ods.moravskoslezskykraj", "icon": "fb"},
+						{"url": "https://www.facebook.com/TOP09.Moravskoslezsky.kraj", "icon": "fb"}
+					],
+					"list": [
+						{"name": "Zdenka Němečková Crkvenjaš", "reg": 53},
+						{"name": "Stanislav Folwarczny", "reg": 53},
+						{"name": "Monika Klapková", "reg": 721}
+					]
 				}
 			]
 		}
