@@ -470,7 +470,7 @@
 						{"url": "https://www.facebook.com/rs.ods.karlovarsky.kraj", "icon": "fb", "label": "ODS Karlovarsko"},
 						{"url": "https://www.facebook.com/kdukvkraj", "icon": "fb"}
 					],
-					"support": [761]
+					"support": [716]
 				},
 				{
 					"reg": 47,
@@ -937,7 +937,7 @@
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 761]
+					"reg": ["Trikolora", 716]
 				}
 			]
 		},
@@ -971,6 +971,9 @@
 				{
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": 1
 				}
 			]
 		},
@@ -1118,7 +1121,7 @@
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 761, "Nezávislí"]
+					"reg": ["Trikolora", 716, "Nezávislí"]
 				}
 			]
 		},
