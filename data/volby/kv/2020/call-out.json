@@ -95,6 +95,13 @@
 						{"url": "https://www.facebook.com/snked", "icon": "fb"},
 						{"url": "https://twitter.com/SNK_ED", "icon": "tw"}
 					]
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": 47
 				}
 			]
 		},
@@ -262,6 +269,12 @@
 						{"url": "https://www.facebook.com/Obcane.pro.Budejovice", "icon": "fb"},
 						{"url": "https://www.instagram.com/obcaneprobudejovice", "icon": "ig"}
 					]
+				},
+				{
+					"reg": 47
+				},
+				{
+					"reg": 5
 				}
 			]
 		},
@@ -428,6 +441,13 @@
 						{"url": "https://plkr.kscm.cz"},
 						{"url": "https://www.facebook.com/groups/110721655612158/", "icon": "fb", "label": "Skupina příznivců"}
 					]
+				},
+				{
+					"reg": 716
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -449,7 +469,8 @@
 						{"url": "http://kvary.kdu.cz"},
 						{"url": "https://www.facebook.com/rs.ods.karlovarsky.kraj", "icon": "fb", "label": "ODS Karlovarsko"},
 						{"url": "https://www.facebook.com/kdukvkraj", "icon": "fb"}
-					]
+					],
+					"support": [761]
 				},
 				{
 					"reg": 47,
@@ -548,6 +569,13 @@
 						{"url": "https://twitter.com/karlovaraci", "icon": "tw"},
 						{"url": "https://twitter.com/spokojenykraj", "icon": "tw"}
 					]
+				},
+				{
+					"reg": 7
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -655,7 +683,7 @@
 					]
 				},
 				{
-					"reg": 7,
+					"reg": [7, 1012, 1175],
 					"leader": {
 						"name": "Martin Klika",
 						"reg": 7,
@@ -795,9 +823,9 @@
 					]
 				},
 				{
+					"reg": [5, 795],
 					"name": "Pro krajinu",
 					"leader": "Josef Šedlbauer",
-					"support": [5],
 					"logo": "obecne/strany/loga/x-pro-krajinu.jpg"
 				},
 				{
@@ -809,6 +837,10 @@
 						"Miloš Tita",
 						"Jan Dvořák"
 					]
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -845,6 +877,14 @@
 				{
 					"reg": 7,
 					"leader": "Jiří Štěpán"
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"name": "Spolu pro kraj",
+					"reg": [5, 7, "Osobnosti kraje"]
 				}
 			]
 		},
@@ -852,8 +892,8 @@
 			"id": 8,
 			"parties": [
 				{
-					"reg": [7],
-					"name": "3PK- Pro prosperující Pardubický kraj",
+					"reg": [7, "Společně pro kraj"],
+					"name": "Pro prosperující kraj",
 					"leader": "Martin Netolický"
 				},
 				{
@@ -889,6 +929,15 @@
 				{
 					"reg": [53, 721],
 					"leader": "Michal Kortyš"
+				},
+				{
+					"reg": 47
+				},
+				{
+					"reg": 5
+				},
+				{
+					"reg": ["Trikolora", 761]
 				}
 			]
 		},
@@ -912,6 +961,16 @@
 					"name": "Starostové pro Vysočinu",
 					"leader": "Lukáš Vlček",
 					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"]
+				},
+				{
+					"reg": 47
+				},
+				{
+					"reg": 5
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -968,6 +1027,10 @@
 				{
 					"reg": 47,
 					"leader": "Stanislav Navrkal"
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -983,7 +1046,7 @@
 					"leader": "Dalibor Horák"
 				},
 				{
-					"reg": 7,
+					"reg": [7, "Patrioti Olomouckého kraje"],
 					"leader": "Jiří Zemánek"
 				},
 				{
@@ -996,6 +1059,13 @@
 				{
 					"reg": 768,
 					"leader": "Ladislav Okleštěk"
+				},
+				{
+					"reg": 47
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		},
@@ -1043,6 +1113,12 @@
 				{
 					"reg": 47,
 					"leader": "Ivan Mařák"
+				},
+				{
+					"reg": 5
+				},
+				{
+					"reg": ["Trikolora", 761, "Nezávislí"]
 				}
 			]
 		},
@@ -1078,6 +1154,19 @@
 						{"name": "Stanislav Folwarczny", "reg": 53},
 						{"name": "Monika Klapková", "reg": 721}
 					]
+				},
+				{
+					"reg": 47
+				},
+				{
+					"reg": 7
+				},
+				{
+					"reg": 1
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png"
 				}
 			]
 		}
