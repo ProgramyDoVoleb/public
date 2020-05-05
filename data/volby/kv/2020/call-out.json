@@ -244,6 +244,7 @@
 				},
 				{
 					"name": "Trikolora",
+					"support": [714],
 					"leader": {
 						"name": "Ivana Kerlesová",
 						"links": [
@@ -251,6 +252,12 @@
 							{"url": "https://twitter.com/IvanaKerlesova", "icon": "tw"}
 						]
 					},
+					"list": [
+						"Dalibor Uhlíř",
+						"Jaroslav Zvěřina",
+						{"name": "Libor Vondráček", "reg": 714},
+						"Jiří Černý"
+					],
 					"logo": "obecne/strany/loga/x-trikolora.png",
 					"links": [
 						{"url": "https://www.facebook.com/trikolora.jiznicechy"}
@@ -1140,7 +1147,8 @@
 						"reg": 53,
 						"links": [
 							{"url": "https://www.facebook.com/unucka.jakub", "icon": "fb"},
-							{"url": "https://twitter.com/jakubunucka", "icon": "tw"}
+							{"url": "https://twitter.com/jakubunucka", "icon": "tw"},
+							{"url": "https://www.instagram.com/jakubunucka", "icon": "ig"}
 						]
 					},
 					"links": [
