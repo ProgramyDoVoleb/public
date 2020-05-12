@@ -53,6 +53,9 @@
 						{"url": "https://stredocesky.pirati.cz"},
 						{"url": "https://www.facebook.com/PiratiStredniCechy", "icon": "fb"},
 						{"url": "https://www.twitter.com/pirati_sck", "icon": "tw"}
+					],
+					"list": [
+						 "Jana Skopalíková", "Simona Luftová", "Daniel Netušil", "Petra Smutná", "Tomáš Zmuda", "Adéla Šípová", "Lucie Cirkva Chocholová", "Milan Zelený", "Petr Tomáš", "Petr Procházka", "Jan Lička", "Antonín Schejbal", "Milan Krch", "Martin Suchánek", "Vojtěch Lukavec", "Petr Chaluš", "Tomáš Lénárd", "Magdaléna Vilímovská", "Monika Keřková", "Štěpán Drtina", "Vojtěch Ertl", "Michal Hažlinský", "Jiří Lehejček", "Václav Kubaljak", "Jan Prokop", "Jan Trnka", "Jan Čáha", "Matouš Vanča", "Jaroslav Pros", "Josef Bouše", "Marek Řebíček", "Zdeněk Lajbner", "David Hösl", "Pavel Šanda", "Michal Trešl", "Tereza Kvitová", "Vladimír Kališ", "Markéta Šedivá", "Sámir Shanaáh", "Svatopluk Boček", "Jan Korbel", "Martin Martin", "Jakub Václavovič", "Radek Černohous", "Petr Čáp", "Naděžda Hamplová", "Miroslava Petráňová", "Roman Morávek", "Petr Petřík", "Patrick Zandl", "Jiří Adámek", "Jiřina Procházková", "Dominika Michailidu", "Jan Jurik", "Kristýna Hlásková", "Marek Jeřicha", "Jaroslava Pechová", "Vilém Nájemník", "Ondřej Klimeš", "Jan Lukášek", "Radek Hampl", "Ivan Šedek", "Tomáš Laňka", "Vít Šnajdr"
 					]
 				},
 				{
@@ -622,6 +625,17 @@
 						{"url": "https://www.facebook.com/zregionudokraje", "label": "Volební FB", "icon": "fb"},
 						{"url": "https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090", "icon": "fb", "label": "FB Severočeši"},
 						{"url": "https://www.instagram.com/severocesi.cz", "icon": "ig"}
+					],
+					"list": [
+						"Jaroslav Doubrava",
+						"Martin Šimek",
+						"Bronislav Schwarz",
+						"Radek Slavík",
+						"Josef Kalina",
+						"Jiří Skřivánek",
+						"Olga Kubelková",
+						"Petr Klingr",
+						"Marie Hervertová"
 					]
 				},
 				{
@@ -1046,7 +1060,14 @@
 			"parties": [
 				{
 					"reg": [1, 5, 721, 1039],
-					"leader": "Marián Jurečka"
+					"leader": {
+						"name":"Marián Jurečka",
+						"reg": 1
+					},
+					"list": [
+						{"name": "Zdeňka Blišťanová", "reg": 721},
+						{"name": "Marcela Škvařilová", "reg": 1039}
+					]
 				},
 				{
 					"reg": 53,
@@ -1068,11 +1089,13 @@
 					"leader": "Ladislav Okleštěk"
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": "Michal Symerský"
 				},
 				{
 					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"leader": "Zuzana Majerová Zahradníková"
 				}
 			]
 		},
@@ -1154,8 +1177,8 @@
 					"links": [
 						{"url": "https://www.ods.cz/region.moravskoslezsky", "label": "ODS MSK"},
 						{"url": "https://www.top09.cz/regiony/moravskoslezsky-kraj", "label": "TOP 09 MSK"},
-						{"url": "https://www.facebook.com/ods.moravskoslezskykraj", "icon": "fb"},
-						{"url": "https://www.facebook.com/TOP09.Moravskoslezsky.kraj", "icon": "fb"}
+						{"url": "https://www.facebook.com/ods.moravskoslezskykraj", "icon": "fb", "label": "ODS MSK"},
+						{"url": "https://www.facebook.com/TOP09.Moravskoslezsky.kraj", "icon": "fb", "label": "TOP 09 MSK"}
 					],
 					"list": [
 						{"name": "Zdenka Němečková Crkvenjaš", "reg": 53},
@@ -1164,13 +1187,16 @@
 					]
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": "Josef Babka"
 				},
 				{
-					"reg": 7
+					"reg": 7,
+					"leader": "Petr Kajnar"
 				},
 				{
-					"reg": 1
+					"reg": 1,
+					"leader": "Lukáš Curyla"
 				},
 				{
 					"name": "Trikolora",
