@@ -289,6 +289,54 @@
       "reg": 66
 		},
     {
+      "name": ["", "Jiří", "Carbol", ""],
+      "member": 1,
+      "nominee": 1,
+			"work": "senátor",
+      "links": [],
+      "reg": 69
+    },
+    {
+      "name": ["", "Karel", "Deutscher", ""],
+      "member": 7,
+      "nominee": 7,
+			"work": "náměstek primátora",
+      "links": [],
+      "reg": 69
+    },
+    {
+      "name": ["", "Helena", "Pešatová", ""],
+      "member": 166,
+      "nominee": 166,
+			"work": "starostka",
+      "links": [],
+      "reg": 69
+    },
+    {
+      "name": ["", "Radim", "Mamula", ""],
+      "member": 768,
+      "nominee": 768,
+			"work": "vedoucí provozu",
+      "links": [],
+      "reg": 69
+    },
+    {
+      "name": ["", "Daniel", "Pawlas", ""],
+      "member": 47,
+      "nominee": 47,
+			"work": "poslanec",
+      "links": [],
+      "reg": 69
+    },
+    {
+      "name": ["", "Jaroslav", "Matýs", ""],
+      "member": 99,
+      "nominee": "Trikolora",
+			"work": "dětský a dorostový psychiatr",
+      "links": [],
+      "reg": 69
+    },
+    {
       "name": ["", "Martin", "Tomášek", ""],
       "member": 720,
       "nominee": 720,
@@ -296,10 +344,81 @@
       "links": [],
       "reg": 72
     },
+    {
+      "name": ["", "Zdeňka", "Jiřička", ""],
+      "member": 768,
+      "nominee": 768,
+			"work": "ředitel Psychiatrické nemocnice",
+      "links": [],
+      "reg": 72
+    },
+    {
+      "name": ["", "Petr", "Gajdáček", ""],
+      "member": 47,
+      "nominee": 47,
+			"work": "zastupitel",
+      "links": [],
+      "reg": 72
+    },
+    {
+      "name": ["", "Rostislav", "Gromnica", ""],
+      "member": 166,
+      "nominee": 166,
+			"work": "vedoucí lékař",
+      "links": [],
+      "reg": 72
+    },
+    {
+      "name": ["", "Radim", "Smetana", ""],
+      "member": 47,
+      "nominee": 47,
+			"work": "starosta",
+      "links": [],
+      "reg": 72
+    },
+    {
+      "name": ["", "Andrea", "Wlochová", ""],
+      "member": 99,
+      "nominee": "Trikolora",
+			"work": "vedoucí katedry jazyků",
+      "links": [],
+      "reg": 72
+    },
 		{
 			"name": ["", "Radim", "Kravčík", ""],
 			"member": 720,
 			"nominee": 720,
+			"links": [],
+      "reg": 75
+		},
+		{
+			"name": ["", "Radek", "Sušil", ""],
+			"member": 7,
+			"nominee": 7,
+			"work": "senátor",
+			"links": [],
+      "reg": 75
+		},
+		{
+			"name": ["", "Ondřej", "Feber", ""],
+			"member": 768,
+			"nominee": 768,
+			"work": "starosta",
+			"links": [],
+      "reg": 75
+		},
+		{
+			"name": ["", "Zdena", "Černínová", ""],
+			"member": 47,
+			"nominee": 47,
+			"work": "vedoucí karvinské pohřební služby",
+			"links": [],
+      "reg": 75
+		},
+		{
+			"name": ["", "Daniel", "Placzek", ""],
+      "member": 99,
+      "nominee": "Trikolora",
 			"links": [],
       "reg": 75
 		}

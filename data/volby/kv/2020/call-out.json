@@ -1114,8 +1114,11 @@
 					]
 				},
 				{
-					"reg": 166,
-					"leader": "Petr Gazdík"
+					"reg": [166, 721, "Nový Impuls", "Zlínské hnutí nezávislých"],
+					"leader": {
+						"name": "Petr Gazdík",
+						"reg": 166
+					}
 				},
 				{
 					"reg": 1,
@@ -1148,7 +1151,10 @@
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 716, "Nezávislí"]
+					"reg": ["Trikolora", 716, "Nezávislí"],
+					"leader": {
+						"name": "Jiří Bernátek"
+					}
 				}
 			]
 		},
@@ -1157,11 +1163,19 @@
 			"parties": [
 				{
 					"reg": 720,
-					"leader": "Zuzana Klusová"
+					"leader": "Zuzana Klusová",
+					"list": [
+						"Arnošt Žídek",
+						"Jan Nezhyb"
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "Ivo Vondrák"
+					"leader": "Ivo Vondrák",
+					"list": [
+						"Jaroslav Kania",
+						"Jan Krkoška"
+					]
 				},
 				{
 					"reg": [53, 721],
@@ -1188,19 +1202,47 @@
 				},
 				{
 					"reg": 47,
-					"leader": "Josef Babka"
+					"leader": "Josef Babka",
+					"list": [
+						"Miroslav Hajdušík",
+						"Alena Grosová"
+					]
 				},
 				{
 					"reg": 7,
-					"leader": "Petr Kajnar"
+					"leader": "Petr Kajnar",
+					"list": [
+						"Jan Wolf",
+						"Michal Pobucký"
+					]
 				},
 				{
 					"reg": 1,
-					"leader": "Lukáš Curyla"
+					"leader": "Lukáš Curylo",
+					"list": [
+						"Jiří Navrátil",
+						"Vít Slováček"
+					]
 				},
 				{
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": 166,
+					"leader": "Jan Lipner",
+					"list": [
+						"Martin Polášek"
+					]
+				},
+				{
+					"name": "Trikolora",
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"leader": "Petr Viktorýn",
+					"list": [
+						"Xenie Šustalová",
+						"Libor Hřivnáč"
+					]
 				}
 			]
 		}
