@@ -801,15 +801,36 @@
 			"parties": [
 				{
 					"reg": 703,
-					"leader": "Martin Půta",
+					"leader": {
+						"name": "Martin Půta",
+						"reg": 703,
+						"links": [
+							{"url": "https://martinputa.cz/"},
+							{"url": "https://www.facebook.com/hejtmanmartinputa/", "icon": "fb"},
+							{"url": "https://twitter.com/MartinPuta", "icon": "tw"},
+							{"url": "https://www.instagram.com/hejtmanmartinputa/", "icon": "ig"}
+						]
+					},
 					"support": ["Unie pro sport a zdraví"],
 					"list": [
 						"Jaroslav Zámečník"
+					],
+					"links": [
+						{"url": "https://www.starostoveprolibereckykraj.cz", "label": "Webové stránky"},
+						{"url": "https://www.facebook.com/starostoveprolibereckykraj/", "icon": "fb", "label": "Facebook"}
 					]
 				},
 				{
 					"reg": 720,
-					"leader": "Zbyněk Miklík",
+					"leader": {
+						"name": "Zbyněk Miklík",
+						"reg": 720,
+						"links": [
+							{"url": "https://liberecky.pirati.cz/lide/zbynek-miklik/"},
+							{"url": "https://www.facebook.com/zbynek.miklik.10", "icon": "fb"},
+							{"url": "https://twitter.com/zmiklik"}
+						]
+					},
 					"list": [
 						"Václav Židek",
 						"Jarmila Valešová",
@@ -820,15 +841,46 @@
 						"Ondřej Novosad",
 						"Helena Vondráková",
 						"Petr Vyhnal"
+					],
+					"links": [
+						{"url": "https://liberecky.pirati.cz"},
+						{"url": "https://www.facebook.com/PiratiLib/", "icon": "fb"},
+						{"url": "https://twitter.com/PiratiLik", "icon": "tw"},
+						{"url": "https://www.instagram.com/piratiliberecko/", "icon": "ig", "label": "Piráti LBC"}
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "(návrh) Josef Jadrný"
+					"leader": {
+						"name": "(návrh) Josef Jadrný",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.facebook.com/jadrny", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "http://www.cssdliberecko.cz"},
+						{"url": "https://www.facebook.com/CSSDKVVLiberecko", "icon": "fb", "label": "Facebook"},
+						{"url": "https://twitter.com/CSSD_Liberecko", "icon": "tw"}
+					]
 				},
 				{
 					"reg": 53,
-					"leader": "Dan Ramzer",
+					"leader": {
+						"name": "Dan Ramzer",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/region.liberecky/profil/5178-dan-ramzer"},
+							{"url": "https://www.facebook.com/ramzer.cz/", "icon": "fb"},
+							{"url": "https://twitter.com/danramzer", "icon": "tw"},
+							{"url": "https://www.instagram.com/danramzer/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "http://www.odsregionliberec.cz/", "label": "Webové stránky"},
+						{"url": "https://www.facebook.com/ODS-LIBERECK%C3%9D-KRAJ-150956650459/", "icon": "fb", "label": "ODS Liberecko"},
+						{"url": "https://twitter.com/ODSLibereckkraj", "icon": "tw", "label": "ODS Liberecko"}
+					],
 					"list": [
 						"Vladimír Richter",
 						"Petr Židek",
@@ -847,33 +899,85 @@
 				{
 					"reg": [1, 721],
 					"name": "Společně pro Liberecký kraj",
-					"leader": "Jiří Klápště",
+					"leader": {
+						"name": "Jiří Klápště",
+						"reg": 721,
+						"links": [
+							{"url": "https://www.facebook.com/jiri.klapste", "icon": "fb"},
+							{"url": "https://www.instagram.com/jiriklapste/", "icon": "ig"}
+						]
+					},
 					"list": [
 						{"name": "Štěpán Matek", "reg": 1},
 						{"name": "Jiří Šolc", "reg": 99},
 						{"name": "Josef Šimůnek", "reg": 1},
-						{"name": "Miloslav Václav", "reg": 721}
+						{"name": "Miloslav Václav", "reg": 721},
+						{"name": "Lenka Procházková", "reg": 1},
+						{"name": "Jiří Vondráček", "reg": 721},
+						{"name": "Daniela Šebestová", "reg": 99},
+						{"name": "Tomáš Veber", "reg": 1},
+						{"name": "Libor Šmejda", "reg": 99}
+					],
+					"links": [
+						{"url": "https://www.spolecneprolibereckykraj.cz/"},
+						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "icon": "fb", "label": "KDU-ČSL Liberecko"},
+						{"url": "https://www.facebook.com/TOP09Liberec/", "icon": "fb", "label": "TOP 09 Liberecko"}
 					]
 				},
 				{
 					"reg": [5, 795],
 					"name": "Pro krajinu",
-					"leader": "Josef Šedlbauer",
+					"leader": {
+						"name": "Josef Šedlbauer",
+						"reg": 5,
+						"links": [
+							{"url": "https://www.facebook.com/jsedlbauer/", "icon": "fb"},
+							{"url": "https://twitter.com/JSedlbauer", "icon": "tw"},
+							{"url": "https://www.instagram.com/josef_sedlbauer/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.facebook.com/prokrajinu/", "icon": "fb"},
+						{"url": "https://twitter.com/krajinu", "icon": "tw"},
+						{"url": "https://www.instagram.com/pro_krajinu/", "icon": "ig"},
+						{"url": "https://www.facebook.com/ZeleniLBC/", "icon": "fb"},
+						{"url": "https://twitter.com/ZeleniLbc", "icon": "tw"},
+						{"url": "https://www.instagram.com/zeleni.lk/", "icon": "ig"}
+					],
 					"logo": "obecne/strany/loga/x-pro-krajinu.jpg"
 				},
 				{
 					"reg": 47,
-					"leader": "Stanislav Mackovík",
+					"leader": {
+						"name": "Stanislav Mackovík",
+						"reg": 47,
+						"links": [
+							{"url": "http://old.kscm.cz/nasi-lide/parlament-cr1/poslanecka-snemovna1/stanislav-mackovik"},
+							{"url": "https://www.facebook.com/stanislav.mackovik/", "icon": "fb"}
+						]
+					},
 					"list": [
 						"Jan Koros",
 						"František Pešek",
 						"Miloš Tita",
 						"Jan Dvořák"
+					],
+					"links": [
+						{"url": "https://www.facebook.com/KS%C4%8CM-Libereck%C3%BD-kraj-1624537931096023/", "icon": "fb", "label": "KSČM Liberecko"}
 					]
 				},
 				{
 					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"links": [
+						{"url": "https://www.facebook.com/volimtrikoloruLibereckykrajoficialni/", "icon": "fb", "label": "Facebook"}
+					],
+					"leader": {
+						"name": "Tomáš Rakouš",
+						"links": [
+							{"url": "https://www.facebook.com/tomas.rakous.39", "icon": "fb"}
+						]
+					}
 				}
 			]
 		},
