@@ -651,6 +651,15 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1129,
+					"logo": "obecne/strany/loga/1129-snk1.jpg",
+					"list": [
+						"Markéta Sinkulová Moravcová",
+						"Jitka Pokorná",
+						"Eduard Frisch"
+					]
 				}
 			]
 		},
@@ -1226,7 +1235,8 @@
 					"reg": [721, 5, 1190, "Idealisté", 795],
 					"leader": "Jan Vitula",
 					"list": [
-						"Jana Drápalová"
+						"Jana Drápalová",
+						{"name": "Jiří Kacetl", "reg": 1190}
 					]
 				},
 				{
