@@ -1474,6 +1474,16 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": [5, 166, 88],
+					"links": [
+						{"url": "http://www.zeleni-msk.cz/"},
+						{"url": "https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj", "label": "STAN MSK"},
+						{"url": "https://www.facebook.com/zeleniMSK/", "icon": "fb"},
+						{"url": "https://www.facebook.com/StanMoravskoslezskyKraj/", "icon": "fb", "label": "STAN MSK"},
+						{"url": "https://www.facebook.com/hnutinezavisli/", "icon": "fb"}
+					]
 				}
 			]
 		}
