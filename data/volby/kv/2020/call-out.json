@@ -118,6 +118,9 @@
 						{"url": "https://www.facebook.com/stredocesi/", "icon": "fb"},
 						{"url": "https://twitter.com/zelenistredozem", "icon": "tw"}
 					]
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -126,6 +129,7 @@
 			"parties": [
 				{
 					"reg": [1, 721],
+					"name": "Společně pro jižní Čechy",
 					"leader": {
 						"name": "František Talíř",
 						"reg": 1,
@@ -312,6 +316,9 @@
 				},
 				{
 					"reg": 5
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -485,6 +492,9 @@
 				{
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -616,6 +626,7 @@
 				},
 				{
 					"reg": [166, 721, 113, 182, 5],
+					"name": "STAN – Starostové a nezávislí společně s KOA, VPM Cheb, TOP 09 a Stranou zelených",
 					"leader": {
 						"name": "Petr Kulhánek",
 						"reg": 182,
@@ -637,6 +648,9 @@
 						{"url": "https://www.facebook.com/VPM-Volba-pro-m%C4%9Bsto-1411303629140476/", "icon": "fb", "label": "Volba pro město Cheb"},
 						{"url": "https://www.facebook.com/hnutikoa.cz/", "icon": "fb"}
 					]
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -839,6 +853,9 @@
 				},
 				{
 					"reg": 166
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1017,6 +1034,9 @@
 							{"url": "https://www.facebook.com/tomas.rakous.39", "icon": "fb"}
 						]
 					}
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1058,6 +1078,9 @@
 					"name": "Spolu pro kraj",
 					"leader": "Jiří Štěpán",
 					"reg": [5, 7, "Osobnosti kraje"]
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1111,6 +1134,9 @@
 				},
 				{
 					"reg": ["Trikolora", 716]
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1147,6 +1173,9 @@
 				},
 				{
 					"reg": 1
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1207,6 +1236,9 @@
 				{
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1215,6 +1247,7 @@
 			"parties": [
 				{
 					"reg": [1, 5, 721, 1039],
+					"name": "Spojenci – Koalice pro Olomoucký kraj",
 					"leader": {
 						"name":"Marián Jurečka",
 						"reg": 1
@@ -1251,6 +1284,9 @@
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png",
 					"leader": "Zuzana Majerová Zahradníková"
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1310,6 +1346,9 @@
 					"leader": {
 						"name": "Jiří Bernátek"
 					}
+				},
+				{
+					"reg": 715
 				}
 			]
 		},
@@ -1334,6 +1373,7 @@
 				},
 				{
 					"reg": [53, 721],
+					"name": "ODS s podporou TOP 09",
 					"leader": {
 						"name": "Jakub Unucka",
 						"reg": 53,
@@ -1394,6 +1434,9 @@
 						"Xenie Šustalová",
 						"Libor Hřivnáč"
 					]
+				},
+				{
+					"reg": 715
 				}
 			]
 		}
