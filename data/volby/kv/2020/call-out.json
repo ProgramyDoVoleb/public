@@ -598,6 +598,29 @@
 				{
 					"name": "Trikolora",
 					"logo": "obecne/strany/loga/x-trikolora.png"
+				},
+				{
+					"reg": [166, 721, 113, 182, 5],
+					"leader": {
+						"name": "Petr Kulhánek",
+						"reg": 182,
+						"links": [
+							{"url": "http://petrkulhanek.cz/"},
+							{"url": "https://www.facebook.com/coolhanek/", "icon": "fb"},
+							{"url": "https://twitter.com/p_kulhanek", "icon": "tw"},
+							{"url": "https://www.instagram.com/petr.cool.hanek/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj", "label": "STAN KVK"},
+						{"url": "https://www.top09.cz/regiony/karlovarsky-kraj/", "label": "TOP 09 KVK"},
+						{"url": "http://vpmcheb.cz/"},
+						{"url": "https://www.hnutikoa.cz/"},
+						{"url": "https://www.facebook.com/stankarlovarskykraj/", "icon": "fb", "label": "STAN KVK"},
+						{"url": "https://www.facebook.com/TOP09.Karlovarsky.kraj/", "icon": "fb", "label": "TOP 09 KVK"},
+						{"url": "https://www.facebook.com/VPM-Volba-pro-m%C4%9Bsto-1411303629140476/", "icon": "fb", "label": "Volba pro město Cheb"},
+						{"url": "https://www.facebook.com/hnutikoa.cz/", "icon": "fb"}
+					]
 				}
 			]
 		},
