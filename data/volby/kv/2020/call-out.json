@@ -125,7 +125,7 @@
 			"id": 2,
 			"parties": [
 				{
-					"reg": 1,
+					"reg": [1, 721],
 					"leader": {
 						"name": "František Talíř",
 						"reg": 1,
@@ -149,7 +149,9 @@
 					],
 					"links": [
 						{"url": "http://jiznicechy.kdu.cz", "label": "KDU-ČSL Jižní Čechy"},
-						{"url": "https://www.facebook.com/jihocesky.kdu", "icon": "fb"}
+						{"url": "https://www.top09.cz/regiony/jihocesky-kraj/", "label": "TOP 09 Jižní Čechy"},
+						{"url": "https://www.facebook.com/jihocesky.kdu", "icon": "fb"},
+						{"url": "https://www.facebook.com/TOP09.Jihocesky.kraj/", "icon": "fb"}
 					]
 				},
 				{
@@ -717,7 +719,7 @@
 					]
 				},
 				{
-					"reg": [5, 166, 721, 1126],
+					"reg": [5, 129, 721, 1126],
 					"name": "Spojenci pro kraj",
 					"leader": {
 						"name": "Jiří Řehák",
@@ -798,11 +800,15 @@
 						]
 					},
 					"links": [
-
+						{"url": "https://www.cisty-kraj.cz/"}
 					],
 					"logo": "obecne/strany/loga/x-cisty-kraj.jpg",
 					"links": [
 						{"url": "https://twitter.com/cistykraj", "icon": "tw"}
+					],
+					"list": [
+						"Jana Brambaški",
+						"Jindřich Svoboda"
 					]
 				},
 				{
@@ -830,6 +836,9 @@
 					"links": [
 						{"url": "https://www.facebook.com/TrikoloraUsteckyKraj", "icon": "fb"}
 					]
+				},
+				{
+					"reg": 166
 				}
 			]
 		},
@@ -869,15 +878,7 @@
 						]
 					},
 					"list": [
-						"Václav Židek",
-						"Jarmila Valešová",
-						"Jan Tempel",
-						"Daniela Weissová",
-						"Marek Förster",
-						"Ondřej Víteček",
-						"Ondřej Novosad",
-						"Helena Vondráková",
-						"Petr Vyhnal"
+						"Václav Židek", "Jarmila Valešová", "Jan Tempel", "Daniela Weissová", "Marek Förster", "Ondřej Víteček", "Ondřej Novosad", "Helena Vondráková", "Petr Vyhnal", "David Drobný", "Lukáš Vondrák", "Jan Lehký", "David Schindler", "Kateřina Rosáková", "Miloslav Kafka", "Veronika Vavřinová", "Petr Jeník", "Filip Mastník", "Pavel Felgr", "Pavel Váňa", "Jan Hruška", "Karel Kadlec", "Petr Bukvic", "Lenka Havlíčková"
 					],
 					"links": [
 						{"url": "https://liberecky.pirati.cz"},
@@ -974,6 +975,7 @@
 						]
 					},
 					"links": [
+						{"url": "https://volbaprokrajinu.cz/"},
 						{"url": "https://www.facebook.com/prokrajinu/", "icon": "fb"},
 						{"url": "https://twitter.com/krajinu", "icon": "tw"},
 						{"url": "https://www.instagram.com/pro_krajinu/", "icon": "ig"},
@@ -1174,7 +1176,7 @@
 					]
 				},
 				{
-					"reg": [166, 158],
+					"reg": [166, "Hnutí SOL"],
 					"leader": "František Lukl"
 				},
 				{
