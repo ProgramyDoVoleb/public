@@ -1082,38 +1082,140 @@
 				{
 					"reg": [1, 88, 113],
 					"name": "Koalice pro Královéhradecký kraj",
-					"leader": "Pavel Bělobrádek"
+					"leader": {
+						"name": "Pavel Bělobrádek",
+						"reg": 1,
+						"links": [
+							{"url": "http://www.pavelbelobradek.cz"},
+							{"url": "https://www.facebook.com/Belobradek/", "icon": "fb"},
+							{"url": "https://twitter.com/belobradek", "icon": "tw"},
+							{"url": "https://www.instagram.com/pbelobradek/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "http://www.koalicehk.kdu.cz/"},
+						{"url": "http://kralovehradecky.kdu.cz/", "label": "KDU-ČSL KHK"},
+						{"url": "https://www.nezavisli.cz/"},
+						{"url": "http://vpm2014.cz"},
+						{"url": "https://www.facebook.com/koalicehk/", "icon": "fb"},
+						{"url": "https://www.facebook.com/kdukralovehradecko/", "icon": "fb", "label": "KDU-ČSL KHK"},
+						{"url": "https://www.facebook.com/volbapromestohk/"}
+					]
 				},
 				{
 					"reg": [53, 166, 770],
-					"leader": "Martin Červíček"
+					"leader": {
+						"name": "Martin Červíček",
+						"reg": 53,
+						"links": [
+							{"url": "http://www.martincervicek.cz"},
+							{"url": "https://www.facebook.com/Cervicek.ODS", "icon": "fb"},
+							{"url": "https://twitter.com/Martin_Cervicek", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "http://www.ods.cz/region.kralovehradecky", "label": "ODS KHK"},
+						{"url": "https://www.starostove-nezavisli.cz/regiony/kralovehradecky-kraj", "label": "STAN KHK"},
+						{"url": "http://www.vychodocesi.cz"},
+						{"url": "https://www.facebook.com/ODSKHK/", "icon": "fb"},
+						{"url": "https://www.facebook.com/starostove.kralovehradecky/", "icon": "fb", "label": "STAN KHK"},
+						{"url": "https://www.facebook.com/vychodocesi/", "icon": "fb"},
+						{"url": "https://twitter.com/ODSHradecKrlov", "icon": "tw"},
+						{"url": "https://twitter.com/stan_kraj", "icon": "tw"}
+					]
 				},
 				{
 					"reg": 720,
-					"leader": "Pavel Bulíček"
+					"leader": {
+						"name": "Pavel Bulíček",
+						"reg": 720,
+						"links": [
+							{"url": "https://kralovehradecky.pirati.cz/aktuality/lidrem-piratu-pro-krajske-volby-je-pavel-bulicek.html"},
+							{"url": "https://www.facebook.com/piratpavelbulicek", "icon": "fb"},
+							{"url": "https://twitter.com/PavelBulicek", "icon": "tw"},
+							{"url": "https://www.instagram.com/pavelbulicek/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://kralovehradecky.pirati.cz/"},
+						{"url": "https://www.facebook.com/pirati.khk/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "Jaromír Dědeček"
+					"leader": {
+						"name": "Jaromír Dědeček",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.facebook.com/jaromir.dedecek.144", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.anobudelip.cz/kralovehradecky-kraj", "label": "ANO KHK"},
+						{"url": "https://www.facebook.com/AnoTohleJeHradec/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 47,
-					"leader": "Zdeněk Ondráček"
+					"leader": {
+						"name": "Zdeněk Ondráček",
+						"reg": 47,
+						"links": [
+							{"url": "https://www.kscm.cz/cs/nasi-lide/judr-phdr-zdenek-ondracek-phd"},
+							{"url": "https://www.facebook.com/OndracekZdenek%20/", "icon": "fb"},
+							{"url": "https://www.instagram.com/zdenek.ondracek.56/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "http://kscmkrhk.cz/"},
+						{"url": "https://www.facebook.com/kvkscmkrhk/", "icon": "fb"}
+					]
 				},
 				{
 					"name": "Spojenci pro Královéhradecký kraj",
 					"reg": [721, 1049],
 					"support": [795],
-					"leader": "Aleš Cabicar"
+					"leader": {
+						"name": "Aleš Cabicar",
+						"reg": 721,
+						"links": [
+							{"url": "https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html"},
+							{"url": "https://www.facebook.com/ales.cabicar", "icon": "fb"},
+							{"url": "https://twitter.com/AlesCabicar", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "http://www.top09.cz/regiony/kralovehradecky-kraj", "label": "TOP 09 KHK"},
+						{"url": "http://www.hdkhk.cz"},
+						{"url": "https://www.facebook.com/TOP09.Kralovehradecky.kraj/", "icon": "fb", "label": "TOP 09 KHK"},
+						{"url": "https://www.facebook.com/hdkhk", "icon": "fb"}
+					]
 				},
 				{
 					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"links": [
+						{"url": "https://www.facebook.com/trikolorahk/", "icon": "fb"}
+					]
 				},
 				{
 					"name": "Spolu pro kraj",
-					"leader": "Jiří Štěpán",
-					"reg": [5, 7, "Osobnosti kraje"]
+					"reg": [5, 7, "Osobnosti kraje"],
+					"leader": {
+						"name": "Jiří Štěpán",
+						"reg": 7,
+						"links": [
+							{"url": "http://www.jiri-stepan.cz/"},
+							{"url": "https://www.facebook.com/hejtmanjiristepan/", "icon": "fb"},
+							{"url": "https://twitter.com/stepanjiri1", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "http://kralovehradecky-kraj.cssd.cz/", "label": "ČSSD KHK"},
+						{"url": "http://khk.zeleni.cz/"},
+						{"url": "https://www.facebook.com/KvvCssdHradecKralove/", "icon": "fb", "label": "ČSSD KHK"},
+						{"url": "https://www.facebook.com/zelenehradecko/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 715
