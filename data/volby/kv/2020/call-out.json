@@ -680,7 +680,10 @@
 					"list": [
 						"Miroslav Šůs", "Radka Kvasničková", "Věra Blechová", "Ludvík Beran", "Milada Šulcová", "Václava Molcarová", "Marek Kroha", "David Cervan", "Marta Hondlíková", "Miroslav Ponert", "Petr Majer", "Michaela Rojtová", "Tomáš Riedl", "Vojtěch Hanzlík", "Michal Aufrichtig", "Jiří Kassal", "Hana Baštová", "Jana Tučáková", "Lýdie Duchková", "Pavel Pocklan"
 					],
-					"program": "https://www.skp-rn.cz/krajske-volby",
+					"program": {
+						"source": "https://www.skp-rn.cz/krajske-volby",
+						"local": "kvk-769"
+					},
 					"logo": "obecne/strany/loga/769-SKR-RN.jpg",
 					"motto": "PRO NÁŠ ŽIVOT - PRO NÁŠ KRAJ"
 				}
