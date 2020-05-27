@@ -248,6 +248,18 @@
 						{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj", "label": "STAN Jihočeský"},
 						{"url": "https://www.facebook.com/starostove.jihocesky", "icon": "fb"},
 						{"url": "https://twitter.com/jck_stan", "icon": "tw"}
+					],
+					"lide": [
+						"Jaroslava Martanová",
+						"Pavel Houdek",
+						"Jiří Šimánek",
+						"Viktor Vojtko",
+						"Josef Knot",
+						"Dalibor Carda",
+						"Milan Němeček",
+						"Hynek Blažek",
+						"František Toušek",
+						"Lenka Malá"
 					]
 				},
 				{
@@ -491,7 +503,17 @@
 				},
 				{
 					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"logo": "obecne/strany/loga/x-trikolora.png",
+					"leader": {
+						"name": "Pavel Borusík",
+						"links": [
+							{"url": "https://www.facebook.com/pavel.borusik", "icon": "fb"},
+							{"url": "https://www.instagram.com/pavelborusik/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.facebook.com/Trikol%C3%B3ra-Plze%C5%88sk%C3%BD-kraj-ofici%C3%A1ln%C3%AD-106716317487930/", "icon": "fb", "label": "Trikolora"}
+					]
 				},
 				{
 					"reg": 715
@@ -1295,8 +1317,31 @@
 				{
 					"reg": [166, 129],
 					"name": "Starostové pro Vysočinu",
-					"leader": "Lukáš Vlček",
-					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"]
+					"leader": {
+						"name": "Lukáš Vlček",
+						"reg": 166,
+						"links": [
+							{"url": "https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas"},
+							{"url": "https://www.facebook.com/VlcekProVysocinu/", "icon": "fb"},
+							{"url": "https://www.instagram.com/vlcek.starosta/", "icon": "ig"}
+						]
+					},
+					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"],
+					"links": [
+						{"url": "https://www.starostove-nezavisli.cz/regiony/vysocina", "label": "STAN Vysočina"},
+						{"url": "http://www.snked.cz/"},
+						{"url": "https://www.facebook.com/ProVysocinu/", "icon": "fb"},
+						{"url": "https://www.facebook.com/STAN.Kraj.Vysocina", "icon": "fb", "label": "STAN Vysočina"},
+						{"url": "https://www.facebook.com/snked/", "icon": "fb"}
+					],
+					"list": [
+						"Karolína Koubová",
+						"Martin Mrkos",
+						"Pavel Pacal",
+						"Bohumír Nikl",
+						"Zdeněk Tůma",
+						"Roman Fabeš"
+					]
 				},
 				{
 					"reg": 47
