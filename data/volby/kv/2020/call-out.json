@@ -35,6 +35,9 @@
 						{"url": "http://stredocesky-kraj.cssd.cz"},
 						{"url": "https://www.facebook.com/JistotyproStredocechy", "icon": "fb"},
 						{"url": "https://www.instagram.com/cssdstredocesky", "icon": "ig"}
+					],
+					"list": [
+						"Aneta Heřmanová"
 					]
 				},
 				{
@@ -97,6 +100,10 @@
 						{"url": "http://www.snked.cz"},
 						{"url": "https://www.facebook.com/snked", "icon": "fb"},
 						{"url": "https://twitter.com/SNK_ED", "icon": "tw"}
+					],
+					"list": [
+						{"name": "Zdeněk Volf", "reg": 1},
+						{"name": "Stanislav Boloňský", "reg": 129}
 					]
 				},
 				{
@@ -104,11 +111,24 @@
 					"logo": "obecne/strany/loga/x-trikolora.png"
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": {
+						"name": "Zdeněk Štefek"
+					},
+					"list": [
+						"Ivan Cinka",
+						"Ladislava Šimková",
+						"Jindřich Havelka",
+						"Václav Melša"
+					]
 				},
 				{
 					"name": "Spojenci pro Středočeský kraj",
 					"reg": [721, 5, 1220],
+					"leader": {
+						"name": "Jan Jakob",
+						"reg": 721
+					},
 					"links": [
 						{"url": "https://www.top09.cz/regiony/stredocesky-kraj/", "label": "TOP 09 STK"},
 						{"url": "http://stredocesky.zeleni.cz/", "label": "Zelení STK"},
@@ -539,7 +559,11 @@
 						{"url": "https://www.facebook.com/rs.ods.karlovarsky.kraj", "icon": "fb", "label": "ODS Karlovarsko"},
 						{"url": "https://www.facebook.com/kdukvkraj", "icon": "fb"}
 					],
-					"support": [716]
+					"support": [716],
+					"list": [
+						{"name": "Jan Bureš", "reg": 53},
+						{"name": "Olga Haláková", "reg": 1}
+					]
 				},
 				{
 					"reg": 47,
@@ -640,7 +664,10 @@
 					]
 				},
 				{
-					"reg": 7
+					"reg": 7,
+					"leader": {
+						"name": "Michal Červenka"
+					}
 				},
 				{
 					"name": "Trikolora",
@@ -708,6 +735,15 @@
 					},
 					"logo": "obecne/strany/loga/769-SKR-RN.jpg",
 					"motto": "PRO NÁŠ ŽIVOT - PRO NÁŠ KRAJ"
+				},
+				{
+					"reg": 768,
+					"leader": {
+						"name": "Petr Kubis"
+					},
+					"list": [
+						"Jana Mračková Vildumetzová"
+					]
 				}
 			]
 		},
@@ -823,6 +859,9 @@
 					},
 					"links": [
 						{"url": "https://www.usti-kscm.cz"}
+					],
+					"list": [
+						"Oldřich Bubeníček"
 					]
 				},
 				{
@@ -909,10 +948,19 @@
 					]
 				},
 				{
-					"reg": 166
+					"reg": 166,
+					"leader": {
+						"name": "Filip Ušák"
+					}
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 768,
+					"leader": {
+						"name": "Jan Schiller"
+					}
 				}
 			]
 		},
@@ -1094,6 +1142,12 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 768,
+					"leader": {
+						"name": "Jitka Volfová"
+					}
 				}
 			]
 		},
@@ -1121,6 +1175,10 @@
 						{"url": "https://www.facebook.com/koalicehk/", "icon": "fb"},
 						{"url": "https://www.facebook.com/kdukralovehradecko/", "icon": "fb", "label": "KDU-ČSL KHK"},
 						{"url": "https://www.facebook.com/volbapromestohk/"}
+					],
+					"list": [
+						{"name": "Martin Machů", "reg": 1},
+						{"name": "Miroslav Půža", "reg": 113}
 					]
 				},
 				{
@@ -1143,6 +1201,12 @@
 						{"url": "https://www.facebook.com/vychodocesi/", "icon": "fb"},
 						{"url": "https://twitter.com/ODSHradecKrlov", "icon": "tw"},
 						{"url": "https://twitter.com/stan_kraj", "icon": "tw"}
+					],
+					"list": [
+						{"name": "Martina Berdychová", "reg": 770},
+						{"name": "Rudolf Cogan", "reg": 166},
+						{"name": "Václav Řehoř", "reg": 53},
+						{"name": "Ivan Adamec", "reg": 53}
 					]
 				},
 				{
@@ -1160,6 +1224,10 @@
 					"links": [
 						{"url": "https://kralovehradecky.pirati.cz/", "label": "Piráti KHK"},
 						{"url": "https://www.facebook.com/pirati.khk/", "icon": "fb"}
+					],
+					"list": [
+						"Adam Valenta",
+						{"name": "Martina Vágner Dostálová", "reg": 99}
 					]
 				},
 				{
@@ -1174,6 +1242,10 @@
 					"links": [
 						{"url": "https://www.anobudelip.cz/kralovehradecky-kraj", "label": "ANO KHK"},
 						{"url": "https://www.facebook.com/AnoTohleJeHradec/", "icon": "fb"}
+					],
+					"list": [
+						"Eva Matyášová",
+						"Petr Koleta"
 					]
 				},
 				{
@@ -1190,6 +1262,10 @@
 					"links": [
 						{"url": "http://kscmkrhk.cz/"},
 						{"url": "https://www.facebook.com/kvkscmkrhk/", "icon": "fb"}
+					],
+					"list": [
+						{"name": "Petra Zakouřilová", "reg": 99},
+						"Táňa Šormová"
 					]
 				},
 				{
@@ -1210,6 +1286,9 @@
 						{"url": "http://www.hdkhk.cz"},
 						{"url": "https://www.facebook.com/TOP09.Kralovehradecky.kraj/", "icon": "fb", "label": "TOP 09 KHK"},
 						{"url": "https://www.facebook.com/hdkhk", "icon": "fb"}
+					],
+					"list": [
+						{"name": "Pavlína Springerová", "reg": 1049}
 					]
 				},
 				{
@@ -1236,6 +1315,11 @@
 						{"url": "http://khk.zeleni.cz/"},
 						{"url": "https://www.facebook.com/KvvCssdHradecKralove/", "icon": "fb", "label": "ČSSD KHK"},
 						{"url": "https://www.facebook.com/zelenehradecko/", "icon": "fb"}
+					],
+					"list": [
+						{"name": "Martin Hanousek", "reg": 5},
+						{"name": "Pavel Hečko", "reg": 7},
+						{"name": "Jan Birke", "reg": 7}
 					]
 				},
 				{
@@ -1248,7 +1332,7 @@
 			"parties": [
 				{
 					"reg": [7, "Společně pro kraj"],
-					"name": "Pro prosperující kraj",
+					"name": "3PK - Pro prosperující Pardubický kraj",
 					"leader": "Martin Netolický"
 				},
 				{
@@ -1283,19 +1367,34 @@
 				},
 				{
 					"reg": [53, 721],
-					"leader": "Michal Kortyš"
+					"leader": "Michal Kortyš",
+					"list": [
+						{"name": "Jiří Skalický", "reg": 721}
+					]
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": {
+						"name": "Jan Foldyna"
+					}
 				},
 				{
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 716]
+					"reg": ["Trikolora", 716],
+					"leader": {
+						"name": "Petr Bajer"
+					}
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 166,
+					"leader": {
+						"name": "Michaela Matoušková"
+					}
 				}
 			]
 		},
@@ -1344,7 +1443,10 @@
 					]
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": {
+						"name": "Pavel Hodáč"
+					}
 				},
 				{
 					"reg": 5
@@ -1354,10 +1456,22 @@
 					"logo": "obecne/strany/loga/x-trikolora.png"
 				},
 				{
-					"reg": 1
+					"reg": 1,
+					"leader": {
+						"name": "Vít Kaňkovský"
+					}
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 768,
+					"leader": {
+						"name": "Martin Kukla"
+					},
+					"list": [
+						"Pavel Franěk"
+					]
 				}
 			]
 		},
@@ -1372,6 +1486,8 @@
 					},
 					"support": [714, 158],
 					"list": [
+						"Jiří Crha",
+						"Vladimír Šmerda",
 						{"name": "Marek Šoška", "reg": 714}
 					]
 				},
@@ -1383,25 +1499,35 @@
 					"reg": 720,
 					"leader": "Lukáš Dubec",
 					"list": [
-						"Jiří Hlavenka"
+						"Jiří Hlavenka",
+						"Jana Leitnerová"
 					]
 				},
 				{
 					"reg": [166, "Hnutí SOL"],
-					"leader": "František Lukl"
+					"leader": "František Lukl",
+					"list": [
+						"Martin Maleček",
+						"Radomír Pavlíček"
+					]
 				},
 				{
 					"reg": 768,
 					"leader": "Petr Vokřál",
 					"list": [
 						"Karin Šulcová",
+						"Milan Vojta",
 						"Bohumil Šimek",
 						"Taťána Malá"
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "Marek Šlapal"
+					"leader": "Marek Šlapal",
+					"list": [
+						"Roman Hanák",
+						"Vít Rajtšlégr"
+					]
 				},
 				{
 					"name": "Spolu pro Moravu",
@@ -1409,12 +1535,17 @@
 					"leader": "Jan Vitula",
 					"list": [
 						"Jana Drápalová",
+						{"name": "Tomáš Třetina", "reg": 721},
 						{"name": "Jiří Kacetl", "reg": 1190}
 					]
 				},
 				{
 					"reg": 47,
-					"leader": "Stanislav Navrkal"
+					"leader": "Stanislav Navrkal",
+					"list": [
+						"Filip Zachariaš",
+						"Martin Říha"
+					]
 				},
 				{
 					"name": "Trikolora",
@@ -1450,7 +1581,10 @@
 				},
 				{
 					"reg": [166, 720],
-					"leader": "Josef Suchánek",
+					"leader": {
+						"name": "Josef Suchánek",
+						"reg": 166
+					},
 					"list": [
 						{"name": "Zdeňka Dvořáková Kocourková", "reg": 720}
 					]
@@ -1527,11 +1661,17 @@
 				{
 					"reg": ["Trikolora", 716, "Nezávislí"],
 					"leader": {
-						"name": "Jiří Bernátek"
+						"name": "Jaromír Bernátek"
 					}
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 714,
+					"leader": {
+						"name": "Tomáš Pajonk"
+					}
 				}
 			]
 		},
