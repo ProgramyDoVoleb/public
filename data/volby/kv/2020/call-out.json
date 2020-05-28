@@ -997,7 +997,8 @@
 							{"url": "https://liberecky.pirati.cz/lide/zbynek-miklik/"},
 							{"url": "https://www.facebook.com/zbynek.miklik.10", "icon": "fb"},
 							{"url": "https://twitter.com/zmiklik"}
-						]
+						],
+						"about": "Zbyněk Miklík se narodil v 17. února 1975 v Boskovicích, studoval v Brně, žil v Praze a nyní již šestým rokem žije v Turnově. Je ženatý, má dvě děti. Členem Pirátské strany je od května 2018."
 					},
 					"list": [
 						"Václav Židek", "Jarmila Valešová", "Jan Tempel", "Daniela Weissová", "Marek Förster", "Ondřej Víteček", "Ondřej Novosad", "Helena Vondráková", "Petr Vyhnal", "David Drobný", "Lukáš Vondrák", "Jan Lehký", "David Schindler", "Kateřina Rosáková", "Miloslav Kafka", "Veronika Vavřinová", "Petr Jeník", "Filip Mastník", "Pavel Felgr", "Pavel Váňa", "Jan Hruška", "Karel Kadlec", "Petr Bukvic", "Lenka Havlíčková"
@@ -1063,9 +1064,11 @@
 						"name": "Jiří Klápště",
 						"reg": 721,
 						"links": [
+							{"url": "https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri"},
 							{"url": "https://www.facebook.com/jiri.klapste", "icon": "fb"},
 							{"url": "https://www.instagram.com/jiriklapste/", "icon": "ig"}
-						]
+						],
+						"quote": "Čelíme stále narůstajícím problémům, které jsou způsobeny změnou klimatu. Sucho, vlny veder, nedostatek pitné vody, to jsou aktuální témata, která je třeba řešit, aby Liberecký kraj zůstal i nadále tak dobrým místem pro život, jak tomu bylo doposud."
 					},
 					"list": [
 						{"name": "Štěpán Matek", "reg": 1},
@@ -1319,6 +1322,7 @@
 					"list": [
 						{"name": "Martin Hanousek", "reg": 5},
 						{"name": "Pavel Hečko", "reg": 7},
+						{"name": "František Mencl (potvrzujeme)", "reg": 99},
 						{"name": "Jan Birke", "reg": 7}
 					]
 				},
@@ -1333,7 +1337,39 @@
 				{
 					"reg": [7, "Společně pro kraj"],
 					"name": "3PK - Pro prosperující Pardubický kraj",
-					"leader": "Martin Netolický"
+					"leader": {
+						"name": "Martin Netolický",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.facebook.com/martinnetolickyhejtman", "icon": "fb"}
+						]
+					},
+					"list": [
+						"Miroslav Kčril",
+						"Josef Bidmon",
+						"Vladimír Ninger",
+						"Petr Fiala",
+						"Pavel Havíř",
+						"Josef Kozel",
+						"Lenka Pařízková",
+						"Bohumil Bernášek",
+						"Alena Šírová",
+						"Josef Hájek",
+						"Václav Kubín",
+						"Jan Stránský",
+						"Radko Martínek",
+						"Jan Macháček",
+						"Václav Roček",
+						"Lenka Tlustá",
+						"Ladislava Kratochvilová",
+						"Václav Kroutil",
+						"Marcel Vojtěch"
+					],
+					"logo": "obecne/strany/loga/x-3pk.png",
+					"links": [
+						{"url": "https://www.3pk.cz"},
+						{"url": "https://www.facebook.com/3PKoficialni/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 720,
