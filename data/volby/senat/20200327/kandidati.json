@@ -192,7 +192,11 @@
 			"from": "Duchcov",
 			"fromID": 567515,
 			"work": "starosta Duchcova",
-			"sex": "m"
+			"sex": "m",
+			"links": [
+				{"url": "https://www.facebook.com/Zbyn%C4%9Bk-%C5%A0imbera-starosta-a-kandid%C3%A1t-do-Sen%C3%A1tu-103354114615488/", "icon": "fb"},
+				{"url": "https://cs.wikipedia.org/wiki/Zbyn%C4%9Bk_%C5%A0imbera", "icon": "wiki"}
+			]
 		}
 	]
 }
