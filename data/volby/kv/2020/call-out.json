@@ -1341,7 +1341,8 @@
 						"name": "Martin Netolický",
 						"reg": 7,
 						"links": [
-							{"url": "https://www.facebook.com/martinnetolickyhejtman", "icon": "fb"}
+							{"url": "https://www.facebook.com/martinnetolickyhejtman", "icon": "fb"},
+							{"url": "https://twitter.com/NetolickyMartin", "icon": "tw"}
 						]
 					},
 					"list": [
@@ -1472,7 +1473,7 @@
 					]
 				},
 				{
-					"reg": ["Trikolora", 716],
+					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716],
 					"leader": {
 						"name": "Petr Bajer",
 						"reg": 716,
@@ -1769,7 +1770,7 @@
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 716, "Nezávislí"],
+					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716, "Nezávislí"],
 					"leader": {
 						"name": "Jaromír Bernátek"
 					}
