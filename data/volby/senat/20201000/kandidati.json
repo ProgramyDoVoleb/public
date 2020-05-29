@@ -222,6 +222,18 @@
       "reg": 45
     },
     {
+      "name": ["JUDr.", "Jan", "Holásek", "LL.M."],
+      "member": 99,
+      "nominee": 99,
+			"work": "právník a zastupitel",
+			"links": [
+				{"url": "https://www.facebook.com/JHolasek/", "icon": "fb"},
+				{"url": "https://twitter.com/honzaholasek", "icon": "tw"}
+			],
+      "reg": 45,
+			"support": [1049, "Senátor 21", 721, 795]
+    },
+    {
       "name": ["", "Michal", "Šmarda", ""],
       "member": 7,
       "nominee": 7,
