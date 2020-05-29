@@ -138,8 +138,7 @@
       "nominee": 99,
       "work": "senátor",
       "links": [],
-      "reg": 27,
-			"support": ["Praha Sobě", 1, 5, "Senátor 21"]
+      "reg": 27
     },
     {
       "name": ["", "Adéla", "Šípová", ""],
@@ -263,6 +262,13 @@
       "reg": 63
 		},
 		{
+			"name": ["", "Jitka", "Seitlová", ""],
+			"nominee": 1,
+			"member": 1,
+			"links": [],
+      "reg": 63
+		},
+		{
 			"name": ["", "Pavel", "Ondrůj", ""],
 			"nominee": 720,
 			"member": 720,
@@ -273,7 +279,7 @@
       "reg": 63
 		},
 		{
-			"name": ["", "Miroslav", "Rajndl", ""],
+			"name": ["", "Miroslav", "Raindl", ""],
 			"nominee": 47,
 			"member": 47,
 			"links": [],
@@ -447,6 +453,34 @@
       "nominee": "Trikolora",
 			"links": [],
       "reg": 75
+		},
+		{
+			"name": ["", "Petr", "Michálek", ""],
+      "member": 99,
+      "nominee": 166,
+			"work": "ředitel divadla",
+			"links": [
+				{"url": "http://michalekdosenatu.cz/"},
+				{"url": "https://petrmichalek.blog/"},
+				{"url": "https://www.facebook.com/Michalek.zlin/", "icon": "fb"}
+			],
+      "reg": 78
+		},
+		{
+			"name": ["", "Petr", "Sládek", ""],
+			"member": 99,
+			"nominee": 53,
+			"work": "ředitel nemocnice",
+			"links": [],
+      "reg": 81
+		},
+		{
+			"name": ["", "Josef", "Bazala", ""],
+			"member": 1,
+			"nominee": 1,
+			"work": "starosta",
+			"links": [],
+      "reg": 81
 		}
 	]
 }
