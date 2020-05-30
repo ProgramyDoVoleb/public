@@ -1743,7 +1743,12 @@
 				{
 					"reg": 1,
 					"leader": "Jiří Čunek",
-					"status": "nejisté, rozhodnutí se očekává v březnu"
+					"list": [
+						"Josef Bazala",
+						"Zdislava Odstrčilová",
+						"Robert Teleky",
+						"Michaela Blahová"
+					]
 				},
 				{
 					"reg": 7,
@@ -1751,8 +1756,10 @@
 				},
 				{
 					"reg": 768,
+					"leader": {
+						"name": "Jiří Sukop"
+					},
 					"list": [
-						"Jiří Sukop",
 						"Pavel Pustějovský"
 					]
 				},
@@ -1783,6 +1790,12 @@
 					"reg": 714,
 					"leader": {
 						"name": "Tomáš Pajonk"
+					}
+				},
+				{
+					"reg": 1114,
+					"leader": {
+						"name": "Vladimír Zlínský"
 					}
 				}
 			]
@@ -1874,6 +1887,14 @@
 						{"url": "https://www.facebook.com/zeleniMSK/", "icon": "fb"},
 						{"url": "https://www.facebook.com/StanMoravskoslezskyKraj/", "icon": "fb", "label": "STAN MSK"},
 						{"url": "https://www.facebook.com/hnutinezavisli/", "icon": "fb"}
+					],
+					"leader": {
+						"name": "Jan Lipner",
+						"reg": 166
+					},
+					"list": [
+						{"name": "Martin Polášek", "reg": 88},
+						{"name": "Ondřej Syrovátka", "reg": 5}
 					]
 				}
 			]
