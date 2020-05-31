@@ -12,8 +12,8 @@
     },
     {
       "name": ["", "Zdeněk", "Pištora", ""],
-      "member": "Trikolora",
-      "nominee": "Trikolora",
+      "member": 1227,
+      "nominee": 1227,
       "reg": 6
     },
     {
@@ -173,8 +173,8 @@
 		},
     {
       "name": ["", "Zdeněk", "Říha", ""],
-      "member": "Trikolora",
-      "nominee": "Trikolora",
+      "member": 1227,
+      "nominee": 1227,
       "reg": 33
 		},
 		{
@@ -231,7 +231,7 @@
 				{"url": "https://twitter.com/honzaholasek", "icon": "tw"}
 			],
       "reg": 45,
-			"support": [1049, "Senátor 21", 721, 795]
+			"support": [1049, 1187, 721, 795]
     },
     {
       "name": ["", "Michal", "Šmarda", ""],
@@ -375,7 +375,7 @@
     {
       "name": ["", "Jaroslav", "Matýs", ""],
       "member": 99,
-      "nominee": "Trikolora",
+      "nominee": 1227,
 			"work": "dětský a dorostový psychiatr",
       "links": [],
       "reg": 69
@@ -423,7 +423,7 @@
     {
       "name": ["", "Andrea", "Wlochová", ""],
       "member": 99,
-      "nominee": "Trikolora",
+      "nominee": 1227,
 			"work": "vedoucí katedry jazyků",
       "links": [],
       "reg": 72
@@ -462,7 +462,7 @@
 		{
 			"name": ["", "Daniel", "Placzek", ""],
       "member": 99,
-      "nominee": "Trikolora",
+      "nominee": 1227,
 			"links": [],
       "reg": 75
 		},
@@ -508,5 +508,214 @@
 			"links": [],
       "reg": 81
 		}
+	],
+	"current": [
+		{
+			"reg": 3,
+			"name": ["", "Miroslav", "Nenutil", ""],
+			"member": 7,
+			"club": 7,
+			"id": 211
+		},
+		{
+			"reg": 6,
+			"name": ["", "Zdeňka", "Hamousová", ""],
+			"member": 99,
+			"club": 768,
+			"id": 274
+		},
+		{
+			"reg": 9,
+			"name": ["", "Lumír", "Aschenbrenner", ""],
+			"member": 53,
+			"club": 53,
+			"id": 275
+		},
+		{
+			"reg": 12,
+			"name": ["", "Karel", "Kratochvíle", ""],
+			"member": 7,
+			"club": 7,
+			"id": 276
+		},
+		{
+			"reg": 15,
+			"name": ["", "Milan", "Štěch", ""],
+			"member": 7,
+			"club": 7,
+			"id": 15,
+			"again": true
+		},
+		{
+			"reg": 18,
+			"name": ["", "Jiří", "Burian", ""],
+			"member": 53,
+			"club": 53,
+			"id": 277,
+			"again": true
+		},
+		{
+			"reg": 21,
+			"name": ["", "Václav", "Láska", ""],
+			"member": 99,
+			"club": 1187,
+			"id": 278,
+			"again": true
+		},
+		{
+			"reg": 24,
+			"name": ["", "David", "Smoljak", ""],
+			"member": 99,
+			"club": 166,
+			"id": 334
+		},
+		{
+			"reg": 27,
+			"name": ["", "Václav", "Hampl", ""],
+			"member": 99,
+			"club": 1,
+			"id": 280,
+			"again": true
+		},
+		{
+			"reg": 30,
+			"name": ["", "Jiří", "Dienstbier", ""],
+			"member": 7,
+			"club": 7,
+			"id": 253,
+			"again": true
+		},
+		{
+			"reg": 33,
+			"name": ["", "Zbyněk", "Linhart", ""],
+			"member": 99,
+			"club": 166,
+			"id": 281,
+			"again": true
+		},
+		{
+			"reg": 36,
+			"name": ["", "Jiří", "Vosecký", ""],
+			"member": 703,
+			"club": 166,
+			"id": 282
+		},
+		{
+			"reg": 39,
+			"name": ["", "Jan", "Sobotka", ""],
+			"member": 99,
+			"club": 166,
+			"id": 311
+		},
+		{
+			"reg": 42,
+			"name": ["", "Emilie", "Třísková", ""],
+			"member": 99,
+			"club": 7,
+			"id": 284
+		},
+		{
+			"reg": 45,
+			"name": ["", "Jaroslav", "Malý", ""],
+			"member": 99,
+			"club": 7,
+			"id": 285
+		},
+		{
+			"reg": 48,
+			"name": ["", "Miroslav", "Antl", ""],
+			"member": 99,
+			"club": 7,
+			"id": 224
+		},
+		{
+			"reg": 51,
+			"name": ["", "František", "Bradáč", ""],
+			"member": 1,
+			"club": 1,
+			"id": 286
+		},
+		{
+			"reg": 54,
+			"name": ["", "Pavel", "Štohl", ""],
+			"member": 99,
+			"club": 7,
+			"id": 287
+		},
+		{
+			"reg": 57,
+			"name": ["", "Ivo", "Bárek", ""],
+			"member": 7,
+			"club": 7,
+			"id": 139
+		},
+		{
+			"reg": 60,
+			"name": ["", "Zdeněk", "Papoušek", ""],
+			"member": 99,
+			"club": 1,
+			"id": 288
+		},
+		{
+			"reg": 63,
+			"name": ["", "Jitka", "Seitlová", ""],
+			"member": 1,
+			"club": 1,
+			"id": 63,
+			"again": true
+		},
+		{
+			"reg": 66,
+			"name": ["", "Alena", "Šromová", ""],
+			"member": 1,
+			"club": 1,
+			"id": 289
+		},
+		{
+			"reg": 69,
+			"name": ["", "Jiří", "Carbol", ""],
+			"member": 1,
+			"club": 1,
+			"id": 290,
+			"again": true
+		},
+		{
+			"reg": 72,
+			"name": ["", "Peter", "Koliba", ""],
+			"member": 99,
+			"club": 768,
+			"id": 291
+		},
+		{
+			"reg": 75,
+			"name": ["", "Radek", "Sušil", ""],
+			"member": 7,
+			"club": 7,
+			"id": 231,
+			"again": true
+		},
+		{
+			"reg": 78,
+			"name": ["", "Tomáš", "Goláň", ""],
+			"member": 99,
+			"club": 1187,
+			"id": 312
+		},
+		{
+			"reg": 81,
+			"name": ["", "Ivo", "Valenta", ""],
+			"member": 99,
+			"club": 53,
+			"id": 293,
+			"again": true
+		}
+	],
+	"clubs": [
+		{"reg": 1, "name": "Senátorský klub KDU-ČSL a nezávislí"},
+		{"reg": 7, "name": "Senátorský klub České strany sociálně demokratické"},
+		{"reg": 53, "name": "Senátorský klub Občanské demokratické strany"},
+		{"reg": 166, "name": "Klub Starostové a nezávislí"},
+		{"reg": 768, "name": "Senátorský klub ANO"},
+		{"reg": 1187, "name": "Klub pro liberální demokracii - SENÁTOR 21"}
 	]
 }

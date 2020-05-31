@@ -1513,15 +1513,56 @@
 			"parties": [
 				{
 					"reg": 7,
-					"leader": "Jiří Běhounek"
+					"leader": {
+						"name": "Jiří Běhounek",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.cssd.cz/nasi-lide/jiri-behounek/"},
+							{"url": "https://www.facebook.com/behounek.jiri/", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "http://kraj-vysocina.cssd.cz/"},
+						{"url": "https://www.facebook.com/cssdkrajvysocina/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 720,
-					"leader": "Hana Hajnová"
+					"leader": {
+						"name": "Hana Hajnová",
+						"reg": 720,
+						"links": [
+							{"url": "https://vysocina.pirati.cz/lide/hana-hajnova/"},
+							{"url": "https://www.facebook.com/hanka.hajnova", "icon": "fb"},
+							{"url": "https://twitter.com/PiratkaHanka", "icon": "tw"}
+						]
+					},
+					"links": [
+						{"url": "https://vysocina.pirati.cz/"},
+						{"url": "https://www.facebook.com/pirati.vysocina/", "icon": "fb"},
+						{"url": "https://twitter.com/pirativys", "icon": "tw"},
+						{"url": "https://www.instagram.com/pirati_vysocina/", "icon": "ig"}
+					],
+					"list": [
+						"Jan Břížďala", "Blanka Lednická", "Jiří Wiche", "Pavel Knežik", "Eva Nováková", "Roman Pašek", "Milan Daďourek", "Miroslav Vácha", "Jiří Svoboda", "Daniel Škarka", "Václav Honzl", "Petra Kujínek Polodnová", "Irena Bačinová", "Ladislav Stalmach", "Michaela Vodová", "Jakub Šmíd", "Jan Kerber", "Viktorie Vidláková", "Tereza Mašková", "Zdeňka Lišková", "Vít Žáček", "Petr Kozel", "Markéta Šimková", "Jaroslav Zejda", "Josef Kořínek", "Marta Kozdas", "Jaroslav Vysoký", "Marek Křejpský"
+					]
 				},
 				{
 					"reg": [53, 779],
-					"leader": "Vítězslav Schrek"
+					"leader": {
+						"name": "Vítězslav Schrek",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/profil/5265-vitezslav-schrek"},
+							{"url": "https://www.facebook.com/vitezslavschrek/", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.ods.cz/region.vysocina"},
+						{"url": "https://www.starostoveproobcany.cz/"},
+						{"url": "https://www.facebook.com/ODSVysocina/", "icon": "fb"},
+						{"url": "https://www.facebook.com/starostoveproobcany/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": [166, 129],
@@ -1555,20 +1596,51 @@
 				{
 					"reg": 47,
 					"leader": {
-						"name": "Pavel Hodáč"
-					}
+						"name": "Pavel Hodáč",
+						"reg": 47,
+						"links": [
+							{"url": "https://www.facebook.com/pavel.hodac.1", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://vysocina.kscm.cz/cs"},
+						{"url": "https://www.facebook.com/KSCMVysocina/", "icon": "fb"}
+					]
 				},
 				{
-					"reg": 5
+					"reg": 5,
+					"links": [
+						{"url": "http://zelenavysocina.cz/"},
+						{"url": "https://www.facebook.com/szvysocina/", "icon": "fb"}
+					]
 				},
 				{
-					"reg": 1227
+					"reg": 1227,
+					"links": [
+						{"url": "https://www.facebook.com/volimtrikoloruVysocina/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 1,
 					"leader": {
-						"name": "Vít Kaňkovský"
-					}
+						"name": "Vít Kaňkovský",
+						"reg": 1,
+						"links": [
+							{"url": "http://www.vitkankovsky.cz/"},
+							{"url": "https://www.facebook.com/VitKankovsky", "icon": "fb"},
+							{"url": "https://twitter.com/VtKAKOVSK1", "icon": "tw"},
+							{"url": "https://www.instagram.com/vitkankovsky/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.kduvysocina.cz/"},
+						{"url": "https://www.facebook.com/kduvysocina/", "icon": "fb"},
+						{"url": "", "icon": "tw"},
+						{"url": "", "icon": "ig"}
+					],
+					"list": [
+						"Marie Duďíková", "Pavel Janoušek", "Jan Tourek", "Miroslav Houška", "Josef Klement", "Josef Herbrych", "Štěpán Komárek", "Čeněk Jůzl", "Vlastimil Brukner", "Jaroslav Katolický", "Aleš Kratina", "Vladislav Hynk", "František Bradáč", "Magdalena Weberová-Chvílová", "Josef Homolka", "Josef Koch", "Vít Feldbabel", "Magda Vaňková", "Antonín Váša", "Pavel Janata", "Vilém Antonů", "Bohdana Trávníčková", "Jan Málek", "Tomáš Kučera", "Aleš Petrák", "Petr Žák", "Marie Prknová", "Martin Havlíček", "František Němec", "Miroslav Krupica", "Josef Málek", "Jiří Danihel", "Pavla Krejzlová", "Eva Jurečková", "Tomáš Preiniger", "Jan Souček", "Tomáš Havlík", "Ondřej Rázl", "Jaroslav Hrubý", "Benjamin Činčila", "Vojtěch Šindelka", "Jan Brožek", "Karel Kratochvíl", "Lukáš Komárek", "Barbora Paulová", "Jan Rajdl", "Pavel Komín", "František Pinkas", "Lenka Koláčná"
+					]
 				},
 				{
 					"reg": 715
@@ -1576,10 +1648,22 @@
 				{
 					"reg": 768,
 					"leader": {
-						"name": "Martin Kukla"
+						"name": "Martin Kukla",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.kr-vysocina.cz/martin-kukla.asp"},
+							{"url": "https://www.facebook.com/MartinKuklaPolitik/", "icon": "fb"},
+							{"url": "https://www.instagram.com/martinkukla1/", "icon": "ig"}
+						]
 					},
 					"list": [
-						"Pavel Franěk"
+						"Zdeněk Faltus",
+						"Radek Zlesák",
+						"Pavel Franěk",
+						"Otta Vopěnka"
+					],
+					"links": [
+						{"url": "https://www.anobudelip.cz/kraj-vysocina"}
 					]
 				}
 			]
