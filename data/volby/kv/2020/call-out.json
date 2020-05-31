@@ -331,15 +331,24 @@
 					],
 					"leader": {
 						"name": "Pavel Hroch",
-						"reg": 766
+						"reg": 766,
+						"links": [
+							{"url": "https://www.facebook.com/pavel.hroch.370", "icon": "fb"}
+						]
 					},
 					"list": [
 						"Jan Kubeš",
 						"Pavel Pavel",
-						"Juraj Thoma",
-						"Ivo Moravec",
+						{"name": "Juraj Thoma", "reg": 753},
+						{"name": "Ivo Moravec", "reg": 753},
 						"Martin Malý",
-						"Jiří Fišer"
+						"Jiří Fišer",
+						"Eva Vanžurová",
+						"Martin Doležal",
+						"Jindřich Bláha",
+						"Ivan Radosta",
+						{"name": "Štěpán Pavlík", "reg": 136},
+						"Pavel Vondrys"
 					]
 				},
 				{
