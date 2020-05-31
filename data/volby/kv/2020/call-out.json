@@ -107,8 +107,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"reg": 1227
 				},
 				{
 					"reg": 47,
@@ -239,7 +238,7 @@
 					]
 				},
 				{
-					"name": "Změna 2020",
+					"reg": 1229,
 					"leader": {
 						"name": "Jiří Zimola",
 						"reg": 7,
@@ -249,7 +248,6 @@
 							{"url": "https://www.instagram.com/jiri.zimola/", "icon": "ig"}
 						]
 					},
-					"logo": "obecne/strany/loga/x-zmena-2020.png",
 					"links": [
 						{"url": "https://www.facebook.com/zmena2020", "icon": "fb"}
 					]
@@ -297,7 +295,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
+					"reg": 1227,
 					"support": [714],
 					"leader": {
 						"name": "Ivana Kerlesová",
@@ -312,7 +310,7 @@
 						{"name": "Libor Vondráček", "reg": 714},
 						"Jiří Černý"
 					],
-					"logo": "obecne/strany/loga/x-trikolora.png",
+
 					"links": [
 						{"url": "https://www.facebook.com/trikolora.jiznicechy"}
 					]
@@ -522,8 +520,7 @@
 					"reg": 716
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png",
+					"reg": 1227,
 					"leader": {
 						"name": "Pavel Borusík",
 						"links": [
@@ -670,8 +667,7 @@
 					}
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"reg": 1227
 				},
 				{
 					"reg": [166, 721, 113, 182, 5],
@@ -922,7 +918,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
+					"reg": 1227,
 					"leader": {
 						"name": "Radek Hoffmann",
 						"links": [
@@ -931,7 +927,7 @@
 							{"url": "https://www.instagram.com/radek.hoffmann/", "icon": "ig"}
 						]
 					},
-					"logo": "obecne/strany/loga/x-trikolora.png",
+
 					"list": [
 						"Zdeněk Pešek",
 						"Martina Becková",
@@ -1131,8 +1127,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png",
+					"reg": 1227,
 					"links": [
 						{"url": "https://www.facebook.com/volimtrikoloruLibereckykrajoficialni/", "icon": "fb", "label": "Facebook"}
 					],
@@ -1295,8 +1290,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png",
+					"reg": 1227,
 					"links": [
 						{"url": "https://www.facebook.com/trikolorahk/", "icon": "fb"}
 					]
@@ -1474,7 +1468,7 @@
 					]
 				},
 				{
-					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716],
+					"reg": [1227, 716],
 					"leader": {
 						"name": "Petr Bajer",
 						"reg": 716,
@@ -1564,8 +1558,7 @@
 					"reg": 5
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"reg": 1227
 				},
 				{
 					"reg": 1,
@@ -1660,8 +1653,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png"
+					"reg": 1227
 				},
 				{
 					"reg": 715
@@ -1710,8 +1702,7 @@
 					"leader": "Michal Symerský"
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png",
+					"reg": 1227,
 					"leader": "Zuzana Majerová Zahradníková"
 				},
 				{
@@ -1778,7 +1769,7 @@
 					"reg": 5
 				},
 				{
-					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716, "Nezávislí"],
+					"reg": [1227, 716, "Nezávislí"],
 					"leader": {
 						"name": "Jaromír Bernátek"
 					}
@@ -1868,8 +1859,7 @@
 					]
 				},
 				{
-					"name": "Trikolora",
-					"logo": "obecne/strany/loga/x-trikolora.png",
+					"reg": 1227,
 					"leader": "Petr Viktorýn",
 					"list": [
 						"Xenie Šustalová",
