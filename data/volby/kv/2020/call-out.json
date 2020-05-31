@@ -299,6 +299,7 @@
 					"support": [714],
 					"leader": {
 						"name": "Ivana Kerlesová",
+						"reg": 1227,
 						"links": [
 							{"url": "https://www.facebook.com/Kerlesova", "icon": "fb"},
 							{"url": "https://twitter.com/IvanaKerlesova", "icon": "tw"}
@@ -523,6 +524,7 @@
 					"reg": 1227,
 					"leader": {
 						"name": "Pavel Borusík",
+						"reg": 1227,
 						"links": [
 							{"url": "https://www.facebook.com/pavel.borusik", "icon": "fb"},
 							{"url": "https://www.instagram.com/pavelborusik/", "icon": "ig"}
@@ -921,6 +923,7 @@
 					"reg": 1227,
 					"leader": {
 						"name": "Radek Hoffmann",
+						"reg": 1227,
 						"links": [
 							{"url": "https://www.facebook.com/RadekHoffmanTrikolora/", "icon": "fb"},
 							{"url": "https://twitter.com/RadekHoffmann1", "icon": "tw"},
@@ -1133,6 +1136,7 @@
 					],
 					"leader": {
 						"name": "Tomáš Rakouš",
+						"reg": 1227,
 						"links": [
 							{"url": "https://www.facebook.com/tomas.rakous.39", "icon": "fb"}
 						]
@@ -1703,7 +1707,10 @@
 				},
 				{
 					"reg": 1227,
-					"leader": "Zuzana Majerová Zahradníková"
+					"leader": {
+						"name": "Zuzana Majerová Zahradníková",
+						"reg": 1227
+					}
 				},
 				{
 					"reg": 715
@@ -1771,7 +1778,8 @@
 				{
 					"reg": [1227, 716, "Nezávislí"],
 					"leader": {
-						"name": "Jaromír Bernátek"
+						"name": "Jaromír Bernátek",
+						"reg": 1227
 					}
 				},
 				{
@@ -1860,7 +1868,10 @@
 				},
 				{
 					"reg": 1227,
-					"leader": "Petr Viktorýn",
+					"leader": {
+						"name": "Petr Viktorýn",
+						"reg": 1227
+					},
 					"list": [
 						"Xenie Šustalová",
 						"Libor Hřivnáč"
