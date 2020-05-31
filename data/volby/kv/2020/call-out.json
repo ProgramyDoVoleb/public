@@ -847,17 +847,7 @@
 					"links": [
 						{"url": "https://spojenciprokraj.cz/"},
 						{"url": "https://www.facebook.com/spojenciprokraj/", "icon": "fb"},
-						{"url": "https://www.facebook.com/zeleneustecko/", "icon": "fb"},
-						{"url": "https://www.facebook.com/prokraj/", "icon": "fb"},
-						{"url": "https://www.facebook.com/TOP09.Ustecky.kraj/", "icon": "fb"},
-						{"url": "https://www.facebook.com/snked/", "icon": "fb"},
-						{"url": "https://twitter.com/TOP09ULK", "icon": "tw"},
-						{"url": "https://twitter.com/szustecko", "icon": "tw"},
-						{"url": "https://twitter.com/SNK_ED", "icon": "tw"},
-						{"url": "https://www.instagram.com/spojenciprokraj/", "icon": "ig"},
-						{"url": "https://www.instagram.com/top09ulk", "icon": "ig"},
-						{"url": "https://www.instagram.com/zeleni_ustecky_kraj", "icon": "ig"},
-						{"url": "https://www.instagram.com/jsmepro_kraj", "icon": "ig"}
+						{"url": "https://www.instagram.com/spojenciprokraj/", "icon": "ig"}
 					]
 				},
 				{
@@ -1687,73 +1677,183 @@
 					"reg": 53,
 					"leader": {
 						"name": "Jiří Nantl",
-						"reg": 53
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/profil/20377-jiri-nantl"},
+							{"url": "https://www.facebook.com/jirinantl/", "icon": "fb"},
+							{"url": "https://twitter.com/jiri_nantl", "icon": "tw"},
+							{"url": "https://www.instagram.com/jiri.nantl/", "icon": "ig"}
+						],
+						"about": "Narodil se v Brně. Vystudoval politologii na Fakultě sociálních studií Masarykovy univerzity, poté práva na Právnické fakultě MU a Corporate Law na Nottingham Trent University. V současnosti působí jako ředitel CEITEC - Středoevropského technologického institutu na Masarykově univerzitě. V minulosti zastával řadu manažerských pozic ve vysokém školství a veřejné správě včetně funkce prvního náměstka ministra školství. Vedl přípravné práce na reformě vysokoškolského zákona a na přípravě strategie vzdělávací politiky ČR do roku 2020. Byl dlouholetým členem Národní rady pro kvalifikace, předsedou dozorčí rady Centra pro studium vysokého školství a členem Výboru pro vzdělávací politiku OECD, je členem správních rad Jihočeské univerzity v Českých Budějovicích a Janáčkovy akademie múzických umění v Brně. Je ženatý, má dceru. Mezi jeho zájmy patří historie, geografie, cestování a numismatika. "
 					},
 					"support": [714, 158],
 					"list": [
 						"Jiří Crha",
 						"Vladimír Šmerda",
 						{"name": "Marek Šoška", "reg": 714}
+					],
+					"links": [
+						{"url": "https://www.ods.cz/region.jihomoravsky"}
 					]
 				},
 				{
 					"reg": 1,
-					"leader": "Jan Grolich"
-				},
-				{
-					"reg": 720,
-					"leader": "Lukáš Dubec",
-					"list": [
-						"Jiří Hlavenka",
-						"Jana Leitnerová"
+					"leader": {
+						"name": "Jan Grolich",
+						"reg": 1,
+						"links": [
+							{"url": "https://jangrolich.cz/"},
+							{"url": "https://www.facebook.com/COOLstarosta/", "icon": "fb"},
+							{"url": "https://twitter.com/JanGrolich", "icon": "tw"},
+							{"url": "https://www.instagram.com/coolstarosta/", "icon": "ig"}
+						],
+						"about": "Od října jsem lídr lidovecké kandidátky do kraje. Před dvaceti lety byli u čerstvě vzniklého Jihomoravského kraje lidovci. Dokázali jsme tehdy vytvořit nejlepší integrovanou hromadnou dopravu v republice. Spustili jsme další projekty, které dnes považujeme za samozřejmé. Poslední roky se mi zdá, že se jede ze setrvačnosti. Je čas to zase nakopnout a posunout se dál. Zvládneme to! Jdeme vyhrát."
+					},
+					"links": [
+						{"url": "http://www.kdujiznimorava.cz"},
+						{"url": "https://www.facebook.com/kdujiznimorava/", "icon": "fb"}
 					]
 				},
 				{
-					"reg": [166, "Hnutí SOL"],
-					"leader": "František Lukl",
+					"reg": 720,
+					"leader": {
+						"name": "Lukáš Dubec",
+						"reg": 720,
+						"links": [
+							{"url": "https://jihomoravsky.pirati.cz/lide/lukas-dubec/"},
+							{"url": "https://www.facebook.com/luk.dub", "icon": "fb"},
+							{"url": "https://www.instagram.com/dubecl/", "icon": "ig"}
+						]
+					},
+					"list": [
+						"Jiří Hlavenka", "Jana Leitnerová", "Ivo Vašíček", "Petr Springinsfeld", "Petr Vlasák", "Silvie Mrkvanová", "Eva Havlová", "Míra Bárta", "Jiří Kadeřávek", "Marek Lukáš", "Michal Švagerka", "Jaroslav Kameň", "Adam Vyplel", "Lukáš Mamula", "Šimon Fouček", "Alena Pavlasová", "Barbora Turek Lahová", "Patrik Doležal", "Michal Škerle", "Petr Ilgner", "Tomáš Pastirčák"
+					],
+					"links": [
+						{"url": "https://jihomoravsky.pirati.cz/"},
+						{"url": "https://www.facebook.com/CPS.JMK/", "icon": "fb"}
+					]
+				},
+				{
+					"reg": [166, {"name": "Hnutí SOL", "logo": "obecne/strany/loga/x-hnuti-sol.jpg"}],
+					"leader": {
+						"name": "František Lukl",
+						"reg": 166,
+						"links": [
+							{"url": "https://www.facebook.com/frantisek.lukl", "icon": "fb"},
+							{"url": "https://twitter.com/Frantisek_Lukl", "icon": "tw"}
+						]
+					},
 					"list": [
 						"Martin Maleček",
 						"Radomír Pavlíček"
+					],
+					"links": [
+						{"url": "https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj"},
+						{"url": "http://www.hnutisol.cz"},
+						{"url": "https://www.facebook.com/StarostoveProJizniMoravu/", "icon": "fb"},
+						{"url": "https://www.facebook.com/hnutiSOL/", "icon": "fb"},
+						{"url": "https://twitter.com/stan_jmk", "icon": "tw"},
+						{"url": "https://www.instagram.com/hnutisol/", "icon": "ig"}
 					]
 				},
 				{
 					"reg": 768,
-					"leader": "Petr Vokřál",
+					"leader": {
+						"name": "Petr Vokřál",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.anobudelip.cz/cs/lide/predsednictvo/petr-vokral-20561.shtml"},
+							{"url": "https://www.facebook.com/vokralp/", "icon": "fb"},
+							{"url": "https://twitter.com/pvokral", "icon": "tw"}
+						]
+					},
 					"list": [
 						"Karin Šulcová",
 						"Milan Vojta",
 						"Bohumil Šimek",
 						"Taťána Malá"
+					],
+					"links": [
+						{"url": "https://www.anobudelip.cz/jihomoravsky-kraj"},
+						{"url": "https://www.facebook.com/AnoJmK/", "icon": "fb"}
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "Marek Šlapal",
+					"leader": {
+						"name": "Marek Šlapal",
+						"reg": 7,
+						"links": [
+							{"url": "https://www.marekslapal.cz/"},
+							{"url": "https://www.facebook.com/slapalmarek/", "icon": "fb"}
+						]
+					},
 					"list": [
 						"Roman Hanák",
 						"Vít Rajtšlégr"
+					],
+					"links": [
+						{"url": "http://jihomoravsky-kraj.cssd.cz"},
+						{"url": "https://www.facebook.com/cssdjiznimorava/", "icon": "fb"}
 					]
 				},
 				{
 					"name": "Spolu pro Moravu",
 					"reg": [721, 5, 1190, "Idealisté", 795],
-					"leader": "Jan Vitula",
+					"leader": {
+						"name": "Jan Vitula",
+						"reg": 721,
+						"links": [
+							{"url": "https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237"},
+							{"url": "https://www.facebook.com/jan.vitula", "icon": "fb"},
+							{"url": "https://twitter.com/JanVitula", "icon": "tw"},
+							{"url": "https://www.instagram.com/vitula1/", "icon": "ig"}
+						]
+					},
 					"list": [
 						"Jana Drápalová",
 						{"name": "Tomáš Třetina", "reg": 721},
 						{"name": "Jiří Kacetl", "reg": 1190}
+					],
+					"links": [
+						{"url": "http://spolupromoravu.cz/"},
+						{"url": "https://www.facebook.com/SpoluProMoravu/", "icon": "fb"},
+						{"url": "https://twitter.com/SpolUpro", "icon": "tw"},
+						{"url": "https://www.instagram.com/spolupromoravu/", "icon": "ig"}
 					]
 				},
 				{
 					"reg": 47,
-					"leader": "Stanislav Navrkal",
+					"leader": {
+						"name": "Stanislav Navrkal",
+						"reg": 47,
+						"links": [
+							{"url": ""},
+							{"url": "https://www.facebook.com/navrkal.stanislav/", "icon": "fb"}
+						]
+					},
 					"list": [
 						"Filip Zachariaš",
 						"Martin Říha"
+					],
+					"links": [
+						{"url": "https://jmkr.kscm.cz/cs"},
+						{"url": "https://www.facebook.com/kscmjiznimorava/", "icon": "fb"}
 					]
 				},
 				{
-					"reg": 1227
+					"reg": 1227,
+					"leader": {
+						"name": "Pavel Nezval",
+						"reg": 1227,
+						"links": [
+							{"url": "https://www.facebook.com/pavel.nezval.315", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": ""},
+						{"url": "https://www.facebook.com/trikolora.jmk/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": 715
