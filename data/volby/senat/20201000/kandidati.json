@@ -222,6 +222,18 @@
       "reg": 45
     },
     {
+      "name": ["JUDr.", "Jan", "Holásek", "LL.M."],
+      "member": 99,
+      "nominee": 99,
+			"work": "právník a zastupitel",
+			"links": [
+				{"url": "https://www.facebook.com/JHolasek/", "icon": "fb"},
+				{"url": "https://twitter.com/honzaholasek", "icon": "tw"}
+			],
+      "reg": 45,
+			"support": [1049, "Senátor 21", 721, 795]
+    },
+    {
       "name": ["", "Michal", "Šmarda", ""],
       "member": 7,
       "nominee": 7,
@@ -262,6 +274,13 @@
       "reg": 63
 		},
 		{
+			"name": ["", "Jitka", "Seitlová", ""],
+			"nominee": 1,
+			"member": 1,
+			"links": [],
+      "reg": 63
+		},
+		{
 			"name": ["", "Pavel", "Ondrůj", ""],
 			"nominee": 720,
 			"member": 720,
@@ -272,7 +291,7 @@
       "reg": 63
 		},
 		{
-			"name": ["", "Miroslav", "Rajndl", ""],
+			"name": ["", "Miroslav", "Raindl", ""],
 			"nominee": 47,
 			"member": 47,
 			"links": [],
@@ -458,6 +477,22 @@
 				{"url": "https://www.facebook.com/Michalek.zlin/", "icon": "fb"}
 			],
       "reg": 78
+		},
+		{
+			"name": ["", "Petr", "Sládek", ""],
+			"member": 99,
+			"nominee": 53,
+			"work": "ředitel nemocnice",
+			"links": [],
+      "reg": 81
+		},
+		{
+			"name": ["", "Josef", "Bazala", ""],
+			"member": 1,
+			"nominee": 1,
+			"work": "starosta",
+			"links": [],
+      "reg": 81
 		}
 	]
 }

@@ -1341,29 +1341,12 @@
 						"name": "Martin Netolický",
 						"reg": 7,
 						"links": [
-							{"url": "https://www.facebook.com/martinnetolickyhejtman", "icon": "fb"}
+							{"url": "https://www.facebook.com/martinnetolickyhejtman", "icon": "fb"},
+							{"url": "https://twitter.com/NetolickyMartin", "icon": "tw"}
 						]
 					},
 					"list": [
-						"Miroslav Kčril",
-						"Josef Bidmon",
-						"Vladimír Ninger",
-						"Petr Fiala",
-						"Pavel Havíř",
-						"Josef Kozel",
-						"Lenka Pařízková",
-						"Bohumil Bernášek",
-						"Alena Šírová",
-						"Josef Hájek",
-						"Václav Kubín",
-						"Jan Stránský",
-						"Radko Martínek",
-						"Jan Macháček",
-						"Václav Roček",
-						"Lenka Tlustá",
-						"Ladislava Kratochvilová",
-						"Václav Kroutil",
-						"Marcel Vojtěch"
+						"Miroslav Krčil", "Josef Bidmon", "Vladimír Ninger", "Petr Fiala", "Pavel Havíř", "Josef Kozel", "Lenka Pařízková", "Bohumil Bernášek", "Alena Šírová", "Josef Hájek", "Václav Kubín", "Jan Stránský", "Radko Martínek", "Jan Macháček", "Václav Roček", "Lenka Tlustá", "Ladislava Kratochvilová", "Václav Kroutil", "Marcel Vojtěch"
 					],
 					"logo": "obecne/strany/loga/x-3pk.png",
 					"links": [
@@ -1373,16 +1356,55 @@
 				},
 				{
 					"reg": 720,
-					"leader": "Daniel Lebduška"
+					"leader": {
+						"name": "Daniel Lebduška",
+						"reg": 720,
+						"links": [
+							{"url": "https://pardubicky.pirati.cz/lide/daniel-lebduska/"},
+							{"url": "https://www.facebook.com/lebduska.daniel", "icon": "fb"}
+						],
+						"about": "Po absolvování bakalářského studia na Univerzitě Karlově od roku 2013 působí v marketingu na různých pozicích - nyní jako výkonný ředitel ve společnosti IPC Team - zabývá se především online marketingem (RTB, PPC, SEO, UX), vývojem webových stránek a okrajově i offline marketingem. Zároveň pomáhá s marketingem dalším firmám ve volném čase jako freelancer."
+					},
+					"links": [
+						{"url": "https://pardubicky.pirati.cz/"},
+						{"url": "https://www.facebook.com/pirati.pardubicko/", "icon": "fb", "label": "Piráti Pardubicko"},
+						{"url": "https://www.instagram.com/pirati.pardubickykraj/", "icon": "ig", "label": "Piráti Pardubicko"}
+					],
+					"list": [
+						"Filip Mezera", "Andrej Ramašeuski", "Libuše Vévodová", "Jiří Ducháček", "Lenka Španihelová", "Andrea Linhartová", "Jaroslav Lainz", "Matěj Karas"
+					]
 				},
 				{
 					"reg": 768,
-					"leader": "Martin Kolovratník"
+					"leader": {
+						"name": "Martin Kolovratník",
+						"reg": 768,
+						"links": [
+							{"url": "https://www.martinkolovratnik.cz/"},
+							{"url": "https://www.facebook.com/KolovratnikM/", "icon": "fb"},
+							{"url": "https://twitter.com/kolovratnikm", "icon": "tw"},
+							{"url": "https://www.instagram.com/hrabje/", "icon": "ig"}
+						],
+						"quote": "Jako poslanec pro Vás pracuji už od roku 2013. Jsem odborníkem na dopravu a mám za sebou výsledky, které jsou vidět. Rozpohyboval jsem dlouho odkládané zahájení stavby dálnice D35, odstartoval jsem přípravu vysokorychlostní železnice, díky mým návrhům vyrostly v našem kraji kilometry cyklostezek a chodníků a v řadě měst startují tolik potřebné silniční obchvaty. V roli zpravodaje jsem Sněmovnou provedl téměř všechny dopravní zákony, které nyní v Česku máme. Prosadil jsem desítky změn, které nás pozitivně ovlivňují a ulehčují nám každodenní život. Poslaneckému mandátu věnuji všechen svůj čas, svoji práci dělám poctivě a záleží mi na výsledku. Úspěšné dílo však není u konce. V rozvoji moderní dopravy bych rád pokračoval a věřím, že společně dotáhneme věci do zdárného konce. Pro nás a pro naše děti."
+					},
+					"links": [
+						{"url": "https://www.anopardubickykraj.cz/"},
+						{"url": "https://www.facebook.com/ANOPardubickykraj/", "icon": "fb"}
+					]
 				},
 				{
 					"reg": [1, 181, 129],
 					"name": "Koalice pro Pardubický kraj",
-					"leader": "Roman Línek",
+					"logo": "obecne/strany/loga/x-koalicepropk.png",
+					"leader": {
+						"name": "Roman Línek",
+						"reg": 1,
+						"links": [
+							{"url": "http://www.roman-linek.cz/"},
+							{"url": "https://www.facebook.com/roman.linek.14", "icon": "fb"},
+							{"url": "https://www.instagram.com/romanlinek/", "icon": "tw"}
+						]
+					},
 					"support": ["Sdružení pro Pardubice"],
 					"list": [
 						{"name": "David Šimek", "reg": 181},
@@ -1399,29 +1421,71 @@
 						{"name": "Dušan Pávek", "reg": 1},
 						{"name": "Alena Jílková", "reg": 1},
 						{"name": "Eva Šmeralová", "reg": 129}
+					],
+					"links": [
+						{"url": "https://www.koalicepk.cz/"},
+						{"url": "http://pardubicky-kraj.kdu.cz/"},
+						{"url": "https://www.facebook.com/koalicepropardubickykraj/", "icon": "fb", "label": "Facebook"},
+						{"url": "https://www.facebook.com/KDUCSLPK/", "icon": "fb"},
+						{"url": "https://www.instagram.com/koalice_pro_pardubicky_kraj/", "icon": "ig", "label": "Instagram"},
+						{"url": "https://www.instagram.com/kdupce/", "icon": "ig"}
 					]
 				},
 				{
 					"reg": [53, 721],
-					"leader": "Michal Kortyš",
+					"leader": {
+						"name": "Michal Kortyš",
+						"reg": 53,
+						"links": [
+							{"url": "https://www.ods.cz/profil/1210-michal-kortys"}
+						]
+					},
 					"list": [
 						{"name": "Jiří Skalický", "reg": 721}
+					],
+					"links": [
+						{"url": "https://www.ods.cz/region.pardubicky"},
+						{"url": "https://www.top09.cz/regiony/pardubicky-kraj/"},
+						{"url": "https://www.facebook.com/ods.pardubickykraj/", "icon": "fb"},
+						{"url": "https://www.facebook.com/TOP09.Pardubicky.kraj/", "icon": "fb"},
+						{"url": "https://twitter.com/odsregionpk", "icon": "tw"}
 					]
 				},
 				{
 					"reg": 47,
 					"leader": {
-						"name": "Jan Foldyna"
-					}
+						"name": "Jan Foldyna",
+						"reg": 47,
+						"links": [
+							{"url": "https://krpardubice.kscm.cz/cs/nasi-lide/ing-jan-foldyna-mba"},
+							{"url": "https://www.facebook.com/jan.foldyna.7", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://krpardubice.kscm.cz/cs"},
+						{"url": "https://www.facebook.com/kv.kscm.pce/", "icon": "fb"}
+					]
 				},
 				{
-					"reg": 5
+					"reg": 5,
+					"links": [
+						{"url": "http://pardubickykraj.zeleni.cz/", "label": "Webové stránky"},
+						{"url": "https://www.facebook.com/zeleni.pardubickykraj/", "icon": "fb", "label": "Facebook"}
+					]
 				},
 				{
-					"reg": ["Trikolora", 716],
+					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716],
 					"leader": {
-						"name": "Petr Bajer"
-					}
+						"name": "Petr Bajer",
+						"reg": 716,
+						"links": [
+							{"url": "https://www.facebook.com/bajer.petr/", "icon": "fb"}
+						]
+					},
+					"links": [
+						{"url": "https://www.facebook.com/volimtrikolorukrajpardubicky/", "icon": "fb", "label": "Trikolora"},
+						{"url": "https://www.facebook.com/Soukromn%C3%ADci-Pardubick%C3%BD-kraj-112031268946067/", "icon": "fb", "label": "Soukromníci"}
+					]
 				},
 				{
 					"reg": 715
@@ -1429,8 +1493,20 @@
 				{
 					"reg": 166,
 					"leader": {
-						"name": "Michaela Matoušková"
-					}
+						"name": "Michaela Matoušková",
+						"reg": 166,
+						"links": [
+							{"url": "https://www.michaelamatouskova.cz/"},
+							{"url": "https://www.facebook.com/michmatouskova/", "icon": "fb"},
+							{"url": "https://twitter.com/michmatouskova1", "icon": "tw"},
+							{"url": "https://www.instagram.com/michaela_matouskova1/", "icon": "ig"}
+						]
+					},
+					"links": [
+						{"url": "https://www.stan-pardubickykraj.cz/"},
+						{"url": "https://www.facebook.com/starostove.pardubicky/", "icon": "fb"},
+						{"url": "https://twitter.com/kraj_stan", "icon": "tw"}
+					]
 				}
 			]
 		},
@@ -1695,7 +1771,7 @@
 					"reg": 5
 				},
 				{
-					"reg": ["Trikolora", 716, "Nezávislí"],
+					"reg": [{"name": "Trikolora", "logo": "obecne/strany/loga/x-trikolora.png"}, 716, "Nezávislí"],
 					"leader": {
 						"name": "Jaromír Bernátek"
 					}
