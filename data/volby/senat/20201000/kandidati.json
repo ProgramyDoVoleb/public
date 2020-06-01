@@ -48,7 +48,14 @@
       "member": 7,
       "nominee": 7,
       "work": "místopředseda Senátu",
-      "links": [],
+      "links": [
+				{"url": "https://cs.m.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch", "icon": "wiki"},
+				{"url": "https://www.milan-stech.cz/", "icon": ""},
+				{"url": "https://www.senat.cz/senatori/index.php?par_3=15"},
+				{"url": "https://www.cssd.cz/nasi-lide/milan-stech/"},
+				{"url": "https://cs-cz.facebook.com/stechmilan/", "icon": "fb"},
+				{"url": "https://www.hlidacstatu.cz/osoba/milan-stech", "icon": "hlidac-statu"}
+			],
       "reg": 15
     },
     {
