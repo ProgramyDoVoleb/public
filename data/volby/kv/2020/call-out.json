@@ -107,7 +107,11 @@
 					]
 				},
 				{
-					"reg": 1227
+					"reg": 1227,
+					"leader": {
+						"name": "Antonín Frič",
+						"reg": 1227
+					}
 				},
 				{
 					"reg": 47,
@@ -679,7 +683,11 @@
 					}
 				},
 				{
-					"reg": 1227
+					"reg": 1227,
+					"leader": {
+						"name": "Martin Gruber",
+						"reg": 1227
+					}
 				},
 				{
 					"reg": [166, 721, 113, 182, 5],
@@ -1299,6 +1307,10 @@
 				},
 				{
 					"reg": 1227,
+					"leader": {
+						"name": "Jiří Matoušek",
+						"reg": 1227
+					},
 					"links": [
 						{"url": "https://www.facebook.com/trikolorahk/", "icon": "fb"}
 					]
@@ -1636,6 +1648,10 @@
 				},
 				{
 					"reg": 1227,
+					"leader": {
+						"name": "Jan Tesař",
+						"reg": 1227
+					},
 					"links": [
 						{"url": "https://www.facebook.com/volimtrikoloruVysocina/", "icon": "fb"}
 					]
