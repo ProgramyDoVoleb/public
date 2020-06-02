@@ -1306,6 +1306,7 @@
 				{
 					"name": "Spolu pro kraj",
 					"reg": [5, 7, "Osobnosti kraje"],
+					"logo": "obecne/strany/loga/1228-sprok.png",
 					"leader": {
 						"name": "Jiří Štěpán",
 						"reg": 7,
@@ -1316,10 +1317,9 @@
 						]
 					},
 					"links": [
-						{"url": "http://kralovehradecky-kraj.cssd.cz/", "label": "ČSSD KHK"},
-						{"url": "http://khk.zeleni.cz/"},
-						{"url": "https://www.facebook.com/KvvCssdHradecKralove/", "icon": "fb", "label": "ČSSD KHK"},
-						{"url": "https://www.facebook.com/zelenehradecko/", "icon": "fb"}
+						{"url": "https://www.facebook.com/spoluprokrajkhk/", "icon": "fb"},
+						{"url": "https://twitter.com/spoluprokrajkhk", "icon": "tw"},
+						{"url": "https://www.instagram.com/spoluprokrajkhk/", "icon": "tw"}
 					],
 					"list": [
 						{"name": "Martin Hanousek", "reg": 5},
