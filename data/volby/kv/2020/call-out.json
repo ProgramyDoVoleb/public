@@ -1312,12 +1312,15 @@
 						"name": "Jiří Štěpán",
 						"reg": 7,
 						"links": [
-							{"url": "http://www.jiri-stepan.cz/"},
+							{"url": "https://spoluprokraj.cz/member/1-jiri-stepan/"},
 							{"url": "https://www.facebook.com/hejtmanjiristepan/", "icon": "fb"},
 							{"url": "https://twitter.com/stepanjiri1", "icon": "tw"}
-						]
+						],
+						"about": "Do podzimních komunálních voleb naši koalici jako jednička vede hejtman Jiří Štěpán. Ač je původní profesí historik, kterého mohou důvěrněji znát studenti Univerzity Hradec Králové a Lékařské fakulty Univerzity Karlovy se sídlem tamtéž, politické ostruhy si již rozhodně získat stihl - ať už jako zastupitel a radní města Hradce Králové nebo právě jako úřadující hejtman našeho kraje. Před počátkem svého veřejného angažmá Jiří Štěpán vystudoval magisterský obor historie na Univerzitě Palackého v Olomouci, rigorózní zkoušku i doktorské studium pak absolvoval již na Univerzitě Hradec Králové, konkrétně na její Filozofické fakultě. V Hradci Králové společně se svou rodinou žije.",
+						"quote": "Říká se, že slušný člověk nemá do politiky chodit. Já do ní šel proto, abych to změnil. Politiku chápu jako příležitost udělat něco konkrétního pro lidi. Jako hejtman Královéhradeckého kraje se o to snažím každý den. Vždy slušně, ale důrazně. A z toho neustoupím."
 					},
 					"links": [
+						{"url": "https://spoluprokraj.cz/"},
 						{"url": "https://www.facebook.com/spoluprokrajkhk/", "icon": "fb"},
 						{"url": "https://twitter.com/spoluprokrajkhk", "icon": "tw"},
 						{"url": "https://www.instagram.com/spoluprokrajkhk/", "icon": "ig"}
@@ -1328,12 +1331,16 @@
 						{"name": "Karin Richterová", "reg": 5},
 						{"name": "Hana Masáková", "reg": 7},
 						{"name": "Petr Sobotka", "reg": 5},
-						{"name": "Stanislav Rudolfský", "reg": 7},
+						{"name": "Stanislav Rudolfský", "reg": 99},
 						{"name": "Barbora Kulichová", "reg": 5},
 						{"name": "František Mencl", "reg": 99},
-						{"name": "Štěpán Málek", "reg": 5},
+						{"name": "Štěpán Málek", "reg": 99},
 						{"name": "Jan Birke", "reg": 7}
-					]
+					],
+					"program": {
+						"source": "https://spoluprokraj.cz/program/",
+						"local": "khk-1228"
+					}
 				},
 				{
 					"reg": 715
