@@ -132,6 +132,14 @@
       "reg": 24
     },
     {
+      "name": ["", "Robert", "Veverka", ""],
+      "member": 720,
+      "nominee": 720,
+			"work": "zastupitel",
+      "links": [],
+      "reg": 27
+    },
+    {
       "name": ["", "Miroslava", "Němcová", ""],
       "member": 53,
       "nominee": 53,
@@ -146,6 +154,7 @@
       "member": 99,
       "nominee": 99,
       "work": "senátor",
+			"support": [1, 5, 1187, "Praha Sobě"],
       "links": [],
       "reg": 27
     },

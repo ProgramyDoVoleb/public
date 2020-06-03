@@ -874,6 +874,8 @@
 					]
 				},
 				{
+					"name": "Lepší sever",
+					"logo": "obecne/strany/loga/x-lepsisever.png",
 					"reg": [7, 1012, 1175],
 					"leader": {
 						"name": "Martin Klika",
@@ -884,8 +886,9 @@
 						]
 					},
 					"links": [
-						{"url": "http://ustecky-kraj.cssd.cz"},
-						{"url": "https://www.facebook.com/KvvCssdUsteckyKraj", "icon": "fb"}
+						{"url": "http://www.lepsisever.cz/"},
+						{"url": "https://www.facebook.com/lepsisever/", "icon": "fb"},
+						{"url": "https://twitter.com/LepsiSever", "icon": "fb"}
 					]
 				},
 				{
@@ -1302,7 +1305,15 @@
 						{"url": "https://www.facebook.com/hdkhk", "icon": "fb"}
 					],
 					"list": [
-						{"name": "Pavlína Springerová", "reg": 1049}
+						{"name": "Pavlína Springerová", "reg": 1049},
+						{"name": "Libor Koldinský"},
+						{"name": "Rostislav Petrák"},
+						{"name": "Jan Balcar", "reg": 795},
+						{"name": "Zdeněk Fink"},
+						{"name": "Matěj Havel"},
+						{"name": "Silvie Šidáková"},
+						{"name": "Milan Sommer"},
+						{"name": "Kamil Slezák"}
 					]
 				},
 				{
@@ -1641,9 +1652,17 @@
 				},
 				{
 					"reg": 5,
+					"leader": {
+						"name": "Silvie Čermáková",
+						"reg": 5
+					},
 					"links": [
 						{"url": "http://zelenavysocina.cz/"},
 						{"url": "https://www.facebook.com/szvysocina/", "icon": "fb"}
+					],
+					"list": [
+						"Václav Hlaváč",
+						"Anna Gümplová"
 					]
 				},
 				{
