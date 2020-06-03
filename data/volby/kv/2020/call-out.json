@@ -888,7 +888,7 @@
 					"links": [
 						{"url": "http://www.lepsisever.cz/"},
 						{"url": "https://www.facebook.com/lepsisever/", "icon": "fb"},
-						{"url": "https://twitter.com/LepsiSever", "icon": "fb"}
+						{"url": "https://twitter.com/LepsiSever", "icon": "tw"}
 					]
 				},
 				{
@@ -1654,7 +1654,10 @@
 					"reg": 5,
 					"leader": {
 						"name": "Silvie Čermáková",
-						"reg": 5
+						"reg": 5,
+						"links": [
+							{"url": "https://www.facebook.com/silvie.cermakova.16", "icon": "fb"}
+						]
 					},
 					"links": [
 						{"url": "http://zelenavysocina.cz/"},
