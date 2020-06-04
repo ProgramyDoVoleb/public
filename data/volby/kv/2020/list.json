@@ -342,18 +342,18 @@
 						]
 					},
 					"list": [
-						"Jan Kubeš",
-						"Pavel Pavel",
+						{"name": "Jan Kubeš", "reg": 766},
+						{"name": "Pavel Pavel", "reg": 766},
 						{"name": "Juraj Thoma", "reg": 753},
 						{"name": "Ivo Moravec", "reg": 753},
-						"Martin Malý",
-						"Jiří Fišer",
-						"Eva Vanžurová",
-						"Martin Doležal",
-						"Jindřich Bláha",
-						"Ivan Radosta",
+						{"name": "Martin Malý", "reg": 766},
+						{"name": "Jiří Fišer", "reg": 766},
+						{"name": "Eva Vanžurová", "reg": 766},
+						{"name": "Martin Doležal", "reg": 766},
+						{"name": "Jindřich Bláha", "reg": 766},
+						{"name": "Ivan Radosta", "reg": 766},
 						{"name": "Štěpán Pavlík", "reg": 136},
-						"Pavel Vondrys"
+						{"name": "Pavel Vondrys", "reg": 766}
 					]
 				},
 				{

@@ -35,6 +35,13 @@
       "links": [],
       "reg": 9
     },
+		{
+			"reg": 9,
+			"name": ["", "Lumír", "Aschenbrenner", ""],
+			"member": 53,
+			"nominee": 53,
+			"support": [721, 1, 1119, 55]
+		},
     {
       "name": ["", "Michal", "Horák", ""],
       "member": 720,
@@ -143,6 +150,7 @@
       "name": ["", "Miroslava", "Němcová", ""],
       "member": 53,
       "nominee": 53,
+			"support": [721],
       "work": "poslankyně",
       "links": [
 				{"url": "https://twitter.com/Nemcova_Mirka", "icon": "tw"}
@@ -172,6 +180,7 @@
       "name": ["", "Jiří", "Dienstbier", ""],
       "member": 7,
       "nominee": 7,
+			"support": [5, "Budoucnost"],
       "work": "senátor",
       "links": [
 				{"url": "https://twitter.com/jiridienstbier", "icon": "tw"}
@@ -252,10 +261,16 @@
       "reg": 45,
 			"support": [1049, 1187, 721, 795]
     },
+		{
+			"reg": 45,
+			"name": ["", "Jaroslav", "Malý", ""],
+			"member": 99
+		},
     {
       "name": ["", "Michal", "Šmarda", ""],
       "member": 7,
       "nominee": 7,
+			"support": [5, "Budoucnost"],
       "work": "starosta Nového Města na Moravě",
       "links": [
 				{"url": "https://twitter.com/MichalSmarda", "icon": "tw"}
@@ -301,6 +316,29 @@
 			],
       "reg": 60
     },
+		{
+			"name": ["", "Lukáš", "Berta", ""],
+			"member": 99,
+			"nominee": 99,
+			"support": 1184,
+			"work": "autor, blogger a webový filozof na volné noze",
+			"links": [
+				{"url": "https://lukasberta.cz/o-me.htm"},
+				{"url": "https://www.facebook.com/vlastovka.blog", "icon": "fb"},
+				{"url": "https://twitter.com/lukasberta79", "icon": "tw"},
+				{"url": "https://www.instagram.com/lukasberta79/", "icon": "tw"},
+				{"url": "https://www.youtube.com/playlist?list=PLEKJ-6GyOMhIaLYNwMGCLCwIuyCQGvcwH", "icon": "yt"}
+			],
+      "reg": 60,
+			"program": "https://lukasberta.cz/program.htm"
+		},
+		{
+			"name": ["", "Roman", "Kraus", ""],
+			"nominee": 53,
+			"support": [721],
+			"links": [],
+      "reg": 60
+		},
 		{
 			"name": ["", "Jiří", "Lajtoch", ""],
 			"nominee": 7,
