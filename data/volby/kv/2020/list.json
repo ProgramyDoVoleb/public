@@ -1731,7 +1731,8 @@
 			"id": 10,
 			"parties": [
 				{
-					"reg": 53,
+					"name": "Občanská demokratická strana s podporou Svobodných a Starostů a osobností pro Moravu",
+					"short": "ODS, Svobodní, SOM",
 					"leader": {
 						"name": "Jiří Nantl",
 						"reg": 53,
@@ -1743,7 +1744,7 @@
 						],
 						"about": "Narodil se v Brně. Vystudoval politologii na Fakultě sociálních studií Masarykovy univerzity, poté práva na Právnické fakultě MU a Corporate Law na Nottingham Trent University. V současnosti působí jako ředitel CEITEC - Středoevropského technologického institutu na Masarykově univerzitě. V minulosti zastával řadu manažerských pozic ve vysokém školství a veřejné správě včetně funkce prvního náměstka ministra školství. Vedl přípravné práce na reformě vysokoškolského zákona a na přípravě strategie vzdělávací politiky ČR do roku 2020. Byl dlouholetým členem Národní rady pro kvalifikace, předsedou dozorčí rady Centra pro studium vysokého školství a členem Výboru pro vzdělávací politiku OECD, je členem správních rad Jihočeské univerzity v Českých Budějovicích a Janáčkovy akademie múzických umění v Brně. Je ženatý, má dceru. Mezi jeho zájmy patří historie, geografie, cestování a numismatika. "
 					},
-					"support": [714, 158],
+					"coalition": [53, 714, 158],
 					"list": [
 						"Jiří Crha",
 						"Vladimír Šmerda",
@@ -1914,6 +1915,22 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"name": "Levice",
+					"links": [
+						"https://www.facebook.com/jsmeLevice/",
+						"https://instagram.com/jsme_levice"
+					]
+				},
+				{
+					"reg": 83,
+					"name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+					"links": [
+						"http://moravane.cz/domains/moravane.cz/krajske-volby-2020",
+						"https://www.facebook.com/moravaci",
+						"https://twitter.com/moravaci"
+					]
 				}
 			]
 		},
