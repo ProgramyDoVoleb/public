@@ -2075,65 +2075,161 @@
 			"parties": [
 				{
 					"reg": 720,
-					"leader": "Hana Ančincová",
+					"leader": {
+						"name": "Hana Ančincová",
+						"reg": 720,
+						"links": [
+							"https://zlinsky.pirati.cz/lide/hana-ancincova/",
+							"https://www.facebook.com/hana.ancincova.piratka/",
+							"https://twitter.com/HAncincova"
+						]
+					},
 					"list": [
 						"Jiří Jaroš",
 						"Denis Rychtar",
 						"Jakub Zach",
 						"Zuzana Fišerová",
 						"Jiří Knotek"
+					],
+					"links": [
+						"https://zlinsky.pirati.cz",
+						"https://www.facebook.com/piratizlk/"
 					]
 				},
 				{
-					"coalition": [166, 721, "Nový Impuls", "Zlínské hnutí nezávislých"],
+					"coalition": [166, 721, {"name": "Nový Impuls", "logo": "obecne/strany/loga/x-novyimpuls.jpg"}, {"name": "Zlínské hnutí nezávislých", "logo": "obecne/strany/loga/x-zlinskehnutinezavislych.gif"}],
 					"leader": {
 						"name": "Petr Gazdík",
-						"reg": 166
-					}
+						"reg": 166,
+						"links": [
+							"http://www.gazdik.cz/",
+							"https://www.facebook.com/petr.gazdik/",
+							"https://twitter.com/petrgazdik",
+							"https://www.instagram.com/petr_gazdik/"
+						]
+					},
+					"links": [
+						"http://www.starostove-nezavisli.cz/regiony/zlinsky-kraj",
+						"http://www.top09.cz/regiony/zlinsky-kraj",
+						"https://www.novyimpuls.cz/",
+						"http://www.zhn-zlin.cz/",
+						"https://www.facebook.com/starostove.zlinsky/",
+						"https://www.facebook.com/TOP09.Zlinsky.kraj/",
+						"https://www.facebook.com/novyimpuls/",
+						"https://twitter.com/STANzlk",
+						"https://twitter.com/top09zk",
+						"https://twitter.com/novyimpulszlin",
+						"https://www.instagram.com/top09zlk/",
+						"https://www.instagram.com/novimpuls9361/"
+					]
 				},
 				{
 					"reg": 1,
-					"leader": "Jiří Čunek",
+					"leader": {
+						"name": "Jiří Čunek",
+						"reg": 1,
+						"links": [
+							"https://www.kdu.cz/o-nas/nasi-lide/senatori/cunek",
+							"https://www.facebook.com/cunekj/",
+							"https://twitter.com/CunekJiri",
+							"https://www.instagram.com/jiri.cunek/"
+						]
+					},
 					"list": [
 						"Josef Bazala",
 						"Zdislava Odstrčilová",
 						"Robert Teleky",
 						"Michaela Blahová"
+					],
+					"links": [
+						"http://zlinsky.kdu.cz",
+						"https://www.facebook.com/kduzlinskykraj/"
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "Taťána Valentová Nersesjan"
+					"leader": {
+						"name": "Taťána Valentová Nersesjan",
+						"reg": 7,
+						"links": [
+							"https://www.facebook.com/T%C3%A1%C5%88a-Valentov%C3%A1-Nersesjan-981962295256718/"
+						]
+					},
+					"links": [
+						"http://zlinsky-kraj.cssd.cz/",
+						"https://www.facebook.com/cssd.zlinsko/"
+					]
 				},
 				{
 					"reg": 768,
 					"leader": {
-						"name": "Jiří Sukop"
+						"name": "Jiří Sukop",
+						"reg": 768,
+						"links": [
+							"https://www.facebook.com/JiriSukopANO/",
+							"https://www.instagram.com/jirisukop/"
+						]
 					},
 					"list": [
 						"Pavel Pustějovský"
+					],
+					"links": [
+						"https://www.anobudelip.cz/zlinsky-kraj",
+						"https://www.facebook.com/anotohlejezlinsko/",
+						"https://www.instagram.com/ano_zlinsky_kraj/"
 					]
 				},
 				{
 					"reg": 53,
-					"leader": "Lubomír Traub",
+					"leader": {
+						"name": "Lubomír Traub",
+						"reg": 53,
+						"links": [
+							"https://www.ods.cz/ms.zlin/profil/9766-lubomir-traub",
+							"https://www.facebook.com/LubomirTraubOfficial/"
+						]
+					},
 					"list": [
 						"Stanislav Blaha"
+					],
+					"links": [
+						"https://www.ods.cz/region.zlinsky",
+						"https://www.facebook.com/odszlinskykraj/"
 					]
 				},
 				{
 					"reg": 47,
-					"leader": "Ivan Mařák"
+					"leader": {
+						"name": "Ivan Mařák",
+						"reg": 47,
+						"links": [
+							"http://old.kscm.cz/volby-a-akce/krajska-zastupitelstva4/kandidatni-listiny-do-krajskych-zastupitelstev-2012/zlinsky-kraj/ing-ivan-marak"
+						]
+					},
+					"links": [
+						"https://zlin.kscm.cz"
+					]
 				},
 				{
-					"reg": 5
+					"reg": 5,
+					"links": [
+						"http://zeleni-zlinsko.cz/",
+						"https://www.facebook.com/zeleni.zlinsky.kraj/"
+					]
 				},
 				{
-					"coalition": [1227, 716, "Nezávislí"],
+					"coalition": [1227, 716, 88],
 					"leader": {
 						"name": "Jaromír Bernátek",
-						"reg": 1227
-					}
+						"reg": 1227,
+						"links": [
+							"https://www.facebook.com/jaromir.bernatek.73"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/volimtrikoloruzlinskykraj1/",
+						"https://www.facebook.com/soukromnici.cz/"
+					]
 				},
 				{
 					"reg": 715
@@ -2141,14 +2237,32 @@
 				{
 					"reg": 714,
 					"leader": {
-						"name": "Tomáš Pajonk"
-					}
+						"name": "Tomáš Pajonk",
+						"reg": 714,
+						"links": [
+							"http://www.pajonk.cz",
+							"https://www.facebook.com/tomas.pajonk.page/",
+							"https://www.instagram.com/tomaspajonk/"
+						]
+					},
+					"links": [
+						"http://zlinskykraj.svobodni.cz/",
+						"https://www.facebook.com/svobodnizk/",
+						"https://twitter.com/SvobodniVychod"
+					]
 				},
 				{
 					"reg": 1114,
 					"leader": {
-						"name": "Vladimír Zlínský"
-					}
+						"name": "Vladimír Zlínský",
+						"reg": 1114,
+						"links": [
+							"https://www.facebook.com/MUDr-Vladim%C3%ADr-Zl%C3%ADnsk%C3%BD-kandid%C3%A1t-na-hejtmana-ve-Zl%C3%ADnsk%C3%A9m-kraji-za-SPD-105344787861725/"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/spdzlinsky/"
+					]
 				}
 			]
 		},
