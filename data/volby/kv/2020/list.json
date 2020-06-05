@@ -2271,18 +2271,45 @@
 			"parties": [
 				{
 					"reg": 720,
-					"leader": "Zuzana Klusová",
+					"leader": {
+						"name": "Zuzana Klusová",
+						"reg": 720,
+						"links": [
+							"https://moravskoslezsky.pirati.cz/lide/zuzana-klusova/",
+							"https://www.facebook.com/zklusova",
+							"https://twitter.com/ZuzkaKlusova"
+						]
+					},
 					"list": [
 						"Arnošt Žídek",
 						"Jan Nezhyb"
+					],
+					"links": [
+						"https://moravskoslezsky.pirati.cz/",
+						"https://www.facebook.com/cpsmsk/",
+						"https://twitter.com/PiratiMSK",
+						"https://www.instagram.com/msk_pirati/"
 					]
 				},
 				{
 					"reg": 768,
-					"leader": "Ivo Vondrák",
+					"leader": {
+						"name": "Ivo Vondrák",
+						"reg": 768,
+						"links": [
+							"http://ivovondrak.cz",
+							"https://www.facebook.com/vondrakivo/",
+							"https://twitter.com/ivondrak",
+							"https://www.instagram.com/ivondrak/"
+						]
+					},
 					"list": [
 						"Jaroslav Kania",
 						"Jan Krkoška"
+					],
+					"links": [
+						"https://www.facebook.com/ANOTohlejeMoravskoslezsko/",
+						"https://www.anobudelip.cz/moravskoslezsky-kraj"
 					]
 				},
 				{
@@ -2311,37 +2338,80 @@
 				},
 				{
 					"reg": 47,
-					"leader": "Josef Babka",
+					"leader": {
+						"name": "Josef Babka",
+						"reg": 47,
+						"links": [
+							"https://mskraj.kscm.cz/cs/nasi-lide/judr-josef-babka-1",
+							"https://www.facebook.com/babkakscm/"
+						]
+					},
 					"list": [
 						"Miroslav Hajdušík",
 						"Alena Grosová"
+					],
+					"links": [
+						"https://mskraj.kscm.cz/cs"
 					]
 				},
 				{
 					"reg": 7,
-					"leader": "Petr Kajnar",
+					"leader": {
+						"name": "Petr Kajnar",
+						"reg": 7,
+						"links": [
+							"https://www.facebook.com/Petr-Kajnar-107747200956355/",
+							"https://twitter.com/PetrKajnar",
+							"https://www.instagram.com/petrkajnar/"
+						]
+					},
 					"list": [
 						"Jan Wolf",
 						"Michal Pobucký"
+					],
+					"links": [
+						"http://moravskoslezsky.socdem.cz/",
+						"https://www.facebook.com/CssdMoravskoslezskyKraj/",
+						"https://twitter.com/cssdmsk"
 					]
 				},
 				{
 					"reg": 1,
-					"leader": "Lukáš Curylo",
+					"leader": {
+						"name": "Lukáš Curylo",
+						"reg": 1,
+						"links": [
+							"http://moravskoslezsky.kdu.cz/nasi-lide/krajsti-zastupitele/curylo",
+							"https://www.facebook.com/lukas.curylo.1",
+							"https://www.instagram.com/lukas.curylo/"
+						]
+					},
 					"list": [
 						"Jiří Navrátil",
 						"Vít Slováček"
+					],
+					"links": [
+						"http://moravskoslezsky.kdu.cz/domu",
+						"https://www.facebook.com/KDUCSLMoravskoslezskykraj/"
 					]
 				},
 				{
 					"reg": 1227,
 					"leader": {
 						"name": "Petr Viktorýn",
-						"reg": 1227
+						"reg": 1227,
+						"links": [
+							"https://www.facebook.com/viktoryn",
+							"https://twitter.com/PViktoryn",
+							"https://www.instagram.com/petr_viktoryn/"
+						]
 					},
 					"list": [
 						"Xenie Šustalová",
 						"Libor Hřivnáč"
+					],
+					"links": [
+						"https://www.facebook.com/trikoloramsk/"
 					]
 				},
 				{
@@ -2358,7 +2428,11 @@
 					],
 					"leader": {
 						"name": "Jan Lipner",
-						"reg": 166
+						"reg": 166,
+						"links": [
+							"https://www.facebook.com/janlipnerSTAN/",
+							"https://twitter.com/JanLipner"
+						]
 					},
 					"list": [
 						{"name": "Martin Polášek", "reg": 88},
