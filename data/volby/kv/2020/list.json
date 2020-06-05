@@ -357,7 +357,11 @@
 					]
 				},
 				{
-					"reg": 47
+					"reg": 47,
+					"leader": {
+						"name": "Radek Nejezchleb",
+						"reg": 47
+					}
 				},
 				{
 					"reg": 5
