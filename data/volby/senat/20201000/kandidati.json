@@ -350,7 +350,11 @@
 			"name": ["", "Jitka", "Seitlová", ""],
 			"nominee": 1,
 			"member": 1,
-			"links": [],
+			"support": [5, 721, 166],
+			"work": "senátorka",
+			"links": [
+				{"url": "https://facebook.com/jitka.seitlova", "icon": "fb"}
+			],
       "reg": 63
 		},
 		{
@@ -367,6 +371,14 @@
 			"name": ["", "Miroslav", "Raindl", ""],
 			"nominee": 47,
 			"member": 47,
+			"links": [],
+      "reg": 63
+		},
+		{
+			"name": ["", "Tomáš", "Kocourek", ""],
+			"nominee": 53,
+			"member": 53,
+			"work": "zastupitel",
 			"links": [],
       "reg": 63
 		},

@@ -55,7 +55,8 @@
 					"links": [
 						{"url": "https://stredocesky.pirati.cz"},
 						{"url": "https://www.facebook.com/PiratiStredniCechy"},
-						{"url": "https://www.twitter.com/pirati_sck"}
+						{"url": "https://www.twitter.com/pirati_sck"},
+						"https://www.instagram.com/stredocestipirati/"
 					],
 					"list": [
 						 "Jana Skopalíková", "Simona Luftová", "Daniel Netušil", "Petra Smutná", "Tomáš Zmuda", "Adéla Šípová", "Lucie Cirkva Chocholová", "Milan Zelený", "Petr Tomáš", "Petr Procházka", "Jan Lička", "Antonín Schejbal", "Milan Krch", "Martin Suchánek", "Vojtěch Lukavec", "Petr Chaluš", "Tomáš Lénárd", "Magdaléna Vilímovská", "Monika Keřková", "Štěpán Drtina", "Vojtěch Ertl", "Michal Hažlinský", "Jiří Lehejček", "Václav Kubaljak", "Jan Prokop", "Jan Trnka", "Jan Čáha", "Matouš Vanča", "Jaroslav Pros", "Josef Bouše", "Marek Řebíček", "Zdeněk Lajbner", "David Hösl", "Pavel Šanda", "Michal Trešl", "Tereza Kvitová", "Vladimír Kališ", "Markéta Šedivá", "Sámir Shanaáh", "Svatopluk Boček", "Jan Korbel", "Martin Martin", "Jakub Václavovič", "Radek Černohous", "Petr Čáp", "Naděžda Hamplová", "Miroslava Petráňová", "Roman Morávek", "Petr Petřík", "Patrick Zandl", "Jiří Adámek", "Jiřina Procházková", "Dominika Michailidu", "Jan Jurik", "Kristýna Hlásková", "Marek Jeřicha", "Jaroslava Pechová", "Vilém Nájemník", "Ondřej Klimeš", "Jan Lukášek", "Radek Hampl", "Ivan Šedek", "Tomáš Laňka", "Vít Šnajdr"
@@ -1935,45 +1936,134 @@
 					"name": "Spojenci – Koalice pro Olomoucký kraj",
 					"leader": {
 						"name":"Marián Jurečka",
-						"reg": 1
+						"reg": 1,
+						"links": [
+							"https://www.marianjurecka.cz",
+							"https://www.facebook.com/JureckaMarian/",
+							"https://twitter.com/MJureka",
+							"https://www.instagram.com/marianjurecka/"
+						]
 					},
 					"list": [
 						{"name": "Zdeňka Blišťanová", "reg": 721},
-						{"name": "Marcela Škvařilová", "reg": 1039}
+						{"name": "Marcela Škvařilová", "reg": 1039},
+						"Hana Vacková",
+						"Ivo Slavotínek",
+						"František Horák",
+						"Aleš Jakubec",
+						"Jan Šafařík",
+						"Daniel Řezníček",
+						"Pavel Grasse",
+						"Matouš Pelikán",
+						"Aleš Matyášek",
+						{"name": "Jitka Seitlová", "reg": 1},
+						"Ivo Čečman",
+						"Tomáš Šulák"
+					],
+					"links": [
+						"https://www.spojenciok.cz/",
+						"https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
 					]
 				},
 				{
 					"reg": 53,
-					"leader": "Dalibor Horák"
+					"leader": {
+						"name": "Dalibor Horák",
+						"reg": 53,
+						"links": [
+							"https://www.facebook.com/dhorak.unicov/"
+						]
+					},
+					"links": [
+						"http://www.ods.cz/region.olomoucky/",
+						"https://www.facebook.com/Zjednodusme.to/"
+					]
 				},
 				{
 					"coalition": [7, "Patrioti Olomouckého kraje"],
-					"leader": "Jiří Zemánek"
+					"leader": {
+						"name": "Jiří Zemánek",
+						"reg": 7,
+						"links": [
+							"https://jirizemanek.cz/",
+							"https://www.facebook.com/zemanek.jiri/",
+							"https://twitter.com/ZemanekJiriOK",
+							"https://www.instagram.com/zemanek.j/",
+							"https://www.youtube.com/channel/UCcgIvOZ6gZXVtxVW-lJCpdQ"
+						]
+					},
+					"links": [
+						"http://olomoucky-kraj.cssd.cz",
+						"https://www.facebook.com/CssdOlomouckyKraj/"
+					]
 				},
 				{
 					"coalition": [166, 720],
 					"leader": {
 						"name": "Josef Suchánek",
-						"reg": 166
+						"reg": 166,
+						"links": [
+							"https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj/krajsky-vybor/suchanek-josef",
+							"https://www.facebook.com/suchanek.ol/",
+							"https://twitter.com/JosefKraj",
+							"https://www.instagram.com/josef.suchanek/"
+						]
 					},
 					"list": [
 						{"name": "Zdeňka Dvořáková Kocourková", "reg": 720}
+					],
+					"links": [
+						"https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj",
+						"https://www.facebook.com/starostoveolomouckykraj/",
+						"https://twitter.com/STAN_OLK",
+						"https://olomoucky.pirati.cz/",
+						"https://www.facebook.com/piratiOlomoucko/",
+						"https://twitter.com/piratiOlomoucko"
 					]
 				},
 				{
 					"reg": 768,
-					"leader": "Ladislav Okleštěk"
+					"leader": {
+						"name": "Ladislav Okleštěk",
+						"reg": 768,
+						"links": [
+							"https://www.ladislavoklestek.cz/",
+							"https://www.facebook.com/OklestekLadislav/",
+							"https://twitter.com/OklestekLa"
+						]
+					},
+					"links": [
+						"https://www.anobudelip.cz/olomoucky-kraj"
+					]
 				},
 				{
 					"reg": 47,
-					"leader": "Michal Symerský"
+					"leader": {
+						"name": "Michal Symerský",
+						"reg": 47,
+						"links": [
+							"https://olomouc.kscm.cz/cs/nasi-lide/ing-michal-symersky"
+						]
+					},
+					"links": [
+						"https://olomouc.kscm.cz/cs",
+						"https://www.facebook.com/volbyolomouckykscm2020/"
+					]
 				},
 				{
 					"reg": 1227,
 					"leader": {
 						"name": "Zuzana Majerová Zahradníková",
-						"reg": 1227
-					}
+						"reg": 1227,
+						"links": [
+							"http://zuzanamajerova.cz/",
+							"https://www.facebook.com/zuzanamajerova.cz/",
+							"https://twitter.com/MajerovaZ"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/trikoloraolomouckykraj/"
+					]
 				},
 				{
 					"reg": 715
