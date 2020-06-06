@@ -1,0 +1,71 @@
+{
+  "created": 1581896289590,
+  "date": 20200606,
+  "regular": false,
+  "areas": [{
+    "id": 32,
+    "name": "Teplice",
+    "winner": null,
+    "round1": {
+      "voters": 0,
+      "votes": 0,
+      "attended": 0,
+      "pct": 0,
+      "candidates": [{
+        "id": 1,
+        "name": ["Ing.", "Bohumil", "Ježek", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 2,
+        "name": ["Mgr.", "Zuzana", "Schwarz Bařtipánová", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 3,
+        "name": ["PhDr. ThDr. Mgr.", "Eugen S.", "Freimann", "PhD., M.A."],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 4,
+        "name": ["", "Oldřich", "Bubeníček", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 5,
+        "name": ["Bc.", "Hynek", "Hanza", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 6,
+        "name": ["", "Jana", "Syslová", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 8,
+        "name": ["Ing. Mgr.", "Zdeněk", "Pešek", "MBA"],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 9,
+        "name": ["RNDr.", "Zdeněk", "Bergman", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }, {
+        "id": 10,
+        "name": ["Mgr.", "Zbyněk", "Šimbera", ""],
+        "votes": 0,
+        "pct": 0,
+        "progress": false
+      }]
+    }
+  }]
+}
