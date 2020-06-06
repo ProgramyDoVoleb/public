@@ -5,7 +5,7 @@ var iconv = require('iconv-lite');
 var unzipper = require('unzipper');
 const $ = require('cheerio');
 
-var list = [/** 19961116, 19981114, 19990828, 20001112, 20021025, 20031107, 20031031, 20041105, 20041008, 20061020, 20070413, 20070427, 20081017, 20101015, 20110318, 20121012, 20140110, 20140919, 20141010, 20161007, 20170127, 20180105, 20180518, 20181005, 20190405 */];
+var list = [/** 19961116, 19981114, 19990828, 20001112, 20021025, 20031107, 20031031, 20041105, 20041008, 20061020, 20070413, 20070427, 20081017, 20101015, 20110318, 20121012, 20140110, 20140919, 20141010, 20161007, 20170127, 20180105, 20180518, 20181005, 20190405 */20200605];
 
 const base = 'https://volby.cz/pls/senat/';
 const dir = '../zdroje/volby/senat/';
@@ -59,7 +59,7 @@ function scrape (url, target, deeper, date) {
 
                   setTimeout(() => {
                     scrape(l, date + '/prehled/' + value[1], true, date);
-                  }, 10000 * index)
+                  }, 100 * index)
                 }
               }
 
@@ -89,6 +89,6 @@ list.forEach((d, i) => {
   setTimeout(() => {
     scrape('se2?xjazyk=CZ&xdatum=' + d, d + '/prehled', true, d);
     scrape('se1111?xjazyk=CZ&xdatum=' + d + '&xv=1&xt=1', d + '/kandidati', false, d);
-  }, 300000 * i)
+  }, 3000 * i)
 
 });

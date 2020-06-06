@@ -74,6 +74,35 @@
 			"extra":true,
 			"list":[
 				{
+					"id":20200605,
+					"label":"2020/VI",
+					"date":[
+						20200605,
+						20200612
+					],
+					"type":"extra",
+					"reason": "rezignace Zuzany Baudyšové",
+					"path":"volby/senat/20200605",
+					"csu":{
+						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20200605",
+						"open-data":"https://volby.cz/opendata/se2019/se2019_opendata.htm"
+					},
+					"files":[
+						{
+							"type":"all-results",
+							"path":"/vysledky.json"
+						},
+						{
+							"type":"candidates",
+							"path":"/kandidati.json"
+						}
+					],
+					"timestamps":[
+						15544656,
+						15550704
+					]
+				},
+				{
 					"id":20190405,
 					"label":"2019/IV",
 					"date":[
