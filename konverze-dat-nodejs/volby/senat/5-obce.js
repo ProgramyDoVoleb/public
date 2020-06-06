@@ -21,6 +21,8 @@ Object.keys(townsListFile.list).forEach(region => {
   });
 });
 
+var summary = [];
+
 // process election
 
 list.forEach((dir, i) => {
@@ -154,7 +156,20 @@ list.forEach((dir, i) => {
             }
           });
 
+          console.log(townData);
+
           fs.writeFile(link, JSON.stringify(townData), () => {});
+
+          var sum = {
+            num,
+            name: townData.name,
+            round1: data.round1.candidates,
+            round2: data.round2.candidates
+          }
+
+
+
+          summary.push(sum);
 
           // console.log(dir, id, num, 'done');
 
@@ -168,3 +183,10 @@ list.forEach((dir, i) => {
     });
   }, 90000 * i);
 });
+
+setTimeout(() => {
+
+  summary.sort((a, b) => a.name.localeCompare(b.name, 'cs'));
+
+  fs.writeFile(targetDIR + list[0] + '/summary.json', JSON.stringify(summary), () => {});
+}, 1000);
