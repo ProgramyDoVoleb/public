@@ -156,8 +156,6 @@ list.forEach((dir, i) => {
             }
           });
 
-          console.log(townData);
-
           fs.writeFile(link, JSON.stringify(townData), () => {});
 
           var sum = {
@@ -166,8 +164,6 @@ list.forEach((dir, i) => {
             round1: data.round1.candidates,
             round2: data.round2.candidates
           }
-
-
 
           summary.push(sum);
 

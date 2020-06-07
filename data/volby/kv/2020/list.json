@@ -85,18 +85,19 @@
 						"name": "Petra Pecková",
 						"reg": 166,
 						"links": [
-							{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra", "label": "Profil"},
-							{"url": "https://www.facebook.com/peckovapetra"},
-							{"url": "https://www.facebook.com/petra.peckova.39"},
-							{"url": "https://twitter.com/PPeckova"},
-							{"url": "https://www.instagram.com/petra_peckova_starostka"}
-						]
+							"https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra",
+							"https://www.facebook.com/peckovapetra",
+							"https://www.facebook.com/petra.peckova.39",
+							"https://twitter.com/PPeckova",
+							"https://www.instagram.com/petra_peckova_starostka"
+						],
+						"photo": "lide/fotky/petra-peckova.jpg"
 					},
 					"links": [
-						{"url": "https://starostovestrednicechy.cz/"},
-						{"url": "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj", "label": "STAN Středočeský"},
-						{"url": "https://www.facebook.com/starostove.stredocesky"},
-						{"url": "https://twitter.com/STAN_Stc"}
+						"https://starostovestrednicechy.cz/",
+						"https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
+						"https://www.facebook.com/starostove.stredocesky",
+						"https://twitter.com/STAN_Stc"
 					],
 					"list": [
 						{"name": "Vít Rakušan", "reg": 166},
@@ -109,7 +110,8 @@
 						{"name": "Petr Borecký", "reg": 99},
 						{"name": "Luděk Jeništa", "reg": 166},
 						{"name": "Stanislav Boloňský", "reg": 129}
-					]
+					],
+					"data": "stk/166"
 				},
 				{
 					"reg": 1227,
@@ -755,12 +757,9 @@
 					"list": [
 						"Mgr. Bc. Radka Kvasničková", "Ing. Luděk Beran", "Ing. Mgr. Miroslav Šůs", "MUDr. Věra Blechová", "Miroslav Ponert", "MVDr. Václava Molcarová", "Ing. Milada Šulcová LL.M.", "Marta Hondlíková", "Ing. David Cervan Ph.D.", "Ing. Marek Kroha", "Petr Majer", "Michaela Rojtová", "Tomáš Riedl", "Vojtěch Hanzlík", "Michal Aufrichtig", "Jiří Kassal", "Hana Baštová", "Jana Tučáková", "Pavel Pocklan"
 					],
-					"program": {
-						"source": "https://www.skp-rn.cz/krajske-volby",
-						"local": "kvk-769"
-					},
+					"program": "https://www.skp-rn.cz/krajske-volby",
 					"logo": "obecne/strany/loga/769-SKP-RN.jpg",
-					"motto": "PRO NÁŠ ŽIVOT - PRO NÁŠ KRAJ"
+					"data": "kvk/769"
 				},
 				{
 					"reg": 768,
@@ -860,14 +859,14 @@
 						"reg": 1126,
 						"links": [
 							{"url": "https://www.facebook.com/brakava"}
-						],
-						"about": "Jiří Řehák se narodil v Chomutově, základní a střední školu vychodil v Bílině, vysokoškolská studia strávil v Ústí nad Labem a nyní učí na teplickém gymnáziu dějepis, základy společenských věd, ekonomii, politologii a religionistiku. Podílí se na mnoha kulturních a společenských aktivitách, a to jak v Teplicích, tak v Tisé u Děčínských stěn, která je nyní jeho druhým domovem. Kromě toho se podílí na organizaci Festivalu Banát a dlouhodobě koordinuje pomoc krajanům v rumunském a srbském Banátu."
+						]
 					},
 					"links": [
 						{"url": "https://spojenciprokraj.cz"},
 						{"url": "https://www.facebook.com/spojenciprokraj"},
 						{"url": "https://www.instagram.com/spojenciprokraj"}
-					]
+					],
+					"data": "ulk/k1.json"
 				},
 				{
 					"reg": 47,
@@ -1020,8 +1019,7 @@
 							{"url": "https://liberecky.pirati.cz/lide/zbynek-miklik"},
 							{"url": "https://www.facebook.com/zbynek.miklik.10"},
 							{"url": "https://twitter.com/zmiklik"}
-						],
-						"about": "Zbyněk Miklík se narodil v 17. února 1975 v Boskovicích, studoval v Brně, žil v Praze a nyní již šestým rokem žije v Turnově. Je ženatý, má dvě děti. Členem Pirátské strany je od května 2018."
+						]
 					},
 					"list": [
 						"Václav Židek", "Jarmila Valešová", "Jan Tempel", "Daniela Weissová", "Marek Förster", "Ondřej Víteček", "Ondřej Novosad", "Helena Vondráková", "Petr Vyhnal", "David Drobný", "Lukáš Vondrák", "Jan Lehký", "David Schindler", "Kateřina Rosáková", "Miloslav Kafka", "Veronika Vavřinová", "Petr Jeník", "Filip Mastník", "Pavel Felgr", "Pavel Váňa", "Jan Hruška", "Karel Kadlec", "Petr Bukvic", "Lenka Havlíčková"
@@ -1358,9 +1356,7 @@
 							{"url": "https://spoluprokraj.cz/member/1-jiri-stepan"},
 							{"url": "https://www.facebook.com/hejtmanjiristepan"},
 							{"url": "https://twitter.com/stepanjiri1"}
-						],
-						"about": "Do podzimních komunálních voleb naši koalici jako jednička vede hejtman Jiří Štěpán. Ač je původní profesí historik, kterého mohou důvěrněji znát studenti Univerzity Hradec Králové a Lékařské fakulty Univerzity Karlovy se sídlem tamtéž, politické ostruhy si již rozhodně získat stihl - ať už jako zastupitel a radní města Hradce Králové nebo právě jako úřadující hejtman našeho kraje. Před počátkem svého veřejného angažmá Jiří Štěpán vystudoval magisterský obor historie na Univerzitě Palackého v Olomouci, rigorózní zkoušku i doktorské studium pak absolvoval již na Univerzitě Hradec Králové, konkrétně na její Filozofické fakultě. V Hradci Králové společně se svou rodinou žije.",
-						"quote": "Říká se, že slušný člověk nemá do politiky chodit. Já do ní šel proto, abych to změnil. Politiku chápu jako příležitost udělat něco konkrétního pro lidi. Jako hejtman Královéhradeckého kraje se o to snažím každý den. Vždy slušně, ale důrazně. A z toho neustoupím."
+						]
 					},
 					"links": [
 						{"url": "https://spoluprokraj.cz"},
@@ -1380,10 +1376,8 @@
 						{"name": "Štěpán Málek", "reg": 99},
 						{"name": "Jan Birke", "reg": 7}
 					],
-					"program": {
-						"source": "https://spoluprokraj.cz/program/",
-						"local": "khk-1228"
-					}
+					"program": "https://spoluprokraj.cz/program/",
+					"data": "khk/1228"
 				},
 				{
 					"reg": 715
@@ -1421,8 +1415,7 @@
 						"links": [
 							{"url": "https://pardubicky.pirati.cz/lide/daniel-lebduska"},
 							{"url": "https://www.facebook.com/lebduska.daniel"}
-						],
-						"about": "Po absolvování bakalářského studia na Univerzitě Karlově od roku 2013 působí v marketingu na různých pozicích - nyní jako výkonný ředitel ve společnosti IPC Team - zabývá se především online marketingem (RTB, PPC, SEO, UX), vývojem webových stránek a okrajově i offline marketingem. Zároveň pomáhá s marketingem dalším firmám ve volném čase jako freelancer."
+						]
 					},
 					"links": [
 						{"url": "https://pardubicky.pirati.cz"},
@@ -1431,7 +1424,8 @@
 					],
 					"list": [
 						"Filip Mezera", "Andrej Ramašeuski", "Libuše Vévodová", "Jiří Ducháček", "Lenka Španihelová", "Andrea Linhartová", "Jaroslav Lainz", "Matěj Karas"
-					]
+					],
+					"data": "pak/720"
 				},
 				{
 					"reg": 768,
@@ -1598,8 +1592,7 @@
 							{"url": "https://twitter.com/PiratkaHanka"},
 							{"url": "https://cz.linkedin.com/in/hana-hajnova-692a5025"},
 							{"url": "https://www.hlidacstatu.cz/osoba/hana-hajnova-3"}
-						],
-						"about": "Projektová manažerka, Pirátka, mediální experimentátorka, dobrovolnice, máma dvou dětí, telčská zastupitelka."
+						]
 					},
 					"links": [
 						{"url": "https://vysocina.pirati.cz"},
@@ -1609,7 +1602,8 @@
 					],
 					"list": [
 						"Jan Břížďala", "Blanka Lednická", "Jiří Wiche", "Pavel Knežik", "Eva Nováková", "Roman Pašek", "Milan Daďourek", "Miroslav Vácha", "Jiří Svoboda", "Daniel Škarka", "Václav Honzl", "Petra Kujínek Polodnová", "Irena Bačinová", "Ladislav Stalmach", "Michaela Vodová", "Jakub Šmíd", "Jan Kerber", "Viktorie Vidláková", "Tereza Mašková", "Zdeňka Lišková", "Vít Žáček", "Petr Kozel", "Markéta Šimková", "Jaroslav Zejda", "Josef Kořínek", "Marta Kozdas", "Jaroslav Vysoký", "Marek Křejpský"
-					]
+					],
+					"data": "vys/720"
 				},
 				{
 					"coalition": [53, 779],
@@ -1761,8 +1755,7 @@
 							{"url": "https://www.facebook.com/jirinantl"},
 							{"url": "https://twitter.com/jiri_nantl"},
 							{"url": "https://www.instagram.com/jiri.nantl"}
-						],
-						"about": "Narodil se v Brně. Vystudoval politologii na Fakultě sociálních studií Masarykovy univerzity, poté práva na Právnické fakultě MU a Corporate Law na Nottingham Trent University. V současnosti působí jako ředitel CEITEC - Středoevropského technologického institutu na Masarykově univerzitě. V minulosti zastával řadu manažerských pozic ve vysokém školství a veřejné správě včetně funkce prvního náměstka ministra školství. Vedl přípravné práce na reformě vysokoškolského zákona a na přípravě strategie vzdělávací politiky ČR do roku 2020. Byl dlouholetým členem Národní rady pro kvalifikace, předsedou dozorčí rady Centra pro studium vysokého školství a členem Výboru pro vzdělávací politiku OECD, je členem správních rad Jihočeské univerzity v Českých Budějovicích a Janáčkovy akademie múzických umění v Brně. Je ženatý, má dceru. Mezi jeho zájmy patří historie, geografie, cestování a numismatika. "
+						]
 					},
 					"coalition": [53, 714, 158],
 					"list": [
@@ -1772,7 +1765,8 @@
 					],
 					"links": [
 						{"url": "https://www.ods.cz/region.jihomoravsky"}
-					]
+					],
+					"data": "jmk/53"
 				},
 				{
 					"reg": 1,
@@ -1784,13 +1778,13 @@
 							{"url": "https://www.facebook.com/COOLstarosta"},
 							{"url": "https://twitter.com/JanGrolich"},
 							{"url": "https://www.instagram.com/coolstarosta"}
-						],
-						"about": "Od října jsem lídr lidovecké kandidátky do kraje. Před dvaceti lety byli u čerstvě vzniklého Jihomoravského kraje lidovci. Dokázali jsme tehdy vytvořit nejlepší integrovanou hromadnou dopravu v republice. Spustili jsme další projekty, které dnes považujeme za samozřejmé. Poslední roky se mi zdá, že se jede ze setrvačnosti. Je čas to zase nakopnout a posunout se dál. Zvládneme to! Jdeme vyhrát."
+						]
 					},
 					"links": [
 						{"url": "http://www.kdujiznimorava.cz"},
 						{"url": "https://www.facebook.com/kdujiznimorava"}
-					]
+					],
+					"data": "jmk/1"
 				},
 				{
 					"reg": 720,
