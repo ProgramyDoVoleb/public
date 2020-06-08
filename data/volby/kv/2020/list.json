@@ -1382,7 +1382,8 @@
 							{"url": "https://spoluprokraj.cz/member/1-jiri-stepan"},
 							{"url": "https://www.facebook.com/hejtmanjiristepan"},
 							{"url": "https://twitter.com/stepanjiri1"}
-						]
+						],
+						"photo": "lide/fotky/jiri-stepan.jpg"
 					},
 					"links": [
 						{"url": "https://spoluprokraj.cz"},
@@ -1403,7 +1404,13 @@
 						{"name": "Jan Birke", "reg": 7}
 					],
 					"program": "https://spoluprokraj.cz/program/",
-					"data": "khk/1228"
+					"data": "khk/1228",
+					"copyright": {
+						"content": "Fotografie a vizitky kandidátů jsou převzaté z webu %0.",
+						"vars": [
+							"https://spoluprokraj.cz"
+						]
+					}
 				},
 				{
 					"reg": 715
