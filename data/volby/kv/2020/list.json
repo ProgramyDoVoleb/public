@@ -777,10 +777,14 @@
 				{
 					"reg": 768,
 					"leader": {
-						"name": "Petr Kubis"
+						"name": "Petr Kubis",
+						"reg": 768
 					},
 					"list": [
 						"Jana Mračková Vildumetzová"
+					],
+					"links": [
+						"https://www.anobudelip.cz/karlovarsky-kraj"
 					]
 				}
 			]
@@ -994,8 +998,12 @@
 				{
 					"reg": 768,
 					"leader": {
-						"name": "Jan Schiller"
-					}
+						"name": "Jan Schiller",
+						"reg": 768
+					},
+					"links": [
+						"https://www.anobudelip.cz/ustecky-kraj"
+					]
 				}
 			]
 		},
@@ -1195,8 +1203,12 @@
 				{
 					"reg": 768,
 					"leader": {
-						"name": "Jitka Volfová"
-					}
+						"name": "Jitka Volfová",
+						"reg": 768
+					},
+					"links": [
+						"https://www.anobudelip.cz/liberecky-kraj"
+					]
 				}
 			]
 		},
@@ -1456,6 +1468,7 @@
 					},
 					"links": [
 						{"url": "https://www.anopardubickykraj.cz"},
+						"https://www.anobudelip.cz/pardubicky-kraj",
 						{"url": "https://www.facebook.com/ANOPardubickykraj"}
 					]
 				},
@@ -2104,16 +2117,14 @@
 						]
 					},
 					"list": [
-						"Jiří Jaroš",
-						"Denis Rychtar",
-						"Jakub Zach",
-						"Zuzana Fišerová",
-						"Jiří Knotek"
+						"Jiří Jaroš", "Denis Rychtar", "Jakub Zach", "Zuzana Fišerová", "Jiří Knotek", "Marek Houser", "Vratislav Krejčíř", "Lubomír Doležal", "Jaroslav Takáč", "Jana Skopalová", "Jaroslav Ševčík", "Pavel Beznoska", "Zdeněk Třos", "Renata Gerhinger", "Michal Štěpaník", "Milan Klajn", "Jiří Robenek", "Tomáš Holomel", "Kamil Podlas", "Kristýna Lajmarová", "Petr Tomášů", "Dominik Zavadil", "Pavel Maňásek", "Radek Nohavica", "Martina Urbánková", "Petr Stoklasa", "Martin Látal", "Martin Valášek", "Tomáš Čabla", "Jaromír Slezák", "Andrea Marečková", "Ondřej Bisaha", "Libor Adámek", "Petr Ťopek", "Petr Havlík", "František Prachman", "Marek Pochylý", "Dušan Jurčík", "Matěj Krajča", "Petr Lušovský", "František Elfmark"
 					],
 					"links": [
 						"https://zlinsky.pirati.cz",
 						"https://www.facebook.com/piratizlk/"
-					]
+					],
+					"program": "https://zlinsky.pirati.cz/krajske-volby/program.html",
+					"data": "zlk/720"
 				},
 				{
 					"coalition": [166, 721, {"name": "Nový Impuls", "logo": "obecne/strany/loga/x-novyimpuls.jpg"}, {"name": "Zlínské hnutí nezávislých", "logo": "obecne/strany/loga/x-zlinskehnutinezavislych.gif"}],
@@ -2327,8 +2338,8 @@
 						"Jan Krkoška"
 					],
 					"links": [
-						"https://www.facebook.com/ANOTohlejeMoravskoslezsko/",
-						"https://www.anobudelip.cz/moravskoslezsky-kraj"
+						"https://www.anobudelip.cz/moravskoslezsky-kraj",
+						"https://www.facebook.com/ANOTohlejeMoravskoslezsko/"
 					]
 				},
 				{
