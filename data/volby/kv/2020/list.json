@@ -286,12 +286,13 @@
 						"links": [
 							{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj/svec-jiri"},
 							{"url": "https://www.facebook.com/jisvec"}
-						]
+						],
+						"photo": "lide/fotky/jiri-svec.jpg"
 					},
 					"links": [
 						{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj", "label": "STAN Jihočeský"},
 						{"url": "https://www.facebook.com/starostove.jihocesky"},
-						{"url": "https://twitter.com/jck_stan"}
+						{"url": "https://twitter.com/stan_jck"}
 					],
 					"lide": [
 						"Jaroslava Martanová",
@@ -304,7 +305,9 @@
 						"Hynek Blažek",
 						"František Toušek",
 						"Lenka Malá"
-					]
+					],
+					"program": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data": "jck/166"
 				},
 				{
 					"reg": 768,
@@ -423,7 +426,8 @@
 							{"url": "https://www.josefbernard.cz/"},
 							{"url": "https://www.facebook.com/BernardJosef2016"},
 							{"url": "https://twitter.com/BernardHejtman"}
-						]
+						],
+						"photo": "lide/fotky/josef-bernard.jpg"
 					},
 					"links": [
 						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj", "label": "STAN Plzeňsko"},
@@ -431,10 +435,11 @@
 						{"url": "https://twitter.com/STAN_Plz"}
 					],
 					"list": [
-						"Pavel Čížek"
+						{"name": "Pavel Čížek", "reg": 166}
 					],
 					"coalition": [166, 1014, 5],
-					"name": "STAROSTOVÉ A NEZÁVISLÍ, PRO PLZEŇ a Strana zelených"
+					"name": "STAROSTOVÉ A NEZÁVISLÍ, PRO PLZEŇ a Strana zelených",
+					"data": "plk/stan-pp-z"
 				},
 				{
 					"reg": 7,
@@ -728,7 +733,8 @@
 							{"url": "https://www.facebook.com/coolhanek"},
 							{"url": "https://twitter.com/p_kulhanek"},
 							{"url": "https://www.instagram.com/petr.cool.hanek"}
-						]
+						],
+						"photo": "lide/fotky/petr-kulhanek.jpg"
 					},
 					"links": [
 						{"url": "https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj", "label": "STAN KVK"},
@@ -740,7 +746,8 @@
 						{"url": "https://www.facebook.com/TOP09.Karlovarsky.kraj/", "label": "TOP 09 KVK"},
 						{"url": "https://www.facebook.com/VPM-Volba-pro-m%C4%9Bsto-1411303629140476/", "label": "Volba pro město Cheb"},
 						{"url": "https://www.facebook.com/hnutikoa.cz"}
-					]
+					],
+					"data": "kvk/166"
 				},
 				{
 					"reg": 715
@@ -993,8 +1000,11 @@
 				{
 					"reg": 166,
 					"leader": {
-						"name": "Filip Ušák"
-					}
+						"name": "Filip Ušák",
+						"photo": "lide/fotky/filip-usak.jpg"
+					},
+					"program": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data": "ulk/166"
 				},
 				{
 					"reg": 715
@@ -1273,7 +1283,8 @@
 						{"name": "Václav Řehoř", "reg": 53},
 						{"name": "Ivan Adamec", "reg": 53},
 						{"name": "Oldřich Vlasák", "reg": 53}
-					]
+					],
+					"data": "khk/ods-stan-vc"
 				},
 				{
 					"reg": 720,
@@ -1591,13 +1602,16 @@
 							{"url": "https://www.facebook.com/michmatouskova"},
 							{"url": "https://twitter.com/michmatouskova1"},
 							{"url": "https://www.instagram.com/michaela_matouskova1"}
-						]
+						],
+						"photo": "lide/fotky/michaela-matouskova.jpg"
 					},
 					"links": [
 						{"url": "https://www.stan-pardubickykraj.cz"},
 						{"url": "https://www.facebook.com/starostove.pardubicky"},
 						{"url": "https://twitter.com/kraj_stan"}
-					]
+					],
+					"program": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data": "pak/166"
 				}
 			]
 		},
@@ -1670,7 +1684,8 @@
 							{"url": "https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas"},
 							{"url": "https://www.facebook.com/VlcekProVysocinu"},
 							{"url": "https://www.instagram.com/vlcek.starosta"}
-						]
+						],
+						"photo": "lide/fotky/lukas-vlcek.jpg"
 					},
 					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"],
 					"links": [
@@ -1687,7 +1702,8 @@
 						"Bohumír Nikl",
 						"Zdeněk Tůma",
 						"Roman Fabeš"
-					]
+					],
+					"data": "vys/spv"
 				},
 				{
 					"reg": 47,
@@ -1851,7 +1867,8 @@
 						"links": [
 							{"url": "https://www.facebook.com/frantisek.lukl"},
 							{"url": "https://twitter.com/Frantisek_Lukl"}
-						]
+						],
+						"photo": "lide/fotky/frantisek-lukl.jpg"
 					},
 					"list": [
 						"Martin Maleček",
@@ -1864,7 +1881,9 @@
 						{"url": "https://www.facebook.com/hnutiSOL"},
 						{"url": "https://twitter.com/stan_jmk"},
 						{"url": "https://www.instagram.com/hnutisol"}
-					]
+					],
+					"program": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data": "jmk/stan-sol"
 				},
 				{
 					"reg": 768,
@@ -2050,7 +2069,8 @@
 							"https://www.facebook.com/suchanek.ol/",
 							"https://twitter.com/JosefKraj",
 							"https://www.instagram.com/josef.suchanek/"
-						]
+						],
+						"photo": "lide/fotky/josef-suchanek.jpg"
 					},
 					"list": [
 						{"name": "Zdeňka Dvořáková Kocourková", "reg": 720}
@@ -2062,7 +2082,8 @@
 						"https://olomoucky.pirati.cz/",
 						"https://www.facebook.com/piratiOlomoucko/",
 						"https://twitter.com/piratiOlomoucko"
-					]
+					],
+					"data": "olk/stan-pirati"
 				},
 				{
 					"reg": 768,
@@ -2147,7 +2168,8 @@
 							"https://www.facebook.com/petr.gazdik/",
 							"https://twitter.com/petrgazdik",
 							"https://www.instagram.com/petr_gazdik/"
-						]
+						],
+						"photo": "lide/fotky/petr-gazdik.jpg"
 					},
 					"links": [
 						"http://www.starostove-nezavisli.cz/regiony/zlinsky-kraj",
@@ -2162,7 +2184,8 @@
 						"https://twitter.com/novyimpulszlin",
 						"https://www.instagram.com/top09zlk/",
 						"https://www.instagram.com/novimpuls9361/"
-					]
+					],
+					"data": "zlk/stan-top-ni-zhn"
 				},
 				{
 					"reg": 1,
@@ -2473,12 +2496,14 @@
 						"links": [
 							"https://www.facebook.com/janlipnerSTAN/",
 							"https://twitter.com/JanLipner"
-						]
+						],
+						"photo": "lide/fotky/jan-lipner.jpg"
 					},
 					"list": [
 						{"name": "Martin Polášek", "reg": 88},
 						{"name": "Ondřej Syrovátka", "reg": 5}
-					]
+					],
+					"data": "msk/zsn"
 				}
 			]
 		}
