@@ -415,14 +415,13 @@
 					]
 				},
 				{
-					"reg": 166,
 					"leader": {
-						"name": "Pavel Čížek",
-						"reg": 166,
+						"name": "Josef Bernard",
+						"reg": 99,
 						"links": [
-							{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj/cizek-pavel"},
-							{"url": "https://www.facebook.com/pavelcizekstan"},
-							{"url": "https://twitter.com/PavelCizek"}
+							{"url": "https://www.josefbernard.cz/"},
+							{"url": "https://www.facebook.com/BernardJosef2016"},
+							{"url": "https://twitter.com/BernardHejtman"}
 						]
 					},
 					"links": [
@@ -430,7 +429,11 @@
 						{"url": "https://www.facebook.com/starostove.plzensky"},
 						{"url": "https://twitter.com/STAN_Plz"}
 					],
-					"support": [1014]
+					"list": [
+						"Pavel Čížek"
+					],
+					"coalition": [166, 1014, 5],
+					"name": "STAROSTOVÉ A NEZÁVISLÍ, PRO PLZEŇ a Strana zelených"
 				},
 				{
 					"reg": 7,
@@ -1121,8 +1124,7 @@
 							{"url": "https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri"},
 							{"url": "https://www.facebook.com/jiri.klapste"},
 							{"url": "https://www.instagram.com/jiriklapste"}
-						],
-						"quote": "Čelíme stále narůstajícím problémům, které jsou způsobeny změnou klimatu. Sucho, vlny veder, nedostatek pitné vody, to jsou aktuální témata, která je třeba řešit, aby Liberecký kraj zůstal i nadále tak dobrým místem pro život, jak tomu bylo doposud."
+						]
 					},
 					"list": [
 						{"name": "Štěpán Matek", "reg": 1},
@@ -1139,7 +1141,8 @@
 						{"url": "https://www.spolecneprolibereckykraj.cz"},
 						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "label": "KDU-ČSL Liberecko"},
 						{"url": "https://www.facebook.com/TOP09Liberec/", "label": "TOP 09 Liberecko"}
-					]
+					],
+					"data": "lbk/spolecne"
 				},
 				{
 					"coalition": [5, 795],
@@ -1216,7 +1219,7 @@
 			"id": 7,
 			"parties": [
 				{
-					"coalition": [1, 88, 113],
+					"coalition": [1, 181, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": {
 						"name": "Pavel Bělobrádek",
@@ -1231,7 +1234,6 @@
 					"links": [
 						{"url": "http://www.koalicehk.kdu.cz"},
 						{"url": "http://kralovehradecky.kdu.cz/", "label": "KDU-ČSL KHK"},
-						{"url": "https://www.nezavisli.cz"},
 						{"url": "http://vpm2014.cz"},
 						{"url": "https://www.facebook.com/koalicehk"},
 						{"url": "https://www.facebook.com/kdukralovehradecko/", "label": "KDU-ČSL KHK"},
