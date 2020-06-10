@@ -241,7 +241,8 @@
 						"name": "Lukáš Mareš",
 						"reg": 720,
 						"links": [
-							{"url": "https://jihocesky.pirati.cz/clenove/mares-lukas"}
+							"https://jihocesky.pirati.cz/clenove/mares-lukas",
+							"https://lide.pirati.cz/personProfile/658/"
 						]
 					},
 					"list": [
@@ -260,7 +261,8 @@
 						{"url": "https://www.facebook.com/pirati.jck"},
 						{"url": "https://www.twitter.com/PiratiJcK"},
 						{"url": "https://www.instagram.com/pirati.jihocesky"}
-					]
+					],
+					"data": "jck/720"
 				},
 				{
 					"reg": 1229,
@@ -1487,8 +1489,7 @@
 							{"url": "https://www.facebook.com/KolovratnikM"},
 							{"url": "https://twitter.com/kolovratnikm"},
 							{"url": "https://www.instagram.com/hrabje"}
-						],
-						"quote": "Jako poslanec pro Vás pracuji už od roku 2013. Jsem odborníkem na dopravu a mám za sebou výsledky, které jsou vidět. Rozpohyboval jsem dlouho odkládané zahájení stavby dálnice D35, odstartoval jsem přípravu vysokorychlostní železnice, díky mým návrhům vyrostly v našem kraji kilometry cyklostezek a chodníků a v řadě měst startují tolik potřebné silniční obchvaty. V roli zpravodaje jsem Sněmovnou provedl téměř všechny dopravní zákony, které nyní v Česku máme. Prosadil jsem desítky změn, které nás pozitivně ovlivňují a ulehčují nám každodenní život. Poslaneckému mandátu věnuji všechen svůj čas, svoji práci dělám poctivě a záleží mi na výsledku. Úspěšné dílo však není u konce. V rozvoji moderní dopravy bych rád pokračoval a věřím, že společně dotáhneme věci do zdárného konce. Pro nás a pro naše děti."
+						]
 					},
 					"links": [
 						{"url": "https://www.anopardubickykraj.cz"},
@@ -2027,7 +2028,11 @@
 					"links": [
 						"https://www.spojenciok.cz/",
 						"https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
-					]
+					],
+					"logo": "obecne/strany/loga/x-spojenciok.png",
+					"color": "#018180",
+					"program": "https://www.spojenciok.cz/#program",
+					"data": "olk/spojenciok"
 				},
 				{
 					"reg": 53,
