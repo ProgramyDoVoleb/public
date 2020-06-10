@@ -430,15 +430,15 @@
 						"photo": "lide/fotky/josef-bernard.jpg"
 					},
 					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj", "label": "STAN Plzeňsko"},
-						{"url": "https://www.facebook.com/starostove.plzensky"},
-						{"url": "https://twitter.com/STAN_Plz"}
+						"http://www.bernardastarostove.cz/",
+						"https://www.facebook.com/bernardastarostove",
+						"https://twitter.com/STAN_Plz"
 					],
 					"list": [
 						{"name": "Pavel Čížek", "reg": 166}
 					],
-					"coalition": [166, 1014, 5],
-					"name": "STAROSTOVÉ A NEZÁVISLÍ, PRO PLZEŇ a Strana zelených",
+					"coalition": [166, 1014, 5, {"name": "Idealisté", "logo": "obecne/strany/loga/x-idealiste.png", "color": "#00dcc2"}],
+					"name": "JOSEF BERNARD A STAROSTOVÉ (STAN) s podporou Zelených, PRO Plzeň a Idealistů",
 					"data": "plk/stan-pp-z"
 				},
 				{
@@ -1034,7 +1034,8 @@
 							{"url": "https://www.facebook.com/hejtmanmartinputa"},
 							{"url": "https://twitter.com/MartinPuta"},
 							{"url": "https://www.instagram.com/hejtmanmartinputa"}
-						]
+						],
+						"photo": "lide/fotky/martin-puta.jpg"
 					},
 					"support": ["Unie pro sport a zdraví"],
 					"list": [
@@ -1043,7 +1044,8 @@
 					"links": [
 						{"url": "https://www.starostoveprolibereckykraj.cz", "label": "Webové stránky"},
 						{"url": "https://www.facebook.com/starostoveprolibereckykraj/", "label": "Facebook"}
-					]
+					],
+					"data": "lbk/slk"
 				},
 				{
 					"reg": 720,
@@ -1913,7 +1915,7 @@
 				},
 				{
 					"name": "Spolu pro Moravu",
-					"coalition": [721, 5, 1190, "Idealisté", 795],
+					"coalition": [721, 5, 1190, {"name": "Idealisté", "logo": "obecne/strany/loga/x-idealiste.png", "color": "#00dcc2"}, 795],
 					"leader": {
 						"name": "Jan Vitula",
 						"reg": 721,
