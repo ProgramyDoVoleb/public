@@ -196,11 +196,15 @@
 						"Rudolf Vodička"
 					],
 					"links": [
+						"https://spolecneprojiznicechy.cz/",
+						"https://www.hejtmantour.cz/",
 						{"url": "http://jiznicechy.kdu.cz", "label": "KDU-ČSL Jižní Čechy"},
 						{"url": "https://www.top09.cz/regiony/jihocesky-kraj/", "label": "TOP 09 Jižní Čechy"},
 						{"url": "https://www.facebook.com/jihocesky.kdu"},
 						{"url": "https://www.facebook.com/TOP09.Jihocesky.kraj"}
-					]
+					],
+					"program": "https://spolecneprojiznicechy.cz/#program",
+					"data": "jck/spolecneprojc"
 				},
 				{
 					"reg": 53,
@@ -2167,7 +2171,8 @@
 							"https://zlinsky.pirati.cz/lide/hana-ancincova/",
 							"https://www.facebook.com/hana.ancincova.piratka/",
 							"https://twitter.com/HAncincova"
-						]
+						],
+						"photo": "lide/fotky/hana-ancincova.jpg"
 					},
 					"list": [
 						"Jiří Jaroš", "Denis Rychtar", "Jakub Zach", "Zuzana Fišerová", "Jiří Knotek", "Marek Houser", "Vratislav Krejčíř", "Lubomír Doležal", "Jaroslav Takáč", "Jana Skopalová", "Jaroslav Ševčík", "Pavel Beznoska", "Zdeněk Třos", "Renata Gerhinger", "Michal Štěpaník", "Milan Klajn", "Jiří Robenek", "Tomáš Holomel", "Kamil Podlas", "Kristýna Lajmarová", "Petr Tomášů", "Dominik Zavadil", "Pavel Maňásek", "Radek Nohavica", "Martina Urbánková", "Petr Stoklasa", "Martin Látal", "Martin Valášek", "Tomáš Čabla", "Jaromír Slezák", "Andrea Marečková", "Ondřej Bisaha", "Libor Adámek", "Petr Ťopek", "Petr Havlík", "František Prachman", "Marek Pochylý", "Dušan Jurčík", "Matěj Krajča", "Petr Lušovský", "František Elfmark"

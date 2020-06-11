@@ -1,0 +1,181 @@
+{
+  "people": [
+    {
+      "reg": 1,
+      "name": "František Talíř",
+      "quote": "Naším cílem je znovu nastartovat ekonomiku a pomoci těm, kteří to myslí s budoucností našeho kraje vážně – rodinám, malým a středním firmám, lokálním zemědělcům i obcím, které si nemohou kvůli současné pandemii dovolit investice do svého dalšího rozvoje."
+    },
+    {
+      "reg": 1,
+      "name": "Šimon Heller",
+      "quote": "Podpora rodin je stavebním kamenem fungující společnosti. Naše společnost stárne a bez dětí to nepůjde. Je třeba ocenit odvahu všech mladých lidí, kteří se rozhodli založit rodinu a mít děti. A to jak přímou formou (porodné, pastelkovné...), tak formou nepřímou (dostupnost dobrých školek, kvalitní školy, výstavba dětských hřišť a další infrastruktury, slaďování pracovního a rodinného života...). Mladí lidé potřebují práci, bydlení a bezpečí. Proto chceme k rozhýbání ekonomiky využít náš Marshallův plán a rozhýbat výstavbu městských a obecních bytů.",
+      "links": [
+        "https://hellersimon.cz/",
+        "https://spolecneprojiznicechy.cz/#nasi-lidri",
+        "https://www.facebook.com/hellersimon.cz/",
+        "https://twitter.com/hellersimon"
+      ]
+    },
+    {
+      "reg": 721,
+      "name": "Pavel Klíma",
+      "quote": "JČK zřizuje 125 škol, je třeba garantovat hladkou cestu pro změnu vzdělávacího systému, kterou MŠMT připravuje. Klíčovými osobami jsou ředitelé, podpora začíná u konkurzu výběrem kvality bez politického pozadí.",
+      "links": [
+        "https://spolecneprojiznicechy.cz/#nasi-lidri",
+        "https://www.facebook.com/klimapavel.top09/"
+      ]
+    },
+    {
+      "reg": 1,
+      "name": "Jan Bartošek",
+      "quote": "Plně podporuji správu v duchu péče řádného hospodáře. Státu jako celku, samospráv v rámci regionů. Pro koho? Pro lidi! Pro rodiny! Správně a právně! Potřebujeme efektivní investice do průmyslu, včetně podpory českých firem. Dlouhodobě podporuji (finančně) dostupné bydlení pro mladé rodiny, ale i seniory – družstva s podporou měst a obcí. Léta zdůrazňuji potřebu zjednodušení státní správy, komunikace stát-občan, tzv. digitalizaci státu. A nic z toho není možné bez bezpečného prostředí. Neopomínejme tedy ani investice do bezpečnosti a obrany státu, včetně jeho kyberprostoru!",
+      "links": [
+        "http://www.janbartosek.cz/",
+        "https://spolecneprojiznicechy.cz/#nasi-lidri",
+        "https://www.facebook.com/bartosekKDU/",
+        "https://twitter.com/honzabartosek",
+        "https://www.instagram.com/bartosek_jan/"
+      ]
+    },
+    {
+      "name": "Tomáš Bouzek",
+      "quote": "Neutěšený stav vznikal hromaděním chyb v zemědělském, vodním i lesním hospodářství v minulosti a situace se zásadně nemění. Šlo o přístup krátkozraký, bez ohledu na přírodu a naše zdraví. ",
+      "links": [
+        "https://spolecneprojiznicechy.cz/#nasi-lidri"
+      ]
+    }
+  ],
+  "program": {
+    "motto": "MARSHALLŮV PLÁN PRO JIŽNÍ ČECHY",
+    "parts": [
+      {
+        "headline": "MARSHALLŮV PLÁN PRO JIŽNÍ ČECHY",
+        "parts": [
+          {
+            "copy": "Lidé jsou naší prioritou, a právě pro ně je Marshallův plán určen. Peníze naspořené krajem odmítáme investovat do nefungujících projektů jako je letiště, a naopak je chceme dostat k rodinám, k lokálním podnikatelům a k místním zemědělcům. Naši krásnou jihočeskou krajinu ochráníme chytrými řešeními před suchem a dopravou přetíženým městům ulevíme výstavbou nových obchvatů. Pro lepší život na venkově podpoříme fungování malých prodejen a dostupnost zdravotní péče. Soustředíme se na kvalitní středoškolské vzdělávání, protože děti a mládež jsou naše budoucnost."
+          }
+        ]
+      },
+      {
+        "headline": "EKONOMIKA",
+        "copy": "NASTARTUJEME JIHOČESKOU EKONOMIKU",
+        "parts": [
+          {
+            "headline": "Vytvoříme dostupné nájemní bydlení.",
+            "list": ["Podpoříme výstavbu bytů ve městech a obcích – kraj pokryje 80% nákladů na přípravu výstavby městských a obecních bytů."]
+          },
+          {
+            "headline": "Efektivní pomoc živnostníkům a podnikatelům."
+          },
+          {
+            "headline": "Posílení finanční nezávislosti obcí a měst.",
+            "list": ["Ani vláda nesmí krátit svévolně rozpočty obcím a krajům."]
+          }
+        ]
+      },
+      {
+        "headline": "RODINY & DĚTI",
+        "copy": "VĚTŠÍ PODPORA JIHOČESKÝM RODINÁM",
+        "parts": [
+          {
+            "headline": "Přispějeme novorozencům na plínky a prvňáčkům na aktovky",
+            "list": ["5.000 Kč pro každé novorozeně", "2.000 Kč pro každého prvňáčka."]
+          },
+          {
+            "headline": "Podpoříme domácí hospicovou a pečovatelskou službu",
+            "list": ["Pomoc všem, kdo se doma starají o nemocné a staré lidi"]
+          },
+          {
+            "headline": "Jsme tu i pro nejmenší.",
+            "list": ["Pomůžeme vybudovat dětská hřiště v co nejvíce obcích"]
+          }
+        ]
+      },
+      {
+        "headline": "KVALITNĚJŠÍ DOPRAVA",
+        "copy": "DOPRAVA POHODLNĚ, RYCHLE A BEZ KOLON",
+        "parts": [
+          {
+            "headline": "Maximální důraz na urychlení dostavby dálnic D3 a D4.",
+            "list": ["Splníme všechny úkoly ze strany Jihočeského kraje.", "Tlak na Ministerstvo dopravy, ŘSD a Středočeský kraj."]
+          },
+          {
+            "headline": "Zabezpečíme kvalitní veřejnou dopravu a moderní vozy ve všech částech kraje.",
+            "list": ["Investice do veřejné dopravy – MHD, vlaky, autobusy.", "Navazující jízdní řády napříč krajem i s ostatními regiony."]
+          },
+          {
+            "headline": "Zdravější a bezpečnější města díky dalším čtyřem obchvatům.",
+            "list": ["Dačice, Trhové Sviny, Český Krumlov, Písek"]
+          },
+          {
+            "headline": "Myslíme i na cyklisty. Podpoříme výstavbu nových cyklotras.",
+            "list": ["Cyklodoprava je zdravou alternativou k autům.", "Kvalitní cyklostezky přivedou do jižních Čech turisty pro oživení ekonomiky."]
+          }
+        ]
+      },
+      {
+        "headline": "OCHRANA JIHOČESKÉ KRAJINY",
+        "copy": "MAXIMUM PRO PŘÍRODU V JIŽNÍCH ČECHÁCH",
+        "parts": [
+          {
+            "headline": "Boj proti suchu",
+            "list": ["Krajské dotace pro obce na obnovu menších vodních ploch, rybníků a mokřadů.", "Podpoříme projekty na zadržování a využití srážkových vod v krajině a městech, obnovu alejí, mezí a remízků.", "Zajistíme systematické monitorování spodních vod v obcích."]
+          },
+          {
+            "headline": "První pomoc pro jihočeské lesy",
+            "list": ["Podpoříme výsadbu lesů odolných vůči kůrovci.", "Počítáme s ochranou pramenišť a rašelinišť, zvýšením podílu tlejícího dřeva pro větší druhovou rozmanitost."]
+          },
+          {
+            "headline": "Odpady do krajiny nepatří",
+            "list": ["Snížíme skládkování, zvýšíme recyklaci odpadu.", "Zajistíme výstavbu zařízení na energetické využití odpadu v kraji."]
+          },
+          {
+            "headline": "Kotlíkové dotace pro obyvatele jižních Čech",
+            "list": ["Vyměníme staré a neekologické kotle za nové"]
+          }
+        ]
+      },
+      {
+        "headline": "PODPORA VENKOVA",
+        "copy": "DOBRÉ A DOSTUPNÉ SLUŽBY PRO ŽIVOT NA VENKOVĚ",
+        "parts": [
+          {
+            "headline": "Podpoříme činnost prodejen v malých obcích.",
+            "list": ["Pokryjeme část nákladů na jejich provoz."]
+          },
+          {
+            "headline": "Zdravotní péče na venkově nebude chybět.",
+            "list": ["Nastavíme systém pobídek pro zvýšení zájmu lékařů pracovat na venkově."]
+          },
+          {
+            "headline": "Ochráníme úrodnou půdu před spekulanty a stavebními developery.",
+            "list": ["Na kvalitní půdě má růst obilí, ne sklady a betonová monstra."]
+          },
+          {
+            "headline": "Podpoříme lokální zemědělce, farmáře a vlastníky lesů.",
+            "list": ["Podpoříme ty, kteří hospodaří zodpovědně a šetrně vůči přírodě."]
+          }
+        ]
+      },
+      {
+        "headline": "VZDĚLÁVÁNÍ A KULTURA",
+        "copy": "KVALITNÍ VZDĚLÁNÍ JAKO KLÍČ PRO BUDOUCÍ BOHATSTVÍ",
+        "parts": [
+          {
+            "headline": "Vážíme si poctivého řemesla.",
+            "list": ["Poskytneme systematickou podporu učňovskému vzdělávání a stipendii oceníme nejlepší učně."]
+          },
+          {
+            "headline": "Díky partnerským programům si středoškoláci si vyzkouší praxi u nejlepších jihočeských zaměstnavatelů."
+          },
+          {
+            "headline": "Zachováme gymnázia v Jihočeském kraji a nastavíme jasná pravidla pro výběr ředitelů škol."
+          },
+          {
+            "headline": "Otáčivé hlediště udržíme v Českém Krumlově na vhodném místě i pro další generace"
+          }
+        ]
+      }
+    ]
+  }
+}
