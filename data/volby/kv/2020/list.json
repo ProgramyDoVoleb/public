@@ -165,6 +165,9 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -400,6 +403,9 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -591,6 +597,9 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -805,6 +814,9 @@
 					"links": [
 						"https://www.anobudelip.cz/karlovarsky-kraj"
 					]
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -1234,6 +1246,9 @@
 					"links": [
 						"https://www.anobudelip.cz/liberecky-kraj"
 					]
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -1440,6 +1455,9 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -1621,6 +1639,9 @@
 					],
 					"program": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
 					"data": "pak/166"
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -1800,6 +1821,17 @@
 					],
 					"links": [
 						{"url": "https://www.anobudelip.cz/kraj-vysocina"}
+					]
+				},
+				{
+					"reg": 1114,
+					"leader": {
+						"name": "Karel Fink",
+						"reg": 1114
+					},
+					"list": [
+						"Radek Koten",
+						"Tomáš Prchal"
 					]
 				}
 			]
@@ -1996,6 +2028,9 @@
 						"https://www.facebook.com/moravaci",
 						"https://twitter.com/moravaci"
 					]
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -2158,6 +2193,9 @@
 				},
 				{
 					"reg": 715
+				},
+				{
+					"reg": 1114
 				}
 			]
 		},
@@ -2532,6 +2570,9 @@
 						{"name": "Ondřej Syrovátka", "reg": 5}
 					],
 					"data": "msk/zsn"
+				},
+				{
+					"reg": 1114
 				}
 			]
 		}
