@@ -2050,12 +2050,13 @@
 					]
 				},
 				{
-					"coalition": [7, "Patrioti Olomouckého kraje"],
+					"coalition": [7, {"name": "Patrioti Olomouckého kraje", "logo": "obecne/strany/loga/x-patrioti-olk.png"}],
 					"leader": {
 						"name": "Jiří Zemánek",
 						"reg": 7,
 						"links": [
 							"https://jirizemanek.cz/",
+							"https://receptprokraj.cz/jiri-zemanek/",
 							"https://www.facebook.com/zemanek.jiri/",
 							"https://twitter.com/ZemanekJiriOK",
 							"https://www.instagram.com/zemanek.j/",
@@ -2063,9 +2064,21 @@
 						]
 					},
 					"links": [
-						"http://olomoucky-kraj.cssd.cz",
+						"https://receptprokraj.cz/",
 						"https://www.facebook.com/CssdOlomouckyKraj/"
-					]
+					],
+					"list": [
+						{"name": "Ladislav Jabůrek"},
+						{"name": "Ladislav Hynek", "reg": 7},
+						{"name": "Pavel Šoltys", "reg": 7},
+						{"name": "Viktor Kohout"},
+						{"name": "Jaromír Malý", "reg": 7},
+						{"name": "Jiří Kubiš"},
+						{"name": "Miroslav Kopřiva", "reg": 7},
+						{"name": "Pavel Holík", "reg": 7}
+					],
+					"program": "https://receptprokraj.cz/volebni-program/",
+					"data": "olk/cssd-patrioti"
 				},
 				{
 					"coalition": [166, 720],
