@@ -346,10 +346,10 @@
 						{"name": "Libor Vondráček", "reg": 714},
 						"Jiří Černý"
 					],
-
 					"links": [
 						{"url": "https://www.facebook.com/trikolora.jiznicechy"}
-					]
+					],
+					"data": "jck/1227"
 				},
 				{
 					"coalition": [766, 136, 753],
@@ -1355,8 +1355,7 @@
 				},
 				{
 					"name": "Spojenci pro Královéhradecký kraj",
-					"coalition": [721, 1049],
-					"support": [795],
+					"coalition": [721, 1049, 795],
 					"leader": {
 						"name": "Aleš Cabicar",
 						"reg": 721,
@@ -1364,7 +1363,8 @@
 							{"url": "https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html"},
 							{"url": "https://www.facebook.com/ales.cabicar"},
 							{"url": "https://twitter.com/AlesCabicar"}
-						]
+						],
+						"photo": "lide/fotky/ales-cabicar.jpg"
 					},
 					"links": [
 						{"url": "http://www.top09.cz/regiony/kralovehradecky-kraj", "label": "TOP 09 KHK"},
@@ -1374,15 +1374,16 @@
 					],
 					"list": [
 						{"name": "Pavlína Springerová", "reg": 1049},
-						{"name": "Libor Koldinský"},
-						{"name": "Rostislav Petrák"},
+						{"name": "Libor Koldinský", "reg": 721},
+						{"name": "Rostislav Petrák", "reg": 721},
 						{"name": "Jan Balcar", "reg": 795},
-						{"name": "Zdeněk Fink"},
-						{"name": "Matěj Havel"},
-						{"name": "Silvie Šidáková"},
-						{"name": "Milan Sommer"},
-						{"name": "Kamil Slezák"}
-					]
+						{"name": "Zdeněk Fink", "reg": 1049},
+						{"name": "Matěj Ondřej Havel", "reg": 721},
+						{"name": "Silvie Šidáková", "reg": 721},
+						{"name": "Milan Sommer", "reg": 721},
+						{"name": "Kamil Slezák", "reg": 721}
+					],
+					"data": "khk/spojenci"
 				},
 				{
 					"reg": 1227,
