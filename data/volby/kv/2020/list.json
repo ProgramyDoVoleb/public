@@ -1403,11 +1403,12 @@
 					"data": "khk/spojenci"
 				},
 				{
-					"coalition": [1227, 714, 716],
+					"reg": 1227,
 					"leader": {
 						"name": "Jiří Matoušek",
 						"reg": 1227
 					},
+					"support": [714, 716],
 					"links": [
 						{"url": "https://www.facebook.com/trikolorahk"}
 					]
