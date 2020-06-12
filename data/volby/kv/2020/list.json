@@ -2279,6 +2279,7 @@
 				},
 				{
 					"reg": 7,
+					"support": [5],
 					"leader": {
 						"name": "Taťána Valentová Nersesjan",
 						"reg": 7,
@@ -2339,13 +2340,6 @@
 					},
 					"links": [
 						"https://zlin.kscm.cz"
-					]
-				},
-				{
-					"reg": 5,
-					"links": [
-						"http://zeleni-zlinsko.cz/",
-						"https://www.facebook.com/zeleni.zlinsky.kraj/"
 					]
 				},
 				{
@@ -2519,12 +2513,16 @@
 					},
 					"list": [
 						"Jiří Navrátil",
-						"Vít Slováček"
+						"Vít Slováček",
+						"Marcel Sikora",
+						"Michal Jedlička"
 					],
 					"links": [
 						"http://moravskoslezsky.kdu.cz/domu",
+						"https://www.facebook.com/srostliskrajemmsk/",
 						"https://www.facebook.com/KDUCSLMoravskoslezskykraj/"
-					]
+					],
+					"data": "msk/1"
 				},
 				{
 					"reg": 1227,
