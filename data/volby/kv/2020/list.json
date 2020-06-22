@@ -1808,12 +1808,30 @@
 				},
 				{
 					"reg":166,
+					"support": [716,1128,119],
 					"leader":{
 						"name":"Filip Ušák",
 						"photo":"filip-usak.jpg"
 					},
 					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
-					"data":"ulk/166"
+					"data":"ulk/166",
+					"list": [
+						{"name": "Alena Dernerová", "reg": 166},
+						{"name": "Štefan Drozd", "reg": 716},
+						{"name": "Yveta Tomková", "reg": 1128},
+						{"name": "Milan Šťovíček", "reg": 166},
+						"Petr Liška",
+						"Zbyněk Linhart",
+						{"name": "Jana Syslová", "reg": 166},
+						{"name": "Radovan Šabata", "reg": 119},
+						"Jana Oubrechtová",
+						"Tomáš Trávníček",
+						"Jana Víchová",
+						"Jaroslav Špička",
+						"Pavel Svoboda",
+						"Vlastimil Čtverák",
+						"Renata Zrníková"
+					]
 				},
 				{
 					"reg":715
