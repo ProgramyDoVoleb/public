@@ -2185,7 +2185,16 @@
 					]
 				},
 				{
-					"reg":1114
+					"reg":1114,
+					"leader": {
+						"name": "Michal Švarc",
+						"reg": 1114,
+						"photo": "michal-svarc.jpg"
+					},
+					"links": [
+						"https://www.facebook.com/spdliberecky/"
+					],
+					"data": "lbk/1114"
 				}
 			]
 		},
