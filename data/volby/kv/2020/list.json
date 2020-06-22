@@ -1,5 +1,5 @@
 {
-	"lastUpdate":0,
+	"lastUpdate":"2020-06-22",
 	"list":[
 		{
 			"id":1,
@@ -76,30 +76,18 @@
 						"name":"Jiří Snížek",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://stredocesky.pirati.cz/lide/jiri-snizek"
-							},
-							{
-								"url":"https://www.facebook.com/snizekjiri"
-							},
-							{
-								"url":"https://twitter.com/snizekjiri"
-							},
-							{
-								"url":"https://www.instagram.com/snizekj"
-							}
-						]
+							"http://jirisnizek.cz/",
+							"https://stredocesky.pirati.cz/lide/jiri-snizek",
+							"https://www.facebook.com/snizekjiri",
+							"https://twitter.com/snizekjiri",
+							"https://www.instagram.com/snizekj"
+						],
+						"photo":"jiri-snizek.jpg"
 					},
 					"links":[
-						{
-							"url":"https://stredocesky.pirati.cz"
-						},
-						{
-							"url":"https://www.facebook.com/PiratiStredniCechy"
-						},
-						{
-							"url":"https://www.twitter.com/pirati_sck"
-						},
+						"https://stredocesky.pirati.cz",
+						"https://www.facebook.com/PiratiStredniCechy",
+						"https://www.twitter.com/pirati_sck",
 						"https://www.instagram.com/stredocestipirati/"
 					],
 					"list":[
@@ -168,7 +156,8 @@
 						"Tomáš Laňka",
 						"Vít Šnajdr"
 					],
-					"program":"https://drive.google.com/file/d/1FPBPzRyBMlsV2IS79X6j8DnT0-W_hTPx/view?usp=drivesdk"
+					"program":"https://drive.google.com/file/d/1FPBPzRyBMlsV2IS79X6j8DnT0-W_hTPx/view?usp=drivesdk",
+					"data": "stk/720"
 				},
 				{
 					"reg":768,
@@ -1100,7 +1089,8 @@
 							{
 								"url":"https://www.facebook.com/karel.jakobec"
 							}
-						]
+						],
+						"photo":"karel-jakobec.jpg"
 					},
 					"links":[
 						{
@@ -1130,7 +1120,8 @@
 							"name":"Olga Haláková",
 							"reg":1
 						}
-					]
+					],
+					"data":"kvk/53-1"
 				},
 				{
 					"reg":47,
