@@ -1025,8 +1025,8 @@
 				""
 			],
 			"links": [
-				"http://www.drejslova.cz/",
-				"https://www.facebook.com/janadosenatu/"
+				{"url":"http://www.drejslova.cz/"},
+				{"url":"https://www.facebook.com/janadosenatu/","icon":"fb"}
 			],
 			"reg":48
 		},
