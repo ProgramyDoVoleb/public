@@ -7,17 +7,16 @@
 				"Monsportová",
 				""
 			],
-			"reg":3,
-			"links":[
-				"https://twitter.com/MMonsportova"
-			],
-			"support":[
-				720
-			],
-			"work":"krajská zastupitelka",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"work":"krajská zastupitelka",
+			"links":[
+				{
+					"url":"https://twitter.com/MMonsportova",
+					"icon":"tw"
+				}
+			],
+			"reg":3
 		},
 		{
 			"name":[
@@ -26,15 +25,10 @@
 				"Nenutil",
 				""
 			],
-			"reg":3,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231",
-      "photo": "miroslav-nenutil.jpg"
+			"reg":3
 		},
 		{
 			"name":[
@@ -43,14 +37,10 @@
 				"Plevný",
 				""
 			],
-			"reg":3,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":3
 		},
 		{
 			"name":[
@@ -59,16 +49,12 @@
 				"Pištora",
 				""
 			],
-			"reg":6,
+			"member":1227,
+			"nominee":1227,
 			"links":[
 
 			],
-			"support":[
-				1227
-			],
-			"member":1227,
-			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":6
 		},
 		{
 			"name":[
@@ -77,19 +63,21 @@
 				"Drápal",
 				""
 			],
-			"reg":6,
-			"links":[
-				"https://www.facebook.com/VladimirDrapalLouny/"
-			],
+			"member":99,
+			"nominee":99,
 			"support":[
 				1,
 				53,
 				721,
 				40
 			],
-			"member":99,
-			"nominee":99,
-			"color":"#fec92f"
+			"links":[
+				{
+					"url":"https://www.facebook.com/VladimirDrapalLouny/",
+					"icon":"fb"
+				}
+			],
+			"reg":6
 		},
 		{
 			"name":[
@@ -98,14 +86,10 @@
 				"Veselý",
 				""
 			],
-			"reg":6,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231"
+			"reg":6
 		},
 		{
 			"name":[
@@ -114,14 +98,10 @@
 				"Beneš",
 				""
 			],
-			"reg":6,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":6
 		},
 		{
 			"name":[
@@ -130,14 +110,10 @@
 				"Trešl",
 				""
 			],
-			"reg":6,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":6
 		},
 		{
 			"name":[
@@ -146,14 +122,10 @@
 				"Pitek",
 				""
 			],
-			"reg":6,
-			"links":[
-
-			],
 			"support":[
 				1187
 			],
-			"color":"#460a0d"
+			"reg":6
 		},
 		{
 			"name":[
@@ -162,40 +134,30 @@
 				"Kůs",
 				""
 			],
-			"reg":9,
+			"member":720,
+			"nominee":720,
+			"work":"městský zastupitel",
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"work":"městský zastupitel",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":9
 		},
 		{
+			"reg":9,
 			"name":[
 				"",
 				"Lumír",
 				"Aschenbrenner",
 				""
 			],
-			"reg":9,
-			"links":[
-
-			],
+			"member":53,
+			"nominee":53,
 			"support":[
-				53,
 				721,
 				1,
 				1119,
 				55
-			],
-			"member":53,
-			"nominee":53,
-			"color":"#194392",
-      "photo": "lumir-aschenbrenner.jpg"
+			]
 		},
 		{
 			"name":[
@@ -204,14 +166,10 @@
 				"Sitta",
 				""
 			],
-			"reg":9,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":9
 		},
 		{
 			"name":[
@@ -220,17 +178,13 @@
 				"Horák",
 				""
 			],
-			"reg":12,
+			"member":720,
+			"nominee":720,
+			"work":"městský zastupiteů",
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"work":"městský zastupiteů",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":12
 		},
 		{
 			"name":[
@@ -239,15 +193,10 @@
 				"Kratochvíle",
 				""
 			],
-			"reg":12,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231",
-      "photo": "karel-kratochvile.jpg"
+			"reg":12
 		},
 		{
 			"name":[
@@ -256,14 +205,10 @@
 				"Zelenková",
 				""
 			],
-			"reg":12,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":12
 		},
 		{
 			"name":[
@@ -272,14 +217,10 @@
 				"Ušatý",
 				""
 			],
-			"reg":12,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":12
 		},
 		{
 			"name":[
@@ -288,23 +229,34 @@
 				"Štěch",
 				""
 			],
-			"reg":15,
-			"links":[
-				"https://cs.m.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch",
-				"https://www.milan-stech.cz/",
-				"https://www.senat.cz/senatori/index.php?par_3=15",
-				"https://www.cssd.cz/nasi-lide/milan-stech/",
-				"https://cs-cz.facebook.com/stechmilan/",
-				"https://www.hlidacstatu.cz/osoba/milan-stech"
-			],
-			"support":[
-				7
-			],
-			"work":"místopředseda Senátu",
 			"member":7,
 			"nominee":7,
-			"color":"#f59231",
-      "photo": "milan-stech.jpg"
+			"work":"místopředseda Senátu",
+			"links":[
+				{
+					"url":"https://cs.m.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch",
+					"icon":"wiki"
+				},
+				{
+					"url":"https://www.milan-stech.cz/",
+					"icon":""
+				},
+				{
+					"url":"https://www.senat.cz/senatori/index.php?par_3=15"
+				},
+				{
+					"url":"https://www.cssd.cz/nasi-lide/milan-stech/"
+				},
+				{
+					"url":"https://cs-cz.facebook.com/stechmilan/",
+					"icon":"fb"
+				},
+				{
+					"url":"https://www.hlidacstatu.cz/osoba/milan-stech",
+					"icon":"hlidac-statu"
+				}
+			],
+			"reg":15
 		},
 		{
 			"name":[
@@ -313,17 +265,13 @@
 				"Mrvka",
 				""
 			],
-			"reg":15,
+			"member":1229,
+			"nominee":1229,
+			"work":"starosta",
 			"links":[
 
 			],
-			"support":[
-				1229
-			],
-			"work":"starosta",
-			"member":1229,
-			"nominee":1229,
-			"color":"#aaa"
+			"reg":15
 		},
 		{
 			"name":[
@@ -332,16 +280,12 @@
 				"Jandák",
 				""
 			],
-			"reg":15,
+			"member":99,
+			"nominee":768,
 			"links":[
 
 			],
-			"support":[
-				768
-			],
-			"member":99,
-			"nominee":768,
-			"color":"#2f2f65"
+			"reg":15
 		},
 		{
 			"name":[
@@ -350,18 +294,13 @@
 				"Burian",
 				""
 			],
-			"reg":18,
+			"member":53,
+			"nominee":53,
+			"work":"senátor",
 			"links":[
 
 			],
-			"support":[
-				53
-			],
-			"work":"senátor",
-			"member":53,
-			"nominee":53,
-			"color":"#194392",
-      "photo": "jiri-burian.jpg"
+			"reg":18
 		},
 		{
 			"name":[
@@ -370,16 +309,12 @@
 				"Luftová",
 				""
 			],
-			"reg":18,
+			"member":720,
+			"nominee":720,
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":18
 		},
 		{
 			"name":[
@@ -388,14 +323,10 @@
 				"Štěpánek",
 				""
 			],
-			"reg":18,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":18
 		},
 		{
 			"name":[
@@ -404,14 +335,10 @@
 				"Havelka",
 				""
 			],
-			"reg":18,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":18
 		},
 		{
 			"name":[
@@ -420,14 +347,10 @@
 				"Holobrada",
 				""
 			],
-			"reg":18,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231"
+			"reg":18
 		},
 		{
 			"name":[
@@ -436,18 +359,16 @@
 				"Žantovský",
 				""
 			],
-			"reg":21,
-			"links":[
-
-			],
+			"member":721,
+			"nominee":721,
 			"support":[
-				721,
 				166,
 				53
 			],
-			"member":721,
-			"nominee":721,
-			"color":"#531a92"
+			"links":[
+
+			],
+			"reg":21
 		},
 		{
 			"name":[
@@ -456,20 +377,17 @@
 				"Láska",
 				""
 			],
-			"reg":21,
-			"links":[
-
-			],
+			"member":99,
+			"nominee":1187,
 			"support":[
-				1187,
 				720,
 				5,
 				1
 			],
-			"member":99,
-			"nominee":1187,
-			"color":"#460a0d",
-      "photo": "vaclav-laska.jpg"
+			"links":[
+
+			],
+			"reg":21
 		},
 		{
 			"name":[
@@ -478,17 +396,15 @@
 				"Ludvík",
 				""
 			],
-			"reg":21,
+			"member":7,
+			"nominee":7,
+			"support":[
+				768
+			],
 			"links":[
 
 			],
-			"support":[
-				7,
-				768
-			],
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":21
 		},
 		{
 			"name":[
@@ -497,14 +413,10 @@
 				"Maitah",
 				""
 			],
-			"reg":21,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":21
 		},
 		{
 			"name":[
@@ -513,16 +425,12 @@
 				"Pavlát",
 				""
 			],
-			"reg":24,
+			"member":7,
+			"nominee":7,
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":24
 		},
 		{
 			"name":[
@@ -531,20 +439,17 @@
 				"Smoljak",
 				""
 			],
-			"reg":24,
-			"links":[
-
-			],
+			"member":99,
+			"nominee":166,
 			"support":[
-				166,
 				721,
 				720
 			],
 			"work":"senátor",
-			"member":99,
-			"nominee":166,
-			"color":"#1ebdb7",
-      "photo": "david-smoljak.jpg"
+			"links":[
+
+			],
+			"reg":24
 		},
 		{
 			"name":[
@@ -553,18 +458,17 @@
 				"Stehlík",
 				""
 			],
-			"reg":24,
-			"links":[
-
-			],
+			"member":99,
+			"nominee":99,
 			"support":[
 				1,
 				53
 			],
 			"work":"historik",
-			"member":99,
-			"nominee":99,
-			"color":"#fec92f"
+			"links":[
+
+			],
+			"reg":24
 		},
 		{
 			"name":[
@@ -573,14 +477,10 @@
 				"Krása",
 				""
 			],
-			"reg":24,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":24
 		},
 		{
 			"name":[
@@ -589,17 +489,13 @@
 				"Veverka",
 				""
 			],
-			"reg":27,
+			"member":720,
+			"nominee":720,
+			"work":"zastupitel",
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"work":"zastupitel",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":27
 		},
 		{
 			"name":[
@@ -608,19 +504,20 @@
 				"Němcová",
 				""
 			],
-			"reg":27,
-			"links":[
-				"https://twitter.com/Nemcova_Mirka"
-			],
+			"member":53,
+			"nominee":53,
 			"support":[
-				53,
 				721,
 				166
 			],
 			"work":"poslankyně",
-			"member":53,
-			"nominee":53,
-			"color":"#194392"
+			"links":[
+				{
+					"url":"https://twitter.com/Nemcova_Mirka",
+					"icon":"tw"
+				}
+			],
+			"reg":27
 		},
 		{
 			"name":[
@@ -629,21 +526,19 @@
 				"Hampl",
 				""
 			],
-			"reg":27,
-			"links":[
-
-			],
+			"member":99,
+			"nominee":99,
+			"work":"senátor",
 			"support":[
 				1,
 				5,
 				1187,
 				"Praha Sobě"
 			],
-			"work":"senátor",
-			"member":99,
-			"nominee":99,
-			"color":"#fec92f",
-      "photo": "vaclav-hampl.jpg"
+			"links":[
+
+			],
+			"reg":27
 		},
 		{
 			"name":[
@@ -652,14 +547,10 @@
 				"Budil",
 				""
 			],
-			"reg":27,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":27
 		},
 		{
 			"name":[
@@ -668,17 +559,16 @@
 				"Šípová",
 				""
 			],
-			"reg":30,
-			"links":[
-				"https://twitter.com/adela_sipova"
-			],
-			"support":[
-				720
-			],
-			"work":"v advokátní kanceláři",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"work":"v advokátní kanceláři",
+			"links":[
+				{
+					"url":"https://twitter.com/adela_sipova",
+					"icon":"tw"
+				}
+			],
+			"reg":30
 		},
 		{
 			"name":[
@@ -687,20 +577,20 @@
 				"Dienstbier",
 				""
 			],
-			"reg":30,
-			"links":[
-				"https://twitter.com/jiridienstbier"
-			],
+			"member":7,
+			"nominee":7,
 			"support":[
-				7,
 				5,
 				"Budoucnost"
 			],
 			"work":"senátor",
-			"member":7,
-			"nominee":7,
-			"color":"#f59231",
-      "photo": "jiri-dienstbier.jpg"
+			"links":[
+				{
+					"url":"https://twitter.com/jiridienstbier",
+					"icon":"tw"
+				}
+			],
+			"reg":30
 		},
 		{
 			"name":[
@@ -709,14 +599,10 @@
 				"Fröhlichová",
 				""
 			],
-			"reg":30,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":30
 		},
 		{
 			"name":[
@@ -725,14 +611,10 @@
 				"Landa",
 				""
 			],
-			"reg":30,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":30
 		},
 		{
 			"name":[
@@ -741,14 +623,10 @@
 				"Vostrá",
 				""
 			],
-			"reg":30,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":30
 		},
 		{
 			"name":[
@@ -757,19 +635,20 @@
 				"Linhart",
 				""
 			],
-			"reg":33,
-			"links":[
-				"https://www.facebook.com/linhart.krasnalipa",
-				"https://twitter.com/zbynlinhart"
-			],
-			"support":[
-				166
-			],
-			"work":"senátor",
 			"member":99,
 			"nominee":166,
-			"color":"#1ebdb7",
-      "photo": "zbynek-linhart.jpg"
+			"work":"senátor",
+			"links":[
+				{
+					"url":"https://www.facebook.com/linhart.krasnalipa",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/zbynlinhart",
+					"icon":"tw"
+				}
+			],
+			"reg":33
 		},
 		{
 			"name":[
@@ -778,16 +657,12 @@
 				"Říha",
 				""
 			],
-			"reg":33,
+			"member":1227,
+			"nominee":1227,
 			"links":[
 
 			],
-			"support":[
-				1227
-			],
-			"member":1227,
-			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":33
 		},
 		{
 			"name":[
@@ -796,17 +671,13 @@
 				"Vomáčka",
 				"MBA"
 			],
-			"reg":36,
+			"member":53,
+			"nominee":53,
+			"work":"starosta Kravař",
 			"links":[
 
 			],
-			"support":[
-				53
-			],
-			"work":"starosta Kravař",
-			"member":53,
-			"nominee":53,
-			"color":"#194392"
+			"reg":36
 		},
 		{
 			"name":[
@@ -815,17 +686,13 @@
 				"Tita",
 				""
 			],
-			"reg":36,
+			"member":47,
+			"nominee":47,
+			"work":"krajský zastupitel",
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"work":"krajský zastupitel",
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":36
 		},
 		{
 			"name":[
@@ -834,17 +701,16 @@
 				"Jeník",
 				""
 			],
-			"reg":36,
-			"links":[
-				"https://twitter.com/PetrJenik"
-			],
-			"support":[
-				720
-			],
-			"work":"zastupitel a webový developer",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"work":"zastupitel a webový developer",
+			"links":[
+				{
+					"url":"https://twitter.com/PetrJenik",
+					"icon":"tw"
+				}
+			],
+			"reg":36
 		},
 		{
 			"name":[
@@ -853,17 +719,16 @@
 				"Křupala",
 				""
 			],
-			"reg":36,
-			"links":[
-				"https://www.facebook.com/jaroslav.krupala"
-			],
-			"support":[
-				7
-			],
-			"work":"starosta",
 			"member":7,
 			"nominee":7,
-			"color":"#f59231"
+			"work":"starosta",
+			"links":[
+				{
+					"url":"https://www.facebook.com/jaroslav.krupala",
+					"icon":"fb"
+				}
+			],
+			"reg":36
 		},
 		{
 			"name":[
@@ -872,16 +737,11 @@
 				"Vosecký",
 				""
 			],
-			"reg":36,
-			"links":[
-
-			],
 			"support":[
 				166,
 				703
 			],
-			"color":"#1ebdb7",
-      "photo": "jiri-vosecky.jpg"
+			"reg":36
 		},
 		{
 			"name":[
@@ -890,14 +750,10 @@
 				"Štěrba",
 				""
 			],
-			"reg":36,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":36
 		},
 		{
 			"name":[
@@ -906,16 +762,9 @@
 				"Sovová",
 				""
 			],
-			"reg":39,
-			"links":[
-
-			],
-			"support":[
-				53
-			],
 			"member":99,
 			"nominee":53,
-			"color":"#194392"
+			"reg":39
 		},
 		{
 			"name":[
@@ -924,15 +773,10 @@
 				"Sobotka",
 				""
 			],
-			"reg":39,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7",
-      "photo": "jan-sobotka.jpg"
+			"reg":39
 		},
 		{
 			"name":[
@@ -941,14 +785,10 @@
 				"Jarolím",
 				""
 			],
-			"reg":39,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
+			"reg":39
 		},
 		{
 			"name":[
@@ -957,14 +797,10 @@
 				"Pakandlová",
 				""
 			],
-			"reg":39,
-			"links":[
-
-			],
 			"support":[
 				1114
 			],
-			"color":"#874a0f"
+			"reg":39
 		},
 		{
 			"name":[
@@ -973,17 +809,13 @@
 				"Koky",
 				""
 			],
-			"reg":42,
+			"member":720,
+			"nominee":720,
+			"work":"odborný referent pro oblast národnostních menšin",
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"work":"odborný referent pro oblast národnostních menšin",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":42
 		},
 		{
 			"name":[
@@ -992,14 +824,10 @@
 				"Škorpík",
 				""
 			],
-			"reg":42,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":42
 		},
 		{
 			"name":[
@@ -1008,14 +836,10 @@
 				"Klinecký",
 				""
 			],
-			"reg":42,
-			"links":[
-
-			],
 			"support":[
 				721
 			],
-			"color":"#531a92"
+			"reg":42
 		},
 		{
 			"name":[
@@ -1024,14 +848,10 @@
 				"Kárník",
 				""
 			],
-			"reg":42,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":42
 		},
 		{
 			"name":[
@@ -1040,30 +860,10 @@
 				"Kohoutová",
 				""
 			],
-			"reg":42,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
-		},
-		{
-			"name":[
-				"",
-				"Petr",
-				"Žantovský",
-				""
-			],
-			"reg":42,
-			"links":[
-
-			],
-			"support":[
-				1114
-			],
-			"color":"#874a0f"
+			"reg":42
 		},
 		{
 			"name":[
@@ -1072,17 +872,16 @@
 				"Vacek",
 				""
 			],
-			"reg":45,
-			"links":[
-				"https://twitter.com/PavelVacek_HK"
-			],
-			"support":[
-				720
-			],
-			"work":"městský zastupitel",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"work":"městský zastupitel",
+			"links":[
+				{
+					"url":"https://twitter.com/PavelVacek_HK",
+					"icon":"tw"
+				}
+			],
+			"reg":45
 		},
 		{
 			"name":[
@@ -1091,38 +890,36 @@
 				"Holásek",
 				"LL.M."
 			],
-			"reg":45,
+			"member":99,
+			"nominee":99,
+			"work":"právník a zastupitel",
 			"links":[
-				"https://www.facebook.com/JHolasek/",
-				"https://twitter.com/honzaholasek"
+				{
+					"url":"https://www.facebook.com/JHolasek/",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/honzaholasek",
+					"icon":"tw"
+				}
 			],
+			"reg":45,
 			"support":[
 				1049,
 				1187,
 				721,
 				795
-			],
-			"work":"právník a zastupitel",
-			"member":99,
-			"nominee":99,
-			"color":"#4f689a"
+			]
 		},
 		{
+			"reg":45,
 			"name":[
 				"",
 				"Jaroslav",
 				"Malý",
 				""
 			],
-			"reg":45,
-			"links":[
-
-			],
-			"support":[
-
-			],
-			"member":99,
-      "photo": "jaroslav-maly.jpg"
+			"member":99
 		},
 		{
 			"name":[
@@ -1131,14 +928,10 @@
 				"Čáp",
 				""
 			],
-			"reg":45,
-			"links":[
-
-			],
 			"support":[
 				1
 			],
-			"color":"#fec92f"
+			"reg":45
 		},
 		{
 			"name":[
@@ -1147,14 +940,10 @@
 				"Mašek",
 				""
 			],
-			"reg":45,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
+			"reg":45
 		},
 		{
 			"name":[
@@ -1163,14 +952,10 @@
 				"Štěpán",
 				""
 			],
-			"reg":45,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":45
 		},
 		{
 			"name":[
@@ -1179,14 +964,10 @@
 				"Brábník",
 				""
 			],
-			"reg":45,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
+			"reg":45
 		},
 		{
 			"name":[
@@ -1195,14 +976,10 @@
 				"Antl",
 				""
 			],
-			"reg":48,
-			"links":[
-
-			],
 			"support":[
 
 			],
-      "photo": "miroslav-antl.jpg"
+			"reg":48
 		},
 		{
 			"name":[
@@ -1211,14 +988,10 @@
 				"Grulich",
 				""
 			],
-			"reg":48,
-			"links":[
-
-			],
 			"support":[
 				721
 			],
-			"color":"#531a92"
+			"reg":48
 		},
 		{
 			"name":[
@@ -1227,14 +1000,10 @@
 				"Lukášek",
 				""
 			],
-			"reg":48,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":48
 		},
 		{
 			"name":[
@@ -1243,30 +1012,10 @@
 				"Matoušek",
 				""
 			],
-			"reg":48,
-			"links":[
-
-			],
 			"support":[
 				1227
 			],
-			"color":"#2b3acc"
-		},
-		{
-			"name":[
-				"",
-				"Jana",
-				"Drejslová",
-				""
-			],
-			"reg":48,
-			"links":[
-				"http://www.drejslova.cz/",
-				"https://www.facebook.com/janadosenatu/"
-			],
-			"support":[
-
-			]
+			"reg":48
 		},
 		{
 			"name":[
@@ -1275,19 +1024,20 @@
 				"Šmarda",
 				""
 			],
-			"reg":51,
-			"links":[
-				"https://twitter.com/MichalSmarda"
-			],
+			"member":7,
+			"nominee":7,
 			"support":[
-				7,
 				5,
 				"Budoucnost"
 			],
 			"work":"starosta Nového Města na Moravě",
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"links":[
+				{
+					"url":"https://twitter.com/MichalSmarda",
+					"icon":"tw"
+				}
+			],
+			"reg":51
 		},
 		{
 			"name":[
@@ -1296,14 +1046,10 @@
 				"Klement",
 				""
 			],
-			"reg":51,
-			"links":[
-
-			],
 			"support":[
 				1
 			],
-			"color":"#fec92f"
+			"reg":51
 		},
 		{
 			"name":[
@@ -1312,16 +1058,12 @@
 				"Kováčik",
 				""
 			],
-			"reg":54,
+			"member":47,
+			"nominee":47,
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":54
 		},
 		{
 			"name":[
@@ -1330,21 +1072,19 @@
 				"Třetina",
 				""
 			],
-			"reg":54,
-			"links":[
-
-			],
+			"member":721,
+			"nominee":721,
 			"support":[
-				721,
 				53,
 				166,
 				720,
 				1,
 				1220
 			],
-			"member":721,
-			"nominee":721,
-			"color":"#531a92"
+			"links":[
+
+			],
+			"reg":54
 		},
 		{
 			"name":[
@@ -1353,16 +1093,9 @@
 				"Železný",
 				""
 			],
-			"reg":54,
-			"links":[
-
-			],
-			"support":[
-				1227
-			],
 			"member":1227,
 			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":54
 		},
 		{
 			"name":[
@@ -1371,14 +1104,10 @@
 				"Grois",
 				""
 			],
-			"reg":54,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231"
+			"reg":54
 		},
 		{
 			"name":[
@@ -1387,14 +1116,10 @@
 				"Šalomonová",
 				""
 			],
-			"reg":54,
-			"links":[
-
-			],
 			"support":[
 				1114
 			],
-			"color":"#874a0f"
+			"reg":54
 		},
 		{
 			"name":[
@@ -1403,14 +1128,10 @@
 				"Pavlík",
 				""
 			],
-			"reg":54,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
+			"reg":54
 		},
 		{
 			"name":[
@@ -1419,18 +1140,16 @@
 				"Klaška",
 				""
 			],
-			"reg":57,
-			"links":[
-
-			],
+			"member":1,
+			"nominee":1,
 			"support":[
-				1,
 				53,
 				721
 			],
-			"member":1,
-			"nominee":1,
-			"color":"#fec92f"
+			"links":[
+
+			],
+			"reg":57
 		},
 		{
 			"name":[
@@ -1439,15 +1158,10 @@
 				"Bárek",
 				""
 			],
-			"reg":57,
-			"links":[
-
-			],
 			"support":[
 				7
 			],
-			"color":"#f59231",
-      "photo": "ivo-barek.jpg"
+			"reg":57
 		},
 		{
 			"name":[
@@ -1456,14 +1170,10 @@
 				"Zitterbart",
 				""
 			],
-			"reg":57,
-			"links":[
-
-			],
 			"support":[
 				166
 			],
-			"color":"#1ebdb7"
+			"reg":57
 		},
 		{
 			"name":[
@@ -1472,14 +1182,10 @@
 				"Wenzl",
 				""
 			],
-			"reg":57,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
+			"reg":57
 		},
 		{
 			"name":[
@@ -1488,14 +1194,11 @@
 				"Petr",
 				""
 			],
-			"reg":60,
+			"nominee":47,
 			"links":[
 
 			],
-			"support":[
-
-			],
-			"nominee":47
+			"reg":60
 		},
 		{
 			"name":[
@@ -1504,17 +1207,16 @@
 				"Kadeřávek",
 				""
 			],
-			"reg":60,
-			"links":[
-				"https://twitter.com/Jiri_Kaderavek"
-			],
-			"support":[
-				720
-			],
-			"work":"programátor a manažer",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"work":"programátor a manažer",
+			"links":[
+				{
+					"url":"https://twitter.com/Jiri_Kaderavek",
+					"icon":"tw"
+				}
+			],
+			"reg":60
 		},
 		{
 			"name":[
@@ -1523,21 +1225,35 @@
 				"Berta",
 				""
 			],
-			"reg":60,
-			"links":[
-				"https://lukasberta.cz/o-me.htm",
-				"https://www.facebook.com/vlastovka.blog",
-				"https://twitter.com/lukasberta79",
-				"https://www.instagram.com/lukasberta79/",
-				"https://www.youtube.com/playlist?list=PLEKJ-6GyOMhIaLYNwMGCLCwIuyCQGvcwH"
-			],
+			"member":99,
+			"nominee":99,
 			"support":[
 				1184
 			],
 			"work":"autor, blogger a webový filozof na volné noze",
-			"member":99,
-			"nominee":99,
-			"color":"#16cf74"
+			"links":[
+				{
+					"url":"https://lukasberta.cz/o-me.htm"
+				},
+				{
+					"url":"https://www.facebook.com/vlastovka.blog",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/lukasberta79",
+					"icon":"tw"
+				},
+				{
+					"url":"https://www.instagram.com/lukasberta79/",
+					"icon":"tw"
+				},
+				{
+					"url":"https://www.youtube.com/playlist?list=PLEKJ-6GyOMhIaLYNwMGCLCwIuyCQGvcwH",
+					"icon":"yt"
+				}
+			],
+			"reg":60,
+			"program":"https://lukasberta.cz/program.htm"
 		},
 		{
 			"name":[
@@ -1546,15 +1262,14 @@
 				"Kraus",
 				""
 			],
-			"reg":60,
-			"links":[
-
-			],
+			"nominee":53,
 			"support":[
 				721
 			],
-			"nominee":53,
-			"color":"#531a92"
+			"links":[
+
+			],
+			"reg":60
 		},
 		{
 			"name":[
@@ -1563,14 +1278,10 @@
 				"Tomáš",
 				""
 			],
-			"reg":60,
-			"links":[
-
-			],
 			"support":[
 				1
 			],
-			"color":"#fec92f"
+			"reg":60
 		},
 		{
 			"name":[
@@ -1579,30 +1290,10 @@
 				"Rais",
 				""
 			],
-			"reg":60,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
-		},
-		{
-			"name":[
-				"",
-				"Tomáš",
-				"Anderle",
-				""
-			],
-			"reg":60,
-			"links":[
-
-			],
-			"support":[
-				1114
-			],
-			"color":"#874a0f"
+			"reg":60
 		},
 		{
 			"name":[
@@ -1611,16 +1302,12 @@
 				"Lajtoch",
 				""
 			],
-			"reg":63,
+			"nominee":7,
+			"member":7,
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":63
 		},
 		{
 			"name":[
@@ -1629,21 +1316,21 @@
 				"Seitlová",
 				""
 			],
-			"reg":63,
-			"links":[
-				"https://facebook.com/jitka.seitlova"
-			],
+			"nominee":1,
+			"member":1,
 			"support":[
-				1,
 				5,
 				721,
 				166
 			],
 			"work":"senátorka",
-			"member":1,
-			"nominee":1,
-			"color":"#fec92f",
-      "photo": "jitka-seitlova.jpg"
+			"links":[
+				{
+					"url":"https://facebook.com/jitka.seitlova",
+					"icon":"fb"
+				}
+			],
+			"reg":63
 		},
 		{
 			"name":[
@@ -1652,17 +1339,16 @@
 				"Ondrůj",
 				""
 			],
-			"reg":63,
-			"links":[
-				"https://twitter.com/OndrujPavel"
-			],
-			"support":[
-				720
-			],
-			"work":"manažer kultury Městského domu v Přerově",
-			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"member":720,
+			"work":"manažer kultury Městského domu v Přerově",
+			"links":[
+				{
+					"url":"https://twitter.com/OndrujPavel",
+					"icon":"tw"
+				}
+			],
+			"reg":63
 		},
 		{
 			"name":[
@@ -1671,16 +1357,12 @@
 				"Raindl",
 				""
 			],
-			"reg":63,
+			"nominee":47,
+			"member":47,
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":63
 		},
 		{
 			"name":[
@@ -1689,17 +1371,13 @@
 				"Kocourek",
 				""
 			],
-			"reg":63,
+			"nominee":53,
+			"member":53,
+			"work":"zastupitel",
 			"links":[
 
 			],
-			"support":[
-				53
-			],
-			"work":"zastupitel",
-			"member":53,
-			"nominee":53,
-			"color":"#194392"
+			"reg":63
 		},
 		{
 			"name":[
@@ -1708,17 +1386,13 @@
 				"Vrána",
 				""
 			],
-			"reg":63,
+			"nominee":768,
+			"member":768,
+			"work":"poslanec",
 			"links":[
 
 			],
-			"support":[
-				768
-			],
-			"work":"poslanec",
-			"member":768,
-			"nominee":768,
-			"color":"#2f2f65"
+			"reg":63
 		},
 		{
 			"name":[
@@ -1727,16 +1401,12 @@
 				"Vomáčka",
 				""
 			],
-			"reg":66,
+			"nominee":7,
+			"member":7,
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":66
 		},
 		{
 			"name":[
@@ -1745,17 +1415,13 @@
 				"Ošťádal",
 				""
 			],
-			"reg":66,
+			"nominee":166,
+			"member":166,
+			"work":"starosta",
 			"links":[
 
 			],
-			"support":[
-				166
-			],
-			"work":"starosta",
-			"member":166,
-			"nominee":166,
-			"color":"#1ebdb7"
+			"reg":66
 		},
 		{
 			"name":[
@@ -1764,17 +1430,16 @@
 				"John",
 				""
 			],
-			"reg":66,
-			"links":[
-				"https://twitter.com/johnyfrantisek"
-			],
-			"support":[
-				1
-			],
-			"work":"starosta",
-			"member":1,
 			"nominee":1,
-			"color":"#fec92f"
+			"member":1,
+			"work":"starosta",
+			"links":[
+				{
+					"url":"https://twitter.com/johnyfrantisek",
+					"icon":"tw"
+				}
+			],
+			"reg":66
 		},
 		{
 			"name":[
@@ -1783,17 +1448,16 @@
 				"Žák",
 				""
 			],
-			"reg":66,
-			"links":[
-				"https://twitter.com/PiratZdenekZak"
-			],
-			"support":[
-				720
-			],
-			"work":"bankovní specialista",
-			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"member":720,
+			"work":"bankovní specialista",
+			"links":[
+				{
+					"url":"https://twitter.com/PiratZdenekZak",
+					"icon":"tw"
+				}
+			],
+			"reg":66
 		},
 		{
 			"name":[
@@ -1802,14 +1466,10 @@
 				"Zahradníček",
 				""
 			],
-			"reg":66,
-			"links":[
-
-			],
 			"support":[
 				768
 			],
-			"color":"#2f2f65"
+			"reg":66
 		},
 		{
 			"name":[
@@ -1818,18 +1478,13 @@
 				"Carbol",
 				""
 			],
-			"reg":69,
+			"member":1,
+			"nominee":1,
+			"work":"senátor",
 			"links":[
 
 			],
-			"support":[
-				1
-			],
-			"work":"senátor",
-			"member":1,
-			"nominee":1,
-			"color":"#fec92f",
-      "photo": "jiri-carbol.jpg"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1838,17 +1493,13 @@
 				"Deutscher",
 				""
 			],
-			"reg":69,
+			"member":7,
+			"nominee":7,
+			"work":"náměstek primátora",
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"work":"náměstek primátora",
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1857,17 +1508,13 @@
 				"Pešatová",
 				""
 			],
-			"reg":69,
+			"member":166,
+			"nominee":166,
+			"work":"starostka",
 			"links":[
 
 			],
-			"support":[
-				166
-			],
-			"work":"starostka",
-			"member":166,
-			"nominee":166,
-			"color":"#1ebdb7"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1876,17 +1523,13 @@
 				"Mamula",
 				""
 			],
-			"reg":69,
+			"member":768,
+			"nominee":768,
+			"work":"vedoucí provozu",
 			"links":[
 
 			],
-			"support":[
-				768
-			],
-			"work":"vedoucí provozu",
-			"member":768,
-			"nominee":768,
-			"color":"#2f2f65"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1895,17 +1538,13 @@
 				"Pawlas",
 				""
 			],
-			"reg":69,
+			"member":47,
+			"nominee":47,
+			"work":"poslanec",
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"work":"poslanec",
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1914,17 +1553,13 @@
 				"Matýs",
 				""
 			],
-			"reg":69,
+			"member":99,
+			"nominee":1227,
+			"work":"dětský a dorostový psychiatr",
 			"links":[
 
 			],
-			"support":[
-				1227
-			],
-			"work":"dětský a dorostový psychiatr",
-			"member":99,
-			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1933,14 +1568,10 @@
 				"Bača",
 				""
 			],
-			"reg":69,
-			"links":[
-
-			],
 			"support":[
 				721
 			],
-			"color":"#531a92"
+			"reg":69
 		},
 		{
 			"name":[
@@ -1949,17 +1580,13 @@
 				"Tomášek",
 				""
 			],
-			"reg":72,
+			"member":720,
+			"nominee":720,
+			"work":"místostarosta",
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"work":"místostarosta",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":72
 		},
 		{
 			"name":[
@@ -1968,17 +1595,13 @@
 				"Jiřiček",
 				""
 			],
-			"reg":72,
+			"member":768,
+			"nominee":768,
+			"work":"ředitel Psychiatrické nemocnice",
 			"links":[
 
 			],
-			"support":[
-				768
-			],
-			"work":"ředitel Psychiatrické nemocnice",
-			"member":768,
-			"nominee":768,
-			"color":"#2f2f65"
+			"reg":72
 		},
 		{
 			"name":[
@@ -1987,17 +1610,13 @@
 				"Gajdáček",
 				""
 			],
-			"reg":72,
+			"member":47,
+			"nominee":47,
+			"work":"zastupitel",
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"work":"zastupitel",
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":72
 		},
 		{
 			"name":[
@@ -2006,17 +1625,13 @@
 				"Gromnica",
 				""
 			],
-			"reg":72,
+			"member":166,
+			"nominee":166,
+			"work":"vedoucí lékař",
 			"links":[
 
 			],
-			"support":[
-				166
-			],
-			"work":"vedoucí lékař",
-			"member":166,
-			"nominee":166,
-			"color":"#1ebdb7"
+			"reg":72
 		},
 		{
 			"name":[
@@ -2025,16 +1640,13 @@
 				"Smetana",
 				""
 			],
-			"reg":72,
+			"member":99,
+			"nominee":99,
+			"work":"starosta",
 			"links":[
 
 			],
-			"support":[
-
-			],
-			"work":"starosta",
-			"member":99,
-			"nominee":99
+			"reg":72
 		},
 		{
 			"name":[
@@ -2043,17 +1655,13 @@
 				"Wlochová",
 				""
 			],
-			"reg":72,
+			"member":99,
+			"nominee":1227,
+			"work":"vedoucí katedry jazyků",
 			"links":[
 
 			],
-			"support":[
-				1227
-			],
-			"work":"vedoucí katedry jazyků",
-			"member":99,
-			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":72
 		},
 		{
 			"name":[
@@ -2062,14 +1670,10 @@
 				"Koliba",
 				""
 			],
-			"reg":72,
-			"links":[
-
-			],
 			"support":[
 
 			],
-      "photo": "peter-koliba.jpg"
+			"reg":72
 		},
 		{
 			"name":[
@@ -2078,16 +1682,12 @@
 				"Kravčík",
 				""
 			],
-			"reg":75,
+			"member":720,
+			"nominee":720,
 			"links":[
 
 			],
-			"support":[
-				720
-			],
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"reg":75
 		},
 		{
 			"name":[
@@ -2096,18 +1696,13 @@
 				"Sušil",
 				""
 			],
-			"reg":75,
+			"member":7,
+			"nominee":7,
+			"work":"senátor",
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"work":"senátor",
-			"member":7,
-			"nominee":7,
-			"color":"#f59231",
-      "photo": "radek-susil.jpg"
+			"reg":75
 		},
 		{
 			"name":[
@@ -2116,17 +1711,13 @@
 				"Feber",
 				""
 			],
-			"reg":75,
+			"member":768,
+			"nominee":768,
+			"work":"starosta",
 			"links":[
 
 			],
-			"support":[
-				768
-			],
-			"work":"starosta",
-			"member":768,
-			"nominee":768,
-			"color":"#2f2f65"
+			"reg":75
 		},
 		{
 			"name":[
@@ -2135,17 +1726,13 @@
 				"Černínová",
 				""
 			],
-			"reg":75,
+			"member":47,
+			"nominee":47,
+			"work":"vedoucí karvinské pohřební služby",
 			"links":[
 
 			],
-			"support":[
-				47
-			],
-			"work":"vedoucí karvinské pohřební služby",
-			"member":47,
-			"nominee":47,
-			"color":"#eb343f"
+			"reg":75
 		},
 		{
 			"name":[
@@ -2154,16 +1741,12 @@
 				"Placzek",
 				""
 			],
-			"reg":75,
+			"member":99,
+			"nominee":1227,
 			"links":[
 
 			],
-			"support":[
-				1227
-			],
-			"member":99,
-			"nominee":1227,
-			"color":"#2b3acc"
+			"reg":75
 		},
 		{
 			"name":[
@@ -2172,19 +1755,22 @@
 				"Michálek",
 				""
 			],
-			"reg":78,
-			"links":[
-				"http://michalekdosenatu.cz/",
-				"https://petrmichalek.blog/",
-				"https://www.facebook.com/Michalek.zlin/"
-			],
-			"support":[
-				166
-			],
-			"work":"ředitel divadla",
 			"member":99,
 			"nominee":166,
-			"color":"#1ebdb7"
+			"work":"ředitel divadla",
+			"links":[
+				{
+					"url":"http://michalekdosenatu.cz/"
+				},
+				{
+					"url":"https://petrmichalek.blog/"
+				},
+				{
+					"url":"https://www.facebook.com/Michalek.zlin/",
+					"icon":"fb"
+				}
+			],
+			"reg":78
 		},
 		{
 			"name":[
@@ -2193,17 +1779,13 @@
 				"Blahová",
 				""
 			],
-			"reg":78,
+			"member":1,
+			"nominee":1,
 			"links":[
 
 			],
-			"support":[
-				1
-			],
 			"work":"radní Zlínského kraje",
-			"member":1,
-			"nominee":1,
-			"color":"#fec92f"
+			"reg":78
 		},
 		{
 			"name":[
@@ -2212,14 +1794,10 @@
 				"Doleček",
 				""
 			],
-			"reg":78,
-			"links":[
-
-			],
 			"support":[
 				47
 			],
-			"color":"#eb343f"
+			"reg":78
 		},
 		{
 			"name":[
@@ -2228,15 +1806,10 @@
 				"Goláň",
 				""
 			],
-			"reg":78,
-			"links":[
-
-			],
 			"support":[
 				1187
 			],
-			"color":"#460a0d",
-      "photo": "tomas-golan.jpg"
+			"reg":78
 		},
 		{
 			"name":[
@@ -2245,17 +1818,13 @@
 				"Sládek",
 				""
 			],
-			"reg":81,
+			"member":99,
+			"nominee":53,
+			"work":"ředitel nemocnice",
 			"links":[
 
 			],
-			"support":[
-				53
-			],
-			"work":"ředitel nemocnice",
-			"member":99,
-			"nominee":53,
-			"color":"#194392"
+			"reg":81
 		},
 		{
 			"name":[
@@ -2264,19 +1833,17 @@
 				"Bazala",
 				""
 			],
-			"reg":81,
-			"links":[
-
-			],
+			"member":1,
+			"nominee":1,
+			"work":"starosta",
 			"support":[
-				1,
 				721,
 				166
 			],
-			"work":"starosta",
-			"member":1,
-			"nominee":1,
-			"color":"#fec92f"
+			"links":[
+
+			],
+			"reg":81
 		},
 		{
 			"name":[
@@ -2285,15 +1852,10 @@
 				"Valenta",
 				""
 			],
-			"reg":81,
-			"links":[
-
-			],
 			"support":[
 				716
 			],
-			"color":"#e58b22",
-      "photo": "ivo-valenta.jpg"
+			"reg":81
 		},
 		{
 			"name":[
@@ -2302,16 +1864,12 @@
 				"Seďa",
 				""
 			],
-			"reg":81,
+			"member":7,
+			"nominee":7,
 			"links":[
 
 			],
-			"support":[
-				7
-			],
-			"member":7,
-			"nominee":7,
-			"color":"#f59231"
+			"reg":81
 		}
 	],
 	"current":[
