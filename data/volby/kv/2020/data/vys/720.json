@@ -3,27 +3,776 @@
     {
       "name": "Hana Hajnová",
       "reg": 720,
-      "about": "Projektová manažerka, Pirátka, mediální experimentátorka, dobrovolnice, máma dvou dětí, telčská zastupitelka."
+      "about": "Projektová manažerka, Pirátka, mediální experimentátorka, dobrovolnice, máma dvou dětí, telčská zastupitelka. Od roku 2013 bydlím opět trvale v Telči, kde jsem se kromě mateřských povinností začala věnovat i místní politice. V roce 2014 jsem kandidovala poprvé za koaliční sdružení Společně pro Telč - Piráti a Zelení. Sdružení získalo nakonec 2 místa v Zastupitelstvu. I když já osobně jsem se do zastupitelstva nedostala, rozhodla jsem se v listopadu 2014 stát členkou Pirátů a od té doby se více aktivně zapojovat do pirátského dění na Vysočině. V roce 2018 jsem kandidovala podruhé do telčského zastupitelstva za koalici Společně pro Telč - Piráti a Zelení a tentokrát se mi společně se 4 dalšími kolegy podařilo zastupitelský mandát získat. V povolebních vyjednáváních jsem usilovala o místo v radě města, ale bohužel jsme s kolegy skončili nakonec v opozici. I tak se ale snažíme prosazovat body z volebního programu, zejména větší transparentnost radnice a zlepšení komunikace s občany. V srpnu 2018 jsem byla zvolena vedoucí Mediálního odboru KS Vysočina, pravidelně organizuji úklidové akce v rámci Ukliďme Česko v Telči a pádluji i kapitánuji na dračích lodích v Telči. Mým velkým koníčkem je kroket (už několik let jsem předsedkyní telčského kroketového klubu se kterým se nám podařilo v Telči vybudovat jediné profesionální kroketové kurty v ČR), tancování, snowboarding a knihy.",
+      "quote": "Nejdůležitějšími hodnotami jsou pro mě svoboda a láska a oblíbeným mottem „Život je radostná spoluúčast na zázraku bytí.“ (Václav Havel)"
     },
     {
       "name": "Jan Břížďala",
       "reg": 720,
-      "links": []
+      "links": [],
+      "about": "Absolvoval Přírodovědeckou fakultu Univerzity Karlovy, kde vykonal státní rigorózní zkoušku a získal tak titul RNDr. Během svého studia spolupracoval s Ústavem chemických procesů AV ČR v.v.i. a byl členem Akademického senátu fakulty a její studijní komise. V současnosti působí jako středoškolský učitel matematiky a chemie na Gymnáziu v Třebíči a na Agro škole (Soukromá střední škola zemědělská s.r.o.), kde pracuje také jako statutární zástupce ředitelky. Mezi jeho záliby patří rekreační sport (cyklistika, běh, tenis, badminton…) či záchranářství (zajišťování zdravotnického dozoru, školení první pomoci). Po komunálních volbách 2018 ve městě Třebíč byl jmenován místopředsedou komise pro rozvoj města a členem majetkové komise."
     },
     {
       "name": "Blanka Lednická",
       "reg": 720,
-      "links": []
+      "links": [],
+      "about": "Po studiu na Dvořákově gymnáziu v Kralupech nad Vltavou se tři roky věnovala studiu práva, poté mezinárodním vztahům a bezpečnostním studiím a konečně také historii, kterou se chtěla zabývat už od základní školy. Od roku 2009 se věnuje zpracování rodokmenů (těch lidských :)), přednáškám a psaní, předtím pracovala v IBM Brno jako IT specialista a manažer. Aktivně se věnuje svému okolí, a to jak v obci, kde žije, tak i v rámci dalších spolků (KC Krupská škola, Spolek Epigram a další). Když se vyskytne volný čas, ráda cestuje (především pěšky po české krajině), věnuje se vlastní rodinné historii a historii obecně a také velké zahradě, kterou se snaží vést v duchu permakultury."
     },
     {
       "name": "Jiří Wiche",
       "reg": 720,
-      "links": []
+      "links": [],
+      "about": "Narodil jsem a žiji v Havlíčkově Brodě, kde jsem chodil i na Střední ekonomickou školu. V Praze jsem studoval Vysokou školu ekonomickou. Po VŠ jsem pracoval v ekonomickém oddělení Agropodniku, 13 měsíců jsem byl v Raiffeisen zbožovém svazu Rakouska, pak v obchodním oddělení automotive podniku a následovalo 14-ti leté působení v pobočkách zahraničních bank. Poté jsem přešel na ekonomické oddělení organizace ve zdravotnictví. Posledních 5 let pracuji na Krajském úřadu - nejprve oddělení zahraničních vztahů a poslední rok jsem na odboru regionálního rozvoje - přeshraniční evropské fondy. V posledních parlamentních i evropských volbách jsem volil Piráty, protože jejich program odpovídá mým představám. Nikdy jsem nebyl členem žádné politické strany, ani jsem za ně nekandidoval. Ale kandidoval jsem v komunálních volbách v H. Brodě Za Piráty jsem ve Finančním výboru města a od letošního roku i v Kulturním a mediálním výboru. Rád jsem se zapojil i do krajského odborného týmu a přispěji svými znalostmi a zkušenostmi z ekonomiky i při nadcházejících krajských volbách."
     },
     {
       "name": "Pavel Knežik",
       "reg": 720,
-      "links": []
+      "links": [],
+      "about": "Po ukončení studií jsem nastoupil do Nemocnice Pelhřimov na oddělení IT, kde jsem pracoval jako Systémový administrátor do roku 2006. Následně jsem pracoval pro firmu Stampi spol. s.r.o v Internetovém oddělení na pozici Správa, výstavba sítě, podpora uživatelům. V roce 2017 jsem přijal nabídku pracovat jako Systémový administrátor a správce sítě ve firmě Spojené kartáčovny a.s.",
+      "quote": "Od útlého věku jsem vyrůstal na Vysočině, konkrétně město Pelhřimov (Starý Pelhřimov) kde žiji do teď."
     }
-  ]
+  ],
+  "program": {
+    "motto": "Kraj středem pozornosti",
+    "parts": [
+      {
+        "headline": "Vysočina živá",
+        "parts": [
+          {
+            "copy": "Životní prostředí sdílíme všichni a na jeho stavu závisí i naše svoboda. Znečištěné ovzduší omezí naši svobodu vycházet. Důsledkem znečištěné půdy bude omezení pitné vody. Vyrazíme ven a budeme hledat místa, příležitosti a opatření, která pomohou zlepšit nakládání s vodou v naší krajině i ve městech. Zdravá příroda je důležitější než peníze. Budeme účinně předcházet podobným kalamitám, jako je ta kůrovcová. Úrodnou půdu zachováme pro naše děti. Blíže k přírodě budeme i díky využití nových technologických inovací. Budeme rádi, když se k této cestě připojíte."
+          },
+          {
+            "headline": "Prolomíme sucho",
+            "list": [
+              "Sucho je jedním z největších současných problémů, který ovlivňuje životy nás všech. Zaměříme se na obnovu malého vodního oběhu. Díky tomu Vysočina zůstane úrodným krajem se zdroji pitné vody.",
+              "V krajinném plánování využijeme nejnovější vědecké poznatky, třeba model Zdoňov pro obnovu hydrologického režimu krajiny. Díky tomu obohatíme náš kraj o dvojnásobné množství vody, než zadrží nejobjemnější česká přehrada Orlík.",
+              "Podpoříme vznik kořenových čistíren odpadních vod, zelených střech, krajinných prvků v zemědělské krajině. Obnovíme polní cesty a stromořadí.",
+              "Krajina, která je systematicky odvodňována, umírá. To je také případ Kraje Vysočina. Podpoříme odstraňování drenážních trubek a regulaci odtoku v drenážních kanálech tak, abychom vodu v krajině zadrželi a udrželi.",
+              "Prosadíme povinnost budování vsakovacích systémů na dešťovou vodu u staveb nad 100 m2.",
+              "Administrativně i finančně podpoříme další rozvoj infrastruktury pro pitnou vodu a pro využití odpadní vody.",
+              "Budeme hledat cesty, jak pro majitele pozemků v ochranných pásmech vodních zdrojů zajistit kompenzace za to, že nemohou své pozemky používat bez omezení."
+            ]
+          },
+          {
+            "headline": "Úrodná půda pro naše děti",
+            "list": [
+              "Zemědělství a tradiční způsoby hospodaření mají na Vysočině dlouhou historii. Budeme motivovat obce, aby svoji půdu přednostně pronajímaly farmářům, kteří chtějí udržitelně hospodařit na svěřeném pozemku.",
+              "Budeme aktivně prosazovat zavedení hodnocení půdních bloků na základě ekologické zátěže pro krajinu.",
+              "Podpoříme zemědělce provádějící protierozní opatření a pracující na snížení zhutnění půdy.",
+              "Zaměříme se na odstranění nadbytečných regulací a nařízení zejména u drobných zemědělců.",
+              "Upřednostníme výstavbu na opuštěných zastavěných územích před stavbami na zelené louce."
+            ]
+          },
+          {
+            "headline": "Pestrá a zdravá krajina",
+            "list": [
+              "Budeme podporovat přirozenou obnovu lesa s pestrou druhovou skladbou.",
+              "Efektivní opatření proti šíření škůdců, obnova lesů, přestavba druhového složení a zlepšení struktury porostů budou mít přednost před prostým vyplácením dotací na kůrovcové škody.",
+              "Budeme podporovat výsadbu stromů v našem kraji tak, abychom pomohli se zadržováním vody v krajině.",
+              "Zaměříme se na obnovu starých cest, remízků a stromořadí, které jsou s krajinou Vysočiny neodmyslitelně spjaté.",
+              "Zachování přírody a krajiny Vysočiny není myslitelné bez obyvatel vesnic. Kraj bude nápomocný v hledání souladu mezi potřebami obcí a ochranou přírody i krajiny.",
+              "Péče o chráněná území a síť biokoridorů má být koncepční, aktivní a efektivní. Nebudeme na divokou přírodu zapomínat. Podpoříme vznik území bez zásahu člověka jako ostrůvků ekologické stability."
+            ]
+          },
+          {
+            "headline": "Nejlepší je ten odpad, který nevznikne",
+            "list": [
+              "Klademe důraz na skutečně efektivní způsoby odstraňování ekologických zátěží, a to už v místě jejich vzniku.",
+              "U průmyslových projektů je třeba důkladně zhodnotit, zda negativní vlivy na životní prostředí nepřevyšují společenský přínos.",
+              "Podpoříme pokračování kotlíkových dotací.",
+              "Místo budování hlubinného úložiště jaderného odpadu budeme prosazovat dostavbu bloků jaderné elektrárny Dukovany s moderní technologií, která dokáže současný odpad využít. Podpoříme inovace v jaderné energetice."
+            ]
+          },
+          {
+            "headline": "Kraj příkladem",
+            "list": [
+              "Krajský majetek budeme spravovat v souladu s principy udržitelnosti, prevence vzniku odpadu a emisí.",
+              "Budeme hledat dotační příležitosti k ekologickému zhodnocení majetku. Obdobné principy budeme prosazovat i do kritérií veřejných zakázek.",
+              "Vratné nádobí na venkovních akcích, splachování dešťovou vodou a maximální energetické úspory by se měly stát standardem. Budeme trvat na zavedení a dodržování pravidel dalšího znečištění - světelného a hlukového."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina pro lidi",
+        "parts": [
+          {
+            "copy": "Aby byla Vysočina plná života a lidé z ní neodcházeli, je potřeba začít řešit příčiny regionálních problémů, nikoliv jejich následky. Naším cílem je spokojený občan, který má dobrou práci, do které se pohodlně dostane. Jeho děti budou žít ve zdravém prostředí, budou si vybírat z široké nabídky kvalitních škol a zájmových aktivit.Zaměříme se na zlepšení života i v těch nejmenších obcích, na budování infrastruktury, na podporu podnikání a kvalitní školství. Dobré vztahy a vzájemná sounáležitost mají klíčový význam pro to, jak se nám zde na Vysočině žije."
+          },
+          {
+            "headline": "Podpora spolků a občanských iniciativ",
+            "list": [
+              "Vážíme si aktivních občanů, kteří nejlépe vědí, jak zlepšit své okolí. Navrhneme pravidelné setkávání rady kraje se zástupci spolků ze všech oblastí, aby krajská politika vznikala za účasti těch, kterých se bude přímo dotýkat."
+            ]
+          },
+          {
+            "headline": "Nabídka rozmanitého zaměstnání",
+            "list": [
+              "Zasadíme se o to, aby se tu rozvíjely služby, i tvůrčí zaměstnání. Aby byl kraj atraktivní pro lékaře, učitele i řemeslníky.",
+              "Zaměříme se na zlepšení pracovní atraktivity kraje tak, aby se dařilo vytvářet více kvalifikovaných míst. Vysočina nesmí být synonymem pro montovny a sklady.",
+              "Zaměříme se na zlepšení pozice firem v globálních řetězcích. Budeme aktivně vyhledávat příležitosti posílení jejich postavení v těchto řetězcích, aby se jim dařilo vytvářet koncové produkty s vyšší přidanou hodnotou přímo u nás na Vysočině."
+            ]
+          },
+          {
+            "headline": "Územní plánování pro občany, nikoliv developery",
+            "list": [
+              "Budeme lépe komunikovat s obcemi i občany o územním rozvoji kraje.",
+              "Budeme obce brát jako rovnocenné partnery a budeme s nimi řešit strategické stavby už od okamžiku projektování.",
+              "Nechceme, aby se Vysočina stala krajem skladišť nebo asfaltových zón."
+            ]
+          },
+          {
+            "headline": "Lepší život na malých obcích",
+            "list": [
+              "Malé obce jsou pro Vysočinu typické. Zaměříme se na to, aby měly prostor dobře se postarat o své záležitosti. Pomůžeme jim se zatěžující pracovní náplní a podpoříme jejich spolupráci."
+            ]
+          },
+          {
+            "headline": "Kraj pomůže a podpoří rozvoj menších obcí a vesnic",
+            "list": [
+              "Přiblížíme krajskou správu blíže k lidem, zejména v malých obcích.",
+              "Poskytneme poradenství a servis malým obcím. Pomůžeme místním samosprávám s problémy, které přesahují rámec obce a které přesto musí řešit samy."
+            ]
+          },
+          {
+            "headline": "Peníze tam, kde jsou potřeba",
+            "list": [
+              "Zeptáme se občanů a obcí, kde je potřeba podpora. Jejich názory se budeme řídit.",
+              "Program rozvoje kraje má být skutečně strategický. Jeho naplňování nemá být jen papírové."
+            ]
+          },
+          {
+            "headline": "Přístupný a jednoduchý Fond Vysočiny",
+            "list": [
+              "Dlouhodobé programy, splnitelné cíle, srozumitelné podmínky. Krajská podpora nesmí být dostupná jen těm, kteří mají kapacity a rozpočet.",
+              "Budeme prosazovat možnosti víceletých projektů. Postaráme se také, aby vydané peníze přinášely reálné výsledky."
+            ]
+          },
+          {
+            "headline": "Krajské zakázky dají lidem práci",
+            "list": [
+              "Zaměříme se na to, aby kraj využíval možností tzv. minitendrů. Chceme, aby dodavateli kraje mohli být i drobní živnostníci a firmy.",
+              "Veřejné zakázky nemají nést zisky jen velkým firmám. Mají být jedním z prostředků podpory malého podnikání na Vysočině."
+            ]
+          },
+          {
+            "headline": "Sdílení dobré praxe",
+            "list": [
+              "Budeme přebírat fungující nástroje rozvoje krajské ekonomiky z ostatních krajů podle jasně stanovených cílů, které mají tyto nástroje přinést.",
+              "Při formulaci nových politických nástrojů a iniciativ budeme vycházet z výsledků hodnocení těch stávajících.",
+              "Budeme hledat partnery pro další rozvoj regionální ekonomiky, včetně možností využití mezinárodních partnerství."
+            ]
+          },
+          {
+            "headline": "Konkurenceschopná Vysočina",
+            "list": [
+              "Inovační systém na území kraje není dostatečně rozvinutý a vědeckovýzkumná aktivita je podprůměrná. Nebudeme pokračovat v podpoře úzké specializace kraje.",
+              "Naopak budeme podporovat větší rozmanitost průmyslových odvětví v kraji tak, aby se rozvojové aktivity nesoustředily pouze na strojírenství a automobilový průmysl.",
+              "Budeme hledat další prioritní obory, které můžeme na krajské úrovni rozvíjet – například elektrotechnika, energetika, výroba medicínských přístrojů, nanotechnologie, kreativní průmysly, zpraůlcování dřeva, recyklace odpadů.",
+              "Budeme přijímat aktuální výzvy v podobě sucha, kůrovcové kalamity, nakládání s odpady. Budeme v nich hledat možné příležitosti pro vytváření nových klíčových oborů - například možnosti využití moderních technologií při hospodaření s vodou v krajině, rozvoji energetické soběstačnosti apod.",
+              "Zvýšíme konkurenceschopnost regionální ekonomiky prostřednictvím rozvoje znalostí a inovací. Zaměříme se na strategická odvětví kraje a fungující malé i střední podniky."
+            ]
+          },
+          {
+            "headline": "Bez rychlého připojení to nepůjde",
+            "list": [
+              "Zaměříme se na pokrytí šedých a bílých míst na Vysočině vysokorychlostním internetem. Je to jeden z klíčových prvků podpory rozvoje firemního prostředí v kraji."
+            ]
+          },
+          {
+            "headline": "Dynamický rozvoj malého a středního podnikání",
+            "list": [
+              "Kraj by měl hrát aktivní roli ve vzájemné spolupráci firem, škol a vědeckovýzkumných institucí.",
+              "Budeme spolupracovat s místními malými a středními podniky na tvorbě inovačního prostředí v kraji.",
+              "Zaměříme se na zpracování koncepce exportu kraje Vysočina a vytáhneme ze šuplíku projekt exportního centra pro inovační firmy."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina zdravá",
+        "parts": [
+          {
+            "copy": "Základem kvalitní zdravotní péče je její časová a dojezdová dostupnost. Dostupnost je ovlivněna dostatečným množstvím lékařů a zdravotního personálu. Z toho důvodu budeme prosazovat programy pro zajištění zdravotního personálu v kraji, a to včetně zubní, lékařské a lékárenské dostupnosti. Zaměříme se také na efektivní a dobře manažersky zvládnuté řízení nemocnic a poskytované péče. Budeme hledat cesty, jak zjednodušit a snížit nežádoucí administraci. Ta zdržuje naše lékaře od opravdové péče o pacienty."
+          },
+          {
+            "headline": "Dostatek lékařů a zdravotních sester v regionu",
+            "list": [
+              "Zajistíme dostupnou a kvalitní zdravotní péči v regionech, tedy dostatek lékařů a zdravotního personálu.",
+              "Budeme prosazovat programy pro zajištění zdravotního personálu v regionech. O jejich podpoře povedeme jednání se zdravotními pojišťovnami."
+            ]
+          },
+          {
+            "headline": "Zubní a lékařská péče v dojezdové vzdálenosti pro každého",
+            "list": [
+              "Zajistíme časovou a dojezdovou dostupnost pohotovostní zubní, lékařské a lékárenské péče."
+            ]
+          },
+          {
+            "headline": "Ochrana pacienta",
+            "list": [
+              "Podpoříme zavedení zdravotního ombudsmana Kraje Vysočina, který bude hájit práva a zájmy pacientů ve vztahu k péči o zdraví.",
+              "Díky zřízení postu zdravotního ombudsmana očekáváme zlepšení komunikace a informovanosti mezi pacienty a poskytovateli zdravotnické péče."
+            ]
+          },
+          {
+            "headline": "Stabilizace personální situace nejen v nemocnicích",
+            "list": [
+              "Navrhneme konkrétní opatření vedoucí ke stabilizaci personální situace.",
+              "Zaměříme se na motivační balíčky, náborová řešení, nové smlouvy s pojišťovnami k navýšení plateb za zdravotní výkony, mzdové příplatky a supervize pro zdravotní pracovníky.",
+              "Poskytování psychosociální podpory ve zdravotnictví vnímáme jako jeden z klíčových prvků podpory a posílení personální stabilizace. Tato podpora je účinnou prevencí proti syndromu profesního vyhoření."
+            ]
+          },
+          {
+            "headline": "Více péče u vás doma",
+            "list": [
+              "Více péče doma znamená pohodlí, kvalitu, ušetřený čas i peníze. Podporujeme zapojení obvodních lékařů do spolupráce s domácími hospici a zdravotními službami.",
+              "Díky péči domácích sociálně zdravotních zařízení budeme snižovat přetěžování nemocnic a ambulancí."
+            ]
+          },
+          {
+            "headline": "Efektivní záchranná služba",
+            "list": [
+              "Podporou domácí zdravotní péče zvýšíme efektivitu záchranné služby, často zatěžovanou výjezdy k neakutním zdravotním stavům.",
+              "Vytvoříme systém zpětné vazby o správném využívání záchranné služby.",
+              "Podpoříme realizaci výjezdových posádek se „superzáchranáři“ neboli speciálně vyškolenými profesionály s rozšířenými znalostmi pro akutní zajištění našich životů."
+            ]
+          },
+          {
+            "headline": "Manažerské schopnosti ve zdravotnictví",
+            "list": [
+              "Zaměříme se na to, aby manažerské pozice byly obsazeny lidmi s náležitým manažerským vzděláním a schopnostmi.",
+              "Budeme klást důraz na správný způsob řízení lidí a posilování dobrých vzájemných vztahů na pracovišti, včetně zdravé loajality, důvěry a tím i pracovního nasazení.",
+              "Zavedeme podávání zpětné vazby vedoucím pracovníkům pro zkvalitnění práce. Zaměříme se na strategii vytváření příznivého pracovního prostředí ve zdravotnických provozech."
+            ]
+          },
+          {
+            "headline": "Kvalitní strava pro pacienty",
+            "list": [
+              "Podpoříme nemocnice ve zlepšení stravování pro pacienty. Rozšíříme používání a nákup lokálních surovin, zvýšení podílu čerstvé zeleniny a ovoce.",
+              "Zaměříme se na zkvalitnění práce nutričních poradců. Strategii používání potravin upravíme na základě vědeckých důkazů o vlivu potravin na zdraví.",
+              "Posílíme lokální zemědělce prostřednictvím krajského veřejného stravování."
+            ]
+          },
+          {
+            "headline": "Usnadnění administrativy = více péče o pacienty",
+            "list": [
+              "Zdravotníci se nadměrně věnují administrativě namísto péče o pacienta. Zjednodušíme a snížíme nežádoucí administrativu ve zdravotnictví. Využijeme pomoci uživatelsky přívětivějších nemocničních systémů a kvalitnějšího propojení dat."
+            ]
+          },
+          {
+            "headline": "Péče o děti ve všech ohledech",
+            "list": [
+              "Vnímáme jako důležité, aby děti měly zajištěnou péči i v oblasti duševního zdraví. Budeme usilovat o dostatečné kapacity dětských akutních psychiatrických lůžek."
+            ]
+          },
+          {
+            "headline": "Paliativní péče",
+            "list": [
+              "Podpoříme dostupnost paliativní a hospicové péče ve všech částech Vysočiny. Budeme podporovat terénní práci v domácím prostředí v oblasti paliativní péče.",
+              "Navýšíme mzdy zdravotníkům v domácí i hospicové péči.",
+              "Vytvoříme dialog o dostupnosti hospicové péče. Na základě výsledků odborné debaty budeme realizovat výstavbu menších hospiců při nemocnicích, nebo centrálního kamenného hospice."
+            ]
+          },
+          {
+            "headline": "Reforma psychiatrické péče",
+            "list": [
+              "Ve spolupráci s Ministerstvem zdravotnictví a lokálními poskytovateli sociálních a zdravotních služeb budeme podporovat Centra duševního zdraví tak, aby byly terénní služby i pobytová péče lépe dostupné i v regionech."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina pečující",
+        "parts": [
+          {
+            "copy": "Rozvojem sociálních služeb přispějeme k tomu, aby každý občan Kraje Vysočina mohl uplatnit svůj potenciál, přispívat společnosti a důstojně trávit i chvíle, kdy podporu a pomoc potřebuje on sám. Organizace poskytující sociální služby v jednotlivých městech a obcích Vysočiny si zaslouží naši plnou podporu. Tyto organizace totiž nejlépe vědí, jaké služby jejich klienti potřebují a využívají, a které služby jsou naopak nedostatkové a nevyhovující. Týká se to služeb pro seniory, rodiny, děti nebo hendikepované. Důležitým tématem je pro nás i financování sociálních služeb a férové ohodnocení sociálních pracovníků."
+          },
+          {
+            "headline": "Každé dítě potřebuje rodinu",
+            "list": [
+              "Jsme přesvědčeni, že malé děti do ústavů nepatří. Budeme podporovat různé formy náhradní rodinné péče.",
+              "Posílíme preventivní práci s rodinou pomocí rozšíření služeb a poradenství pro rodiny s dětmi. Zřídíme nízkoprahová zařízení i v menších obcích.",
+              "Navýšíme počet dlouhodobých a přechodných pěstounů. Zaměříme se na zvýšení efektivity procesu posuzování náhradní rodinné péče."
+            ]
+          },
+          {
+            "headline": "Domov je základ",
+            "list": [
+              "Zaměříme se na bydlení ohrožených rodin i jednotlivců. Finančně i metodicky podpoříme obce v oblasti zavádění moderních postupů v oblasti sociálního a dostupného bydlení, například Housing first (bydlení především) nebo komunitního bydlení.",
+              "Do bytové politiky zahrneme systémy krizového, bezbariérového a chráněného bydlení. Pomůžeme i malým obcím s efektivním předcházením bytové nouzi jejich obyvatel."
+            ]
+          },
+          {
+            "headline": "Služby a vyžití pro seniory",
+            "list": [
+              "Podpoříme asistenční služby a terénní práci pro ty seniory, kteří s touto pomocí mohou a chtějí bydlet doma.",
+              "Ve výstavbě domovů pro seniory nebudeme podporovat výstavbu velkých komplexů s jednostranným využitím. Zaměříme se na komunitní typ bydlení a podpoříme obce při zvyšování kapacit obecních domovů pro seniory.",
+              "I v důchodu se toho dá hodně zažít. Vytvoříme programy na podporu aktivního života seniorů. Zaměříme se na finanční i nefinanční formy podpory.",
+              "Sjednotíme metodiku posuzování soběstačnosti v rámci kraje a vytvoříme on-line systém k podávání žádostí do domova seniorů nebo domovů se zvláštním režimem zřizovaných krajem.",
+              "Pro seniory, kteří mají problém s financováním bydlení, podpoříme alternativní formy, třeba sdílené bydlení.",
+              "Vytvoříme model realizace služby “Senior taxi”. Zajistíme dopravu k lékaři všem seniorům i v těch obcích, kde není dostatečná veřejná dopravní obslužnost."
+            ]
+          },
+          {
+            "headline": "Sociální služby s důrazem na lidskost",
+            "list": [
+              "Budeme se soustředit na rozvoj kvalitních terénních služeb s cílem odlehčit pobytovým službám a poskytnout služby v domácím prostředí co nejdéle je to možné.",
+              "Vytvoříme podmínky pro zabezpečení potřeb v odlehčovacích službách. Zajistíme dostatečnou síť odlehčovacích služeb pro osoby pečující o dlouhodobě nemocné a seniory.",
+              "Podpoříme rozvoj komunitních přístupů v sociálních službách.",
+              "Podpoříme rozvoj sítě adiktologických služeb pro lidi se závislostí a inovativních přístupů v této oblasti."
+            ]
+          },
+          {
+            "headline": "Spolupráce sociálních a zdravotních služeb",
+            "list": [
+              "Podpoříme spolupráci sociálního a zdravotního systému poskytování služeb. Díky dobré koordinaci zkvalitníme péči a snížíme náklady poskytovaných služeb."
+            ]
+          },
+          {
+            "headline": "Stabilní financování",
+            "list": [
+              "Budeme usilovat o stabilní financování sociálních služeb obcemi, krajem i vládou.",
+              "Budeme prosazovat zodpovědnější přístup k zajištění stability sociálních služeb.",
+              "Zaměříme se na propagaci a rozvoj dobrovolnictví v sociálně prospěšných projektech."
+            ]
+          },
+          {
+            "headline": "Do života s nadějí",
+            "list": [
+              "Podpoříme mladé dospělé opouštějící ústavní výchovu nebo pěstounskou péči. Zřídíme pro ně návazné služby, podporu při přechodu do samostatného života nebo chráněná pracovní místa.",
+              "Zavedeme systém rezervace míst v pobytových službách Kraje Vysočina pro „mladé dospělé“ s omezenou svéprávností, kteří opouštějí dětský domov nebo pěstounskou péči.",
+              "Podpoříme rozvoj bezpečné hostitelské péče."
+            ]
+          },
+          {
+            "headline": "Zdravotní handicap není past",
+            "list": [
+              "Občané Vysočiny by se měli cítit dobře, i když třeba mají nějaký zdravotní handicap. Podpoříme obce na jejich cestě k bezbariérovosti nebo při budování systémů veřejných bezbariérových toalet.",
+              "Pomocí odlehčovacích služeb nebo vzdělávání podpoříme rodiče dětí se zdravotním i mentálním postižením.",
+              "Podpoříme vznik komunity rodičů se zdravotním postižením a sdílené péče v Kraji Vysočina.",
+              "Ve spolupráci s krajskou pobočkou Úřadu práce podpoříme zaměstnavatele v zaměstnávání osob se zdravotním hendikepem."
+            ]
+          },
+          {
+            "headline": "Pomoc místo plýtvání",
+            "list": [
+              "Podpoříme systémy materiální a potravinové pomoci. Naším cílem je dostat pomoc i do menších obcí. Zamezíme plýtvání a posílíme solidaritu s lidmi v nouzi."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina vzdělaná",
+        "parts": [
+          {
+            "copy": "Vzdělání je jedním z našich základních práv. Aby mohlo co nejlépe naplňovat svoje poslání, je potřeba mu věnovat pozornost a péči. A to rozvojem přirozené tvořivosti, podporou svobodného myšlení a výchovou k demokracii. Školství musí být dostupné pro všechny, dobře a efektivně financované a musí jít s dobou. Proto se budeme soustředit na zachování škol místo jejich slučování. Budeme hledat nové příležitostí pro jejich rozvoj. Budeme budovat strategická partnerství."
+          },
+          {
+            "headline": "Vzdělání dostupné pro všechny",
+            "list": [
+              "Zasadíme se o zachování a rozvoj vzdělávacích a školských služeb i v menších obcích.",
+              "Posílíme roli individuálního přístupu k žákovi tím, že podpoříme poskytování školských poradenských služeb na malých i velkých školách. Podpoříme rozvoj podpůrných profesí a jejich dalších vzdělávání, ať už se bude jednat o asistenty pedagoga, školní psychology nebo sociální pracovníky."
+            ]
+          },
+          {
+            "headline": "Posílíme spolupráci škol a firem",
+            "list": [
+              "Vzdělávací činnost budeme plánovat v souladu s nejnovějšími trendy v jednotlivých oblastech studia.",
+              "Zaměříme se na systematickou a efektivní spolupráci mezi školami a firmami v kraji, za účelem získání použitelných znalostí pro praxi.",
+              "Odborníci z praxe by se měli aktivně zapojovat do výuky předmětů. Žáci i učitelé by měli mít příležitost získat praxi přímo ve firmách.",
+              "Budeme aktivně podporovat školy v zavádění podnikavých aktivit a předmětů do výuky.",
+              "Jako rizikovou vnímáme úzkou specializaci kraje dominantně na jeden obor (strojírenství). Nebudeme podporu této spolupráce omezovat jen na technické a řemeslné obory, ale budeme aktivně hledat příležitosti i v dalších potenciálně klíčových oborech."
+            ]
+          },
+          {
+            "headline": "Školství jako priorita",
+            "list": [
+              "Budeme dbát o to, aby kraj měl vždy dostatek finančních prostředků na podporu rozvoje a zázemí škol.",
+              "Budeme se snažit koordinovat vyjednávání o množstevních slevách. Zaměříme se na vybavenost v oblasti informačních technologií a podporu využívání nástrojů digitálního vzdělávání.",
+              "Podpoříme školy v projektech pomoci dětem, jejichž rodiče nemohou z důvodu hmotné nouze zaplatit obědy dětem ve školních jídelnách.",
+              "Zaměříme se na metodickou pomoc a informační servis o dostupných projektech, které mohou školy využít.",
+              "Vytvoříme systém “nejlepší praxe”: výměnu zkušeností a síťování, studijních programů, stáží, hostování atd. tak, aby špičkové vzdělávací instituce v kraji byly schopny šířit svoje know-how všem ostatním."
+            ]
+          },
+          {
+            "headline": "Školství 21. století",
+            "list": [
+              "Zaměříme se na to, aby studenti získali dovednosti potřebné pro život v 21. století a zároveň aby měli možnost si zkusit podnikat již během studia.",
+              "Posílíme spolupráci středních a vysokých škol, případně akademických pracovišť.",
+              "Otevřeme diskusi o možnostech zvýšení nabídky vysokoškolských oborů v kraji, ať už rozvojem stávající infrastruktury nebo prostřednictvím podpory detašovaných pracovišť univerzit z jiných krajů. Cílem této podpory bude snížení odlivu studentů z kraje.",
+              "Při spolupráci s vysokými školami se zaměříme na obory, jejichž absolventi budou moci získat uplatnění přímo na Vysočině.",
+              "Moderní a kvalitní vzdělání zajišťované respektovanými učiteli",
+              "Digitální technologie jsou přirozenou součástí dnešní společnosti. Efektivně vedené vyučování pomocí nových technologií by mělo být součástí moderní výuky. Proto takové formy výuky podpoříme.",
+              "Zaměříme se na podporu kolektivu učitelů tak, aby pomocí sdílené praxe mohli efektivně využívat moderní trendy výuky a uplatňovat individuální přístup.",
+              "Aktivně podpoříme další vzdělávání pedagogických pracovníků a finanční i materiální motivaci kvalitních učitelů."
+            ]
+          },
+          {
+            "headline": "Individuální přístup pro žáky s nadáním či speciálními vzdělávacími potřebami",
+            "list": [
+              "Každému žákovi by mělo být zajištěno rovné právo na vzdělávání s přihlédnutím k jeho individuálním předpokladům.",
+              "Nadaným žákům zajistíme vyškolené odborné poradce. Zavedeme stipendia pro talentované studenty středních škol.",
+              "Žákům se speciálními vzdělávacími potřebami zajistíme individuální přístup se speciálně pedagogickou podporou.",
+              "Jsme pro zachování krajem zřizovaných základních škol praktických a speciálních. Budeme je aktivně podporovat. Součástí těchto škol by měla být poradenská pracoviště.",
+              "Vytvoříme odbornou platformu, která bude řešit tvorbu koncepce rozvoje speciálních pedagogických center. Zaměříme se na zajištění transparentního financování speciálních pedagogických center na základě jasných kritérií."
+            ]
+          },
+          {
+            "headline": "Posílení role ředitele školy jako lídra učitelského kolektivu",
+            "list": [
+              "Stávající byrokratická agenda škol administrativně zatěžuje vedoucí pracovníky. Poskytneme proto školám metodickou podporu ve zvládání úřední agendy, aby se ředitelé mohli více věnovat manažerským činnostem a odborně zaštiťovat vedení učitelského sboru.",
+              "Pro potřeby ředitelů menších škol prověříme možnost vyčlenění sdílených ekonomů, účetních či právníků."
+            ]
+          },
+          {
+            "headline": "Jednoduchá dotační podpora škol",
+            "list": [
+              "Vytvoříme podmínky pro zjednodušení možností čerpání finančních prostředků do škol tak, aby školy nebyly v pozici administrátorů dotačních programů, ale v postavení aktivních příjemců."
+            ]
+          },
+          {
+            "headline": "Kolik jazyků znáš, tolikrát jsi studentem",
+            "list": [
+              "Ve výuce by měl být posílen význam konverzace a aktivní komunikace s rodilými mluvčími. Podpoříme vytváření mezinárodních partnerství škol a organizaci výměnných pobytů žáků."
+            ]
+          },
+          {
+            "headline": "Podpora mimoškolního vzdělávání a sportovních aktivit",
+            "list": [
+              "Školy a místní knihovny by měly sloužit jako místa pro poskytování vzdělávání i nad rámec běžné výuky. Kraj by měl také nabízet pomoc zájemcům v rozšiřování kvalifikací.",
+              "Podpoříme malé sportovní kluby a spolky na venkově zejména pokud slouží pro sportování dětí a mládeže.",
+              "Finančně a metodicky pomůžeme dobrovolníkům a trenérům, kteří v těchto nejmenších sportovních týmech učí děti a mládež.",
+              "Připravíme pro malé kluby závody, sportovní soutěže a turnaje na krajské úrovni tak, aby se mohly na akcích na Vysočině setkávat a soutěžit mezi sebou."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina dostupná",
+        "parts": [
+          {
+            "copy": "Dostupná a kvalitní doprava by měla být základem dobře fungujícího kraje. Kraj Vysočina, to není jen dálnice a tranzitní doprava. Region potřebuje dobrou dopravní obslužnost i do té nejmenší obce. Vnímáme jako klíčové, aby se děti dostaly bezpečně do školy i jiným dopravním prostředkem, než autem. Chceme regionální silnice bez děr a výmolů. Budování vysokorychlostní infrastruktury je velkou příležitostí pro Vysočinu a její obyvatele. Aktivně se zasadíme o to, aby se Vysočina této příležitosti chopila a naši občané měli možnost ji využívat. Velkou výzvou je pro nás napojení vysokorychlostní tratě na dopravu v kraji tak, aby byla dostupná i z okrajových oblastí."
+          },
+          {
+            "headline": "Lepší dopravní dostupnost i pro malé obce",
+            "list": [
+              "Mnoho malých obcí i měst Vysočiny trpí nedostatečnou obslužností hromadnou dopravou. Jejich obyvatelé k cestování i na krátké úseky raději využívají osobních automobilů. Budeme proto usilovat o to, aby se tato situace zlepšila, nejen ve vztahu k lidem, ale i ve vztahu k přírodě.",
+              "Zaměříme se na zajištění systému “Veřejná doprava na Vysočině” tak, aby byla skutečně zaručena obslužnost velkých sídel, ale i malých obcí.",
+              "Důležité pro nás je také napojení spojů na sousední kraje a velká města (Prahu, Brno) a jejich integrované dopravní systémy, a to nejen přes den, ale i ve večerních hodinách a o víkendech."
+            ]
+          },
+          {
+            "headline": "Koordinovaná výstavba a údržba silnic v Kraji Vysočina",
+            "list": [
+              "Vysočina není zatížena pouze dopravou, ale i špatným stavem menších silnic a nekoordinovanými opravami. Budeme se snažit o sjednocení oprav veřejných komunikací a z krajské pozice aktivně komunikovat se všemi zadavateli tak, aby byla vždy zajištěna dobrá objízdná trasa.",
+              "Zaměříme se na obchvaty obcí zatížené tranzitní dopravou. Tyto obchvaty by měly být vybudovány dříve, než přes danou obec povede objížďka z opravovaného dálničního úseku."
+            ]
+          },
+          {
+            "headline": "Vysokorychlostní doprava",
+            "list": [
+              "Budeme podporovat výstavbu vysokorychlostní infrastruktury, která výrazně zrychlí napojení Vysočiny na sousední kraje a velká města. Zasadíme se o minimálně jednu zastávku vysokorychlostní tratě přímo na Vysočině.",
+              "Podpoříme výstavbu za takových podmínek, které budou příznivé k našim obyvatelům a přírodě, ať už po stránce trasování nebo samotného využití tohoto spojení.",
+              "Budeme aktivními účastníky debat, budeme sledovat technologický pokrok v oblasti vysokorychlostní přepravy, budeme vyhodnocovat dostupné varianty tak, aby byly pro kraj výhodné."
+            ]
+          },
+          {
+            "headline": "Bezpečnost v dopravě",
+            "list": [
+              "Prozkoumáme data a informace v oblasti pohybu obyvatel na silnicích, abychom dokázali zvýšit jejich bezpečnost.",
+              "Podpoříme dopravní policii, aby se dostatečně věnovala dohledu na nebezpečných úsecích silnic. Zaměříme se na prevenci a vzdělávání řidičů."
+            ]
+          },
+          {
+            "headline": "Blíže k lidem",
+            "list": [
+              "Budeme pomáhat řešit místní problémy s budováním infrastruktury, a to nejen prostřednictvím dotační politiky kraje, ale i metodickou pomocí pro jednotlivé obce.",
+              "Pomůžeme obcím, které si neví rady, a budeme k nim přistupovat individuálně.",
+              "Také cyklisté a chodci budou našimi partnery při plánování dopravní infrastruktury."
+            ]
+          },
+          {
+            "headline": "Konkurenční prostředí",
+            "list": [
+              "U krajských zakázek budeme dávat příležitost i menším firmám, a to jak v poskytování dopravní obslužnosti, tak i v ostatních oblastech."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina otevřená",
+        "parts": [
+          {
+            "copy": "Úřad má být otevřený pro obec i občana a naplno využívat výhod moderní digitální doby. Budeme prosazovat, aby veřejná správa byla přehledná a jednoduše dostupná z počítače nebo mobilu. Je důležité, aby moderním otevřeným úřadem obíhala data, a ne občané marně hledající svého úředníka. Atraktivní kraj je takový, který umí jít s dobou, a který umí využívat technologické příležitosti. Podpoříme obce v kraji bez ohledu na jejich velikost v hledání chytrých řešení pro jejich lepší fungování. Díky digitalizaci změníme neprostupnou úřednickou džungli na přívětivý systém."
+          },
+          {
+            "headline": "Jednoduše přístupné a přehledné informace",
+            "list": [
+              "Podpoříme obce v kraji bez ohledu na jejich velikost v hledání chytrých řešení pro jejich lepší fungování.",
+              "Informovaný občan je základním stavebním kamenem kraje. Podpoříme, aby se mohl k potřebným informacím dostat z pohodlí svého domova. Chceme, aby ze svého počítače nebo mobilu mohl vyřešit potřebnou úřední agendu.",
+              "Zaměříme se na to, aby důležité a zákonem dané informace byly řádně zveřejňovány. Pokud zjistíme pochybení, zapracujeme na jejich odstranění.",
+              "Zajistíme, aby každý občan kraje jednoduše a intuitivně našel informace, které hledá.",
+              "Zveřejníme zodpovězené otázky občanů, kteří se ptali před vámi.",
+              "Občan má mít přístup k maximálnímu množství odpovídajících informací, které by měly být zveřejňovány přehledně, jednoduše a srozumitelně na webu kraje Vysočina.",
+              "Podpoříme práci s otevřenými daty a budeme hledat nové příležitosti pro jejich využití.",
+              "Zpřehledníme webové prezentace kraje, abychom se k podstatným informacím dostali během pár kliknutí."
+            ]
+          },
+          {
+            "headline": "Úřad má sloužit",
+            "list": [
+              "Úředníci jsou spoluzodpovědní za stav kraje. Zasadíme se o to, aby odbory krajského úřadu naplňovaly vlastní vizi, jak přispět ke zlepšení života v kraji.",
+              "Začneme férově komunikovat s obcemi v kraji o potřebách a výhodách chytrých měst.",
+              "Přejdeme od plánování k činům. Podpoříme pilotní a testovací projekty chytrých řešení v obcích bez rozdílu velikosti a oblasti zaměření. Využijeme moderních technologií, aby nám pomohly oživit naše obce.",
+              "Použijeme sdílení zkušeností z jiných měst a krajů. Chytrá řešení využijeme při instalaci veřejného osvětlení, hledání volných parkovacích míst, detekci míry znečištění. Chytrá řešení mohou pozitivně ovlivnit naši bezpečnost, odpadové hospodářství, dopravu atd.",
+              "Sdílených zkušeností využijeme k jejich vyhodnocování a následnému praktickému uplatnění."
+            ]
+          },
+          {
+            "headline": "Svobodný software",
+            "list": [
+              "Budeme preferovat taková softwarová řešení, která nebudou uzamčena jednomu dodavateli. Pokud to půjde, kraj bude tuto správu vykonávat samostatně.",
+              "Budeme podporovat svobodný software s otevřeným kódem, který lze snadněji upravit a propojovat s ostatními programy.",
+              "Budeme přebírat příklady dobré praxe z jiných krajů a sdílet s nimi vyvinuté aplikace. Žádná aplikace se nespustí, pokud jí nezvládnou obsluhovat úředníci a zastupitelé",
+              "Budeme se řídit pirátským “Akčním plánem pro boj s vendor lock-inem a rozšíření využití open source ve veřejné správě”, jehož cílem je rozšířit využívání otevřeného softwaru a hardwaru v orgánech veřejné správy."
+            ]
+          },
+          {
+            "headline": "Portál otevřených dat",
+            "list": [
+              "Budeme dále rozvíjet již fungující zveřejňování informací ve formátu otevřených dat a hledat nové příležitosti pro jejich smysluplné využití.",
+              "Budeme se inspirovat a spolupracovat tam, kde to již funguje, například s členy spolku Otevřená města, u projektu rozklikávacího rozpočtu CityVizor apod.",
+              "Podpoříme vývoj aplikací pro usnadnění práce se zveřejňováním smluv, zapojením občanů online, katastrem nemovitostí nebo digitální technickou mapou."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina transparentní",
+        "parts": [
+          {
+            "copy": "Protože peníze jsou vždy až na prvním místě, tak se zasadíme o maximálně transparentní a efektivní nakládání s krajskými prostředky. Budeme se soustředit na omezení dluhového financování a s tím související strategické plánování výdajů krajského rozpočtu. Občané kraje by měli mít snadný přístup k informacím o tom, jak na tom kraj po finanční stránce je a za co utrácí. Dlouhodobě vyrovnaný rozpočet, koncepční strategické plánování, veřejná kontrola, osobní odpovědnost politiků i úředníků je pro nás prioritou."
+          },
+          {
+            "headline": "Vyrovnaný rozpočet",
+            "list": [
+              "Nebudeme zadlužovat naše děti. Rozpočty budeme sestavovat jako hospodárné, řádně odůvodněné a informace o nich budou široce přístupné.",
+              "Budeme dbát na to, aby kraj měl vytvořenou dostatečnou rezervu pro případ mimořádných výdajů.",
+              "Větší investice budeme plánovat koncepčně. Budeme o nich informovat s předstihem.",
+              "Nové úvěry bude kraj čerpat jen v případě nezbytné nutnosti dofinancování strategických aktivit. Dlouhodobě má být rozpočet vyrovnaný.",
+              "V době přípravy rozpočtu budeme diskutovat s veřejností priority aktuálního rozpočtu."
+            ]
+          },
+          {
+            "headline": "Rozklikávací rozpočet",
+            "list": [
+              "O příjmech a výdajích kraje budeme otevřeně informovat pomocí rozklikávacího rozpočtu. Rozklikávací rozpočet je přehledná grafická podoba rozpočtu a veřejná kontrola financování kraje. Budeme se inspirovat u aplikace CityVizor.",
+              "Zasadíme se o srozumitelné vysvětlení krajského rozpočtu veřejnosti, a to formou rozklikávacího rozpočtu s údaji o průběžném čerpání i s odkazy na registr smluv."
+            ]
+          },
+          {
+            "headline": "Osobní odpovědnost politiků i úředníků",
+            "list": [
+              "Budeme důsledně uplatňovat nápravné a sankční prostředky proti politikům a úředníkům, kteří porušují zákon, a to zejména, pokud porušením zákona způsobili kraji škodu."
+            ]
+          },
+          {
+            "headline": "Přehledné hospodaření",
+            "list": [
+              "Prosadíme, aby kraj využíval otevřené účetnictví všude tam, kde to zákon dovoluje.",
+              "Pro příspěvkové organizace, ve kterých je většinovým vlastníkem kraj, včetně zdravotnických zařízení, mají platit stejné povinnosti otevřeného hospodaření jako pro kraj samotný.",
+              "Připravíme a zveřejníme plán snižování nákladů na chod úřadu.",
+              "Připravíme návrh na otestování participativního rozpočtu na krajské úrovni. Participativní rozpočet umožní občanům kraje spolurozhodovat o části krajského rozpočtu.",
+              "Díky realizaci společných nákupů krajského úřadu a příspěvkových organizací Kraje Vysočina zajistíme snížení cen komodit a energií."
+            ]
+          },
+          {
+            "headline": "Průhledné hospodaření s majetkem",
+            "list": [
+              "Zabráníme nevýhodným prodejům krajského majetku. Přehled veškerého majetku zveřejníme na webových stránkách kraje včetně jeho popisu a využití.",
+              "O případném prodeji majetku a způsobu prodeje budeme informovat s předstihem a nikoli pouhým “vyvěšením na úřední desku”, ale s maximálním využitím všech informačních kanálů.",
+              "Budeme vždy preferovat způsoby prodeje přístupné širokému spektru uchazečů.",
+              "O hospodaření s majetkem budeme informovat formou rozklikávacích rozpočtů."
+            ]
+          },
+          {
+            "headline": "Informace o dostupných dotacích na jednom místě",
+            "list": [
+              "V okamžiku, kdy kraj rozděluje či přerozděluje finanční prostředky, bude aktivně informovat občany a firmy o možnostech jejich získání.",
+              "Budeme prosazovat prezentaci výsledků dotačních podpor, například formou mapy dotací."
+            ]
+          },
+          {
+            "headline": "Evropské peníze efektivně a účelně",
+            "list": [
+              "V aktuálním programovém období dohlédneme na to, aby kraj maximálně využíval dotačních příležitostí. Týká se to především rozvoje regionální ekonomiky a infrastruktury.",
+              "Na krajské úrovni se zaměříme na důkladnou analýzu oblastí vhodných pro podporu z evropských fondů v novém programovacím období. Budeme strategicky plánovat, na co tyto peníze využijeme."
+            ]
+          },
+          {
+            "headline": "Strategické plánování",
+            "list": [
+              "Řízení kraje má být koncepční a dlouhodobé. Nemůže být podřízeno střídání politických reprezentací. Zamezíme přípravě rozpočtu z roku na rok a tlaku na čerpání nevyužitých položek ke konci roku.",
+              "Za účasti odborné i laické veřejnosti vytvoříme smysluplné strategie, které nebudou samoúčelné. Naopak budou obsahovat priority, harmonogramy a přidělené zdroje.",
+              "Investiční i strategické plány přizpůsobíme skutečným potřebám, nikoliv dotačním programům."
+            ]
+          },
+          {
+            "headline": "Spravedlivé rozpočtové určení daní (RUD)",
+            "list": [
+              "Zjednodušíme a zprůhledníme systém RUD. Snížíme náklady na jeho administrativu včetně lepšího plánování RUD do budoucna.",
+              "Navrhneme automatické zvyšování příspěvku na výkon státní správy.",
+              "Aktivně se zapojíme do diskuse o prosazení úpravy sdílených daní. Do balíku sdílených daní chceme zařadit i spotřební daně (minimálně z alkoholu a tabáku) a daně z hazardu."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina kulturní",
+        "parts": [
+          {
+            "copy": "Lidé jsou tvorové kulturní. Ti, kteří žijí na Vysočině, to jistě rádi potvrdí. Náš kraj vyrůstá z hlubokých kulturních tradic a odjakživa v něm žili lidé šikovní a tvořiví. Naším cílem je podporovat kulturu a lidi, kteří ji vytvářejí. Budeme chránit naše regionální kulturní dědictví a hmotné i nehmotné památky. Podporu si zaslouží také knihovny, galerie, divadla či muzea, splňující podmínky průhledného hospodaření. Podpoříme svobodnou a pestrou kulturu pro všechny generace."
+          },
+          {
+            "headline": "I malé akce si zaslouží podporu",
+            "list": [
+              "Každá kulturní akce má svůj význam a hraje nezastupitelnou roli ve společenském životě velkých i malých obcí. Malým obcím nebo amatérským organizacím zajistíme dostupné granty na kulturu.",
+              "Podpoříme prioritně nekomerční akce a amatérské organizace.",
+              "Zaměříme se na to, aby veřejná podpora byla poskytovaná organizátorům, kteří si nejsou schopni zajistit financování ze zisku. Budeme podporovat komunitní akce, začínající a veřejně přístupné projekty, hudební přehlídky atd.",
+              "Podporu z fondu Vysočiny zpřístupníme i malým kulturním organizacím a aktivním občanům nebo umělcům. Zvýhodníme vícezdrojové financování.",
+              "Využijeme zkušeností Koordinačního uskupení neziskových organizací na Vysočině (KOUS) a budeme vzájemně spolupracovat. Nadále podpoříme tzv. Malé granty určené spolkům a malým organizacím.",
+              "Rozvineme spolupráci mezi veřejným a soukromým sektorem. Pořadatele kulturních akcí propojíme s Místními akčními skupinami a mikroregiony. Podpoříme sdílení dobré praxe a výměnu zkušeností.",
+              "Navrhneme vznik mediálně-marketingového vzdělávacího programu, jehož cílem bude rozvoj odborných znalostí v reklamě, sponzoringu, marketingu. Organizátoři se díky tomuto kurzu naučí, jak si zajistit vícezdrojové financování, mediální partnerství či finanční podporu.",
+              "Ohlídáme si transparentní financování krajských institucí a příspěvkových organizací – knihovny, muzea, galerie, Horácké divadlo. K veřejné kontrole využijeme rozklikávací rozpočet."
+            ]
+          },
+          {
+            "headline": "Kultura taky vzdělává",
+            "list": [
+              "Zintenzivníme podporu regionálních lidových tradic a folklórních souborů, stejně tak jako ochranu památek lidové architektury v Kraji Vysočina.",
+              "V návaznosti na intenzivní podporu cestovního ruchu budeme systematicky pečovat o tradiční lidová řemesla.",
+              "Postrádáme intenzivnější propagaci kultury na Vysočině. Vytvoříme proto kulturní magazín Kraje Vysočina, kde občané naleznou seznam kulturních akcí.",
+              "Vytvoříme mobilní aplikace, vizuálně zpřehledníme kulturní kalendář na krajském webu. K propagaci kultury využijeme také sociální sítě."
+            ]
+          },
+          {
+            "headline": "Kulturní bohatství Vysočiny pro všechny",
+            "list": [
+              "Kulturu, památky a krajské kulturní instituce zpřístupníme osobám se zdravotním omezením.",
+              "Využijeme potenciálu významných osobností a rodáků z oblasti kultury.",
+              "Podpoříme zavedení dobrovolného vstupného do knihoven, galerií a muzeí, aby byly tyto instituce přístupné všem bez rozdílu.",
+              "Zavedeme architektonické soutěže u veřejných staveb a urbanistické soutěže u veřejných prostranství jako standard. Soutěžní porota bude vždy složena z odborníků na dané téma.",
+              "Organizátorům nabídneme také materiální a nefinanční podporu. Příkladem mohou být veřejná prostranství a zázemí pro činnost uměleckých souborů."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Zažít Vysočinu",
+        "parts": [
+          {
+            "copy": "Nové zážitky, odpočinek, dobré jídlo a pití, krásná příroda, jedinečné historické památky, lidové zvyky a tradice. To je Kraj Vysočina z pohledu jeho návštěvníků. Zaměříme se na to, aby byl turistický ruch pro kraj opravdu přínosný a nepřinášel turistům nepříjemnosti. Naší prioritou je vzájemné propojení cestovního ruchu, marketingu a služeb. Velkou výzvu vidíme v materiálním, finančním a informačním propojení na ose kraj – samospráva (obec) – podnikatel – turista. Cílem je z jednodenního návštěvníka vytvořit dlouhodobého, vracejícího se turistu."
+          },
+          {
+            "list": [
+              "Bez rozvoje infrastruktury pro cestovní ruch zde ani žádný cestovní ruch nebude. Budeme se intenzivněji zapojovat do dotačních programů, třeba podpory z Národního programu podpory cestovního ruchu.",
+              "Využijme potenciál kraje s nejvyšší hustotou památek UNESCO. Chopíme se také potenciálu dalších kulturních památek a atraktivních míst mimořádného historického nebo marketingového významu."
+            ]
+          },
+          {
+            "headline": "Budeme podporovat aktivní turistiku v kraji",
+            "list": [
+              "Turistům nabídneme šetrné formy cestovního ruchu - hippoturistika, geoturistika, zahradní turistika, agroturistika, pěší turistika, běžkařská turistika, ekoturistika atd.",
+              "Cykloturistika je perlou Vysočiny. Zajistíme intenzivnější rozvoj cykloturistiky na Vysočině. Vybudujeme síť odpočívadel, vyhlídkových míst, infotabulí, laviček nebo stojanů.",
+              "Aktivně budeme reagovat na trendy v cestovním ruchu. Podpoříme rozvoj interaktivních expozicí a únikových her souvisejících s Krajem Vysočina. Pomůžeme při vzniku ubytování s certifikátem Baby Friendly Certificate (míst přátelských k dětem).",
+              "Materiálně a finančně podpoříme akce nadregionálního a mezinárodního významu v Kraji Vysočina.",
+              "Využijeme vzrůstajícího zájmu o vodáckou a kongresovou turistiku nebo o zážitkovou turistiku.",
+              "Upravíme stávající turistické a naučné trasy. Ve spolupráci s Klubem českých turistů i dalšími organizacemi přispějeme k rozvoji nových turistických tras.",
+              "Zlepšíme marketing cestovního ruchu. Vytvoříme mobilní aplikaci a deskovou hru o Vysočině pro turisty i místní. Zřídíme online informační centrum cestovního ruchu na krajském webu a sociálních sítích.",
+              "Budeme intenzivněji komunikovat v oblastech mezinárodní a přeshraniční spolupráce. Využijeme evropské sítě cyklotras a spolupráce partnerských měst a regionů.",
+              "Zefektivníme činnosti příspěvkové organizace Vysočina Tourism, zvláště pro produkty cestovního ruchu (rozhledny, gastronomie, památky). Rozsah služeb rozšíříme o zážitkovou turistiku, šetrné formy cestovního ruchu a cykloturistiku. Navážeme intenzivní spolupráci mezi destinačními agenturami na Vysočině.",
+              "Projekty na podporu cestovního ruchu nemohou končit kulatým stolem a tištěnou brožurou. Smysluplně a efektivně využijeme projekt Vysočina Filmová. Chceme, aby Filmová kancelář nebyla pouze prostředkem k podpoře turismu, ale aby se stala prostředím pro filmaře a filmový průmysl.",
+              "Upravíme Strategii rozvoje cestovního ruchu v Kraji Vysočina tak, aby odpovídala aktuálním požadavkům."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vysočina bezpečná",
+        "parts": [
+          {
+            "copy": "Vnímáme Vysočinu jako bezpečné místo pro život. Takové místo bychom rádi předali i našim dětem. Našimi prioritami jsou informovanost, prevence místo represe i podpora spolkového života v místních komunitách. Právě dobré sousedské vztahy jsou mnohdy funkčnějším řešením než úřední mechanismy. Zločinu je lépe předcházet, než ho trestat. Zaměříme se na systematickou prevenci kriminality ve všech oblastech života. Nedílnou prioritou bude podpora integrovaného záchranného systému, včetně koordinace s dobrovolnými hasiči a krajskými krizovými centry."
+          },
+          {
+            "headline": "Počítačová kriminalita jako hrozba dnešní společnosti",
+            "list": [
+              "Zvýšenou pozornost budeme věnovat podpoře kvalitních programů a aktivit zabývajících se kybernetickou kriminalitou a šířením dezinformací.",
+              "Podpoříme programy na ochranu zranitelných skupin občanů (děti, senioři) proti kybernetické kriminalitě, kyberšikaně a dalším nástrahám internetu (dezinformace, řetězové e-maily).",
+              "Podpoříme vytvoření podpůrné sítě preventistů na školách. Do prevence zahrneme také rodiče."
+            ]
+          },
+          {
+            "headline": "Prevence místo represe",
+            "list": [
+              "Posílíme koordinaci při práci s lidmi v dluhové pasti včetně osvětových a vzdělávacích aktivit pro širokou veřejnost.",
+              "Promyšleně podpoříme výběr certifikovaných preventivních programů a inovativních moderních postupů pro školy, veřejnost, seniory a další rizikové skupiny obyvatelstva.",
+              "Podpoříme rozumné protidrogové preventivní programy a programy v oblasti prevence závislostí, které jsou založeny na vyškolení a zapojení samotných lidí se zkušeností se závislostmi.",
+              "Více zapojíme Krajskou platformu pro prevenci kriminality. Prosadíme, aby se scházela každý měsíc a věnovala se koncepční práci.",
+              "Podpoříme obce v dosahování nulové tolerance vůči hazardu. Finanční přínos z provozu heren je proti nebezpečnosti vzniku závislosti na herních automatech zanedbatelný.",
+              "Podpoříme vznik spádových komunitních center pro obce s rozšířenou působností.",
+              "Budeme koordinovaně přistupovat k sociálně vyloučeným lokalitám a snažit se předcházet jejich vzniku.",
+              "Zapojíme místní úřady, neziskové organizace, policii, školy, úřad práce a další aktéry tak, abychom mohli efektivně řešit všechny problémy související se sociálním vyloučením.",
+              "Budeme podporovat a realizovat aktivity vedoucí k odstraňování překážek, pro návrat lidí na trh práce.",
+              "Získání stabilního zaměstnání je účinná prevence protizákonné činnosti. Zaměříme se na projektovou spolupráci s Úřadem práce, s neziskovými organizacemi, se zaměstnavateli.",
+              "Sport jako podpora komunity, nejen v menších obcích. Zaměříme se na podporu sportu jako preventivní činnosti. Podpoříme i rozvoj a výstavbu veřejně přístupných hřišť a sportovišť.",
+              "Z pohledu prevence kriminality zrevidujeme stávající programy a podpoříme obce i neziskové organizace v zavádění nových programů."
+            ]
+          },
+          {
+            "headline": "Bezpečnost v 21. století",
+            "list": [
+              "Bezpečnost má mnoho podob – energetickou, internetovou, silniční, protipožární. Budeme dbát o ochranu zdraví a života našich obyvatel, chránit majetek proti nečekaným událostem a živelným pohromám, dbát o informační i kybernetickou bezpečnost nebo bojovat proti extremismu.",
+              "Zaměříme se na systematické vzdělávání v oblasti používání kritického myšlení, abychom přispěli k odolnosti našich obyvatel vůči dezinformacím."
+            ]
+          },
+          {
+            "headline": "Integrovaný záchranný systém (IZS)",
+            "list": [
+              "Zaměříme se na transparentní financování záchranných složek a jejich personální stabilizaci.",
+              "Zmapujeme aktuální fungování IZS. Budeme hledat příležitosti pro zlepšení vzájemné spolupráce.",
+              "Aktivně se zapojíme do systému “First responder”, který vzdělává dobrovolníky. Ti díky mobilní aplikaci pomáhají při záchraně životů před příjezdem zdravotnické záchranné služby.",
+              "Poskytneme obcím koordinovanou podporu pro efektivní fungování obecních policií, například sdílením dobré praxe nebo nabídkou sdílení odborností u jednotlivých pracovníků."
+            ]
+          },
+          {
+            "headline": "Pohotovost vždy k dispozici 24/7",
+            "list": [
+              "Zavedeme proplácení pohotovostí psychosociálních pracovníků zdravotnické záchranné služby, kteří pomáhají lidem po prožití psychického otřesu při mimořádných událostech."
+            ]
+          },
+          {
+            "headline": "Spolupráce záchranné služby s krajskými krizovými centry",
+            "list": [
+              "Podpoříme spolupráci zdravotnické záchranné služby s krizovým centrem. Díky tomu dojde ke zlepšení systému v akutních stresových situacích.",
+              "V současnosti není krizové centrum vybaveno k výjezdům na místa mimořádných událostí. Zajistíme financování na akutní výjezdové služby krizového centra. Podpoříme i společná školení a propojování zaměstnanců."
+            ]
+          },
+          {
+            "headline": "Dobrovolní hasiči",
+            "list": [
+              "Zvýšenou pozornost budeme věnovat dobrovolným hasičským sborům, plnících v obcích nejen funkci protipožární ochrany, ale i prvku komunitního a společenského života.",
+              "Zaměříme se na možnosti finanční, materiální i metodické podpory, která bude vycházet z průzkumu jejich konkrétních potřeb v jednotlivých místech."
+            ]
+          },
+          {
+            "headline": "Stop azbestu",
+            "list": [
+              "Chceme prostředí bez azbestu. Ve veřejných prostorech je stále mnoho azbestu, který ohrožuje naše zdraví. Zmapujeme situaci v Kraji Vysočina a navrhneme nápravná opatření."
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
