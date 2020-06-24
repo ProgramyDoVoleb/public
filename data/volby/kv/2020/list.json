@@ -1811,7 +1811,12 @@
 					"support": [716,1128,119],
 					"leader":{
 						"name":"Filip Ušák",
-						"photo":"filip-usak.jpg"
+						"photo":"filip-usak.jpg",
+						"links":[
+							"https://www.starostove-nezavisli.cz/volby/krajske-volby-2020/usak-filip",
+							"https://www.facebook.com/Usak.Filip/",
+							"https://twitter.com/UsakFilip"
+						]
 					},
 					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
 					"data":"ulk/166",
@@ -2268,6 +2273,21 @@
 						"https://www.facebook.com/spdliberecky/"
 					],
 					"data": "lbk/1114"
+				},
+				{
+					"reg": 771,
+					"name": "Změna pro lidi a pro krajinu",
+					"leader": {
+						"name": "Jan Korytář"
+					},
+					"list": [
+						"Halina Doležalová", "Jiří Římánek", "Jana Jetmarová", "Jindřich Gubiš", "Karolína Hrbková", "Jan Červený", "Pavla Haidlová", "Ondřej Kači", "Pavlína Ištoková", "Václav Smrkovský", "Radka Slížová"
+					],
+					"links": [
+						"https://zmenaprolidiaprokrajinu.cz/",
+						"https://www.facebook.com/ZmenaproLK/",
+						"https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
+					]
 				}
 			]
 		},
@@ -3168,7 +3188,8 @@
 						"Josef Kořínek",
 						"Marta Kozdas",
 						"Jaroslav Vysoký",
-						"Marek Křejpský"
+						"Marek Křejpský",
+						"Radka Langhammerová", "Veronika Nguyenová", "Tomáš Bouda", "Marcel Dzurňák", "Tomáš Blažek", "Zuzana Titzová", "Tomáš Ryška", "Petr Šimeček", "Martin Tomek", "René Mayer", "Richard Pospíchal", "Roman Kubát", "Barbora Pokorná", "Jaroslava Šmídková", "Dominik Hána", "Ondřej Holub", "Petr Holeček", "Jan Sztacho", "Vojtěch Prchal", "Michal Šalomoun", "Jan Pošvář"
 					],
 					"data":"vys/720"
 				},
@@ -3438,7 +3459,10 @@
 					"reg":1114,
 					"leader":{
 						"name":"Karel Fink",
-						"reg":1114
+						"reg":1114,
+						"links":[
+							"https://www.facebook.com/KarelFinkSPD/"
+						]
 					},
 					"list":[
 						"Radek Koten",
@@ -3448,14 +3472,20 @@
 				{
 					"name":"Pro TOP Vysočinu",
 					"coalition":[
-						721,
+						721,  
 						40,
 						55
 					],
 					"leader":{
 						"name":"Zdeněk Dvořák",
-						"reg":721
-					}
+						"reg":721,
+						"links": [
+							"https://www.facebook.com/zdenecekd"	
+						]
+					},
+					"list":[
+						"Lenka Šimo"	
+					]
 				}
 			]
 		},
@@ -3632,6 +3662,14 @@
 				},
 				{
 					"reg":768,
+					"leader": {
+						"name": "Bohumil Šimek",
+						"reg": 99,
+						"links": [
+							"http://www.bohumilsimek.cz/",
+							"https://www.facebook.com/bohsimek/"
+						]
+					},
 					"links":[
 						{
 							"url":"https://www.anobudelip.cz/jihomoravsky-kraj"
