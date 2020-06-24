@@ -284,6 +284,22 @@
 		{
 			"name":[
 				"",
+				"Tomáš",
+				"Fiala",
+				""
+			],
+			"reg":12,
+			"links":[
+
+			],
+			"support":[
+				53
+			],
+			"color":"#194392"
+		},
+		{
+			"name":[
+				"",
 				"Milan",
 				"Štěch",
 				""
@@ -691,6 +707,8 @@
 			],
 			"reg":30,
 			"links":[
+				"http://dienstbier.cz/",
+				"https://www.facebook.com/dienstbier.jiri/",
 				"https://twitter.com/jiridienstbier"
 			],
 			"support":[
@@ -755,6 +773,25 @@
 		{
 			"name":[
 				"",
+				"Petr",
+				"Bendl",
+				""
+			],
+			"reg":30,
+			"links":[
+				"https://twitter.com/bendl_petr",
+				"https://www.facebook.com/bendlpetr/"
+			],
+			"support":[
+				53
+			],
+			"member": 53,
+			"color":"#194392",
+			"photo": "petr-bendl.jpg"
+		},
+		{
+			"name":[
+				"",
 				"Zbyněk",
 				"Linhart",
 				""
@@ -765,7 +802,7 @@
 				"https://twitter.com/zbynlinhart"
 			],
 			"support":[
-				166
+				166, 53
 			],
 			"work":"senátor",
 			"member":99,
@@ -1070,6 +1107,22 @@
 		{
 			"name":[
 				"",
+				"Michal",
+				"Zapletal",
+				""
+			],
+			"reg":42,
+			"links":[
+
+			],
+			"support":[
+				53
+			],
+			"color":"#194392"
+		},
+		{
+			"name":[
+				"",
 				"Pavel",
 				"Vacek",
 				""
@@ -1193,6 +1246,22 @@
 		{
 			"name":[
 				"",
+				"Pavel",
+				"Staněk",
+				""
+			],
+			"reg":45,
+			"links":[
+
+			],
+			"support":[
+				53
+			],
+			"color":"#194392"
+		},
+		{
+			"name":[
+				"",
 				"Miroslav",
 				"Antl",
 				""
@@ -1279,6 +1348,7 @@
 			],
 			"reg":51,
 			"links":[
+				"https://www.facebook.com/MichalSmarda.NMNM/",
 				"https://twitter.com/MichalSmarda"
 			],
 			"support":[
@@ -1303,7 +1373,7 @@
 
 			],
 			"support":[
-				1
+				1, 53
 			],
 			"color":"#fec92f"
 		},
@@ -1553,7 +1623,7 @@
 
 			],
 			"support":[
-				721
+				721, 53
 			],
 			"nominee":53,
 			"color":"#531a92"
@@ -1725,6 +1795,16 @@
 		{
 			"name":[
 				"",
+				"Antonín",
+				"Prachař",
+				""
+			],
+			"reg":63,
+			"links": []
+		},
+		{
+			"name":[
+				"",
 				"Jaroslav",
 				"Vomáčka",
 				""
@@ -1816,6 +1896,22 @@
 		{
 			"name":[
 				"",
+				"Radek",
+				"Vincour",
+				""
+			],
+			"reg":66,
+			"links":[
+
+			],
+			"support":[
+				53
+			],
+			"color":"#194392"
+		},
+		{
+			"name":[
+				"",
 				"Jiří",
 				"Carbol",
 				""
@@ -1825,7 +1921,7 @@
 
 			],
 			"support":[
-				1
+				1, 53
 			],
 			"work":"senátor",
 			"member":1,
@@ -2076,6 +2172,22 @@
 		{
 			"name":[
 				"",
+				"Ondřej",
+				"Šimetka",
+				""
+			],
+			"reg":72,
+			"links":[
+
+			],
+			"support":[
+				53
+			],
+			"color":"#194392"
+		},
+		{
+			"name":[
+				"",
 				"Radim",
 				"Kravčík",
 				""
@@ -2235,7 +2347,7 @@
 
 			],
 			"support":[
-				1187
+				1187, 53
 			],
 			"color":"#460a0d",
       "photo": "tomas-golan.jpg"
