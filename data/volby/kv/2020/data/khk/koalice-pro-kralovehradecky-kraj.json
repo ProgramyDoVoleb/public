@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "name": "Pavel Bělobrádek",
+      "reg": 1,
+      "links": [
+        {
+          "url": "http://www.pavelbelobradek.cz"
+        },
+        {
+          "url": "https://www.facebook.com/Belobradek"
+        },
+        {
+          "url": "https://twitter.com/belobradek"
+        },
+        {
+          "url": "https://www.instagram.com/pbelobradek"
+        }
+      ]
+    },
+    {
+      "name": "Martin Machů",
+      "reg": 1,
+      "links": []
+    },
+    {
+      "name": "Miroslav Půža",
+      "reg": 113,
+      "links": []
+    }
+  ]
+}
