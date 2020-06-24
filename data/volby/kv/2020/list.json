@@ -2284,7 +2284,9 @@
 					"reg": 771,
 					"name": "Změna pro lidi a pro krajinu",
 					"leader": {
-						"name": "Jan Korytář"
+						"name": "Jan Korytář",
+						"reg": 771,
+			      "photo": "jan-korytar.jpg"
 					},
 					"list": [
 						"Halina Doležalová", "Jiří Římánek", "Jana Jetmarová", "Jindřich Gubiš", "Karolína Hrbková", "Jan Červený", "Pavla Haidlová", "Ondřej Kači", "Pavlína Ištoková", "Václav Smrkovský", "Radka Slížová"
@@ -2293,7 +2295,8 @@
 						"https://zmenaprolidiaprokrajinu.cz/",
 						"https://www.facebook.com/ZmenaproLK/",
 						"https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
-					]
+					],
+					"data": "lbk/771"
 				}
 			]
 		},
@@ -3478,7 +3481,7 @@
 				{
 					"name":"Pro TOP Vysočinu",
 					"coalition":[
-						721,  
+						721,
 						40,
 						55
 					],
@@ -3486,11 +3489,11 @@
 						"name":"Zdeněk Dvořák",
 						"reg":721,
 						"links": [
-							"https://www.facebook.com/zdenecekd"	
+							"https://www.facebook.com/zdenecekd"
 						]
 					},
 					"list":[
-						"Lenka Šimo"	
+						"Lenka Šimo"
 					]
 				}
 			]

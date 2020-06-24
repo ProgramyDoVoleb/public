@@ -85,7 +85,7 @@ election.list.forEach(region => {
 
     if (party.list) {
       party.list.forEach((person, index) => {
-        if (index > 3) return;
+        if (index > 3 || data.people.length === 5) return;
 
         var name = person.name || person;
         var reg = person.reg || party.reg;
