@@ -1359,37 +1359,31 @@
 				},
 				{
 					"reg":1129,
+					"name": "SNK1 - Starostové našeho kraje",
 					"logo":"obecne/strany/loga/1129-snk1.jpg",
 					"list":[
 						"Markéta Sinkulová Moravcová",
 						"Jitka Pokorná",
-						"Eduard Frisch"
+						"Eduard Frisch",
+						"Vít Hromádko",
+						"Ladislav Ludvík"
 					]
 				},
 				{
 					"reg":769,
 					"name":"STRANA KONZERVATIVNÍ PRAVICE S PODPOROU NEZÁVISLÝCH ODBORNÍKŮ",
 					"links":[
-						{
-							"url":"https://www.skp-rn.cz"
-						},
-						{
-							"url":"https://www.facebook.com/radnaroda2017"
-						}
+						"https://www.skp-rn.cz",
+						"https://www.facebook.com/radnaroda2017",
+						"https://instagram.com/SKP.RN"
 					],
 					"leader":{
 						"name":"Josef Zickler",
 						"reg":769,
 						"links":[
-							{
-								"url":"https://www.facebook.com/profile.php?id=100010051891861"
-							},
-							{
-								"url":"https://twitter.com/JosefZickler"
-							},
-							{
-								"url":"https://www.instagram.com/josefzickler"
-							}
+							"https://www.facebook.com/profile.php?id=100010051891861",
+							"https://twitter.com/JosefZickler",
+							"https://www.instagram.com/josefzickler"
 						],
 						"photo":"josef-zickler.jpg"
 					},
