@@ -850,7 +850,7 @@
 						}
 					],
           "list": [
-            {"name":"Ilona Mauritzová","reg":53},{"name":"Rudolf Salvetr","reg":53},{"name":"Radka Trylčová","reg":53},{"name":"Richard Pikner","reg":721},{"name":"Marcela Krejsová","reg":53},{"name":"Jan Šašek","reg":53},{"name":"Eva Trůková","reg":53},{"name":"Marek Ženíšek","reg":721},{"name":"Michal Šašek","reg":53},{"name":"Pavel Karpíšek","reg":53},{"name":"Vladislav Vilímec","reg":53},{"name":"Karel Naxera","reg":721},{"name":"Luboš Hlačík","reg":53},{"name":"Zdeněk Mádr","reg":53},{"name":"Václav Chroust","reg":53},{"name":"Martin Baxa","reg":53},{"name":"Josef Holeček","reg":53},{"name":"Jiří Dort","reg":721},{"name":"Marcela Sobotková","reg":53},{"name":"Lukáš Janko","reg":53},{"name":"Jan Poduška","reg":53},{"name":"Helena Řežábová","reg":53},{"name":"Ilona Jehličková","reg":721},{"name":"Michal Šnebergr","reg":53},{"name":"Miroslav Dusil","reg":53},{"name":"Miroslav Jaroš","reg":53},{"name":"Pavel Faschingbauer","reg":53},{"name":"Miroslav Pelán","reg":721},{"name":"Jiří Šneberger","reg":53},{"name":"Libor Trávníček","reg":53},{"name":"Petr Fornouz","reg":53},{"name":"Lukáš Kopecký","reg":53},{"name":"Jaroslav Mráz","reg":53},{"name":"Tomáš Rousek","reg":721},{"name":"Jiří Davídek","reg":99},{"name":"Petr Baloun","reg":53},{"name":"Richard Brümmer","reg":53},{"name":"Ondřej Kropík","reg":721},{"name":"Jaromír Zeithaml","reg":99},{"name":"Petr Mottl","reg":53},{"name":"Václav Netušil","reg":53},{"name":"Michal Vozobule","reg":721},{"name":"Eva Nosková","reg":53},{"name":"Roman Sviták","reg":53},{"name":"Roman Soukup","reg":721},{"name":"Veronika Jilichová Nová","reg":53},{"name":"Alena Burianová","reg":99},{"name":"Miroslav Kroc","reg":99},{"name":"Martin Kopecký","reg":99},{"name":"Miroslav Hlaváč","reg":721}
+						{"name":"Rudolf Salvetr","reg":53},{"name":"Radka Trylčová","reg":53},{"name":"Richard Pikner","reg":721},{"name":"Marcela Krejsová","reg":53},{"name":"Jan Šašek","reg":53},{"name":"Eva Trůková","reg":53},{"name":"Marek Ženíšek","reg":721},{"name":"Michal Šašek","reg":53},{"name":"Pavel Karpíšek","reg":53},{"name":"Vladislav Vilímec","reg":53},{"name":"Karel Naxera","reg":721},{"name":"Luboš Hlačík","reg":53},{"name":"Zdeněk Mádr","reg":53},{"name":"Václav Chroust","reg":53},{"name":"Martin Baxa","reg":53},{"name":"Josef Holeček","reg":53},{"name":"Jiří Dort","reg":721},{"name":"Marcela Sobotková","reg":53},{"name":"Lukáš Janko","reg":53},{"name":"Jan Poduška","reg":53},{"name":"Helena Řežábová","reg":53},{"name":"Ilona Jehličková","reg":721},{"name":"Michal Šnebergr","reg":53},{"name":"Miroslav Dusil","reg":53},{"name":"Miroslav Jaroš","reg":53},{"name":"Pavel Faschingbauer","reg":53},{"name":"Miroslav Pelán","reg":721},{"name":"Jiří Šneberger","reg":53},{"name":"Libor Trávníček","reg":53},{"name":"Petr Fornouz","reg":53},{"name":"Lukáš Kopecký","reg":53},{"name":"Jaroslav Mráz","reg":53},{"name":"Tomáš Rousek","reg":721},{"name":"Jiří Davídek","reg":99},{"name":"Petr Baloun","reg":53},{"name":"Richard Brümmer","reg":53},{"name":"Ondřej Kropík","reg":721},{"name":"Jaromír Zeithaml","reg":99},{"name":"Petr Mottl","reg":53},{"name":"Václav Netušil","reg":53},{"name":"Michal Vozobule","reg":721},{"name":"Eva Nosková","reg":53},{"name":"Roman Sviták","reg":53},{"name":"Roman Soukup","reg":721},{"name":"Veronika Jilichová Nová","reg":53},{"name":"Alena Burianová","reg":99},{"name":"Miroslav Kroc","reg":99},{"name":"Martin Kopecký","reg":99},{"name":"Miroslav Hlaváč","reg":721}
           ]
 				},
 				{
@@ -1410,7 +1410,10 @@
 							"url":"https://www.facebook.com/hnutikoa.cz"
 						}
 					],
-					"data":"kvk/166"
+					"data":"kvk/166",
+					"list": [
+						{"name": "Petr Zahradníček", "reg": 721}
+					]
 				},
 				{
 					"reg":715
