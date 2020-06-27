@@ -342,7 +342,16 @@
 					],
 					"leader":{
 						"name":"Jan Jakob",
-						"reg":721
+						"reg":721,
+						"photo": "jan-jakob.jpg",
+						"links": [
+							"http://www.janjakob.cz/",
+							"https://www.top09.cz/volby/2020-krajska-zastupitelstva/jan-jakob-27351.html",
+							"https://www.facebook.com/starostaJakob/",
+							"https://www.facebook.com/jan.jakob.54",
+							"https://twitter.com/Jan_Jakob",
+							"https://www.instagram.com/honza_jakob/"
+						]
 					},
 					"links":[
 						{
@@ -456,6 +465,7 @@
 					"list":[
 						"Robert Huneš",
 						"Šimon Heller",
+						{"name": "Pavel Klíma", "reg": 721},
 						"Jan Bartošek",
 						"Michaela Kudláčková",
 						"Petr Hladík",
@@ -852,7 +862,8 @@
 					],
           "list": [
 						{"name":"Rudolf Salvetr","reg":53},{"name":"Radka Trylčová","reg":53},{"name":"Richard Pikner","reg":721},{"name":"Marcela Krejsová","reg":53},{"name":"Jan Šašek","reg":53},{"name":"Eva Trůková","reg":53},{"name":"Marek Ženíšek","reg":721},{"name":"Michal Šašek","reg":53},{"name":"Pavel Karpíšek","reg":53},{"name":"Vladislav Vilímec","reg":53},{"name":"Karel Naxera","reg":721},{"name":"Luboš Hlačík","reg":53},{"name":"Zdeněk Mádr","reg":53},{"name":"Václav Chroust","reg":53},{"name":"Martin Baxa","reg":53},{"name":"Josef Holeček","reg":53},{"name":"Jiří Dort","reg":721},{"name":"Marcela Sobotková","reg":53},{"name":"Lukáš Janko","reg":53},{"name":"Jan Poduška","reg":53},{"name":"Helena Řežábová","reg":53},{"name":"Ilona Jehličková","reg":721},{"name":"Michal Šnebergr","reg":53},{"name":"Miroslav Dusil","reg":53},{"name":"Miroslav Jaroš","reg":53},{"name":"Pavel Faschingbauer","reg":53},{"name":"Miroslav Pelán","reg":721},{"name":"Jiří Šneberger","reg":53},{"name":"Libor Trávníček","reg":53},{"name":"Petr Fornouz","reg":53},{"name":"Lukáš Kopecký","reg":53},{"name":"Jaroslav Mráz","reg":53},{"name":"Tomáš Rousek","reg":721},{"name":"Jiří Davídek","reg":99},{"name":"Petr Baloun","reg":53},{"name":"Richard Brümmer","reg":53},{"name":"Ondřej Kropík","reg":721},{"name":"Jaromír Zeithaml","reg":99},{"name":"Petr Mottl","reg":53},{"name":"Václav Netušil","reg":53},{"name":"Michal Vozobule","reg":721},{"name":"Eva Nosková","reg":53},{"name":"Roman Sviták","reg":53},{"name":"Roman Soukup","reg":721},{"name":"Veronika Jilichová Nová","reg":53},{"name":"Alena Burianová","reg":99},{"name":"Miroslav Kroc","reg":99},{"name":"Martin Kopecký","reg":99},{"name":"Miroslav Hlaváč","reg":721}
-          ]
+          ],
+					"data": "plk/obcanska-demokraticka-strana-s-podporou-top-09-a-nezavislych-starostu"
 				},
 				{
 					"leader":{
@@ -2147,15 +2158,9 @@
 						"name":"Jiří Klápště",
 						"reg":721,
 						"links":[
-							{
-								"url":"https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri"
-							},
-							{
-								"url":"https://www.facebook.com/jiri.klapste"
-							},
-							{
-								"url":"https://www.instagram.com/jiriklapste"
-							}
+							"https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri",
+							"https://www.facebook.com/jiri.klapste",
+							"https://www.instagram.com/jiriklapste"
 						],
 						"photo":"jiri-klapste.jpg"
 					},
@@ -2593,15 +2598,9 @@
 						"name":"Aleš Cabicar",
 						"reg":721,
 						"links":[
-							{
-								"url":"https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html"
-							},
-							{
-								"url":"https://www.facebook.com/ales.cabicar"
-							},
-							{
-								"url":"https://twitter.com/AlesCabicar"
-							}
+							"https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html",
+							"https://www.facebook.com/ales.cabicar",
+							"https://twitter.com/AlesCabicar"
 						],
 						"photo":"ales-cabicar.jpg"
 					},
@@ -3025,18 +3024,10 @@
 					],
 					"links":[
             "https://www.ods.cz/region.pardubicky/volby2020/krajske",
-						{
-							"url":"https://www.top09.cz/regiony/pardubicky-kraj"
-						},
-						{
-							"url":"https://www.facebook.com/ods.pardubickykraj"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09.Pardubicky.kraj"
-						},
-						{
-							"url":"https://twitter.com/odsregionpk"
-						}
+						"https://www.top09.cz/regiony/pardubicky-kraj",
+						"https://www.facebook.com/ods.pardubickykraj",
+						"https://www.facebook.com/TOP09.Pardubicky.kraj",
+						"https://twitter.com/odsregionpk"
 					]
 				},
 				{
@@ -3540,7 +3531,9 @@
 					"leader":{
 						"name":"Zdeněk Dvořák",
 						"reg":721,
+			      "photo": "zdenek-dvorak.jpg",
 						"links": [
+							"https://www.top09.cz/volby/2020-krajska-zastupitelstva/zdenek-dvorak-27359.html",
 							"https://www.facebook.com/zdenecekd"
 						]
 					},
@@ -3789,19 +3782,12 @@
 					"leader":{
 						"name":"Jan Vitula",
 						"reg":721,
+						"photo": "jan-vitula.jpg",
 						"links":[
-							{
-								"url":"https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237"
-							},
-							{
-								"url":"https://www.facebook.com/jan.vitula"
-							},
-							{
-								"url":"https://twitter.com/JanVitula"
-							},
-							{
-								"url":"https://www.instagram.com/vitula1"
-							}
+							"https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237",
+							"https://www.facebook.com/jan.vitula",
+							"https://twitter.com/JanVitula",
+							"https://www.instagram.com/vitula1"
 						]
 					},
 					"list":[
@@ -3828,7 +3814,8 @@
 						{
 							"url":"https://www.instagram.com/spolupromoravu"
 						}
-					]
+					],
+					"data": "jmk/spolu-pro-moravu"
 				},
 				{
 					"reg":47,
@@ -4511,7 +4498,8 @@
 					],
 					"list":[
 						{"name":"Zdenka Němečková Crkvenjaš","reg":53},{"name":"Stanislav Folwarczny","reg":53},{"name":"Monika Klapková","reg":721},{"name":"Radek Kaňa","reg":53},{"name":"Vladimír Návrat","reg":53},{"name":"Josef Alexander Matera","reg":53},{"name":"Václav Dobrozemský","reg":53},{"name":"Patrik Schramm","reg":53},{"name":"Zbyněk Gajdacz","reg":53},{"name":"Pavel Tuleja","reg":721},{"name":"Jan Abrahamčík","reg":53},{"name":"Jiří Žák","reg":53},{"name":"Yveta Kovalčíková","reg":53},{"name":"Aleš Linhart","reg":53},{"name":"Dalibor Klimša","reg":53},{"name":"Miroslav Halatin","reg":53},{"name":"Herbert Pavera","reg":721},{"name":"Antonín Illík","reg":53},{"name":"Zbyněk Hudeček","reg":53},{"name":"Marek Veselý","reg":53},{"name":"Radek Šnita","reg":53},{"name":"Vítězslav Šopík","reg":53},{"name":"Jan Koloničný","reg":721},{"name":"Lukáš Kőnig","reg":53},{"name":"Pavel Struminský","reg":53},{"name":"Radana Zapletalová","reg":53},{"name":"Jan Stanjura","reg":53},{"name":"Jan Okoun","reg":53},{"name":"René Brinda","reg":721},{"name":"Vavřinec Pečinka","reg":53},{"name":"Miroslav Kopečný","reg":53},{"name":"Yvona Dluhošová","reg":53},{"name":"Vítězslav Bystroň","reg":53},{"name":"Vladimír Chlebiš","reg":53},{"name":"Petr Psotka","reg":721},{"name":"Milan Kolder","reg":53},{"name":"Pavel Mlýnek","reg":53},{"name":"Hynek Orság","reg":53},{"name":"Martina Loskotová","reg":53},{"name":"Šárka Moravcová","reg":53},{"name":"Slavomír Bača","reg":721},{"name":"Jaromír Šitavanc","reg":53},{"name":"Tadeáš Brída","reg":53},{"name":"Iveta Wilczková","reg":53},{"name":"Jaroslav Klega","reg":53},{"name":"Leoš Lukaštík","reg":53},{"name":"Blahoslav Socha","reg":53},{"name":"Tomáš Velička","reg":721},{"name":"Igor Trávníček","reg":53},{"name":"Robin Lotko","reg":53},{"name":"Jan Fojtík","reg":53},{"name":"Tomáš Peřina","reg":53},{"name":"Gabriela Moravčíková","reg":53},{"name":"Petr Šarman","reg":721},{"name":"Darina Dvořáková","reg":53},{"name":"Jan Karásek","reg":53},{"name":"Petr Hradil","reg":53},{"name":"Oldřich Malota","reg":53},{"name":"David Maryška","reg":53},{"name":"Ladislav Sitko","reg":721},{"name":"Valentina Vaňková","reg":53},{"name":"Adéla Mořkovská","reg":53},{"name":"Marie Walachová","reg":53},{"name":"Roman Strzondala","reg":721},{"name":"Jiří Dolejška","reg":53},{"name":"Roman Tietz","reg":53},{"name":"Werner Bernatík","reg":53},{"name":"Petr Juras","reg":53},{"name":"Tomáš Müller","reg":53},{"name":"Jaroslav Nosál","reg":53},{"name":"Libor Nowak","reg":53},{"name":"Martina Nováková","reg":53},{"name":"Aleš Langer","reg":53},{"name":"Karel Bednařík","reg":53},{"name":"Tomáš Vojtek","reg":53},{"name":"Dalibor Sikora","reg":53},{"name":"Petr Sikora","reg":53},{"name":"Eduard Viznar","reg":53}
-					]
+					],
+					"data": "msk/ods-s-podporou-top-09"
 				},
 				{
 					"reg":47,
