@@ -436,7 +436,11 @@
 					"reg":715
 				},
 				{
-					"reg":1114
+					"reg":1114,
+					"leader": {
+						"name": "René Rozvoral",
+						"reg": 1114
+					}
 				}
 			]
 		},
@@ -1144,7 +1148,11 @@
 					"reg":715
 				},
 				{
-					"reg":1114
+					"reg":1114,
+					"leader": {
+						"name": "Marie Pošarová",
+						"reg": 1114
+					}
 				}
 			]
 		},
@@ -3147,7 +3155,11 @@
 					"data":"pak/166"
 				},
 				{
-					"reg":1114
+					"reg":1114,
+					"leader": {
+						"name": "Tomáš Fadrný",
+						"reg": 1114
+					}
 				}
 			]
 		},
@@ -4644,7 +4656,11 @@
 					"data":"msk/zsn"
 				},
 				{
-					"reg":1114
+					"reg":1114,
+					"leader": {
+						"name": "Pavel Staněk",
+						"reg": 1114
+					}
 				}
 			]
 		}
