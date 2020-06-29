@@ -439,7 +439,10 @@
 					"reg":1114,
 					"leader": {
 						"name": "Radek Rozvoral",
-						"reg": 1114
+						"reg": 1114,
+						"links": [
+							"https://www.facebook.com/Radek-Rozvoral-338729052930562/"
+						]
 					}
 				}
 			]
@@ -1515,7 +1518,10 @@
 					"leader":{
 						"name":"Karla Maříková",
 						"reg":1114,
-						"photo": "karla-marikova.jpg"
+						"photo": "karla-marikova.jpg",
+						"links": [
+							"https://www.facebook.com/Karla-Ma%C5%99%C3%ADkov%C3%A1-614434815422565/"
+						]
 					},
 					"list": [
 						"Pavel Motešický",
@@ -3906,8 +3912,14 @@
 					"reg":1114,
 					"leader":{
 						"name":"Jan Hrnčíř",
-						"reg":1114
-					}
+						"reg":1114,
+						"links": [
+							"https://www.facebook.com/hrncirjan/"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/SPDjiznimorava/"
+					]
 				}
 			]
 		},
