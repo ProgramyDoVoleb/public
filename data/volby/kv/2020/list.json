@@ -2070,19 +2070,12 @@
 					"leader":{
 						"name":"Dan Ramzer",
 						"reg":53,
+						"photo": "dan-ramzer.jpg",
 						"links":[
-							{
-								"url":"https://www.ods.cz/region.liberecky/profil/5178-dan-ramzer"
-							},
-							{
-								"url":"https://www.facebook.com/ramzer.cz"
-							},
-							{
-								"url":"https://twitter.com/danramzer"
-							},
-							{
-								"url":"https://www.instagram.com/danramzer"
-							}
+							"https://www.ods.cz/region.liberecky/profil/5178-dan-ramzer",
+							"https://www.facebook.com/ramzer.cz",
+							"https://twitter.com/danramzer",
+							"https://www.instagram.com/danramzer"
 						]
 					},
 					"links":[
@@ -2142,7 +2135,8 @@
             "Tomáš Ploc",
             "Jiří Stodůlka",
             "Irena Pekařová"
-					]
+					],
+					"data": "lbk/53"
 				},
 				{
 					"coalition":[
@@ -2446,6 +2440,7 @@
 					"leader":{
 						"name":"Martin Červíček",
 						"reg":53,
+			      "photo": "martin-cervicek.jpg",
 						"links":[
 							{
 								"url":"http://www.martincervicek.cz"
