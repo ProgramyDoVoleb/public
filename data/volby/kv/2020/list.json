@@ -3004,6 +3004,7 @@
 					],
 					"leader":{
 						"name":"Michal Kortyš",
+						"photo": "michal-kortys.jpg",
 						"reg":53,
 						"links":[
 							{
@@ -3248,6 +3249,7 @@
 					],
 					"leader":{
 						"name":"Vítězslav Schrek",
+			      "photo": "vitezslav-schrek.jpg",
 						"reg":53,
 						"links":[
 							{
@@ -3558,18 +3560,10 @@
 						"name":"Jiří Nantl",
 						"reg":53,
 						"links":[
-							{
-								"url":"https://www.ods.cz/profil/20377-jiri-nantl"
-							},
-							{
-								"url":"https://www.facebook.com/jirinantl"
-							},
-							{
-								"url":"https://twitter.com/jiri_nantl"
-							},
-							{
-								"url":"https://www.instagram.com/jiri.nantl"
-							}
+							"https://www.ods.cz/profil/20377-jiri-nantl",
+							"https://www.facebook.com/jirinantl",
+							"https://twitter.com/jiri_nantl",
+							"https://www.instagram.com/jiri.nantl"
 						]
 					},
 					"coalition":[
