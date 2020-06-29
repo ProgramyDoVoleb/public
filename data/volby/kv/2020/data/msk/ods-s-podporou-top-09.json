@@ -3,27 +3,26 @@
     {
       "name": "Jakub Unucka",
       "reg": 53,
-      "links": [
-        {
-          "url": "https://www.facebook.com/unucka.jakub"
-        },
-        {
-          "url": "https://twitter.com/jakubunucka"
-        },
-        {
-          "url": "https://www.instagram.com/jakubunucka"
-        }
-      ]
+      "photo": "jakub-unucka.jpg",
+      "about": "Narodil se v roce 1969 v Ostravě, kde žil až do svého přestěhování do blízkých Klimkovic v roce 2003. Přestože studoval strojní inženýrství, je jeho profesní kariéra spojena s výpočetní technikou. Po prvotním působení ve firmě AutoCont pracuje od roku 1998 v ostravské firmě GABEN, která se specializuje na automatickou identifikaci. Na VŠB-TUO je zakladatelem mezinárodní výzkumné laboratoře RFID technologií a na stejné univerzitě po dokončení ekonomických studií MBA pokračuje v doktorském studiu automatické identifikace. Členem ODS je od roku 2005. V letech 2010–2017 byl místostarostou města Klimkovic. Zde působí rovněž jako předseda občanského sdružení Čisté Klimkovice. Od roku 2016 je náměstkem hejtmana pro dopravu a chytrý region."
     },
     {
       "name": "Zdenka Němečková Crkvenjaš",
       "reg": 53,
-      "links": []
+      "links": [
+        "https://www.ods.cz/region.moravskoslezsky/volby2020/krajske/kandidati/34927-zdenka-nemeckova-crkvenjas"
+      ],
+      "photo": "zdenka-nemeckova-crkvenjas.jpg"
     },
     {
       "name": "Stanislav Folwarczny",
       "reg": 53,
-      "links": []
+      "links": [
+        "https://www.ods.cz/region.moravskoslezsky/volby2020/krajske/kandidati/1416-stanislav-folwarczny",
+        "https://www.facebook.com/stanislav.folwarczny"
+      ],
+      "photo": "stanislav-folwarczny.jpg",
+      "about": "Narozen v roce 1962, původem a také posláním pedagogog, učitel, ředitel školy a místostarosta města. Mými prioritami byly a jsou podpora dětí a mládeže, zejména škol a sportovních klubů. Jako místostarosta jsem přispěl k rozvoji škol, sportovišť  a také k rozvoji sportovní spolkové činnosti. Český Těšín má rozvojový potenciál a je důležité v dalším volebním období realizovat připravené projekty - centrální dopravní terminál, bydlení pro seniory, individuální bytovou výstavbu a modernizaci ulic Nádražní a Hlavní."
     },
     {
       "name": "Monika Klapková",
@@ -38,7 +37,13 @@
     {
       "name": "Radek Kaňa",
       "reg": 53,
-      "links": []
+      "links": [
+        "https://www.ods.cz/region.moravskoslezsky/volby2020/krajske/kandidati/1262-radek-kana",
+        "https://www.facebook.com/radek.kana.7"
+      ],
+      "photo": "radek-kana.jpg",
+      "about": "Narodil jsem se v roce 1978 v Opavě, část svého dětství jsem prožil v Havířově, od roku 1988 žiji v Šilheřovicích. Při studiích vysoké školy jsem působil jako delegát cestovní kanceláře z Ostravy-Vítkovic v Chorvatsku a Černé Hoře. Po vystudování přírodovědecké fakulty Ostravské univerzity jsem vyrazil na zkušenou do Londýna. Z původně plánovaných šesti měsíců se stalo krásných šest let v tomto „pupku“ světového dění. Pracoval jsem jako středoškolský učitel matematiky a fotbalový trenér na střední sportovní škole. Navíc, člověk procestoval půlku světa, poznal odlišné kultury, lidové obyčeje a zvyklosti. Po návratu ze zahraničí v roce 2010 jsem se stal místostarostou, k tomu jsem vyučoval i na střední škole v naší obci a působil jako fotbalový trenér u mládežnických celků v Baníku Ostrava  a později i v SFC Opava. V tomto volebním období jsem byl zvolen uvolněným starostou. Těší mě, že své poznatky ze zahraničí mohu plně využívat jako člen zahraničního výboru Moravskoslezského kraje a poradní skupiny Vzdělanější a zaměstnanější region. Velmi si vážím zvolení do orgánu rady Euroregionu Silesia, jehož náplní je podpora a realizace česko-polské spolupráce v příhraničním regionu Slezska a Moravy Členem ODS jsem od roku 2009, aktuálně předsedám opavské oblasti.",
+      "quote": "Jsem připraven být silným hlasem v zastupitelstvu Moravskoslezského kraje a přiložit ruku k dílu tak, aby se vytvořili co nejlepší podmínky pro spokojený život občanů tohoto v posledních letech „spícího“ kraje.  "
     }
   ]
 }
