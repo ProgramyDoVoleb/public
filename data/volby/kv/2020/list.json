@@ -514,16 +514,12 @@
 					"leader":{
 						"name":"Martin Kuba",
 						"reg":53,
+						"photo": "martin-kuba.jpg",
 						"links":[
-							{
-								"url":"https://www.ods.cz/region.jihocesky/profil/martin-kuba"
-							},
-							{
-								"url":"https://www.facebook.com/KubaODS"
-							},
-							{
-								"url":"https://twitter.com/Kuba_Martin"
-							}
+							"https://www.martinkuba.cz/",
+							"https://www.ods.cz/region.jihocesky/profil/martin-kuba",
+							"https://www.facebook.com/KubaODS",
+							"https://twitter.com/Kuba_Martin"
 						]
 					},
 					"list":[
@@ -531,7 +527,8 @@
 					],
 					"links":[
             "https://www.ods.cz/region.jihocesky/volby2020/krajske"
-					]
+					],
+					"data": "jck/53"
 				},
 				{
 					"reg":7,
@@ -843,35 +840,20 @@
 					"name":"Občanská demokratická strana s podporou TOP 09 a nezávislých starostů",
 					"leader":{
 						"name":"Ilona Mauritzová",
+			      "photo": "ilona-mauritzova.jpg",
 						"reg":53,
 						"links":[
-							{
-								"url":"https://www.ods.cz/region.plzensky/profil/ilona-mauritzova"
-							},
-							{
-								"url":"https://www.facebook.com/ilonamauritzova"
-							}
+							"https://www.ods.cz/region.plzensky/profil/ilona-mauritzova",
+							"https://www.facebook.com/ilonamauritzova"
 						]
 					},
 					"links":[
             "https://www.ods.cz/region.plzensky/volby2020/krajske",
-						{
-							"url":"https://www.facebook.com/regionplzensky"
-						},
-						{
-							"url":"https://www.top09.cz/regiony/plzensky-kraj",
-							"label":"TOP 09 Plzeňský kraj"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09.Plzensky.kraj",
-							"label":"TOP 09 Plzeňský kraj"
-						},
-						{
-							"url":"https://twitter.com/top09zapad"
-						},
-						{
-							"url":"https://www.instagram.com/top09plzen"
-						}
+						"https://www.facebook.com/regionplzensky",
+						"https://www.top09.cz/regiony/plzensky-kraj",
+						"https://www.facebook.com/TOP09.Plzensky.kraj",
+						"https://twitter.com/top09zapad",
+						"https://www.instagram.com/top09plzen"
 					],
           "list": [
 						{"name":"Rudolf Salvetr","reg":53},{"name":"Radka Trylčová","reg":53},{"name":"Richard Pikner","reg":721},{"name":"Marcela Krejsová","reg":53},{"name":"Jan Šašek","reg":53},{"name":"Eva Trůková","reg":53},{"name":"Marek Ženíšek","reg":721},{"name":"Michal Šašek","reg":53},{"name":"Pavel Karpíšek","reg":53},{"name":"Vladislav Vilímec","reg":53},{"name":"Karel Naxera","reg":721},{"name":"Luboš Hlačík","reg":53},{"name":"Zdeněk Mádr","reg":53},{"name":"Václav Chroust","reg":53},{"name":"Martin Baxa","reg":53},{"name":"Josef Holeček","reg":53},{"name":"Jiří Dort","reg":721},{"name":"Marcela Sobotková","reg":53},{"name":"Lukáš Janko","reg":53},{"name":"Jan Poduška","reg":53},{"name":"Helena Řežábová","reg":53},{"name":"Ilona Jehličková","reg":721},{"name":"Michal Šnebergr","reg":53},{"name":"Miroslav Dusil","reg":53},{"name":"Miroslav Jaroš","reg":53},{"name":"Pavel Faschingbauer","reg":53},{"name":"Miroslav Pelán","reg":721},{"name":"Jiří Šneberger","reg":53},{"name":"Libor Trávníček","reg":53},{"name":"Petr Fornouz","reg":53},{"name":"Lukáš Kopecký","reg":53},{"name":"Jaroslav Mráz","reg":53},{"name":"Tomáš Rousek","reg":721},{"name":"Jiří Davídek","reg":99},{"name":"Petr Baloun","reg":53},{"name":"Richard Brümmer","reg":53},{"name":"Ondřej Kropík","reg":721},{"name":"Jaromír Zeithaml","reg":99},{"name":"Petr Mottl","reg":53},{"name":"Václav Netušil","reg":53},{"name":"Michal Vozobule","reg":721},{"name":"Eva Nosková","reg":53},{"name":"Roman Sviták","reg":53},{"name":"Roman Soukup","reg":721},{"name":"Veronika Jilichová Nová","reg":53},{"name":"Alena Burianová","reg":99},{"name":"Miroslav Kroc","reg":99},{"name":"Martin Kopecký","reg":99},{"name":"Miroslav Hlaváč","reg":721}
@@ -1174,12 +1156,8 @@
 						"name":"Karel Jakobec",
 						"reg":53,
 						"links":[
-							{
-								"url":"https://www.ods.cz/profil/148-karel-jakobec"
-							},
-							{
-								"url":"https://www.facebook.com/karel.jakobec"
-							}
+							"https://www.ods.cz/profil/148-karel-jakobec",
+							"https://www.facebook.com/karel.jakobec"
 						],
 						"photo":"karel-jakobec.jpg"
 					},
@@ -1547,13 +1525,10 @@
 					"leader":{
 						"name":"Jiří Kulhánek",
 						"reg":53,
+			      "photo": "jiri-kulhanek.jpg",
 						"links":[
-							{
-								"url":"https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek"
-							},
-							{
-								"url":"https://www.facebook.com/jiri.kulhanek.73"
-							}
+							"https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek",
+							"https://www.facebook.com/jiri.kulhanek.73"
 						]
 					},
 					"links":[
@@ -1575,7 +1550,8 @@
 					],
           "list": [
             {"name":"Iva Dvořáková","reg":53},{"name":"Tomáš Rieger","reg":53},{"name":"Drahomíra Karasová","reg":53},{"name":"Jan Růžička","reg":1},{"name":"Zdenka Vachková","reg":53},{"name":"Jiří Pimpara","reg":53},{"name":"Zdeněk Kutner","reg":53},{"name":"Jiří Kalous","reg":53},{"name":"Jitka Gavdunová","reg":53},{"name":"Marcel Kollmann","reg":53},{"name":"Michal Šidák","reg":53},{"name":"Pavlína Hapštáková","reg":53},{"name":"Jiří Skřivánek","reg":1},{"name":"Petr Pinka","reg":53},{"name":"Petr Pillár","reg":53},{"name":"Tomáš Brčák","reg":99},{"name":"Jana Machová","reg":53},{"name":"Eva Böhmová","reg":53},{"name":"Kateřina Kastnerová","reg":53},{"name":"Alexandra Moravcová","reg":53},{"name":"Michal Voltr","reg":53},{"name":"Helena Zemánková Týřová","reg":53},{"name":"Zdeňka Rulíšková","reg":53},{"name":"Jana Pražanová","reg":53},{"name":"Rostislav Kadlec","reg":1},{"name":"Tomáš Horyna","reg":53},{"name":"Jan Ťažký","reg":53},{"name":"Pavel Tetřev","reg":53},{"name":"Pavel Tošovský","reg":53},{"name":"Hana Šindelářová","reg":53},{"name":"Antonín Štěpanovský","reg":1},{"name":"Vojtěch Srba","reg":53},{"name":"Roland Hase","reg":53},{"name":"Petr Šošško","reg":53},{"name":"Radek Reindl","reg":53},{"name":"Jindřich Petráček","reg":53},{"name":"Jiří Balej","reg":53},{"name":"Georgij Fibich","reg":53},{"name":"Petr Hellmich","reg":53},{"name":"Zdeňka Terezie Špringlová","reg":1},{"name":"Romana Pospíšilová","reg":53},{"name":"Jan Železný","reg":53},{"name":"Tereza Rambousková","reg":99},{"name":"Pavlína Kalitová","reg":53},{"name":"Petr Švejda","reg":53},{"name":"Veronika Prchalová","reg":53},{"name":"Jiří Laštůvka","reg":53},{"name":"Václav Hofmann","reg":53},{"name":"Tomáš Liška","reg":99},{"name":"Filip Hrbek","reg":53},{"name":"Jan Dvořák","reg":53},{"name":"Jitka Horáková","reg":53},{"name":"Bohumil Kurka","reg":53},{"name":"Jan Losenický","reg":53},{"name":"Pavel Dvořák","reg":53},{"name":"Pavel Kašpar","reg":53},{"name":"Hana Zvalová","reg":1},{"name":"Stanislav Zaspal","reg":53},{"name":"Jan Novotný","reg":53},{"name":"Sabina Chládková","reg":53},{"name":"Pavel Šlesinger","reg":53},{"name":"Petr Jindřich","reg":53},{"name":"Josef Marcel","reg":53}
-          ]
+          ],
+					"data": "ulk/53"
 				},
 				{
 					"reg":704,
