@@ -3532,7 +3532,8 @@
 					"coalition":[
 						721,
 						40,
-						55
+						55,
+						{"name": "Třebíč občanům", "logo": "obecne/strany/loga/x-trebic-obcanum.png", "color": "#000"}
 					],
 					"leader":{
 						"name":"Zdeněk Dvořák",
@@ -3544,10 +3545,10 @@
 						]
 					},
 					"list":[
-						"Lenka Šimo",
 						"Blanka Kutinová",
-						"Jan Matějka",
-						"Luboš Rafaj"
+						{"name": "Jan Matějka", "reg": 721},
+						{"name": "Lenka Šimo", "reg": 721},
+						{"name": "Luboš Rafaj", "reg": 721}
 					],
 					"links": [
 						"https://www.facebook.com/protopvysocinu/"
