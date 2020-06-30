@@ -1371,68 +1371,34 @@
 					"coalition":[
 						166,
 						721,
-						113,
-						182,
-						5
+						{"name": "Volba pro Město Cheb", "logo": "obecne/strany/loga/x-volba-pro-mesto-cheb.png", "color": "#fab519"},
+						182
 					],
-					"name":"STAN – Starostové a nezávislí společně s KOA, VPM Cheb, TOP 09 a Stranou zelených",
+					"name":"STAN - Starostové a nezávislí společně s KOA, VPM Cheb a TOP 09",
 					"leader":{
 						"name":"Petr Kulhánek",
 						"reg":182,
 						"links":[
-							{
-								"url":"http://petrkulhanek.cz"
-							},
-							{
-								"url":"https://www.facebook.com/coolhanek"
-							},
-							{
-								"url":"https://twitter.com/p_kulhanek"
-							},
-							{
-								"url":"https://www.instagram.com/petr.cool.hanek"
-							}
+							"http://petrkulhanek.cz",
+							"https://www.facebook.com/coolhanek",
+							"https://twitter.com/p_kulhanek",
+							"https://www.instagram.com/petr.cool.hanek"
 						],
 						"photo":"petr-kulhanek.jpg"
 					},
 					"links":[
-						{
-							"url":"https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj",
-							"label":"STAN KVK"
-						},
-						{
-							"url":"https://www.top09.cz/regiony/karlovarsky-kraj/",
-							"label":"TOP 09 KVK"
-						},
-						{
-							"url":"http://vpmcheb.cz"
-						},
-						{
-							"url":"https://www.hnutikoa.cz"
-						},
-						{
-							"url":"http://karlovarsko.zeleni.cz/",
-							"label":"Zelení KVK"
-						},
-						{
-							"url":"https://www.facebook.com/stankarlovarskykraj/",
-							"label":"STAN KVK"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09.Karlovarsky.kraj/",
-							"label":"TOP 09 KVK"
-						},
-						{
-							"url":"https://www.facebook.com/VPM-Volba-pro-m%C4%9Bsto-1411303629140476/",
-							"label":"Volba pro město Cheb"
-						},
-						{
-							"url":"https://www.facebook.com/hnutikoa.cz"
-						}
+						"https://www.letospodstan.cz/",
+						"https://www.facebook.com/LetosPodSTAN/"
 					],
 					"data":"kvk/166",
+					"program": "https://www.letospodstan.cz/program/",
 					"list": [
-						{"name": "Petr Zahradníček", "reg": 721}
+						{"name": "Robert Pisár", "reg": 166},
+						{"name": "Antonín Jalovec"},
+						{"name": "Petr Zahradníček", "reg": 721},
+						{"name": "Jan Kuchař", "reg": 99},
+						{"name": "Jan Horník", "reg": 166},
+						{"name": "Miroslav Balatka", "reg": 166}
 					]
 				},
 				{
