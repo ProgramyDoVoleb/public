@@ -30,10 +30,7 @@
 					},
 					"links":[
             "https://www.ods.cz/region.stredocesky/volby2020/krajske",
-						{
-							"url":"https://www.facebook.com/349496602364",
-							"label":"ODS Středočeský kraj"
-						}
+						"https://www.facebook.com/349496602364"
 					],
 					"support":[
 						55, 716, 40, 24
@@ -267,7 +264,6 @@
 					},
 					"links":[
 						"https://starostovestrednicechy.cz/",
-						"https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
 						"https://www.facebook.com/starostove.stredocesky",
 						"https://twitter.com/STAN_Stc"
 					],
@@ -3213,6 +3209,30 @@
 						"name": "Tomáš Fadrný",
 						"reg": 1114
 					}
+				},
+				{
+					"name": "Mladí pro Pardubický kraj",
+					"hash": "mladi-pro-pardubicky-kraj",
+					"links": [
+						"https://mladidotoho.com/",
+	          "https://www.facebook.com/mladidotoho/"
+					],
+					"leader": {
+						"name": "Milan Sýs",
+						"phash": "mladi-pro-pardubicky-kraj",
+						"links": []
+					},
+					"list": [
+						"Petr Žampach",
+						"Martina Ročková",
+						"Jan Prokeš",
+						"Josef Ročeň",
+						"Jakub Cach",
+						"Jonáš Hrdina",
+						"Marek Dostál",
+						"Kateřina Mašková",
+						"Petr Švadlenka"
+					]
 				}
 			]
 		},
