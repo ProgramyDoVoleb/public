@@ -14,5 +14,5 @@ files.forEach(file => {
 
 fs.writeFileSync(dir + 'strany.json', JSON.stringify(json, null, 2));
 
-execSync('git commit -a -m "Aktualizace výpisu stran"',{stdio: 'inherit'})
-execSync('git ftp push',{stdio: 'inherit'})
+setTimeout(() => execSync('git commit -a -m "Aktualizace výpisu stran"',{stdio: 'inherit'}), 1000);
+setTimeout(() => execSync('git ftp push',{stdio: 'inherit'}), 1500);
