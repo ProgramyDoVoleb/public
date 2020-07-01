@@ -1,0 +1,25 @@
+{
+  "reg": 1220,
+  "name": "HLAS",
+  "short": "Hlas",
+  "color": "#29235a",
+  "logo": "/obecne/strany/loga/1220-hnuti-hlas-2.png",
+  "hash": "hlas",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.top09.cz/regiony/stredocesky-kraj/",
+          "http://stredocesky.zeleni.cz/",
+          "https://www.hnutihlas.cz/regiony/stredocesky-kraj/",
+          "https://www.facebook.com/TOP09.Stredocesky.kraj/",
+          "https://www.facebook.com/hnutihlas",
+          "https://www.facebook.com/stredocesi",
+          "https://twitter.com/zelenistredozem"
+        ]
+      }
+    ]
+  }
+}

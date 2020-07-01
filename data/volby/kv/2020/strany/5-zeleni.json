@@ -1,0 +1,122 @@
+{
+  "reg": 5,
+  "name": "Strana zelených",
+  "short": "Zelení",
+  "color": "#60b44c",
+  "logo": "/obecne/strany/loga/5-zeleni.svg",
+  "hash": "zeleni",
+  "links": {
+    "global": [
+      "http://www.zeleni.cz",
+      "https://cs.wikipedia.org/wiki/Strana_zelen%C3%BDch",
+      "https://www.facebook.com/stranazelenych",
+      "https://www.youtube.com/user/zmenmeklima",
+      "https://www.instagram.com/zeleni.cz",
+      "https://twitter.com/zeleni_cz"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.top09.cz/regiony/stredocesky-kraj/",
+          "http://stredocesky.zeleni.cz/",
+          "https://www.hnutihlas.cz/regiony/stredocesky-kraj/",
+          "https://www.facebook.com/TOP09.Stredocesky.kraj/",
+          "https://www.facebook.com/hnutihlas",
+          "https://www.facebook.com/stredocesi",
+          "https://twitter.com/zelenistredozem"
+        ]
+      },
+      {
+        "region": 2,
+        "links": []
+      },
+      {
+        "region": 3,
+        "links": [
+          "http://www.bernardastarostove.cz/",
+          "https://www.facebook.com/bernardastarostove",
+          "https://twitter.com/STAN_Plz"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://spojenciprokraj.cz",
+          "https://www.facebook.com/spojenciprokraj",
+          "https://www.instagram.com/spojenciprokraj"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "http://neuschneme.cz",
+          "https://volbaprokrajinu.cz",
+          "https://www.facebook.com/prokrajinu",
+          "https://twitter.com/krajinu",
+          "https://www.instagram.com/pro_krajinu",
+          "https://www.facebook.com/ZeleniLBC",
+          "https://twitter.com/ZeleniLbc",
+          "https://www.instagram.com/zeleni.lk"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://spoluprokraj.cz",
+          "https://www.facebook.com/spoluprokrajkhk",
+          "https://twitter.com/spoluprokrajkhk",
+          "https://www.instagram.com/spoluprokrajkhk"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "http://pardubickykraj.zeleni.cz/",
+          "https://www.facebook.com/zeleni.pardubickykraj/"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "http://zelenavysocina.cz",
+          "https://www.facebook.com/szvysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "http://spolupromoravu.cz",
+          "https://www.facebook.com/SpoluProMoravu",
+          "https://twitter.com/SpolUpro",
+          "https://www.instagram.com/spolupromoravu"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.spojenciok.cz/",
+          "https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://zlinsky-kraj.cssd.cz/",
+          "https://www.facebook.com/cssd.zlinsko/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "http://namtonenijedno.cz/",
+          "https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
+          "http://www.zeleni-msk.cz",
+          "https://www.facebook.com/StanMoravskoslezskyKraj/",
+          "https://www.facebook.com/zeleniMSK",
+          "https://www.facebook.com/hnutinezavisli"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "reg": 181,
+  "name": "Nestraníci",
+  "short": "Nestran.",
+  "color": "#ef2a0c",
+  "hash": "nestran-",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 3,
+        "links": [
+          "https://plzen.kdu.cz",
+          "http://www.adstrana.cz",
+          "https://www.facebook.com/koaliceppk",
+          "https://www.facebook.com/kducslplzenskykraj",
+          "https://www.facebook.com/adstrana",
+          "https://www.instagram.com/kducslplzenskykraj",
+          "https://www.instagram.com/verni_agrarnici_ads",
+          "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "http://www.koalicehk.kdu.cz",
+          "http://kralovehradecky.kdu.cz/",
+          "http://vpm2014.cz",
+          "https://www.facebook.com/koalicehk",
+          "https://www.facebook.com/kdukralovehradecko/",
+          "https://www.facebook.com/volbapromestohk"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.koalicepk.cz",
+          "http://pardubicky-kraj.kdu.cz",
+          "https://www.facebook.com/koalicepropardubickykraj/",
+          "https://www.facebook.com/KDUCSLPK",
+          "https://www.instagram.com/koalice_pro_pardubicky_kraj/",
+          "https://www.instagram.com/kdupce"
+        ]
+      }
+    ]
+  }
+}

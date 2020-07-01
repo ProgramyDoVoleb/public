@@ -1,0 +1,101 @@
+{
+  "reg": 47,
+  "name": "Komunistická strana Čech a Moravy",
+  "short": "KSČM",
+  "color": "#eb343f",
+  "logo": "/obecne/strany/loga/47-kscm.svg",
+  "hash": "kscm",
+  "links": {
+    "global": [
+      "http://www.kscm.cz",
+      "https://cs.wikipedia.org/wiki/Komunistick%C3%A1_strana_%C4%8Cech_a_Moravy",
+      "https://www.facebook.com/komunistickastranacechamoravy",
+      "https://www.youtube.com/user/czkscm",
+      "https://www.instagram.com/czkscm",
+      "https://twitter.com/czKSCM"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": []
+      },
+      {
+        "region": 2,
+        "links": []
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://plkr.kscm.cz",
+          "https://www.facebook.com/groups/110721655612158/"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://karlovyvary.kscm.cz",
+          "https://www.facebook.com/KS%C4%8CM-Karlovarsk%C3%BD-kraj-306603932862276/"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.usti-kscm.cz"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.facebook.com/KS%C4%8CM-Libereck%C3%BD-kraj-1624537931096023/"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "http://kscmkrhk.cz",
+          "https://www.facebook.com/kvkscmkrhk"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://krpardubice.kscm.cz/cs",
+          "https://www.facebook.com/kv.kscm.pce"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://vysocina.kscm.cz/cs",
+          "https://www.facebook.com/KSCMVysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://jmkr.kscm.cz/cs",
+          "https://www.facebook.com/kscmjiznimorava"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://olomouc.kscm.cz/cs",
+          "https://www.facebook.com/volbyolomouckykscm2020/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://zlin.kscm.cz"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://mskraj.kscm.cz/cs"
+        ]
+      }
+    ]
+  }
+}

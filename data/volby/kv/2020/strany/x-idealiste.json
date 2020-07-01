@@ -1,0 +1,29 @@
+{
+  "name": "Idealisté",
+  "short": "Idealisté",
+  "color": "#00dcc2",
+  "logo": "obecne/strany/loga/x-idealiste.png",
+  "hash": "idealiste",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 3,
+        "links": [
+          "http://www.bernardastarostove.cz/",
+          "https://www.facebook.com/bernardastarostove",
+          "https://twitter.com/STAN_Plz"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "http://spolupromoravu.cz",
+          "https://www.facebook.com/SpoluProMoravu",
+          "https://twitter.com/SpolUpro",
+          "https://www.instagram.com/spolupromoravu"
+        ]
+      }
+    ]
+  }
+}

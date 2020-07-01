@@ -1,0 +1,21 @@
+{
+  "reg": 1012,
+  "name": "ÚSTECKÉ FÓRUM OBČANŮ",
+  "short": "UFO",
+  "color": "#2d3469",
+  "logo": "obecne/strany/loga/1012-ufo.png",
+  "hash": "ufo",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 5,
+        "links": [
+          "http://www.lepsisever.cz",
+          "https://www.facebook.com/lepsisever",
+          "https://twitter.com/LepsiSever"
+        ]
+      }
+    ]
+  }
+}

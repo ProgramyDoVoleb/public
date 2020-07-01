@@ -1,0 +1,19 @@
+{
+  "name": "Nový Impuls",
+  "short": "Nový Impuls",
+  "logo": "obecne/strany/loga/x-novyimpuls.jpg",
+  "hash": "novy-impuls",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 12,
+        "links": [
+          "http://www.starostove-nezavisli.cz/regiony/zlinsky-kraj",
+          "https://www.facebook.com/starostove.zlinsky/",
+          "https://twitter.com/STANzlk"
+        ]
+      }
+    ]
+  }
+}

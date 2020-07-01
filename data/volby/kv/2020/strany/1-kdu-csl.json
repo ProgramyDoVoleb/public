@@ -1,0 +1,138 @@
+{
+  "reg": 1,
+  "name": "Křesťanská a demokratická unie - Československá strana lidová",
+  "short": "KDU-ČSL",
+  "color": "#fec92f",
+  "logo": "/obecne/strany/loga/1-kdu-csl.svg",
+  "hash": "kdu-csl",
+  "links": {
+    "global": [
+      "http://www.kdu.cz",
+      "https://cs.wikipedia.org/wiki/K%C5%99es%C5%A5ansk%C3%A1_a_demokratick%C3%A1_unie_%E2%80%93_%C4%8Ceskoslovensk%C3%A1_strana_lidov%C3%A1",
+      "https://www.facebook.com/kducsl",
+      "https://www.youtube.com/user/kducsl",
+      "https://www.instagram.com/kducsl",
+      "https://twitter.com/kducsl"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://starostovestrednicechy.cz/",
+          "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
+          "https://www.facebook.com/starostove.stredocesky",
+          "https://twitter.com/STAN_Stc"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://spolecneprojiznicechy.cz/",
+          "https://www.hejtmantour.cz/",
+          "http://jiznicechy.kdu.cz",
+          "https://www.top09.cz/regiony/jihocesky-kraj/",
+          "https://www.facebook.com/jihocesky.kdu",
+          "https://www.facebook.com/TOP09.Jihocesky.kraj"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://plzen.kdu.cz",
+          "http://www.adstrana.cz",
+          "https://www.facebook.com/koaliceppk",
+          "https://www.facebook.com/kducslplzenskykraj",
+          "https://www.facebook.com/adstrana",
+          "https://www.instagram.com/kducslplzenskykraj",
+          "https://www.instagram.com/verni_agrarnici_ads",
+          "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://www.ods.cz/region.karlovarsky/volby2020/krajske",
+          "http://kvary.kdu.cz",
+          "https://www.facebook.com/rs.ods.karlovarsky.kraj",
+          "https://www.facebook.com/kdukvkraj"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.ods.cz/region.ustecky/volby2020/krajske",
+          "http://usteckykraj.kdu.cz",
+          "https://www.facebook.com/ODS-%C3%9Asteck%C3%BD-kraj-1818344011729113",
+          "https://www.facebook.com/kducslkrajustecky",
+          "https://www.instagram.com/kducsl_ustecky_kraj"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.spolecneprolibereckykraj.cz",
+          "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707",
+          "https://www.facebook.com/TOP09Liberec/"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "http://www.koalicehk.kdu.cz",
+          "http://kralovehradecky.kdu.cz/",
+          "http://vpm2014.cz",
+          "https://www.facebook.com/koalicehk",
+          "https://www.facebook.com/kdukralovehradecko/",
+          "https://www.facebook.com/volbapromestohk"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.koalicepk.cz",
+          "http://pardubicky-kraj.kdu.cz",
+          "https://www.facebook.com/koalicepropardubickykraj/",
+          "https://www.facebook.com/KDUCSLPK",
+          "https://www.instagram.com/koalice_pro_pardubicky_kraj/",
+          "https://www.instagram.com/kdupce"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.kduvysocina.cz",
+          "https://www.facebook.com/kduvysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "http://www.kdujiznimorava.cz",
+          "https://www.facebook.com/kdujiznimorava"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.spojenciok.cz/",
+          "https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://zlinsky.kdu.cz",
+          "https://www.facebook.com/kduzlinskykraj/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "http://moravskoslezsky.kdu.cz/domu",
+          "https://www.facebook.com/srostliskrajemmsk/",
+          "https://www.facebook.com/KDUCSLMoravskoslezskykraj/"
+        ]
+      }
+    ]
+  }
+}

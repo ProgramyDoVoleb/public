@@ -1,0 +1,26 @@
+{
+  "reg": 1119,
+  "name": "Agrární demokratická strana",
+  "short": "ADS",
+  "color": "#e959d2",
+  "logo": "/obecne/strany/loga/1119-ads-2.png",
+  "hash": "ads",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 3,
+        "links": [
+          "https://plzen.kdu.cz",
+          "http://www.adstrana.cz",
+          "https://www.facebook.com/koaliceppk",
+          "https://www.facebook.com/kducslplzenskykraj",
+          "https://www.facebook.com/adstrana",
+          "https://www.instagram.com/kducslplzenskykraj",
+          "https://www.instagram.com/verni_agrarnici_ads",
+          "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "reg": 1049,
+  "name": "Hradecký demokratický klub",
+  "short": "HDK",
+  "color": "#4f689a",
+  "logo": "/obecne/strany/loga/1049-hdk.png",
+  "hash": "hdk",
+  "links": {
+    "global": [
+      "http://hdkhk.cz/",
+      "https://www.facebook.com/hdkhk/"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://www.top09.cz/regiony/kralovehradecky-kraj",
+          "http://www.hdkhk.cz",
+          "https://www.facebook.com/TOP09.Kralovehradecky.kraj/",
+          "https://www.facebook.com/hdkhk"
+        ]
+      }
+    ]
+  }
+}

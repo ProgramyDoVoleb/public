@@ -1,0 +1,24 @@
+{
+  "reg": 1118,
+  "name": "VOK - Volba pro Karlovarský kraj",
+  "short": "VOK",
+  "color": "#f9ae2e",
+  "logo": "/obecne/strany/loga/1118-vok-2.png",
+  "hash": "vok",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.karlovaraci.cz",
+          "http://www.spokojenykraj.cz",
+          "https://www.facebook.com/karlovaraci",
+          "https://www.facebook.com/spokojenykraj",
+          "https://twitter.com/karlovaraci",
+          "https://twitter.com/spokojenykraj"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "reg": 55,
+  "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+  "short": "Monarchiste.cz",
+  "color": "#9a26cc",
+  "logo": "/obecne/strany/loga/55-koruna-ceska.png",
+  "hash": "monarchiste-cz",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.ods.cz/region.stredocesky/volby2020/krajske",
+          "https://www.facebook.com/349496602364"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.facebook.com/protopvysocinu/"
+        ]
+      }
+    ]
+  }
+}

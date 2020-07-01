@@ -1,0 +1,31 @@
+{
+  "reg": 770,
+  "name": "VÝCHODOČEŠI",
+  "short": "VČ",
+  "color": "#212759",
+  "logo": "/obecne/strany/loga/770-vychodocesi.png",
+  "hash": "vc",
+  "links": {
+    "global": [
+      "https://vychodocesi.cz/",
+      "https://www.facebook.com/vychodocesi/",
+      "https://vychodocesi.cz/#",
+      "https://vychodocesi.cz/#"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "https://www.ods.cz/region.kralovehradecky/volby2020/krajske",
+          "https://www.starostove-nezavisli.cz/regiony/kralovehradecky-kraj",
+          "http://www.vychodocesi.cz",
+          "https://www.facebook.com/ODSKHK",
+          "https://www.facebook.com/starostove.kralovehradecky/",
+          "https://www.facebook.com/vychodocesi",
+          "https://twitter.com/ODSHradecKrlov",
+          "https://twitter.com/stan_kraj"
+        ]
+      }
+    ]
+  }
+}

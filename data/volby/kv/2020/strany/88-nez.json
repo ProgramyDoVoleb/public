@@ -1,0 +1,35 @@
+{
+  "reg": 88,
+  "name": "NEZÁVISLÍ",
+  "short": "NEZ",
+  "color": "#00add2",
+  "logo": "/obecne/strany/loga/88-nez.png",
+  "hash": "nez",
+  "links": {
+    "global": [
+      "https://www.nezavisli.cz/",
+      "https://www.facebook.com/nezavisliostrava.cz/",
+      "https://www.youtube.com/channel/UCfo7SCMrjB0apRKJoR1OP4w"
+    ],
+    "regional": [
+      {
+        "region": 12,
+        "links": [
+          "https://www.facebook.com/volimtrikoloruzlinskykraj1/",
+          "https://www.facebook.com/soukromnici.cz/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "http://namtonenijedno.cz/",
+          "https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
+          "http://www.zeleni-msk.cz",
+          "https://www.facebook.com/StanMoravskoslezskyKraj/",
+          "https://www.facebook.com/zeleniMSK",
+          "https://www.facebook.com/hnutinezavisli"
+        ]
+      }
+    ]
+  }
+}
