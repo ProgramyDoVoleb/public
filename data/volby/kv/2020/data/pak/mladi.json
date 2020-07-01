@@ -1,1 +1,42 @@
-{}
+{
+  "people": [
+    {
+      "name": "Milan Sýs",
+      "reg": 99,
+      "about": "vysokoškolský pedagog, vědec, radní města Luže"
+    },
+    {
+      "name": "Petr Žampach",
+      "reg": 1209,
+      "about": "pravocník bezpečnosti letového provozu",
+      "links": [
+        "https://www.facebook.com/petr.chapmaz.5"
+      ]
+    },
+    {
+      "name": "Martina Ročková",
+      "reg": 99,
+      "about": "studentka Univerzity v Hradci Králové",
+      "links": [
+        "https://www.facebook.com/majka.rockova",
+        "https://www.instagram.com/maajulka/"
+      ]
+    },
+    {
+      "name": "Jan Prokeš",
+      "reg": 99,
+      "about": "podnikatel, zastupitel městysu Žumberk",
+      "links": [
+        "https://www.facebook.com/jan.prokes.779"
+      ]
+    },
+    {
+      "name": "Josef Ročeň",
+      "reg": 99,
+      "about": "student VUT v Brně, stavební technik",
+      "links": [
+        "https://www.facebook.com/josef.rocen.6"
+      ]
+    }
+  ]
+}
