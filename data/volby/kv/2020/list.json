@@ -3212,7 +3212,9 @@
 				},
 				{
 					"name": "Mladí pro Pardubický kraj",
-					"hash": "mladi-pro-pardubicky-kraj",
+				  "short": "Mladí do toho",
+				  "color": "#00aef0",
+				  "logo": "obecne/strany/loga/x-mladi-pro-pak.png",
 					"links": [
 						"https://mladidotoho.com/",
 	          "https://www.facebook.com/mladidotoho/"
