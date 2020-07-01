@@ -6,7 +6,11 @@
   "logo": "/obecne/strany/loga/83-moravane.png",
   "hash": "moravane",
   "links": {
-    "global": [],
+    "global": [
+      "http://moravane.cz",
+      "https://www.facebook.com/moravaci",
+      "https://twitter.com/moravaci"
+    ],
     "regional": [
       {
         "region": 10,

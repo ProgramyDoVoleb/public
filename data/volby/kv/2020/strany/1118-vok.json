@@ -6,16 +6,17 @@
   "logo": "/obecne/strany/loga/1118-vok-2.png",
   "hash": "vok",
   "links": {
-    "global": [],
+    "global": [
+      "http://www.spokojenykraj.cz",
+      "https://www.facebook.com/spokojenykraj",
+      "https://twitter.com/spokojenykraj"
+    ],
     "regional": [
       {
         "region": 4,
         "links": [
-          "http://www.karlovaraci.cz",
           "http://www.spokojenykraj.cz",
-          "https://www.facebook.com/karlovaraci",
           "https://www.facebook.com/spokojenykraj",
-          "https://twitter.com/karlovaraci",
           "https://twitter.com/spokojenykraj"
         ]
       }

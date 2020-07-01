@@ -6,19 +6,18 @@
   "logo": "/obecne/strany/loga/1119-ads-2.png",
   "hash": "ads",
   "links": {
-    "global": [],
+    "global": [
+      "http://www.adstrana.cz",
+      "https://www.facebook.com/adstrana",
+      "https://www.instagram.com/verni_agrarnici_ads"
+    ],
     "regional": [
       {
         "region": 3,
         "links": [
-          "https://plzen.kdu.cz",
           "http://www.adstrana.cz",
-          "https://www.facebook.com/koaliceppk",
-          "https://www.facebook.com/kducslplzenskykraj",
           "https://www.facebook.com/adstrana",
-          "https://www.instagram.com/kducslplzenskykraj",
-          "https://www.instagram.com/verni_agrarnici_ads",
-          "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg"
+          "https://www.instagram.com/verni_agrarnici_ads"
         ]
       }
     ]

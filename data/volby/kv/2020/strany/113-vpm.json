@@ -6,16 +6,15 @@
   "logo": "/obecne/strany/loga/113-vpm.png",
   "hash": "vpm",
   "links": {
-    "global": [],
+    "global": [
+      "http://vpm2014.cz",
+      "https://www.facebook.com/volbapromestohk"
+    ],
     "regional": [
       {
         "region": 7,
         "links": [
-          "http://www.koalicehk.kdu.cz",
-          "http://kralovehradecky.kdu.cz/",
           "http://vpm2014.cz",
-          "https://www.facebook.com/koalicehk",
-          "https://www.facebook.com/kdukralovehradecko/",
           "https://www.facebook.com/volbapromestohk"
         ]
       }

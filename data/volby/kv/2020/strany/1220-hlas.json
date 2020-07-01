@@ -6,18 +6,14 @@
   "logo": "/obecne/strany/loga/1220-hnuti-hlas-2.png",
   "hash": "hlas",
   "links": {
-    "global": [],
+    "global": [
+      "https://www.facebook.com/hnutihlas"
+    ],
     "regional": [
       {
         "region": 1,
         "links": [
-          "https://www.top09.cz/regiony/stredocesky-kraj/",
-          "http://stredocesky.zeleni.cz/",
-          "https://www.hnutihlas.cz/regiony/stredocesky-kraj/",
-          "https://www.facebook.com/TOP09.Stredocesky.kraj/",
-          "https://www.facebook.com/hnutihlas",
-          "https://www.facebook.com/stredocesi",
-          "https://twitter.com/zelenistredozem"
+          "https://www.facebook.com/hnutihlas"
         ]
       }
     ]

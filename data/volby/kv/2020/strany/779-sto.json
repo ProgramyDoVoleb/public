@@ -6,14 +6,15 @@
   "logo": "/obecne/strany/loga/779-sto.png",
   "hash": "sto",
   "links": {
-    "global": [],
+    "global": [
+      "https://www.starostoveproobcany.cz",
+      "https://www.facebook.com/starostoveproobcany"
+    ],
     "regional": [
       {
         "region": 9,
         "links": [
-          "https://www.ods.cz/region.vysocina/volby2020/krajske",
           "https://www.starostoveproobcany.cz",
-          "https://www.facebook.com/ODSVysocina",
           "https://www.facebook.com/starostoveproobcany"
         ]
       }

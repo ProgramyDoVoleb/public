@@ -6,17 +6,18 @@
   "logo": "/obecne/strany/loga/1028-karlovaraci.jpg",
   "hash": "kvc",
   "links": {
-    "global": [],
+    "global": [
+      "http://www.karlovaraci.cz",
+      "https://www.facebook.com/karlovaraci",
+      "https://twitter.com/karlovaraci"
+    ],
     "regional": [
       {
         "region": 4,
         "links": [
           "http://www.karlovaraci.cz",
-          "http://www.spokojenykraj.cz",
           "https://www.facebook.com/karlovaraci",
-          "https://www.facebook.com/spokojenykraj",
-          "https://twitter.com/karlovaraci",
-          "https://twitter.com/spokojenykraj"
+          "https://twitter.com/karlovaraci"
         ]
       }
     ]
