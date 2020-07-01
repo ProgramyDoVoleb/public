@@ -497,6 +497,18 @@
       }
     },
     {
+      "reg": 1209,
+      "name": "NE-VOLIM.CZ",
+      "hash": "ne-volim-cz",
+      "short": "NE-VOLIM.CZ",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/1209-ne-volim.png",
+      "color": "#0b8c04"
+    },
+    {
       "reg": 1220,
       "name": "HLAS",
       "short": "Hlas",
@@ -840,6 +852,18 @@
           }
         ]
       }
+    },
+    {
+      "reg": 2,
+      "name": "Česká strana národně sociální",
+      "hash": "csns",
+      "short": "ČSNS",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/2-csns.png",
+      "color": "#a42978"
     },
     {
       "reg": 24,
