@@ -6,7 +6,9 @@
   "logo": "/obecne/strany/loga/795-les.png",
   "hash": "les",
   "links": {
-    "global": [],
+    "global": [
+      "https://stranales.cz/"
+    ],
     "regional": [
       {
         "region": 5,
@@ -21,6 +23,7 @@
       {
         "region": 7,
         "links": [
+          "https://www.facebook.com/lesvhk/"
         ]
       },
       {

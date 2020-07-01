@@ -11,4 +11,4 @@ files.forEach(file => {
   json.list.push(content);
 })
 
-fs.writeFileSync(dir + 'strany-v2.json', JSON.stringify(json, null, 2));
+fs.writeFileSync(dir + 'strany.json', JSON.stringify(json, null, 2));
