@@ -1,4 +1,5 @@
-var fs = require('fs');
+const fs = require('fs');
+const { execSync } = require('child_process');
 
 var dir = "../data/volby/kv/2020/";
 
@@ -12,3 +13,6 @@ files.forEach(file => {
 })
 
 fs.writeFileSync(dir + 'strany.json', JSON.stringify(json, null, 2));
+
+execSync('git commit -a -m "Aktualizace výpisu stran"',{stdio: 'inherit'})
+execSync('git ftp push',{stdio: 'inherit'})
