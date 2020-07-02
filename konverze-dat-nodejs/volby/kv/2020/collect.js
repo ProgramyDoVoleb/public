@@ -14,6 +14,10 @@ files.forEach(file => {
 
 fs.writeFileSync(dir + 'strany.json', JSON.stringify(json, null, 2));
 
+var cmsg = process.argv[2] || "Aktualizace výpisu stran";
+
+console.log(cmsg);
+
 setTimeout(() => execSync('git add --all',{stdio: 'inherit'}), 800);
-setTimeout(() => execSync('git commit -a -m "Aktualizace výpisu stran"',{stdio: 'inherit'}), 1000);
+setTimeout(() => execSync('git commit -a -m "' + cmsg + '"',{stdio: 'inherit'}), 1000);
 setTimeout(() => execSync('git ftp push',{stdio: 'inherit'}), 1500);
