@@ -542,14 +542,13 @@
 						]
 					},
 					"links":[
-						{
-							"url":"http://jihocesky-kraj.cssd.cz",
-							"label":"ČSSD Jihočeský kraj"
-						},
-						{
-							"url":"https://www.facebook.com/cssdjihoceskykraj"
-						}
-					]
+						"https://jihoceskacssd.cz"
+					],
+					"list": [
+						"Mgr. Bc. Antonín Krák", "Ing. Olga Bastlová", "Ing. Miroslav Joch, MBA", "Ing. Petra Blížilová", "MUDr. Michal Turek, MBA", "RNDr. Jana Krejsová", "Mgr. Jaromír Novák", "Ing. Petr Jenkner", "Pavel Ounický", "PaedDR. Jan Klimeš", "Ing. Václav Valhoda", "doc. MUDr. Kvetoslava Kotrbová, Ph.D.", "Mgr. Vladimír Mašek", "Mgr. Ivana Ambrusová", "MUDr. Petr Vošta", "MUDr. Karel Chytrý", "MUDr. Zdeněk Krajíček", "JUDr. Ondřej Veselý", "Bc. David Šťastný", "Mgr. Zdeněk Krátký", "MUDr. Jindřich Florián", "Mgr. Ondřej Flaška", "MUDr. Ladislav Kuchař", "MUDr. Lenka Viličková", "Miroslav Fenc", "Ing. Lubomír Skála", "Bc. Josef Vochoska", "Bc. Miroslav Kadeřábek", "Ing. Jan Bauer", "Karel Vácha", "MUDr. Marie Nosková", "Ing. Miloš Juha, Ph.D.", "Ing. Marie Náhlíková", "prof. PaedDr. Milada Krejčí, CSc.", "Mgr. Pavel Mráček", "Mgr. Markéta Kubová", "Jindřiška Kudrlová", "Miroslav Smetana", "Mgr. Miroslava Sekyrková", "Mgr. Veronika Królová, Ph.D.", "Mgr. Zuzana Šimková", "Mgr. Miroslav Bína", "Mgr. Martin Třeštík", "Ing. Miloslav Procházka, CSc.", "Ing. Robert Pročka", "Zdeněk Kemény", "Jaroslava Sýkorová", "Ing. Josef Hlávka", "Jana Švecová", "MUDr. Ondřej Nikolov", "RNDr. Ing. Vladimír Říha, CSc.", "Bc. Marie Jozová", "Miroslav Řepa", "Miloslav Kolář"
+					],
+					"motto": "Víme, jak bezpečně dál",
+					"data": "jck/7"
 				},
 				{
 					"reg":720,
@@ -675,6 +674,13 @@
 						{
 							"url":"https://www.facebook.com/ANOjihoceskykraj"
 						}
+					],
+					"list": [
+						"Barbora Šiftová",
+						"Ludmila Pánková",
+						"Magda Blížová",
+						"Petr Holický",
+						"Jiří Svoboda"
 					]
 				},
 				{
@@ -3194,23 +3200,23 @@
 				},
 				{
 					"name": "Mladí pro Pardubický kraj",
-					"support": [2, 1209],
+					"support": [2, {"phash": "mladi-pro-pardubicky-kraj"}, 1209, {"name": "Mladí Žumperáci"}],
 					"links": [
 						"https://mladidotoho.com/",
 	          "https://www.facebook.com/mladidotoho/"
 					],
 					"leader": {
 						"name": "Milan Sýs",
-						"reg": 99,
+						"phash": "mladi-pro-pardubicky-kraj",
 						"links": [
 							"https://www.facebook.com/ingmilanek.sys.3"
 						]
 					},
 					"list": [
-						{"name": "Petr Žampach", "reg": 1209},
-						{"name": "Martina Ročková", "reg": 99},
+						{"name": "Petr Žampach", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Martina Ročková", "phash": "mladi-pro-pardubicky-kraj"},
 						{"name": "Jan Prokeš", "reg": 99},
-						{"name": "Josef Ročeň", "reg": 99},
+						{"name": "Josef Ročeň", "phash": "mladi-pro-pardubicky-kraj"},
 						{"name": "Jakub Cach", "reg": 99},
 						{"name": "Jonáš Hrdina", "reg": 2},
 						{"name": "Marek Dostál", "reg": 99},
