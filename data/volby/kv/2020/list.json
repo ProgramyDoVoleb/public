@@ -4743,6 +4743,37 @@
 						"name": "Pavel Staněk",
 						"reg": 1114
 					}
+				},
+				{
+					"name": "Pro krásný kraj - Hlas nezávislých osobností!",
+					"coalition": [1173, 1220, 129],
+					"leader": {
+						"name": "Miloslav Cváček",
+						"reg": 99,
+						"links": [
+							"https://www.facebook.com/profile.php?id=100011292750736"
+						]
+					},
+					"links": [
+						"http://www.prokrasnykraj.cz/",
+						"https://www.facebook.com/prokrasnykraj/",
+						"https://www.instagram.com/prokrasnykraj",
+						"https://www.youtube.com/channel/UCY1DKSiSdZ2puMjHbtVKkng"
+					],
+					"list": [
+						{"name": "Pavel Smolka", "reg": 129},
+						{"name": "Michal Ruman", "reg": 1220},
+						{"name": "Adam Hanus", "reg": 1173},
+						{"name": "Salome Sýkorová", "reg": 129},
+						{"name": "Ondřej Měkýš", "reg": 1220},
+						{"name": "Roman Čechák", "reg": 99},
+						{"name": "Sylva Kováčiková", "reg": 99},
+						{"name": "Martin Valim", "reg": 1220},
+						{"name": "Lubomír Veřmiřovský", "reg": 99},
+						{"name": "Aleš Hranoš", "reg": 99},
+						{"name": "Petr Hulhahý", "reg": 1220}
+					],
+					"data": "msk/pro-krasny-kraj"
 				}
 			]
 		}
