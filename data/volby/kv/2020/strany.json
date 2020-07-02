@@ -19,7 +19,11 @@
         "regional": [
           {
             "region": 1,
-            "links": []
+            "links": [
+              "http://strednicechy.kdu.cz/",
+              "https://www.facebook.com/KDUStredoceskykraj/",
+              "https://www.youtube.com/channel/UCU2S_4AkSEBN9ZCsg9ojCCA"
+            ]
           },
           {
             "region": 2,
@@ -89,7 +93,10 @@
           },
           {
             "region": 11,
-            "links": []
+            "links": [
+              "http://www.olomouckraj.kdu.cz/",
+              "https://www.facebook.com/pages/KDU-%C4%8CSL-Olomouck%C3%BD-kraj/158655234218517?fref=ts"
+            ]
           },
           {
             "region": 12,
@@ -749,16 +756,24 @@
           {
             "region": 3,
             "links": [
+              "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj",
+              "https://www.facebook.com/starostove.plzensky/",
               "https://twitter.com/STAN_Plz"
             ]
           },
           {
             "region": 4,
-            "links": []
+            "links": [
+              "https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj",
+              "https://www.facebook.com/stankarlovarskykraj"
+            ]
           },
           {
             "region": 5,
-            "links": []
+            "links": [
+              "https://www.starostove-nezavisli.cz/regiony/ustecky-kraj",
+              "https://www.facebook.com/starostove.ustecky/"
+            ]
           },
           {
             "region": 7,
@@ -792,7 +807,10 @@
           },
           {
             "region": 11,
-            "links": []
+            "links": [
+              "https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj",
+              "https://www.facebook.com/starostoveolomouckykraj/"
+            ]
           },
           {
             "region": 12,
@@ -949,11 +967,15 @@
         "regional": [
           {
             "region": 1,
-            "links": []
+            "links": [
+              "https://sckr.kscm.cz"
+            ]
           },
           {
             "region": 2,
-            "links": []
+            "links": [
+              "https://jckr.kscm.cz"
+            ]
           },
           {
             "region": 3,
@@ -1058,11 +1080,17 @@
           },
           {
             "region": 2,
-            "links": []
+            "links": [
+              "http://jihocesky.zeleni.cz/",
+              "http://www.facebook.com/jczeleni"
+            ]
           },
           {
             "region": 3,
-            "links": []
+            "links": [
+              "http://plzenskykraj.zeleni.cz/",
+              "https://www.facebook.com/zeleniplzensko"
+            ]
           },
           {
             "region": 5,
@@ -1078,7 +1106,9 @@
           },
           {
             "region": 7,
-            "links": []
+            "links": [
+              "http://karlovarsko.zeleni.cz/"
+            ]
           },
           {
             "region": 8,
@@ -1096,15 +1126,24 @@
           },
           {
             "region": 10,
-            "links": []
+            "links": [
+              "http://jihomoravsky.zeleni.cz/",
+              "http://www.facebook.com/zelenajiznimorava"
+            ]
           },
           {
             "region": 11,
-            "links": []
+            "links": [
+              "http://olomoucky.zeleni.cz/",
+              "http://www.facebook.com/pages/Strana-zelen%C3%BDch-olomouck%C3%BD-kraj/143636765705792"
+            ]
           },
           {
             "region": 12,
-            "links": []
+            "links": [
+              "http://zeleni-zlinsko.cz/",
+              "http://www.facebook.com/zeleni.zlinsky.kraj"
+            ]
           },
           {
             "region": 13,
@@ -1290,11 +1329,15 @@
           },
           {
             "region": 4,
-            "links": []
+            "links": [
+              "http://karlovarsky-kraj.cssd.cz/"
+            ]
           },
           {
             "region": 5,
-            "links": []
+            "links": [
+              "http://ustecky-kraj.cssd.cz/"
+            ]
           },
           {
             "region": 6,
@@ -1306,11 +1349,15 @@
           },
           {
             "region": 7,
-            "links": []
+            "links": [
+              "http://kralovehradecky-kraj.cssd.cz/"
+            ]
           },
           {
             "region": 8,
-            "links": []
+            "links": [
+              "http://pardubicky-kraj.cssd.cz/"
+            ]
           },
           {
             "region": 9,
@@ -1655,7 +1702,10 @@
           },
           {
             "region": 11,
-            "links": []
+            "links": [
+              "https://olomoucko.pirati.cz",
+              "https://www.facebook.com/piratiOlomoucko"
+            ]
           },
           {
             "region": 12,
@@ -1697,7 +1747,6 @@
             "region": 1,
             "links": [
               "https://www.top09.cz/regiony/stredocesky-kraj/",
-              "http://stredocesky.zeleni.cz/",
               "https://www.facebook.com/TOP09.Stredocesky.kraj/"
             ]
           },
@@ -1705,7 +1754,6 @@
             "region": 2,
             "links": [
               "https://www.top09.cz/regiony/jihocesky-kraj/",
-              "https://www.facebook.com/jihocesky.kdu",
               "https://www.facebook.com/TOP09.Jihocesky.kraj"
             ]
           },
@@ -1719,15 +1767,23 @@
           },
           {
             "region": 4,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/karlovarsky-kraj",
+              "https://www.facebook.com/TOP09.Karlovarsky.kraj"
+            ]
           },
           {
             "region": 5,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/ustecky-kraj/",
+              "https://www.facebook.com/TOP09.Ustecky.kraj/",
+              "https://twitter.com/TOP09ULK"
+            ]
           },
           {
             "region": 6,
             "links": [
+              "https://www.top09.cz/regiony/liberecky-kraj/",
               "https://www.facebook.com/TOP09Liberec/"
             ]
           },
@@ -1742,24 +1798,38 @@
             "region": 8,
             "links": [
               "https://www.top09.cz/regiony/pardubicky-kraj",
-              "https://www.facebook.com/TOP09.Pardubicky.kraj"
+              "https://www.facebook.com/TOP09.Pardubicky.kraj",
+              "https://twitter.com/09Pardubicky"
             ]
           },
           {
             "region": 9,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/vysocina/",
+              "https://www.facebook.com/profile.php?id=285098274162"
+            ]
           },
           {
             "region": 10,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/jihomoravsky-kraj/",
+              "https://www.facebook.com/TOP09.jmk/",
+              "https://twitter.com/TOP09Brno"
+            ]
           },
           {
             "region": 11,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/olomoucky-kraj/",
+              "https://www.facebook.com/TOP09.Olomoucky.kraj"
+            ]
           },
           {
             "region": 12,
-            "links": []
+            "links": [
+              "https://www.top09.cz/regiony/zlinsky-kraj/",
+              "https://www.facebook.com/TOP09.Zlinsky.kraj"
+            ]
           },
           {
             "region": 13,
