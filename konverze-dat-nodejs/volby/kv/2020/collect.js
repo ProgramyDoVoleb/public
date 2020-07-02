@@ -21,6 +21,6 @@ setTimeout(() => {
   execSync('find ../data/lide/fotky -type f -exec chmod 0755 {} \\;',{stdio: 'inherit'});
   execSync('find ../data/volby/kv/2020/data -type f -exec chmod 0755 {} \\;',{stdio: 'inherit'});
 }, 500);
-setTimeout(() => execSync('git add --all',{stdio: 'inherit'}), 2000);
-setTimeout(() => execSync('git commit -a -m "' + cmsg + '"',{stdio: 'inherit'}), 2500);
-setTimeout(() => execSync('git ftp push',{stdio: 'inherit'}), 3000);
+setTimeout(() => execSync('git add --all',{stdio: 'inherit'}), 4000);
+setTimeout(() => execSync('git commit -a -m "' + cmsg + '"',{stdio: 'inherit'}), 4500);
+setTimeout(() => execSync('git ftp push',{stdio: 'inherit'}), 5000);
