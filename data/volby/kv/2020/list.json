@@ -960,6 +960,7 @@
 					"reg":720,
 					"leader":{
 						"name":"Rudolf Špoták",
+			      "photo": "rudolf-spotak.jpg",
 						"reg":720,
 						"links":[
 							{
@@ -1237,17 +1238,12 @@
 					"reg":720,
 					"leader":{
 						"name":"Josef Janů",
+			      "photo": "josef-janu.png",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://karlovarsky.pirati.cz/lide/josef-janu"
-							},
-							{
-								"url":"https://www.facebook.com/pepik.janu"
-							},
-							{
-								"url":"https://twitter.com/JosefJanu"
-							}
+							"https://karlovarsky.pirati.cz/lide/josef-janu",
+							"https://www.facebook.com/pepik.janu",
+							"https://twitter.com/JosefJanu"
 						]
 					},
 					"list":[
@@ -1297,20 +1293,12 @@
 						"Karel Nykles"
 					],
 					"links":[
-						{
-							"url":"https://karlovarsky.pirati.cz/",
-							"label":"Piráti KVK"
-						},
-						{
-							"url":"https://www.facebook.com/pirati.karlovarsko"
-						},
-						{
-							"url":"https://twitter.com/Pirati_KaKr"
-						},
-						{
-							"url":"https://www.instagram.com/pirati.karlovarsko"
-						}
-					]
+						"https://karlovarsky.pirati.cz/",
+						"https://www.facebook.com/pirati.karlovarsko",
+						"https://twitter.com/Pirati_KaKr",
+						"https://www.instagram.com/pirati.karlovarsko"
+					],
+					"data": "kvk/720"
 				},
 				{
 					"reg":112,

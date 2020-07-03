@@ -2,38 +2,41 @@
   "people": [
     {
       "name": "Josef Janů",
-      "reg": 720,
-      "links": [
-        {
-          "url": "https://karlovarsky.pirati.cz/lide/josef-janu"
-        },
-        {
-          "url": "https://www.facebook.com/pepik.janu"
-        },
-        {
-          "url": "https://twitter.com/JosefJanu"
-        }
-      ]
+      "reg": 720
     },
     {
       "name": "Vojtěch Franta",
       "reg": 720,
-      "links": []
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/vojtech-fanta/"
+      ],
+      "photo": "vojtech-franta.jpg"
     },
     {
       "name": "Markéta Monsportová",
       "reg": 720,
-      "links": []
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/marketa-monsportova/"
+      ],
+      "photo": "marketa-monsportova.jpg"
     },
     {
       "name": "Lukáš Zykán",
       "reg": 720,
-      "links": []
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/lukas-zykan/"
+      ],
+      "photo": "lukas-zykan.jpg",
+      "about": "Lukáš Zykán (* 6. dubna 1982) je 2. místopředsedou místního sdružení Sokolov a místopředseda krajského sdružení Karlovarského kraje v Pirátské straně. Lukáš pochází z města Sokolov, kde se narodil. Vystudoval Střední průmyslovou školu v Lokti, obor technická zařízení budov, kterou úspěšně zakončil maturitní zkouškou v r. 2001. Jako největší pracovní zkušenost je jedenáctileté působení u společnosti Skanska Facility Management CZ s.r.o., kde pracoval jako technik objektu/facility manager. Dále pak jako Healt&Safety facility supervisor u společnosti DHL Supply Chain v Chebu. V současné době působí jako OSVČ ve funkci Property manager pro společnost B2 Assets s.r.o. Působí v několika hudeních tělesech jako zpěvák a baskytarista. Aktivně se zajímá o kulturní dění v regionu."
     },
     {
       "name": "Karel Nykles",
       "reg": 720,
-      "links": []
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/karel-nykles/"
+      ],
+      "photo": "karel-nykles.jpg",
+      "about": "Karel Nykles (*3. srpna 1984) je otec, životní euforik a troubleshooter, předseda krajského sdružení Pirátů. Nohama na zemi, s hlavou v oblacích. Pochází z Mariánských Lázní, kam se po více jak deseti letech působení v Plzni vrátil. Pracuje jako Network and Systems Engineer v nadnárodní společnosti. Vystudoval bakalářský program Kybernetika a řídící technika na Fakultě aplikovaných věd Západočeské univerzity v Plzni. V letech 2007 - 2016 pracoval pro Západočeskou univerzitu v Plzni jako Windows administrátor. V letech 2011 - 2015 pak pro Forenzní laboratoř CESNET, kde se zabýval analýzou napadených PC a publikačně osvětovou činností."
     }
   ]
 }
