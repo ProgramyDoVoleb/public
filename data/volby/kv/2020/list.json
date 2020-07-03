@@ -2479,30 +2479,18 @@
 					"reg":720,
 					"leader":{
 						"name":"Pavel Bulíček",
+						"photo": "pavel-bulicek.jpg",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://kralovehradecky.pirati.cz/aktuality/lidrem-piratu-pro-krajske-volby-je-pavel-bulicek.html"
-							},
-							{
-								"url":"https://www.facebook.com/piratpavelbulicek"
-							},
-							{
-								"url":"https://twitter.com/PavelBulicek"
-							},
-							{
-								"url":"https://www.instagram.com/pavelbulicek"
-							}
+							"https://kralovehradecky.pirati.cz/aktuality/lidrem-piratu-pro-krajske-volby-je-pavel-bulicek.html",
+							"https://www.facebook.com/piratpavelbulicek",
+							"https://twitter.com/PavelBulicek",
+							"https://www.instagram.com/pavelbulicek"
 						]
 					},
 					"links":[
-						{
-							"url":"https://kralovehradecky.pirati.cz/",
-							"label":"Piráti KHK"
-						},
-						{
-							"url":"https://www.facebook.com/pirati.khk"
-						}
+						"https://kralovehradecky.pirati.cz/",
+						"https://www.facebook.com/pirati.khk"
 					],
 					"list":[
 						"Adam Valenta",
@@ -2819,28 +2807,17 @@
 					"reg":720,
 					"leader":{
 						"name":"Daniel Lebduška",
+						"photo": "daniel-lebduska.jpg",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://pardubicky.pirati.cz/lide/daniel-lebduska"
-							},
-							{
-								"url":"https://www.facebook.com/lebduska.daniel"
-							}
+							"https://pardubicky.pirati.cz/lide/daniel-lebduska",
+							"https://www.facebook.com/lebduska.daniel"
 						]
 					},
 					"links":[
-						{
-							"url":"https://pardubicky.pirati.cz"
-						},
-						{
-							"url":"https://www.facebook.com/pirati.pardubicko/",
-							"label":"Piráti Pardubicko"
-						},
-						{
-							"url":"https://www.instagram.com/pirati.pardubickykraj/",
-							"label":"Piráti Pardubicko"
-						}
+						"https://pardubicky.pirati.cz",
+						"https://www.facebook.com/pirati.pardubicko/",
+						"https://www.instagram.com/pirati.pardubickykraj/"
 					],
 					"list":[
 						"Filip Mezera",
@@ -3675,17 +3652,12 @@
 					"reg":720,
 					"leader":{
 						"name":"Lukáš Dubec",
+			      "photo": "lukas-dubec.jpg",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://jihomoravsky.pirati.cz/lide/lukas-dubec"
-							},
-							{
-								"url":"https://www.facebook.com/luk.dub"
-							},
-							{
-								"url":"https://www.instagram.com/dubecl"
-							}
+							"https://jihomoravsky.pirati.cz/lide/lukas-dubec",
+							"https://www.facebook.com/luk.dub",
+							"https://www.instagram.com/dubecl"
 						]
 					},
 					"list":[
@@ -3712,13 +3684,10 @@
 						"Tomáš Pastirčák"
 					],
 					"links":[
-						{
-							"url":"https://jihomoravsky.pirati.cz"
-						},
-						{
-							"url":"https://www.facebook.com/CPS.JMK"
-						}
-					]
+						"https://jihomoravsky.pirati.cz",
+						"https://www.facebook.com/CPS.JMK"
+					],
+					"data": "jmk/720"
 				},
 				{
 					"coalition":[
@@ -4529,7 +4498,8 @@
 						"https://www.facebook.com/cpsmsk/",
 						"https://twitter.com/PiratiMSK",
 						"https://www.instagram.com/msk_pirati/"
-					]
+					],
+					"data": "msk/720"
 				},
 				{
 					"reg":768,
