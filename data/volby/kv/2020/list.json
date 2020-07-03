@@ -1587,35 +1587,20 @@
 					"reg":720,
 					"leader":{
 						"name":"Karel Karika",
+			      "photo": "karel-karika.jpg",
 						"reg":720,
 						"links":[
-							{
-								"url":"https://ustecky.pirati.cz/lide/karel-karika"
-							},
-							{
-								"url":"https://www.facebook.com/karel.karika"
-							},
-							{
-								"url":"https://twitter.com/KarelKarika"
-							},
-							{
-								"url":"https://www.instagram.com/karelkarika"
-							}
+							"https://ustecky.pirati.cz/lide/karel-karika",
+							"https://www.facebook.com/karel.karika",
+							"https://twitter.com/KarelKarika",
+							"https://www.instagram.com/karelkarika"
 						]
 					},
 					"links":[
-						{
-							"url":"https://ustecky.pirati.cz"
-						},
-						{
-							"url":"https://www.facebook.com/pirati.ulk"
-						},
-						{
-							"url":"https://twitter.com/PiratiUstecko"
-						},
-						{
-							"url":"https://www.instagram.com/pirati_uk"
-						}
+						"https://ustecky.pirati.cz",
+						"https://www.facebook.com/pirati.ulk",
+						"https://twitter.com/Piratiuk",
+						"https://www.instagram.com/pirati_uk"
 					],
 					"list":[
 						"Kateřina Stojanová",
