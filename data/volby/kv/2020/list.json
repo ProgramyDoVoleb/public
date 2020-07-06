@@ -573,18 +573,10 @@
 						"Lukáš Kolářík"
 					],
 					"links":[
-						{
-							"url":"https://jihocesky.pirati.cz"
-						},
-						{
-							"url":"https://www.facebook.com/pirati.jck"
-						},
-						{
-							"url":"https://www.twitter.com/PiratiJcK"
-						},
-						{
-							"url":"https://www.instagram.com/pirati.jihocesky"
-						}
+						"https://jihocesky.pirati.cz",
+						"https://www.facebook.com/pirati.jck",
+						"https://www.twitter.com/PiratiJcK",
+						"https://www.instagram.com/pirati.jihocesky"
 					],
 					"data":"jck/720",
 					"program": "https://jihocesky.pirati.cz/program/"
@@ -595,18 +587,15 @@
 						"name":"Stanislav Mrvka",
 						"reg":1229,
 						"links":[
-							{
-								"url":"https://www.facebook.com/stanislav.mrvka.7"
-							}
+							"https://www.facebook.com/stanislav.mrvka.7"
 						]
 					},
 					"list":[
 						"Jiří Zimola"
 					],
 					"links":[
-						{
-							"url":"https://www.facebook.com/zmena2020"
-						}
+						"https://www.zmena2020.cz/",
+						"https://www.facebook.com/zmena2020"
 					]
 				},
 				{
