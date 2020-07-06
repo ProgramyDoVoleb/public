@@ -526,7 +526,9 @@
       "hash": "ne-volim-cz",
       "short": "NE-VOLIM.CZ",
       "links": {
-        "global": [],
+        "global": [
+          "https://www.facebook.com/nevolim.cz/"
+        ],
         "regional": []
       },
       "logo": "/obecne/strany/loga/1209-ne-volim.png",
@@ -892,7 +894,9 @@
       "hash": "csns",
       "short": "ČSNS",
       "links": {
-        "global": [],
+        "global": [
+          "http://www.csns.cz/"
+        ],
         "regional": []
       },
       "logo": "/obecne/strany/loga/2-csns.png",
@@ -2254,7 +2258,7 @@
     },
     {
       "name": "Mladí pro Pardubický kraj",
-      "short": "Mladí do toho",
+      "short": "MPK",
       "color": "#00aef0",
       "logo": "obecne/strany/loga/x-mladi-pro-pak.png",
       "hash": "mladi-pro-pardubicky-kraj",
@@ -2274,6 +2278,15 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "name": "Mladí Žumberáci",
+      "short": "Mladí Žumberáci",
+      "hash": "mladi-zumberaci",
+      "links": {
+        "global": [],
+        "regional": []
       }
     },
     {
@@ -2411,7 +2424,9 @@
       "short": "Vize NS",
       "hash": "vize-ns",
       "links": {
-        "global": [],
+        "global": [
+          "https://www.facebook.com/Vize-n%C3%A1rodn%C3%AD-socialist%C3%A9-109573630813341/"
+        ],
         "regional": []
       }
     },
