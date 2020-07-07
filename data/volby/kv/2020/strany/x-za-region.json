@@ -1,0 +1,22 @@
+{
+  "name": "Za Region",
+  "short": "Za Region",
+  "color": "#3ab867",
+  "logo": "obecne/strany/loga/x-za-region.png",
+  "hash": "za-region",
+  "links": {
+    "global": [
+      "http://www.zaregion.info/",
+      "https://www.facebook.com/zaregion/"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.zaregion.info/",
+          "https://www.facebook.com/zaregion/"
+        ]
+      }
+    ]
+  }
+}
