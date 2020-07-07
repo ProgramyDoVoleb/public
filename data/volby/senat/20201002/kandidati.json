@@ -1235,6 +1235,7 @@
 			],
 			"reg":45,
 			"links":[
+				"http://www.janholasek.cz",
 				"https://www.facebook.com/JHolasek/",
 				"https://twitter.com/honzaholasek"
 			],
@@ -1242,7 +1243,9 @@
 				1049,
 				1187,
 				721,
-				795
+				795,
+				5,
+				{"name": "Změna pro Hradec"}
 			],
 			"work":"právník a zastupitel",
 			"member":99,
