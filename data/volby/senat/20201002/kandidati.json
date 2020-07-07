@@ -717,7 +717,7 @@
 				1,
 				5,
 				1187,
-				"Praha Sobě"
+				{"name":"Praha Sobě","logo":"obecne/strany/loga/x-praha-sobe.jpg"}
 			],
 			"work":"senátor",
 			"member":99,
@@ -777,7 +777,7 @@
 			"support":[
 				7,
 				5,
-				"Budoucnost"
+				{"name": "Budoucnost", "logo": "obecne/strany/loga/x-budoucnost.png"}
 			],
 			"work":"senátor",
 			"member":7,
@@ -874,7 +874,8 @@
 			"member": 99,
 			"color":"#aaa",
 			"program": "http://davidbohbot.cz/program/",
-			"work": "bezpečnostní expert"
+			"work": "bezpečnostní expert",
+			"motto": "Bezpečnost je moje priorita"
 		},
 		{
 			"name":[
@@ -1472,7 +1473,7 @@
 			"support":[
 				7,
 				5,
-				"Budoucnost"
+				{"name": "Budoucnost", "logo": "obecne/strany/loga/x-budoucnost.png"}
 			],
 			"work":"starosta Nového Města na Moravě",
 			"member":7,
