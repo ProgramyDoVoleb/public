@@ -46,24 +46,14 @@
 						"name":"Robin Povšík",
 						"reg":7,
 						"links":[
-							{
-								"url":"https://www.facebook.com/Povsik"
-							},
-							{
-								"url":"https://twitter.com/povsik"
-							}
+							"https://www.facebook.com/Povsik",
+							"https://twitter.com/povsik"
 						]
 					},
 					"links":[
-						{
-							"url":"http://stredocesky-kraj.cssd.cz"
-						},
-						{
-							"url":"https://www.facebook.com/JistotyproStredocechy"
-						},
-						{
-							"url":"https://www.instagram.com/cssdstredocesky"
-						}
+						"http://stredocesky-kraj.cssd.cz",
+						"https://www.facebook.com/JistotyproStredocechy",
+						"https://www.instagram.com/cssdstredocesky"
 					],
 					"list":[
 						"Aneta Heřmanová"
@@ -321,7 +311,8 @@
 					},
 					"list": [
 						"Natálie Vachatová",
-						"Ondřej Hutník"
+						"Ondřej Hutník",
+						"Zdeněk Seidl"
 					]
 				},
 				{
