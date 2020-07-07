@@ -1588,41 +1588,32 @@
 						"name":"Petr Pípal",
 						"reg":704,
 						"links":[
-							{
-								"url":"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal"
-							},
-							{
-								"url":"https://www.facebook.com/IngPetrPipal"
-							}
+							"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal",
+							"https://www.facebook.com/IngPetrPipal"
 						]
 					},
 					"links":[
-						{
-							"url":"http://www.zregionudokraje.cz"
-						},
-						{
-							"url":"https://www.facebook.com/zregionudokraje",
-							"label":"Volební FB"
-						},
-						{
-							"url":"https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090",
-							"label":"FB Severočeši"
-						},
-						{
-							"url":"https://www.instagram.com/severocesi.cz"
-						}
+						"http://www.zregionudokraje.cz",
+						"https://www.facebook.com/zregionudokraje",
+						"https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090",
+						"https://www.instagram.com/severocesi.cz"
 					],
 					"list":[
-						"Jaroslav Doubrava",
-						"Martin Šimek",
+						"Lukas Wünsch",
 						"Bronislav Schwarz",
+						"Jaroslav Doubrava",
 						"Radek Slavík",
-						"Josef Kalina",
+						"Šárka Štruplová Růžičková",
+						"Čestmír Pastyřík",
+						"Martin Šimek",
+						"Rostislav Domorák",
 						"Jiří Skřivánek",
+						"Marie Hervertová",
 						"Olga Kubelková",
-						"Petr Klingr",
-						"Marie Hervertová"
-					]
+						"Josef Kalina",
+						"Petr Klingr"
+					],
+					"data": "ulk/704"
 				},
 				{
 					"reg":720,
