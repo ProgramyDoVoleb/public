@@ -1521,6 +1521,10 @@
 					"links": [
 						"https://www.facebook.com/SPDkarlovarsky/"
 					]
+				},
+				{
+					"reg": 785,
+					"support": [142]
 				}
 			]
 		},
@@ -3905,7 +3909,8 @@
 					"links":[
 						"https://www.facebook.com/jsmeLevice/",
 						"https://instagram.com/jsme_levice"
-					]
+					],
+					"logo": "obecne/strany/loga/levice.png"
 				},
 				{
 					"reg":83,
@@ -4750,6 +4755,10 @@
 					],
 					"data": "msk/pro-krasny-kraj",
 					"program": "http://www.prokrasnykraj.cz/#program"
+				},
+				{
+					"reg": 142,
+					"support": [785]
 				}
 			]
 		}
