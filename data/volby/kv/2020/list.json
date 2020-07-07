@@ -465,6 +465,9 @@
 						"Marek Hejduk",
 						"Petr Zavadil"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -851,6 +854,9 @@
 					"links": [
 						"https://www.facebook.com/SPDjihocesky/"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -1170,6 +1176,9 @@
 					"links": [
 						"https://www.facebook.com/SPDplzensky/"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -1437,12 +1446,33 @@
 					"reg":1129,
 					"name": "SNK1 - Starostové našeho kraje",
 					"logo":"obecne/strany/loga/1129-snk1.jpg",
+					"leader": {
+						"name": "Markéta Sinkulová Moravcová",
+						"reg": 1129,
+						"links": []
+					},
 					"list":[
-						"Markéta Sinkulová Moravcová",
 						"Jitka Pokorná",
 						"Eduard Frisch",
 						"Vít Hromádko",
-						"Ladislav Ludvík"
+						"Ladislav Ludvík",
+						"Pavel Jandák", "Kateřina Krumphanzlová",
+						"Jiří Křenčil",
+						"Petr Kvasnička",
+						"Aleš Labík",
+						"Eva Machková",
+						"Vlastimil Ondra",
+						"Robert Petro",
+						"Jan Prudík",
+						"Helena Repíková",
+						"Dagmar Strnadová",
+						"Miroslav Stropek",
+						"Jiří Štikar",
+						"Jana Viková"
+					],
+					"links": [
+						"https://snk1.cz/",
+						"https://www.facebook.com/SNK1-Starostov%C3%A9-na%C5%A1eho-kraje-106108747651248/"
 					]
 				},
 				{
@@ -1525,6 +1555,9 @@
 				{
 					"reg": 785,
 					"support": [142]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -1894,6 +1927,9 @@
 					"links":[
 						"https://www.anobudelip.cz/ustecky-kraj"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -2369,6 +2405,9 @@
 						"https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
 					],
 					"data": "lbk/771"
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -2762,6 +2801,9 @@
 						"name":"Markéta Pakandlová",
 						"reg":1114
 					}
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -3194,6 +3236,9 @@
 					],
 					"program": "https://mladidotoho.com/volebni-program/",
 					"data": "pak/mladi"
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -3599,6 +3644,9 @@
 						"https://www.facebook.com/protopvysocinu/"
 					],
 					"data": "vys/pro-top-vysocinu"
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -3933,6 +3981,9 @@
 					"links": [
 						"https://www.facebook.com/SPDjiznimorava/"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -4212,6 +4263,9 @@
 					"links": [
 						"https://www.facebook.com/spdolomoucky/"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -4485,6 +4539,9 @@
 					"links":[
 						"https://www.facebook.com/spdzlinsky/"
 					]
+				},
+				{
+					"reg":137
 				}
 			]
 		},
@@ -4759,6 +4816,9 @@
 				{
 					"reg": 142,
 					"support": [785]
+				},
+				{
+					"reg":137
 				}
 			]
 		}
