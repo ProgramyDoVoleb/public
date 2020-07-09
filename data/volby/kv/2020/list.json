@@ -1924,6 +1924,7 @@
 					"name": "Za Region",
 					"leader": {
 						"name": "František Padělek",
+						"photo": "frantisek-padelek.jpg",
 						"phash": "za-region",
 						"links": [
 							"https://www.facebook.com/profile.php?id=100007187718165"
@@ -1931,7 +1932,8 @@
 					},
 					"list": [
 						"Lucie Ječmenová"
-					]
+					],
+					"data": "ulk/za-region"
 				}
 			]
 		},
@@ -2364,10 +2366,17 @@
 					"reg":768,
 					"leader":{
 						"name":"Jitka Volfová",
-						"reg":768
+						"reg":768,
+			      "photo": "jitka-volfova.jpg"
 					},
 					"links":[
 						"https://www.anobudelip.cz/liberecky-kraj"
+					],
+					"list": [
+						"Jaroslav Knížek",
+						"Šárka Prachařová",
+						"Martin Brož",
+						"Stanislav Říha"
 					]
 				},
 				{
@@ -4854,6 +4863,7 @@
 					"links": [
 						"http://www.prokrasnykraj.cz/",
 						"https://www.facebook.com/prokrasnykraj/",
+						"https://twitter.com/KrajPro",
 						"https://www.instagram.com/prokrasnykraj",
 						"https://www.youtube.com/channel/UCY1DKSiSdZ2puMjHbtVKkng"
 					],
