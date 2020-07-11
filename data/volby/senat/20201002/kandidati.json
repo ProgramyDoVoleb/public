@@ -236,7 +236,10 @@
 			],
 			"reg":9,
 			"links":[
-
+				"daniel.kus@pirati.cz",
+				"https://www.danielkus.cz/",
+				"https://www.facebook.com/PiratDanielKus/",
+				"https://www.instagram.com/daniel_kus_pirat/"
 			],
 			"support":[
 				720
@@ -244,7 +247,8 @@
 			"work":"městský zastupitel",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"program": "https://www.danielkus.cz/"
 		},
 		{
 			"name":[
@@ -298,7 +302,8 @@
 			],
 			"reg":12,
 			"links":[
-
+				"michal.horak@pirati.cz",
+				"https://wiki.pirati.cz/lide/michal_horak"
 			],
 			"support":[
 				720
@@ -306,7 +311,8 @@
 			"work":"městský zastupiteů",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"photo": "michal-horak.jpg"
 		},
 		{
 			"name":[
@@ -487,7 +493,9 @@
 			],
 			"reg":18,
 			"links":[
-
+				"simona.luftova@pirati.cz",
+				"https://www.facebook.com/simona.luftova",
+				"https://twitter.com/SimonaLuftova"
 			],
 			"support":[
 				720
@@ -717,15 +725,20 @@
 			],
 			"reg":27,
 			"links":[
-
+				"robert@legalizace.cz",
+				"http://robertveverka.cz/",
+				"https://www.facebook.com/veverkarobert",
+				"https://twitter.com/veverka_robert",
+				"https://www.instagram.com/robert_veverka/"
 			],
 			"support":[
 				720
 			],
 			"work":"zastupitel",
-			"member":720,
-			"nominee":720,
-			"color":"#000"
+			"member":99,
+			"color":"#000",
+			"photo": "robert-veverka.jpg",
+			"program": "http://robertveverka.cz/program/"
 		},
 		{
 			"name":[
@@ -1022,7 +1035,11 @@
 			],
 			"reg":36,
 			"links":[
-				"https://twitter.com/PetrJenik"
+				"petr.jenik@pirati.cz",
+				"http://petrjenik.cz/",
+				"https://www.facebook.com/petrjenikcz/",
+				"https://twitter.com/PetrJenik",
+				"https://www.instagram.com/piratpetrjenik/"
 			],
 			"support":[
 				720
@@ -1030,7 +1047,8 @@
 			"work":"zastupitel a webový developer",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"program": "https://petrjenik.cz/"
 		},
 		{
 			"name":[
@@ -1165,7 +1183,9 @@
 			],
 			"reg":42,
 			"links":[
-
+				"cyril.koky@pirati.cz",
+				"https://stredocesky.pirati.cz/lide/cyril-koky/",
+				"https://www.facebook.com/cyril.koky.71"
 			],
 			"support":[
 				720
@@ -1173,7 +1193,8 @@
 			"work":"odborný referent pro oblast národnostních menšin",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"photo": "cyril-koky.jpg"
 		},
 		{
 			"name":[
@@ -1290,6 +1311,7 @@
 			],
 			"reg":45,
 			"links":[
+				"info@pavel-vacek.cz",
 				"https://pavel-vacek.cz/",
 				"https://www.facebook.com/senatorvacek/",
 				"https://twitter.com/PavelVacek_HK",
@@ -1953,7 +1975,11 @@
 			],
 			"reg":63,
 			"links":[
-				"https://twitter.com/OndrujPavel"
+				"pavel@ondruj.cz",
+				"https://ondruj.cz/",
+				"https://www.facebook.com/PavelOndrujDoSenatu/",
+				"https://twitter.com/OndrujPavel",
+				"https://www.instagram.com/ondruj_pavel/"
 			],
 			"support":[
 				720
@@ -1961,7 +1987,9 @@
 			"work":"manažer kultury Městského domu v Přerově",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"program": "https://ondruj.cz/program/",
+			"photo": "pavel-ondruj.jpg"
 		},
 		{
 			"name":[
@@ -2285,7 +2313,10 @@
 			],
 			"reg":72,
 			"links":[
-
+				"martin.tomasek@pirati.cz",
+				"https://www.martindosenatu.cz/",
+				"https://www.facebook.com/martindosenatu/",
+				"https://www.instagram.com/martindosenatu/"
 			],
 			"support":[
 				720
@@ -2293,7 +2324,9 @@
 			"work":"místostarosta",
 			"member":720,
 			"nominee":720,
-			"color":"#000"
+			"color":"#000",
+			"motto": "Odvážně a s pokorou.",
+			"program": "https://www.martindosenatu.cz/#priority"
 		},
 		{
 			"name":[
@@ -2433,7 +2466,8 @@
 			],
 			"reg":75,
 			"links":[
-
+				"r.kravcik79@gmail.com",
+				"https://www.facebook.com/Kravcik.Radim/"
 			],
 			"support":[
 				720
