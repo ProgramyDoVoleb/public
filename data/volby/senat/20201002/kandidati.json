@@ -109,6 +109,7 @@
 			],
 			"reg":6,
 			"links":[
+				"vladimir@vdrapal.cz",
 				"https://www.vdrapal.cz/",
 				"https://www.facebook.com/VladimirDrapalLouny/",
 				"https://www.top09.cz/volby/2020-senat/vladimir-drapal-27465.html"
@@ -259,6 +260,7 @@
 			],
 			"reg":9,
 			"links":[
+				"aschenbrenner@plzen.eu",
 				"https://www.lasch.cz/",
 				"https://www.ods.cz/region.plzensky/volby2020/senatni/kandidati/2134-lumir-aschenbrenner",
 				"https://facebook.com/lumir.asch",
@@ -374,7 +376,8 @@
 			],
 			"reg":12,
 			"links":[
-				"https://www.ods.cz/region.jihocesky/volby2020/senatni/kandidati/35224-tomas-fiala"
+				"https://www.ods.cz/region.jihocesky/volby2020/senatni/kandidati/35224-tomas-fiala",
+				"https://www.facebook.com/tomas.fiala.5439"
 			],
 			"support":[
 				53
@@ -588,7 +591,11 @@
 			],
 			"reg":21,
 			"links":[
-
+				"vaclav.laska@vaclavlaska.cz",
+				"http://www.vaclavlaska.cz/",
+				"https://www.facebook.com/pravoslaskou",
+				"https://twitter.com/VaclavLaska",
+				"https://www.instagram.com/vaclavlaska/"
 			],
 			"support":[
 				1187,
@@ -689,7 +696,8 @@
 			],
 			"reg":24,
 			"links":[
-
+				"eduard@stehlik.army",
+				"https://www.facebook.com/plk.stehlik/"
 			],
 			"support":[
 				1,
@@ -698,7 +706,8 @@
 			"work":"historik",
 			"member":99,
 			"nominee":99,
-			"color":"#fec92f"
+			"color":"#fec92f",
+			"photo": "eduard-stehlik.jpg"
 		},
 		{
 			"name":[
@@ -749,6 +758,7 @@
 			],
 			"reg":27,
 			"links":[
+				"https://www.miroslavanemcova.cz/",
 				"https://www.facebook.com/miroslava.nemcova/",
 				"https://twitter.com/Nemcova_Mirka",
 				"https://www.top09.cz/volby/2020-senat/miroslava-nemcova-27430.html"
@@ -762,7 +772,7 @@
 			"member":53,
 			"nominee":53,
 			"color":"#194392",
-			"photo": "miroslava-nemcova.jpg"
+			"photo": "miroslava-nemcova-2.jpg"
 		},
 		{
 			"name":[
@@ -995,6 +1005,7 @@
 			],
 			"reg":36,
 			"links":[
+				"vit.vomacka@vitvomacka.cz",
 				"https://www.vitvomacka.cz/",
 				"https://www.ods.cz/region.liberecky/volby2020/senatni/kandidati/35137-vit-vomacka"
 			],
@@ -1112,7 +1123,9 @@
 			],
 			"reg":39,
 			"links":[
-				"https://www.ods.cz/region.kralovehradecky/volby2020/senatni/kandidati/35109-klara-sovova"
+				"https://www.ods.cz/region.kralovehradecky/volby2020/senatni/kandidati/35109-klara-sovova",
+				"https://www.facebook.com/SovovaKlara/",
+				"https://www.instagram.com/klara_sovova/"
 			],
 			"support":[
 				53
@@ -1281,6 +1294,7 @@
 			"support":[
 				1114
 			],
+			"member": 99,
 			"color":"#874a0f"
 		},
 		{
@@ -1294,7 +1308,7 @@
 			"links":[
 				"https://www.michal-zapletal.cz/",
 				"https://www.ods.cz/region.stredocesky/volby2020/senatni/kandidati/26824-michal-zapletal",
-				"https://www.facebook.com/profile.php?id=100009224109030"
+				"https://www.facebook.com/MichalZapletalKolin/"
 			],
 			"support":[
 				53
@@ -1443,6 +1457,7 @@
 			],
 			"reg":45,
 			"links":[
+				"pavel@aktivnisenator.cz",
 				"http://www.aktivnisenator.cz/",
 				"https://www.ods.cz/region.kralovehradecky/volby2020/senatni/kandidati/493-pavel-stanek",
 				"https://www.facebook.com/pavelstanekaktivnisenator/"
@@ -1528,6 +1543,7 @@
 			"reg":48,
 			"member": 99,
 			"links":[
+				"j.drejslova@seznam.cz",
 				"http://www.drejslova.cz/",
 				"https://www.facebook.com/janadosenatu/"
 			],
@@ -1535,7 +1551,8 @@
 				53,
 				"Žijeme Rychnovem - městem i okresem"
 			],
-			"photo": "jana-drejslova.jpg"
+			"photo": "jana-drejslova.jpg",
+			"motto": "Žiji Rychnovem – městem i okresem. Budu žít i svým senátním obvodem!"
 		},
 		{
 			"name":[
@@ -1592,6 +1609,7 @@
 			"support":[
 				1, 53
 			],
+			"member": 1,
 			"color":"#fec92f"
 		},
 		{
@@ -1850,6 +1868,7 @@
 			],
 			"reg":60,
 			"links":[
+				"info@romankraus.cz",
 				"https://romankraus.cz/",
 				"https://www.ods.cz/region.jihomoravsky/volby2020/senatni/kandidati/8767-roman-kraus",
 				"https://www.facebook.com/romankraussenat/",
@@ -2018,7 +2037,9 @@
 			],
 			"reg":63,
 			"links":[
-				"https://www.ods.cz/region.moravskoslezsky/volby2020/senatni/kandidati/28944-tomas-kocourek"
+				"https://www.ods.cz/region.moravskoslezsky/volby2020/senatni/kandidati/28944-tomas-kocourek",
+				"https://www.facebook.com/Tom%C3%A1%C5%A1-Kocourek-113281600379687/",
+				"https://twitter.com/Kocourek_T"
 			],
 			"support":[
 				53
@@ -2161,6 +2182,7 @@
 			],
 			"reg":66,
 			"links":[
+				"%20rvincour@unicov.cz",
 				"https://www.radekvincour.cz/",
 				"https://www.ods.cz/region.olomoucky/volby2020/senatni/kandidati/5675-radek-vincour",
 				"https://www.facebook.com/www.radekvincour.cz/"
@@ -2626,6 +2648,7 @@
 			"support":[
 				1187, 53
 			],
+			"member": 99,
 			"color":"#460a0d",
       "photo": "tomas-golan.jpg"
 		},
