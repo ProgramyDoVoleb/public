@@ -3104,13 +3104,11 @@
 						{"name":"Ladislav Valtr","reg":53},{"name":"Alexandr Krejčíř","reg":53},{"name":"Jiří Skalický","reg":721},{"name":"Magda Křivanová","reg":53},{"name":"Petra Šimečková","reg":53},{"name":"Pavel Čížek","reg":53},{"name":"Michal Sláma","reg":721},{"name":"Martin Krejza","reg":53},{"name":"Jan Čechlovský","reg":53},{"name":"Martin Milata","reg":53},{"name":"Michal Pilař","reg":721},{"name":"Jaroslav Martinů","reg":53},{"name":"Jiří Hrabčuk","reg":53},{"name":"Jiří Dytrt","reg":53},{"name":"Vít Steklý","reg":721},{"name":"Irena Burešová","reg":53},{"name":"David Novák","reg":53},{"name":"Lukáš Blažek","reg":53},{"name":"Jana Hrubá","reg":53},{"name":"Matouš Pořický","reg":53},{"name":"Ladislav Báča","reg":53},{"name":"Miloslav Parolek","reg":53},{"name":"Josef Kuběnka","reg":53},{"name":"Soňa Mužíková","reg":99},{"name":"Miloš Mička","reg":721},{"name":"Petr Kotýnek","reg":53},{"name":"Jiří Nezval","reg":53},{"name":"Harald Čadílek","reg":53},{"name":"Josef Kopecký","reg":53},{"name":"Jiří Řezníček","reg":99},{"name":"Jaroslav Kňava","reg":53},{"name":"Jan Švadlenka","reg":53},{"name":"Martin Kozáček","reg":53},{"name":"Martin Jareš","reg":53},{"name":"Stanislav Hlavatý","reg":721},{"name":"Stanislav Šťastný","reg":53},{"name":"Josef Štěpanovský","reg":53},{"name":"Pavel Charvát","reg":53},{"name":"Lukáš Boháč","reg":53},{"name":"Vladislava Michalová","reg":721},{"name":"Tomáš Nešetřil","reg":53},{"name":"Petr Krátký","reg":53},{"name":"David Urbánek","reg":53},{"name":"Ivo Toman","reg":53},{"name":"Josef Zavoral","reg":721},{"name":"Pavel Svoboda","reg":53},{"name":"Ivan Drdaj","reg":53},{"name":"Lukáš Novák","reg":53},{"name":"Erik Jahnický","reg":53}
 					],
 					"links":[
-            "https://www.ods.cz/region.pardubicky/volby2020/krajske",
-						"https://www.top09.cz/regiony/pardubicky-kraj",
-						"https://www.facebook.com/ods.pardubickykraj",
-						"https://www.facebook.com/TOP09.Pardubicky.kraj",
-						"https://twitter.com/odsregionpk"
+						"https://ods-top09.cz/",
+            "https://www.facebook.com/ODSaTOP09pardubicky/"
 					],
-					"data": "pak/ods-a-top-09"
+					"data": "pak/ods-a-top-09",
+					"program": "https://ods-top09.cz/program/"
 				},
 				{
 					"reg":47,
