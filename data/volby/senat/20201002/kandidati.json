@@ -157,8 +157,9 @@
 			"support":[
 				47
 			],
+			"member": 47,
 			"color":"#eb343f",
-			"work": "starosta Blatna",
+			"work": "zastupitel Ústeckého kraje, starosta obce Blatno, elektrotechnik",
 			"motto": "Výsledky práce jsou určující"
 		},
 		{
@@ -279,7 +280,8 @@
 				"https://www.lasch.cz/",
 				"https://www.ods.cz/region.plzensky/volby2020/senatni/kandidati/2134-lumir-aschenbrenner",
 				"https://facebook.com/lumir.asch",
-				"https://twitter.com/Lem_Aschenbrenn"
+				"https://twitter.com/Lem_Aschenbrenn",
+				"https://cs.wikipedia.org/wiki/Lum%C3%ADr_Aschenbrenner"
 			],
 			"support":[
 				53,
@@ -291,7 +293,8 @@
 			"member":53,
 			"nominee":53,
 			"color":"#194392",
-      "photo": "lumir-aschenbrenner-2.jpg"
+      "photo": "lumir-aschenbrenner-2.jpg",
+			"work": "úřadující senátor, zastupitel města Plzeň, starosta městského obvodu Plzeň 2-Slovany"
 		},
 		{
 			"name":[
@@ -1023,14 +1026,16 @@
 				"bendlp@psp.cz",
 				"https://www.ods.cz/region.stredocesky/volby2020/senatni/kandidati/216-petr-bendl",
 				"https://twitter.com/bendl_petr",
-				"https://www.facebook.com/bendlpetr/"
+				"https://www.facebook.com/bendlpetr/",
+				"https://cs.wikipedia.org/wiki/Petr_Bendl"
 			],
 			"support":[
 				53
 			],
 			"member": 53,
 			"color":"#194392",
-			"photo": "petr-bendl.jpg"
+			"photo": "petr-bendl.jpg",
+			"work": "poslanec PČR, zastupitel obce Bratronice, bývalý ministr zemědělství a dopravy"
 		},
 		{
 			"name":[
@@ -1068,7 +1073,9 @@
 			"support": [
 				1114
 			],
-			"color":"#874a0f"
+			"member": 1114,
+			"color":"#874a0f",
+			"work": "zástupce ředitele společnosti"
 		},
 		{
 			"name":[
@@ -1637,12 +1644,15 @@
 			"links":[
 				"antl@miroslavantl.cz",
 				"http://www.miroslavantl.cz/",
-				"https://www.facebook.com/miroslavantl/"
+				"https://www.facebook.com/miroslavantl/",
+				"https://cs.wikipedia.org/wiki/Miroslav_Antl"
 			],
 			"support":[
 
 			],
-      "photo": "miroslav-antl.jpg"
+      "photo": "miroslav-antl.jpg",
+			"member": 99,
+			"work": "úřadující senátor zvolený za ČSSD, zastupitel Královéhradeckého kraje, odborný asistent na PedF UHK"
 		},
 		{
 			"name":[
@@ -1944,13 +1954,16 @@
 			"links":[
 				"bareki@senat.cz",
 				"http://barek.cz/",
-				"https://www.facebook.com/ivo.barek.9"
+				"https://www.facebook.com/ivo.barek.9",
+				"https://cs.wikipedia.org/wiki/Ivo_B%C3%A1rek"
 			],
 			"support":[
 				7
 			],
+			"member": 7,
 			"color":"#f59231",
-      "photo": "ivo-barek.jpg"
+      "photo": "ivo-barek.jpg",
+			"work": "úřadující senátor, zastupitel města Vyškov, bývalý místopředseda Senátu"
 		},
 		{
 			"name":[
@@ -2003,7 +2016,9 @@
 			"support": [
 				1114
 			],
-			"color":"#874a0f"
+			"member": 1114,
+			"color":"#874a0f",
+			"work": "zastupitel Jihomoravského kraje, VŠ pedagog, jednatel společnosti"
 		},
 		{
 			"name":[
@@ -2066,7 +2081,7 @@
 			"support":[
 				1184
 			],
-			"work":"autor, blogger a webový filozof na volné noze",
+			"work":"blogger a IT specialista, bývalý učitel na Fakultě výtvarných umění VUT",
 			"member":99,
 			"nominee":99,
 			"color":"#16cf74",
@@ -2142,7 +2157,9 @@
 			],
 			"color":"#874a0f",
 			"motto": "SPD pro budoucnost našich dětí",
-			"program": "https://doporucujeme.denik.cz/doporucujeme/kandidat-do-senatu-parlamentu-cr-za-brno-mesto-20200619.html"
+			"program": "https://doporucujeme.denik.cz/doporucujeme/kandidat-do-senatu-parlamentu-cr-za-brno-mesto-20200619.html",
+			"work": "zastupitel městské části Brno-Židenice, ředitel Střední školy Gemini",
+			"member": 1114
 		},
 		{
 			"name":[
@@ -2568,7 +2585,9 @@
 			"support":[
 				721
 			],
-			"color":"#531a92"
+			"member": 721,
+			"color":"#531a92",
+			"work": "starosta obce Palkovice, soukromý zemědělec a bývalý zootechnik"
 		},
 		{
 			"name":[
@@ -2585,7 +2604,9 @@
 				1114,
 				1123
 			],
-			"color":"#874a0f"
+			"member": 1123,
+			"color":"#874a0f",
+			"work": "starosta obce Mošnov"
 		},
 		{
 			"name":[
@@ -2899,12 +2920,13 @@
 			"links":[
 				"Michaela.Blahova@kr-zlinsky.cz",
 				"http://www.blahovadosenatu.cz/",
-				"https://www.facebook.com/BlahovaMisa/"
+				"https://www.facebook.com/BlahovaMisa/",
+				"https://cs.wikipedia.org/wiki/Michaela_Blahov%C3%A1"
 			],
 			"support":[
 				1
 			],
-			"work":"radní Zlínského kraje",
+			"work":"radní Zlínského kraje, zastupitelka města Zlín, pastorační asistentka",
 			"member":1,
 			"nominee":1,
 			"color":"#fec92f",
@@ -2991,14 +3013,15 @@
 				"bazala@staremesto.uh.cz",
 				"http://www.bazaladosenatu.cz/",
 				"https://www.facebook.com/BazalaJosef/",
-				"http://www.youtube.com/channel/UCwyJrKBSWVc9QMqj8jYLDNw"
+				"http://www.youtube.com/channel/UCwyJrKBSWVc9QMqj8jYLDNw",
+				"https://cs.wikipedia.org/wiki/Josef_Bazala_(starosta)"
 			],
 			"support":[
 				1,
 				721,
 				166
 			],
-			"work":"starosta",
+			"work":"zastupitel Zlínského kraje, starosta města Staré Město, folklorista",
 			"member":1,
 			"nominee":1,
 			"color":"#fec92f",
@@ -3054,7 +3077,9 @@
 			"support": [
 				1114
 			],
-			"color":"#874a0f"
+			"color":"#874a0f",
+			"work": "zastupitelka města Bystřice pod Hostýnem, živnostnice",
+			"member": 1114
 		}
 	],
 	"current":[
