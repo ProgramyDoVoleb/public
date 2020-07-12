@@ -152,13 +152,14 @@
 			],
 			"reg":6,
 			"links":[
-
+				"http://old.kscm.cz/volby-a-akce/poslanecka-snemovna-pcr6/kandidatni-listiny-do-ps-pcr-2010/ustecky-kraj/vaclav-benes"
 			],
 			"support":[
 				47
 			],
 			"color":"#eb343f",
-			"work": "starosta Blatna"
+			"work": "starosta Blatna",
+			"motto": "Výsledky práce jsou určující"
 		},
 		{
 			"name":[
@@ -1019,6 +1020,7 @@
 			],
 			"reg":30,
 			"links":[
+				"bendlp@psp.cz",
 				"https://www.ods.cz/region.stredocesky/volby2020/senatni/kandidati/216-petr-bendl",
 				"https://twitter.com/bendl_petr",
 				"https://www.facebook.com/bendlpetr/"
@@ -1939,7 +1941,9 @@
 			],
 			"reg":57,
 			"links":[
-
+				"bareki@senat.cz",
+				"http://barek.cz/",
+				"https://www.facebook.com/ivo.barek.9"
 			],
 			"support":[
 				7
@@ -1991,7 +1995,10 @@
 				""
 			],
 			"reg": 57,
-			"links": [],
+			"links": [
+				"https://www.facebook.com/libor.blaha.94",
+				"https://www.instagram.com/blaha_libor/"
+			],
 			"support": [
 				1114
 			],
@@ -2048,6 +2055,7 @@
 			],
 			"reg":60,
 			"links":[
+				"2020@lukasberta.cz",
 				"https://lukasberta.cz/o-me.htm",
 				"https://www.facebook.com/vlastovka.blog",
 				"https://twitter.com/lukasberta79",
@@ -2060,7 +2068,9 @@
 			"work":"autor, blogger a webový filozof na volné noze",
 			"member":99,
 			"nominee":99,
-			"color":"#16cf74"
+			"color":"#16cf74",
+			"program": "https://lukasberta.cz/program.htm",
+			"motto": "Slušnost, skromnost, porozumění"
 		},
 		{
 			"name":[
@@ -2883,7 +2893,9 @@
 			],
 			"reg":78,
 			"links":[
-
+				"Michaela.Blahova@kr-zlinsky.cz",
+				"http://www.blahovadosenatu.cz/",
+				"https://www.facebook.com/BlahovaMisa/"
 			],
 			"support":[
 				1
@@ -2891,7 +2903,9 @@
 			"work":"radní Zlínského kraje",
 			"member":1,
 			"nominee":1,
-			"color":"#fec92f"
+			"color":"#fec92f",
+			"motto": "Za rodiny, za seniory, za novou nemocnici",
+			"program": "http://www.blahovadosenatu.cz/program"
 		},
 		{
 			"name":[
@@ -2970,7 +2984,10 @@
 			],
 			"reg":81,
 			"links":[
-
+				"bazala@staremesto.uh.cz",
+				"http://www.bazaladosenatu.cz/",
+				"https://www.facebook.com/BazalaJosef/",
+				"http://www.youtube.com/channel/UCwyJrKBSWVc9QMqj8jYLDNw"
 			],
 			"support":[
 				1,
@@ -2980,7 +2997,8 @@
 			"work":"starosta",
 			"member":1,
 			"nominee":1,
-			"color":"#fec92f"
+			"color":"#fec92f",
+			"program": "http://www.bazaladosenatu.cz/o-nas/proc-kandiduji"
 		},
 		{
 			"name":[
