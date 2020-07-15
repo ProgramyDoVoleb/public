@@ -175,6 +175,27 @@
       }
     },
     {
+      "reg": 103,
+      "name": "SOS pro Liberecký kraj",
+      "short": "SOS",
+      "color": "#4da631",
+      "logo": "/obecne/strany/loga/103-sos.jpg",
+      "hash": "sos-lbk",
+      "links": {
+        "global": [
+          "https://www.instagram.com/aznakraj"
+        ],
+        "regional": [
+          {
+            "region": 6,
+            "links": [
+              "https://www.instagram.com/aznakraj"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "reg": 1039,
       "name": "ProOlomouc",
       "short": "ProOl",
