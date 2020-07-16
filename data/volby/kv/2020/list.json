@@ -1946,6 +1946,9 @@
 						"Lucie Ječmenová"
 					],
 					"data": "ulk/za-region"
+				},
+				{
+					"name": "Volba pro kraj"
 				}
 			]
 		},
@@ -4910,6 +4913,20 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"name": "Volba pro kraj",
+					"leader": {
+						"name": "Josef Krysta"
+					},
+					"list": [
+						"Renáta Valerie Nešporek"
+					],
+					"links": [
+	          "https://vok-volbaprokraj.cz/",
+	          "https://www.facebook.com/volbaprokraj/"
+					],
+					"data": "msk/volba-pro-kraj"
 				}
 			]
 		}

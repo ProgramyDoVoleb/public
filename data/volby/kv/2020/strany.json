@@ -2491,6 +2491,28 @@
       }
     },
     {
+      "name": "Volba pro kraj",
+      "short": "Volba",
+      "hash": "volba-pro-kraj",
+      "color": "#f9ae2e",
+      "logo": "/obecne/strany/loga/1118-vok-2.png",
+      "links": {
+        "global": [
+          "https://vok-volbaprokraj.cz/",
+          "https://www.facebook.com/volbaprokraj/"
+        ],
+        "regional": [
+          {
+            "region": 13,
+            "links": [
+              "https://vok-volbaprokraj.cz/",
+              "https://www.facebook.com/volbaprokraj/"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "name": "Volba pro Město Cheb",
       "short": "Volba pro Město Cheb",
       "color": "#fab519",
