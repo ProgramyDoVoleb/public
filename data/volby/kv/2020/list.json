@@ -459,6 +459,12 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"reg": 156
+				},
+				{
+					"reg": 1173
 				}
 			]
 		},
@@ -848,6 +854,16 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
@@ -1182,6 +1198,16 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
@@ -1266,7 +1292,8 @@
 						"links":[
 							"https://karlovarsky.pirati.cz/lide/josef-janu",
 							"https://www.facebook.com/pepik.janu",
-							"https://twitter.com/JosefJanu"
+							"https://twitter.com/JosefJanu",
+							"https://www.instagram.com/pepikjanu/"
 						]
 					},
 					"list":[
@@ -1564,6 +1591,16 @@
 					"leader": {
 						"name": "Luděk Petráň"
 					}
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
@@ -1814,7 +1851,14 @@
 					"data": "ulk/1114"
 				},
 				{
-					"name":"Čistý kraj",
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					],
 					"leader":{
 						"name":"Tomáš Vandas",
 						"reg":156,
@@ -1948,7 +1992,7 @@
 					"data": "ulk/za-region"
 				},
 				{
-					"name": "Volba pro kraj"
+					"reg": 1118
 				}
 			]
 		},
@@ -2444,6 +2488,9 @@
 				},
 				{
 					"reg":103
+				},
+				{
+					"reg": 156
 				}
 			]
 		},
@@ -2843,6 +2890,9 @@
 					"leader": {
 						"name": "Václav Makalouš"
 					}
+				},
+				{
+					"reg": 156
 				}
 			]
 		},
@@ -3168,6 +3218,7 @@
 					]
 				},
 				{
+					"name": "Trikolóra hnutí občanů a Strana soukromníků České republiky",
 					"coalition":[
 						1227,
 						716
@@ -3279,6 +3330,22 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"reg":716
+				},
+				{
+					"reg":770
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
@@ -3520,7 +3587,8 @@
 					]
 				},
 				{
-					"reg":1227,
+					"name": "Trikolora-Soukromníci",
+					"coalition":[1227, 770],
 					"leader":{
 						"name":"Jan Tesař",
 						"reg":1227
@@ -3693,6 +3761,9 @@
 					"leader": {
 						"name": "Josef Pelikán"
 					}
+				},
+				{
+					"reg": 156
 				}
 			]
 		},
@@ -4030,6 +4101,16 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
@@ -4220,6 +4301,7 @@
 					"data":"olk/cssd-patrioti"
 				},
 				{
+					"name": "Piráti a Starostové",
 					"coalition":[
 						166,
 						720
@@ -4312,6 +4394,13 @@
 				},
 				{
 					"reg":137
+				},
+				{
+					"reg": 156
+				},
+				{
+					"name": "Soukromníci a ODA",
+					"coalition": [716, 1173]
 				}
 			]
 		},
@@ -4915,7 +5004,7 @@
 					"reg":137
 				},
 				{
-					"name": "Volba pro kraj",
+					"reg": 1118,
 					"leader": {
 						"name": "Josef Krysta"
 					},
@@ -4927,6 +5016,12 @@
 	          "https://www.facebook.com/volbaprokraj/"
 					],
 					"data": "msk/volba-pro-kraj"
+				},
+				{
+					"reg": 1225
+				},
+				{
+					"reg": 156
 				}
 			]
 		}

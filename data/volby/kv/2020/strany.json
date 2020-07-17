@@ -328,7 +328,7 @@
     },
     {
       "reg": 1118,
-      "name": "VOK - Volba pro Karlovarský kraj",
+      "name": "VOK - Volba pro kraj",
       "short": "VOK",
       "color": "#f9ae2e",
       "logo": "/obecne/strany/loga/1118-vok-2.png",
@@ -575,6 +575,17 @@
       }
     },
     {
+      "reg": 1225,
+      "name": "Jednotní - alternativa pro patrioty (JAP)",
+      "hash": "jednotni",
+      "short": "Jednotní",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa"
+    },
+    {
       "reg": 1227,
       "name": "Trikolóra hnutí občanů",
       "short": "Trikolóra",
@@ -762,6 +773,18 @@
         "regional": []
       },
       "color": "#0dd63f"
+    },
+    {
+      "reg": 156,
+      "name": "Dělnická strana sociální spravedlnosti",
+      "hash": "dsss",
+      "short": "DSSS",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/156-dsss.svg",
+      "color": "#113a96"
     },
     {
       "reg": 158,
