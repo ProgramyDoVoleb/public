@@ -1,10 +1,10 @@
 {
   "reg": 103,
-  "name": "SOS pro Liberecký kraj",
+  "name": "Strana pro otevřenou společnost",
   "short": "SOS",
   "color": "#ffca00",
   "logo": "/obecne/strany/loga/103-sos.jpg",
-  "hash": "sos-lbk",
+  "hash": "sos",
   "links": {
     "global": [
       "https://www.instagram.com/aznakraj"
@@ -13,7 +13,8 @@
       {
         "region": 6,
         "links": [
-          "https://www.instagram.com/aznakraj"
+          "https://www.instagram.com/aznakraj",
+          "https://www.facebook.com/SOSzaLK/"
         ]
       }
     ]

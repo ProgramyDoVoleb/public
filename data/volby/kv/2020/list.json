@@ -2487,7 +2487,28 @@
 					}
 				},
 				{
-					"reg":103
+					"reg":103,
+					"leader": {
+						"name": "Jan Hraško",
+						"photo": "jan-hrasko.jpg",
+						"reg": 99
+					},
+					"list": [
+						{"name": "Robert Gamba", "reg": 99},
+						{"name": "Pavel Bednář", "reg": 99},
+						{"name": "Václav Konopiský", "reg": 99},
+						{"name": "Ondřej Hink", "reg": 99},
+						{"name": "Ivanka Kolomá", "reg": 99},
+						{"name": "Jiří Paulů", "reg": 99},
+						{"name": "Miroslav Kyzyvát", "reg": 99},
+						{"name": "Marta Procházková", "reg": 99},
+						{"name": "Eva Folprechtová", "reg": 99}
+					],
+					"links": [
+						"https://www.instagram.com/aznakraj",
+						"https://www.facebook.com/SOSzaLK/"
+					],
+					"data": "lbk/103"
 				},
 				{
 					"reg": 156
