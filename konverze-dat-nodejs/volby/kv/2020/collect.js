@@ -19,3 +19,5 @@ var cmsg = process.argv[2] || "Aktualizace výpisu stran";
 setTimeout(() => execSync('git add --all',{stdio: 'inherit'}), 100);
 setTimeout(() => execSync('git commit -a -m "' + cmsg + '"',{stdio: 'inherit'}), 150);
 setTimeout(() => execSync('git ftp push',{stdio: 'inherit'}), 200);
+
+// 
