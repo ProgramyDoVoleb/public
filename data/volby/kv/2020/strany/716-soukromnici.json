@@ -1,0 +1,51 @@
+{
+  "reg": 716,
+  "name": "Strana soukromníků České republiky",
+  "short": "Soukromníci",
+  "color": "#e58b22",
+  "logo": "/obecne/strany/loga/716-sscr-n.jpg",
+  "hash": "soukromnici",
+  "links": {
+    "global": [
+      "http://www.soukromnici.cz/cs/",
+      "https://www.facebook.com/soukromnici"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+        ]
+      },
+      {
+        "region": 3,
+        "links": []
+      },
+      {
+        "region": 4,
+        "links": [
+        ]
+      },
+      {
+        "region": 5,
+        "links": []
+      },
+      {
+        "region": 7,
+        "links": [
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.facebook.com/Soukromn%C3%ADci-Pardubick%C3%BD-kraj-112031268946067/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://www.facebook.com/soukromnici.cz/"
+        ]
+      }
+    ]
+  }
+}

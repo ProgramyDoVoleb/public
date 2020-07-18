@@ -1,0 +1,27 @@
+{
+  "reg": 181,
+  "name": "Nestraníci",
+  "short": "Nestran.",
+  "color": "#ef2a0c",
+  "hash": "nestran-",
+  "links": {
+    "global": [],
+    "regional": [
+      {
+        "region": 3,
+        "links": [
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+        ]
+      }
+    ]
+  }
+}

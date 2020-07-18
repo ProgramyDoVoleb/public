@@ -1,0 +1,25 @@
+{
+  "reg": 703,
+  "name": "Starostové pro Liberecký kraj",
+  "short": "SLK",
+  "color": "#BD2C65",
+  "logo": "/obecne/strany/loga/703-starostove-liberecky.png",
+  "hash": "slk",
+  "links": {
+    "global": [
+      "https://www.starostoveprolibereckykraj.cz/",
+      "https://www.facebook.com/starostoveprolibereckykraj/",
+      "https://twitter.com/StarostovproLK"
+    ],
+    "regional": [
+      {
+        "region": 6,
+        "links": [
+          "https://www.starostoveprolibereckykraj.cz",
+          "https://www.facebook.com/starostoveprolibereckykraj/",
+          "https://twitter.com/StarostovproLK"
+        ]
+      }
+    ]
+  }
+}

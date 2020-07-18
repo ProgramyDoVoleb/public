@@ -1,0 +1,36 @@
+{
+  "reg": 795,
+  "name": "Liberálně ekologická strana",
+  "short": "LES",
+  "color": "#00575e",
+  "logo": "/obecne/strany/loga/795-les.png",
+  "hash": "les",
+  "links": {
+    "global": [
+      "https://stranales.cz/"
+    ],
+    "regional": [
+      {
+        "region": 5,
+        "links": [
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://www.facebook.com/lesvhk/"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+        ]
+      }
+    ]
+  }
+}

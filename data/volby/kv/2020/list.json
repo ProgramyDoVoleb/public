@@ -1,131 +1,326 @@
 {
-	"lastUpdate": 0,
-	"list": [
+	"lastUpdate":"2020-06-22",
+	"list":[
 		{
-			"id": 1,
-			"parties": [
+			"id":1,
+			"parties":[
 				{
-					"reg": 53,
-					"leader": {
-						"name": "Martin Kupka",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/region.stredocesky/profil/1158-martin-kupka"},
-							{"url": "https://www.facebook.com/martin.kupka1", "label": "Martin Kupka"},
-							{"url": "https://twitter.com/makupka", "label": "Martin Kupka"},
-							{"url": "https://www.instagram.com/smartinemprokraj", "label": "Martin Kupka"}
+					"reg":53,
+					"leader":{
+						"name":"Martin Kupka",
+						"reg":53,
+			      "photo": "martin-kupka.jpg",
+						"links":[
+							{
+								"url":"https://www.ods.cz/region.stredocesky/profil/1158-martin-kupka"
+							},
+							{
+								"url":"https://www.facebook.com/martin.kupka1",
+								"label":"Martin Kupka"
+							},
+							{
+								"url":"https://twitter.com/makupka",
+								"label":"Martin Kupka"
+							},
+							{
+								"url":"https://www.instagram.com/smartinemprokraj",
+								"label":"Martin Kupka"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.ods.cz/region.stredocesky", "label": "ODS.cz Středočeská"},
-						{"url": "https://www.facebook.com/349496602364", "label": "ODS Středočeský kraj"}
-					]
+					"links":[
+            "https://www.ods.cz/region.stredocesky/volby2020/krajske",
+						"https://www.facebook.com/349496602364"
+					],
+					"support":[
+						55, 716, 40, 24
+					],
+          "list": [
+            "Petr Vychodil", {"name": "Jarmila Smotlachová", "reg": 716}, "Martin Hrabánek", "Karel Bendl", "Tomáš Havlíček", "Pavel Pavlík", "Libor Lesák", "Jiří Havelka", "Luděk Štíbr", "Tomáš Vokurka", "Jakub Rejzek", "Miloslav Šmolík", "Michael Pánek", "Dan Jiránek", "Ilona Chrtová", "Josef Pátek", "Zdeněk Tůma", "Jan Skopeček", {"name": "Jaroslav Kolbek", "reg": 55}, "Lukáš Pilc", "Veronika Luňáková", "Pavel Rusý", "Roman Valuš", "Daniel Štěpánek", "Petr Magera", "Ondřej Hranička", "Petr Mach", "Soňa Chalupová", {"name": "Marcel Miška", "reg": 40}, "Petr Koten", "Jiří Havránek", "Tomáš Novák", "Zdeněk Nejdl", "Zdeněk Vocásek", "Tomáš Patočka", "Ondřej Vodňanský", "Jan Chleboun", "Josef Chalupa", {"name": "Tomáš Muller", "reg": 24}, "Tomáš Šalamon", "Roman Tichovský", "Barbora Nováková", "Jakub Nekolný", "Daniel Dvořák", "Daniel Hamberger", "Lukáš Burian", "Marek Tvrz", "Jiří Hudeček", "Jan Hofmann", "Josef Poživil", "Luděk Palek", "Jan Pleskač", "Miroslav Hölzel", "Václav Michl", "Alexis Kimbembe", "David Vaculík", "Vojtěch Hrdlička", "Eva Bajtalonová", "Jakub Kulhánek", "Martin Konečný", "Lukáš Vápeník", "Matouš Hoffmann", "Martin Marek", "Jan Klusáček", "Denisa Kleinová", "Kateřina Zusková", "Michal Muláček", "Marek Černoch", "Pavel Zeman", "Tomáš Kratochvíl", "Jan Šimon", "Jiří Jirout", "Luboš Šafránek", "Luděk Zámyslický", "Jiří Nedoma", "David Otava", "Jan Smital", "Roman Binder"
+          ],
+					"data": "stk/53"
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Robin Povšík",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.facebook.com/Povsik"},
-							{"url": "https://twitter.com/povsik"}
+					"reg":7,
+					"leader":{
+						"name":"Robin Povšík",
+						"reg":7,
+						"links":[
+							"https://www.facebook.com/Povsik",
+							"https://twitter.com/povsik"
 						]
 					},
-					"links": [
-						{"url": "http://stredocesky-kraj.cssd.cz"},
-						{"url": "https://www.facebook.com/JistotyproStredocechy"},
-						{"url": "https://www.instagram.com/cssdstredocesky"}
+					"links":[
+						"http://stredocesky-kraj.cssd.cz",
+						"https://www.facebook.com/JistotyproStredocechy",
+						"https://www.instagram.com/cssdstredocesky"
 					],
-					"list": [
+					"list":[
 						"Aneta Heřmanová"
 					]
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Jiří Snížek",
-						"reg": 720,
-						"links": [
-							{"url": "https://stredocesky.pirati.cz/lide/jiri-snizek"},
-							{"url": "https://www.facebook.com/snizekjiri"},
-							{"url": "https://twitter.com/snizekjiri"},
-							{"url": "https://www.instagram.com/snizekj"}
-						]
+					"reg":720,
+					"leader":{
+						"name":"Jiří Snížek",
+						"reg":720,
+						"links":[
+							"http://jirisnizek.cz/",
+							"https://stredocesky.pirati.cz/lide/jiri-snizek",
+							"https://www.facebook.com/snizekjiri",
+							"https://twitter.com/snizekjiri",
+							"https://www.instagram.com/snizekj"
+						],
+						"photo":"jiri-snizek.jpg"
 					},
-					"links": [
-						{"url": "https://stredocesky.pirati.cz"},
-						{"url": "https://www.facebook.com/PiratiStredniCechy"},
-						{"url": "https://www.twitter.com/pirati_sck"},
+					"links":[
+						"https://stredocesky.pirati.cz/volby/2020/krajske/",
+						"https://stredocesky.pirati.cz",
+						"https://www.facebook.com/PiratiStredniCechy",
+						"https://www.twitter.com/pirati_sck",
 						"https://www.instagram.com/stredocestipirati/"
 					],
-					"list": [
-						 "Jana Skopalíková", "Simona Luftová", "Daniel Netušil", "Petra Smutná", "Tomáš Zmuda", "Adéla Šípová", "Lucie Cirkva Chocholová", "Milan Zelený", "Petr Tomáš", "Petr Procházka", "Jan Lička", "Antonín Schejbal", "Milan Krch", "Martin Suchánek", "Vojtěch Lukavec", "Petr Chaluš", "Tomáš Lénárd", "Magdaléna Vilímovská", "Monika Keřková", "Štěpán Drtina", "Vojtěch Ertl", "Michal Hažlinský", "Jiří Lehejček", "Václav Kubaljak", "Jan Prokop", "Jan Trnka", "Jan Čáha", "Matouš Vanča", "Jaroslav Pros", "Josef Bouše", "Marek Řebíček", "Zdeněk Lajbner", "David Hösl", "Pavel Šanda", "Michal Trešl", "Tereza Kvitová", "Vladimír Kališ", "Markéta Šedivá", "Sámir Shanaáh", "Svatopluk Boček", "Jan Korbel", "Martin Martin", "Jakub Václavovič", "Radek Černohous", "Petr Čáp", "Naděžda Hamplová", "Miroslava Petráňová", "Roman Morávek", "Petr Petřík", "Patrick Zandl", "Jiří Adámek", "Jiřina Procházková", "Dominika Michailidu", "Jan Jurik", "Kristýna Hlásková", "Marek Jeřicha", "Jaroslava Pechová", "Vilém Nájemník", "Ondřej Klimeš", "Jan Lukášek", "Radek Hampl", "Ivan Šedek", "Tomáš Laňka", "Vít Šnajdr"
-					]
+					"list":[
+						"Jana Skopalíková",
+						"Simona Luftová",
+						"Daniel Netušil",
+						"Petra Smutná",
+						"Tomáš Zmuda",
+						"Adéla Šípová",
+						"Lucie Cirkva Chocholová",
+						"Milan Zelený",
+						"Petr Tomáš",
+						"Petr Procházka",
+						"Jan Lička",
+						"Antonín Schejbal",
+						"Milan Krch",
+						"Martin Suchánek",
+						"Vojtěch Lukavec",
+						"Petr Chaluš",
+						"Tomáš Lénárd",
+						"Magdaléna Vilímovská",
+						"Monika Keřková",
+						"Štěpán Drtina",
+						"Vojtěch Ertl",
+						"Michal Hažlinský",
+						"Jiří Lehejček",
+						"Václav Kubaljak",
+						"Jan Prokop",
+						"Jan Trnka",
+						"Jan Čáha",
+						"Matouš Vanča",
+						"Jaroslav Pros",
+						"Josef Bouše",
+						"Marek Řebíček",
+						"Zdeněk Lajbner",
+						"David Hösl",
+						"Pavel Šanda",
+						"Michal Trešl",
+						"Tereza Kvitová",
+						"Vladimír Kališ",
+						"Markéta Šedivá",
+						"Sámir Shanaáh",
+						"Svatopluk Boček",
+						"Jan Korbel",
+						"Martin Martin",
+						"Jakub Václavovič",
+						"Radek Černohous",
+						"Petr Čáp",
+						"Naděžda Hamplová",
+						"Miroslava Petráňová",
+						"Roman Morávek",
+						"Petr Petřík",
+						"Patrick Zandl",
+						"Jiří Adámek",
+						"Jiřina Procházková",
+						"Dominika Michailidu",
+						"Jan Jurik",
+						"Kristýna Hlásková",
+						"Marek Jeřicha",
+						"Jaroslava Pechová",
+						"Vilém Nájemník",
+						"Ondřej Klimeš",
+						"Jan Lukášek",
+						"Radek Hampl",
+						"Ivan Šedek",
+						"Tomáš Laňka",
+						"Vít Šnajdr"
+					],
+					"program":"https://drive.google.com/file/d/1FPBPzRyBMlsV2IS79X6j8DnT0-W_hTPx/view?usp=drivesdk",
+					"data": "stk/720"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Jaroslava Pokorná Jermanová",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.anobudelip.cz/cs/lide/predsednictvo/jaroslava-jermanova-20562.shtml"},
-							{"url": "https://www.facebook.com/jarkajermanova"},
-							{"url": "https://twitter.com/JermanovaStKraj"},
-							{"url": "https://www.instagram.com/jaroslavapokornajermanova"}
+					"reg":768,
+					"leader":{
+						"name":"Jaroslava Pokorná Jermanová",
+						"reg":768,
+						"links":[
+							{
+								"url":"https://www.anobudelip.cz/cs/lide/predsednictvo/jaroslava-jermanova-20562.shtml"
+							},
+							{
+								"url":"https://www.facebook.com/jarkajermanova"
+							},
+							{
+								"url":"https://twitter.com/JermanovaStKraj"
+							},
+							{
+								"url":"https://www.instagram.com/jaroslavapokornajermanova"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.anobudelip.cz/stredocesky-kraj", "label": "ANO Středočeské"}
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/stredocesky-kraj",
+							"label":"ANO Středočeské"
+						}
+					],
+					"list": [
+						{"name": "Irena Bartoňová-Pálková", "reg": 99},
+						"Gabriel Kovácz",
+						{"name": "Blanka Žánová", "reg": 99},
+						"Martin Draxler",
+						"Robert Bezděk",
+						"František Petrtýl",
+						"Martin Herman",
+						"Jiří Haspeklo",
+						{"name": "Vratislav Rubeš", "reg": 99},
+						"Jiřina Michalová",
+						{"name": "Jiří Bouška", "reg": 99},
+						"Miroslav Samaš",
+						"Jaroslava Němcová",
+						"Adriena Gabrielová",
+						"Drahomír Blažej",
+						"Vladimír Havlík",
+						{"name": "Michaela Vojtová", "reg": 99},
+						{"name": "Jan Konvalinka", "reg": 99},
+						"Roman Štěrba",
+						"Miloš Babiš",
+						"Ivo Bednář",
+						"Klára Dubovská",
+						"Petr Kowanda",
+						"Jan Máslík",
+						"Josef Viktora",
+						"Igor Karen",
+						"Antonín Merhaut",
+						"Radka Alexandra Salzmannová",
+						"Václav Hájek",
+						"Barbora Daňhová",
+						"Petr Lošek",
+						"Jan Procházka",
+						"Romana Fischerová",
+						"Marcel Winter",
+						"Jaroslav Verner",
+						"Tomáš Dvořáček",
+						"Alice Vavřínová",
+						"Jaroslav Trachta",
+						"Martin Bajer",
+						"Iva Opletalová",
+						"Petr Marek",
+						"Zorka Brožíková",
+						"Richard Franěk",
+						"Roman Škrabánek",
+						"Petr Kožený",
+						"Pavel Serňuk",
+						{"name": "Tomáš Haslík", "reg": 99},
+						"Jiří Kuřák",
+						"Petr Karban",
+						"Tomáš Pekárek",
+						"Radek Vondráček",
+						"Jiří Javůrek",
+						"Sergej Mochalin",
+						"Rastislav Žumár",
+						"Zdeněk Šifka",
+						"Jiří Kukla"
 					]
 				},
 				{
-					"reg": 166,
-					"support": [1, 129],
-					"leader": {
-						"name": "Petra Pecková",
-						"reg": 166,
-						"links": [
+					"reg":166,
+					"support":[
+						1,
+						129
+					],
+					"leader":{
+						"name":"Petra Pecková",
+						"reg":166,
+						"links":[
 							"https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra",
 							"https://www.facebook.com/peckovapetra",
 							"https://www.facebook.com/petra.peckova.39",
 							"https://twitter.com/PPeckova",
 							"https://www.instagram.com/petra_peckova_starostka"
 						],
-						"photo": "lide/fotky/petra-peckova.jpg"
+						"photo":"petra-peckova.jpg"
 					},
-					"links": [
+					"links":[
 						"https://starostovestrednicechy.cz/",
 						"https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
 						"https://www.facebook.com/starostove.stredocesky",
 						"https://twitter.com/STAN_Stc"
 					],
-					"list": [
-						{"name": "Vít Rakušan", "reg": 166},
-						{"name": "Věslav Michalík", "reg": 166},
-						{"name": "Zdeněk Volf", "reg": 1},
-						{"name": "Ondřej Lochman", "reg": 99},
-						{"name": "Pavla Štrobachová", "reg": 99},
-						{"name": "Daniel Marek", "reg": 99},
-						{"name": "Michael Kašpar", "reg": 166},
-						{"name": "Petr Borecký", "reg": 99},
-						{"name": "Luděk Jeništa", "reg": 166},
-						{"name": "Stanislav Boloňský", "reg": 129}
+					"list":[
+						{
+							"name":"Vít Rakušan",
+							"reg":166
+						},
+						{
+							"name":"Věslav Michalík",
+							"reg":166
+						},
+						{
+							"name":"Zdeněk Volf",
+							"reg":1
+						},
+						{
+							"name":"Ondřej Lochman",
+							"reg":99
+						},
+						{
+							"name":"Pavla Štrobachová",
+							"reg":99
+						},
+						{
+							"name":"Daniel Marek",
+							"reg":99
+						},
+						{
+							"name":"Michael Kašpar",
+							"reg":166
+						},
+						{
+							"name":"Petr Borecký",
+							"reg":99
+						},
+						{
+							"name":"Luděk Jeništa",
+							"reg":166
+						},
+						{
+							"name":"Stanislav Boloňský",
+							"reg":129
+						}
 					],
-					"data": "stk/166"
+					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data":"stk/166"
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Antonín Fryč",
-						"reg": 1227
-					}
-				},
-				{
-					"reg": 47,
-					"leader": {
-						"name": "Zdeněk Štefek"
+					"reg":1227,
+					"leader":{
+						"name":"Antonín Fryč",
+						"reg":1227
 					},
 					"list": [
+						"Natálie Vachatová",
+						"Ondřej Hutník",
+						"Zdeněk Seidl"
+					]
+				},
+				{
+					"reg":47,
+					"leader":{
+						"name":"Zdeněk Štefek"
+					},
+					"list":[
 						"Ivan Cinka",
 						"Ladislava Šimková",
 						"Jindřich Havelka",
@@ -133,58 +328,176 @@
 					]
 				},
 				{
-					"name": "Spojenci pro Středočeský kraj",
-					"coalition": [721, 5, 1220],
+					"name":"Spojenci pro Středočeský kraj",
+					"coalition":[
+						721,
+						5,
+						1220
+					],
+					"leader":{
+						"name":"Jan Jakob",
+						"reg":721,
+						"photo": "jan-jakob.jpg",
+						"links": [
+							"http://www.janjakob.cz/",
+							"https://www.top09.cz/volby/2020-krajska-zastupitelstva/jan-jakob-27351.html",
+							"https://www.facebook.com/starostaJakob/",
+							"https://www.facebook.com/jan.jakob.54",
+							"https://twitter.com/Jan_Jakob",
+							"https://www.instagram.com/honza_jakob/"
+						]
+					},
+					"links":[
+						{
+							"url":"https://www.top09.cz/regiony/stredocesky-kraj/",
+							"label":"TOP 09 STK"
+						},
+						{
+							"url":"http://stredocesky.zeleni.cz/",
+							"label":"Zelení STK"
+						},
+						{
+							"url":"https://www.hnutihlas.cz/regiony/stredocesky-kraj/",
+							"label":"HLAS STK"
+						},
+						{
+							"url":"https://www.facebook.com/TOP09.Stredocesky.kraj/",
+							"label":"TOP 09 STK"
+						},
+						{
+							"url":"https://www.facebook.com/hnutihlas"
+						},
+						{
+							"url":"https://www.facebook.com/stredocesi"
+						},
+						{
+							"url":"https://twitter.com/zelenistredozem"
+						}
+					],
+					"list":[
+						{
+							"name":"Jana Krumpholcová",
+							"reg":5
+						},
+						{
+							"name":"Jana Vidímová",
+							"reg":5
+						},
+						{
+							"name":"Martin Mach",
+							"reg":5
+						},
+						{
+							"name":"Eva Češpivová",
+							"reg":5
+						},
+						{
+							"name":"Luboš Kožíšek",
+							"reg":5
+						},
+						{
+							"name":"Daricha Moravčíková",
+							"reg":5
+						},
+						{
+							"name":"Petr Brož",
+							"reg":5
+						},
+						{
+							"name":"Alena Šálová",
+							"reg":5
+						},
+						{
+							"name":"Jan Stachura",
+							"reg":5
+						},
+						{
+							"name":"David Hynek",
+							"reg":5
+						},
+						{
+							"name":"Magdalena Davis",
+							"reg":5
+						}
+					],
+					"data": "stk/spojenci-pro-stredocesky-kraj"
+				},
+				{
+					"reg":715
+				},
+				{
+					"reg":1114,
 					"leader": {
-						"name": "Jan Jakob",
-						"reg": 721
+						"name": "Radek Rozvoral",
+						"reg": 1114,
+						"links": [
+							"https://www.facebook.com/Radek-Rozvoral-338729052930562/"
+						]
 					},
 					"links": [
-						{"url": "https://www.top09.cz/regiony/stredocesky-kraj/", "label": "TOP 09 STK"},
-						{"url": "http://stredocesky.zeleni.cz/", "label": "Zelení STK"},
-						{"url": "https://www.hnutihlas.cz/regiony/stredocesky-kraj/", "label": "HLAS STK"},
-						{"url": "https://www.facebook.com/TOP09.Stredocesky.kraj/", "label": "TOP 09 STK"},
-						{"url": "https://www.facebook.com/hnutihlas"},
-						{"url": "https://www.facebook.com/stredocesi"},
-						{"url": "https://twitter.com/zelenistredozem"}
-					],
-					"list": [
-						{"name": "Jana Krumpholcová", "reg": 5},
-						{"name": "Jana Vidímová", "reg": 5},
-						{"name": "Martin Mach", "reg": 5},
-						{"name": "Eva Češpivová", "reg": 5},
-						{"name": "Luboš Kožíšek", "reg": 5},
-						{"name": "Daricha Moravčíková", "reg": 5},
-						{"name": "Petr Brož", "reg": 5},
-						{"name": "Alena Šálová", "reg": 5},
-						{"name": "Jan Stachura", "reg": 5},
-						{"name": "David Hynek", "reg": 5},
-						{"name": "Magdalena Davis", "reg": 5}
+						"https://www.facebook.com/SPDstredocesky/"
 					]
 				},
 				{
-					"reg": 715
+					"reg": 714,
+					"leader": {
+						"name": "Luboš Zálom",
+						"reg": 714,
+						"links": [
+							"https://luboszalom.cz/",
+							"https://www.facebook.com/luboszalom.politika/",
+							"https://twitter.com/luboszalom"
+						]
+					},
+					"links": [
+						"https://www.svobodni.cz/kraje/stredocesky-kraj/"
+					],
+					"list": [
+						"Marek Hejduk",
+						"Petr Zavadil"
+					]
+				},
+				{
+					"reg":137
+				},
+				{
+					"reg": 156
+				},
+				{
+					"reg": 1173
 				}
 			]
 		},
 		{
-			"id": 2,
-			"parties": [
+			"id":2,
+			"parties":[
 				{
-					"coalition": [1, 721],
-					"name": "Společně pro jižní Čechy",
-					"leader": {
-						"name": "František Talíř",
-						"reg": 1,
-						"links": [
-							{"url": "http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)", "label": "Profil"},
-							{"url": "https://www.facebook.com/frantisek.talir", "label": "FB stránky"},
-							{"url": "https://www.instagram.com/frantisek.talir"}
+					"coalition":[
+						1,
+						721
+					],
+					"name":"Společně pro jižní Čechy",
+					"leader":{
+						"name":"František Talíř",
+						"reg":1,
+						"links":[
+							{
+								"url":"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
+								"label":"Profil"
+							},
+							{
+								"url":"https://www.facebook.com/frantisek.talir",
+								"label":"FB stránky"
+							},
+							{
+								"url":"https://www.instagram.com/frantisek.talir"
+							}
 						]
 					},
-					"list": [
+					"list":[
 						"Robert Huneš",
 						"Šimon Heller",
+						{"name": "Pavel Klíma", "reg": 721},
 						"Jan Bartošek",
 						"Michaela Kudláčková",
 						"Petr Hladík",
@@ -194,56 +507,80 @@
 						"Jaroslav Hejl",
 						"Rudolf Vodička"
 					],
-					"links": [
-						{"url": "http://jiznicechy.kdu.cz", "label": "KDU-ČSL Jižní Čechy"},
-						{"url": "https://www.top09.cz/regiony/jihocesky-kraj/", "label": "TOP 09 Jižní Čechy"},
-						{"url": "https://www.facebook.com/jihocesky.kdu"},
-						{"url": "https://www.facebook.com/TOP09.Jihocesky.kraj"}
-					]
-				},
-				{
-					"reg": 53,
-					"leader": {
-						"name": "Martin Kuba",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/region.jihocesky/profil/martin-kuba"},
-							{"url": "https://www.facebook.com/KubaODS"},
-							{"url": "https://twitter.com/Kuba_Martin"}
-						]
-					},
-					"list": [
-						"Tomáš Fiala",
-						"Martin Hrinek"
+					"links":[
+						"https://spolecneprojiznicechy.cz/",
+						"https://www.hejtmantour.cz/",
+						{
+							"url":"http://jiznicechy.kdu.cz",
+							"label":"KDU-ČSL Jižní Čechy"
+						},
+						{
+							"url":"https://www.top09.cz/regiony/jihocesky-kraj/",
+							"label":"TOP 09 Jižní Čechy"
+						},
+						{
+							"url":"https://www.facebook.com/jihocesky.kdu"
+						},
+						{
+							"url":"https://www.facebook.com/TOP09.Jihocesky.kraj"
+						}
 					],
-					"links": [
-						{"url": "https://www.ods.cz/region.jihocesky", "label": "ODS Jihočeský kraj"}
-					]
+					"program":"https://spolecneprojiznicechy.cz/#program",
+					"data":"jck/spolecneprojc"
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Ivana Stráská",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.cssd.cz/nasi-lide/ivana-straska"}
+					"reg":53,
+					"leader":{
+						"name":"Martin Kuba",
+						"reg":53,
+						"photo": "martin-kuba.jpg",
+						"links":[
+							"https://www.martinkuba.cz/",
+							"https://www.ods.cz/region.jihocesky/profil/martin-kuba",
+							"https://www.facebook.com/KubaODS",
+							"https://twitter.com/Kuba_Martin"
 						]
 					},
-					"links": [
-						{"url": "http://jihocesky-kraj.cssd.cz", "label": "ČSSD Jihočeský kraj"},
-						{"url": "https://www.facebook.com/cssdjihoceskykraj"}
-					]
+					"list":[
+						"Martin Kuba", "Lucie Kozlová", "Tomáš Hajdušek", "Dagmar Škodová Parmová", "Jan Váňa", "Hana Šťastná", "Jan Bauer", {"name": "Jan Krob", "reg": 99}, "Michal Přibáň", "Linda Hetešová", "Petr Eliáš", {"name": "Martin Hrinko", "reg": 99}, "Jan Zahradník", {"name": "Roman Meleg", "reg": 99}, "Zbyněk Sýkora", {"name": "Dagmar Rückerová", "reg": 99}, {"name": "Karel Mach", "reg": 99}, {"name": "Jiří Popelka", "reg": 99}, {"name": "Zuzana Benešová", "reg": 99}, "Pavel Eybert", {"name": "Zdeněk Křížek", "reg": 99}, "Radim Staněk", "Pavel Souhrada", "Martina Sudová", "Jiří Baštář", "Jitka Šebelková", {"name": "Tomáš Pintér", "reg": 99}, "Hana Dufková Spoladore", "Zdeněk Hobzek", "František Dědič", "Tomáš Jirsa", "Václav Filištein", {"name": "Antonín Sekyrka", "reg": 99}, "Pavel Mádl", "Michal Průša", "David Šašek", "Ladislav Přívozník", {"name": "Hana Randová", "reg": 99}, "Jan Ptáčník", "Magdalena Opolzerová", "Robert Flandera", "Marie Laláková", "Karel Vaškovský", "Ivo Ježek", "Veronika Nebeská", "Irena Ravandi", "Michal Sirový", "Zdeněk Žampa", "Hana Dušková", "Václav Hoštička", {"name": "Marie Kabátová", "reg": 99}, "Vít Kavalír", "Dana Tobiášková", "Jana Grammetbauerová", "Irena Tomanová", "Milan Hulan", "Jana Drobilová Holcová", "Šimon Chvosta", "Jaroslav Drda", "David Ciml"
+					],
+					"links":[
+            "https://www.ods.cz/region.jihocesky/volby2020/krajske"
+					],
+					"data": "jck/53"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Lukáš Mareš",
-						"reg": 720,
-						"links": [
-							{"url": "https://jihocesky.pirati.cz/clenove/mares-lukas"}
+					"reg":7,
+					"leader":{
+						"name":"Ivana Stráská",
+						"reg":7,
+						"links":[
+							"https://www.cssd.cz/nasi-lide/ivana-straska",
+							"https://www.facebook.com/StraskaIvana/"
 						]
 					},
+					"links":[
+						"https://jihoceskacssd.cz",
+						"https://www.facebook.com/jihoceskyraj/"
+					],
 					"list": [
+						"Mgr. Bc. Antonín Krák", "Ing. Olga Bastlová", "Ing. Miroslav Joch, MBA", "Ing. Petra Blížilová", "MUDr. Michal Turek, MBA", "RNDr. Jana Krejsová", "Mgr. Jaromír Novák", "Ing. Petr Jenkner", "Pavel Ounický", "PaedDR. Jan Klimeš", "Ing. Václav Valhoda", "doc. MUDr. Kvetoslava Kotrbová, Ph.D.", "Mgr. Vladimír Mašek", "Mgr. Ivana Ambrusová", "MUDr. Petr Vošta", "MUDr. Karel Chytrý", "MUDr. Zdeněk Krajíček", "JUDr. Ondřej Veselý", "Bc. David Šťastný", "Mgr. Zdeněk Krátký", "MUDr. Jindřich Florián", "Mgr. Ondřej Flaška", "MUDr. Ladislav Kuchař", "MUDr. Lenka Viličková", "Miroslav Fenc", "Ing. Lubomír Skála", "Bc. Josef Vochoska", "Bc. Miroslav Kadeřábek", "Ing. Jan Bauer", "Karel Vácha", "MUDr. Marie Nosková", "Ing. Miloš Juha, Ph.D.", "Ing. Marie Náhlíková", "prof. PaedDr. Milada Krejčí, CSc.", "Mgr. Pavel Mráček", "Mgr. Markéta Kubová", "Jindřiška Kudrlová", "Miroslav Smetana", "Mgr. Miroslava Sekyrková", "Mgr. Veronika Królová, Ph.D.", "Mgr. Zuzana Šimková", "Mgr. Miroslav Bína", "Mgr. Martin Třeštík", "Ing. Miloslav Procházka, CSc.", "Ing. Robert Pročka", "Zdeněk Kemény", "Jaroslava Sýkorová", "Ing. Josef Hlávka", "Jana Švecová", "MUDr. Ondřej Nikolov", "RNDr. Ing. Vladimír Říha, CSc.", "Bc. Marie Jozová", "Miroslav Řepa", "Miloslav Kolář"
+					],
+					"motto": "Víme, jak bezpečně dál",
+					"data": "jck/7"
+				},
+				{
+					"reg":720,
+					"leader":{
+						"name":"Lukáš Mareš",
+						"reg":720,
+						"photo": "lukas-mares.jpg",
+						"links":[
+							"https://jihocesky.pirati.cz/clenove/mares-lukas",
+							"https://lide.pirati.cz/personProfile/658/"
+						]
+					},
+					"list":[
 						"Jan Novák",
 						"Josef Soumar",
 						"Veronika Kovářová",
@@ -254,45 +591,62 @@
 						"Lucie Korytářová",
 						"Lukáš Kolářík"
 					],
-					"links": [
-						{"url": "https://jihocesky.pirati.cz"},
-						{"url": "https://www.facebook.com/pirati.jck"},
-						{"url": "https://www.twitter.com/PiratiJcK"},
-						{"url": "https://www.instagram.com/pirati.jihocesky"}
-					]
+					"links":[
+						"https://jihocesky.pirati.cz",
+						"https://www.facebook.com/pirati.jck",
+						"https://www.twitter.com/PiratiJcK",
+						"https://www.instagram.com/pirati.jihocesky"
+					],
+					"data":"jck/720",
+					"program": "https://jihocesky.pirati.cz/program/"
 				},
 				{
-					"reg": 1229,
-					"leader": {
-						"name": "Stanislav Mrvka",
-						"reg": 1229,
-						"links": [
-							{"url": "https://www.facebook.com/stanislav.mrvka.7"}
+					"reg":1229,
+					"leader":{
+						"name":"Stanislav Mrvka",
+						"reg":1229,
+			      "photo": "stanislav-mrvka.jpg",
+						"links":[
+							"https://www.facebook.com/stanislav.mrvka.7"
 						]
 					},
-					"list": [
+					"list":[
 						"Jiří Zimola"
 					],
-					"links": [
-						{"url": "https://www.facebook.com/zmena2020"}
-					]
+					"links":[
+						"https://www.zmena2020.cz/",
+						"https://www.facebook.com/zmena2020"
+					],
+					"data": "jck/1229"
 				},
 				{
-					"reg": 166,
-					"leader": {
-						"name": "Jiří Švec",
-						"reg": 166,
-						"links": [
-							{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj/svec-jiri"},
-							{"url": "https://www.facebook.com/jisvec"}
-						]
+					"reg":166,
+					"leader":{
+						"name":"Jiří Švec",
+						"reg":166,
+						"links":[
+							{
+								"url":"https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj/svec-jiri"
+							},
+							{
+								"url":"https://www.facebook.com/jisvec"
+							}
+						],
+						"photo":"jiri-svec.jpg"
 					},
-					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj", "label": "STAN Jihočeský"},
-						{"url": "https://www.facebook.com/starostove.jihocesky"},
-						{"url": "https://twitter.com/jck_stan"}
+					"links":[
+						{
+							"url":"https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj",
+							"label":"STAN Jihočeský"
+						},
+						{
+							"url":"https://www.facebook.com/starostove.jihocesky"
+						},
+						{
+							"url":"https://twitter.com/stan_jck"
+						}
 					],
-					"lide": [
+					"lide":[
 						"Jaroslava Martanová",
 						"Pavel Houdek",
 						"Jiří Šimánek",
@@ -302,149 +656,311 @@
 						"Milan Němeček",
 						"Hynek Blažek",
 						"František Toušek",
-						"Lenka Malá"
-					]
+						"Lenka Malá",
+						"Jan Mádl",
+						"Václav Vostradovský",
+						"Jaroslav Havel",
+						"Jiří Fencl",
+						"Ondřej Pumpr",
+						"Jiří Šimánek"
+					],
+					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data":"jck/166"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "František Konečný",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.facebook.com/frantisek.konecny.50"}
+					"reg":768,
+					"leader":{
+						"name":"František Konečný",
+						"reg":768,
+						"links":[
+							{
+								"url":"https://www.facebook.com/frantisek.konecny.50"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.anobudelip.cz/jihocesky-kraj", "label": "ANO Jihočeské"},
-						{"url": "https://www.facebook.com/ANOjihoceskykraj"}
-					]
-				},
-				{
-					"reg": 1227,
-					"support": [714],
-					"leader": {
-						"name": "Ivana Kerlesová",
-						"reg": 1227,
-						"links": [
-							{"url": "https://www.facebook.com/Kerlesova"},
-							{"url": "https://twitter.com/IvanaKerlesova"}
-						]
-					},
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/jihocesky-kraj",
+							"label":"ANO Jihočeské"
+						},
+						{
+							"url":"https://www.facebook.com/ANOjihoceskykraj"
+						}
+					],
 					"list": [
+						"Barbora Šiftová",
+						"Ludmila Pánková",
+						"Magda Blížová",
+						"Petr Holický",
+						"Jiří Svoboda"
+					]
+				},
+				{
+					"reg":1227,
+					"support":[
+						714
+					],
+					"leader":{
+						"name":"Ivana Kerlesová",
+						"reg":1227,
+						"links":[
+							{
+								"url":"https://www.facebook.com/Kerlesova"
+							},
+							{
+								"url":"https://twitter.com/IvanaKerlesova"
+							}
+						],
+						"photo":"ivana-kerlesova.jpg"
+					},
+					"list":[
 						"Dalibor Uhlíř",
 						"Jaroslav Zvěřina",
-						{"name": "Libor Vondráček", "reg": 714},
+						{
+							"name":"Libor Vondráček",
+							"reg":714
+						},
 						"Jiří Černý"
 					],
-
-					"links": [
-						{"url": "https://www.facebook.com/trikolora.jiznicechy"}
-					]
+					"links":[
+						{
+							"url":"https://www.facebook.com/trikolora.jiznicechy"
+						}
+					],
+					"data":"jck/1227",
+					"program":"https://kerleska.cz/program/"
 				},
 				{
-					"coalition": [766, 136, 753],
-					"links": [
-						{"url": "http://jihocesi2012.cz"},
-						{"url": "https://www.facebook.com/Jihocesi2012"},
-						{"url": "https://twitter.com/Jihocesi2012"},
-						{"url": "https://www.tabor2020.cz"},
-						{"url": "https://www.facebook.com/tabor2020"},
-						{"url": "https://www.instagram.com/tabor2020"},
-						{"url": "https://www.obcaneprobudejovice.cz"},
-						{"url": "https://www.facebook.com/Obcane.pro.Budejovice"},
-						{"url": "https://www.instagram.com/obcaneprobudejovice"}
+					"coalition":[
+						766,
+						136,
+						753
 					],
-					"leader": {
-						"name": "Pavel Hroch",
-						"reg": 766,
-						"links": [
-							{"url": "https://www.facebook.com/pavel.hroch.370"}
+					"links":[
+						{
+							"url":"http://jihocesi2012.cz"
+						},
+						{
+							"url":"https://www.facebook.com/Jihocesi2012"
+						},
+						{
+							"url":"https://twitter.com/Jihocesi2012"
+						},
+						{
+							"url":"https://www.tabor2020.cz"
+						},
+						{
+							"url":"https://www.facebook.com/tabor2020"
+						},
+						{
+							"url":"https://www.instagram.com/tabor2020"
+						},
+						{
+							"url":"https://www.obcaneprobudejovice.cz"
+						},
+						{
+							"url":"https://www.facebook.com/Obcane.pro.Budejovice"
+						},
+						{
+							"url":"https://www.instagram.com/obcaneprobudejovice"
+						}
+					],
+					"leader":{
+						"name":"Pavel Hroch",
+						"reg":766,
+						"links":[
+							{
+								"url":"https://www.facebook.com/pavel.hroch.370"
+							}
 						]
 					},
-					"list": [
-						{"name": "Jan Kubeš", "reg": 766},
-						{"name": "Pavel Pavel", "reg": 766},
-						{"name": "Juraj Thoma", "reg": 753},
-						{"name": "Ivo Moravec", "reg": 753},
-						{"name": "Martin Malý", "reg": 766},
-						{"name": "Jiří Fišer", "reg": 766},
-						{"name": "Eva Vanžurová", "reg": 766},
-						{"name": "Martin Doležal", "reg": 766},
-						{"name": "Jindřich Bláha", "reg": 766},
-						{"name": "Ivan Radosta", "reg": 766},
-						{"name": "Štěpán Pavlík", "reg": 136},
-						{"name": "Pavel Vondrys", "reg": 766}
+					"list":[
+						{
+							"name":"Jan Kubeš",
+							"reg":766
+						},
+						{
+							"name":"Pavel Pavel",
+							"reg":766
+						},
+						{
+							"name":"Juraj Thoma",
+							"reg":753
+						},
+						{
+							"name":"Ivo Moravec",
+							"reg":753
+						},
+						{
+							"name":"Martin Malý",
+							"reg":766
+						},
+						{
+							"name":"Jiří Fišer",
+							"reg":766
+						},
+						{
+							"name":"Eva Vanžurová",
+							"reg":766
+						},
+						{
+							"name":"Martin Doležal",
+							"reg":766
+						},
+						{
+							"name":"Jindřich Bláha",
+							"reg":766
+						},
+						{
+							"name":"Ivan Radosta",
+							"reg":766
+						},
+						{
+							"name":"Štěpán Pavlík",
+							"reg":136
+						},
+						{
+							"name":"Pavel Vondrys",
+							"reg":766
+						}
 					]
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Radek Nejezchleb",
-						"reg": 47
+					"reg":47,
+					"leader":{
+						"name":"Radek Nejezchleb",
+						"reg":47
 					}
 				},
 				{
-					"reg": 5
+					"reg":5
 				},
 				{
-					"reg": 715
+					"reg":715
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Jana Pupavová",
+						"reg":1114,
+						"links": [
+							"http://www.janapupavova.cz",
+							"https://www.facebook.com/pupavovajana/"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/SPDjihocesky/"
+					]
+				},
+				{
+					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": 3,
-			"parties": [
+			"id":3,
+			"parties":[
 				{
-					"coalition": [53, 721],
-					"name": "ODS s podporou TOP09 a nezávislých starostů",
-					"leader": {
-						"name": "Ilona Mauritzová",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/region.plzensky/profil/ilona-mauritzova"},
-							{"url": "https://www.facebook.com/ilonamauritzova"}
-						]
-					},
-					"links": [
-						{"url": "https://www.ods.cz/region.plzensky", "label": "ODS Plzeňský kraj"},
-						{"url": "https://www.facebook.com/regionplzensky"},
-						{"url": "https://www.top09.cz/regiony/plzensky-kraj", "label": "TOP 09 Plzeňský kraj"},
-						{"url": "https://www.facebook.com/TOP09.Plzensky.kraj", "label": "TOP 09 Plzeňský kraj"},
-						{"url": "https://twitter.com/top09zapad"},
-						{"url": "https://www.instagram.com/top09plzen"}
-					]
-				},
-				{
-					"reg": 166,
-					"leader": {
-						"name": "Pavel Čížek",
-						"reg": 166,
-						"links": [
-							{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj/cizek-pavel"},
-							{"url": "https://www.facebook.com/pavelcizekstan"},
-							{"url": "https://twitter.com/PavelCizek"}
-						]
-					},
-					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj", "label": "STAN Plzeňsko"},
-						{"url": "https://www.facebook.com/starostove.plzensky"},
-						{"url": "https://twitter.com/STAN_Plz"}
+					"coalition":[
+						53,
+						721
 					],
-					"support": [1014]
-				},
-				{
-					"reg": 7,
-					"leader": {
-						"name": "Ivo Grüner",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.ivo-gruner.cz"},
-							{"url": "https://www.facebook.com/Ivo.Gruner1969"},
-							{"url": "https://twitter.com/IvoGruner"},
-							{"url": "https://www.instagram.com/ivo.gruner"}
+					"name":"Občanská demokratická strana s podporou TOP 09 a nezávislých starostů",
+					"leader":{
+						"name":"Ilona Mauritzová",
+			      "photo": "ilona-mauritzova.jpg",
+						"reg":53,
+						"links":[
+							"https://www.ods.cz/region.plzensky/profil/ilona-mauritzova",
+							"https://www.facebook.com/ilonamauritzova"
 						]
 					},
-					"list": [
+					"links":[
+            "https://www.ods.cz/region.plzensky/volby2020/krajske",
+						"https://www.facebook.com/regionplzensky",
+						"https://www.top09.cz/regiony/plzensky-kraj",
+						"https://www.facebook.com/TOP09.Plzensky.kraj",
+						"https://twitter.com/top09zapad",
+						"https://www.instagram.com/top09plzen"
+					],
+          "list": [
+						{"name":"Rudolf Salvetr","reg":53},{"name":"Radka Trylčová","reg":53},{"name":"Richard Pikner","reg":721},{"name":"Marcela Krejsová","reg":53},{"name":"Jan Šašek","reg":53},{"name":"Eva Trůková","reg":53},{"name":"Marek Ženíšek","reg":721},{"name":"Michal Šašek","reg":53},{"name":"Pavel Karpíšek","reg":53},{"name":"Vladislav Vilímec","reg":53},{"name":"Karel Naxera","reg":721},{"name":"Luboš Hlačík","reg":53},{"name":"Zdeněk Mádr","reg":53},{"name":"Václav Chroust","reg":53},{"name":"Martin Baxa","reg":53},{"name":"Josef Holeček","reg":53},{"name":"Jiří Dort","reg":721},{"name":"Marcela Sobotková","reg":53},{"name":"Lukáš Janko","reg":53},{"name":"Jan Poduška","reg":53},{"name":"Helena Řežábová","reg":53},{"name":"Ilona Jehličková","reg":721},{"name":"Michal Šnebergr","reg":53},{"name":"Miroslav Dusil","reg":53},{"name":"Miroslav Jaroš","reg":53},{"name":"Pavel Faschingbauer","reg":53},{"name":"Miroslav Pelán","reg":721},{"name":"Jiří Šneberger","reg":53},{"name":"Libor Trávníček","reg":53},{"name":"Petr Fornouz","reg":53},{"name":"Lukáš Kopecký","reg":53},{"name":"Jaroslav Mráz","reg":53},{"name":"Tomáš Rousek","reg":721},{"name":"Jiří Davídek","reg":99},{"name":"Petr Baloun","reg":53},{"name":"Richard Brümmer","reg":53},{"name":"Ondřej Kropík","reg":721},{"name":"Jaromír Zeithaml","reg":99},{"name":"Petr Mottl","reg":53},{"name":"Václav Netušil","reg":53},{"name":"Michal Vozobule","reg":721},{"name":"Eva Nosková","reg":53},{"name":"Roman Sviták","reg":53},{"name":"Roman Soukup","reg":721},{"name":"Veronika Jilichová Nová","reg":53},{"name":"Alena Burianová","reg":99},{"name":"Miroslav Kroc","reg":99},{"name":"Martin Kopecký","reg":99},{"name":"Miroslav Hlaváč","reg":721}
+          ],
+					"data": "plk/obcanska-demokraticka-strana-s-podporou-top-09-a-nezavislych-starostu"
+				},
+				{
+					"leader":{
+						"name":"Josef Bernard",
+						"reg":99,
+						"links":[
+							{
+								"url":"https://www.josefbernard.cz/"
+							},
+							{
+								"url":"https://www.facebook.com/BernardJosef2016"
+							},
+							{
+								"url":"https://twitter.com/BernardHejtman"
+							}
+						],
+						"photo":"josef-bernard.jpg"
+					},
+					"links":[
+						"http://www.bernardastarostove.cz/",
+						"https://www.facebook.com/bernardastarostove",
+						"https://twitter.com/STAN_Plz"
+					],
+					"list":[
+						{
+							"name":"Pavel Čížek",
+							"reg":166
+						}
+					],
+					"coalition":[
+						166,
+						1014,
+						5,
+						{
+							"name":"Idealisté",
+							"logo":"obecne/strany/loga/x-idealiste.png",
+							"color":"#00dcc2"
+						}
+					],
+					"name":"JOSEF BERNARD A STAROSTOVÉ (STAN) s podporou Zelených, PRO Plzeň a Idealistů",
+					"data":"plk/stan-pp-z"
+				},
+				{
+					"reg":7,
+					"leader":{
+						"name":"Ivo Grüner",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.ivo-gruner.cz"
+							},
+							{
+								"url":"https://www.facebook.com/Ivo.Gruner1969"
+							},
+							{
+								"url":"https://twitter.com/IvoGruner"
+							},
+							{
+								"url":"https://www.instagram.com/ivo.gruner"
+							}
+						],
+						"photo": "ivo-gruner.jpg"
+					},
+					"list":[
 						"Jaroslav Šobr",
 						"Jiří Struček",
 						"Milada Emmerová",
@@ -453,23 +969,35 @@
 						"Václav Šimánek",
 						"Michal Černý"
 					],
-					"links": [
-						{"url": "http://plzensky-kraj.cssd.cz"},
-						{"url": "https://www.facebook.com/cssdplzenskykraj"}
-					]
+					"links":[
+						{
+							"url":"http://plzensky-kraj.cssd.cz"
+						},
+						{
+							"url":"https://www.facebook.com/cssdplzenskykraj"
+						}
+					],
+					"data":"plk/7"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Rudolf Špoták",
-						"reg": 720,
-						"links": [
-							{"url": "https://plzensky.pirati.cz/lide/rudolf-spotak"},
-							{"url": "https://www.facebook.com/rudolf.spotak"},
-							{"url": "https://twitter.com/spotakruda"}
+					"reg":720,
+					"leader":{
+						"name":"Rudolf Špoták",
+			      "photo": "rudolf-spotak.jpg",
+						"reg":720,
+						"links":[
+							{
+								"url":"https://plzensky.pirati.cz/lide/rudolf-spotak"
+							},
+							{
+								"url":"https://www.facebook.com/rudolf.spotak"
+							},
+							{
+								"url":"https://twitter.com/spotakruda"
+							}
 						]
 					},
-					"list": [
+					"list":[
 						"Pavel Hais",
 						"Martin Ptáček",
 						"Jiří Pek",
@@ -493,148 +1021,282 @@
 						"Tomáš Hraběta",
 						"Michal Hermann"
 					],
-					"links": [
-						{"url": "https://plzensky.pirati.cz"},
-						{"url": "https://www.facebook.com/pirati.plzensky.kraj", "label": "Piráti Plzeňsko"},
-						{"url": "https://twitter.com/pirati_pl"}
-					]
+					"links":[
+						{
+							"url":"https://plzensky.pirati.cz"
+						},
+						{
+							"url":"https://www.facebook.com/pirati.plzensky.kraj",
+							"label":"Piráti Plzeňsko"
+						},
+						{
+							"url":"https://twitter.com/pirati_pl"
+						}
+					],
+					"data": "plk/720"
 				},
 				{
-					"coalition": [1, 181, 1119],
-					"name": "Koalice pro Plzeňský kraj",
-					"leader": {
-						"name": "Ivana Bartošová",
-						"reg": 1,
-						"links": [
-							{"url": "https://www.facebook.com/profile.php?id=100007295835833", "label": "FB profil"}
+					"coalition":[
+						1,
+						181,
+						1119
+					],
+					"name":"Koalice pro Plzeňský kraj",
+					"leader":{
+						"name":"Ivana Bartošová",
+						"reg":1,
+						"links":[
+							{
+								"url":"https://www.facebook.com/profile.php?id=100007295835833",
+								"label":"FB profil"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://plzen.kdu.cz"},
-						{"url": "http://www.adstrana.cz"},
-						{"url": "https://www.facebook.com/koaliceppk"},
-						{"url": "https://www.facebook.com/kducslplzenskykraj"},
-						{"url": "https://www.facebook.com/adstrana"},
-						{"url": "https://www.instagram.com/kducslplzenskykraj"},
-						{"url": "https://www.instagram.com/verni_agrarnici_ads"},
-						{"url": "https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg", "icon": "yt", "label": "KDU-ČSL Plzeň"}
+					"links":[
+						{
+							"url":"https://plzen.kdu.cz"
+						},
+						{
+							"url":"http://www.adstrana.cz"
+						},
+						{
+							"url":"https://www.facebook.com/koaliceppk"
+						},
+						{
+							"url":"https://www.facebook.com/kducslplzenskykraj"
+						},
+						{
+							"url":"https://www.facebook.com/adstrana"
+						},
+						{
+							"url":"https://www.instagram.com/kducslplzenskykraj"
+						},
+						{
+							"url":"https://www.instagram.com/verni_agrarnici_ads"
+						},
+						{
+							"url":"https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg",
+							"icon":"yt",
+							"label":"KDU-ČSL Plzeň"
+						}
 					]
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Roman Zarzycký",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.facebook.com/Roman-Zarzycky-101613948110969", "label": "FB Roman Zarzycký"},
-							{"url": "https://twitter.com/zarzycky"},
-							{"url": "https://www.instagram.com/zarzyckyroman"}
+					"reg":768,
+					"leader":{
+						"name":"Roman Zarzycký",
+						"reg":768,
+						"links":[
+							{
+								"url":"https://www.facebook.com/Roman-Zarzycky-101613948110969",
+								"label":"FB Roman Zarzycký"
+							},
+							{
+								"url":"https://twitter.com/zarzycky"
+							},
+							{
+								"url":"https://www.instagram.com/zarzyckyroman"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.anobudelip.cz/plzensky-kraj", "label": "ANO Plzeňský kraj"},
-						{"url": "https://www.facebook.com/anoplzenskykraj"}
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/plzensky-kraj",
+							"label":"ANO Plzeňský kraj"
+						},
+						{
+							"url":"https://www.facebook.com/anoplzenskykraj"
+						}
 					]
 				},
 				{
-					"reg": 47,
-					"leader": {
+					"reg":47,
+					"leader":{
 						"name":"Jiří Valenta",
-						"reg": 47,
-						"links": [
-							{"url": "https://www.kscm.cz/cs/nasi-lide/phdr-ing-jiri-valenta", "label": "Profil"},
-							{"url": "https://valenta.estranky.cz/", "label": "Webové stránky"},
-							{"url": "https://www.facebook.com/plzenan2017"},
-							{"url": "https://www.facebook.com/jiri.valenta.plzen"},
-							{"url": "https://twitter.com/JiValenta"},
-							{"url": "https://www.instagram.com/valenta1965"}
+						"reg":47,
+						"links":[
+							{
+								"url":"https://www.kscm.cz/cs/nasi-lide/phdr-ing-jiri-valenta",
+								"label":"Profil"
+							},
+							{
+								"url":"https://valenta.estranky.cz/",
+								"label":"Webové stránky"
+							},
+							{
+								"url":"https://www.facebook.com/plzenan2017"
+							},
+							{
+								"url":"https://www.facebook.com/jiri.valenta.plzen"
+							},
+							{
+								"url":"https://twitter.com/JiValenta"
+							},
+							{
+								"url":"https://www.instagram.com/valenta1965"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://plkr.kscm.cz"},
-						{"url": "https://www.facebook.com/groups/110721655612158/", "label": "Skupina příznivců"}
+					"links":[
+						{
+							"url":"https://plkr.kscm.cz"
+						},
+						{
+							"url":"https://www.facebook.com/groups/110721655612158/",
+							"label":"Skupina příznivců"
+						}
 					]
 				},
 				{
-					"reg": 716
+					"reg":716
 				},
 				{
-					"reg": 1227,
+					"reg":1227,
+					"leader":{
+						"name":"Pavel Borusík",
+						"reg":1227,
+						"links":[
+							{
+								"url":"https://www.facebook.com/pavel.borusik"
+							},
+							{
+								"url":"https://www.instagram.com/pavelborusik"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://www.facebook.com/Trikol%C3%B3ra-Plze%C5%88sk%C3%BD-kraj-ofici%C3%A1ln%C3%AD-106716317487930/",
+							"label":"Trikolora"
+						}
+					]
+				},
+				{
+					"reg":715
+				},
+				{
+					"reg":1114,
 					"leader": {
-						"name": "Pavel Borusík",
-						"reg": 1227,
+						"name": "Marie Pošarová",
+						"reg": 1114,
 						"links": [
-							{"url": "https://www.facebook.com/pavel.borusik"},
-							{"url": "https://www.instagram.com/pavelborusik"}
-						]
+							"https://spd.cz/clenove/ing-marie-posarova/",
+							"https://www.facebook.com/marie.posarova"
+						],
+						"photo": "marie-posarova.jpg"
 					},
 					"links": [
-						{"url": "https://www.facebook.com/Trikol%C3%B3ra-Plze%C5%88sk%C3%BD-kraj-ofici%C3%A1ln%C3%AD-106716317487930/", "label": "Trikolora"}
-					]
+						"https://www.facebook.com/SPDplzensky/"
+					],
+					"list": [
+						"Martin Šebesta",
+						"Drahuše Sekmilerová",
+						"Jan Kůrka",
+						"Oldrich Fencl"
+					],
+					"data": "plk/1114"
 				},
 				{
-					"reg": 715
+					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": 4,
-			"parties": [
+			"id":4,
+			"parties":[
 				{
-					"coalition": [1, 53],
-					"leader": {
-						"name": "Karel Jakobec",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/profil/148-karel-jakobec"},
-							{"url": "https://www.facebook.com/karel.jakobec"}
-						]
-					},
-					"links": [
-						{"url": "https://www.ods.cz/region.karlovarsky", "label": "ODS krajský web"},
-						{"url": "http://kvary.kdu.cz"},
-						{"url": "https://www.facebook.com/rs.ods.karlovarsky.kraj", "label": "ODS Karlovarsko"},
-						{"url": "https://www.facebook.com/kdukvkraj"}
+          "name": "Koalice ODS a KDU-ČSL s podporou Soukromníků",
+					"coalition":[
+						1,
+						53
 					],
-					"support": [716],
-					"list": [
-						{"name": "Jan Bureš", "reg": 53},
-						{"name": "Olga Haláková", "reg": 1}
-					]
+					"leader":{
+						"name":"Karel Jakobec",
+						"reg":53,
+						"links":[
+							"https://www.ods.cz/profil/148-karel-jakobec",
+							"https://www.facebook.com/karel.jakobec"
+						],
+						"photo":"karel-jakobec.jpg"
+					},
+					"links":[
+            "https://www.ods.cz/region.karlovarsky/volby2020/krajske",
+						{
+							"url":"http://kvary.kdu.cz"
+						},
+						{
+							"url":"https://www.facebook.com/rs.ods.karlovarsky.kraj",
+							"label":"ODS Karlovarsko"
+						},
+						{
+							"url":"https://www.facebook.com/kdukvkraj"
+						}
+					],
+					"support":[
+						716
+					],
+					"list":[
+						{"name":"Jan Bureš","reg":53},{"name":"Oľga Haláková","reg":1},{"name":"Michal Pospíšil","reg":53},{"name":"Romana Marečková","reg":53},{"name":"Václav Slavík","reg":1},{"name":"Ladislav Sedláček","reg":53},{"name":"Jiří Chval","reg":53},{"name":"Jan Řezáč","reg":53},{"name":"Marek Poledníček","reg":1},{"name":"Jan Tóth","reg":716},{"name":"Jaroslav Kočvara","reg":53},{"name":"Pavel Janus","reg":53},{"name":"Petr Šindelář","reg":53},{"name":"Vladimír Vorm","reg":15},{"name":"Petr Jurča","reg":716},{"name":"Karel Mika","reg":53},{"name":"Petr Čavojský","reg":53},{"name":"Jaromíra Rusiniková","reg":53},{"name":"Martin Ziegler","reg":1},{"name":"Roman Krása","reg":716},{"name":"Marie Šašková","reg":1},{"name":"Iveta Kořínková","reg":53},{"name":"Vladimír Hůrka","reg":53},{"name":"Barbora Zavadilová","reg":1},{"name":"David Drška","reg":716},{"name":"Simona Vránová","reg":53},{"name":"Jan Svoboda","reg":53},{"name":"Ondřej Štych","reg":53},{"name":"Radek Matuška","reg":1},{"name":"Vladimír Kajlik","reg":53},{"name":"Miloš Holík","reg":1},{"name":"František Pešek","reg":53},{"name":"Miroslav Zikmund","reg":53},{"name":"Jaromír Dvořák","reg":99},{"name":"Jiří Vaněček","reg":53},{"name":"Jaroslav Hlavsa","reg":53},{"name":"Jiří Červenka","reg":53},{"name":"Hana Fedorčáková","reg":99},{"name":"Jan Růžička","reg":53},{"name":"Anna Petrželková","reg":1},{"name":"Jan Beer","reg":53},{"name":"František Kocourek","reg":53},{"name":"Luděk Olič","reg":716},{"name":"Michal Slavotínek","reg":1},{"name":"Tomáš Provazník","reg":53},{"name":"Alois Minář","reg":9},{"name":"Milan Ščislák","reg":53},{"name":"Petr Pitra","reg":99},{"name":"Jan Železný","reg":53}
+					],
+					"data":"kvk/53-1"
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Eva Valjentová",
-						"reg": 47,
-						"links": [
-							{"url": "https://karlovyvary.kscm.cz/cs/nasi-lide/ing-eva-valjentova-2"},
-							{"url": "https://www.facebook.com/profile.php?id=100009201264227"},
-							{"url": "https://twitter.com/EvaValjentova"}
+					"reg":47,
+					"leader":{
+						"name":"Eva Valjentová",
+						"reg":47,
+						"links":[
+							{
+								"url":"https://karlovyvary.kscm.cz/cs/nasi-lide/ing-eva-valjentova-2"
+							},
+							{
+								"url":"https://www.facebook.com/profile.php?id=100009201264227"
+							},
+							{
+								"url":"https://twitter.com/EvaValjentova"
+							}
 						]
 					},
-					"list": [
+					"list":[
 						"Martin Mareš",
 						"Pavel Hojda",
 						"Josef Borka"
 					],
-					"links": [
-						{"url": "https://karlovyvary.kscm.cz", "label": "KSČM KVK"},
-						{"url": "https://www.facebook.com/KS%C4%8CM-Karlovarsk%C3%BD-kraj-306603932862276/", "label": "KSČM Karlovarsko"}
+					"links":[
+						{
+							"url":"https://karlovyvary.kscm.cz",
+							"label":"KSČM KVK"
+						},
+						{
+							"url":"https://www.facebook.com/KS%C4%8CM-Karlovarsk%C3%BD-kraj-306603932862276/",
+							"label":"KSČM Karlovarsko"
+						}
 					]
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Josef Janů",
-						"reg": 720,
-						"links": [
-							{"url": "https://karlovarsky.pirati.cz/lide/josef-janu"},
-							{"url": "https://www.facebook.com/pepik.janu"},
-							{"url": "https://twitter.com/JosefJanu"}
+					"reg":720,
+					"leader":{
+						"name":"Josef Janů",
+			      "photo": "josef-janu.png",
+						"reg":720,
+						"links":[
+							"https://karlovarsky.pirati.cz/lide/josef-janu",
+							"https://www.facebook.com/pepik.janu",
+							"https://twitter.com/JosefJanu",
+							"https://www.instagram.com/pepikjanu/"
 						]
 					},
-					"list": [
+					"list":[
 						"Vojtěch Franta",
 						"Markéta Monsportová",
 						"Lukáš Zykán",
@@ -653,210 +1315,376 @@
 						"Ondřej Špendlíček",
 						"Antotín Šimkanin",
 						"Lukáš Jadlovský",
-						"Daniela Bílá"
+						"Daniela Bílá",
+						"Robin Beitl",
+						"Jan Havel",
+						"Bohdan Vaněk",
+						"Jana Jandová",
+						"Radek Náměstek",
+						"Zdeněk Kopš",
+						"Barbora Erbenová",
+						"Tereza Zykánová",
+						"Zdeněk Hess",
+						"Tadeáš Král",
+						"Jan Stehlík",
+						"Pavel Tuček",
+						"Daniel Farkas",
+						"Tomáš Veselka",
+						"Tomáš Trčka",
+						"Simona Marková",
+						"Jiří Prýmek",
+						"Karel Zemek",
+						"Jan Prachař",
+						"Petra Zámečníková",
+						"Anna Tučková",
+						"Jiří Slach",
+						"Lukáš Hulý",
+						"Jan Nedvěd",
+						"Karel Nykles"
 					],
-					"links": [
-						{"url": "https://karlovarsky.pirati.cz/", "label": "Piráti KVK"},
-						{"url": "https://www.facebook.com/pirati.karlovarsko"},
-						{"url": "https://twitter.com/Pirati_KaKr"},
-						{"url": "https://www.instagram.com/pirati.karlovarsko"}
-					]
+					"links":[
+						"https://karlovarsky.pirati.cz/",
+						"https://www.facebook.com/pirati.karlovarsko",
+						"https://twitter.com/Pirati_KaKr",
+						"https://www.instagram.com/pirati.karlovarsko"
+					],
+					"data": "kvk/720"
 				},
 				{
-					"reg": 112,
-					"name": "Místní",
-					"leader": {
-						"name": "Patrik Pizinger",
-						"reg": 112,
-						"links": [
-							{"url": "https://www.facebook.com/Patrik-Pizinger-starosta-970070833183850"},
-							{"url": "https://twitter.com/PatrikPizinger"},
-							{"url": "https://www.instagram.com/patrikpizinger"}
+					"reg":112,
+					"name":"Místní",
+					"leader":{
+						"name":"Patrik Pizinger",
+						"reg":112,
+						"links":[
+							{
+								"url":"https://www.facebook.com/Patrik-Pizinger-starosta-970070833183850"
+							},
+							{
+								"url":"https://twitter.com/PatrikPizinger"
+							},
+							{
+								"url":"https://www.instagram.com/patrikpizinger"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.hnhrm.cz/index.php/karlovarsky-kraj", "label": "Místní KVK"},
-						{"url": "https://www.facebook.com/hnhrmkv"}
+					"links":[
+						{
+							"url":"https://www.hnhrm.cz/index.php/karlovarsky-kraj",
+							"label":"Místní KVK"
+						},
+						{
+							"url":"https://www.facebook.com/hnhrmkv"
+						}
 					]
 				},
 				{
-					"coalition": [1118, 1028],
-					"leader": {
-						"name": "Josef März",
-						"reg": 1028,
-						"links": [
-							{"url": "http://www.karlovaraci.cz/index.php/team/josef-marz"},
-							{"url": "https://www.facebook.com/profile.php?id=100008186927999"},
-							{"url": "https://www.instagram.com/pepi9574"}
+					"coalition":[
+						1118,
+						1028
+					],
+					"leader":{
+						"name":"Josef März",
+						"reg":1028,
+						"links":[
+							{
+								"url":"http://www.karlovaraci.cz/index.php/team/josef-marz"
+							},
+							{
+								"url":"https://www.facebook.com/profile.php?id=100008186927999"
+							},
+							{
+								"url":"https://www.instagram.com/pepi9574"
+							}
 						]
 					},
-					"support": ["nezávislí starostové"],
-					"links": [
-						{"url": "http://www.karlovaraci.cz"},
-						{"url": "http://www.spokojenykraj.cz"},
-						{"url": "https://www.facebook.com/karlovaraci"},
-						{"url": "https://www.facebook.com/spokojenykraj"},
-						{"url": "https://twitter.com/karlovaraci"},
-						{"url": "https://twitter.com/spokojenykraj"}
+					"support":[
+						"nezávislí starostové"
+					],
+					"links":[
+						{
+							"url":"http://www.karlovaraci.cz"
+						},
+						{
+							"url":"http://www.spokojenykraj.cz"
+						},
+						{
+							"url":"https://www.facebook.com/karlovaraci"
+						},
+						{
+							"url":"https://www.facebook.com/spokojenykraj"
+						},
+						{
+							"url":"https://twitter.com/karlovaraci"
+						},
+						{
+							"url":"https://twitter.com/spokojenykraj"
+						}
 					]
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Michal Červenka"
+					"reg":7,
+					"leader":{
+						"name":"Michal Červenka"
 					}
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Martin Gruber",
-						"reg": 1227
+					"reg":1227,
+					"leader":{
+						"name":"Martin Gruber",
+						"reg":1227
 					}
 				},
 				{
-					"coalition": [166, 721, 113, 182, 5],
-					"name": "STAN – Starostové a nezávislí společně s KOA, VPM Cheb, TOP 09 a Stranou zelených",
-					"leader": {
-						"name": "Petr Kulhánek",
-						"reg": 182,
-						"links": [
-							{"url": "http://petrkulhanek.cz"},
-							{"url": "https://www.facebook.com/coolhanek"},
-							{"url": "https://twitter.com/p_kulhanek"},
-							{"url": "https://www.instagram.com/petr.cool.hanek"}
-						]
-					},
-					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj", "label": "STAN KVK"},
-						{"url": "https://www.top09.cz/regiony/karlovarsky-kraj/", "label": "TOP 09 KVK"},
-						{"url": "http://vpmcheb.cz"},
-						{"url": "https://www.hnutikoa.cz"},
-						{"url": "http://karlovarsko.zeleni.cz/", "label": "Zelení KVK"},
-						{"url": "https://www.facebook.com/stankarlovarskykraj/", "label": "STAN KVK"},
-						{"url": "https://www.facebook.com/TOP09.Karlovarsky.kraj/", "label": "TOP 09 KVK"},
-						{"url": "https://www.facebook.com/VPM-Volba-pro-m%C4%9Bsto-1411303629140476/", "label": "Volba pro město Cheb"},
-						{"url": "https://www.facebook.com/hnutikoa.cz"}
-					]
-				},
-				{
-					"reg": 715
-				},
-				{
-					"reg": 1129,
-					"logo": "obecne/strany/loga/1129-snk1.jpg",
-					"list": [
-						"Markéta Sinkulová Moravcová",
-						"Jitka Pokorná",
-						"Eduard Frisch"
-					]
-				},
-				{
-					"reg": 769,
-					"name": "STRANA KONZERVATIVNÍ PRAVICE S PODPOROU NEZÁVISLÝCH ODBORNÍKŮ",
-					"links": [
-						{"url": "https://www.skp-rn.cz"},
-						{"url": "https://www.facebook.com/radnaroda2017"}
+					"coalition":[
+						166,
+						721,
+						{"name": "Volba pro Město Cheb", "logo": "obecne/strany/loga/x-volba-pro-mesto-cheb.png", "color": "#fab519"},
+						182
 					],
-					"leader": {
-						"name": "Josef Zickler",
-						"reg": 769,
-						"links": [
-							{"url": "https://www.facebook.com/profile.php?id=100010051891861"},
-							{"url": "https://twitter.com/JosefZickler"},
-							{"url": "https://www.instagram.com/josefzickler"}
+					"name":"STAN - Starostové a nezávislí společně s KOA, VPM Cheb a TOP 09",
+					"leader":{
+						"name":"Petr Kulhánek",
+						"reg":182,
+						"links":[
+							"http://petrkulhanek.cz",
+							"https://www.facebook.com/coolhanek",
+							"https://twitter.com/p_kulhanek",
+							"https://www.instagram.com/petr.cool.hanek"
 						],
-						"photo": "lide/fotky/josef-zickler.jpg"
+						"photo":"petr-kulhanek.jpg"
 					},
-					"list": [
-						"Mgr. Bc. Radka Kvasničková", "Ing. Luděk Beran", "Ing. Mgr. Miroslav Šůs", "MUDr. Věra Blechová", "Miroslav Ponert", "MVDr. Václava Molcarová", "Ing. Milada Šulcová LL.M.", "Marta Hondlíková", "Ing. David Cervan Ph.D.", "Ing. Marek Kroha", "Petr Majer", "Michaela Rojtová", "Tomáš Riedl", "Vojtěch Hanzlík", "Michal Aufrichtig", "Jiří Kassal", "Hana Baštová", "Jana Tučáková", "Pavel Pocklan"
+					"links":[
+						"https://www.letospodstan.cz/",
+						"https://www.facebook.com/LetosPodSTAN/"
 					],
-					"program": "https://www.skp-rn.cz/krajske-volby",
-					"logo": "obecne/strany/loga/769-SKP-RN.jpg",
-					"data": "kvk/769"
+					"data":"kvk/166",
+					"program": "https://www.letospodstan.cz/program/",
+					"list": [
+						{"name": "Robert Pisár", "reg": 166},
+						{"name": "Antonín Jalovec", "phash": "volba-pro-mesto-cheb"},
+						{"name": "Petr Zahradníček", "reg": 721},
+						{"name": "Jan Kuchař", "reg": 99},
+						{"name": "Jan Horník", "reg": 166},
+						{"name": "Miroslav Balatka", "reg": 166}
+					]
 				},
 				{
-					"reg": 768,
+					"reg":715
+				},
+				{
+					"reg":1129,
+					"name": "SNK1 - Starostové našeho kraje",
+					"logo":"obecne/strany/loga/1129-snk1.jpg",
 					"leader": {
-						"name": "Petr Kubis",
-						"reg": 768
+						"name": "Markéta Sinkulová Moravcová",
+						"reg": 1129,
+						"links": []
 					},
-					"list": [
+					"list":[
+						"Jitka Pokorná",
+						"Eduard Frisch",
+						"Vít Hromádko",
+						"Ladislav Ludvík",
+						"Pavel Jandák", "Kateřina Krumphanzlová",
+						"Jiří Křenčil",
+						"Petr Kvasnička",
+						"Aleš Labík",
+						"Eva Machková",
+						"Vlastimil Ondra",
+						"Robert Petro",
+						"Jan Prudík",
+						"Helena Repíková",
+						"Dagmar Strnadová",
+						"Miroslav Stropek",
+						"Jiří Štikar",
+						"Jana Viková"
+					],
+					"links": [
+						"https://snk1.cz/",
+						"https://www.facebook.com/SNK1-Starostov%C3%A9-na%C5%A1eho-kraje-106108747651248/"
+					]
+				},
+				{
+					"reg":769,
+					"name":"STRANA KONZERVATIVNÍ PRAVICE S PODPOROU NEZÁVISLÝCH ODBORNÍKŮ",
+					"links":[
+						"https://www.skp-rn.cz",
+						"https://www.facebook.com/radnaroda2017",
+						"https://instagram.com/SKP.RN"
+					],
+					"leader":{
+						"name":"Josef Zickler",
+						"reg":769,
+						"links":[
+							"https://www.facebook.com/profile.php?id=100010051891861",
+							"https://twitter.com/JosefZickler",
+							"https://www.instagram.com/josefzickler"
+						],
+						"photo":"josef-zickler.jpg"
+					},
+					"list":[
+						"Mgr. Bc. Radka Kvasničková",
+						"Ing. Luděk Beran",
+						"Ing. Mgr. Miroslav Šůs",
+						"MUDr. Věra Blechová",
+						"Miroslav Ponert",
+						"MVDr. Václava Molcarová",
+						"Ing. Milada Šulcová LL.M.",
+						"Marta Hondlíková",
+						"Ing. David Cervan Ph.D.",
+						"Ing. Marek Kroha",
+						"Petr Majer",
+						"Michaela Rojtová",
+						"Tomáš Riedl",
+						"Vojtěch Hanzlík",
+						"Michal Aufrichtig",
+						"Jiří Kassal",
+						"Hana Baštová",
+						"Jana Tučáková",
+						"Pavel Pocklan"
+					],
+					"program":"https://www.skp-rn.cz/krajske-volby",
+					"logo":"obecne/strany/loga/769-SKP-RN.jpg",
+					"data":"kvk/769"
+				},
+				{
+					"reg":768,
+					"leader":{
+						"name":"Petr Kubis",
+						"reg":768
+					},
+					"list":[
 						"Jana Mračková Vildumetzová"
 					],
-					"links": [
+					"links":[
 						"https://www.anobudelip.cz/karlovarsky-kraj"
+					]
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Karla Maříková",
+						"reg":1114,
+						"photo": "karla-marikova.jpg",
+						"links": [
+							"https://www.facebook.com/Karla-Ma%C5%99%C3%ADkov%C3%A1-614434815422565/"
+						]
+					},
+					"list": [
+						"Pavel Motešický",
+						"Michal Šťovíček",
+						"Věra Maříková",
+						"Petr Nimrichter"
+					],
+					"data": "kvk/1114",
+					"links": [
+						"https://www.facebook.com/SPDkarlovarsky/"
+					]
+				},
+				{
+					"reg": 785,
+					"support": [142]
+				},
+				{
+					"reg":137,
+					"leader": {
+						"name": "Luděk Petráň"
+					}
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
 					]
 				}
 			]
 		},
 		{
-			"id": 5,
-			"parties": [
+			"id":5,
+			"parties":[
 				{
-					"coalition": [1, 53],
-					"leader": {
-						"name": "Jiří Kulhánek",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek"},
-							{"url": "https://www.facebook.com/jiri.kulhanek.73"}
+					"reg": 53,
+          "support": [1],
+					"leader":{
+						"name":"Jiří Kulhánek",
+						"reg":53,
+			      "photo": "jiri-kulhanek.jpg",
+						"links":[
+							"https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek",
+							"https://www.facebook.com/jiri.kulhanek.73"
 						]
 					},
-					"links": [
-						{"url": "https://www.ods.cz/region.ustecky"},
-						{"url": "http://usteckykraj.kdu.cz"},
-						{"url": "https://www.facebook.com/ODS-%C3%9Asteck%C3%BD-kraj-1818344011729113", "label": "ODS Ústecko"},
-						{"url": "https://www.facebook.com/kducslkrajustecky", "label": "KDU-ČSL Ústecko"},
-						{"url": "https://www.instagram.com/kducsl_ustecky_kraj"}
-					]
+					"links":[
+            "https://www.ods.cz/region.ustecky/volby2020/krajske",
+						{
+							"url":"https://www.facebook.com/ODS-%C3%9Asteck%C3%BD-kraj-1818344011729113",
+							"label":"ODS Ústecko"
+						}
+					],
+          "list": [
+            {"name":"Iva Dvořáková","reg":53},{"name":"Tomáš Rieger","reg":53},{"name":"Drahomíra Karasová","reg":53},{"name":"Jan Růžička","reg":1},{"name":"Zdenka Vachková","reg":53},{"name":"Jiří Pimpara","reg":53},{"name":"Zdeněk Kutner","reg":53},{"name":"Jiří Kalous","reg":53},{"name":"Jitka Gavdunová","reg":53},{"name":"Marcel Kollmann","reg":53},{"name":"Michal Šidák","reg":53},{"name":"Pavlína Hapštáková","reg":53},{"name":"Jiří Skřivánek","reg":1},{"name":"Petr Pinka","reg":53},{"name":"Petr Pillár","reg":53},{"name":"Tomáš Brčák","reg":99},{"name":"Jana Machová","reg":53},{"name":"Eva Böhmová","reg":53},{"name":"Kateřina Kastnerová","reg":53},{"name":"Alexandra Moravcová","reg":53},{"name":"Michal Voltr","reg":53},{"name":"Helena Zemánková Týřová","reg":53},{"name":"Zdeňka Rulíšková","reg":53},{"name":"Jana Pražanová","reg":53},{"name":"Rostislav Kadlec","reg":1},{"name":"Tomáš Horyna","reg":53},{"name":"Jan Ťažký","reg":53},{"name":"Pavel Tetřev","reg":53},{"name":"Pavel Tošovský","reg":53},{"name":"Hana Šindelářová","reg":53},{"name":"Antonín Štěpanovský","reg":1},{"name":"Vojtěch Srba","reg":53},{"name":"Roland Hase","reg":53},{"name":"Petr Šošško","reg":53},{"name":"Radek Reindl","reg":53},{"name":"Jindřich Petráček","reg":53},{"name":"Jiří Balej","reg":53},{"name":"Georgij Fibich","reg":53},{"name":"Petr Hellmich","reg":53},{"name":"Zdeňka Terezie Špringlová","reg":1},{"name":"Romana Pospíšilová","reg":53},{"name":"Jan Železný","reg":53},{"name":"Tereza Rambousková","reg":99},{"name":"Pavlína Kalitová","reg":53},{"name":"Petr Švejda","reg":53},{"name":"Veronika Prchalová","reg":53},{"name":"Jiří Laštůvka","reg":53},{"name":"Václav Hofmann","reg":53},{"name":"Tomáš Liška","reg":99},{"name":"Filip Hrbek","reg":53},{"name":"Jan Dvořák","reg":53},{"name":"Jitka Horáková","reg":53},{"name":"Bohumil Kurka","reg":53},{"name":"Jan Losenický","reg":53},{"name":"Pavel Dvořák","reg":53},{"name":"Pavel Kašpar","reg":53},{"name":"Hana Zvalová","reg":1},{"name":"Stanislav Zaspal","reg":53},{"name":"Jan Novotný","reg":53},{"name":"Sabina Chládková","reg":53},{"name":"Pavel Šlesinger","reg":53},{"name":"Petr Jindřich","reg":53},{"name":"Josef Marcel","reg":53}
+          ],
+					"data": "ulk/53"
 				},
 				{
-					"reg": 704,
-					"leader": {
-						"name": "Petr Pípal",
-						"reg": 704,
-						"links": [
-							{"url": "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal"},
-							{"url": "https://www.facebook.com/IngPetrPipal"}
+					"reg":704,
+					"leader":{
+						"name":"Petr Pípal",
+			      "photo": "petr-pipal.png",
+						"reg":704,
+						"links":[
+							"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal",
+							"https://www.facebook.com/IngPetrPipal"
 						]
 					},
-					"links": [
-						{"url": "http://www.zregionudokraje.cz"},
-						{"url": "https://www.facebook.com/zregionudokraje", "label": "Volební FB"},
-						{"url": "https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090", "label": "FB Severočeši"},
-						{"url": "https://www.instagram.com/severocesi.cz"}
+					"links":[
+						"http://www.zregionudokraje.cz",
+						"https://www.facebook.com/zregionudokraje",
+						"https://www.facebook.com/Severo%C4%8De%C5%A1icz-149298041760090",
+						"https://www.instagram.com/severocesi.cz"
 					],
-					"list": [
-						"Jaroslav Doubrava",
-						"Martin Šimek",
+					"list":[
+						"Lukas Wünsch",
 						"Bronislav Schwarz",
+						"Jaroslav Doubrava",
 						"Radek Slavík",
-						"Josef Kalina",
+						"Šárka Štruplová Růžičková",
+						"Čestmír Pastyřík",
+						"Martin Šimek",
+						"Rostislav Domorák",
 						"Jiří Skřivánek",
+						"Marie Hervertová",
 						"Olga Kubelková",
-						"Petr Klingr",
-						"Marie Hervertová"
-					]
+						"Josef Kalina",
+						"Petr Klingr"
+					],
+					"data": "ulk/704"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Karel Karika",
-						"reg": 720,
-						"links": [
-							{"url": "https://ustecky.pirati.cz/lide/karel-karika"},
-							{"url": "https://www.facebook.com/karel.karika"},
-							{"url": "https://twitter.com/KarelKarika"},
-							{"url": "https://www.instagram.com/karelkarika"}
+					"reg":720,
+					"leader":{
+						"name":"Karel Karika",
+			      "photo": "karel-karika.jpg",
+						"reg":720,
+						"links":[
+							"https://ustecky.pirati.cz/lide/karel-karika",
+							"https://www.facebook.com/karel.karika",
+							"https://twitter.com/KarelKarika",
+							"https://www.instagram.com/karelkarika"
 						]
 					},
-					"links": [
-						{"url": "https://ustecky.pirati.cz"},
-						{"url": "https://www.facebook.com/pirati.ulk"},
-						{"url": "https://twitter.com/PiratiUstecko"},
-						{"url": "https://www.instagram.com/pirati_uk"}
+					"links":[
+						"https://ustecky.pirati.cz",
+						"https://www.facebook.com/pirati.ulk",
+						"https://twitter.com/Piratiuk",
+						"https://www.instagram.com/pirati_uk"
 					],
-					"list": [
+					"list":[
 						"Kateřina Stojanová",
 						"Vít Rous",
 						"Jiří Baudis",
@@ -865,113 +1693,222 @@
 						"Lukáš Ryšavý",
 						"Hana Vodrážková",
 						"Ludmila Beutelová"
+					],
+					"data": "ulk/720"
+				},
+				{
+					"coalition":[
+						5,
+						129,
+						721,
+						1126,
+						795
+					],
+					"name":"Spojenci pro kraj",
+					"logo":"obecne/strany/loga/x-spojenciprokraj.jpg",
+					"leader":{
+						"name":"Jiří Řehák",
+						"reg":1126,
+						"links":[
+							{
+								"url":"https://www.facebook.com/brakava"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://spojenciprokraj.cz"
+						},
+						{
+							"url":"https://www.facebook.com/spojenciprokraj"
+						},
+						{
+							"url":"https://www.instagram.com/spojenciprokraj"
+						}
+					],
+					"data":"ulk/k1",
+					"list": [
+						{"name": "Karolína Žákovská", "reg": 5},
+						{"name": "Michal Kučera", "reg": 721},
+						{"name": "Petr Medáček", "reg": 129},
+						"Jaroslav Šebek",
+						"Pavel Pastyřík",
+						"Petr Globočník",
+						"Šárka Zimová Dostálová",
+						"Michal Vlach",
+						"Lenka Simerská",
+						"Eva Outlá",
+						"Josef Kusebauch",
+						"Marian Bystroň",
+						"David Kodytek",
+						"Pavel Skála",
+						"Miloslava Bačová",
+						"Iveta Rabasová Houfová",
+						"Andrea Löblová",
+						"Martin Krsek",
+						"Irena M. Wünschová",
+						"Pavel Janda",
+						"Jaroslav Šebek",
+						"Vladimír Buřt",
+						"Jitka Sadovská",
+						"Dalibor Pavlát",
+						"Hana Kracmanová",
+						"Lukáš Kébrt",
+						"Ondřej Švec",
+						"Jiří Němeček",
+						"Kateřina Zemanová",
+						"Richard Červený",
+						"Adam Souček",
+						"Vojtěch Nádvorník",
+						"Jan Novotný",
+						"Eliška Pláníčková",
+						"Marie Imbrová",
+						"Marie Cimrová",
+						"Václav Bešta",
+						"Jindra Rücknagelová",
+						"Martin Lněníček",
+						"Jiří Škoda",
+						"Zdeněk Machala"
 					]
 				},
 				{
-					"coalition": [5, 129, 721, 1126],
-					"name": "Spojenci pro kraj",
-					"logo": "obecne/strany/loga/x-spojenciprokraj.jpg",
-					"leader": {
-						"name": "Jiří Řehák",
-						"reg": 1126,
-						"links": [
-							{"url": "https://www.facebook.com/brakava"}
+					"reg":47,
+					"leader":{
+						"name":"Radek Černý",
+						"reg":47,
+						"links":[
+
 						]
 					},
-					"links": [
-						{"url": "https://spojenciprokraj.cz"},
-						{"url": "https://www.facebook.com/spojenciprokraj"},
-						{"url": "https://www.instagram.com/spojenciprokraj"}
+					"links":[
+						{
+							"url":"https://www.usti-kscm.cz"
+						}
 					],
-					"data": "ulk/k1"
-				},
-				{
-					"reg": 47,
-					"leader": {
-						"name": "Radek Černý",
-						"reg": 47,
-						"links": []
-					},
-					"links": [
-						{"url": "https://www.usti-kscm.cz"}
-					],
-					"list": [
+					"list":[
 						"Oldřich Bubeníček"
 					]
 				},
 				{
-					"name": "Lepší sever",
-					"logo": "obecne/strany/loga/x-lepsisever.png",
-					"coalition": [7, 1012, 1175],
-					"leader": {
-						"name": "Martin Klika",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.facebook.com/KlikaUsteckyKraj"},
-							{"url": "https://twitter.com/Martin_Klika"}
+					"name":"Lepší sever",
+					"logo":"obecne/strany/loga/x-lepsisever.png",
+					"coalition":[
+						7,
+						1012,
+						1175
+					],
+					"leader":{
+						"name":"Martin Klika",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.facebook.com/KlikaUsteckyKraj"
+							},
+							{
+								"url":"https://twitter.com/Martin_Klika"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://www.lepsisever.cz"},
-						{"url": "https://www.facebook.com/lepsisever"},
-						{"url": "https://twitter.com/LepsiSever"}
+					"links":[
+						{
+							"url":"http://www.lepsisever.cz"
+						},
+						{
+							"url":"https://www.facebook.com/lepsisever"
+						},
+						{
+							"url":"https://twitter.com/LepsiSever"
+						}
 					]
 				},
 				{
-					"reg": 1114,
-					"leader": {
-						"name": "Zdeněk Kettner",
-						"reg": 1114,
-						"links": [
-							{"url": "https://www.facebook.com/zdenek.kettner.735"}
+					"reg":1114,
+					"leader":{
+						"name":"Zdeněk Kettner",
+						"reg":1114,
+						"links":[
+							{
+								"url":"https://www.facebook.com/zdenek.kettner.735"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.spd.cz/region/ustecky-kraj", "label": "SPD Ústecko"},
-						{"url": "https://www.facebook.com/SPDustecky"}
+					"links":[
+						{
+							"url":"https://www.spd.cz/region/ustecky-kraj",
+							"label":"SPD Ústecko"
+						},
+						{
+							"url":"https://www.facebook.com/SPDustecky"
+						}
 					],
-					"list": [
+					"list":[
 						"Dominik Hanko",
-						{"name": "Jaroslav Foldyna", "reg": 99}
-					]
+						{
+							"name":"Jaroslav Foldyna",
+							"reg":99
+						}
+					],
+					"data": "ulk/1114"
 				},
 				{
-					"name": "Čistý kraj",
-					"leader": {
-						"name": "Tomáš Vandas",
-						"reg": 156,
-						"links": [
-							{"url": "http://www.tomasvandas.cz"},
-							{"url": "https://www.facebook.com/tomasvandas.cz"},
-							{"url": "https://twitter.com/tomas_vandas"},
-							{"url": "https://www.instagram.com/vandastomas"}
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					],
+					"leader":{
+						"name":"Tomáš Vandas",
+						"reg":156,
+						"links":[
+							{
+								"url":"http://www.tomasvandas.cz"
+							},
+							{
+								"url":"https://www.facebook.com/tomasvandas.cz"
+							},
+							{
+								"url":"https://twitter.com/tomas_vandas"
+							},
+							{
+								"url":"https://www.instagram.com/vandastomas"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.cisty-kraj.cz"}
+					"links":[
+						{
+							"url":"https://www.cisty-kraj.cz"
+						},
+						{
+							"url":"https://twitter.com/cistykraj"
+						}
 					],
-					"logo": "obecne/strany/loga/x-cisty-kraj.jpg",
-					"links": [
-						{"url": "https://twitter.com/cistykraj"}
-					],
-					"list": [
+					"logo":"obecne/strany/loga/x-cisty-kraj.jpg",
+					"list":[
 						"Jana Brambaški",
 						"Jindřich Svoboda"
 					]
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Radek Hoffmann",
-						"reg": 1227,
-						"links": [
-							{"url": "https://www.facebook.com/RadekHoffmanTrikolora"},
-							{"url": "https://twitter.com/RadekHoffmann1"},
-							{"url": "https://www.instagram.com/radek.hoffmann"}
+					"reg":1227,
+					"leader":{
+						"name":"Radek Hoffmann",
+						"reg":1227,
+						"links":[
+							{
+								"url":"https://www.facebook.com/RadekHoffmanTrikolora"
+							},
+							{
+								"url":"https://twitter.com/RadekHoffmann1"
+							},
+							{
+								"url":"https://www.instagram.com/radek.hoffmann"
+							}
 						]
 					},
-
-					"list": [
+					"list":[
 						"Zdeněk Pešek",
 						"Martina Becková",
 						"Zdeněk Pištora",
@@ -982,92 +1919,253 @@
 						"Miroslav Červenka",
 						"Jindřich John"
 					],
-					"links": [
-						{"url": "https://www.facebook.com/TrikoloraUsteckyKraj"}
+					"links":[
+						{
+							"url":"https://www.facebook.com/TrikoloraUsteckyKraj"
+						}
 					]
 				},
 				{
-					"reg": 166,
+					"reg":166,
+					"support": [716,1128,119],
+					"leader":{
+						"name":"Filip Ušák",
+						"photo":"filip-usak.jpg",
+						"links":[
+							"https://www.starostove-nezavisli.cz/volby/krajske-volby-2020/usak-filip",
+							"https://www.facebook.com/Usak.Filip/",
+							"https://twitter.com/UsakFilip"
+						]
+					},
+					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data":"ulk/166",
+					"list": [
+						{"name": "Alena Dernerová", "reg": 166},
+						{"name": "Štefan Drozd", "reg": 716},
+						{"name": "Yveta Tomková", "reg": 1128},
+						{"name": "Milan Šťovíček", "reg": 166},
+						"Petr Liška",
+						"Zbyněk Linhart",
+						{"name": "Jana Syslová", "reg": 166},
+						{"name": "Radovan Šabata", "reg": 119},
+						"Jana Oubrechtová",
+						"Tomáš Trávníček",
+						"Jana Víchová",
+						"Jaroslav Špička",
+						"Pavel Svoboda",
+						"Vlastimil Čtverák",
+						"Renata Zrníková"
+					]
+				},
+				{
+					"reg":715
+				},
+				{
+					"reg":768,
+					"leader":{
+						"name":"Jan Schiller",
+						"reg":768
+					},
+					"links":[
+						"https://www.anobudelip.cz/ustecky-kraj"
+					]
+				},
+				{
+					"reg":137,
 					"leader": {
-						"name": "Filip Ušák"
+						"name": "Eugen Sigismund Freimann"
 					}
 				},
 				{
-					"reg": 715
+					"name": "Za Region",
+					"leader": {
+						"name": "František Padělek",
+						"photo": "frantisek-padelek.jpg",
+						"phash": "za-region",
+						"links": [
+							"https://www.facebook.com/profile.php?id=100007187718165"
+						]
+					},
+					"list": [
+						"Lucie Ječmenová"
+					],
+					"data": "ulk/za-region"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Jan Schiller",
-						"reg": 768
-					},
-					"links": [
-						"https://www.anobudelip.cz/ustecky-kraj"
-					]
+					"reg": 1118
 				}
 			]
 		},
 		{
-			"id": 6,
-			"parties": [
+			"id":6,
+			"parties":[
 				{
-					"reg": 703,
-					"leader": {
-						"name": "Martin Půta",
-						"reg": 703,
-						"links": [
-							{"url": "https://martinputa.cz"},
-							{"url": "https://www.facebook.com/hejtmanmartinputa"},
-							{"url": "https://twitter.com/MartinPuta"},
-							{"url": "https://www.instagram.com/hejtmanmartinputa"}
-						]
+					"reg":703,
+					"leader":{
+						"name":"Martin Půta",
+						"reg":703,
+						"links":[
+							{
+								"url":"https://martinputa.cz"
+							},
+							{
+								"url":"https://www.facebook.com/hejtmanmartinputa"
+							},
+							{
+								"url":"https://twitter.com/MartinPuta"
+							},
+							{
+								"url":"https://www.instagram.com/hejtmanmartinputa"
+							}
+						],
+						"photo":"martin-puta.jpg"
 					},
-					"support": ["Unie pro sport a zdraví"],
-					"list": [
-						"Květa Vinklátová", "Jan Sviták", "Lena Mlejnková", "Tomáš Hocke", "Markéta Khaverová", "Radek Lípa", "Michael Canov", "Eva Zbrojová", "Jaromír Dvořák", "Petr Tulpa", "Jiří Löffelmann", "Jaroslav Demčák", "Jiří Ulur", "Josef Horinka", "Vladimír Boháč", "Daniel David", "Markéta Červinková", "Anna Provazníková", "František Lufinka", "Vladimír Stříbrný", "Jaroslav Zámečník"
+					"support":[
+						"Unie pro sport a zdraví"
 					],
-					"links": [
-						{"url": "https://www.starostoveprolibereckykraj.cz", "label": "Webové stránky"},
-						{"url": "https://www.facebook.com/starostoveprolibereckykraj/", "label": "Facebook"}
-					]
+					"list":[
+						"Květa Vinklátová",
+						"Jan Sviták",
+						"Lena Mlejnková",
+						"Tomáš Hocke",
+						"Markéta Khauerová",
+						"Radek Lípa",
+						"Michael Canov",
+						"Eva Zbrojová",
+						"Jaromír Dvořák",
+						"Petr Tulpa",
+						"Jiří Löffelmann",
+						"Jaroslav Demčák",
+						"Jiří Ulvr",
+						"Josef Horinka",
+						"Vladimír Boháč",
+						"Daniel David",
+						"Markéta Červinková",
+						"Anna Provazníková",
+						"František Lufinka",
+						"Eva Burešová",
+						"Vladimír Stříbrný",
+						"Jaroslav Turnhófer",
+						"Jaroslav Zámečník"
+					],
+					"links":[
+						{
+							"url":"https://www.starostoveprolibereckykraj.cz",
+							"label":"Webové stránky"
+						},
+						{
+							"url":"https://www.facebook.com/starostoveprolibereckykraj/",
+							"label":"Facebook"
+						}
+					],
+					"data":"lbk/slk"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Zbyněk Miklík",
-						"reg": 720,
-						"links": [
-							{"url": "https://liberecky.pirati.cz/lide/zbynek-miklik"},
-							{"url": "https://www.facebook.com/zbynek.miklik.10"},
-							{"url": "https://twitter.com/zmiklik"}
+					"reg":720,
+					"leader":{
+						"name":"Zbyněk Miklík",
+						"photo": "zbynek-miklik.jpg",
+						"reg":720,
+						"links":[
+							{
+								"url":"https://liberecky.pirati.cz/lide/zbynek-miklik"
+							},
+							{
+								"url":"https://www.facebook.com/zbynek.miklik.10"
+							},
+							{
+								"url":"https://twitter.com/zmiklik"
+							}
 						]
 					},
-					"list": [
-						"Václav Židek", "Jarmila Valešová", "Jan Tempel", "Daniela Weissová", "Marek Förster", "Ondřej Víteček", "Ondřej Novosad", "Helena Vondráková", "Petr Vyhnal", "David Drobný", "Lukáš Vondrák", "Jan Lehký", "David Schindler", "Kateřina Rosáková", "Miloslav Kafka", "Veronika Vavřinová", "Petr Jeník", "Filip Mastník", "Pavel Felgr", "Pavel Váňa", "Jan Hruška", "Karel Kadlec", "Petr Bukvic", "Lenka Havlíčková"
+					"list":[
+						"Václav Židek",
+						"Jarmila Valešová",
+						"Jan Tempel",
+						"Daniela Weissová",
+						"Marek Förster",
+						"Ondřej Víteček",
+						"Ondřej Novosad",
+						"Helena Vondráková",
+						"Petr Vyhnal",
+						"David Drobný",
+						"Lukáš Vondrák",
+						"Jan Lehký",
+						"David Schindler",
+						"Kateřina Rosáková",
+						"Miloslav Kafka",
+						"Veronika Vavřinová",
+						"Petr Jeník",
+						"Filip Mastník",
+						"Pavel Felgr",
+						"Pavel Váňa",
+						"Jan Hruška",
+						"Karel Kadlec",
+						"Petr Bukvic",
+						"Lenka Havlíčková",
+						"Vojtěch Mečíř",
+						"Renata Franclová",
+						"Jan Munzar",
+						"Slavomír Říman",
+						"Barbora Wirnitzerová",
+						"Václav Balšánek",
+						"Magdalena Mejzrová",
+						"Petr Marek",
+						"Karolína Gaislerová",
+						"Lukáš Dlouhý",
+						"Lucie Černohouzová",
+						"Jan Jůza",
+						"Filip Kavan",
+						"Kateřina Jínová",
+						"Ondrej Mojšl",
+						"Zbyněk Vlk",
+						"Martin Rejman",
+						"Jan Gajdács",
+						"Jan Polák",
+						"Ondřej Kolek"
 					],
-					"links": [
-						{"url": "https://liberecky.pirati.cz"},
-						{"url": "https://www.facebook.com/PiratiLib"},
-						{"url": "https://twitter.com/PiratiLik"},
-						{"url": "https://www.instagram.com/piratiliberecko/", "label": "Piráti LBC"}
+					"links":[
+						{
+							"url":"https://liberecky.pirati.cz"
+						},
+						{
+							"url":"https://www.facebook.com/PiratiLib"
+						},
+						{
+							"url":"https://twitter.com/PiratiLik"
+						},
+						{
+							"url":"https://www.instagram.com/piratiliberecko/",
+							"label":"Piráti LBC"
+						}
 					],
-					"data": "lbk/720"
+					"data":"lbk/720",
+					"program": "https://liberecky.pirati.cz/program/kraj2020/program/"
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Josef Jadrný",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.facebook.com/jadrny"}
+					"reg":7,
+					"leader":{
+						"name":"Josef Jadrný",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.facebook.com/jadrny"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://www.cssdliberecko.cz"},
-						{"url": "https://www.facebook.com/CSSDKVVLiberecko", "label": "Facebook"},
-						{"url": "https://twitter.com/CSSD_Liberecko"}
+					"links":[
+						{
+							"url":"http://www.cssdliberecko.cz"
+						},
+						{
+							"url":"https://www.facebook.com/CSSDKVVLiberecko",
+							"label":"Facebook"
+						},
+						{
+							"url":"https://twitter.com/CSSD_Liberecko"
+						}
 					],
-					"list": [
+					"list":[
 						"Jan Mečl",
 						"David Rašín",
 						"Tomáš Hudec",
@@ -1080,38 +2178,80 @@
 					]
 				},
 				{
-					"reg": 53,
-					"leader": {
-						"name": "Dan Ramzer",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/region.liberecky/profil/5178-dan-ramzer"},
-							{"url": "https://www.facebook.com/ramzer.cz"},
-							{"url": "https://twitter.com/danramzer"},
-							{"url": "https://www.instagram.com/danramzer"}
+					"reg":53,
+					"leader":{
+						"name":"Dan Ramzer",
+						"reg":53,
+						"photo": "dan-ramzer.jpg",
+						"links":[
+							"https://www.ods.cz/region.liberecky/profil/5178-dan-ramzer",
+							"https://www.facebook.com/ramzer.cz",
+							"https://twitter.com/danramzer",
+							"https://www.instagram.com/danramzer"
 						]
 					},
-					"links": [
-						{"url": "http://www.odsregionliberec.cz/", "label": "Webové stránky"},
-						{"url": "https://www.facebook.com/ODS-LIBERECK%C3%9D-KRAJ-150956650459/", "label": "ODS Liberecko"},
-						{"url": "https://twitter.com/ODSLibereckkraj", "label": "ODS Liberecko"}
+					"links":[
+            "https://www.ods.cz/region.liberecky/volby2020/krajske",
+						{
+							"url":"https://www.facebook.com/ODS-LIBERECK%C3%9D-KRAJ-150956650459/",
+							"label":"ODS Liberecko"
+						},
+						{
+							"url":"https://twitter.com/ODSLibereckkraj",
+							"label":"ODS Liberecko"
+						}
 					],
-					"list": [
+					"list":[
 						"Vladimír Richter",
 						"Petr Židek",
 						"Pavel Jihlavec",
 						"Vít Němeček",
 						"Petr Beitl",
-						"Jiří Čeřovský",
+            "Daniel Ragín",
 						"Jaroslav Švehla",
-						"Rostislav Polášek",
-						"Marek Hotovec",
-						"Jindřich Kvapil",
-						{"name": "Jiří Kalenský", "reg": 99},
-						{"name": "Micheal Dufek", "reg": 99}
-					]
+            "Tomáš Špinka",
+            "Martin Trita",
+            "Petra Kašparová",
+            "Jiří Čeřovský",
+            "Tomáš Pěnička",
+            {"name": "Ivo Bělonohý", "reg": 99},
+            "Lucie Dušánková",
+            "Marek Hotovec",
+            "Alexandra Pišková",
+            "Jindřich Kvapil",
+            {"name": "Jiří Kalenský", "reg": 99},
+            {"name": "Michael Dufek", "reg": 99},
+            "Zdeněk Krenický",
+            "Otomar Němeček",
+            "Adam Pelta",
+            "Rostislav Polášek",
+            "Martina Motchagen",
+            "Miroslava Kramářová",
+            "David Šárka",
+            "Ivana Fiedlerová",
+            "Kamil Selmi",
+            "Jaromír Frič",
+            {"name": "Zuzana Šídlová", "reg": 99},
+            "Martin Semecký",
+            "Josef Pošmourný",
+            "Boris Pospíšil",
+            "Lukáš Bělohradský",
+            "Martin Šípek",
+            "Kamil Popper",
+            "Jiřího Bláhová",
+            {"name": "Tomáš Hejl", "reg": 99},
+            "Vladimír Kahánek",
+            "David Kolomazník",
+            "Jana Choděrová",
+            "Ladislav Novák",
+            "Tomáš Ploc",
+            "Jiří Stodůlka",
+            "Irena Pekařová"
+					],
+					"data": "lbk/53"
 				},
 				{
+<<<<<<< HEAD
 					"coalition": [1, 721],
 					"name": "Společně pro Liberecký kraj",
 					"leader": {
@@ -1122,100 +2262,286 @@
 							{"url": "https://www.facebook.com/jiri.klapste"},
 							{"url": "https://www.instagram.com/jiriklapste"}
 						]
-					},
-					"list": [
-						{"name": "Štěpán Matek", "reg": 1},
-						{"name": "Jiří Šolc", "reg": 99},
-						{"name": "Josef Šimůnek", "reg": 1},
-						{"name": "Miloslav Václav", "reg": 721},
-						{"name": "Lenka Procházková", "reg": 1},
-						{"name": "Jiří Vondráček", "reg": 721},
-						{"name": "Daniela Šebestová", "reg": 99},
-						{"name": "Tomáš Veber", "reg": 1},
-						{"name": "Libor Šmejda", "reg": 99}
+=======
+					"coalition":[
+						1,
+						721
 					],
+					"name":"Společně pro Liberecký kraj",
+					"leader":{
+						"name":"Jiří Klápště",
+						"reg":721,
+						"links":[
+							"https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri",
+							"https://www.facebook.com/jiri.klapste",
+							"https://www.instagram.com/jiriklapste"
+						],
+						"photo":"jiri-klapste.jpg"
+>>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
+					},
+					"list":[
+						{
+							"name":"Štěpán Matek",
+							"reg":1
+						},
+						{
+							"name":"Jiří Šolc",
+							"reg":99
+						},
+						{
+							"name":"Josef Šimůnek",
+							"reg":1
+						},
+						{
+							"name":"Miloslav Václav",
+							"reg":721
+						},
+						{
+							"name":"Lenka Procházková",
+							"reg":1
+						},
+						{
+							"name":"Jiří Vondráček",
+							"reg":721
+						},
+						{
+							"name":"Daniela Šebestová",
+							"reg":99
+						},
+						{
+							"name":"Tomáš Veber",
+							"reg":1
+						},
+						{
+							"name":"Libor Šmejda",
+							"reg":99
+						}
+					],
+<<<<<<< HEAD
 					"links": [
 						{"url": "https://www.spolecneprolibereckykraj.cz"},
 						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "label": "KDU-ČSL Liberecko"},
 						{"url": "https://www.facebook.com/TOP09Liberec/", "label": "TOP 09 Liberecko"}
 					],
 					"data": "lbk/spolecne"
-				},
-				{
-					"coalition": [5, 795],
-					"name": "Pro krajinu",
-					"leader": {
-						"name": "Josef Šedlbauer",
-						"reg": 5,
-						"links": [
-							{"url": "https://www.facebook.com/jsedlbauer"},
-							{"url": "https://twitter.com/JSedlbauer"},
-							{"url": "https://www.instagram.com/josef_sedlbauer"}
-						]
-					},
-					"links": [
-						{"url": "https://volbaprokrajinu.cz"},
-						{"url": "https://www.facebook.com/prokrajinu"},
-						{"url": "https://twitter.com/krajinu"},
-						{"url": "https://www.instagram.com/pro_krajinu"},
-						{"url": "https://www.facebook.com/ZeleniLBC"},
-						{"url": "https://twitter.com/ZeleniLbc"},
-						{"url": "https://www.instagram.com/zeleni.lk"}
+=======
+					"links":[
+						{
+							"url":"https://www.spolecneprolibereckykraj.cz"
+						},
+						{
+							"url":"https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707",
+							"label":"KDU-ČSL Liberecko"
+						},
+						{
+							"url":"https://www.facebook.com/TOP09Liberec/",
+							"label":"TOP 09 Liberecko"
+						}
 					],
-					"logo": "obecne/strany/loga/x-pro-krajinu.jpg"
+					"data":"lbk/spolecne"
+>>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Stanislav Mackovík",
-						"reg": 47,
-						"links": [
-							{"url": "http://old.kscm.cz/nasi-lide/parlament-cr1/poslanecka-snemovna1/stanislav-mackovik"},
-							{"url": "https://www.facebook.com/stanislav.mackovik"}
+					"coalition":[
+						5,
+						795
+					],
+					"name":"Pro krajinu",
+					"leader":{
+						"name":"Josef Šedlbauer",
+						"reg":5,
+						"links":[
+							{
+								"url":"https://www.facebook.com/jsedlbauer"
+							},
+							{
+								"url":"https://twitter.com/JSedlbauer"
+							},
+							{
+								"url":"https://www.instagram.com/josef_sedlbauer"
+							}
+						],
+						"photo": "josef-sedlbauer.jpg"
+					},
+					"links":[
+						"http://neuschneme.cz",
+						{
+							"url":"https://volbaprokrajinu.cz"
+						},
+						{
+							"url":"https://www.facebook.com/prokrajinu"
+						},
+						{
+							"url":"https://twitter.com/krajinu"
+						},
+						{
+							"url":"https://www.instagram.com/pro_krajinu"
+						}
+					],
+					"logo":"obecne/strany/loga/x-pro-krajinu.jpg",
+					"motto":"Neuschneme",
+					"program":"https://volbaprokrajinu.cz/uploads/program-2.pdf",
+					"list":[
+						"Anna Kšírová",
+						"Jakub Macek",
+						"Martina Vondrová",
+						"Miroslav Hudec",
+						"Lenka Vítebská",
+						"Ondřej Černý",
+						"Zuzana Kocumová",
+						"Jaromír Baxa",
+						"Anna Hudská",
+						"Jindřich Felcman",
+						"Jakub Varvařovský",
+						"Ludmila Karková"
+					],
+					"data": "lbk/5"
+				},
+				{
+					"reg":47,
+					"leader":{
+						"name":"Stanislav Mackovík",
+						"reg":47,
+						"links":[
+							{
+								"url":"http://old.kscm.cz/nasi-lide/parlament-cr1/poslanecka-snemovna1/stanislav-mackovik"
+							},
+							{
+								"url":"https://www.facebook.com/stanislav.mackovik"
+							}
 						]
 					},
-					"list": [
+					"list":[
 						"Jan Koros",
 						"František Pešek",
 						"Miloš Tita",
 						"Jan Dvořák"
 					],
-					"links": [
-						{"url": "https://www.facebook.com/KS%C4%8CM-Libereck%C3%BD-kraj-1624537931096023/", "label": "KSČM Liberecko"}
+					"links":[
+						{
+							"url":"https://www.facebook.com/KS%C4%8CM-Libereck%C3%BD-kraj-1624537931096023/",
+							"label":"KSČM Liberecko"
+						}
 					]
 				},
 				{
-					"reg": 1227,
-					"links": [
-						{"url": "https://www.facebook.com/volimtrikoloruLibereckykrajoficialni/", "label": "Facebook"}
+					"reg":1227,
+					"links":[
+						{
+							"url":"https://www.facebook.com/volimtrikoloruLibereckykrajoficialni/",
+							"label":"Facebook"
+						}
 					],
-					"leader": {
-						"name": "Tomáš Rakouš",
-						"reg": 1227,
-						"links": [
-							{"url": "https://www.facebook.com/tomas.rakous.39"}
+					"leader":{
+						"name":"Tomáš Rakouš",
+						"reg":1227,
+						"links":[
+							{
+								"url":"https://www.facebook.com/tomas.rakous.39"
+							}
 						]
 					}
 				},
 				{
-					"reg": 715
+					"reg":715
 				},
 				{
-					"reg": 768,
+					"reg":768,
+					"leader":{
+						"name":"Jitka Volfová",
+						"reg":768,
+			      "photo": "jitka-volfova.jpg"
+					},
+					"links":[
+						"https://www.anobudelip.cz/liberecky-kraj",
+						"https://www.facebook.com/anolibereckykraj/"
+					],
+					"list": [
+						"Jaroslav Knížek",
+						"Šárka Prachařová",
+						"Martin Brož",
+						"Stanislav Říha"
+					]
+				},
+				{
+					"reg":1114,
 					"leader": {
-						"name": "Jitka Volfová",
-						"reg": 768
+						"name": "Michal Švarc",
+						"reg": 1114,
+						"photo": "michal-svarc-2.jpg"
 					},
 					"links": [
-						"https://www.anobudelip.cz/liberecky-kraj"
-					]
+						"https://spd.cz/o-nas/volby-do-krajskych-zastupitelstev-2020/liberecky-kraj/",
+						"https://www.facebook.com/spdliberecky/"
+					],
+					"data": "lbk/1114",
+					"motto": "Liberecký kraj na 1. místě!",
+					"list": [
+						"Radovan Vích",
+						"Bronislav Kalvoda",
+						"Libor Křeněk",
+						"Věnceslava Drábková"
+					],
+					"program": "https://docs.google.com/document/d/1MCP27sW4y4q_fDDbbTL9UG1N72KQ0r-wzUwHeZU9XbY"
+				},
+				{
+					"reg": 771,
+					"name": "Změna pro lidi a pro krajinu",
+					"leader": {
+						"name": "Jan Korytář",
+						"reg": 771,
+			      "photo": "jan-korytar.jpg"
+					},
+					"list": [
+						"Halina Doležalová", "Jiří Římánek", "Jana Jetmarová", "Jindřich Gubiš", "Karolína Hrbková", "Jan Červený", "Pavla Haidlová", "Ondřej Kači", "Pavlína Ištoková", "Václav Smrkovský", "Radka Slížová"
+					],
+					"links": [
+						"https://zmenaprolidiaprokrajinu.cz/",
+						"https://www.facebook.com/ZmenaproLK/",
+						"https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
+					],
+					"data": "lbk/771"
+				},
+				{
+					"reg":137,
+					"leader": {
+						"name": "Pavlína Dohnalová"
+					}
+				},
+				{
+					"reg":103,
+					"leader": {
+						"name": "Jan Hraško",
+						"photo": "jan-hrasko.jpg",
+						"reg": 99
+					},
+					"list": [
+						{"name": "Robert Gamba", "reg": 99},
+						{"name": "Pavel Bednář", "reg": 99},
+						{"name": "Václav Konopiský", "reg": 99},
+						{"name": "Ondřej Hink", "reg": 99},
+						{"name": "Ivanka Kolomá", "reg": 99},
+						{"name": "Jiří Paulů", "reg": 99},
+						{"name": "Miroslav Kyzyvát", "reg": 99},
+						{"name": "Marta Procházková", "reg": 99},
+						{"name": "Eva Folprechtová", "reg": 99}
+					],
+					"links": [
+						"https://www.instagram.com/aznakraj",
+						"https://www.facebook.com/SOSzaLK/"
+					],
+					"data": "lbk/103"
+				},
+				{
+					"reg": 156
 				}
 			]
 		},
 		{
-			"id": 7,
-			"parties": [
+			"id":7,
+			"parties":[
 				{
+<<<<<<< HEAD
 					"coalition": [1, 181, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": {
@@ -1235,750 +2561,1660 @@
 						{"url": "https://www.facebook.com/koalicehk"},
 						{"url": "https://www.facebook.com/kdukralovehradecko/", "label": "KDU-ČSL KHK"},
 						{"url": "https://www.facebook.com/volbapromestohk"}
+=======
+					"coalition":[
+						1,
+						181,
+						113
 					],
-					"list": [
-						{"name": "Martin Machů", "reg": 1},
-						{"name": "Miroslav Půža", "reg": 113}
+					"name":"Koalice pro Královéhradecký kraj",
+					"leader":{
+						"name":"Pavel Bělobrádek",
+						"reg":1,
+						"links":[
+							{
+								"url":"http://www.pavelbelobradek.cz"
+							},
+							{
+								"url":"https://www.facebook.com/Belobradek"
+							},
+							{
+								"url":"https://twitter.com/belobradek"
+							},
+							{
+								"url":"https://www.instagram.com/pbelobradek"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"http://www.koalicehk.kdu.cz"
+						},
+						{
+							"url":"http://kralovehradecky.kdu.cz/",
+							"label":"KDU-ČSL KHK"
+						},
+						{
+							"url":"http://vpm2014.cz"
+						},
+						{
+							"url":"https://www.facebook.com/koalicehk"
+						},
+						{
+							"url":"https://www.facebook.com/kdukralovehradecko/",
+							"label":"KDU-ČSL KHK"
+						},
+						{
+							"url":"https://www.facebook.com/volbapromestohk"
+						}
+>>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
+					],
+					"list":[
+						{
+							"name":"Martin Machů",
+							"reg":1
+						},
+						{
+							"name":"Miroslav Půža",
+							"reg":113
+						},
+						"Petr Hamáček",
+						"Jan Čáp"
 					]
 				},
 				{
-					"coalition": [53, 166, 770],
-					"leader": {
-						"name": "Martin Červíček",
-						"reg": 53,
-						"links": [
-							{"url": "http://www.martincervicek.cz"},
-							{"url": "https://www.facebook.com/Cervicek.ODS"},
-							{"url": "https://twitter.com/Martin_Cervicek"}
+          "name": "Koalice ODS+STAN+Východočeši",
+					"coalition":[
+						53,
+						166,
+						770
+					],
+					"leader":{
+						"name":"Martin Červíček",
+						"reg":53,
+			      "photo": "martin-cervicek.jpg",
+						"links":[
+							{
+								"url":"http://www.martincervicek.cz"
+							},
+							{
+								"url":"https://www.facebook.com/Cervicek.ODS"
+							},
+							{
+								"url":"https://twitter.com/Martin_Cervicek"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://www.ods.cz/region.kralovehradecky", "label": "ODS KHK"},
-						{"url": "https://www.starostove-nezavisli.cz/regiony/kralovehradecky-kraj", "label": "STAN KHK"},
-						{"url": "http://www.vychodocesi.cz"},
-						{"url": "https://www.facebook.com/ODSKHK"},
-						{"url": "https://www.facebook.com/starostove.kralovehradecky/", "label": "STAN KHK"},
-						{"url": "https://www.facebook.com/vychodocesi"},
-						{"url": "https://twitter.com/ODSHradecKrlov"},
-						{"url": "https://twitter.com/stan_kraj"}
+					"links":[
+            "https://www.ods.cz/region.kralovehradecky/volby2020/krajske",
+						{
+							"url":"https://www.starostove-nezavisli.cz/regiony/kralovehradecky-kraj",
+							"label":"STAN KHK"
+						},
+						{
+							"url":"http://www.vychodocesi.cz"
+						},
+						{
+							"url":"https://www.facebook.com/ODSKHK"
+						},
+						{
+							"url":"https://www.facebook.com/starostove.kralovehradecky/",
+							"label":"STAN KHK"
+						},
+						{
+							"url":"https://www.facebook.com/vychodocesi"
+						},
+						{
+							"url":"https://twitter.com/ODSHradecKrlov"
+						},
+						{
+							"url":"https://twitter.com/stan_kraj"
+						}
 					],
-					"list": [
-						{"name": "Martina Berdychová", "reg": 770},
-						{"name": "Rudolf Cogan", "reg": 166},
-						{"name": "Václav Řehoř", "reg": 53},
-						{"name": "Ivan Adamec", "reg": 53},
-						{"name": "Oldřich Vlasák", "reg": 53}
-					]
+					"list":[
+						{"name":"Martina Berdychová","reg":99},{"name":"Rudolf Cogan","reg":166},{"name":"Václav Řehoř","reg":53},{"name":"Josef Horáček","reg":166},{"name":"Jana Drejslová","reg":99},{"name":"Dana Kracíková","reg":99},{"name":"Ivan Adamec","reg":53},{"name":"Milan Brandejs","reg":166},{"name":"Ladislav Brykner","reg":53},{"name":"Aleš Maloch","reg":99},{"name":"Jiří Škop","reg":53},{"name":"Lucie Potůčková","reg":166},{"name":"Libor Kasík","reg":53},{"name":"Helena Rezková","reg":770},{"name":"Pavel Louda","reg":53},{"name":"Jiří Pechar","reg":166},{"name":"Pavel Jankovský","reg":53},{"name":"Radek Balcárek","reg":770},{"name":"Pavel Káňa","reg":53},{"name":"Jan Sobotka","reg":166},{"name":"Antonín Stanislav","reg":53},{"name":"Martin Prouza","reg":770},{"name":"Dominik Lukaštík","reg":53},{"name":"Jan Rejzl","reg":166},{"name":"Petr Lžíčař","reg":99},{"name":"Aleš Svoboda","reg":770},{"name":"Josef Král","reg":53},{"name":"Roman Drašnar","reg":166},{"name":"Miroslav Procházka","reg":53},{"name":"Vítězslav Šturma","reg":770},{"name":"Luboš Mottl","reg":53},{"name":"Hana Štěrbová","reg":166},{"name":"Dana Bohutínská","reg":53},{"name":"David Joska","reg":770},{"name":"Milan Pospíšil","reg":99},{"name":"Miroslav Švábl","reg":166},{"name":"Josef Šalda","reg":53},{"name":"Pavel Dvořáček","reg":770},{"name":"Miloslav Kůta","reg":99},{"name":"Libor Šnajdr","reg":166},{"name":"Petra Škopová","reg":53},{"name":"Martina Benešová","reg":770},{"name":"Petr Martinov","reg":53},{"name":"Radim Žárský","reg":53},{"name":"Milan Žďárek","reg":166},{"name":"Martin Moravec","reg":99},{"name":"Jaroslav Huňat","reg":166},{"name":"Oldřich Vlasák","reg":53},{"name":"Jiří Liška","reg":99}
+					],
+					"data":"khk/ods-stan-vc"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Pavel Bulíček",
-						"reg": 720,
-						"links": [
-							{"url": "https://kralovehradecky.pirati.cz/aktuality/lidrem-piratu-pro-krajske-volby-je-pavel-bulicek.html"},
-							{"url": "https://www.facebook.com/piratpavelbulicek"},
-							{"url": "https://twitter.com/PavelBulicek"},
-							{"url": "https://www.instagram.com/pavelbulicek"}
+					"reg":720,
+					"leader":{
+						"name":"Pavel Bulíček",
+						"photo": "pavel-bulicek.jpg",
+						"reg":720,
+						"links":[
+							"https://kralovehradecky.pirati.cz/aktuality/lidrem-piratu-pro-krajske-volby-je-pavel-bulicek.html",
+							"https://www.facebook.com/piratpavelbulicek",
+							"https://twitter.com/PavelBulicek",
+							"https://www.instagram.com/pavelbulicek"
 						]
 					},
-					"links": [
-						{"url": "https://kralovehradecky.pirati.cz/", "label": "Piráti KHK"},
-						{"url": "https://www.facebook.com/pirati.khk"}
+					"links":[
+						"https://kralovehradecky.pirati.cz/",
+						"https://www.facebook.com/pirati.khk"
 					],
-					"list": [
+					"list":[
 						"Adam Valenta",
-						{"name": "Martina Vágner Dostálová", "reg": 99}
-					]
+						{
+							"name":"Martina Vágner Dostálová",
+							"reg":99
+						},
+						"Tomáš Eichler",
+						"Petr Jeništa"
+					],
+					"motto": "Šance změnit budoucnost"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Jaromír Dědeček",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.facebook.com/jaromir.dedecek.144"}
+					"reg":768,
+					"leader":{
+						"name":"Jaromír Dědeček",
+						"reg":768,
+						"links":[
+							"https://www.anobudelip.cz/cs/jaromir-dedecek/",
+							"https://www.facebook.com/jaromirdedecek2020/",
+							"https://www.facebook.com/jaromir.dedecek.144"
+
 						]
 					},
-					"links": [
-						{"url": "https://www.anobudelip.cz/kralovehradecky-kraj", "label": "ANO KHK"},
-						{"url": "https://www.facebook.com/AnoTohleJeHradec"}
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/kralovehradecky-kraj",
+							"label":"ANO KHK"
+						},
+						{
+							"url":"https://www.facebook.com/AnoTohleJeHradec"
+						}
 					],
-					"list": [
+					"list":[
 						"Eva Matyášová",
 						"Petr Koleta"
 					]
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Zdeněk Ondráček",
-						"reg": 47,
-						"links": [
-							{"url": "https://www.kscm.cz/cs/nasi-lide/judr-phdr-zdenek-ondracek-phd"},
-							{"url": "https://www.facebook.com/OndracekZdenek%20"},
-							{"url": "https://www.instagram.com/zdenek.ondracek.56"}
+					"reg":47,
+					"leader":{
+						"name":"Zdeněk Ondráček",
+						"reg":47,
+						"links":[
+							{
+								"url":"https://www.kscm.cz/cs/nasi-lide/judr-phdr-zdenek-ondracek-phd"
+							},
+							{
+								"url":"https://www.facebook.com/OndracekZdenek%20"
+							},
+							{
+								"url":"https://www.instagram.com/zdenek.ondracek.56"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://kscmkrhk.cz"},
-						{"url": "https://www.facebook.com/kvkscmkrhk"}
+					"links":[
+						{
+							"url":"http://kscmkrhk.cz"
+						},
+						{
+							"url":"https://www.facebook.com/kvkscmkrhk"
+						}
 					],
-					"list": [
-						{"name": "Petra Zakouřilová", "reg": 99},
+					"list":[
+						{
+							"name":"Petra Zakouřilová",
+							"reg":99
+						},
 						"Táňa Šormová"
 					]
 				},
 				{
-					"name": "Spojenci pro Královéhradecký kraj",
-					"coalition": [721, 1049],
-					"support": [795],
-					"leader": {
-						"name": "Aleš Cabicar",
-						"reg": 721,
-						"links": [
-							{"url": "https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html"},
-							{"url": "https://www.facebook.com/ales.cabicar"},
-							{"url": "https://twitter.com/AlesCabicar"}
-						]
-					},
-					"links": [
-						{"url": "http://www.top09.cz/regiony/kralovehradecky-kraj", "label": "TOP 09 KHK"},
-						{"url": "http://www.hdkhk.cz"},
-						{"url": "https://www.facebook.com/TOP09.Kralovehradecky.kraj/", "label": "TOP 09 KHK"},
-						{"url": "https://www.facebook.com/hdkhk"}
+					"name":"Spojenci pro Královéhradecký kraj",
+					"coalition":[
+						721,
+						1049,
+						795
 					],
-					"list": [
-						{"name": "Pavlína Springerová", "reg": 1049},
-						{"name": "Libor Koldinský"},
-						{"name": "Rostislav Petrák"},
-						{"name": "Jan Balcar", "reg": 795},
-						{"name": "Zdeněk Fink"},
-						{"name": "Matěj Havel"},
-						{"name": "Silvie Šidáková"},
-						{"name": "Milan Sommer"},
-						{"name": "Kamil Slezák"}
-					]
-				},
-				{
-					"reg": 1227,
-					"leader": {
-						"name": "Jiří Matoušek",
-						"reg": 1227
-					},
-					"links": [
-						{"url": "https://www.facebook.com/trikolorahk"}
-					]
-				},
-				{
-					"name": "Spolu pro kraj",
-					"coalition": [5, 7, "Osobnosti kraje"],
-					"logo": "obecne/strany/loga/1228-sprok.png",
-					"leader": {
-						"name": "Jiří Štěpán",
-						"reg": 7,
-						"links": [
-							{"url": "https://spoluprokraj.cz/member/1-jiri-stepan"},
-							{"url": "https://www.facebook.com/hejtmanjiristepan"},
-							{"url": "https://twitter.com/stepanjiri1"}
-						]
-					},
-					"links": [
-						{"url": "https://spoluprokraj.cz"},
-						{"url": "https://www.facebook.com/spoluprokrajkhk"},
-						{"url": "https://twitter.com/spoluprokrajkhk"},
-						{"url": "https://www.instagram.com/spoluprokrajkhk"}
-					],
-					"list": [
-						{"name": "Martin Hanousek", "reg": 5},
-						{"name": "Pavel Hečko", "reg": 7},
-						{"name": "Karin Richterová", "reg": 5},
-						{"name": "Hana Masáková", "reg": 7},
-						{"name": "Petr Sobotka", "reg": 5},
-						{"name": "Stanislav Rudolfský", "reg": 99},
-						{"name": "Barbora Kulichová", "reg": 5},
-						{"name": "František Mencl", "reg": 99},
-						{"name": "Štěpán Málek", "reg": 99},
-						{"name": "Jan Birke", "reg": 7}
-					],
-					"program": "https://spoluprokraj.cz/program/",
-					"data": "khk/1228"
-				},
-				{
-					"reg": 715
-				}
-			]
-		},
-		{
-			"id": 8,
-			"parties": [
-				{
-					"coalition": [7, "Společně pro kraj"],
-					"name": "3PK - Pro prosperující Pardubický kraj",
-					"leader": {
-						"name": "Martin Netolický",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.facebook.com/martinnetolickyhejtman"},
-							{"url": "https://twitter.com/NetolickyMartin"}
-						]
-					},
-					"list": [
-						"Miroslav Krčil", "Josef Bidmon", "Vladimír Ninger", "Petr Fiala", "Pavel Havíř", "Josef Kozel", "Lenka Pařízková", "Bohumil Bernášek", "Alena Šírová", "Josef Hájek", "Václav Kubín", "Jan Stránský", "Radko Martínek", "Jan Macháček", "Václav Roček", "Lenka Tlustá", "Ladislava Kratochvilová", "Václav Kroutil", "Marcel Vojtěch"
-					],
-					"logo": "obecne/strany/loga/x-3pk.png",
-					"links": [
-						{"url": "https://www.3pk.cz"},
-						{"url": "https://www.facebook.com/3PKoficialni"}
-					]
-				},
-				{
-					"reg": 720,
-					"leader": {
-						"name": "Daniel Lebduška",
-						"reg": 720,
-						"links": [
-							{"url": "https://pardubicky.pirati.cz/lide/daniel-lebduska"},
-							{"url": "https://www.facebook.com/lebduska.daniel"}
-						]
-					},
-					"links": [
-						{"url": "https://pardubicky.pirati.cz"},
-						{"url": "https://www.facebook.com/pirati.pardubicko/", "label": "Piráti Pardubicko"},
-						{"url": "https://www.instagram.com/pirati.pardubickykraj/", "label": "Piráti Pardubicko"}
-					],
-					"list": [
-						"Filip Mezera", "Andrej Ramašeuski", "Libuše Vévodová", "Jiří Ducháček", "Lenka Španihelová", "Andrea Linhartová", "Jaroslav Lainz", "Matěj Karas"
-					],
-					"data": "pak/720"
-				},
-				{
-					"reg": 768,
-					"leader": {
-						"name": "Martin Kolovratník",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.martinkolovratnik.cz"},
-							{"url": "https://www.facebook.com/KolovratnikM"},
-							{"url": "https://twitter.com/kolovratnikm"},
-							{"url": "https://www.instagram.com/hrabje"}
+					"leader":{
+						"name":"Aleš Cabicar",
+						"reg":721,
+						"links":[
+							"https://www.top09.cz/regiony/kralovehradecky-kraj/regionalni-organizace/nachod/ales-cabicar-20443.html",
+							"https://www.facebook.com/ales.cabicar",
+							"https://twitter.com/AlesCabicar"
 						],
-						"quote": "Jako poslanec pro Vás pracuji už od roku 2013. Jsem odborníkem na dopravu a mám za sebou výsledky, které jsou vidět. Rozpohyboval jsem dlouho odkládané zahájení stavby dálnice D35, odstartoval jsem přípravu vysokorychlostní železnice, díky mým návrhům vyrostly v našem kraji kilometry cyklostezek a chodníků a v řadě měst startují tolik potřebné silniční obchvaty. V roli zpravodaje jsem Sněmovnou provedl téměř všechny dopravní zákony, které nyní v Česku máme. Prosadil jsem desítky změn, které nás pozitivně ovlivňují a ulehčují nám každodenní život. Poslaneckému mandátu věnuji všechen svůj čas, svoji práci dělám poctivě a záleží mi na výsledku. Úspěšné dílo však není u konce. V rozvoji moderní dopravy bych rád pokračoval a věřím, že společně dotáhneme věci do zdárného konce. Pro nás a pro naše děti."
+						"photo":"ales-cabicar.jpg"
 					},
-					"links": [
-						{"url": "https://www.anopardubickykraj.cz"},
+					"links":[
+						{
+							"url":"http://www.top09.cz/regiony/kralovehradecky-kraj",
+							"label":"TOP 09 KHK"
+						},
+						{
+							"url":"http://www.hdkhk.cz"
+						},
+						{
+							"url":"https://www.facebook.com/TOP09.Kralovehradecky.kraj/",
+							"label":"TOP 09 KHK"
+						},
+						{
+							"url":"https://www.facebook.com/hdkhk"
+						}
+					],
+					"list":[
+						{
+							"name":"Pavlína Springerová",
+							"reg":1049
+						},
+						{
+							"name":"Libor Koldinský",
+							"reg":721
+						},
+						{
+							"name":"Rostislav Petrák",
+							"reg":721
+						},
+						{
+							"name":"Jan Balcar",
+							"reg":795
+						},
+						{
+							"name":"Zdeněk Fink",
+							"reg":1049
+						},
+						{
+							"name":"Matěj Ondřej Havel",
+							"reg":721
+						},
+						{
+							"name":"Silvie Šidáková",
+							"reg":721
+						},
+						{
+							"name":"Milan Sommer",
+							"reg":721
+						},
+						{
+							"name":"Kamil Slezák",
+							"reg":721
+						}
+					],
+					"data":"khk/spojenci"
+				},
+				{
+					"reg":1227,
+					"leader":{
+						"name":"Jiří Matoušek",
+						"reg":1227
+					},
+					"support":[
+						714,
+						716
+					],
+					"links":[
+						{
+							"url":"https://www.facebook.com/trikolorahk"
+						}
+					]
+				},
+				{
+					"name":"Spolu pro kraj",
+					"coalition":[
+						5,
+						7,
+						"Osobnosti kraje"
+					],
+					"logo":"obecne/strany/loga/1228-sprok.png",
+					"leader":{
+						"name":"Jiří Štěpán",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://spoluprokraj.cz/member/1-jiri-stepan"
+							},
+							{
+								"url":"https://www.facebook.com/hejtmanjiristepan"
+							},
+							{
+								"url":"https://twitter.com/stepanjiri1"
+							}
+						],
+						"photo":"jiri-stepan.jpg"
+					},
+					"links":[
+						{
+							"url":"https://spoluprokraj.cz"
+						},
+						{
+							"url":"https://www.facebook.com/spoluprokrajkhk"
+						},
+						{
+							"url":"https://twitter.com/spoluprokrajkhk"
+						},
+						{
+							"url":"https://www.instagram.com/spoluprokrajkhk"
+						}
+					],
+					"list":[
+						{
+							"name":"Martin Hanousek",
+							"reg":5
+						},
+						{
+							"name":"Pavel Hečko",
+							"reg":7
+						},
+						{
+							"name":"Karin Richterová",
+							"reg":5
+						},
+						{
+							"name":"Hana Masáková",
+							"reg":7
+						},
+						{
+							"name":"Petr Sobotka",
+							"reg":5
+						},
+						{
+							"name":"Stanislav Rudolfský",
+							"reg":99
+						},
+						{
+							"name":"Barbora Kulichová",
+							"reg":5
+						},
+						{
+							"name":"František Mencl",
+							"reg":99
+						},
+						{
+							"name":"Štěpán Málek",
+							"reg":99
+						},
+						{
+							"name":"Jan Birke",
+							"reg":7
+						}
+					],
+					"program":"https://spoluprokraj.cz/program/",
+					"data":"khk/1228",
+					"copyright":{
+						"content":"Fotografie a vizitky kandidátů jsou převzaté z webu %0.",
+						"vars":[
+							"https://spoluprokraj.cz"
+						]
+					}
+				},
+				{
+					"reg":715
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Zdeněk Podal",
+						"reg":1114
+					}
+				},
+				{
+					"reg":137,
+					"leader": {
+						"name": "Václav Makalouš"
+					}
+				},
+				{
+					"reg": 156
+				}
+			]
+		},
+		{
+			"id":8,
+			"parties":[
+				{
+					"coalition":[
+						7,
+						"Společně pro kraj"
+					],
+					"name":"3PK - Pro prosperující Pardubický kraj",
+					"leader":{
+						"name":"Martin Netolický",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.facebook.com/martinnetolickyhejtman"
+							},
+							{
+								"url":"https://twitter.com/NetolickyMartin"
+							}
+						]
+					},
+					"list":[
+						"Miroslav Krčil",
+						"Josef Bidmon",
+						"Vladimír Ninger",
+						"Petr Fiala",
+						"Pavel Havíř",
+						"Josef Kozel",
+						"Lenka Pařízková",
+						"Bohumil Bernášek",
+						"Alena Šírová",
+						"Josef Hájek",
+						"Václav Kubín",
+						"Jan Stránský",
+						"Radko Martínek",
+						"Jan Macháček",
+						"Václav Roček",
+						"Lenka Tlustá",
+						"Ladislava Kratochvilová",
+						"Václav Kroutil",
+						"Marcel Vojtěch"
+					],
+					"logo":"obecne/strany/loga/x-3pk.png",
+					"links":[
+						{
+							"url":"https://www.3pk.cz"
+						},
+						{
+							"url":"https://www.facebook.com/3PKoficialni"
+						}
+					]
+				},
+				{
+					"reg":720,
+					"leader":{
+						"name":"Daniel Lebduška",
+						"photo": "daniel-lebduska.jpg",
+						"reg":720,
+						"links":[
+							"https://pardubicky.pirati.cz/lide/daniel-lebduska",
+							"https://www.facebook.com/lebduska.daniel"
+						]
+					},
+					"links":[
+						"https://pardubicky.pirati.cz",
+						"https://www.facebook.com/pirati.pardubicko/",
+						"https://www.instagram.com/pirati.pardubickykraj/"
+					],
+					"list":[
+						"Filip Mezera",
+						"Andrej Ramašeuski",
+						"Libuše Vévodová",
+						"Jiří Ducháček",
+						"Lenka Španihelová",
+						"Andrea Linhartová",
+						"Jaroslav Lainz",
+						"Matěj Karas",
+						"Vladek Vácha",
+						"David Marhold",
+						"Jiří Krátký",
+						{"name": "Lucie Procházková", "reg": 99},
+						"Ing. Dominik Bečka",
+						"Martin Saifrt",
+						"Ing. Ondřej Karas",
+						"Aleš Nunvář",
+						"Mgr. Jiří Jansa",
+						"Bc. Ondřej Češík",
+						"Mgr. Marcel Palatáš",
+						"Sára Zavřelová",
+						"Zdeněk Kubala",
+						{"name": "Emanuel Žďárský", "reg": 99},
+						{"name": "Jiří Hruška", "reg": 99},
+						"Jan Moravec",
+						"Ing. Martin Sedlák",
+						"Martin Herman",
+						"Jan Bednář",
+						{"name": "Oldřich Vodehnal", "reg": 99},
+						"Zdeněk Brejša",
+						"Mgr. Martin Vít",
+						{"name": "Jiří Kohoutek", "reg": 99},
+						"Zbyněk Ruda, zastupitel",
+						{"name": "Jaroslav Klimeš", "reg": 99},
+						{"name": "Richard Pavlík", "reg": 99},
+						{"name": "Vít Hořenovský", "reg": 99},
+						"Mgr. Tomáš Kolomý",
+						{"name": "Ondřej Hapala", "reg": 99},
+						"Roman Sahula",
+						"Anna Vavřečková",
+						"Mgr. Tomáš Grosskopf",
+						{"name": "Josef Horák", "reg": 99},
+						"Filip Vařecha",
+						"Karsten Sachs",
+						"Karel Macek",
+						"Jan Hrubeš",
+						"Jitka Bidlová",
+						"Ivana Böhmová",
+						"Pavel Štěpánek",
+						"Stanislav Klát"
+					],
+					"data":"pak/720"
+				},
+				{
+					"reg":768,
+					"leader":{
+						"name":"Martin Kolovratník",
+			      "photo": "martin-kolovratnik.jpg",
+						"reg":768,
+						"links":[
+							{
+								"url":"https://www.martinkolovratnik.cz"
+							},
+							{
+								"url":"https://www.facebook.com/KolovratnikM"
+							},
+							{
+								"url":"https://twitter.com/kolovratnikm"
+							},
+							{
+								"url":"https://www.instagram.com/hrabje"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://www.anopardubickykraj.cz"
+						},
 						"https://www.anobudelip.cz/pardubicky-kraj",
-						{"url": "https://www.facebook.com/ANOPardubickykraj"}
-					]
-				},
-				{
-					"coalition": [1, 181, 129],
-					"name": "Koalice pro Pardubický kraj",
-					"logo": "obecne/strany/loga/x-koalicepropk.png",
-					"leader": {
-						"name": "Roman Línek",
-						"reg": 1,
-						"links": [
-							{"url": "http://www.roman-linek.cz"},
-							{"url": "https://www.facebook.com/roman.linek.14"},
-							{"url": "https://www.instagram.com/romanlinek"}
-						]
-					},
-					"support": ["Sdružení pro Pardubice"],
-					"list": [
-						{"name": "David Šimek", "reg": 181},
-						{"name": "René Živný", "reg": 129},
-						{"name": "Pavel Šotola", "reg": 1},
-						{"name": "Magdaléna Peterková", "reg": 99},
-						{"name": "Petr Hájek", "reg": 181},
-						{"name": "Ivan Jeník", "reg": 129},
-						{"name": "Radomil Kašpar", "reg": 1},
-						{"name": "František Jiraský", "reg": 181},
-						{"name": "Petr Řezníček", "reg": 129},
-						{"name": "Ondřej Výborný", "reg": 99},
-						{"name": "Věra Uhlířová", "reg": 181},
-						{"name": "Dušan Pávek", "reg": 1},
-						{"name": "Alena Jílková", "reg": 1},
-						{"name": "Eva Šmeralová", "reg": 129}
+						{
+							"url":"https://www.facebook.com/ANOPardubickykraj"
+						}
 					],
-					"links": [
-						{"url": "https://www.koalicepk.cz"},
-						{"url": "http://pardubicky-kraj.kdu.cz"},
-						{"url": "https://www.facebook.com/koalicepropardubickykraj/", "label": "Facebook"},
-						{"url": "https://www.facebook.com/KDUCSLPK"},
-						{"url": "https://www.instagram.com/koalice_pro_pardubicky_kraj/", "label": "Instagram"},
-						{"url": "https://www.instagram.com/kdupce"}
+					"data": "pak/768"
+				},
+				{
+					"reg":344,
+					"coalition":[
+						1,
+						181,
+						129
+					],
+					"leader":{
+						"name":"Roman Línek",
+						"reg":1,
+						"links":[
+							{
+								"url":"http://www.roman-linek.cz"
+							},
+							{
+								"url":"https://www.facebook.com/roman.linek.14"
+							},
+							{
+								"url":"https://www.instagram.com/romanlinek"
+							}
+						]
+					},
+					"support":[
+						"Sdružení pro Pardubice"
+					],
+					"list":[
+						{
+							"name":"David Šimek",
+							"reg":181
+						},
+						{
+							"name":"René Živný",
+							"reg":129
+						},
+						{
+							"name":"Pavel Šotola",
+							"reg":1
+						},
+						{
+							"name":"Magdaléna Peterková",
+							"reg":99
+						},
+						{
+							"name":"Petr Hájek",
+							"reg":181
+						},
+						{
+							"name":"Ivan Jeník",
+							"reg":129
+						},
+						{
+							"name":"Radomil Kašpar",
+							"reg":1
+						},
+						{
+							"name":"František Jiraský",
+							"reg":181
+						},
+						{
+							"name":"Petr Řezníček",
+							"reg":129
+						},
+						{
+							"name":"Ondřej Výborný",
+							"reg":99
+						},
+						{
+							"name":"Věra Uhlířová",
+							"reg":181
+						},
+						{
+							"name":"Dušan Pávek",
+							"reg":1
+						},
+						{
+							"name":"Alena Jílková",
+							"reg":1
+						},
+						{
+							"name":"Eva Šmeralová",
+							"reg":129
+						}
+					],
+					"links":[
+						{
+							"url":"https://www.koalicepk.cz"
+						},
+						{
+							"url":"http://pardubicky-kraj.kdu.cz"
+						},
+						{
+							"url":"https://www.facebook.com/koalicepropardubickykraj/",
+							"label":"Facebook"
+						},
+						{
+							"url":"https://www.facebook.com/KDUCSLPK"
+						},
+						{
+							"url":"https://www.instagram.com/koalice_pro_pardubicky_kraj/",
+							"label":"Instagram"
+						},
+						{
+							"url":"https://www.instagram.com/kdupce"
+						}
 					]
 				},
 				{
-					"coalition": [53, 721],
+          "name": "ODS a TOP 09",
+					"coalition":[
+						53,
+						721
+					],
+					"leader":{
+						"name":"Michal Kortyš",
+						"photo": "michal-kortys.jpg",
+						"reg":53,
+						"links":[
+							{
+								"url":"https://www.ods.cz/profil/1210-michal-kortys"
+							}
+						]
+					},
+					"list":[
+						{"name":"Ladislav Valtr","reg":53},{"name":"Alexandr Krejčíř","reg":53},{"name":"Jiří Skalický","reg":721},{"name":"Magda Křivanová","reg":53},{"name":"Petra Šimečková","reg":53},{"name":"Pavel Čížek","reg":53},{"name":"Michal Sláma","reg":721},{"name":"Martin Krejza","reg":53},{"name":"Jan Čechlovský","reg":53},{"name":"Martin Milata","reg":53},{"name":"Michal Pilař","reg":721},{"name":"Jaroslav Martinů","reg":53},{"name":"Jiří Hrabčuk","reg":53},{"name":"Jiří Dytrt","reg":53},{"name":"Vít Steklý","reg":721},{"name":"Irena Burešová","reg":53},{"name":"David Novák","reg":53},{"name":"Lukáš Blažek","reg":53},{"name":"Jana Hrubá","reg":53},{"name":"Matouš Pořický","reg":53},{"name":"Ladislav Báča","reg":53},{"name":"Miloslav Parolek","reg":53},{"name":"Josef Kuběnka","reg":53},{"name":"Soňa Mužíková","reg":99},{"name":"Miloš Mička","reg":721},{"name":"Petr Kotýnek","reg":53},{"name":"Jiří Nezval","reg":53},{"name":"Harald Čadílek","reg":53},{"name":"Josef Kopecký","reg":53},{"name":"Jiří Řezníček","reg":99},{"name":"Jaroslav Kňava","reg":53},{"name":"Jan Švadlenka","reg":53},{"name":"Martin Kozáček","reg":53},{"name":"Martin Jareš","reg":53},{"name":"Stanislav Hlavatý","reg":721},{"name":"Stanislav Šťastný","reg":53},{"name":"Josef Štěpanovský","reg":53},{"name":"Pavel Charvát","reg":53},{"name":"Lukáš Boháč","reg":53},{"name":"Vladislava Michalová","reg":721},{"name":"Tomáš Nešetřil","reg":53},{"name":"Petr Krátký","reg":53},{"name":"David Urbánek","reg":53},{"name":"Ivo Toman","reg":53},{"name":"Josef Zavoral","reg":721},{"name":"Pavel Svoboda","reg":53},{"name":"Ivan Drdaj","reg":53},{"name":"Lukáš Novák","reg":53},{"name":"Erik Jahnický","reg":53}
+					],
+					"links":[
+						"https://ods-top09.cz/",
+            "https://www.facebook.com/ODSaTOP09pardubicky/"
+					],
+					"data": "pak/ods-a-top-09",
+					"program": "https://ods-top09.cz/program/"
+				},
+				{
+					"reg":47,
+					"leader":{
+						"name":"Jan Foldyna",
+						"reg":47,
+						"links":[
+							{
+								"url":"https://krpardubice.kscm.cz/cs/nasi-lide/ing-jan-foldyna-mba"
+							},
+							{
+								"url":"https://www.facebook.com/jan.foldyna.7"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://krpardubice.kscm.cz/cs"
+						},
+						{
+							"url":"https://www.facebook.com/kv.kscm.pce"
+						}
+					]
+				},
+				{
+					"reg":5,
+					"links":[
+						{
+							"url":"http://pardubickykraj.zeleni.cz/",
+							"label":"Webové stránky"
+						},
+						{
+							"url":"https://www.facebook.com/zeleni.pardubickykraj/",
+							"label":"Facebook"
+						}
+					]
+				},
+				{
+					"name": "Trikolóra hnutí občanů a Strana soukromníků České republiky",
+					"coalition":[
+						1227,
+						716
+					],
+					"leader":{
+						"name":"Petr Bajer",
+						"reg":716,
+						"links":[
+							{
+								"url":"https://www.facebook.com/bajer.petr"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://www.facebook.com/volimtrikolorukrajpardubicky/",
+							"label":"Trikolora"
+						},
+						{
+							"url":"https://www.facebook.com/Soukromn%C3%ADci-Pardubick%C3%BD-kraj-112031268946067/",
+							"label":"Soukromníci"
+						}
+					]
+				},
+				{
+					"reg":715
+				},
+				{
+					"reg":166,
+					"leader":{
+						"name":"Michaela Matoušková",
+						"reg":166,
+						"links":[
+							{
+								"url":"https://www.michaelamatouskova.cz"
+							},
+							{
+								"url":"https://www.facebook.com/michmatouskova"
+							},
+							{
+								"url":"https://twitter.com/michmatouskova1"
+							},
+							{
+								"url":"https://www.instagram.com/michaela_matouskova1"
+							}
+						],
+						"photo":"michaela-matouskova.jpg"
+					},
+					"links":[
+						{
+							"url":"https://www.stan-pardubickykraj.cz"
+						},
+						{
+							"url":"https://www.facebook.com/starostove.pardubicky"
+						},
+						{
+							"url":"https://twitter.com/stan_pardk"
+						}
+					],
+					"list":[
+						"Hana Štěpánová",
+						"Jiří Hájek",
+						"Oldřích Koblížek",
+						"David Šimek",
+						"Martin Staněk",
+						"Tomáš Dubský",
+						"Renata Šedová",
+						"Martin Paur",
+						"Jan Křivka"
+					],
+					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data":"pak/166"
+				},
+				{
+					"reg":1114,
 					"leader": {
-						"name": "Michal Kortyš",
-						"reg": 53,
+						"name": "Tomáš Fadrný",
+						"reg": 1114
+					}
+				},
+				{
+					"name": "Mladí pro Pardubický kraj",
+					"support": [2, {"name": "Vize národních socialistů"}, 1209, {"name": "Mladí Žumberáci"}],
+					"links": [
+						"https://mladidotoho.com/",
+	          "https://www.facebook.com/mladidotoho/",
+						"https://www.instagram.com/mladidotoho/"
+					],
+					"leader": {
+						"name": "Milan Sýs",
+						"phash": "mladi-pro-pardubicky-kraj",
 						"links": [
-							{"url": "https://www.ods.cz/profil/1210-michal-kortys"}
+							"https://www.facebook.com/ingmilanek.sys.3"
 						]
 					},
 					"list": [
-						{"name": "Jiří Skalický", "reg": 721}
+						{"name": "Petr Žampach", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Martina Ročková", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Jan Prokeš", "phash": "mladi-zumberaci"},
+						{"name": "Josef Ročeň", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Jakub Cach", "reg": 99},
+						{"name": "Jonáš Hrdina", "reg": 2},
+						{"name": "Marek Dostál", "reg": 99},
+						{"name": "Kateřina Mašková", "reg": 99},
+						{"name": "Petr Švadlenka", "reg": 99}
 					],
-					"links": [
-						{"url": "https://www.ods.cz/region.pardubicky"},
-						{"url": "https://www.top09.cz/regiony/pardubicky-kraj"},
-						{"url": "https://www.facebook.com/ods.pardubickykraj"},
-						{"url": "https://www.facebook.com/TOP09.Pardubicky.kraj"},
-						{"url": "https://twitter.com/odsregionpk"}
-					]
+					"program": "https://mladidotoho.com/volebni-program/",
+					"data": "pak/mladi"
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Jan Foldyna",
-						"reg": 47,
-						"links": [
-							{"url": "https://krpardubice.kscm.cz/cs/nasi-lide/ing-jan-foldyna-mba"},
-							{"url": "https://www.facebook.com/jan.foldyna.7"}
-						]
-					},
-					"links": [
-						{"url": "https://krpardubice.kscm.cz/cs"},
-						{"url": "https://www.facebook.com/kv.kscm.pce"}
-					]
+					"reg":137
 				},
 				{
-					"reg": 5,
-					"links": [
-						{"url": "http://pardubickykraj.zeleni.cz/", "label": "Webové stránky"},
-						{"url": "https://www.facebook.com/zeleni.pardubickykraj/", "label": "Facebook"}
-					]
+					"reg":716
 				},
 				{
-					"coalition": [1227, 716],
-					"leader": {
-						"name": "Petr Bajer",
-						"reg": 716,
-						"links": [
-							{"url": "https://www.facebook.com/bajer.petr"}
-						]
-					},
-					"links": [
-						{"url": "https://www.facebook.com/volimtrikolorukrajpardubicky/", "label": "Trikolora"},
-						{"url": "https://www.facebook.com/Soukromn%C3%ADci-Pardubick%C3%BD-kraj-112031268946067/", "label": "Soukromníci"}
-					]
+					"reg":770
 				},
 				{
-					"reg": 715
-				},
-				{
-					"reg": 166,
-					"leader": {
-						"name": "Michaela Matoušková",
-						"reg": 166,
-						"links": [
-							{"url": "https://www.michaelamatouskova.cz"},
-							{"url": "https://www.facebook.com/michmatouskova"},
-							{"url": "https://twitter.com/michmatouskova1"},
-							{"url": "https://www.instagram.com/michaela_matouskova1"}
-						]
-					},
-					"links": [
-						{"url": "https://www.stan-pardubickykraj.cz"},
-						{"url": "https://www.facebook.com/starostove.pardubicky"},
-						{"url": "https://twitter.com/kraj_stan"}
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
 					]
 				}
 			]
 		},
 		{
-			"id": 9,
-			"parties": [
+			"id":9,
+			"parties":[
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Jiří Běhounek",
-						"reg": 7,
-						"links": [
-							{"url": "https://www.cssd.cz/nasi-lide/jiri-behounek"},
-							{"url": "https://www.facebook.com/behounek.jiri"}
+					"reg":7,
+					"leader":{
+						"name":"Jiří Běhounek",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.cssd.cz/nasi-lide/jiri-behounek"
+							},
+							{
+								"url":"https://www.facebook.com/behounek.jiri"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://kraj-vysocina.cssd.cz"},
-						{"url": "https://www.facebook.com/cssdkrajvysocina"}
+					"links":[
+						{
+							"url":"http://kraj-vysocina.cssd.cz"
+						},
+						{
+							"url":"https://www.facebook.com/cssdkrajvysocina"
+						}
 					]
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Hana Hajnová",
-						"reg": 720,
-						"links": [
-							{"url": "https://vysocina.pirati.cz/lide/hana-hajnova"},
-							{"url": "https://www.facebook.com/hanka.hajnova"},
-							{"url": "https://twitter.com/PiratkaHanka"},
-							{"url": "https://cz.linkedin.com/in/hana-hajnova-692a5025"},
-							{"url": "https://www.hlidacstatu.cz/osoba/hana-hajnova-3"}
-						]
+					"reg":720,
+					"leader":{
+						"name":"Hana Hajnová",
+						"reg":720,
+						"links":[
+							{
+								"url":"https://vysocina.pirati.cz/lide/hana-hajnova"
+							},
+							{
+								"url":"https://www.facebook.com/hanka.hajnova"
+							},
+							{
+								"url":"https://twitter.com/PiratkaHanka"
+							},
+							{
+								"url":"https://cz.linkedin.com/in/hana-hajnova-692a5025"
+							},
+							{
+								"url":"https://www.hlidacstatu.cz/osoba/hana-hajnova-3"
+							}
+						],
+            "photo": "hana-hajnova.jpg"
 					},
-					"links": [
-						{"url": "https://vysocina.pirati.cz"},
-						{"url": "https://www.facebook.com/pirati.vysocina"},
-						{"url": "https://twitter.com/pirativys"},
-						{"url": "https://www.instagram.com/pirati_vysocina"}
+					"links":[
+						{
+							"url":"https://vysocina.pirati.cz"
+						},
+						{
+							"url":"https://www.facebook.com/pirati.vysocina"
+						},
+						{
+							"url":"https://twitter.com/pirativys"
+						},
+						{
+							"url":"https://www.instagram.com/pirati_vysocina"
+						}
 					],
-					"list": [
-						"Jan Břížďala", "Blanka Lednická", "Jiří Wiche", "Pavel Knežik", "Eva Nováková", "Roman Pašek", "Milan Daďourek", "Miroslav Vácha", "Jiří Svoboda", "Daniel Škarka", "Václav Honzl", "Petra Kujínek Polodnová", "Irena Bačinová", "Ladislav Stalmach", "Michaela Vodová", "Jakub Šmíd", "Jan Kerber", "Viktorie Vidláková", "Tereza Mašková", "Zdeňka Lišková", "Vít Žáček", "Petr Kozel", "Markéta Šimková", "Jaroslav Zejda", "Josef Kořínek", "Marta Kozdas", "Jaroslav Vysoký", "Marek Křejpský"
+					"list":[
+						"Jan Břížďala",
+						"Blanka Lednická",
+						"Jiří Wiche",
+						"Pavel Knežik",
+						"Eva Nováková",
+						"Roman Pašek",
+						"Milan Daďourek",
+						"Miroslav Vácha",
+						"Jiří Svoboda",
+						"Daniel Škarka",
+						"Václav Honzl",
+						"Petra Kujínek Polodnová",
+						"Irena Bačinová",
+						"Ladislav Stalmach",
+						"Michaela Vodová",
+						"Jakub Šmíd",
+						"Jan Kerber",
+						"Viktorie Vidláková",
+						"Tereza Mašková",
+						"Zdeňka Lišková",
+						"Vít Žáček",
+						"Petr Kozel",
+						"Markéta Šimková",
+						"Jaroslav Zejda",
+						"Josef Kořínek",
+						"Marta Kozdas",
+						"Jaroslav Vysoký",
+						"Marek Křejpský",
+						"Radka Langhammerová", "Veronika Nguyenová", "Tomáš Bouda", "Marcel Dzurňák", "Tomáš Blažek", "Zuzana Titzová", "Tomáš Ryška", "Petr Šimeček", "Martin Tomek", "René Mayer", "Richard Pospíchal", "Roman Kubát", "Barbora Pokorná", "Jaroslava Šmídková", "Dominik Hána", "Ondřej Holub", "Petr Holeček", "Jan Sztacho", "Vojtěch Prchal", "Michal Šalomoun", "Jan Pošvář"
 					],
-					"data": "vys/720"
+					"program": "https://vysocina.pirati.cz/volby/2020-kraj/program.html",
+					"data":"vys/720"
 				},
 				{
-					"coalition": [53, 779],
-					"leader": {
-						"name": "Vítězslav Schrek",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/profil/5265-vitezslav-schrek"},
-							{"url": "https://www.facebook.com/vitezslavschrek"}
+          "name": "ODS a Starostové pro občany",
+					"coalition":[
+						53,
+						779
+					],
+					"support": [
+						714
+					],
+					"leader":{
+						"name":"Vítězslav Schrek",
+			      "photo": "vitezslav-schrek.jpg",
+						"reg":53,
+						"links":[
+							{
+								"url":"https://www.ods.cz/profil/5265-vitezslav-schrek"
+							},
+							{
+								"url":"https://www.facebook.com/vitezslavschrek"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.ods.cz/region.vysocina"},
-						{"url": "https://www.starostoveproobcany.cz"},
-						{"url": "https://www.facebook.com/ODSVysocina"},
-						{"url": "https://www.facebook.com/starostoveproobcany"}
-					]
+					"links":[
+            "https://www.ods.cz/region.vysocina/volby2020/krajske",
+						{
+							"url":"https://www.starostoveproobcany.cz"
+						},
+						{
+							"url":"https://www.facebook.com/ODSVysocina"
+						},
+						{
+							"url":"https://www.facebook.com/starostoveproobcany"
+						}
+					],
+          "list": [
+            {"name":"Karel Janoušek","reg":779},{"name":"Martina Bártová","reg":53},{"name":"Radek Černý","reg":53},{"name":"Petr Bárta","reg":779},{"name":"Jan Sojka","reg":53},{"name":"Karel Kratochvíl","reg":53},{"name":"Miroslav Kabelka","reg":779},{"name":"Ladislav Med","reg":53},{"name":"Ota Benc","reg":53},{"name":"Václav Venhauer","reg":779},{"name":"Eva Decroix","reg":53},{"name":"Josef Jelínek","reg":53},{"name":"Jan Havlena","reg":779},{"name":"Pavel Nevrkla","reg":53},{"name":"Jan Procházka","reg":53},{"name":"Čestmír Linhart","reg":99},{"name":"Jakub John","reg":53},{"name":"Pavel Kubický","reg":53},{"name":"František Mládek","reg":779},{"name":"Otto Kohout","reg":53},{"name":"Ondřej Škoda","reg":53},{"name":"Miroslav Jirků","reg":779},{"name":"Alena Kukrechtová","reg":53},{"name":"Zbyněk Stejskal","reg":53},{"name":"Aneta Tomová","reg":779},{"name":"Jan Mokříš","reg":53},{"name":"Petr Sameš","reg":53},{"name":"Lubomír Pospíchal","reg":99},{"name":"Petr Ryška","reg":53},{"name":"Miloš Vystrčil","reg":53},{"name":"Marie Vláčilová","reg":779},{"name":"Karel Müller","reg":53},{"name":"Miroslav Skalník","reg":53},{"name":"Miroslav Kotlas","reg":779},{"name":"Jan Tecl","reg":53},{"name":"Jiří Šašek","reg":53},{"name":"Zdeněk Tatíček","reg":99},{"name":"Milan Šmíd","reg":53},{"name":"Martina Šlosrová","reg":53},{"name":"Zdeňka Smažilová","reg":99},{"name":"Petr Velička","reg":53},{"name":"Jiří Strachota","reg":714},{"name":"Jan Pikl","reg":99},{"name":"Jaroslav Vymazal","reg":53},{"name":"Petr Staněk","reg":53},{"name":"Eva Bendová","reg":779},{"name":"Tomáš Kadlec","reg":53},{"name":"David Dušek","reg":53},{"name":"Milan Palát","reg":779}
+          ],
+					"data": "vys/ods-a-starostove-pro-obcany"
 				},
 				{
-					"coalition": [166, 129],
-					"name": "Starostové pro Vysočinu",
-					"leader": {
-						"name": "Lukáš Vlček",
-						"reg": 166,
-						"links": [
-							{"url": "https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas"},
-							{"url": "https://www.facebook.com/VlcekProVysocinu"},
-							{"url": "https://www.instagram.com/vlcek.starosta"}
-						]
-					},
-					"support": ["Fórum Jihlava", "Pro Třebíč", "ŽĎÁR – ŽIVÉ MĚSTO"],
-					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/vysocina", "label": "STAN Vysočina"},
-						{"url": "http://www.snked.cz"},
-						{"url": "https://www.facebook.com/ProVysocinu"},
-						{"url": "https://www.facebook.com/STAN.Kraj.Vysocina", "label": "STAN Vysočina"},
-						{"url": "https://www.facebook.com/snked"}
+					"coalition":[
+						166,
+						129
 					],
-					"list": [
+					"name":"Starostové pro Vysočinu",
+					"leader":{
+						"name":"Lukáš Vlček",
+						"reg":166,
+						"links":[
+							{
+								"url":"https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas"
+							},
+							{
+								"url":"https://www.facebook.com/VlcekProVysocinu"
+							},
+							{
+								"url":"https://www.instagram.com/vlcek.starosta"
+							}
+						],
+						"photo":"lukas-vlcek.jpg"
+					},
+					"support":[
+						"Fórum Jihlava",
+						"Pro Třebíč",
+						"ŽĎÁR – ŽIVÉ MĚSTO"
+					],
+					"links":[
+						{
+							"url":"https://www.starostove-nezavisli.cz/regiony/vysocina",
+							"label":"STAN Vysočina"
+						},
+						{
+							"url":"http://www.snked.cz"
+						},
+						{
+							"url":"https://www.facebook.com/ProVysocinu"
+						},
+						{
+							"url":"https://www.facebook.com/STAN.Kraj.Vysocina",
+							"label":"STAN Vysočina"
+						},
+						{
+							"url":"https://www.facebook.com/snked"
+						}
+					],
+					"list":[
 						"Karolína Koubová",
 						"Martin Mrkos",
 						"Pavel Pacal",
 						"Bohumír Nikl",
 						"Zdeněk Tůma",
 						"Roman Fabeš"
-					]
-				},
-				{
-					"reg": 47,
-					"leader": {
-						"name": "Pavel Hodáč",
-						"reg": 47,
-						"links": [
-							{"url": "https://www.facebook.com/pavel.hodac.1"}
-						]
-					},
-					"links": [
-						{"url": "https://vysocina.kscm.cz/cs"},
-						{"url": "https://www.facebook.com/KSCMVysocina"}
-					]
-				},
-				{
-					"reg": 5,
-					"leader": {
-						"name": "Silvie Čermáková",
-						"reg": 5,
-						"links": [
-							{"url": "https://www.facebook.com/silvie.cermakova.16"}
-						]
-					},
-					"links": [
-						{"url": "http://zelenavysocina.cz"},
-						{"url": "https://www.facebook.com/szvysocina"}
 					],
-					"list": [
+					"data":"vys/spv"
+				},
+				{
+					"reg":47,
+					"leader":{
+						"name":"Pavel Hodáč",
+						"reg":47,
+						"links":[
+							{
+								"url":"https://www.facebook.com/pavel.hodac.1"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"https://vysocina.kscm.cz/cs"
+						},
+						{
+							"url":"https://www.facebook.com/KSCMVysocina"
+						}
+					]
+				},
+				{
+					"reg":5,
+					"leader":{
+						"name":"Silvie Čermáková",
+						"reg":5,
+						"links":[
+							{
+								"url":"https://www.facebook.com/silvie.cermakova.16"
+							}
+						]
+					},
+					"links":[
+						{
+							"url":"http://zelenavysocina.cz"
+						},
+						{
+							"url":"https://www.facebook.com/szvysocina"
+						}
+					],
+					"list":[
 						"Václav Hlaváč",
 						"Anna Gümplová"
 					]
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Jan Tesař",
-						"reg": 1227
+					"name": "Trikolora-Soukromníci",
+					"coalition":[1227, 770],
+					"leader":{
+						"name":"Jan Tesař",
+						"reg":1227
 					},
-					"links": [
-						{"url": "https://www.facebook.com/volimtrikoloruVysocina"}
+					"links":[
+						{
+							"url":"https://www.facebook.com/volimtrikoloruVysocina"
+						}
 					]
 				},
 				{
-					"reg": 1,
-					"leader": {
-						"name": "Vít Kaňkovský",
-						"reg": 1,
-						"links": [
-							{"url": "http://www.vitkankovsky.cz"},
-							{"url": "https://www.facebook.com/VitKankovsky"},
-							{"url": "https://twitter.com/VtKAKOVSK1"},
-							{"url": "https://www.instagram.com/vitkankovsky"}
+					"reg":1,
+					"leader":{
+						"name":"Vít Kaňkovský",
+						"reg":1,
+						"links":[
+							{
+								"url":"http://www.vitkankovsky.cz"
+							},
+							{
+								"url":"https://www.facebook.com/VitKankovsky"
+							},
+							{
+								"url":"https://twitter.com/VtKAKOVSK1"
+							},
+							{
+								"url":"https://www.instagram.com/vitkankovsky"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.kduvysocina.cz"},
-						{"url": "https://www.facebook.com/kduvysocina"},
-						{"url": ""},
-						{"url": ""}
+					"links":[
+						{
+							"url":"https://www.kduvysocina.cz"
+						},
+						{
+							"url":"https://www.facebook.com/kduvysocina"
+						}
 					],
-					"list": [
-						"Marie Duďíková", "Pavel Janoušek", "Jan Tourek", "Miroslav Houška", "Josef Klement", "Josef Herbrych", "Štěpán Komárek", "Čeněk Jůzl", "Vlastimil Brukner", "Jaroslav Katolický", "Aleš Kratina", "Vladislav Hynk", "František Bradáč", "Magdalena Weberová-Chvílová", "Josef Homolka", "Josef Koch", "Vít Feldbabel", "Magda Vaňková", "Antonín Váša", "Pavel Janata", "Vilém Antonů", "Bohdana Trávníčková", "Jan Málek", "Tomáš Kučera", "Aleš Petrák", "Petr Žák", "Marie Prknová", "Martin Havlíček", "František Němec", "Miroslav Krupica", "Josef Málek", "Jiří Danihel", "Pavla Krejzlová", "Eva Jurečková", "Tomáš Preiniger", "Jan Souček", "Tomáš Havlík", "Ondřej Rázl", "Jaroslav Hrubý", "Benjamin Činčila", "Vojtěch Šindelka", "Jan Brožek", "Karel Kratochvíl", "Lukáš Komárek", "Barbora Paulová", "Jan Rajdl", "Pavel Komín", "František Pinkas", "Lenka Koláčná"
+					"list":[
+						"Marie Duďíková",
+						"Pavel Janoušek",
+						"Jan Tourek",
+						"Miroslav Houška",
+						"Josef Klement",
+						"Josef Herbrych",
+						"Štěpán Komárek",
+						"Čeněk Jůzl",
+						"Vlastimil Brukner",
+						"Jaroslav Katolický",
+						"Aleš Kratina",
+						"Vladislav Hynk",
+						"František Bradáč",
+						"Magdalena Weberová-Chvílová",
+						"Josef Homolka",
+						"Josef Koch",
+						"Vít Feldbabel",
+						"Magda Vaňková",
+						"Antonín Váša",
+						"Pavel Janata",
+						"Vilém Antonů",
+						"Bohdana Trávníčková",
+						"Jan Málek",
+						"Tomáš Kučera",
+						"Aleš Petrák",
+						"Petr Žák",
+						"Marie Prknová",
+						"Martin Havlíček",
+						"František Němec",
+						"Miroslav Krupica",
+						"Josef Málek",
+						"Jiří Danihel",
+						"Pavla Krejzlová",
+						"Eva Jurečková",
+						"Tomáš Preiniger",
+						"Jan Souček",
+						"Tomáš Havlík",
+						"Ondřej Rázl",
+						"Jaroslav Hrubý",
+						"Benjamin Činčila",
+						"Vojtěch Šindelka",
+						"Jan Brožek",
+						"Karel Kratochvíl",
+						"Lukáš Komárek",
+						"Barbora Paulová",
+						"Jan Rajdl",
+						"Pavel Komín",
+						"František Pinkas",
+						"Lenka Koláčná"
 					]
 				},
 				{
-					"reg": 715
+					"reg":715
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Martin Kukla",
-						"reg": 768,
-						"links": [
-							{"url": "https://www.kr-vysocina.cz/martin-kukla.asp"},
-							{"url": "https://www.facebook.com/MartinKuklaPolitik"},
-							{"url": "https://www.instagram.com/martinkukla1"}
+					"reg":768,
+					"leader":{
+						"name":"Martin Kukla",
+						"reg":768,
+						"links":[
+							{
+								"url":"https://www.kr-vysocina.cz/martin-kukla.asp"
+							},
+							{
+								"url":"https://www.facebook.com/MartinKuklaPolitik"
+							},
+							{
+								"url":"https://www.instagram.com/martinkukla1"
+							}
 						]
 					},
-					"list": [
+					"list":[
 						"Zdeněk Faltus",
 						"Radek Zlesák",
 						"Pavel Franěk",
 						"Otta Vopěnka"
 					],
-					"links": [
-						{"url": "https://www.anobudelip.cz/kraj-vysocina"}
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/kraj-vysocina"
+						}
 					]
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Karel Fink",
+						"reg":1114,
+						"links":[
+							"https://www.facebook.com/KarelFinkSPD/"
+						]
+					},
+					"list":[
+						"Radek Koten",
+						"Tomáš Prchal"
+					],
+					"links": [
+						"https://www.facebook.com/spdvysocina/"
+					]
+				},
+				{
+					"name":"Pro TOP Vysočinu",
+					"coalition":[
+						721,
+						40,
+						55,
+						{"name": "Třebíč občanům", "logo": "obecne/strany/loga/x-trebic-obcanum.png", "color": "#000"}
+					],
+					"leader":{
+						"name":"Zdeněk Dvořák",
+						"reg":721,
+			      "photo": "zdenek-dvorak.jpg",
+						"links": [
+							"https://www.top09.cz/volby/2020-krajska-zastupitelstva/zdenek-dvorak-27359.html",
+							"https://www.facebook.com/zdenecekd"
+						]
+					},
+					"list":[
+						"Blanka Kutinová",
+						{"name": "Jan Matějka", "reg": 721},
+						{"name": "Lenka Šimo", "reg": 721},
+						{"name": "Luboš Rafaj", "reg": 721}
+					],
+					"links": [
+						"https://www.facebook.com/protopvysocinu/"
+					],
+					"data": "vys/pro-top-vysocinu"
+				},
+				{
+					"reg":137,
+					"leader": {
+						"name": "Josef Pelikán"
+					}
+				},
+				{
+					"reg": 156
 				}
 			]
 		},
 		{
-			"id": 10,
-			"parties": [
+			"id":10,
+			"parties":[
 				{
-					"name": "Občanská demokratická strana s podporou Svobodných a Starostů a osobností pro Moravu",
-					"short": "ODS, Svobodní, SOM",
-					"leader": {
-						"name": "Jiří Nantl",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.ods.cz/profil/20377-jiri-nantl"},
-							{"url": "https://www.facebook.com/jirinantl"},
-							{"url": "https://twitter.com/jiri_nantl"},
-							{"url": "https://www.instagram.com/jiri.nantl"}
+					"name":"Občanská demokratická strana s podporou Svobodných a hnutí Starostové a osobnosti pro Moravu",
+					"short":"ODS, Svobodní, SOM",
+					"leader":{
+						"name":"Jiří Nantl",
+						"photo": "jiri-nantl.jpg",
+						"reg":53,
+						"links":[
+							"https://www.ods.cz/profil/20377-jiri-nantl",
+							"https://www.facebook.com/jirinantl",
+							"https://twitter.com/jiri_nantl",
+							"https://www.instagram.com/jiri.nantl"
 						]
 					},
-					"coalition": [53, 714, 158],
-					"list": [
-						"Jiří Crha",
-						"Vladimír Šmerda",
-						{"name": "Marek Šoška", "reg": 714}
+					"coalition":[
+						53,
+						714,
+						158
 					],
-					"links": [
-						{"url": "https://www.ods.cz/region.jihomoravsky"}
+					"list":[
+						{"name":"Jiří Crha","reg":53},{"name":"Vladimír Šmerda","reg":53},{"name":"Karel Jurka","reg":53},{"name":"Jiří Kasala","reg":53},{"name":"Karel Podzimek","reg":53},{"name":"Pavel Kašník","reg":53},{"name":"Šárka Cechová","reg":53},{"name":"Oldřich Vachala","reg":53},{"name":"Jaroslav Dohnálek","reg":53},{"name":"Jana Bačíková","reg":53},{"name":"Zdeněk Černý","reg":53},{"name":"Zbyněk Šolc","reg":53},{"name":"Miroslav Novák","reg":53},{"name":"Hynek Julínek","reg":53},{"name":"Marek Šoška","reg":714},{"name":"Libor Šťasta","reg":53},{"name":"Roman Kosek","reg":53},{"name":"Yvona Totková","reg":53},{"name":"Josef Šiška","reg":53},{"name":"Zuzana Hermanová","reg":53},{"name":"Libor Hoppe","reg":53},{"name":"Jiří Tichý","reg":53},{"name":"Petr Punčochář","reg":53},{"name":"Jana Novotná","reg":53},{"name":"Pavel Bouda","reg":53},{"name":"Zdeněk Mahovský","reg":53},{"name":"Miloslav Švábenský","reg":53},{"name":"Igor Brukner","reg":53},{"name":"Jana Králová","reg":53},{"name":"Vladimíra Danihelková","reg":53},{"name":"Matěj Horák","reg":53},{"name":"Kateřina Jetelinová","reg":53},{"name":"Petr Gazárek","reg":53},{"name":"Michal Kaláb","reg":53},{"name":"Radek Peloušek","reg":53},{"name":"Marie Gregorová","reg":53},{"name":"Martin Šimek","reg":53},{"name":"Jindřich Svoboda","reg":53},{"name":"Evelína Jochová","reg":53},{"name":"Andrej Lukáč","reg":53},{"name":"Vojtěch Mencl","reg":53},{"name":"Matěj Hrabálek","reg":53},{"name":"Lubor Šimeček","reg":53},{"name":"Jindřich Vobořil","reg":53},{"name":"Alena Řezníčková","reg":53},{"name":"Miroslav Daniel","reg":53},{"name":"Jan Brtník","reg":53},{"name":"Michael Brázda","reg":53},{"name":"Jakub Tesař","reg":53},{"name":"Leona Havířová","reg":53},{"name":"Vítězslav Dostál","reg":53},{"name":"Eva Kostihová","reg":53},{"name":"Jiří Proch","reg":53},{"name":"Jan Růžička","reg":53},{"name":"Štěpán Špaček","reg":53},{"name":"Marie Navrátilová","reg":53},{"name":"Jan Kyněra","reg":53},{"name":"Tomáš Krčmař","reg":53},{"name":"Jiří Pospíšil","reg":53},{"name":"Antonín Kopřiva","reg":53},{"name":"Jakub Dvořák","reg":53},{"name":"Lukáš Němec","reg":53},{"name":"Matyáš Charvát","reg":53},{"name":"Damir Solak","reg":53},{"name":"Michal Kšica","reg":53},{"name":"Zuzana Tomanová","reg":53},{"name":"Michal Lepka","reg":53},{"name":"Vladimír Ryba","reg":53},{"name":"Ondřej Tesař","reg":53}
 					],
-					"data": "jmk/53"
+					"links":[
+            "https://www.ods.cz/region.jihomoravsky/volby2020/krajske"
+					],
+					"data":"jmk/53"
 				},
 				{
-					"reg": 1,
-					"leader": {
-						"name": "Jan Grolich",
-						"reg": 1,
-						"links": [
-							{"url": "https://jangrolich.cz"},
-							{"url": "https://www.facebook.com/COOLstarosta"},
-							{"url": "https://twitter.com/JanGrolich"},
-							{"url": "https://www.instagram.com/coolstarosta"}
+					"reg":1,
+					"leader":{
+						"name":"Jan Grolich",
+						"reg":1,
+						"links":[
+							{
+								"url":"https://jangrolich.cz"
+							},
+							{
+								"url":"https://www.facebook.com/COOLstarosta"
+							},
+							{
+								"url":"https://twitter.com/JanGrolich"
+							},
+							{
+								"url":"https://www.instagram.com/coolstarosta"
+							}
 						]
 					},
-					"links": [
-						{"url": "http://www.kdujiznimorava.cz"},
-						{"url": "https://www.facebook.com/kdujiznimorava"}
+					"links":[
+						{
+							"url":"http://www.kdujiznimorava.cz"
+						},
+						{
+							"url":"https://www.facebook.com/kdujiznimorava"
+						}
 					],
-					"data": "jmk/1"
+					"data":"jmk/1"
 				},
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Lukáš Dubec",
-						"reg": 720,
-						"links": [
-							{"url": "https://jihomoravsky.pirati.cz/lide/lukas-dubec"},
-							{"url": "https://www.facebook.com/luk.dub"},
-							{"url": "https://www.instagram.com/dubecl"}
+					"reg":720,
+					"leader":{
+						"name":"Lukáš Dubec",
+			      "photo": "lukas-dubec.jpg",
+						"reg":720,
+						"links":[
+							"https://jihomoravsky.pirati.cz/lide/lukas-dubec",
+							"https://www.facebook.com/luk.dub",
+							"https://www.instagram.com/dubecl"
 						]
 					},
-					"list": [
-						"Jiří Hlavenka", "Jana Leitnerová", "Ivo Vašíček", "Petr Springinsfeld", "Petr Vlasák", "Silvie Mrkvanová", "Eva Havlová", "Míra Bárta", "Jiří Kadeřávek", "Marek Lukáš", "Michal Švagerka", "Jaroslav Kameň", "Adam Vyplel", "Lukáš Mamula", "Šimon Fouček", "Alena Pavlasová", "Barbora Turek Lahová", "Patrik Doležal", "Michal Škerle", "Petr Ilgner", "Tomáš Pastirčák"
+					"list":[
+						"Jiří Hlavenka",
+						"Jana Leitnerová",
+						"Ivo Vašíček",
+						"Petr Springinsfeld",
+						"Petr Vlasák",
+						"Silvie Mrkvanová",
+						"Eva Havlová",
+						"Míra Bárta",
+						"Jiří Kadeřávek",
+						"Marek Lukáš",
+						"Michal Švagerka",
+						"Jaroslav Kameň",
+						"Adam Vyplel",
+						"Lukáš Mamula",
+						"Šimon Fouček",
+						"Alena Pavlasová",
+						"Barbora Turek Lahová",
+						"Patrik Doležal",
+						"Michal Škerle",
+						"Petr Ilgner",
+						"Tomáš Pastirčák"
 					],
-					"links": [
-						{"url": "https://jihomoravsky.pirati.cz"},
-						{"url": "https://www.facebook.com/CPS.JMK"}
-					]
+					"links":[
+						"https://jihomoravsky.pirati.cz",
+						"https://www.facebook.com/CPS.JMK"
+					],
+					"data": "jmk/720"
 				},
 				{
-					"coalition": [166, {"name": "Hnutí SOL", "logo": "obecne/strany/loga/x-hnuti-sol.jpg"}],
-					"leader": {
-						"name": "František Lukl",
-						"reg": 166,
-						"links": [
-							{"url": "https://www.facebook.com/frantisek.lukl"},
-							{"url": "https://twitter.com/Frantisek_Lukl"}
-						]
+					"coalition":[
+						166,
+						{
+							"name":"Hnutí SOL",
+							"logo":"obecne/strany/loga/x-hnuti-sol.jpg"
+						}
+					],
+					"leader":{
+						"name":"František Lukl",
+						"reg":166,
+						"links":[
+							{
+								"url":"https://www.facebook.com/frantisek.lukl"
+							},
+							{
+								"url":"https://twitter.com/Frantisek_Lukl"
+							}
+						],
+						"photo":"frantisek-lukl.jpg"
 					},
-					"list": [
+					"list":[
 						"Martin Maleček",
 						"Radomír Pavlíček"
 					],
-					"links": [
-						{"url": "https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj"},
-						{"url": "http://www.hnutisol.cz"},
-						{"url": "https://www.facebook.com/StarostoveProJizniMoravu"},
-						{"url": "https://www.facebook.com/hnutiSOL"},
-						{"url": "https://twitter.com/stan_jmk"},
-						{"url": "https://www.instagram.com/hnutisol"}
-					]
+					"links":[
+						{
+							"url":"https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj"
+						},
+						{
+							"url":"http://www.hnutisol.cz"
+						},
+						{
+							"url":"https://www.facebook.com/StarostoveProJizniMoravu"
+						},
+						{
+							"url":"https://www.facebook.com/hnutiSOL"
+						},
+						{
+							"url":"https://twitter.com/stan_jmk"
+						},
+						{
+							"url":"https://www.instagram.com/hnutisol"
+						}
+					],
+					"program":"https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf",
+					"data":"jmk/stan-sol"
 				},
 				{
-					"reg": 768,
-					"links": [
-						{"url": "https://www.anobudelip.cz/jihomoravsky-kraj"},
-						{"url": "https://www.facebook.com/AnoJmK"}
-					]
-				},
-				{
-					"reg": 7,
+					"reg":768,
 					"leader": {
-						"name": "Marek Šlapal",
-						"reg": 7,
+						"name": "Bohumil Šimek",
+						"reg": 99,
 						"links": [
-							{"url": "https://www.marekslapal.cz"},
-							{"url": "https://www.facebook.com/slapalmarek"}
+							"http://www.bohumilsimek.cz/",
+							"https://www.facebook.com/bohsimek/"
 						]
 					},
+					"links":[
+						{
+							"url":"https://www.anobudelip.cz/jihomoravsky-kraj"
+						},
+						{
+							"url":"https://www.facebook.com/AnoJmK"
+						}
+					],
 					"list": [
+						"Milan Vojta",
+						"Jan Nečas",
+						"Karin Šulcová",
+						"Petr Hýbler"
+					]
+				},
+				{
+					"reg":7,
+					"leader":{
+						"name":"Marek Šlapal",
+						"reg":7,
+						"links":[
+							{
+								"url":"https://www.marekslapal.cz"
+							},
+							{
+								"url":"https://www.facebook.com/slapalmarek"
+							}
+						]
+					},
+					"list":[
 						"Roman Hanák",
 						"Vít Rajtšlégr"
 					],
-					"links": [
-						{"url": "http://jihomoravsky-kraj.cssd.cz"},
-						{"url": "https://www.facebook.com/cssdjiznimorava"}
+					"links":[
+						{
+							"url":"http://jihomoravsky-kraj.cssd.cz"
+						},
+						{
+							"url":"https://www.facebook.com/cssdjiznimorava"
+						}
 					]
 				},
 				{
-					"name": "Spolu pro Moravu",
-					"coalition": [721, 5, 1190, "Idealisté", 795],
-					"leader": {
-						"name": "Jan Vitula",
-						"reg": 721,
-						"links": [
-							{"url": "https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237"},
-							{"url": "https://www.facebook.com/jan.vitula"},
-							{"url": "https://twitter.com/JanVitula"},
-							{"url": "https://www.instagram.com/vitula1"}
-						]
-					},
-					"list": [
-						"Jana Drápalová",
-						{"name": "Tomáš Třetina", "reg": 721},
-						{"name": "Jiří Kacetl", "reg": 1190}
+					"name":"Spolu pro Moravu",
+					"coalition":[
+						721,
+						5,
+						1190,
+						{
+							"name":"Idealisté",
+							"logo":"obecne/strany/loga/x-idealiste.png",
+							"color":"#00dcc2"
+						},
+						795
 					],
-					"links": [
-						{"url": "http://spolupromoravu.cz"},
-						{"url": "https://www.facebook.com/SpoluProMoravu"},
-						{"url": "https://twitter.com/SpolUpro"},
-						{"url": "https://www.instagram.com/spolupromoravu"}
-					]
-				},
-				{
-					"reg": 47,
-					"leader": {
-						"name": "Stanislav Navrkal",
-						"reg": 47,
-						"links": [
-							{"url": ""},
-							{"url": "https://www.facebook.com/navrkal.stanislav"}
+					"leader":{
+						"name":"Jan Vitula",
+						"reg":721,
+						"photo": "jan-vitula.jpg",
+						"links":[
+							"https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237",
+							"https://www.facebook.com/jan.vitula",
+							"https://twitter.com/JanVitula",
+							"https://www.instagram.com/vitula1"
 						]
 					},
-					"list": [
+					"list":[
+						"Jana Drápalová",
+						{
+							"name":"Tomáš Třetina",
+							"reg":721
+						},
+						{
+							"name":"Jiří Kacetl",
+							"reg":1190
+						}
+					],
+					"links":[
+						{
+							"url":"http://spolupromoravu.cz"
+						},
+						{
+							"url":"https://www.facebook.com/SpoluProMoravu"
+						},
+						{
+							"url":"https://twitter.com/SpolUpro"
+						},
+						{
+							"url":"https://www.instagram.com/spolupromoravu"
+						}
+					],
+					"data": "jmk/spolu-pro-moravu"
+				},
+				{
+					"reg":47,
+					"leader":{
+						"name":"Stanislav Navrkal",
+						"reg":47,
+						"links":[
+							{
+								"url":""
+							},
+							{
+								"url":"https://www.facebook.com/navrkal.stanislav"
+							}
+						]
+					},
+					"list":[
 						"Filip Zachariaš",
 						"Martin Říha"
 					],
-					"links": [
-						{"url": "https://jmkr.kscm.cz/cs"},
-						{"url": "https://www.facebook.com/kscmjiznimorava"}
+					"links":[
+						{
+							"url":"https://jmkr.kscm.cz/cs"
+						},
+						{
+							"url":"https://www.facebook.com/kscmjiznimorava"
+						}
 					]
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Pavel Nezval",
-						"reg": 1227,
-						"links": [
-							{"url": "https://www.facebook.com/pavel.nezval.315"}
+					"reg":1227,
+					"leader":{
+						"name":"Pavel Nezval",
+						"reg":1227,
+						"links":[
+							{
+								"url":"https://www.facebook.com/pavel.nezval.315"
+							}
 						]
 					},
-					"links": [
-						{"url": ""},
-						{"url": "https://www.facebook.com/trikolora.jmk"}
+					"links":[
+						{
+							"url":""
+						},
+						{
+							"url":"https://www.facebook.com/trikolora.jmk"
+						}
 					]
 				},
 				{
-					"reg": 715
+					"reg":715
 				},
 				{
-					"name": "Levice",
-					"links": [
+					"name":"Levice",
+					"links":[
 						"https://www.facebook.com/jsmeLevice/",
 						"https://instagram.com/jsme_levice"
-					]
+					],
+					"logo": "obecne/strany/loga/levice.png"
 				},
 				{
-					"reg": 83,
-					"name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
-					"links": [
+					"reg":83,
+					"name":"Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+					"links":[
 						"http://moravane.cz/domains/moravane.cz/krajske-volby-2020",
 						"https://www.facebook.com/moravaci",
 						"https://twitter.com/moravaci"
 					]
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Jan Hrnčíř",
+						"reg":1114,
+						"links": [
+							"https://www.facebook.com/hrncirjan/"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/SPDjiznimorava/"
+					]
+				},
+				{
+					"reg":137
+				},
+				{
+					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"coalition": [
+						156,
+						{
+							"name":"Čistý kraj",
+							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": 11,
-			"parties": [
+			"id":11,
+			"parties":[
 				{
-					"coalition": [1, 5, 721, 1039],
-					"name": "Spojenci – Koalice pro Olomoucký kraj",
-					"leader": {
+					"coalition":[
+						1,
+						5,
+						721,
+						1039
+					],
+					"name":"Spojenci – Koalice pro Olomoucký kraj",
+					"leader":{
 						"name":"Marián Jurečka",
-						"reg": 1,
-						"links": [
+						"reg":1,
+						"links":[
 							"https://www.marianjurecka.cz",
 							"https://www.facebook.com/JureckaMarian/",
 							"https://twitter.com/MJureka",
 							"https://www.instagram.com/marianjurecka/"
-						]
+						],
+						"photo":"marian-jurecka.jpg"
 					},
-					"list": [
-						{"name": "Zdeňka Blišťanová", "reg": 721},
-						{"name": "Marcela Škvařilová", "reg": 1039},
-						"Hana Vacková",
+					"list":[
+						{
+							"name":"Zdeňka Blišťanová",
+							"reg":721
+						},
+						{
+							"name":"Marcela Škvařilová",
+							"reg":1039
+						},
+						{
+							"name":"Hana Vacková",
+							"reg":5
+						},
 						"Ivo Slavotínek",
 						"František Horák",
 						"Aleš Jakubec",
@@ -1987,486 +4223,871 @@
 						"Pavel Grasse",
 						"Matouš Pelikán",
 						"Aleš Matyášek",
-						{"name": "Jitka Seitlová", "reg": 1},
+						{
+							"name":"Jitka Seitlová",
+							"reg":1
+						},
 						"Ivo Čečman",
 						"Tomáš Šulák"
 					],
-					"links": [
+					"links":[
 						"https://www.spojenciok.cz/",
 						"https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
-					]
+					],
+					"logo":"obecne/strany/loga/x-spojenciok.png",
+					"color":"#018180",
+					"program":"https://www.spojenciok.cz/#program",
+					"data":"olk/spojenciok"
 				},
 				{
-					"reg": 53,
-					"leader": {
-						"name": "Dalibor Horák",
-						"reg": 53,
-						"links": [
+					"reg":53,
+					"leader":{
+						"name":"Dalibor Horák",
+						"photo": "dalibor-horak.jpg",
+						"reg":53,
+						"links":[
 							"https://www.facebook.com/dhorak.unicov/"
 						]
 					},
-					"links": [
-						"http://www.ods.cz/region.olomoucky/",
+					"links":[
+            "https://www.ods.cz/region.olomoucky/volby2020/krajske",
 						"https://www.facebook.com/Zjednodusme.to/"
-					]
+					],
+          "list": [
+            {"name":"Ivo Mareš","reg":53},{"name":"Josef Ťulpík","reg":53},{"name":"Michal Zácha","reg":53},{"name":"Milada Sokolová","reg":53},{"name":"Petr Procházka","reg":53},{"name":"Jiří Hübner","reg":53},{"name":"Radek Wagner","reg":53},{"name":"Marta Husičková","reg":53},{"name":"Roman Macek","reg":53},{"name":"Lubomír Žmolík","reg":53},{"name":"Věra Zukalová","reg":53},{"name":"Leon Bouchal","reg":53},{"name":"Pavel Ston","reg":53},{"name":"Jaroslav Studený","reg":53},{"name":"Stanislav Orság","reg":53},{"name":"Tomáš Kocourek","reg":99},{"name":"Milan Král","reg":53},{"name":"Miroslav Hloušek","reg":53},{"name":"Zdeněk Jančí","reg":53},{"name":"Jan Zatloukal","reg":53},{"name":"Pavel Hejtmánek","reg":53},{"name":"Igor Kraicz","reg":53},{"name":"Iveta Janků","reg":53},{"name":"Pavel Bruštík","reg":53},{"name":"Pavel Stejskal","reg":53},{"name":"Drahomír Sigmund","reg":53},{"name":"Karel Marek","reg":53},{"name":"Petr Kouba","reg":53},{"name":"Tamara Kaňáková","reg":53},{"name":"Jiří Vogel","reg":53},{"name":"Eliška Majorová","reg":53},{"name":"Miloslav Oulehla","reg":53},{"name":"Tomáš Blumenstein","reg":53},{"name":"Aleš Suchánek","reg":53},{"name":"Marek Pazdera","reg":53},{"name":"Jitka Zahradníková","reg":53},{"name":"Martin Haška","reg":53},{"name":"David Kopřiva","reg":53},{"name":"Mojmír Sokol","reg":53},{"name":"Vendula Škvařilová","reg":53},{"name":"Jiří Urbášek","reg":53},{"name":"Petr Caletka","reg":53},{"name":"Tomáš Pavlůsek","reg":53},{"name":"Jiří Svozil","reg":53},{"name":"Lydie Špániková","reg":53},{"name":"Jaromír Sedlák","reg":53},{"name":"Stanislav Žalud","reg":53},{"name":"Radek Vincour","reg":53},{"name":"David Chytil","reg":53},{"name":"Tomáš Lázna","reg":53},{"name":"Josef Šenk","reg":53},{"name":"Luděk Smýkal","reg":53},{"name":"Martina Horňáková","reg":53},{"name":"Tomáš Potěšil","reg":53},{"name":"Josef Vaculin","reg":53},{"name":"Libor Marčan","reg":53},{"name":"Rudolf Pečinka","reg":53},{"name":"Kateřina Jakůbková","reg":53},{"name":"Petr Grofek","reg":53}
+          ],
+					"data": "olk/53"
 				},
 				{
-					"coalition": [7, "Patrioti Olomouckého kraje"],
-					"leader": {
-						"name": "Jiří Zemánek",
-						"reg": 7,
-						"links": [
+					"coalition":[
+						7,
+						{
+							"name":"Patrioti Olomouckého kraje",
+							"logo":"obecne/strany/loga/x-patrioti-olk.png"
+						}
+					],
+					"leader":{
+						"name":"Jiří Zemánek",
+						"photo": "jiri-zemanek.jpg",
+						"reg":7,
+						"links":[
 							"https://jirizemanek.cz/",
+							"https://receptprokraj.cz/jiri-zemanek/",
 							"https://www.facebook.com/zemanek.jiri/",
 							"https://twitter.com/ZemanekJiriOK",
 							"https://www.instagram.com/zemanek.j/",
 							"https://www.youtube.com/channel/UCcgIvOZ6gZXVtxVW-lJCpdQ"
 						]
 					},
-					"links": [
-						"http://olomoucky-kraj.cssd.cz",
+					"links":[
+						"https://receptprokraj.cz/",
 						"https://www.facebook.com/CssdOlomouckyKraj/"
-					]
+					],
+					"list":[
+						{
+							"name":"Ladislav Jabůrek",
+							"phash": "patrioti-olomouckeho-kraje"
+						},
+						{
+							"name":"Ladislav Hynek",
+							"reg":7
+						},
+						{
+							"name":"Pavel Šoltys",
+							"reg":7
+						},
+						{
+							"name":"Viktor Kohout",
+							"phash": "patrioti-olomouckeho-kraje"
+						},
+						{
+							"name":"Jaromír Malý",
+							"reg":7
+						},
+						{
+							"name":"Jiří Kubiš",
+							"phash": "patrioti-olomouckeho-kraje"
+						},
+						{
+							"name":"Miroslav Kopřiva",
+							"reg":7
+						},
+						{
+							"name":"Pavel Holík",
+							"reg":7
+						},
+						{"name": "Jana Nováková", "reg": 7},
+						{"name": "Ivan Foltýn", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Silvie Pernicová", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Lucie Fabíková", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Přemysl Dvorský", "reg": 7},
+						{"name": "Šárka Zapletalová", "reg": 7},
+						{"name": "David Křepský", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Martin Hönig", "reg": 7},
+						{"name": "Pavel Hofírek", "reg": 7},
+						{"name": "Petr Kudláček", "reg": 7},
+						{"name": "Lada Cinegrová", "reg": 7},
+						{"name": "Radim Slouka", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Stanislav Axman", "reg": 7},
+						{"name": "Štěpán Kulina", "reg": 7},
+						{"name": "Jana Oulehlová", "reg": 7},
+						{"name": "Radek Čapka", "reg": 7},
+						{"name": "Miroslav Hampl", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Jakub Rousek", "reg": 7},
+						{"name": "Tomáš Husvéth", "reg": 7},
+						{"name": "Jiří Fiala", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Miroslav Janeček", "reg": 7},
+						{"name": "Lukáš Kandler", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Aleš Sobek", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Ivana Dvořáková", "reg": 7},
+						{"name": "Libor Šamšula", "reg": 7},
+						{"name": "Miroslav Šmída", "reg": 7},
+						{"name": "František Střída", "reg": 7},
+						{"name": "Yvona Kubjátová", "reg": 7},
+						{"name": "Jakub Šťastný", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Radovan Rašťák", "reg": 7},
+						{"name": "Jitka Weiermüllerová", "reg": 7},
+						{"name": "Bedřich Grulich", "reg": 7},
+						{"name": "Vlastimil Šmída", "reg": 7},
+						{"name": "Jiří Teplý", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Adam Fritcher", "phash": "patrioti-olomouckeho-kraje"},
+						{"name": "Pavel Skácel", "reg": 7},
+						{"name": "Andrej Přikrylová", "reg": 7},
+						{"name": "Stanislav Procházka", "reg": 7},
+						{"name": "Pavel Zatloukal", "reg": 7},
+						{"name": "Petr Šeda", "reg": 7},
+						{"name": "Jakub Malý", "reg": 7},
+						{"name": "Jaromír Dvořák", "reg": 7},
+						{"name": "Radmila Kociánová", "reg": 7},
+						{"name": "Ladislav Sebök", "reg": 7},
+						{"name": "Alois Mačák", "reg": 7},
+						{"name": "Jiří Tomášek", "reg": 7}
+					],
+					"program":"https://receptprokraj.cz/volebni-program/",
+					"data":"olk/cssd-patrioti"
 				},
 				{
-					"coalition": [166, 720],
-					"leader": {
-						"name": "Josef Suchánek",
-						"reg": 166,
-						"links": [
+					"name": "Piráti a Starostové",
+					"coalition":[
+						166,
+						720
+					],
+					"leader":{
+						"name":"Josef Suchánek",
+						"reg":166,
+						"links":[
 							"https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj/krajsky-vybor/suchanek-josef",
 							"https://www.facebook.com/suchanek.ol/",
-							"https://twitter.com/JosefKraj",
+							"https://twitter.com/SuchanekOl",
 							"https://www.instagram.com/josef.suchanek/"
-						]
+						],
+						"photo":"josef-suchanek.jpg"
 					},
-					"list": [
-						{"name": "Zdeňka Dvořáková Kocourková", "reg": 720}
+					"list":[
+						{
+							"name":"Zdeňka Dvořáková Kocourková",
+							"reg":720
+						}
 					],
-					"links": [
-						"https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj",
-						"https://www.facebook.com/starostoveolomouckykraj/",
-						"https://twitter.com/STAN_OLK",
-						"https://olomoucky.pirati.cz/",
-						"https://www.facebook.com/piratiOlomoucko/",
-						"https://twitter.com/piratiOlomoucko"
-					]
+					"links":[
+						"http://www.piratistarostove.cz/",
+						"https://www.facebook.com/PiratiStarostoveOL/",
+						"https://twitter.com/PiratiSTAN",
+						"https://www.instagram.com/Pirati_Stan_Olomouc/"
+					],
+					"data":"olk/stan-pirati",
+					"logo": "obecne/strany/loga/x-pas.png",
+					"name": "Piráti a Starostové"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Ladislav Okleštěk",
-						"reg": 768,
-						"links": [
+					"reg":768,
+					"leader":{
+						"name":"Ladislav Okleštěk",
+						"reg":768,
+						"links":[
 							"https://www.ladislavoklestek.cz/",
 							"https://www.facebook.com/OklestekLadislav/",
 							"https://twitter.com/OklestekLa"
 						]
 					},
-					"links": [
+					"links":[
 						"https://www.anobudelip.cz/olomoucky-kraj"
 					]
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Michal Symerský",
-						"reg": 47,
-						"links": [
-							"https://olomouc.kscm.cz/cs/nasi-lide/ing-michal-symersky"
-						]
+					"reg":47,
+					"leader":{
+						"name":"Ludvík Šulda",
+						"reg":47
 					},
-					"links": [
+					"links":[
 						"https://olomouc.kscm.cz/cs",
 						"https://www.facebook.com/volbyolomouckykscm2020/"
-					]
+					],
+					"program":"https://drive.google.com/file/d/1mm9OdKt5hN-0AY-jTAGuAqcVhZN8u6rJ/view?usp=drivesdk",
+					"data": "olk/47"
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Zuzana Majerová Zahradníková",
-						"reg": 1227,
-						"links": [
+					"reg":1227,
+					"leader":{
+						"name":"Zuzana Majerová Zahradníková",
+						"reg":1227,
+						"links":[
 							"http://zuzanamajerova.cz/",
 							"https://www.facebook.com/zuzanamajerova.cz/",
 							"https://twitter.com/MajerovaZ"
 						]
 					},
-					"links": [
+					"links":[
 						"https://www.facebook.com/trikoloraolomouckykraj/"
 					]
 				},
 				{
-					"reg": 715
+					"reg":715
+				},
+				{
+					"reg":1114,
+					"leader":{
+						"name":"Radim Fiala",
+						"reg":1114,
+						"links": [
+							"https://www.facebook.com/radimfiala.cz/"
+						]
+					},
+					"links": [
+						"https://www.facebook.com/spdolomoucky/"
+					]
+				},
+				{
+					"reg":137
+				},
+				{
+					"reg": 156
+				},
+				{
+					"name": "Soukromníci a ODA",
+					"coalition": [716, 1173]
 				}
 			]
 		},
 		{
-			"id": 12,
-			"parties": [
+			"id":12,
+			"parties":[
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Hana Ančincová",
-						"reg": 720,
-						"links": [
+					"reg":720,
+					"leader":{
+						"name":"Hana Ančincová",
+						"reg":720,
+						"links":[
 							"https://zlinsky.pirati.cz/lide/hana-ancincova/",
 							"https://www.facebook.com/hana.ancincova.piratka/",
 							"https://twitter.com/HAncincova"
-						]
+						],
+						"photo":"hana-ancincova.jpg"
 					},
-					"list": [
-						"Jiří Jaroš", "Denis Rychtar", "Jakub Zach", "Zuzana Fišerová", "Jiří Knotek", "Marek Houser", "Vratislav Krejčíř", "Lubomír Doležal", "Jaroslav Takáč", "Jana Skopalová", "Jaroslav Ševčík", "Pavel Beznoska", "Zdeněk Třos", "Renata Gerhinger", "Michal Štěpaník", "Milan Klajn", "Jiří Robenek", "Tomáš Holomel", "Kamil Podlas", "Kristýna Lajmarová", "Petr Tomášů", "Dominik Zavadil", "Pavel Maňásek", "Radek Nohavica", "Martina Urbánková", "Petr Stoklasa", "Martin Látal", "Martin Valášek", "Tomáš Čabla", "Jaromír Slezák", "Andrea Marečková", "Ondřej Bisaha", "Libor Adámek", "Petr Ťopek", "Petr Havlík", "František Prachman", "Marek Pochylý", "Dušan Jurčík", "Matěj Krajča", "Petr Lušovský", "František Elfmark"
+					"list":[
+						"Jiří Jaroš",
+						"Denis Rychtar",
+						"Jakub Zach",
+						"Zuzana Fišerová",
+						"Jiří Knotek",
+						"Marek Houser",
+						"Vratislav Krejčíř",
+						"Lubomír Doležal",
+						"Jaroslav Takáč",
+						"Jana Skopalová",
+						"Jaroslav Ševčík",
+						"Pavel Beznoska",
+						"Zdeněk Třos",
+						{"name": "Renata Gehringer", "reg": 99},
+						"Michal Štěpaník",
+						"Milan Klajn",
+						"Jiří Robenek",
+						"Tomáš Holomel",
+						"Kamil Podlas",
+						"Kristýna Lajmarová",
+						"Petr Tomášů",
+						"Dominik Zavadil",
+						"Pavel Maňásek",
+						"Radek Nohavica",
+						"Martina Urbánková",
+						"Petr Stoklasa",
+						"Martin Látal",
+						"Martin Valášek",
+						"Tomáš Čabla",
+						"Jaromír Slezák",
+						"Andrea Marečková",
+						"Ondřej Bisaha",
+						"Libor Adámek",
+						"Petr Ťopek",
+						"Petr Havlík",
+						"František Prachman",
+						"Marek Pochylý",
+						"Dušan Jurčík",
+						"Matěj Krajča",
+						"Petr Lušovský",
+						"František Elfmark"
 					],
-					"links": [
+					"links":[
 						"https://zlinsky.pirati.cz",
 						"https://www.facebook.com/piratizlk/"
 					],
-					"program": "https://zlinsky.pirati.cz/krajske-volby/program.html",
-					"data": "zlk/720"
+					"program":"https://zlinsky.pirati.cz/krajske-volby/program.html",
+					"data":"zlk/720"
 				},
 				{
-					"coalition": [166, 721, {"name": "Nový Impuls", "logo": "obecne/strany/loga/x-novyimpuls.jpg"}, {"name": "Zlínské hnutí nezávislých", "logo": "obecne/strany/loga/x-zlinskehnutinezavislych.gif"}],
-					"leader": {
-						"name": "Petr Gazdík",
-						"reg": 166,
-						"links": [
+					"reg": 166,
+					"support":[
+						721,
+						{
+							"name":"Nový Impuls",
+							"logo":"obecne/strany/loga/x-novyimpuls.jpg"
+						},
+						{
+							"name":"Zlínské hnutí nezávislých",
+							"logo":"obecne/strany/loga/x-zlinskehnutinezavislych.gif"
+						}
+					],
+					"leader":{
+						"name":"Petr Gazdík",
+						"reg":166,
+						"links":[
 							"http://www.gazdik.cz/",
 							"https://www.facebook.com/petr.gazdik/",
 							"https://twitter.com/petrgazdik",
 							"https://www.instagram.com/petr_gazdik/"
-						]
+						],
+						"photo":"petr-gazdik.jpg"
 					},
-					"links": [
+					"links":[
 						"http://www.starostove-nezavisli.cz/regiony/zlinsky-kraj",
-						"http://www.top09.cz/regiony/zlinsky-kraj",
-						"https://www.novyimpuls.cz/",
-						"http://www.zhn-zlin.cz/",
 						"https://www.facebook.com/starostove.zlinsky/",
-						"https://www.facebook.com/TOP09.Zlinsky.kraj/",
-						"https://www.facebook.com/novyimpuls/",
-						"https://twitter.com/STANzlk",
-						"https://twitter.com/top09zk",
-						"https://twitter.com/novyimpulszlin",
-						"https://www.instagram.com/top09zlk/",
-						"https://www.instagram.com/novimpuls9361/"
-					]
+						"https://twitter.com/STANzlk"
+					],
+					"list":[
+						{
+							"name":"Rudolf Seifert",
+							"reg":721
+						},
+						{
+							"name":"Zuzana Vandame",
+							"reg":721
+						},
+						{
+							"name":"Vít Peštuka",
+							"reg":721
+						},
+						"František Petr",
+						"Milan Plesar"
+					],
+					"data":"zlk/stan-top-ni-zhn"
 				},
 				{
-					"reg": 1,
-					"leader": {
-						"name": "Jiří Čunek",
-						"reg": 1,
-						"links": [
+					"reg":1,
+					"leader":{
+						"name":"Jiří Čunek",
+						"reg":1,
+						"links":[
 							"https://www.kdu.cz/o-nas/nasi-lide/senatori/cunek",
 							"https://www.facebook.com/cunekj/",
 							"https://twitter.com/CunekJiri",
 							"https://www.instagram.com/jiri.cunek/"
 						]
 					},
-					"list": [
+					"list":[
 						"Josef Bazala",
 						"Zdislava Odstrčilová",
 						"Robert Teleky",
 						"Michaela Blahová"
 					],
-					"links": [
+					"links":[
 						"http://zlinsky.kdu.cz",
 						"https://www.facebook.com/kduzlinskykraj/"
 					]
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Taťána Valentová Nersesjan",
-						"reg": 7,
-						"links": [
-							"https://www.facebook.com/T%C3%A1%C5%88a-Valentov%C3%A1-Nersesjan-981962295256718/"
+					"reg":7,
+					"support":[
+						5
+					],
+					"leader":{
+						"name": "Olga Sehnalová",
+						"reg":7,
+						"links":[
+							"https://www.sehnalova.cz/",
+							"https://www.facebook.com/OlgaSehnalova/",
+							"https://twitter.com/OlgaSehnalova"
 						]
 					},
-					"links": [
+					"links":[
 						"http://zlinsky-kraj.cssd.cz/",
 						"https://www.facebook.com/cssd.zlinsko/"
+					],
+					"list": [
+						"Taťána Valentová Nersesjan",
+						"Stanislav Mišák",
+						"Martina Hvozdenský",
+						"Vilém Jurek",
+						"Jana Slovenčíková",
+						"Petr Kořenek",
+						"Jindřich Šnejdrla", "MUDr. Krchňák", "R. Bernát", "Lenka Zgarbová", "Tomáš Husa", "Eva Ličková", "Fr. Novosad", "Dana Daňová", "Michal Merhaut", "Jana Maláčová"
 					]
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Jiří Sukop",
-						"reg": 768,
-						"links": [
-							"https://www.facebook.com/JiriSukopANO/",
-							"https://www.instagram.com/jirisukop/"
+					"reg":768,
+					"leader":{
+						"name":"Radim Holiš",
+						"photo": "radim-holis.jpg",
+						"reg":768,
+						"links":[
+							"https://www.facebook.com/holisradim/"
 						]
 					},
-					"list": [
-						"Pavel Pustějovský"
+					"list":[
+						"Radek Doležel",
+						"David Vychytil",
+						"Tomáš Janča",
+						"Robert Stržínek",
+						"Hana Večerková",
+						"Pavel Vardan",
+						"Jan Pšeja",
+						"Radek Všetečka",
+						"Jiří Korec",
+						"Jarmila Slováková",
+						"Yvona Wojaczková",
+						"Jaromír Žůrek",
+						"Pavel Bartoň",
+						"Monika Hubíková",
+						"Aloisie Jurkovičová",
+						"Tibor Mičunek",
+						"Vladimír Zejdl",
+						"Radomil Kop",
+						"Petr Maňásek",
+						"Tomáš Vašica",
+						"Roman Slavík",
+						"Jana Pekařová",
+						"Hynek Kovář",
+						"Radim Přikryl",
+						"Jana Grygarová",
+						"Václav Kovář",
+						"Vítězslav Hanák",
+						"Lenka Střálková",
+						"Marcela Čechová",
+						"Martin Mlčák",
+						"Marta Lednová",
+						"Petr Babovec",
+						"Pavel Ertl",
+						"Pavel Brada",
+						"Mojmír Heryán",
+						"Jiří Melcher",
+						"Renata Měsíčková",
+						"Ondřej Wilczynski",
+						"Petr Pospíšil",
+						"Otakar Neoral",
+						"Marek Novák",
+						"Margita Balaštíková",
+						"Pavel Pustějovský",
+						"Radek Vondráček"
 					],
-					"links": [
+					"links":[
 						"https://www.anobudelip.cz/zlinsky-kraj",
 						"https://www.facebook.com/anotohlejezlinsko/",
 						"https://www.instagram.com/ano_zlinsky_kraj/"
 					]
 				},
 				{
-					"reg": 53,
-					"leader": {
-						"name": "Lubomír Traub",
-						"reg": 53,
-						"links": [
+					"reg":53,
+					"leader":{
+						"name":"Lubomír Traub",
+						"photo": "lubomir-traub.jpg",
+						"reg":53,
+						"links":[
 							"https://www.ods.cz/ms.zlin/profil/9766-lubomir-traub",
 							"https://www.facebook.com/LubomirTraubOfficial/"
 						]
 					},
-					"list": [
-						"Stanislav Blaha"
+					"list":[
+						{"name":"Zbyněk Fojtíček","reg":53},{"name":"Jan Hrdý","reg":53},{"name":"Roman Hoza","reg":53},{"name":"Zdeněk Pánek","reg":99},{"name":"Petr Viceník","reg":53},{"name":"Josef Slovák","reg":53},{"name":"Zdeněk Babulík","reg":53},{"name":"Stanislav Blaha","reg":53},{"name":"Hana Skácalová","reg":53},{"name":"Daniela Hebnarová","reg":53},{"name":"Štěpán Slovák","reg":53},{"name":"Pavel Konečný","reg":99},{"name":"Radovan Macháček","reg":53},{"name":"Marek Mahdal","reg":53},{"name":"Petr Holý","reg":53},{"name":"Jaroslav Zatloukal","reg":53},{"name":"Marta Zakopalová","reg":99},{"name":"Pavel Horák","reg":99},{"name":"Roman Kalabus","reg":53},{"name":"Petr Nachtmann","reg":53},{"name":"Miroslav Chalánek","reg":53},{"name":"Jana Pšejová","reg":53},{"name":"Pavel Kacr","reg":99},{"name":"Irena Janů","reg":53},{"name":"Vilém Skála","reg":53},{"name":"David Plucnar","reg":53},{"name":"Jitka Brázdová","reg":53},{"name":"Jiří Durďák","reg":53},{"name":"Markéta Blinková","reg":53},{"name":"Radim Hrubý","reg":53},{"name":"Stanislav Řihák","reg":53},{"name":"Lukáš Pšeja","reg":53},{"name":"Radim Kotrla","reg":53},{"name":"David Ondra","reg":53},{"name":"Jana Zimčíková","reg":53},{"name":"Marek Andrýsek","reg":53},{"name":"Jarmil Cileček","reg":53},{"name":"Daniel Hruška","reg":53},{"name":"Štěpán Chludil","reg":53},{"name":"Roman Štěrba","reg":53},{"name":"Pavlína Jagošová","reg":53},{"name":"Dalibor Kondler","reg":53},{"name":"Josef Kocháň","reg":53},{"name":"Kateřina Kolbová","reg":99},{"name":"Jiří Durďák","reg":53},{"name":"Robert Hlavica","reg":53},{"name":"Evžen Slavík","reg":53},{"name":"Jan Wagner","reg":53},{"name":"Milan Foukal","reg":53}
 					],
-					"links": [
-						"https://www.ods.cz/region.zlinsky",
+					"links":[
+            "https://www.ods.cz/region.zlinsky/volby2020/krajske",
 						"https://www.facebook.com/odszlinskykraj/"
-					]
+					],
+					"data": "zlk/53"
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Ivan Mařák",
-						"reg": 47,
-						"links": [
+					"reg":47,
+					"leader":{
+						"name":"Ivan Mařák",
+						"reg":47,
+						"links":[
 							"http://old.kscm.cz/volby-a-akce/krajska-zastupitelstva4/kandidatni-listiny-do-krajskych-zastupitelstev-2012/zlinsky-kraj/ing-ivan-marak"
 						]
 					},
-					"links": [
+					"links":[
 						"https://zlin.kscm.cz"
 					]
 				},
 				{
-					"reg": 5,
-					"links": [
-						"http://zeleni-zlinsko.cz/",
-						"https://www.facebook.com/zeleni.zlinsky.kraj/"
-					]
-				},
-				{
-					"coalition": [1227, 716, 88],
-					"leader": {
-						"name": "Jaromír Bernátek",
-						"reg": 1227,
-						"links": [
+					"coalition":[
+						1227,
+						716,
+						88
+					],
+					"leader":{
+						"name":"Jaromír Bernátek",
+						"reg":1227,
+						"links":[
 							"https://www.facebook.com/jaromir.bernatek.73"
 						]
 					},
-					"links": [
+					"links":[
 						"https://www.facebook.com/volimtrikoloruzlinskykraj1/",
 						"https://www.facebook.com/soukromnici.cz/"
+					],
+					"list": [
+						"Michal Dvouletý",
+						"Ivo Mitáček",
+						"Radim Červenka"
 					]
 				},
 				{
-					"reg": 715
+					"reg":715
 				},
 				{
-					"reg": 714,
-					"leader": {
-						"name": "Tomáš Pajonk",
-						"reg": 714,
-						"links": [
+					"reg":714,
+					"leader":{
+						"name":"Tomáš Pajonk",
+						"reg":714,
+						"links":[
 							"http://www.pajonk.cz",
 							"https://www.facebook.com/tomas.pajonk.page/",
 							"https://www.instagram.com/tomaspajonk/"
 						]
 					},
-					"links": [
+					"links":[
 						"http://zlinskykraj.svobodni.cz/",
 						"https://www.facebook.com/svobodnizk/",
 						"https://twitter.com/SvobodniVychod"
 					]
 				},
 				{
-					"reg": 1114,
-					"leader": {
-						"name": "Vladimír Zlínský",
-						"reg": 1114,
-						"links": [
+					"reg":1114,
+					"leader":{
+						"name":"Vladimír Zlínský",
+						"reg":1114,
+						"links":[
 							"https://www.facebook.com/MUDr-Vladim%C3%ADr-Zl%C3%ADnsk%C3%BD-kandid%C3%A1t-na-hejtmana-ve-Zl%C3%ADnsk%C3%A9m-kraji-za-SPD-105344787861725/"
 						]
 					},
-					"links": [
+					"links":[
 						"https://www.facebook.com/spdzlinsky/"
 					]
+				},
+				{
+					"reg":137,
+					"leader": {
+						"name": "Zdeněk Cekota"
+					}
 				}
 			]
 		},
 		{
-			"id": 13,
-			"parties": [
+			"id":13,
+			"parties":[
 				{
-					"reg": 720,
-					"leader": {
-						"name": "Zuzana Klusová",
-						"reg": 720,
-						"links": [
+					"reg":720,
+					"leader":{
+						"name":"Zuzana Klusová",
+			      "photo": "zuzana-klusova.jpg",
+						"reg":720,
+						"links":[
 							"https://moravskoslezsky.pirati.cz/lide/zuzana-klusova/",
 							"https://www.facebook.com/zklusova",
 							"https://twitter.com/ZuzkaKlusova"
 						]
 					},
-					"list": [
+					"list":[
 						"Arnošt Žídek",
-						"Jan Nezhyb"
+						"Jan Nezhyba",
+						"Jiří Demel",
+						"Leonard Varga"
 					],
-					"links": [
+					"links":[
 						"https://moravskoslezsky.pirati.cz/",
 						"https://www.facebook.com/cpsmsk/",
 						"https://twitter.com/PiratiMSK",
 						"https://www.instagram.com/msk_pirati/"
-					]
+					],
+					"data": "msk/720"
 				},
 				{
-					"reg": 768,
-					"leader": {
-						"name": "Ivo Vondrák",
-						"reg": 768,
-						"links": [
+					"reg":768,
+					"leader":{
+						"name":"Ivo Vondrák",
+						"reg":768,
+						"links":[
 							"http://ivovondrak.cz",
 							"https://www.facebook.com/vondrakivo/",
 							"https://twitter.com/ivondrak",
 							"https://www.instagram.com/ivondrak/"
 						]
 					},
-					"list": [
+					"list":[
 						"Jaroslav Kania",
 						"Jan Krkoška"
 					],
-					"links": [
+					"links":[
 						"https://www.anobudelip.cz/moravskoslezsky-kraj",
 						"https://www.facebook.com/ANOTohlejeMoravskoslezsko/"
 					]
 				},
 				{
-					"coalition": [53, 721],
-					"name": "ODS s podporou TOP 09",
-					"leader": {
-						"name": "Jakub Unucka",
-						"reg": 53,
-						"links": [
-							{"url": "https://www.facebook.com/unucka.jakub"},
-							{"url": "https://twitter.com/jakubunucka"},
-							{"url": "https://www.instagram.com/jakubunucka"}
+					"coalition":[
+						53,
+						721
+					],
+					"name":"ODS s podporou TOP 09",
+					"leader":{
+						"name":"Jakub Unucka",
+						"reg":53,
+			      "photo": "jakub-unucka.jpg",
+						"links":[
+							{
+								"url":"https://www.facebook.com/unucka.jakub"
+							},
+							{
+								"url":"https://twitter.com/jakubunucka"
+							},
+							{
+								"url":"https://www.instagram.com/jakubunucka"
+							}
 						]
 					},
-					"links": [
-						{"url": "https://www.ods.cz/region.moravskoslezsky", "label": "ODS MSK"},
-						{"url": "https://www.top09.cz/regiony/moravskoslezsky-kraj", "label": "TOP 09 MSK"},
-						{"url": "https://www.facebook.com/ods.moravskoslezskykraj", "label": "ODS MSK"},
-						{"url": "https://www.facebook.com/TOP09.Moravskoslezsky.kraj", "label": "TOP 09 MSK"}
+					"links":[
+            "https://www.ods.cz/region.moravskoslezsky/volby2020/krajske",
+						{
+							"url":"https://www.top09.cz/regiony/moravskoslezsky-kraj",
+							"label":"TOP 09 MSK"
+						},
+						{
+							"url":"https://www.facebook.com/ods.moravskoslezskykraj",
+							"label":"ODS MSK"
+						},
+						{
+							"url":"https://www.facebook.com/TOP09.Moravskoslezsky.kraj",
+							"label":"TOP 09 MSK"
+						}
 					],
-					"list": [
-						{"name": "Zdenka Němečková Crkvenjaš", "reg": 53},
-						{"name": "Stanislav Folwarczny", "reg": 53},
-						{"name": "Monika Klapková", "reg": 721}
-					]
+					"list":[
+						{"name":"Zdenka Němečková Crkvenjaš","reg":53},{"name":"Stanislav Folwarczny","reg":53},{"name":"Monika Klapková","reg":721},{"name":"Radek Kaňa","reg":53},{"name":"Vladimír Návrat","reg":53},{"name":"Josef Alexander Matera","reg":53},{"name":"Václav Dobrozemský","reg":53},{"name":"Patrik Schramm","reg":53},{"name":"Zbyněk Gajdacz","reg":53},{"name":"Pavel Tuleja","reg":721},{"name":"Jan Abrahamčík","reg":53},{"name":"Jiří Žák","reg":53},{"name":"Yveta Kovalčíková","reg":53},{"name":"Aleš Linhart","reg":53},{"name":"Dalibor Klimša","reg":53},{"name":"Miroslav Halatin","reg":53},{"name":"Herbert Pavera","reg":721},{"name":"Antonín Illík","reg":53},{"name":"Zbyněk Hudeček","reg":53},{"name":"Marek Veselý","reg":53},{"name":"Radek Šnita","reg":53},{"name":"Vítězslav Šopík","reg":53},{"name":"Jan Koloničný","reg":721},{"name":"Lukáš Kőnig","reg":53},{"name":"Pavel Struminský","reg":53},{"name":"Radana Zapletalová","reg":53},{"name":"Jan Stanjura","reg":53},{"name":"Jan Okoun","reg":53},{"name":"René Brinda","reg":721},{"name":"Vavřinec Pečinka","reg":53},{"name":"Miroslav Kopečný","reg":53},{"name":"Yvona Dluhošová","reg":53},{"name":"Vítězslav Bystroň","reg":53},{"name":"Vladimír Chlebiš","reg":53},{"name":"Petr Psotka","reg":721},{"name":"Milan Kolder","reg":53},{"name":"Pavel Mlýnek","reg":53},{"name":"Hynek Orság","reg":53},{"name":"Martina Loskotová","reg":53},{"name":"Šárka Moravcová","reg":53},{"name":"Slavomír Bača","reg":721},{"name":"Jaromír Šitavanc","reg":53},{"name":"Tadeáš Brída","reg":53},{"name":"Iveta Wilczková","reg":53},{"name":"Jaroslav Klega","reg":53},{"name":"Leoš Lukaštík","reg":53},{"name":"Blahoslav Socha","reg":53},{"name":"Tomáš Velička","reg":721},{"name":"Igor Trávníček","reg":53},{"name":"Robin Lotko","reg":53},{"name":"Jan Fojtík","reg":53},{"name":"Tomáš Peřina","reg":53},{"name":"Gabriela Moravčíková","reg":53},{"name":"Petr Šarman","reg":721},{"name":"Darina Dvořáková","reg":53},{"name":"Jan Karásek","reg":53},{"name":"Petr Hradil","reg":53},{"name":"Oldřich Malota","reg":53},{"name":"David Maryška","reg":53},{"name":"Ladislav Sitko","reg":721},{"name":"Valentina Vaňková","reg":53},{"name":"Adéla Mořkovská","reg":53},{"name":"Marie Walachová","reg":53},{"name":"Roman Strzondala","reg":721},{"name":"Jiří Dolejška","reg":53},{"name":"Roman Tietz","reg":53},{"name":"Werner Bernatík","reg":53},{"name":"Petr Juras","reg":53},{"name":"Tomáš Müller","reg":53},{"name":"Jaroslav Nosál","reg":53},{"name":"Libor Nowak","reg":53},{"name":"Martina Nováková","reg":53},{"name":"Aleš Langer","reg":53},{"name":"Karel Bednařík","reg":53},{"name":"Tomáš Vojtek","reg":53},{"name":"Dalibor Sikora","reg":53},{"name":"Petr Sikora","reg":53},{"name":"Eduard Viznar","reg":53}
+					],
+					"data": "msk/ods-s-podporou-top-09"
 				},
 				{
-					"reg": 47,
-					"leader": {
-						"name": "Josef Babka",
-						"reg": 47,
-						"links": [
+					"reg":47,
+					"leader":{
+						"name":"Josef Babka",
+						"reg":47,
+						"links":[
 							"https://mskraj.kscm.cz/cs/nasi-lide/judr-josef-babka-1",
 							"https://www.facebook.com/babkakscm/"
 						]
 					},
-					"list": [
+					"list":[
 						"Miroslav Hajdušík",
 						"Alena Grosová"
 					],
-					"links": [
+					"links":[
 						"https://mskraj.kscm.cz/cs"
 					]
 				},
 				{
-					"reg": 7,
-					"leader": {
-						"name": "Petr Kajnar",
-						"reg": 7,
-						"links": [
+					"reg":7,
+					"leader":{
+						"name":"Petr Kajnar",
+						"reg":7,
+						"links":[
 							"https://www.facebook.com/Petr-Kajnar-107747200956355/",
 							"https://twitter.com/PetrKajnar",
 							"https://www.instagram.com/petrkajnar/"
 						]
 					},
-					"list": [
+					"list":[
 						"Jan Wolf",
 						"Michal Pobucký"
 					],
-					"links": [
+					"links":[
 						"http://moravskoslezsky.socdem.cz/",
 						"https://www.facebook.com/CssdMoravskoslezskyKraj/",
 						"https://twitter.com/cssdmsk"
 					]
 				},
 				{
-					"reg": 1,
-					"leader": {
-						"name": "Lukáš Curylo",
-						"reg": 1,
-						"links": [
+					"reg":1,
+					"leader":{
+						"name":"Lukáš Curylo",
+						"reg":1,
+						"links":[
 							"http://moravskoslezsky.kdu.cz/nasi-lide/krajsti-zastupitele/curylo",
 							"https://www.facebook.com/lukas.curylo.1",
 							"https://www.instagram.com/lukas.curylo/"
-						]
+						],
+						"photo":"lukas-curylo.jpg"
 					},
-					"list": [
+					"list":[
 						"Jiří Navrátil",
-						"Vít Slováček"
+						"Vít Slováček",
+						"Marcel Sikora",
+						"Michal Jedlička"
 					],
-					"links": [
+					"links":[
 						"http://moravskoslezsky.kdu.cz/domu",
+						"https://www.facebook.com/srostliskrajemmsk/",
 						"https://www.facebook.com/KDUCSLMoravskoslezskykraj/"
-					]
+					],
+					"data":"msk/1"
 				},
 				{
-					"reg": 1227,
-					"leader": {
-						"name": "Petr Viktorýn",
-						"reg": 1227,
-						"links": [
+					"reg":1227,
+					"leader":{
+						"name":"Petr Viktorýn",
+						"reg":1227,
+						"links":[
 							"https://www.facebook.com/viktoryn",
 							"https://twitter.com/PViktoryn",
 							"https://www.instagram.com/petr_viktoryn/"
 						]
 					},
-					"list": [
+					"list":[
 						"Xenie Šustalová",
 						"Libor Hřivnáč"
 					],
-					"links": [
+					"links":[
 						"https://www.facebook.com/trikoloramsk/"
 					]
 				},
 				{
-					"reg": 715
+					"reg":715
 				},
 				{
-					"coalition": [5, 166, 88],
-					"links": [
-						{"url": "http://www.zeleni-msk.cz"},
-						{"url": "https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj", "label": "STAN MSK"},
-						{"url": "https://www.facebook.com/zeleniMSK"},
-						{"url": "https://www.facebook.com/StanMoravskoslezskyKraj/", "label": "STAN MSK"},
-						{"url": "https://www.facebook.com/hnutinezavisli"}
+					"coalition":[
+						5,
+						166,
+						88
 					],
-					"leader": {
-						"name": "Jan Lipner",
-						"reg": 166,
-						"links": [
+					"links":[
+						"http://namtonenijedno.cz/",
+						{
+							"url":"https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
+							"label":"STAN MSK"
+						},
+						"http://www.zeleni-msk.cz",
+						{
+							"url":"https://www.facebook.com/StanMoravskoslezskyKraj/",
+							"label":"STAN MSK"
+						},
+						"https://www.facebook.com/zeleniMSK",
+						"https://www.facebook.com/hnutinezavisli"
+					],
+					"leader":{
+						"name":"Jan Lipner",
+						"reg":166,
+						"links":[
 							"https://www.facebook.com/janlipnerSTAN/",
 							"https://twitter.com/JanLipner"
+						],
+						"photo":"jan-lipner.jpg"
+					},
+					"list":[
+						{
+							"name":"Martin Polášek",
+							"reg":88
+						},
+						{
+							"name":"Ondřej Syrovátka",
+							"reg":5
+						},
+						{
+							"name":"René Šmotek",
+							"reg":5
+						},
+						{
+							"name":"Michaela Šebelová",
+							"reg":99
+						}
+					],
+					"data":"msk/zsn"
+				},
+				{
+					"reg":1114,
+					"leader": {
+						"name": "Pavel Staněk",
+						"reg": 1114
+					}
+				},
+				{
+					"name": "Pro krásný kraj - Hlas nezávislých osobností!",
+					"coalition": [1173, 1220, 129],
+					"logo": "obecne/strany/loga/x-pro-krasny-kraj.png",
+					"leader": {
+						"name": "Miloslav Cváček",
+			      "photo": "miloslav-cvacek.jpg",
+						"reg": 99,
+						"links": [
+							"https://www.facebook.com/profile.php?id=100011292750736",
+							"https://twitter.com/CvacekMiloslav"
 						]
 					},
+					"links": [
+						"http://www.prokrasnykraj.cz/",
+						"https://www.facebook.com/prokrasnykraj/",
+						"https://twitter.com/KrajPro",
+						"https://www.instagram.com/prokrasnykraj",
+						"https://www.youtube.com/channel/UCY1DKSiSdZ2puMjHbtVKkng"
+					],
 					"list": [
-						{"name": "Martin Polášek", "reg": 88},
-						{"name": "Ondřej Syrovátka", "reg": 5}
-					]
+						{"name": "Pavel Smolka", "reg": 129},
+						{"name": "Michal Ruman", "reg": 1220},
+						{"name": "Adam Hanus", "reg": 1173},
+						{"name": "Salome Sýkorová", "reg": 129},
+						{"name": "Ondřej Měkýš", "reg": 1220},
+						{"name": "Roman Čechák", "reg": 99},
+						{"name": "Sylva Kováčiková", "reg": 99},
+						{"name": "Martin Valim", "reg": 1220},
+						{"name": "Lubomír Veřmiřovský", "reg": 99},
+						{"name": "Aleš Hranoš", "reg": 99},
+						{"name": "Petr Hulhahý", "reg": 1220}
+					],
+					"data": "msk/pro-krasny-kraj",
+					"program": "http://www.prokrasnykraj.cz/#program"
+				},
+				{
+					"reg": 142,
+					"support": [785]
+				},
+				{
+					"reg":137
+				},
+				{
+					"reg": 1118,
+					"leader": {
+						"name": "Josef Krysta"
+					},
+					"list": [
+						"Renáta Valerie Nešporek"
+					],
+					"links": [
+	          "https://vok-volbaprokraj.cz/",
+	          "https://www.facebook.com/volbaprokraj/"
+					],
+					"data": "msk/volba-pro-kraj"
+				},
+				{
+					"reg": 1225
+				},
+				{
+					"reg": 156
 				}
 			]
 		}

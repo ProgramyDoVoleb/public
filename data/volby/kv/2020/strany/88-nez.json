@@ -1,0 +1,29 @@
+{
+  "reg": 88,
+  "name": "NEZÁVISLÍ",
+  "short": "NEZ",
+  "color": "#00add2",
+  "logo": "/obecne/strany/loga/88-nez.png",
+  "hash": "nez",
+  "links": {
+    "global": [
+      "https://www.nezavisli.cz/",
+      "https://www.facebook.com/nezavisliostrava.cz/",
+      "https://www.youtube.com/channel/UCfo7SCMrjB0apRKJoR1OP4w"
+    ],
+    "regional": [
+      {
+        "region": 12,
+        "links": [
+
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://www.facebook.com/hnutinezavisli"
+        ]
+      }
+    ]
+  }
+}

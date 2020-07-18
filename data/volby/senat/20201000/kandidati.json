@@ -1,817 +1,2274 @@
 {
-	"list": [
-    {
-      "name": ["", "Markéta", "Monsportová", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "krajská zastupitelka",
+	"list":[
+		{
+			"name":[
+				"",
+				"Markéta",
+				"Monsportová",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"krajská zastupitelka",
+			"links":[
+				{
+					"url":"https://twitter.com/MMonsportova",
+					"icon":"tw"
+				}
+			],
+			"reg":3
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Nenutil",
+				""
+			],
+			"support":[
+				7
+			],
+			"reg":3
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Plevný",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":3
+		},
+		{
+			"name":[
+				"",
+				"Zdeněk",
+				"Pištora",
+				""
+			],
+			"member":1227,
+			"nominee":1227,
+			"links":[
+
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Vladimír",
+				"Drápal",
+				""
+			],
+			"member":99,
+			"nominee":99,
+			"support":[
+				1,
+				53,
+				721,
+				40
+			],
+			"links":[
+				{
+					"url":"https://www.facebook.com/VladimirDrapalLouny/",
+					"icon":"fb"
+				}
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Jaroslav",
+				"Veselý",
+				""
+			],
+			"support":[
+				7
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Václav",
+				"Beneš",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Ivo",
+				"Trešl",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Daniel",
+				"Pitek",
+				""
+			],
+			"support":[
+				1187
+			],
+			"reg":6
+		},
+		{
+			"name":[
+				"",
+				"Daniel",
+				"Kůs",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"městský zastupitel",
+			"links":[
+
+			],
+			"reg":9
+		},
+		{
+			"reg":9,
+			"name":[
+				"",
+				"Lumír",
+				"Aschenbrenner",
+				""
+			],
+			"member":53,
+			"nominee":53,
+			"support":[
+				721,
+				1,
+				1119,
+				55
+			]
+		},
+		{
+			"name":[
+				"",
+				"Jindřich",
+				"Sitta",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":9
+		},
+		{
+			"name":[
+				"",
+				"Michal",
+				"Horák",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"městský zastupiteů",
+			"links":[
+
+			],
+			"reg":12
+		},
+		{
+			"name":[
+				"",
+				"Karel",
+				"Kratochvíle",
+				""
+			],
+			"support":[
+				7
+			],
+			"reg":12
+		},
+		{
+			"name":[
+				"",
+				"Ivana",
+				"Zelenková",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":12
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Ušatý",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":12
+		},
+		{
+			"name":[
+				"",
+				"Milan",
+				"Štěch",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"work":"místopředseda Senátu",
+			"links":[
+				{
+					"url":"https://cs.m.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch",
+					"icon":"wiki"
+				},
+				{
+					"url":"https://www.milan-stech.cz/",
+					"icon":""
+				},
+				{
+					"url":"https://www.senat.cz/senatori/index.php?par_3=15"
+				},
+				{
+					"url":"https://www.cssd.cz/nasi-lide/milan-stech/"
+				},
+				{
+					"url":"https://cs-cz.facebook.com/stechmilan/",
+					"icon":"fb"
+				},
+				{
+					"url":"https://www.hlidacstatu.cz/osoba/milan-stech",
+					"icon":"hlidac-statu"
+				}
+			],
+			"reg":15
+		},
+		{
+			"name":[
+				"",
+				"Stanislav",
+				"Mrvka",
+				""
+			],
+			"member":1229,
+			"nominee":1229,
+			"work":"starosta",
+			"links":[
+
+			],
+			"reg":15
+		},
+		{
+			"name":[
+				"",
+				"Vítězslav",
+				"Jandák",
+				""
+			],
+			"member":99,
+			"nominee":768,
+			"links":[
+
+			],
+			"reg":15
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Burian",
+				""
+			],
+			"member":53,
+			"nominee":53,
+			"work":"senátor",
+			"links":[
+
+			],
+			"reg":18
+		},
+		{
+			"name":[
+				"",
+				"Simova",
+				"Luftová",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"links":[
+
+			],
+			"reg":18
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Štěpánek",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":18
+		},
+		{
+			"name":[
+				"",
+				"Jindřich",
+				"Havelka",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":18
+		},
+		{
+			"name":[
+				"",
+				"Stanislav",
+				"Holobrada",
+				""
+			],
+			"support":[
+				7
+			],
+			"reg":18
+		},
+		{
+			"name":[
+				"",
+				"Michael",
+				"Žantovský",
+				""
+			],
+			"member":721,
+			"nominee":721,
+			"support":[
+				166,
+				53
+			],
+			"links":[
+
+			],
+			"reg":21
+		},
+		{
+			"name":[
+				"",
+				"Václav",
+				"Láska",
+				""
+			],
+			"member":99,
+			"nominee":1187,
+			"support":[
+				720,
+				5,
+				1
+			],
+			"links":[
+
+			],
+			"reg":21
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Ludvík",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"support":[
+				768
+			],
+			"links":[
+
+			],
+			"reg":21
+		},
+		{
+			"name":[
+				"",
+				"Mansoor",
+				"Maitah",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":21
+		},
+		{
+			"name":[
+				"",
+				"David",
+				"Pavlát",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"links":[
+
+			],
+			"reg":24
+		},
+		{
+			"name":[
+				"",
+				"David",
+				"Smoljak",
+				""
+			],
+			"member":99,
+			"nominee":166,
+			"support":[
+				721,
+				720
+			],
+			"work":"senátor",
+			"links":[
+
+			],
+			"reg":24
+		},
+		{
+			"name":[
+				"",
+				"Eduard",
+				"Stehlík",
+				""
+			],
+			"member":99,
+			"nominee":99,
+			"support":[
+				1,
+				53
+			],
+			"work":"historik",
+			"links":[
+
+			],
+			"reg":24
+		},
+		{
+			"name":[
+				"",
+				"Václav",
+				"Krása",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":24
+		},
+		{
+			"name":[
+				"",
+				"Robert",
+				"Veverka",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"zastupitel",
+			"links":[
+
+			],
+			"reg":27
+		},
+		{
+			"name":[
+				"",
+				"Miroslava",
+				"Němcová",
+				""
+			],
+			"member":53,
+			"nominee":53,
+			"support":[
+				721,
+				166
+			],
+			"work":"poslankyně",
+			"links":[
+				{
+					"url":"https://twitter.com/Nemcova_Mirka",
+					"icon":"tw"
+				}
+			],
+			"reg":27
+		},
+		{
+			"name":[
+				"",
+				"Václav",
+				"Hampl",
+				""
+			],
+			"member":99,
+			"nominee":99,
+			"work":"senátor",
+			"support":[
+				1,
+				5,
+				1187,
+				"Praha Sobě"
+			],
+			"links":[
+
+			],
+			"reg":27
+		},
+		{
+			"name":[
+				"",
+				"Ivo",
+				"Budil",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":27
+		},
+		{
+			"name":[
+				"",
+				"Adéla",
+				"Šípová",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"v advokátní kanceláři",
+			"links":[
+				{
+					"url":"https://twitter.com/adela_sipova",
+					"icon":"tw"
+				}
+			],
+			"reg":30
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Dienstbier",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"support":[
+				5,
+				"Budoucnost"
+			],
+			"work":"senátor",
+			"links":[
+				{
+					"url":"https://twitter.com/jiridienstbier",
+					"icon":"tw"
+				}
+			],
+			"reg":30
+		},
+		{
+			"name":[
+				"",
+				"Markéta",
+				"Fröhlichová",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":30
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Landa",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":30
+		},
+		{
+			"name":[
+				"",
+				"Miroslava",
+				"Vostrá",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":30
+		},
+		{
+			"name":[
+				"",
+				"Zbyněk",
+				"Linhart",
+				""
+			],
+			"member":99,
+			"nominee":166,
+			"work":"senátor",
+			"links":[
+				{
+					"url":"https://www.facebook.com/linhart.krasnalipa",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/zbynlinhart",
+					"icon":"tw"
+				}
+			],
+			"reg":33
+		},
+		{
+			"name":[
+				"",
+				"Zdeněk",
+				"Říha",
+				""
+			],
+			"member":1227,
+			"nominee":1227,
+			"links":[
+
+			],
+			"reg":33
+		},
+		{
+			"name":[
+				"Ing.",
+				"Vít",
+				"Vomáčka",
+				"MBA"
+			],
+			"member":53,
+			"nominee":53,
+			"work":"starosta Kravař",
+			"links":[
+
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"Ing.",
+				"Miloš",
+				"Tita",
+				""
+			],
+			"member":47,
+			"nominee":47,
+			"work":"krajský zastupitel",
+			"links":[
+
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Jeník",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"zastupitel a webový developer",
+			"links":[
+				{
+					"url":"https://twitter.com/PetrJenik",
+					"icon":"tw"
+				}
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"",
+				"Jaroslav",
+				"Křupala",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"work":"starosta",
+			"links":[
+				{
+					"url":"https://www.facebook.com/jaroslav.krupala",
+					"icon":"fb"
+				}
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Vosecký",
+				""
+			],
+			"support":[
+				166,
+				703
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"",
+				"Jaroslav",
+				"Štěrba",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":36
+		},
+		{
+			"name":[
+				"",
+				"Klára",
+				"Sovová",
+				""
+			],
+			"member":99,
+			"nominee":53,
+			"reg":39
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Sobotka",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":39
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Jarolím",
+				""
+			],
+			"support":[
+				768
+			],
+			"reg":39
+		},
+		{
+			"name":[
+				"",
+				"Markéta",
+				"Pakandlová",
+				""
+			],
+			"support":[
+				1114
+			],
+			"reg":39
+		},
+		{
+			"name":[
+				"",
+				"Cyril",
+				"Koky",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"odborný referent pro oblast národnostních menšin",
+			"links":[
+
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Martin",
+				"Škorpík",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Klinecký",
+				""
+			],
+			"support":[
+				721
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Pavel",
+				"Kárník",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Ivanka",
+				"Kohoutová",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Žantovský",
+				""
+			],
+			"support":[
+				1114
+			],
+			"reg":42
+		},
+		{
+			"name":[
+				"",
+				"Pavel",
+				"Vacek",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"městský zastupitel",
+			"links":[
+				{
+					"url":"https://twitter.com/PavelVacek_HK",
+					"icon":"tw"
+				}
+			],
+			"reg":45
+		},
+		{
+			"name":[
+				"JUDr.",
+				"Jan",
+				"Holásek",
+				"LL.M."
+			],
+			"member":99,
+			"nominee":99,
+			"work":"právník a zastupitel",
+			"links":[
+				{
+					"url":"https://www.facebook.com/JHolasek/",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/honzaholasek",
+					"icon":"tw"
+				}
+			],
+			"reg":45,
+			"support":[
+				1049,
+				1187,
+				721,
+				795
+			]
+		},
+		{
+			"reg":45,
+			"name":[
+				"",
+				"Jaroslav",
+				"Malý",
+				""
+			],
+			"member":99
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Čáp",
+				""
+			],
+			"support":[
+				1
+			],
+			"reg":45
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Mašek",
+				""
+			],
+			"support":[
+				768
+			],
+			"reg":45
+		},
+		{
+			"name":[
+				"",
+				"Lubomír",
+				"Štěpán",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":45
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Brábník",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":45
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Antl",
+				""
+			],
+			"support":[
+
+			],
+			"reg":48
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Grulich",
+				""
+			],
+			"support":[
+				721
+			],
+			"reg":48
+		},
+		{
+			"name":[
+				"",
+				"Josef",
+				"Lukášek",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":48
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Matoušek",
+				""
+			],
+			"support":[
+				1227
+			],
+			"reg":48
+		},
+		{
+			"name":[
+				"",
+				"Jana",
+				"Drejslová",
+				""
+			],
 			"links": [
-				{"url": "https://twitter.com/MMonsportova", "icon": "tw"}
+				{"url":"http://www.drejslova.cz/"},
+				{"url":"https://www.facebook.com/janadosenatu/","icon":"fb"}
 			],
-      "reg": 3
-    },
-    {
-      "name": ["", "Zdeněk", "Pištora", ""],
-      "member": 1227,
-      "nominee": 1227,
-      "links": [],
-      "reg": 6
-    },
-    {
-      "name": ["", "Vladimír", "Drápal", ""],
-      "member": 99,
-      "nominee": 99,
-			"support": [1, 53, 721, 40],
-			"links": [
-				{"url": "https://www.facebook.com/VladimirDrapalLouny/", "icon": "fb"}
+			"reg":48
+		},
+		{
+			"name":[
+				"",
+				"Michal",
+				"Šmarda",
+				""
 			],
-      "reg": 6
-    },
-    {
-      "name": ["", "Daniel", "Kůs", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "městský zastupitel",
-      "links": [],
-      "reg": 9
-    },
-		{
-			"reg": 9,
-			"name": ["", "Lumír", "Aschenbrenner", ""],
-			"member": 53,
-			"nominee": 53,
-			"support": [721, 1, 1119, 55]
-		},
-    {
-      "name": ["", "Michal", "Horák", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "městský zastupiteů",
-      "links": [],
-      "reg": 12
-    },
-    {
-      "name": ["", "Milan", "Štěch", ""],
-      "member": 7,
-      "nominee": 7,
-      "work": "místopředseda Senátu",
-      "links": [
-				{"url": "https://cs.m.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch", "icon": "wiki"},
-				{"url": "https://www.milan-stech.cz/", "icon": ""},
-				{"url": "https://www.senat.cz/senatori/index.php?par_3=15"},
-				{"url": "https://www.cssd.cz/nasi-lide/milan-stech/"},
-				{"url": "https://cs-cz.facebook.com/stechmilan/", "icon": "fb"},
-				{"url": "https://www.hlidacstatu.cz/osoba/milan-stech", "icon": "hlidac-statu"}
+			"member":7,
+			"nominee":7,
+			"support":[
+				5,
+				"Budoucnost"
 			],
-      "reg": 15
-    },
-    {
-      "name": ["", "Stanislav", "Mrvka", ""],
-      "member": 1229,
-      "nominee": 1229,
-      "work": "starosta",
-      "links": [],
-      "reg": 15
-    },
-    {
-      "name": ["", "Vítězslav", "Jandák", ""],
-      "member": 99,
-      "nominee": 768,
-      "links": [],
-      "reg": 15
-    },
-    {
-      "name": ["", "Jiří", "Burian", ""],
-      "member": 53,
-      "nominee": 53,
-      "work": "senátor",
-      "links": [],
-      "reg": 18
-		},
-    {
-      "name": ["", "Michael", "Žantovský", ""],
-      "member": 721,
-      "nominee": 721,
-			"support": [166, 53],
-      "links": [],
-      "reg": 21,
-			"status": "nepotvrzeno"
-    },
-    {
-      "name": ["", "Václav", "Láska", ""],
-      "member": 99,
-      "nominee": 1187,
-			"support": [720, 5, 1],
-      "links": [],
-      "reg": 21
-    },
-    {
-      "name": ["", "Miroslav", "Ludvík", ""],
-      "member": 7,
-      "nominee": 7,
-			"support": [768],
-      "links": [],
-      "reg": 21
-    },
-    {
-      "name": ["", "David", "Pavlát", ""],
-      "member": 7,
-      "nominee": 7,
-      "links": [],
-      "reg": 24
-    },
-    {
-      "name": ["", "David", "Smoljak", ""],
-      "member": 99,
-      "nominee": 166,
-			"support": [721],
-			"work": "senátor",
-      "links": [],
-      "reg": 24
-    },
-    {
-      "name": ["", "Eduard", "Stehlík", ""],
-      "member": 99,
-      "nominee": 99,
-			"support": [1, 53],
-			"work": "historik",
-      "links": [],
-      "reg": 24
-    },
-    {
-      "name": ["", "Robert", "Veverka", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "zastupitel",
-      "links": [],
-      "reg": 27
-    },
-    {
-      "name": ["", "Miroslava", "Němcová", ""],
-      "member": 53,
-      "nominee": 53,
-			"support": [721],
-      "work": "poslankyně",
-      "links": [
-				{"url": "https://twitter.com/Nemcova_Mirka", "icon": "tw"}
+			"work":"starosta Nového Města na Moravě",
+			"links":[
+				{
+					"url":"https://twitter.com/MichalSmarda",
+					"icon":"tw"
+				}
 			],
-      "reg": 27
-    },
-    {
-      "name": ["", "Václav", "Hampl", ""],
-      "member": 99,
-      "nominee": 99,
-      "work": "senátor",
-			"support": [1, 5, 1187, "Praha Sobě"],
-      "links": [],
-      "reg": 27
-    },
-    {
-      "name": ["", "Adéla", "Šípová", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "v advokátní kanceláři",
-			"links": [
-				{"url": "https://twitter.com/adela_sipova", "icon": "tw"}
+			"reg":51
+		},
+		{
+			"name":[
+				"",
+				"Josef",
+				"Klement",
+				""
 			],
-      "reg": 30
-    },
-    {
-      "name": ["", "Jiří", "Dienstbier", ""],
-      "member": 7,
-      "nominee": 7,
-			"support": [5, "Budoucnost"],
-      "work": "senátor",
-      "links": [
-				{"url": "https://twitter.com/jiridienstbier", "icon": "tw"}
+			"support":[
+				1
 			],
-      "reg": 30
+			"reg":51
 		},
-    {
-      "name": ["", "Zbyněk", "Linhart", ""],
-      "member": 99,
-      "nominee": 166,
-      "work": "senátor",
-      "links": [
-				{"url": "https://www.facebook.com/linhart.krasnalipa", "icon": "fb"},
-				{"url": "https://twitter.com/zbynlinhart", "icon": "tw"}
+		{
+			"name":[
+				"",
+				"Pavel",
+				"Kováčik",
+				""
 			],
-      "reg": 33
-		},
-    {
-      "name": ["", "Zdeněk", "Říha", ""],
-      "member": 1227,
-      "nominee": 1227,
-      "links": [],
-      "reg": 33
-		},
-		{
-			"name": ["Ing.", "Vít", "Vomáčka", "MBA"],
-			"member": 53,
-			"nominee": 53,
-			"work": "starosta Kravař",
-			"links": [],
-      "reg": 36
-		},
-		{
-			"name": ["Ing.", "Miloš", "Tita", ""],
-			"member": 47,
-			"nominee": 47,
-			"work": "krajský zastupitel",
-			"links": [],
-      "reg": 36
-		},
-    {
-      "name": ["", "Petr", "Jeník", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "zastupitel a webový developer",
-			"links": [
-				{"url": "https://twitter.com/PetrJenik", "icon": "tw"}
+			"member":47,
+			"nominee":47,
+			"links":[
+
 			],
-      "reg": 36
-    },
-    {
-      "name": ["", "Jaroslav", "Křupala", ""],
-      "member": 7,
-      "nominee": 7,
-			"work": "starosta",
-			"links": [
-				{"url": "https://www.facebook.com/jaroslav.krupala", "icon": "fb"}
+			"reg":54
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Třetina",
+				""
 			],
-      "reg": 36
-    },
-    {
-      "name": ["", "Cyril", "Koky", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "odborný referent pro oblast národnostních menšin",
-      "links": [],
-      "reg": 42
-    },
-    {
-      "name": ["", "Pavel", "Vacek", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "městský zastupitel",
-			"links": [
-				{"url": "https://twitter.com/PavelVacek_HK", "icon": "tw"}
+			"member":721,
+			"nominee":721,
+			"support":[
+				53,
+				166,
+				720,
+				1,
+				1220
 			],
-      "reg": 45
-    },
-    {
-      "name": ["JUDr.", "Jan", "Holásek", "LL.M."],
-      "member": 99,
-      "nominee": 99,
-			"work": "právník a zastupitel",
-			"links": [
-				{"url": "https://www.facebook.com/JHolasek/", "icon": "fb"},
-				{"url": "https://twitter.com/honzaholasek", "icon": "tw"}
+			"links":[
+
 			],
-      "reg": 45,
-			"support": [1049, 1187, 721, 795]
-    },
-		{
-			"reg": 45,
-			"name": ["", "Jaroslav", "Malý", ""],
-			"member": 99
+			"reg":54
 		},
-    {
-      "name": ["", "Michal", "Šmarda", ""],
-      "member": 7,
-      "nominee": 7,
-			"support": [5, "Budoucnost"],
-      "work": "starosta Nového Města na Moravě",
-      "links": [
-				{"url": "https://twitter.com/MichalSmarda", "icon": "tw"}
+		{
+			"name":[
+				"",
+				"Vladimír",
+				"Železný",
+				""
 			],
-      "reg": 51
-    },
-		{
-			"name": ["", "Pavel", "Kováčik", ""],
-			"member": 47,
-			"nominee": 47,
-			"links": [],
-      "reg": 54
+			"member":1227,
+			"nominee":1227,
+			"reg":54
 		},
 		{
-			"name": ["", "Tomáš", "Třetina", ""],
-			"member": 721,
-			"nominee": 721,
-			"support": [53, 166, 720, 1, 1220],
-			"links": [],
-      "reg": 54
-		},
-		{
-			"name": ["", "Jaroslav", "Klaška", ""],
-			"member": 1,
-			"nominee": 1,
-			"support": [53, 721],
-			"links": [],
-      "reg": 57
-		},
-		{
-			"name": ["", "Jaroslav", "Petr", ""],
-			"nominee": 47,
-			"links": [],
-      "reg": 60
-		},
-    {
-      "name": ["", "Jiří", "Kadeřávek", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "programátor a manažer",
-			"links": [
-				{"url": "https://twitter.com/Jiri_Kaderavek", "icon": "tw"}
+			"name":[
+				"",
+				"Jan",
+				"Grois",
+				""
 			],
-      "reg": 60
-    },
-		{
-			"name": ["", "Lukáš", "Berta", ""],
-			"member": 99,
-			"nominee": 99,
-			"support": [1184],
-			"work": "autor, blogger a webový filozof na volné noze",
-			"links": [
-				{"url": "https://lukasberta.cz/o-me.htm"},
-				{"url": "https://www.facebook.com/vlastovka.blog", "icon": "fb"},
-				{"url": "https://twitter.com/lukasberta79", "icon": "tw"},
-				{"url": "https://www.instagram.com/lukasberta79/", "icon": "tw"},
-				{"url": "https://www.youtube.com/playlist?list=PLEKJ-6GyOMhIaLYNwMGCLCwIuyCQGvcwH", "icon": "yt"}
+			"support":[
+				7
 			],
-      "reg": 60,
-			"program": "https://lukasberta.cz/program.htm"
+			"reg":54
 		},
 		{
-			"name": ["", "Roman", "Kraus", ""],
-			"nominee": 53,
-			"support": [721],
-			"links": [],
-      "reg": 60
-		},
-		{
-			"name": ["", "Jiří", "Lajtoch", ""],
-			"nominee": 7,
-			"member": 7,
-			"links": [],
-      "reg": 63
-		},
-		{
-			"name": ["", "Jitka", "Seitlová", ""],
-			"nominee": 1,
-			"member": 1,
-			"support": [5, 721, 166],
-			"work": "senátorka",
-			"links": [
-				{"url": "https://facebook.com/jitka.seitlova", "icon": "fb"}
+			"name":[
+				"",
+				"Růžena",
+				"Šalomonová",
+				""
 			],
-      "reg": 63
-		},
-		{
-			"name": ["", "Pavel", "Ondrůj", ""],
-			"nominee": 720,
-			"member": 720,
-			"work": "manažer kultury Městského domu v Přerově",
-			"links": [
-				{"url": "https://twitter.com/OndrujPavel", "icon": "tw"}
+			"support":[
+				1114
 			],
-      "reg": 63
+			"reg":54
 		},
 		{
-			"name": ["", "Miroslav", "Raindl", ""],
-			"nominee": 47,
-			"member": 47,
-			"links": [],
-      "reg": 63
-		},
-		{
-			"name": ["", "Tomáš", "Kocourek", ""],
-			"nominee": 53,
-			"member": 53,
-			"work": "zastupitel",
-			"links": [],
-      "reg": 63
-		},
-		{
-			"name": ["", "Jaroslav", "Vomáčka", ""],
-			"nominee": 7,
-			"member": 7,
-			"links": [],
-      "reg": 66
-		},
-		{
-			"name": ["", "Marek", "Ošťádal", ""],
-			"nominee": 166,
-			"member": 166,
-			"work": "starosta",
-			"links": [],
-      "reg": 66
-		},
-		{
-			"name": ["", "František", "John", ""],
-			"nominee": 1,
-			"member": 1,
-			"work": "starosta",
-			"links": [
-				{"url": "https://twitter.com/johnyfrantisek", "icon": "tw"}
+			"name":[
+				"",
+				"Martin",
+				"Pavlík",
+				""
 			],
-      "reg": 66
-		},
-		{
-			"name": ["", "Zdeněk", "Žák", ""],
-			"nominee": 720,
-			"member": 720,
-			"work": "bankovní specialista",
-			"links": [
-				{"url": "https://twitter.com/PiratZdenekZak", "icon": "tw"}
+			"support":[
+				768
 			],
-      "reg": 66
-		},
-    {
-      "name": ["", "Jiří", "Carbol", ""],
-      "member": 1,
-      "nominee": 1,
-			"work": "senátor",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Karel", "Deutscher", ""],
-      "member": 7,
-      "nominee": 7,
-			"work": "náměstek primátora",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Helena", "Pešatová", ""],
-      "member": 166,
-      "nominee": 166,
-			"work": "starostka",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Radim", "Mamula", ""],
-      "member": 768,
-      "nominee": 768,
-			"work": "vedoucí provozu",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Daniel", "Pawlas", ""],
-      "member": 47,
-      "nominee": 47,
-			"work": "poslanec",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Jaroslav", "Matýs", ""],
-      "member": 99,
-      "nominee": 1227,
-			"work": "dětský a dorostový psychiatr",
-      "links": [],
-      "reg": 69
-    },
-    {
-      "name": ["", "Martin", "Tomášek", ""],
-      "member": 720,
-      "nominee": 720,
-			"work": "místostarosta",
-      "links": [],
-      "reg": 72
-    },
-    {
-      "name": ["", "Zdeňka", "Jiřička", ""],
-      "member": 768,
-      "nominee": 768,
-			"work": "ředitel Psychiatrické nemocnice",
-      "links": [],
-      "reg": 72
-    },
-    {
-      "name": ["", "Petr", "Gajdáček", ""],
-      "member": 47,
-      "nominee": 47,
-			"work": "zastupitel",
-      "links": [],
-      "reg": 72
-    },
-    {
-      "name": ["", "Rostislav", "Gromnica", ""],
-      "member": 166,
-      "nominee": 166,
-			"work": "vedoucí lékař",
-      "links": [],
-      "reg": 72
-    },
-    {
-      "name": ["", "Radim", "Smetana", ""],
-      "member": 99,
-      "nominee": 99,
-			"work": "starosta",
-      "links": [],
-      "reg": 72
-    },
-    {
-      "name": ["", "Andrea", "Wlochová", ""],
-      "member": 99,
-      "nominee": 1227,
-			"work": "vedoucí katedry jazyků",
-      "links": [],
-      "reg": 72
-    },
-		{
-			"name": ["", "Radim", "Kravčík", ""],
-			"member": 720,
-			"nominee": 720,
-			"links": [],
-      "reg": 75
+			"reg":54
 		},
 		{
-			"name": ["", "Radek", "Sušil", ""],
-			"member": 7,
-			"nominee": 7,
-			"work": "senátor",
-			"links": [],
-      "reg": 75
-		},
-		{
-			"name": ["", "Ondřej", "Feber", ""],
-			"member": 768,
-			"nominee": 768,
-			"work": "starosta",
-			"links": [],
-      "reg": 75
-		},
-		{
-			"name": ["", "Zdena", "Černínová", ""],
-			"member": 47,
-			"nominee": 47,
-			"work": "vedoucí karvinské pohřební služby",
-			"links": [],
-      "reg": 75
-		},
-		{
-			"name": ["", "Daniel", "Placzek", ""],
-      "member": 99,
-      "nominee": 1227,
-			"links": [],
-      "reg": 75
-		},
-		{
-			"name": ["", "Petr", "Michálek", ""],
-      "member": 99,
-      "nominee": 166,
-			"work": "ředitel divadla",
-			"links": [
-				{"url": "http://michalekdosenatu.cz/"},
-				{"url": "https://petrmichalek.blog/"},
-				{"url": "https://www.facebook.com/Michalek.zlin/", "icon": "fb"}
+			"name":[
+				"",
+				"Jaroslav",
+				"Klaška",
+				""
 			],
-      "reg": 78
+			"member":1,
+			"nominee":1,
+			"support":[
+				53,
+				721
+			],
+			"links":[
+
+			],
+			"reg":57
 		},
 		{
-			"name": ["", "Michaela", "Blahová", ""],
-      "member": 1,
-      "nominee": 1,
-      "links": [],
-			"work": "radní Zlínského kraje",
-      "reg": 78
+			"name":[
+				"",
+				"Ivo",
+				"Bárek",
+				""
+			],
+			"support":[
+				7
+			],
+			"reg":57
 		},
 		{
-			"name": ["", "Petr", "Sládek", ""],
-			"member": 99,
-			"nominee": 53,
-			"work": "ředitel nemocnice",
-			"links": [],
-      "reg": 81
+			"name":[
+				"",
+				"Karel",
+				"Zitterbart",
+				""
+			],
+			"support":[
+				166
+			],
+			"reg":57
 		},
 		{
-			"name": ["", "Josef", "Bazala", ""],
-			"member": 1,
-			"nominee": 1,
-			"work": "starosta",
-			"links": [],
-      "reg": 81
+			"name":[
+				"",
+				"Lubomír",
+				"Wenzl",
+				""
+			],
+			"support":[
+				768
+			],
+			"reg":57
 		},
 		{
-			"name": ["", "Antonín", "Seďa", ""],
-			"member": 7,
-			"nominee": 7,
-			"links": [],
-      "reg": 81
+			"name":[
+				"",
+				"Jaroslav",
+				"Petr",
+				""
+			],
+			"nominee":47,
+			"links":[
+
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Kadeřávek",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"programátor a manažer",
+			"links":[
+				{
+					"url":"https://twitter.com/Jiri_Kaderavek",
+					"icon":"tw"
+				}
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Lukáš",
+				"Berta",
+				""
+			],
+			"member":99,
+			"nominee":99,
+			"support":[
+				1184
+			],
+			"work":"autor, blogger a webový filozof na volné noze",
+			"links":[
+				{
+					"url":"https://lukasberta.cz/o-me.htm"
+				},
+				{
+					"url":"https://www.facebook.com/vlastovka.blog",
+					"icon":"fb"
+				},
+				{
+					"url":"https://twitter.com/lukasberta79",
+					"icon":"tw"
+				},
+				{
+					"url":"https://www.instagram.com/lukasberta79/",
+					"icon":"tw"
+				},
+				{
+					"url":"https://www.youtube.com/playlist?list=PLEKJ-6GyOMhIaLYNwMGCLCwIuyCQGvcwH",
+					"icon":"yt"
+				}
+			],
+			"reg":60,
+			"program":"https://lukasberta.cz/program.htm"
+		},
+		{
+			"name":[
+				"",
+				"Roman",
+				"Kraus",
+				""
+			],
+			"nominee":53,
+			"support":[
+				721
+			],
+			"links":[
+
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Tomáš",
+				""
+			],
+			"support":[
+				1
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Karel",
+				"Rais",
+				""
+			],
+			"support":[
+				768
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Anderle",
+				""
+			],
+			"support":[
+				1114
+			],
+			"reg":60
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Lajtoch",
+				""
+			],
+			"nominee":7,
+			"member":7,
+			"links":[
+
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Jitka",
+				"Seitlová",
+				""
+			],
+			"nominee":1,
+			"member":1,
+			"support":[
+				5,
+				721,
+				166
+			],
+			"work":"senátorka",
+			"links":[
+				{
+					"url":"https://facebook.com/jitka.seitlova",
+					"icon":"fb"
+				}
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Pavel",
+				"Ondrůj",
+				""
+			],
+			"nominee":720,
+			"member":720,
+			"work":"manažer kultury Městského domu v Přerově",
+			"links":[
+				{
+					"url":"https://twitter.com/OndrujPavel",
+					"icon":"tw"
+				}
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Miroslav",
+				"Raindl",
+				""
+			],
+			"nominee":47,
+			"member":47,
+			"links":[
+
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Kocourek",
+				""
+			],
+			"nominee":53,
+			"member":53,
+			"work":"zastupitel",
+			"links":[
+
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Vrána",
+				""
+			],
+			"nominee":768,
+			"member":768,
+			"work":"poslanec",
+			"links":[
+
+			],
+			"reg":63
+		},
+		{
+			"name":[
+				"",
+				"Jaroslav",
+				"Vomáčka",
+				""
+			],
+			"nominee":7,
+			"member":7,
+			"links":[
+
+			],
+			"reg":66
+		},
+		{
+			"name":[
+				"",
+				"Marek",
+				"Ošťádal",
+				""
+			],
+			"nominee":166,
+			"member":166,
+			"work":"starosta",
+			"links":[
+
+			],
+			"reg":66
+		},
+		{
+			"name":[
+				"",
+				"František",
+				"John",
+				""
+			],
+			"nominee":1,
+			"member":1,
+			"work":"starosta",
+			"links":[
+				{
+					"url":"https://twitter.com/johnyfrantisek",
+					"icon":"tw"
+				}
+			],
+			"reg":66
+		},
+		{
+			"name":[
+				"",
+				"Zdeněk",
+				"Žák",
+				""
+			],
+			"nominee":720,
+			"member":720,
+			"work":"bankovní specialista",
+			"links":[
+				{
+					"url":"https://twitter.com/PiratZdenekZak",
+					"icon":"tw"
+				}
+			],
+			"reg":66
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Zahradníček",
+				""
+			],
+			"support":[
+				768
+			],
+			"reg":66
+		},
+		{
+			"name":[
+				"",
+				"Jiří",
+				"Carbol",
+				""
+			],
+			"member":1,
+			"nominee":1,
+			"work":"senátor",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Karel",
+				"Deutscher",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"work":"náměstek primátora",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Helena",
+				"Pešatová",
+				""
+			],
+			"member":166,
+			"nominee":166,
+			"work":"starostka",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Radim",
+				"Mamula",
+				""
+			],
+			"member":768,
+			"nominee":768,
+			"work":"vedoucí provozu",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Daniel",
+				"Pawlas",
+				""
+			],
+			"member":47,
+			"nominee":47,
+			"work":"poslanec",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Jaroslav",
+				"Matýs",
+				""
+			],
+			"member":99,
+			"nominee":1227,
+			"work":"dětský a dorostový psychiatr",
+			"links":[
+
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Radim",
+				"Bača",
+				""
+			],
+			"support":[
+				721
+			],
+			"reg":69
+		},
+		{
+			"name":[
+				"",
+				"Martin",
+				"Tomášek",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"work":"místostarosta",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Zdeněk",
+				"Jiřiček",
+				""
+			],
+			"member":768,
+			"nominee":768,
+			"work":"ředitel Psychiatrické nemocnice",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Gajdáček",
+				""
+			],
+			"member":47,
+			"nominee":47,
+			"work":"zastupitel",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Rostislav",
+				"Gromnica",
+				""
+			],
+			"member":166,
+			"nominee":166,
+			"work":"vedoucí lékař",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Radim",
+				"Smetana",
+				""
+			],
+			"member":99,
+			"nominee":99,
+			"work":"starosta",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Andrea",
+				"Wlochová",
+				""
+			],
+			"member":99,
+			"nominee":1227,
+			"work":"vedoucí katedry jazyků",
+			"links":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Peter",
+				"Koliba",
+				""
+			],
+			"support":[
+
+			],
+			"reg":72
+		},
+		{
+			"name":[
+				"",
+				"Radim",
+				"Kravčík",
+				""
+			],
+			"member":720,
+			"nominee":720,
+			"links":[
+
+			],
+			"reg":75
+		},
+		{
+			"name":[
+				"",
+				"Radek",
+				"Sušil",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"work":"senátor",
+			"links":[
+
+			],
+			"reg":75
+		},
+		{
+			"name":[
+				"",
+				"Ondřej",
+				"Feber",
+				""
+			],
+			"member":768,
+			"nominee":768,
+			"work":"starosta",
+			"links":[
+
+			],
+			"reg":75
+		},
+		{
+			"name":[
+				"",
+				"Zdena",
+				"Černínová",
+				""
+			],
+			"member":47,
+			"nominee":47,
+			"work":"vedoucí karvinské pohřební služby",
+			"links":[
+
+			],
+			"reg":75
+		},
+		{
+			"name":[
+				"",
+				"Daniel",
+				"Placzek",
+				""
+			],
+			"member":99,
+			"nominee":1227,
+			"links":[
+
+			],
+			"reg":75
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Michálek",
+				""
+			],
+			"member":99,
+			"nominee":166,
+			"work":"ředitel divadla",
+			"links":[
+				{
+					"url":"http://michalekdosenatu.cz/"
+				},
+				{
+					"url":"https://petrmichalek.blog/"
+				},
+				{
+					"url":"https://www.facebook.com/Michalek.zlin/",
+					"icon":"fb"
+				}
+			],
+			"reg":78
+		},
+		{
+			"name":[
+				"",
+				"Michaela",
+				"Blahová",
+				""
+			],
+			"member":1,
+			"nominee":1,
+			"links":[
+
+			],
+			"work":"radní Zlínského kraje",
+			"reg":78
+		},
+		{
+			"name":[
+				"",
+				"Jan",
+				"Doleček",
+				""
+			],
+			"support":[
+				47
+			],
+			"reg":78
+		},
+		{
+			"name":[
+				"",
+				"Tomáš",
+				"Goláň",
+				""
+			],
+			"support":[
+				1187
+			],
+			"reg":78
+		},
+		{
+			"name":[
+				"",
+				"Petr",
+				"Sládek",
+				""
+			],
+			"member":99,
+			"nominee":53,
+			"work":"ředitel nemocnice",
+			"links":[
+
+			],
+			"reg":81
+		},
+		{
+			"name":[
+				"",
+				"Josef",
+				"Bazala",
+				""
+			],
+			"member":1,
+			"nominee":1,
+			"work":"starosta",
+			"support":[
+				721,
+				166
+			],
+			"links":[
+
+			],
+			"reg":81
+		},
+		{
+			"name":[
+				"",
+				"Ivo",
+				"Valenta",
+				""
+			],
+			"support":[
+				716
+			],
+			"reg":81
+		},
+		{
+			"name":[
+				"",
+				"Antonín",
+				"Seďa",
+				""
+			],
+			"member":7,
+			"nominee":7,
+			"links":[
+
+			],
+			"reg":81
 		}
 	],
-	"current": [
+	"current":[
 		{
-			"reg": 3,
-			"name": ["", "Miroslav", "Nenutil", ""],
-			"member": 7,
-			"club": 7,
-			"id": 211
+			"reg":3,
+			"name":[
+				"",
+				"Miroslav",
+				"Nenutil",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":211
 		},
 		{
-			"reg": 6,
-			"name": ["", "Zdeňka", "Hamousová", ""],
-			"member": 99,
-			"club": 768,
-			"id": 274
+			"reg":6,
+			"name":[
+				"",
+				"Zdeňka",
+				"Hamousová",
+				""
+			],
+			"member":99,
+			"club":768,
+			"id":274
 		},
 		{
-			"reg": 9,
-			"name": ["", "Lumír", "Aschenbrenner", ""],
-			"member": 53,
-			"club": 53,
-			"id": 275
+			"reg":9,
+			"name":[
+				"",
+				"Lumír",
+				"Aschenbrenner",
+				""
+			],
+			"member":53,
+			"club":53,
+			"id":275
 		},
 		{
-			"reg": 12,
-			"name": ["", "Karel", "Kratochvíle", ""],
-			"member": 7,
-			"club": 7,
-			"id": 276
+			"reg":12,
+			"name":[
+				"",
+				"Karel",
+				"Kratochvíle",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":276
 		},
 		{
-			"reg": 15,
-			"name": ["", "Milan", "Štěch", ""],
-			"member": 7,
-			"club": 7,
-			"id": 15,
-			"again": true
+			"reg":15,
+			"name":[
+				"",
+				"Milan",
+				"Štěch",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":15,
+			"again":true
 		},
 		{
-			"reg": 18,
-			"name": ["", "Jiří", "Burian", ""],
-			"member": 53,
-			"club": 53,
-			"id": 277,
-			"again": true
+			"reg":18,
+			"name":[
+				"",
+				"Jiří",
+				"Burian",
+				""
+			],
+			"member":53,
+			"club":53,
+			"id":277,
+			"again":true
 		},
 		{
-			"reg": 21,
-			"name": ["", "Václav", "Láska", ""],
-			"member": 99,
-			"club": 1187,
-			"id": 278,
-			"again": true
+			"reg":21,
+			"name":[
+				"",
+				"Václav",
+				"Láska",
+				""
+			],
+			"member":99,
+			"club":1187,
+			"id":278,
+			"again":true
 		},
 		{
-			"reg": 24,
-			"name": ["", "David", "Smoljak", ""],
-			"member": 99,
-			"club": 166,
-			"id": 334
+			"reg":24,
+			"name":[
+				"",
+				"David",
+				"Smoljak",
+				""
+			],
+			"member":99,
+			"club":166,
+			"id":334
 		},
 		{
-			"reg": 27,
-			"name": ["", "Václav", "Hampl", ""],
-			"member": 99,
-			"club": 1,
-			"id": 280,
-			"again": true
+			"reg":27,
+			"name":[
+				"",
+				"Václav",
+				"Hampl",
+				""
+			],
+			"member":99,
+			"club":1,
+			"id":280,
+			"again":true
 		},
 		{
-			"reg": 30,
-			"name": ["", "Jiří", "Dienstbier", ""],
-			"member": 7,
-			"club": 7,
-			"id": 253,
-			"again": true
+			"reg":30,
+			"name":[
+				"",
+				"Jiří",
+				"Dienstbier",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":253,
+			"again":true
 		},
 		{
-			"reg": 33,
-			"name": ["", "Zbyněk", "Linhart", ""],
-			"member": 99,
-			"club": 166,
-			"id": 281,
-			"again": true
+			"reg":33,
+			"name":[
+				"",
+				"Zbyněk",
+				"Linhart",
+				""
+			],
+			"member":99,
+			"club":166,
+			"id":281,
+			"again":true
 		},
 		{
-			"reg": 36,
-			"name": ["", "Jiří", "Vosecký", ""],
-			"member": 703,
-			"club": 166,
-			"id": 282
+			"reg":36,
+			"name":[
+				"",
+				"Jiří",
+				"Vosecký",
+				""
+			],
+			"member":703,
+			"club":166,
+			"id":282
 		},
 		{
-			"reg": 39,
-			"name": ["", "Jan", "Sobotka", ""],
-			"member": 99,
-			"club": 166,
-			"id": 311
+			"reg":39,
+			"name":[
+				"",
+				"Jan",
+				"Sobotka",
+				""
+			],
+			"member":99,
+			"club":166,
+			"id":311
 		},
 		{
-			"reg": 42,
-			"name": ["", "Emilie", "Třísková", ""],
-			"member": 99,
-			"club": 7,
-			"id": 284
+			"reg":42,
+			"name":[
+				"",
+				"Emilie",
+				"Třísková",
+				""
+			],
+			"member":99,
+			"club":7,
+			"id":284
 		},
 		{
-			"reg": 45,
-			"name": ["", "Jaroslav", "Malý", ""],
-			"member": 99,
-			"club": 7,
-			"id": 285
+			"reg":45,
+			"name":[
+				"",
+				"Jaroslav",
+				"Malý",
+				""
+			],
+			"member":99,
+			"club":7,
+			"id":285
 		},
 		{
-			"reg": 48,
-			"name": ["", "Miroslav", "Antl", ""],
-			"member": 99,
-			"club": 7,
-			"id": 224
+			"reg":48,
+			"name":[
+				"",
+				"Miroslav",
+				"Antl",
+				""
+			],
+			"member":99,
+			"club":7,
+			"id":224
 		},
 		{
-			"reg": 51,
-			"name": ["", "František", "Bradáč", ""],
-			"member": 1,
-			"club": 1,
-			"id": 286
+			"reg":51,
+			"name":[
+				"",
+				"František",
+				"Bradáč",
+				""
+			],
+			"member":1,
+			"club":1,
+			"id":286
 		},
 		{
-			"reg": 54,
-			"name": ["", "Pavel", "Štohl", ""],
-			"member": 99,
-			"club": 7,
-			"id": 287
+			"reg":54,
+			"name":[
+				"",
+				"Pavel",
+				"Štohl",
+				""
+			],
+			"member":99,
+			"club":7,
+			"id":287
 		},
 		{
-			"reg": 57,
-			"name": ["", "Ivo", "Bárek", ""],
-			"member": 7,
-			"club": 7,
-			"id": 139
+			"reg":57,
+			"name":[
+				"",
+				"Ivo",
+				"Bárek",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":139
 		},
 		{
-			"reg": 60,
-			"name": ["", "Zdeněk", "Papoušek", ""],
-			"member": 99,
-			"club": 1,
-			"id": 288
+			"reg":60,
+			"name":[
+				"",
+				"Zdeněk",
+				"Papoušek",
+				""
+			],
+			"member":99,
+			"club":1,
+			"id":288
 		},
 		{
-			"reg": 63,
-			"name": ["", "Jitka", "Seitlová", ""],
-			"member": 1,
-			"club": 1,
-			"id": 63,
-			"again": true
+			"reg":63,
+			"name":[
+				"",
+				"Jitka",
+				"Seitlová",
+				""
+			],
+			"member":1,
+			"club":1,
+			"id":63,
+			"again":true
 		},
 		{
-			"reg": 66,
-			"name": ["", "Alena", "Šromová", ""],
-			"member": 1,
-			"club": 1,
-			"id": 289
+			"reg":66,
+			"name":[
+				"",
+				"Alena",
+				"Šromová",
+				""
+			],
+			"member":1,
+			"club":1,
+			"id":289
 		},
 		{
-			"reg": 69,
-			"name": ["", "Jiří", "Carbol", ""],
-			"member": 1,
-			"club": 1,
-			"id": 290,
-			"again": true
+			"reg":69,
+			"name":[
+				"",
+				"Jiří",
+				"Carbol",
+				""
+			],
+			"member":1,
+			"club":1,
+			"id":290,
+			"again":true
 		},
 		{
-			"reg": 72,
-			"name": ["", "Peter", "Koliba", ""],
-			"member": 99,
-			"club": 768,
-			"id": 291
+			"reg":72,
+			"name":[
+				"",
+				"Peter",
+				"Koliba",
+				""
+			],
+			"member":99,
+			"club":768,
+			"id":291
 		},
 		{
-			"reg": 75,
-			"name": ["", "Radek", "Sušil", ""],
-			"member": 7,
-			"club": 7,
-			"id": 231,
-			"again": true
+			"reg":75,
+			"name":[
+				"",
+				"Radek",
+				"Sušil",
+				""
+			],
+			"member":7,
+			"club":7,
+			"id":231,
+			"again":true
 		},
 		{
-			"reg": 78,
-			"name": ["", "Tomáš", "Goláň", ""],
-			"member": 99,
-			"club": 1187,
-			"id": 312
+			"reg":78,
+			"name":[
+				"",
+				"Tomáš",
+				"Goláň",
+				""
+			],
+			"member":99,
+			"club":1187,
+			"id":312
 		},
 		{
-			"reg": 81,
-			"name": ["", "Ivo", "Valenta", ""],
-			"member": 99,
-			"club": 53,
-			"id": 293,
-			"again": true
+			"reg":81,
+			"name":[
+				"",
+				"Ivo",
+				"Valenta",
+				""
+			],
+			"member":99,
+			"club":53,
+			"id":293,
+			"again":true
 		}
 	],
-	"clubs": [
-		{"reg": 1, "name": "Senátorský klub KDU-ČSL a nezávislí"},
-		{"reg": 7, "name": "Senátorský klub České strany sociálně demokratické"},
-		{"reg": 53, "name": "Senátorský klub Občanské demokratické strany"},
-		{"reg": 166, "name": "Klub Starostové a nezávislí"},
-		{"reg": 768, "name": "Senátorský klub ANO"},
-		{"reg": 1187, "name": "Klub pro liberální demokracii - SENÁTOR 21"}
+	"clubs":[
+		{
+			"reg":1,
+			"name":"Senátorský klub KDU-ČSL a nezávislí"
+		},
+		{
+			"reg":7,
+			"name":"Senátorský klub České strany sociálně demokratické"
+		},
+		{
+			"reg":53,
+			"name":"Senátorský klub Občanské demokratické strany"
+		},
+		{
+			"reg":166,
+			"name":"Klub Starostové a nezávislí"
+		},
+		{
+			"reg":768,
+			"name":"Senátorský klub ANO"
+		},
+		{
+			"reg":1187,
+			"name":"Klub pro liberální demokracii - SENÁTOR 21"
+		}
 	]
 }

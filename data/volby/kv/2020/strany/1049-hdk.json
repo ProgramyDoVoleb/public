@@ -1,0 +1,23 @@
+{
+  "reg": 1049,
+  "name": "Hradecký demokratický klub",
+  "short": "HDK",
+  "color": "#4f689a",
+  "logo": "/obecne/strany/loga/1049-hdk.png",
+  "hash": "hdk",
+  "links": {
+    "global": [
+      "http://hdkhk.cz/",
+      "https://www.facebook.com/hdkhk/"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://www.hdkhk.cz",
+          "https://www.facebook.com/hdkhk"
+        ]
+      }
+    ]
+  }
+}

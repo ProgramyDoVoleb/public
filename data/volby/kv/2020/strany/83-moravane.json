@@ -1,0 +1,25 @@
+{
+  "reg": 83,
+  "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+  "short": "Moravané",
+  "color": "#a4ad17",
+  "logo": "/obecne/strany/loga/83-moravane.png",
+  "hash": "moravane",
+  "links": {
+    "global": [
+      "http://moravane.cz",
+      "https://www.facebook.com/moravaci",
+      "https://twitter.com/moravaci"
+    ],
+    "regional": [
+      {
+        "region": 10,
+        "links": [
+          "http://moravane.cz/domains/moravane.cz/krajske-volby-2020",
+          "https://www.facebook.com/moravaci",
+          "https://twitter.com/moravaci"
+        ]
+      }
+    ]
+  }
+}

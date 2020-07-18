@@ -1,0 +1,23 @@
+{
+  "reg": 770,
+  "name": "VÝCHODOČEŠI",
+  "short": "VČ",
+  "color": "#212759",
+  "logo": "/obecne/strany/loga/770-vychodocesi.png",
+  "hash": "vc",
+  "links": {
+    "global": [
+      "https://vychodocesi.cz/",
+      "https://www.facebook.com/vychodocesi/"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://www.vychodocesi.cz",
+          "https://www.facebook.com/vychodocesi"
+        ]
+      }
+    ]
+  }
+}

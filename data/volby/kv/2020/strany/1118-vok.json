@@ -1,0 +1,25 @@
+{
+  "reg": 1118,
+  "name": "VOK - Volba pro kraj",
+  "short": "VOK",
+  "color": "#f9ae2e",
+  "logo": "/obecne/strany/loga/1118-vok-2.png",
+  "hash": "vok",
+  "links": {
+    "global": [
+      "http://www.spokojenykraj.cz",
+      "https://www.facebook.com/spokojenykraj",
+      "https://twitter.com/spokojenykraj"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.spokojenykraj.cz",
+          "https://www.facebook.com/spokojenykraj",
+          "https://twitter.com/spokojenykraj"
+        ]
+      }
+    ]
+  }
+}

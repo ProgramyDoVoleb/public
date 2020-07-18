@@ -1,0 +1,105 @@
+{
+  "reg": 5,
+  "name": "Strana zelených",
+  "short": "Zelení",
+  "color": "#60b44c",
+  "logo": "/obecne/strany/loga/5-zeleni.svg",
+  "hash": "zeleni",
+  "links": {
+    "global": [
+      "http://www.zeleni.cz",
+      "https://cs.wikipedia.org/wiki/Strana_zelen%C3%BDch",
+      "https://www.facebook.com/stranazelenych",
+      "https://www.youtube.com/user/zmenmeklima",
+      "https://www.instagram.com/zeleni.cz",
+      "https://twitter.com/zeleni_cz"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "http://stredocesky.zeleni.cz/",
+          "https://www.facebook.com/stredocesi",
+          "https://twitter.com/zelenistredozem"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "http://jihocesky.zeleni.cz/",
+          "http://www.facebook.com/jczeleni"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "http://plzenskykraj.zeleni.cz/",
+          "https://www.facebook.com/zeleniplzensko"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "http://ustecko.zeleni.cz/",
+          "https://www.facebook.com/zeleneustecko/"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.facebook.com/ZeleniLBC",
+          "https://twitter.com/ZeleniLbc",
+          "https://www.instagram.com/zeleni.lk"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "http://karlovarsko.zeleni.cz/"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "http://pardubickykraj.zeleni.cz/",
+          "https://www.facebook.com/zeleni.pardubickykraj/"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "http://zelenavysocina.cz",
+          "https://www.facebook.com/szvysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "http://jihomoravsky.zeleni.cz/",
+          "http://www.facebook.com/zelenajiznimorava"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "http://olomoucky.zeleni.cz/",
+          "http://www.facebook.com/pages/Strana-zelen%C3%BDch-olomouck%C3%BD-kraj/143636765705792"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://zeleni-zlinsko.cz/",
+          "http://www.facebook.com/zeleni.zlinsky.kraj"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "http://www.zeleni-msk.cz",
+          "https://www.facebook.com/zeleniMSK"
+        ]
+      }
+    ]
+  }
+}

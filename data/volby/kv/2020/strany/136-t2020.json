@@ -1,0 +1,25 @@
+{
+  "reg": 136,
+  "name": "Tábor 2020",
+  "short": "T2020",
+  "color": "#f9e845",
+  "logo": "/obecne/strany/loga/136-tabor2020.jpg",
+  "hash": "t2020",
+  "links": {
+    "global": [
+      "https://www.tabor2020.cz",
+      "https://www.facebook.com/tabor2020",
+      "https://www.instagram.com/tabor2020"
+    ],
+    "regional": [
+      {
+        "region": 2,
+        "links": [
+          "https://www.tabor2020.cz",
+          "https://www.facebook.com/tabor2020",
+          "https://www.instagram.com/tabor2020"
+        ]
+      }
+    ]
+  }
+}

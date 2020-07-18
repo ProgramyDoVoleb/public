@@ -1,0 +1,168 @@
+{
+  "people": [
+    {
+      "name": "Milan Sýs",
+      "phash": "mladi-pro-pardubicky-kraj",
+      "about": "vysokoškolský pedagog, vědec, radní města Luže"
+    },
+    {
+      "name": "Petr Žampach",
+      "photo": "petr-zampach.jpg",
+      "phash": "mladi-pro-pardubicky-kraj",
+      "about": "pravocník bezpečnosti letového provozu",
+      "links": [
+        "https://www.facebook.com/petr.chapmaz.5"
+      ]
+    },
+    {
+      "name": "Martina Ročková",
+      "photo": "martina-rockova.jpg",
+      "phash": "mladi-pro-pardubicky-kraj",
+      "about": "studentka Univerzity v Hradci Králové",
+      "links": [
+        "https://www.facebook.com/majka.rockova",
+        "https://www.instagram.com/maajulka/"
+      ]
+    },
+    {
+      "name": "Jan Prokeš",
+      "photo": "jan-prokes.jpg",
+      "phash": "mladi-zumberaci",
+      "about": "podnikatel, zastupitel městysu Žumberk",
+      "links": [
+        "https://www.facebook.com/jan.prokes.779"
+      ]
+    },
+    {
+      "name": "Josef Ročeň",
+      "photo": "josef-rocen.jpg",
+      "phash": "mladi-pro-pardubicky-kraj",
+      "about": "student VUT v Brně, stavební technik",
+      "links": [
+        "https://www.facebook.com/josef.rocen.6"
+      ]
+    }
+  ],
+  "program": {
+    "parts": [
+      {
+        "headline": "Ochrana přírody",
+        "parts": [
+          {
+            "headline": "Kanalizace a odpadní vody",
+            "copy": "Oprava dosavadních a budování nových kanalizací dle potřeby občanů. Podpora budování čističek odpadních vod v regionech s nedostatkem vody."
+          },
+          {
+            "headline": "Výsadba zeleně",
+            "copy": "Obnova zeleně po období sucha a devastaci lýkožroutem smrkovým. Výsadba zeleně podél pozemních komunikací a cyklostezek. Obnova zeleně podél řek, aby byla zvýšena přirozená pevnost břehů během záplav."
+          },
+          {
+            "headline": "Orná půda",
+            "copy": "Nulová tolerance k zastavování orné půdy výstavbou budov. Upřednostňování demolice zchátralých budov ve vyloučených lokalitách. Zastavět nevyužité stavební plochy v centru města a jeho blízkém okolí, s cílem upřednostňovat lokální firmy a výstavbu rodinných domů před poloprázdnými obchodními domy."
+          },
+          {
+            "headline": "Zadržování vody v krajině",
+            "copy": "Odstranění nánosů bahna, obnova rozpadlých a rekonstrukce zchátralých jezů na řekách, tak aby byl dostatečný sloupec vody v období sucha a nedocházelo k úhynu ryb a zákonem chráněných živočichů, což ocení nejen členové rybářských spolků."
+          },
+          {
+            "headline": "Třídění odpadu",
+            "copy": "Rádi bychom společně vyřešili otázku, co s plasty. Chceme zamezit dosavadní praxi, kdy vytříděné plasty končí na stejné skládce, jako komunální odpad. Doufáme, že nalezneme širokou podporu veřejnosti ve vybudování spalovny odpadu."
+          }
+        ]
+      },
+      {
+        "headline": "Zdravotnictví",
+        "parts": [
+          {
+            "headline": "Parkovací místa",
+            "copy": "Budování nových parkovacích míst v těsné blízkosti nemocnic, pro příchozí pacienty a bezplatné parkování pro pacienty."
+          },
+          {
+            "headline": "Pohotovostní služba",
+            "copy": "Dostupnost praktického lékaře v areálu nemocnic. V každé nemocnici by měla být nonstop pohotovostní služba a lékárna, která bude v provozu nepřetržitě."
+          },
+          {
+            "headline": "Zubní lékařství",
+            "copy": "Chceme podpořit mladé zubaře tak, aby byla zubařská pomoc v celém kraji všem dostupná a rovnoměrně rozložená. Podpora lékařů v obcích a menších městech."
+          }
+        ]
+      },
+      {
+        "headline": "Vzdělávání",
+        "parts": [
+          {
+            "headline": "Finanční gramotnost",
+            "copy": "Zatlačíme na ministersvo školství a budeme požadovat povinnou výuku finanční gramotnosti, alespoň v rámci základů společenských věd či občanské nauky, tak aby nedocházelo k zadlužení občanů už v útlém věku."
+          },
+          {
+            "headline": "Depolitizace školství",
+            "copy": "Školám neprospívá přílišná politizace, neboť školství má vychovávat a vzdělávat, bez ohledu na politické spektrum. Výklad historie bez politického podtextu a s tím nutnost výuky novodobých dějin."
+          },
+          {
+            "headline": "Úroveň vzdělávaní",
+            "copy": "Nezbytná nutnost učinit razné kroky k zastavení klesající úrovně znalostí absolvovaných studentů všech úrovní našeho školství. Podáme návrhy na změnu školského zákona a zvýšíme pravomoc učitelů. "
+          }
+        ]
+      },
+      {
+        "headline": "Sociální problematika",
+        "parts": [
+          {
+            "headline": "Eliminace vyloučených lokalit",
+            "copy": "Zvrátíme nynější trend, kdy se nepřizpůsobiví občané cíleně koncertují do určené lokality, a tím vznikají vyloučené oblasti (ghetta) a tím snížíme sociální napětí mezi majoritní společností a menšinami."
+          },
+          {
+            "headline": "Charitativní organizace",
+            "copy": "Nutnost zkoordinovat práci charitativních organizací a sociálních úřadů tak, aby se pomoci dočkali jen potřební. Omezit pozitivní diskriminaci, která způsobuje závist majoritní společnosti, a tím pádem zvyšuje sociální napětí. Proplácet stravování jen u dětí sociálně slabých rodin, kdy alespoň jeden z rodičů musí být zaměstnán."
+          },
+          {
+            "headline": "Obchodování s chudobou",
+            "copy": "Máme připravený návrh zákona, který omezí maximální možný příspěvek na bydlení tak, aby nedocházelo ke zneužívání sociálních dávek, při kterém se pronajímají předražené nemovitost s velmi nízkou sociální úrovní."
+          },
+          {
+            "headline": "Spolky a sdružení",
+            "copy": "Primární podpora spolků a sdružení ve městech a obcích, které organizují a zprostředkovávají volnočasové aktivity našich dětí. Kontrola financování spolků tak, aby nedocházelo ke zneužívání příspěvků k vlastnímu obohacování."
+          },
+          {
+            "headline": "Diskriminace",
+            "copy": "Důsledný dohled nad dodržováním antidisktriminačních zákonů. Př.: Není možné, aby žena brala za stejnou práci méně než muž."
+          }
+        ]
+      },
+      {
+        "headline": "Infrastruktura",
+        "parts": [
+          {
+            "headline": "Letiště Pardubice",
+            "copy": "Prověříme hospodaření letiště, vyměníme pražský management a do vedení letiště dosadíme manažera z našeho kraje. Zahájíme jednání s představiteli evropských aerolinií a letiště Praha – Ruzyně, o zřízení nových linek, popřípadě převzetí linek z už tak přetížené Prahy. Chceme maximálně využít potenciál, který pardubické letiště bezesporu má. Vše samozřejmě ve spolupráci s městem Pardubice."
+          },
+          {
+            "headline": "Obchvaty měst a obcí",
+            "copy": "Usilujeme o zrychlení a větší plynulost dopravy v Pardubickém kraji. Prioritně se chceme zabývat výstavbou dálničního obchvatu Pardubic, dokončením obchvatu Chrudimi a dostavby dálnice D35 kolem Vysokého Mýta a Litomyšle. Dále nás zajímá odklonění tranzitní dopravy z nejvíce zatížených obcí."
+          },
+          {
+            "headline": "Urychlení prioritních staveb",
+            "copy": "Chceme zrychlit stavební a výběrová řízení pro prioritní stavby, jako jsou dálnice, obchvaty a železnice. Hodláme zkrátit dobu archeologického výzkumu, zrychlit rozkladové řízení podané proti rozhodnutí o stavbě a hlavně chceme zjednodušit výkup pozemků."
+          }
+        ]
+      },
+      {
+        "headline": "Finance",
+        "parts": [
+          {
+            "headline": "Nakládaní s evropskými dotacemi",
+            "copy": "Podpoříme pouze smysluplné dotací, nebudeme sahat po každém dotačním projektu, pokud nebude podpořen širokou veřejností. Většina stávajících měst a obcí nebere vůbec v potaz udržitelnost projektu do budoucna a nepočítají s nutnými investicemi hrazenými z rozpočtu."
+          },
+          {
+            "headline": "Výběrová řízení",
+            "copy": "Zpřísnit výběrová řízení na úrovni menších měst a obcí, aby nedocházelo k proplácení předražených zakázek."
+          },
+          {
+            "headline": "Neziskové organizace",
+            "copy": "Kontrola financování neziskových organizací, které musí být apolitické a sloužit ve prospěch společnosti. Zastavíme financování politických neziskových organizací."
+          }
+        ]
+      }
+    ]
+  }
+}

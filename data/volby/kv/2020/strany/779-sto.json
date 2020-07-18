@@ -1,0 +1,23 @@
+{
+  "reg": 779,
+  "name": "Starostové pro občany",
+  "short": "STO",
+  "color": "#428a7c",
+  "logo": "/obecne/strany/loga/779-sto.png",
+  "hash": "sto",
+  "links": {
+    "global": [
+      "https://www.starostoveproobcany.cz",
+      "https://www.facebook.com/starostoveproobcany"
+    ],
+    "regional": [
+      {
+        "region": 9,
+        "links": [
+          "https://www.starostoveproobcany.cz",
+          "https://www.facebook.com/starostoveproobcany"
+        ]
+      }
+    ]
+  }
+}

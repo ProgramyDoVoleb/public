@@ -5,7 +5,7 @@ var iconv = require('iconv-lite');
 var unzipper = require('unzipper');
 const $ = require('cheerio');
 
-var list = [{'kv2018': 9}, {'kv2014': 17}, {'kv2010': 20}, {'kv2006': 21}, {'kv2002': 15}, {'kv1998': 2}];
+var list = [{'kv2018': 11}, {'kv2014': 17}, {'kv2010': 20}, {'kv2006': 21}, {'kv2002': 15}, {'kv1998': 2}];
 
 const base = 'https://volby.cz/pls/';
 const dir = '../zdroje/volby/kom/';

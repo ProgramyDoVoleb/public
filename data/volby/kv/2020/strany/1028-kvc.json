@@ -1,0 +1,25 @@
+{
+  "reg": 1028,
+  "name": "Karlovaráci",
+  "short": "KVC",
+  "color": "#0a357f",
+  "logo": "/obecne/strany/loga/1028-karlovaraci.jpg",
+  "hash": "kvc",
+  "links": {
+    "global": [
+      "http://www.karlovaraci.cz",
+      "https://www.facebook.com/karlovaraci",
+      "https://twitter.com/karlovaraci"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.karlovaraci.cz",
+          "https://www.facebook.com/karlovaraci",
+          "https://twitter.com/karlovaraci"
+        ]
+      }
+    ]
+  }
+}
