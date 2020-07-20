@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-var dir = "./data/volby/kv/2020/";
+var dir = "./volby/kv/2020/";
 
 var files = fs.readdirSync(dir + "strany/");
 
