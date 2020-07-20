@@ -2251,18 +2251,6 @@
 					"data": "lbk/53"
 				},
 				{
-<<<<<<< HEAD
-					"coalition": [1, 721],
-					"name": "Společně pro Liberecký kraj",
-					"leader": {
-						"name": "Jiří Klápště",
-						"reg": 721,
-						"links": [
-							{"url": "https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri"},
-							{"url": "https://www.facebook.com/jiri.klapste"},
-							{"url": "https://www.instagram.com/jiriklapste"}
-						]
-=======
 					"coalition":[
 						1,
 						721
@@ -2277,7 +2265,6 @@
 							"https://www.instagram.com/jiriklapste"
 						],
 						"photo":"jiri-klapste.jpg"
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 					},
 					"list":[
 						{
@@ -2317,29 +2304,12 @@
 							"reg":99
 						}
 					],
-<<<<<<< HEAD
 					"links": [
 						{"url": "https://www.spolecneprolibereckykraj.cz"},
 						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "label": "KDU-ČSL Liberecko"},
 						{"url": "https://www.facebook.com/TOP09Liberec/", "label": "TOP 09 Liberecko"}
 					],
 					"data": "lbk/spolecne"
-=======
-					"links":[
-						{
-							"url":"https://www.spolecneprolibereckykraj.cz"
-						},
-						{
-							"url":"https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707",
-							"label":"KDU-ČSL Liberecko"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09Liberec/",
-							"label":"TOP 09 Liberecko"
-						}
-					],
-					"data":"lbk/spolecne"
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 				},
 				{
 					"coalition":[
@@ -2439,6 +2409,12 @@
 							{
 								"url":"https://www.facebook.com/tomas.rakous.39"
 							}
+						],
+						"list": [
+							"Zuzana Spudichová",
+							"Kamila Švejdová",
+							"Roman Jech",
+							"Stanislav Kuchař"
 						]
 					}
 				},
@@ -2541,7 +2517,6 @@
 			"id":7,
 			"parties":[
 				{
-<<<<<<< HEAD
 					"coalition": [1, 181, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": {
@@ -2561,53 +2536,6 @@
 						{"url": "https://www.facebook.com/koalicehk"},
 						{"url": "https://www.facebook.com/kdukralovehradecko/", "label": "KDU-ČSL KHK"},
 						{"url": "https://www.facebook.com/volbapromestohk"}
-=======
-					"coalition":[
-						1,
-						181,
-						113
-					],
-					"name":"Koalice pro Královéhradecký kraj",
-					"leader":{
-						"name":"Pavel Bělobrádek",
-						"reg":1,
-						"links":[
-							{
-								"url":"http://www.pavelbelobradek.cz"
-							},
-							{
-								"url":"https://www.facebook.com/Belobradek"
-							},
-							{
-								"url":"https://twitter.com/belobradek"
-							},
-							{
-								"url":"https://www.instagram.com/pbelobradek"
-							}
-						]
-					},
-					"links":[
-						{
-							"url":"http://www.koalicehk.kdu.cz"
-						},
-						{
-							"url":"http://kralovehradecky.kdu.cz/",
-							"label":"KDU-ČSL KHK"
-						},
-						{
-							"url":"http://vpm2014.cz"
-						},
-						{
-							"url":"https://www.facebook.com/koalicehk"
-						},
-						{
-							"url":"https://www.facebook.com/kdukralovehradecko/",
-							"label":"KDU-ČSL KHK"
-						},
-						{
-							"url":"https://www.facebook.com/volbapromestohk"
-						}
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 					],
 					"list":[
 						{
