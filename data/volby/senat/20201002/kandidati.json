@@ -697,7 +697,8 @@
       "support": [
         721,
         166,
-        53
+        53,
+				129
       ],
       "member": 721,
       "nominee": 721,
@@ -1446,7 +1447,8 @@
         "https://cs.wikipedia.org/wiki/Jan_Sobotka_(sen%C3%A1tor)"
       ],
       "support": [
-        166
+        166,
+				720
       ],
       "color": "#1ebdb7",
       "photo": "jan-sobotka.jpg",
@@ -1643,7 +1645,8 @@
         "https://www.instagram.com/pavelvacek_hk/"
       ],
       "support": [
-        720
+        720,
+				166
       ],
       "work": "zastupitel města Hradec Králové, bývalý děkan Pedagogické fakulty UHK",
       "member": 720,
@@ -1853,7 +1856,8 @@
         "https://twitter.com/grulich_jan"
       ],
       "support": [
-        721
+        721,
+				720
       ],
       "color": "#531a92",
       "photo": "jan-grulich.jpg",
@@ -2250,7 +2254,7 @@
       "member": 1114,
       "color": "#874a0f",
       "work": "zastupitel Jihomoravského kraje, VŠ pedagog, jednatel společnosti",
-			"photo": "libor-blaha.jpg"
+			"photo": "libor-blaha-2.jpg"
     },
     {
       "name": [
@@ -2886,7 +2890,8 @@
         "https://cs.wikipedia.org/wiki/Martin_Tom%C3%A1%C5%A1ek"
       ],
       "support": [
-        720
+        720,
+				5
       ],
       "work": "místostarosta městkého obvodu Ostrava-Poruba, literární historik a učitel na Filozofické fakultě OU",
       "member": 720,
@@ -3262,7 +3267,8 @@
         "https://www.ods.cz/region.zlinsky/volby2020/senatni/kandidati/35308-petr-sladek"
       ],
       "support": [
-        53
+        53,
+				720
       ],
       "work": "ředitel Uherskohradišťské nemocnice, otorhinolaryngolog",
       "member": 99,
@@ -3683,6 +3689,34 @@
       "photo": "zdenek-stritecky.jpg",
 			"motto": "REFERENDUM - kladivo na nepoctivé politiky",
 			"program": "https://drive.google.com/file/d/1-ILE3TA2x_59V5aUunOlg_bE2k84uCl4/view?usp=sharing"
+    },
+    {
+      "name": [
+        "",
+        "Jiří",
+        "Kudláček",
+        ""
+      ],
+      "reg": 63,
+      "links": [],
+      "support": [1173, 1227]
+    },
+    {
+      "name": [
+        "",
+        "Svatava",
+        "Štěrbová",
+        ""
+      ],
+      "reg": 63,
+			"member": 5,
+      "links": [
+				"info@svatava2020.cz",
+				"https://www.svatava2020.cz/",
+				"https://www.facebook.com/svatava2020/"
+			],
+      "support": [5, 1187]
+
     }
   ],
   "current": [
