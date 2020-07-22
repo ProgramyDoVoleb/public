@@ -459,7 +459,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 156
@@ -854,7 +855,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -1198,7 +1200,8 @@
 					"data": "plk/1114"
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -1589,6 +1592,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Luděk Petráň"
 					}
@@ -1999,6 +2003,12 @@
 				},
 				{
 					"reg": 1118
+				},
+				{
+					"reg": 79,
+					"leader": {
+						"name": "Petr Žák"
+					}
 				}
 			]
 		},
@@ -2486,6 +2496,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Pavlína Dohnalová"
 					}
@@ -2887,6 +2898,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Václav Makalouš"
 					}
@@ -3330,6 +3342,7 @@
 					"data": "pak/mladi"
 				},
 				{
+					"support": [79],
 					"reg":137
 				},
 				{
@@ -3760,6 +3773,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Josef Pelikán"
 					}
@@ -4102,7 +4116,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -4395,7 +4410,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 156
@@ -4722,6 +4738,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Zdeněk Cekota"
 					}
@@ -5003,7 +5020,8 @@
 					"support": [785]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 1118,
