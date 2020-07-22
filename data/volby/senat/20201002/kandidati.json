@@ -2425,9 +2425,14 @@
       "reg": 60,
       "links": [],
       "support": [
-        1227
+        1227,
+				{
+					"name": "Slušní lidé",
+					"logo": "obecne/strany/loga/x-slusnilide.jpg"
+				}
       ],
-      "color": "#2b3acc"
+      "color": "#2b3acc",
+			"motto": "Před nikým si klekat nebudu!"
     },
     {
       "name": [
