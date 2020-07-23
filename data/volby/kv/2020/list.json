@@ -699,9 +699,6 @@
 				},
 				{
 					"reg":1227,
-					"support":[
-						714
-					],
 					"leader":{
 						"name":"Ivana Kerlesová",
 						"reg":1227,
@@ -718,10 +715,6 @@
 					"list":[
 						"Dalibor Uhlíř",
 						"Jaroslav Zvěřina",
-						{
-							"name":"Libor Vondráček",
-							"reg":714
-						},
 						"Jiří Černý"
 					],
 					"links":[
@@ -731,6 +724,21 @@
 					],
 					"data":"jck/1227",
 					"program":"https://kerleska.cz/program/"
+				},
+				{
+					"reg": 714,
+					"leader": {
+						"name":"Libor Vondráček",
+			      "photo": "libor-vondracek.jpg",
+						"reg":714,
+						"links": [
+			        "http://vondraczech.cz/",
+			        "https://www.facebook.com/Libor.JHradec",
+			        "https://twitter.com/vondraczech_cz",
+			        "https://www.instagram.com/vondraczech.cz/"
+						]
+					},
+					"data": "jck/714"
 				},
 				{
 					"coalition":[
