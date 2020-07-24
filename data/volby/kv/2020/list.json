@@ -483,17 +483,9 @@
 						"name":"František Talíř",
 						"reg":1,
 						"links":[
-							{
-								"url":"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
-								"label":"Profil"
-							},
-							{
-								"url":"https://www.facebook.com/frantisek.talir",
-								"label":"FB stránky"
-							},
-							{
-								"url":"https://www.instagram.com/frantisek.talir"
-							}
+							"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
+							"https://www.facebook.com/frantisek.talir",
+							"https://www.instagram.com/frantisek.talir"
 						]
 					},
 					"list":[
@@ -512,20 +504,10 @@
 					"links":[
 						"https://spolecneprojiznicechy.cz/",
 						"https://www.hejtmantour.cz/",
-						{
-							"url":"http://jiznicechy.kdu.cz",
-							"label":"KDU-ČSL Jižní Čechy"
-						},
-						{
-							"url":"https://www.top09.cz/regiony/jihocesky-kraj/",
-							"label":"TOP 09 Jižní Čechy"
-						},
-						{
-							"url":"https://www.facebook.com/jihocesky.kdu"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09.Jihocesky.kraj"
-						}
+						"http://jiznicechy.kdu.cz",
+						"https://www.top09.cz/regiony/jihocesky-kraj/",
+						"https://www.facebook.com/jihocesky.kdu",
+						"https://www.facebook.com/TOP09.Jihocesky.kraj"
 					],
 					"program":"https://spolecneprojiznicechy.cz/#program",
 					"data":"jck/spolecneprojc"
