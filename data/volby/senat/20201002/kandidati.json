@@ -2073,6 +2073,7 @@
       ],
       "reg": 54,
       "links": [
+				"https://www.tomastretina.cz/",
         "https://www.top09.cz/volby/2020-senat/mgr-tomas-tretina-26984.html",
         "https://www.facebook.com/starosta.tretina",
 				"https://twitter.com/tomas_tretina",
@@ -2091,7 +2092,8 @@
       "nominee": 721,
       "color": "#531a92",
       "photo": "tomas-tretina.jpg",
-      "work": "starosta města Moravský Krumlov, učitel na I. stupni a bývalý ředitel základní školy"
+      "work": "starosta města Moravský Krumlov, učitel na I. stupni a bývalý ředitel základní školy",
+			"program": "https://www.tomastretina.cz/program/"
     },
     {
       "name": [
@@ -2278,8 +2280,7 @@
       ],
       "reg": 60,
       "links": [],
-      "support": [],
-      "nominee": 47,
+      "support": [47],
       "work": "zastupitel městské části Brno-Bystrc, dramaturg zábavných pořadů, majitel vydavatelské a reklamní společnosti"
     },
     {
@@ -3910,6 +3911,18 @@
 			],
       "support": [],
 			"program": "https://www.igorindrak.cz/moje-sluzby/"
+    },
+    {
+      "name": [
+        "",
+        "Václav",
+        "Švenda",
+        ""
+      ],
+      "reg": 18,
+      "links": [],
+      "support": [721],
+			"work": "středoškolský učitel, bývalý místostarosta města Příbram"
     }
   ],
   "current": [
