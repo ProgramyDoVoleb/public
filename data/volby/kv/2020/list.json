@@ -2523,7 +2523,10 @@
 					"data": "lbk/103"
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jindřich Nestler"
+					}
 				}
 			]
 		},
@@ -4944,17 +4947,7 @@
 					],
 					"links":[
 						"http://namtonenijedno.cz/",
-						{
-							"url":"https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
-							"label":"STAN MSK"
-						},
-						"http://www.zeleni-msk.cz",
-						{
-							"url":"https://www.facebook.com/StanMoravskoslezskyKraj/",
-							"label":"STAN MSK"
-						},
-						"https://www.facebook.com/zeleniMSK",
-						"https://www.facebook.com/hnutinezavisli"
+						"https://www.facebook.com/stanzeleninezavislimskraj/"
 					],
 					"leader":{
 						"name":"Jan Lipner",
