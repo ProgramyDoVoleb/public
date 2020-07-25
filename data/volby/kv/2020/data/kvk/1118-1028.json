@@ -2,18 +2,199 @@
   "people": [
     {
       "name": "Josef März",
-      "reg": 1028,
-      "links": [
-        {
-          "url": "http://www.karlovaraci.cz/index.php/team/josef-marz"
-        },
-        {
-          "url": "https://www.facebook.com/profile.php?id=100008186927999"
-        },
-        {
-          "url": "https://www.instagram.com/pepi9574"
-        }
-      ]
+      "reg": 1028
     }
-  ]
+  ],
+  "program": {
+    "motto": "ŘEŠÍME KONKRÉTNÍ PROBLÉMY – Nejsme politická strana, ale hnutí odborníků.",
+    "parts": [
+      {
+        "headline": "SPORT A VOLNÝ ČAS",
+        "parts": [
+          {
+            "copy": "Zjednodušíme systém sportovních grantů. Navýšíme objem dotací pro věkovou skupinu žáků a mládeže. Podporujeme co nejužší spojení sportu a školství (sportovní gymnázia, sportovní třídy, fotbalové akademie). Role trenérů při sportovní výchově je nezastupitelná. Podpoříme jejich vzdělávání i odměňování.",
+            "list": [
+              "Udržíme současné ekonomické zajištění sportu a budeme hledat další finanční zdroje pro jeho rozvoj.",
+              "Podpoříme postavení velkých měst, jako přirozených regionálních center sportu.",
+              "Připravíme lepší nabídku volnočasových aktivit v kraji.",
+              "Navrhneme schválit sportovního radu a podpoříme průběžnou úpravu systému finanční podpory na tělovýchovnou činnost a sportovní akce dle vzoru Ministerstva školství mládeže a tělovýchovy tak, aby byl co nejjednodušší a spravedlivý.",
+              "Nastavíme nový systém podpory vrcholového, mládežnického a masového sportu na všech úrovních s dlouhodobým finančním výhledem.",
+              "Podpoříme i méně známé sporty a malé sportovní kluby.",
+              "Zajistíme kvalitnější formu vzájemné spolupráce mezi krajem a zainteresovanými sportovními organizacemi."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "PÉČE O ŽIVOTNÍ PROSTŘEDÍ",
+        "parts": [
+          {
+            "copy": "Cílem rozvoje regionu je zlepšení podmínek pro jeho obyvatele a to v nejširším slova smyslu. Předpokladem pro dlouhodobý rozvoj není pouze ekonomický růst, který by měl zajišťovat blahobyt obyvatel, ale také kvalita životního prostředí v Karlovarském kraji. Kvalitní životní prostředí a atraktivita území se dnes stává stále důležitějším aspektem podmiňujícím jeho atraktivitu pro obyvatele a investory, ačkoliv sama o sobě nepřevýší dobré podmínky pro ekonomický rozvoj. Podporujeme opatření, která zvyšují schopnost zadržovat vodu v krajině a snižují riziko bleskových povodní.",
+            "list": [
+              "Podpoříme výstavby přirozených prvků (mokřady, průlehy, tůně, malé vodní nádrže, meze, zasakovací pásy apod.) pro zadržení vody v krajině pomocí Evropských, státních a krajských dotačních titulů.",
+              "Využijeme cirkulární ekonomiky ke snížení množství odpadu.",
+              "Zřídíme krajského koordinátora na pomoc obcím a poskytneme dotace obcím na vykoupení pozemků, na kterých zřídí mokřad, tůně, rybník a zasakovací pásy.",
+              "Podpoříme výstavby přírodě blízkých prvků ve městech (tzv. Modro-zelená infrastruktura) ke zlepšení kvality ovzduší, mikroklimatu, úsporám energie, zachytávání dešťové vody jako jsou např. zelené střechy, travnaté pásy, průlehy, stromořadí, zatravňovací tvárnice apod.",
+              "Budeme hledat efektivní využití rekultivované krajiny způsobené útlumem těžby a řešit s tím spojené ekonomicko-sociální aspekty (aktivní zapojení do pilotního evropského projektu Dekarbonizace území)."
+
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "ZAMĚSTNANOST",
+        "parts": [
+          {
+            "copy": "Provoz krajského úřadu musí být efektivní, úsporný a čitelný. Naším cílem bude dále zlepšovat zadávání veřejných zakázek ze strany Karlovarského kraje a jeho organizací. Všechna výběrová řízení na dodavatele budou i nadále od počátku zveřejňována elektronicky, aby veřejnost mohla sledovat jejich průběh. Jde nám o prosazení naší dlouhodobé vize, která s jasným plánem rozvoje dokáže pozvednout firmy působící v kraji a která přivede nové investory s dlouhodobě udržitelným výrobním programem.",
+            "list": [
+              "Finančními prostředky kraje podpoříme vznik malých a středních firem na venkově a tím i pracovních příležitostí, především v ekonomicky slabých regionech, abychom zabránili odlivu tamních obyvatel a tím jejich dalšímu oslabování.",
+              "Vytvoříme podpůrný fond (půjčky propuštěným zaměstnancům) a uplatníme všechny aktivní pracovní nástroje zaměstnanosti pro propouštěné zaměstnance v Sokolovské uhelné.",
+              "Současnou krizi v cestovním ruchu a lázeňství budeme ve spolupráci s Úřadem práce ČR, Asociací hotelů a restaurací ČR, Svazem lázeňských míst ČR řešit aktivní zaměstnaneckou politikou.",
+              "Vytvoříme JOBcentra, posláním JOBcentra bude rozvíjet a posilovat kontakty mezi všemi partnery působícími na trhu práce.",
+              "Budeme podporovat projekty pro aktivní podporu zaměstnanosti rizikových skupin při jejich uplatnění na pracovním trhu."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "VENKOV A PODPORA MALÝCH OBCÍ A MĚST",
+        "parts": [
+          {
+            "copy": "Kvalita života v malých obcích a odlehlých částech regionu musí být srovnatelná s většími obcemi, včetně dostupnosti základních služeb, vzdělávání a zdravotní péče. V rámci krajského rozpočtu budeme podporovat zachování dotačních titulů Program rozvoje venkova, Oprava místních komunikací, Podpora cyklistické infrastruktury a agroturistiky. Finanční podpora kraje na výstavbu a obnovu kanalizace a vodovodů musí být vyšší, aby přispěla k rozvoji malých obcí do 3500 obyvatel. Navrhujeme zavedení krajských dotací při vytváření motivačních prvků pro malé a střední podnikatele. Spolková činnost na venkově si také zaslouží podporu v oblasti kultury, sportu. Velmi důležitá je podpora místních tradic a Sborů dobrovolných hasičů.",
+            "list": [
+              "Zlepšíme životní podmínky obyvatel venkova, zejména tím, že podpoříme podnikání a vznik nových pracovních míst – budeme podporovat práci z domova.",
+              "Zkvalitníme dopravní obslužnost venkova – nákupem moderních bezbariérových dopravních prostředků.",
+              "Ve spolupráci s obcemi zpracujeme celkovou analýzu potřeb lékařů a učitelů. K tomu pak vytvoříme stipendijní plán včetně finančních prostředků.",
+              "Budeme podporovat hospodářskou stabilitu venkova.",
+              "Pokusíme se zajistit lepší podmínky pro podnikatele a tím zabránit odchodu lidí z venkova i odlivu firem a podnikatelů do daňově výhodnějších měst a regionů.",
+              "Budeme prosazovat schválení nového dotačního programu za účelem zkvalitnění mobilní síťe na venkově."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "SENIOŘI A SOCIÁLNÍ SLUŽBY",
+        "parts": [
+          {
+            "copy": "Sociální služby musí být dostupné, efektivní a vlídné ke klientům. Krajská podpora neziskových organizací zvyšuje kvalitu poskytovaných sociálních služeb. Dotace provozovatelům sociálních služeb se týkají nejenom měst a obcí, ale i soukromých poskytovatelů. Podpoříme rozšíření poraden pro seniory, které jim pomohou řešit složité problémy (např. výměny bytů, získávání míst v sociálních zařízeních). Pomoc touto formou bychom rádi nabídli i dalším lidem v krizových situacích.",
+            "list": [
+              "Provedeme opatření, která zvýší dostupnost sociální péče a sociálních služeb v kraji.",
+              "Zlepšíme informovanost občanů o sociálních službách v kraji.",
+              "Budeme podporovat poskytovatele sociálních služeb.",
+              "Nebudeme podporovat snižování rozsahu a dostupnosti veřejných sociálních služeb.",
+              "Vytvoříme krajský SENIOR POINT (po vzoru města Karlovy Vary získají senioři na jednom místě všechny informace).",
+              "V domovech pro seniory zavedeme systém kvality služeb, kterým stanovíme požadavky na dosažení vysoké úrovně kvality v péči o klienty. Systém kvality bude nastaven, tak abychom sledovali, zda všechny procesy dle těchto požadavků fungují a tím se budeme neustále učit a zlepšovat."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "DOPRAVA",
+        "parts": [
+          {
+            "copy": "Karlovarský kraj se nachází v periferní poloze vůči hlavním hospodářským a společenským centrům Česka. Kraj ovšem leží na hranicích s Německem, s nímž má region i celé Česko významné ekonomické vazby. Tento fakt zvyšuje intenzitu tranzitní i přeshraniční dopravy. V rámci silniční dopravní infrastruktury Karlovarského kraje vnímáme tři hlavní problémové oblasti. Nedokončení silnice R6 v celé její délce Praha – Karlovy Vary – Cheb – bavorská dálnice A93. Nízká prostupnost hranic a nedostatečné kapacitní napojení kraje na německou silniční síť. Dopravní dostupnost, kvalitní silnice a fungující síť veřejné dopravy považujeme za základní předpoklady ekonomického růstu i kvality života obyvatel Karlovarského kraje. Letiště v Karlových Varech se nesmí stát „černou dírou“ pro odčerpávání krajských financí.",
+            "list": [
+              "Zlepšíme údržbu a opravy krajských silnic II. a III. třídy a účelně rozdělíme veřejné prostředky rovnoměrně na území celého kraje.",
+              "Podpoříme transparentní a ekonomicky soběstačnou Krajskou správu údržby silnic.",
+              "Budeme podporovat cyklistickou dopravu ve větších městech jako ekologický, ekonomický a rychlý způsob dopravy. U stávajících cyklostezek se budeme soustředit na jejich opravy a údržbu.",
+              "Nepřipustíme chaos v dopravě, ale zavedeme jednotný celokrajský integrovaný tarif od 1. 1. 2022, tzn. cestování po kraji pouze na jednu jízdenku při použití více dopravních systémů (autobus, vlak, MHD, lanovky). Chceme jednoduchou a moderní jízdenku.",
+              "Významně podpoříme výchovu dětí a mládeže k bezpečnému chování v dopravě v rámci programů BESIP."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "KULTURA A PAMÁTKY",
+        "parts": [
+          {
+            "copy": "Chápeme kraj či region nejen jako exekutivní složky při realizaci, ale jako opravdového lokálního nositele zodpovědnosti za údržbu a rozvoj všech složek kultury. Karlovarský kraj se navenek nejvíce prezentuje lázeňstvím. S tímto fenoménem úzce souvisí kultura v nejširším slova smyslu. Zaměříme se především na podporu profesionálních orchestrů a divadel v kraji, základních uměleckých škol, neziskových organizací v oblasti kultury a ochraně památek.",
+            "list": [
+              "Podpoříme finanční program na obnovu a zachování historicky cenných a památkově chráněných objektů.",
+              "Nastavíme systém pravidelných návštěv dětí v kulturních zařízeních Karlovarského kraj.",
+              "Podpoříme podnikatelské aktivity v oblasti kultury, památkové péče, zejména marketingovou podporou a poskytováním příspěvků na podnikatelské projekty,",
+              "Podpoříme všechny regionální kulturních programy a projekty, které významně zachovávají kulturní dědictví kraje,",
+              "Podpoříme významné kulturní aktivity jako jsou Mezinárodní filmový festival v Karlových Varech, Chopinův festival v Mariánských lázních, Chebské dvorky, výstavu Kraslic v Kraslicích a jiné kulturní priority přímo z rozpočtu Karlovarského kraje.",
+              "Podpoříme ochotnickou, zájmovou a amatérskou úroveň umění.",
+              "Prosadíme zefektivnění systému příspěvků a grantů na kulturní akce.",
+              "Podpoříme finanční program na obnovu a zachování historicky cenných a památkově chráněných objektů.",
+              "Podpoříme přeshraniční spolupráci s Bavorskem a Saskem v oblasti kultury (hudba, divadlo spolková činnost, otevřené ateliéry pro začínající umělce, žánrové festivaly apod."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "KRUŠNÉ HORY",
+        "parts": [
+          {
+            "copy": "Podporujeme Krušné hory jako místo pro klidný a spokojený život. Obyvatelé tohoto regionu musí mít perspektivu kvalitního osobního života a pracovního růstu. Jen tak zabráníme vylidňování Krušných hor. Vhodné zalesňování pomůže zadržet srážkové vody a sníží riziko povodní. K obnově živých Krušných hor přispěje stabilní péče o zemědělskou krajinu a turistické využití, které bude v souladu s krušnohorskou přírodu. Proč pořád budovat nové a větší megalomanské stavby a nezachovat staré, památkově chráněné, historicky cenné objekty, jako hotel Klínovec? Vylidňování Krušných hor bude pokračovat právě pro chybějící služby pro trvale bydlící obyvatele. Jako příklad uvádím Boží Dar, kde byla zrušena škola, školka, kino, hřiště, trvale bydlících je minimum, buď jsou to důchodci, nebo trvale přihlášení chataři a do nově postaveného satelitu se nikdo k opravdu trvalému bydlení nehlásí. Autobus na Boží Dar jede sporadicky. Takových vesnic a měst je v Krušných Horách více, takže o místech pro kvalitní život se dá těžko mluvit. Takové hory nemají nic společného s rekreací, odpočinkem a pobytem v přírodě. A takové hory nechceme.",
+            "list": [
+              "Podpoříme rozvoj cestovního ruchu v kraji; a dalšího využití horských oblastí.",
+              "Zajistíme údržbu a rozvoj cyklostezek, sjezdařských areálů a běžeckých lyžařských tras.",
+              "Podpoříme kvalitní služby v cestovním ruchu.",
+              "Podpoříme investic do budování nových turisticky zajímavých a ekonomicky udržitelných projektů.",
+              "To, co chybí v Krušných horách, je zázemí, služby pro případ špatného počasí  (bazény, krytá sportoviště, dětská hřiště, sauny, veřejná WC, úschovny, veřejná kyvadlová doprava)."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "CESTOVNÍ RUCH A LÁZEŇSTVÍ",
+        "parts": [
+          {
+            "copy": " Cestovní ruch představuje pro Karlovarský kraj významné odvětví a dobré podmínky pro rozvoj cestovního ruchu se promítají i do ekonomického přínosu kraje. Poskytovatele služeb v cestovním ruchu a lázeňství vnímáme jako důležité partnery. Významný přínos kraje spatřujeme v oblasti společné komunikace, zlepšování dopravní infrastruktury a jejího smysluplného a účelného celoročního využívání. Karlovarský kraj musí být otevřeným, bezpečným a pohodovým územím pro všechny skupiny obyvatel i návštěvníků. Vlídnost a kvalitní služby jsou důvod k opětovným pobytům v Karlovarském kraji.  Klíčovým faktorem pro rozvoj cestovního ruchu v Karlovarském kraji je prodloužení doby pobytu návštěvníků v regionu provázáním výše zmíněných druhů cestovního ruchu. Dovolenou na klíč považujeme za důležitý prvek při získávání nových turistů. Tyto „balíčky“ bychom rádi cílili například na rodiny s dětmi, seniory, cyklisty, pěší turisty, mladé lidi, školní výlety apod. I obyvatelé Karlovarského kraje jsou turisté a návštěvníci kraje.",
+            "list": [
+              "Podpoříme agroturistiku a venkovský cestovní ruch.",
+              "Zlepšíme komunikaci mezi Živým krajem p.o. a velkými městy v regionu.",
+              "Vytvoříme nabídku konkurenceschopných produktů cestovního ruchu a lázeňství pro neléčící se návštěvníky.",
+              "Nedostatečné marketingové, prezentační aktivity, jak v oblasti lázeňství, tak zejména u ostatních druhů cestovního ruchu nahradíme moderními marketingovými nástroji.",
+              "Zaměříme se na cílovou skupinu tuzemských návštěvníků.",
+              "Zaměříme se na podporu aktivnější návštěvnosti památek a přírodních zajímavostí.",
+              "Podporujeme zápis Lázeňského trojúhelníku na seznam kulturního dědictví UNESCO.",
+              "Podpoříme podpůrný program pro investice do oblasti cestovního ruchu a lázeňství.",
+              "Podpoříme pravidelná setkávání a aktivní komunikaci kraje se zástupci krajských sekcí Asociace hotelů a restaurací ČR, Sdružení lázeňských míst ČR a Svazem léčebných lázní ČR.",
+              "Podpoříme účast subjektů cestovního ruchu v rámci veletrhů a výstav cestovního ruchu v ČR i v zahraničí."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Školství",
+        "parts": [
+          {
+            "copy": "Kvalitní vzdělání musí být dosažitelné i v odlehlých částech kraje. Podporu ze strany kraje si zaslouží mimoškolní aktivity dětí. Nechceme měnit současný počet středních škol v kraji. Trvale budeme podporovat zvýšení spolupráce středních škol v oblasti přírodovědných a technických oborů s regionálními vysokými školami. Nezbytné je výraznější zapojení podnikatelů, firem a hospodářské komory do oblasti vzdělávání. Jenom tak budou školy pružně reagovat na požadavky trhu práce.",
+            "list": [
+              "Podpoříme rozvoj Střední zdravotnické školy v Karlových Varech, ISŠTE v Sokolově a ISŠ v Chebu.",
+              "Podpoříme vzdělávání v oblasti učňovského školství. Budeme se snažit dodat učňovskému školství a absolventům těchto škol větší prestiž za účelem zvýšení zájmu o vyučení řemeslu.",
+              "Podpoříme Střední keramickou školu Karlovy Vary (nutné zachování oborů sklář atd.- souvislost s prací v regionu)",
+              "Zlepšíme nízký potenciál vědy a výzkumu a jejich nedostatečné propojení s praxí.",
+              "Podpoříme vznik Vysoké školy fakulty Balneologické v Karlových Varech.",
+              "Podpoříme přes JOBcentra vstup mladých lidí na trh práce.",
+              "Zlepšíme nevyhovující technické stavy budov škol a školských zařízení",
+              "Zlepšíme nedostatky ve vybavenosti škol, školských zařízení a volnočasových zařízení.",
+              "Zavedeme systém dalšího vzdělávání dospělých, příp. zřízení (rozšíření) vysokého školství, rozšíření středního školství o technické obory.",
+              "Zlepšíme celkovou kvalitu vzdělávání na všech úrovních."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "ZDRAVOTNICTVÍ",
+        "parts": [
+          {
+            "copy": "Zdravotnictví v posledních letech prochází výraznými změnami jak v oblasti legislativy tak v oblasti strukturální. Karlovarský kraj patří v porovnání s ostatními kraji České republiky patří mezi nesoběstačný a zároveň zdravotnicky nejhůře vybavený kraj, kterému hrozí celková závislost ve specializované péči na okolních regionech. Chceme kvalitní a prostupný systém zdravotní péče v našem kraji. Pouze tak je možné mít kvalitní péči ve všech jeho částech, kde prostředky budou vynakládány efektivně. Musíme si vše odpracovat sami, nedoufat v zázrak z vyšších míst. Nestanou se, to už víme. Politik může otevírat dveře, ale dále musí nechat jednat a hlavně argumentovat odborníky. Jinak jsme za hlupáky.",
+            "list": [
+              "Podpoříme investice do nemocnic v Karlových Varech, Sokolově a Chebu.",
+              "Zachováme tarifní odměňování pracovníků ve zdravotnických zařízeních řízených krajem v dosavadní výši s pravidelnou valorizací minimálně o výši inflace.",
+              "Podpoříme finančně i legislativně domácí hospicovou péči dostupnou v celém kraji.",
+              "Zlepšíme zájem studentů o obory všeobecné sestry na vyšších zdravotnických školách a o obor zdravotnický asistent na středních školách.",
+              "Vytvoříme podmínky pro kvalifikovaný zdravotnický personál, aby neodcházel do jiných zdravotnických zařízení a zahraničí, která pro krajské nemocnice představují konkurenční prostředí.",
+              "Říkáme NE privatizaci nemocnice Cheb a Karlovy Vary.",
+              "Nikdy nenecháme padnou nemocnici v Chebu.",
+              "Podpoříme intenzivnější spolupráci s obcemi při pomoci se zajištěním primární péče."
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

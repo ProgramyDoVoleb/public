@@ -336,17 +336,21 @@
       "hash": "vok",
       "links": {
         "global": [
-          "http://www.spokojenykraj.cz",
-          "https://www.facebook.com/spokojenykraj",
-          "https://twitter.com/spokojenykraj"
+          "https://vok-volbaprokraj.cz/",
+          "https://www.facebook.com/volbaprokraj/"
         ],
         "regional": [
           {
             "region": 4,
             "links": [
-              "http://www.spokojenykraj.cz",
               "https://www.facebook.com/spokojenykraj",
               "https://twitter.com/spokojenykraj"
+            ]
+          },
+          {
+            "region": 13,
+            "links": [
+              "https://www.facebook.com/VOK-Volba-pro-kraj-Moravskoslezsk%C3%BD-kraj-105887744535827"
             ]
           }
         ]

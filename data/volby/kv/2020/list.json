@@ -1386,6 +1386,7 @@
 					]
 				},
 				{
+					"name": "VOK – Volba pro kraj s podporou hnutí Karlovaráci",
 					"coalition":[
 						1118,
 						1028
@@ -1394,40 +1395,70 @@
 						"name":"Josef März",
 						"reg":1028,
 						"links":[
-							{
-								"url":"http://www.karlovaraci.cz/index.php/team/josef-marz"
-							},
-							{
-								"url":"https://www.facebook.com/profile.php?id=100008186927999"
-							},
-							{
-								"url":"https://www.instagram.com/pepi9574"
-							}
+							"http://www.karlovaraci.cz/index.php/team/josef-marz",
+							"https://www.facebook.com/profile.php?id=100008186927999",
+							"https://www.instagram.com/pepi9574"
 						]
 					},
+					"list": [
+						"Bc. Jan Picka",
+						"Ing. Josef Švajgl",
+						"MUDr. Miloš Starý",
+						"Martin Maleček",
+						"Václav Skuhravý",
+						"MUDr. Jiří Brdlík",
+						"Ing. Martin Vinš",
+						"Rudolf Chlad",
+						"Pavel Pagáč",
+						"František Stůj",
+						"Bc. Jakub Novotný",
+						"Mgr. Štěpánka Steinová",
+						"Ing. Jiří Hrůza",
+						"Ing. Alena Botlíková",
+						"Jiří Mikuláš",
+						"Ing. Miroslav Očenášek",
+						"Viktor Tůša",
+						"Jan Šustr",
+						"Jaroslav Přibáň",
+						"JUDr. Hana Zakreničná",
+						"Lukáš Mensator",
+						"Václav Rieger",
+						"Ing. Bronislav Grulich",
+						"Bc. Martin Beer",
+						"Tatiana Kocábová",
+						"Matěj Svoboda",
+						"MUDr. František Černý",
+						"Ing. Miloslav Vrána",
+						"Iva Lokvencová",
+						"Ing. Arch. Miroslav Míka",
+						"František Dřížďal",
+						"Vladimír Suchan",
+						"David Skočil",
+						"Zdeněk Havel",
+						"Bronislav Píša",
+						"Jana Rojovská",
+						"RNDr. Martin Šípek",
+						"Radek Vrána",
+						"Lenka Zemanová",
+						"Tomáš Souhrada",
+						"Karel Lídl",
+						"Mgr. Zdeněk Pečenka",
+						"Josef Kopfstein",
+						"Ing. Michal Soukup"
+					],
 					"support":[
 						"nezávislí starostové"
 					],
 					"links":[
-						{
-							"url":"http://www.karlovaraci.cz"
-						},
-						{
-							"url":"http://www.spokojenykraj.cz"
-						},
-						{
-							"url":"https://www.facebook.com/karlovaraci"
-						},
-						{
-							"url":"https://www.facebook.com/spokojenykraj"
-						},
-						{
-							"url":"https://twitter.com/karlovaraci"
-						},
-						{
-							"url":"https://twitter.com/spokojenykraj"
-						}
-					]
+						"https://vok-volbaprokraj.cz/",
+						"http://www.karlovaraci.cz",
+						"https://www.facebook.com/spokojenykraj",
+						"https://www.facebook.com/karlovaraci",
+						"https://twitter.com/spokojenykraj",
+						"https://twitter.com/karlovaraci"
+					],
+					"data": "kvk/1118-1028",
+					"program": "https://vok-volbaprokraj.cz/o-hnuti/program/"
 				},
 				{
 					"reg":7,
@@ -5069,13 +5100,23 @@
 						"name": "Josef Krysta"
 					},
 					"list": [
-						"Renáta Valerie Nešporek"
+						"Renáta Valerie Nešporek",
+						"Miroslava Škaldová",
+						"Lubomír Kuznik",
+						"Zuzana Hotová",
+						"Nšan Avetysian",
+						"Radek Černý",
+						"Zdeněk Jakubu",
+						"Pavel Olšovský",
+						"Václav Sivák",
+						"Matěj Benda"
 					],
 					"links": [
 	          "https://vok-volbaprokraj.cz/",
-	          "https://www.facebook.com/volbaprokraj/"
+						"https://www.facebook.com/VOK-Volba-pro-kraj-Moravskoslezsk%C3%BD-kraj-105887744535827"
 					],
-					"data": "msk/volba-pro-kraj"
+					"data": "msk/volba-pro-kraj",
+					"program": "https://vok-volbaprokraj.cz/moravskoslezsky-kraj/volebni-program/"
 				},
 				{
 					"reg": 1225
