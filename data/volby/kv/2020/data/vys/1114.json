@@ -2,20 +2,85 @@
   "people": [
     {
       "name": "Karel Fink",
+      "photo": "karel-fink.jpg",
       "reg": 1114,
-      "links": [
-        "https://www.facebook.com/KarelFinkSPD/"
-      ]
-    },
-    {
-      "name": "Radek Koten",
-      "reg": 1114,
-      "links": []
+      "links": [],
+      "about": "jednatel společnosti, předseda Regionálního klubu Kraje Vysočina "
     },
     {
       "name": "Tomáš Prchal",
+      "photo": "tomas-prchal.jpg",
       "reg": 1114,
-      "links": []
+      "links": [],
+      "about": "specialista v oblasti cenotvorby, místopředseda Regionálního klubu Kraje Vysočina"
+    },
+    {
+      "name": "Radek Koten",
+      "photo": "radek-koten.jpg",
+      "reg": 1114,
+      "links": [],
+      "about": "poslanec parlamentu ČR, předseda výboru pro bezpečnost,  místopředseda Regionálního klubu Kraje Vysočina "
     }
-  ]
+  ],
+  "program": {
+    "motto": "Slušný a pracující člověk musí být na 1. místě a musí dostat více peněz, bezpečí a spravedlnosti.",
+    "parts": [
+      {
+        "headline": "Hlavními body programu SPD pro krajské volby jsou:",
+        "parts": [
+          {
+            "copy": "Zlepšení dopravní infrastruktury, zdravotní péče, sociálních služeb, úrovně školství a podpora regionálního podnikání, a tím i podpora zaměstnanosti. Hlavní motto naší kampaně je, že slušný a pracující člověk musí být na 1. místě a musí dostat více peněz, bezpečí a spravedlnosti.  "
+          }
+        ]
+      },
+      {
+        "headline": "Náš program má čtyři nosná celostátní témata:",
+        "parts": [
+          {
+            "list": [
+              "Zastavíme nelegální imigraci",
+              "Prosazujeme přímou volbu hejtmanů, primátorů a starostů, podporujeme přímo zvoleného  prezidenta",
+              "Zastavíme diktát EU",
+              "Konec poplatků České televizi"
+            ]
+          },
+          {
+            "copy": "Celostátní témata budeme prosazovat s využitím legislativní iniciativy krajů. Zahrnutí celostátních témat do programového prohlášení krajské koalice je podmínkou případné účasti SPD v krajské povolební koalici. Tato celostátní témata jsou doplněna v krajských volebních programech jednotlivých krajů o oblasti a témata v působnosti kraje a každý kraj tento svůj konkrétní volební program doplněný o krajská témata prezentuje občanům ve svém kraji."
+          }
+        ]
+      },
+      {
+        "headline": "Zastavíme nelegální imigraci",
+        "parts": [
+          {
+            "copy": "Nedovolíme umístění nelegálních imigrantů v kraji. Chceme bezpečný kraj bez islámských fanatiků. Jsme v zásadní opozici k plánům vlády a Evropské unie na přijímání nelegálních imigrantů. Pokud chceme rozvíjet kraj, musí být především bezpečným domovem pro své občany. Nechceme zde fanatiky, kteří z náboženských důvodů vraždí a terorizují své okolí. Podpoříme referenda a další ústavní protestní akce občanů proti přijímání nelegálních imigrantů a islamizaci."
+          }
+        ]
+      },
+      {
+        "headline": "Prosazujeme přímou volbu hejtmanů, primátorů a starostů, podporujeme přímo zvoleného prezidenta",
+        "parts": [
+          {
+            "copy": "Žádáme přímou volbu hejtmanů, primátorů a starostů. Využijeme legislativní iniciativy kraje k prosazování přímé demokracie návrhem změn volebních zákonů. Přímá volba zvýší odpovědnost politiků před lidmi."
+          }
+        ]
+      },
+      {
+        "headline": "Zastavíme diktát EU",
+        "parts": [
+          {
+            "copy": "Evropská unie zklamala naděje občanů Evropy. Její současná podoba podporuje globální vládnutí nad lidmi a ohrožuje suverenitu národních států, svobodu a demokracii. Prosadíme právo občanů rozhodnout v referendu, zda chtějí setrvat, nebo vystoupit s EU."
+          }
+        ]
+      },
+      {
+        "headline": "Konec poplatků České televizi",
+        "parts": [
+          {
+            "copy": "Kraj navrhne změnu zákona, která zruší poplatky České televizi pro seniory. Máme zásadní výhrady k práci a hospodaření České televize. Naším prvním krokem bude osvobození seniorů od poplatků České televizi. Chceme spojit sociální opatření ve prospěch seniorů s tlakem na lepší hospodaření České televize."
+          }
+        ]
+      }
+    ]
+  }
 }
