@@ -4,25 +4,42 @@
       "name": "Jan Vitula",
       "reg": 721,
       "photo": "jan-vitula.jpg",
-      "about": "Náměstek hejtmana Jan Vitula (51), který je v čele koaliční kandidátky TOP 09 v Jihomoravském kraji, je zároveň starostou města Židlochovice. Jako náměstek hejtmana je zodpovědný za oblast regionálního rozvoje v oblasti školství, vědy, výzkumu, inovací, marketingu a smart regionu. V minulosti spolupracoval na vzniku Regionální inovační strategie a vedl expertní tým firmy Ernst & Young, který vytvářel jednu z prvních verzí operačního programu Výzkum a vývoj pro inovace. Působil také jako kvestor Masarykovy univerzity."
+      "about": "Náměstek hejtmana Jan Vitula (51), který je v čele koaliční kandidátky TOP 09 v Jihomoravském kraji, je zároveň starostou města Židlochovice. Jako náměstek hejtmana je zodpovědný za oblast regionálního rozvoje v oblasti školství, vědy, výzkumu, inovací, marketingu a smart regionu. V minulosti spolupracoval na vzniku Regionální inovační strategie a vedl expertní tým firmy Ernst & Young, který vytvářel jednu z prvních verzí operačního programu Výzkum a vývoj pro inovace. Působil také jako kvestor Masarykovy univerzity.",
+      "quote": "Za posledních 8 let Brno neuvěřitelně vyrostlo a dnes se uchází o titul Hlavní evropské město inovací 2020. Jsem hrdý na to, že jsem tomuto úspěchu také mohl přispět."
     },
     {
       "name": "Jana Drápalová",
-      "links": []
+      "links": [
+        "https://www.facebook.com/jana.drapalova.35"
+      ],
+      "quote": "Od roku 1990 se zabývám projekty, které zlepšují kvalitu života a šetří přírodu i peníze lidem. Za proměnu městské části Brno-Nový Lískovec v moderní čtvrť, kde lidé šetří za energie v modernizovaných domech a relaxují v nových parcích, kde se dobře hospodaří s dešťovou vodou a pečuje o zeleň, jsem letos získala cenu Josefa Vavrouška za mimořádný počin.",
+      "about": "starostka městské části Brno - Nový Lískovec, zastupitelka Jihomoravského kraje"
     },
     {
       "name": "Tomáš Třetina",
       "reg": 721,
       "photo": "tomas-tretina.jpg",
       "links": [
+        "https://www.tomastretina.cz/",
         "https://www.top09.cz/volby/2020-senat/mgr-tomas-tretina-26984.html",
-				"https://www.facebook.com/starosta.tretina"
-      ]
+        "https://www.facebook.com/starosta.tretina",
+				"https://twitter.com/tomas_tretina"
+      ],
+      "quote": "Moravský Krumlov a celé Znojemsko je krásný kus kraje, který potřebuje investice zejména do moderního vlakového spojení s krajským městem. Přesto se i u nás dějí velké věci - zanedlouho otevřeme po důkladné opravě první část zámku v Moravském Krumlově. Velmi mě těší, že se sem po letech vrátí slavná Muchova Slovanská epopej.",
+      "about": "starosta města Moravský Krumlov"
     },
     {
-      "name": "Jiří Kacetl",
-      "reg": 1190,
-      "links": []
+      "name": "Jan Schneider",
+      "about": "předseda Asociace ligových klubů házené"
+    },
+    {
+      "name": "Petr Kunc",
+      "about": "místostarosta MČ Brno - Židenice, projektant - autorizovaný inženýr, zastupitel JM kraje",
+      "reg": 721,
+      "links": [
+        "https://www.facebook.com/Petr-Kunc-101144454971624/",
+        "https://twitter.com/kunc_zidenice"
+      ]
     }
   ]
 }

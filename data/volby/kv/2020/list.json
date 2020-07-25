@@ -4075,27 +4075,34 @@
 							"reg":721
 						},
 						{
-							"name":"Jiří Kacetl",
-							"reg":1190
+							"name":"Jan Schneider"
 						},
 						{
 							"name": "Petr Kunc",
 							"reg": 721
+						},
+						{
+							"name":"Jiří Kacetl",
+							"reg":1190
+						},
+						{
+							"name":"Michal Doležal"
+						},
+						{
+							"name":"Matouš Vencálek"
+						},
+						{
+							"name":"Hana Potměšilová"
+						},
+						{
+							"name":"David Veselý"
 						}
 					],
 					"links":[
-						{
-							"url":"http://spolupromoravu.cz"
-						},
-						{
-							"url":"https://www.facebook.com/SpoluProMoravu"
-						},
-						{
-							"url":"https://twitter.com/SpolUpro"
-						},
-						{
-							"url":"https://www.instagram.com/spolupromoravu"
-						}
+						"http://spolupromoravu.cz",
+						"https://www.facebook.com/SpoluProMoravu",
+						"https://twitter.com/SpolUpro",
+						"https://www.instagram.com/spolupromoravu"
 					],
 					"data": "jmk/spolu-pro-moravu"
 				},
