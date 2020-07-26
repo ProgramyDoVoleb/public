@@ -14,7 +14,8 @@
       "links": [
         "https://www.facebook.com/PrchalTomasSPD/"
       ],
-      "about": "specialista v oblasti cenotvorby, místopředseda Regionálního klubu Kraje Vysočina"
+      "about": "Specialista v oblasti cenotvorby, místopředseda Regionálního klubu Kraje Vysočina. V Havlíčkově Brodě jsem se narodil, ale trvale žiji v Humpolci a tam jsem také chodil i na Střední obchodní školu obor: výpočetní technika. Po absolvování jsem začal pracovat v oblasti cenotvorby a projektového controllingu, kde jsem se věnoval, především tvorbě cenových nabídek projektových prací a inženýrských činností u společnosti ČEPS,  a.s. Jsem již 3. rokem místopředsedou RK SPD Vysočina a mám již mnohé zkušenosti jak s komunální tak i krajskou politikou. Mým velkým koníčkem je moderní historie a Taekwondo.",
+      "quote": "Přál bych si, aby byl občan více zapojen do dění v našem kraji a cítil se tu bezpečně."
     },
     {
       "name": "Radek Koten",
@@ -24,6 +25,23 @@
         "https://www.facebook.com/RadekKotenSPD/"
       ],
       "about": "poslanec parlamentu ČR, předseda výboru pro bezpečnost,  místopředseda Regionálního klubu Kraje Vysočina "
+    },
+    {
+      "name": "Romana Krejčířová",
+      "photo": "romana-krejcirova.jpg",
+      "reg": 1114,
+      "links": [],
+      "about": "Narodila jsem se a žiji v Jihlavě, jsem vdaná, mám 1. dítě, po střední škole jsem pracovala 3 roky na rehabilitačním oddělení, jak na ambulanci, tak lůžkové v nemocnici v Jihlavě a studovala obor: diplomovaný fyzioterapeut na vyšší odborné škole, nyní pracuji již 17. let v soukromé ambulanci rehabilitace, má práce je i můj koníček, členkou SPD jsem přes 3 roky, Pracuji také v komisi pro občanské záležitosti Rady města Jihlavy.",
+      "quote": "Chci aby kraj Vysočina neztrácel, ale získával, nebral, ale dával. Slušným lidem důstojně žití ne přežívání."
+    },
+    {
+      "name": "Pavel Šabata",
+      "photo": "pavel-sabata.jpg",
+      "reg": 1114,
+      "links": [
+        "https://www.facebook.com/RadekKotenSPD/"
+      ],
+      "about": "bezpečnostní specialista"
     }
   ],
   "program": {
@@ -33,58 +51,110 @@
         "headline": "Hlavními body programu SPD pro krajské volby jsou:",
         "parts": [
           {
-            "copy": "Zlepšení dopravní infrastruktury, zdravotní péče, sociálních služeb, úrovně školství a podpora regionálního podnikání, a tím i podpora zaměstnanosti. Hlavní motto naší kampaně je, že slušný a pracující člověk musí být na 1. místě a musí dostat více peněz, bezpečí a spravedlnosti.  "
+            "copy": "Zlepšení dopravní infrastruktury, zdravotní péče, sociálních služeb, úrovně školství a podpora regionálního podnikání, a tím i podpora zaměstnanosti. Hlavní motto naší kampaně je, že slušný a pracující člověk musí být na 1. místě a musí dostat více peněz, bezpečí a spravedlnosti. "
           }
         ]
       },
+
       {
-        "headline": "Náš program má čtyři nosná celostátní témata:",
+        "headline": "Bezpečný kraj",
         "parts": [
           {
-            "list": [
-              "Zastavíme nelegální imigraci",
-              "Prosazujeme přímou volbu hejtmanů, primátorů a starostů, podporujeme přímo zvoleného  prezidenta",
-              "Zastavíme diktát EU",
-              "Konec poplatků České televizi"
-            ]
-          },
-          {
-            "copy": "Celostátní témata budeme prosazovat s využitím legislativní iniciativy krajů. Zahrnutí celostátních témat do programového prohlášení krajské koalice je podmínkou případné účasti SPD v krajské povolební koalici. Tato celostátní témata jsou doplněna v krajských volebních programech jednotlivých krajů o oblasti a témata v působnosti kraje a každý kraj tento svůj konkrétní volební program doplněný o krajská témata prezentuje občanům ve svém kraji."
+            "copy": "Zvýšíme podporu programů prevence kriminality v oblastech bez doplatkových zón. Zajistíme více peněz na prevenci na případná opatření kraje na jednotlivé krizové stavy. Žádná podpora migrace a islamizace! Kraj musí iniciovat legislativní návrhy podporující boj proti diktátu EU. Plnou podporu musí mít složky integrovaného záchranného systému včetně složek prevence proti infekčním onemocněním."
           }
         ]
       },
+
       {
-        "headline": "Zastavíme nelegální imigraci",
+        "headline": "Podpora pracujícím rodinám,seniorům a zdravotně postiženým",
         "parts": [
           {
-            "copy": "Nedovolíme umístění nelegálních imigrantů v kraji. Chceme bezpečný kraj bez islámských fanatiků. Jsme v zásadní opozici k plánům vlády a Evropské unie na přijímání nelegálních imigrantů. Pokud chceme rozvíjet kraj, musí být především bezpečným domovem pro své občany. Nechceme zde fanatiky, kteří z náboženských důvodů vraždí a terorizují své okolí. Podpoříme referenda a další ústavní protestní akce občanů proti přijímání nelegálních imigrantů a islamizaci."
+            "copy": "Podpoříme výstavbu nových domů pro seniory, jakož i podporu péče o seniory v rodinách. Zvláštní pozornost budeme věnovat osamělým seniorům. Zároveň zajistíme podporu dostupných startovacích bytů pro mladé rodiny."
           }
         ]
       },
+
       {
-        "headline": "Prosazujeme přímou volbu hejtmanů, primátorů a starostů, podporujeme přímo zvoleného prezidenta",
+        "headline": "Dostupná a kvalitní zdravotní péče",
         "parts": [
           {
-            "copy": "Žádáme přímou volbu hejtmanů, primátorů a starostů. Využijeme legislativní iniciativy kraje k prosazování přímé demokracie návrhem změn volebních zákonů. Přímá volba zvýší odpovědnost politiků před lidmi."
+            "copy": "Kvalitní lékařská péče musí být dostupná pro všechny obyvatele kraje na stejné úrovni. Zajistíme lékařskou a stomatologickou pohotovost v krajském městě 7 dnů v týdnu. Podpoříme regionální síť veřejných nemocnic. V případě vzniku místních ohnisek nákazy COVID 19 musíme reagovat rychle a účinně."
           }
         ]
       },
+
       {
-        "headline": "Zastavíme diktát EU",
+        "headline": "Doprava",
         "parts": [
           {
-            "copy": "Evropská unie zklamala naděje občanů Evropy. Její současná podoba podporuje globální vládnutí nad lidmi a ohrožuje suverenitu národních států, svobodu a demokracii. Prosadíme právo občanů rozhodnout v referendu, zda chtějí setrvat, nebo vystoupit s EU."
+            "copy": "Zlepšíme dopravní obslužnost a zajistíme více peněz do kvalitních oprav silnic II. a III. třídy. Budeme zkvalitňovat integrovaný dopravní systém."
           }
         ]
       },
+
       {
-        "headline": "Konec poplatků České televizi",
+        "headline": "Konec podpory nepřizpůsobivých",
         "parts": [
           {
-            "copy": "Kraj navrhne změnu zákona, která zruší poplatky České televizi pro seniory. Máme zásadní výhrady k práci a hospodaření České televize. Naším prvním krokem bude osvobození seniorů od poplatků České televizi. Chceme spojit sociální opatření ve prospěch seniorů s tlakem na lepší hospodaření České televize."
+            "copy": "Musí skončit podpora nepřizpůsobivých a vyplácení neadresných sociálních dávek. Odmítáme pozitivní diskriminaci a zvýhodňování takzvaných diskriminovaných menšin."
+          }
+        ]
+      },
+
+      {
+        "headline": "Zrušení televizních poplatků",
+        "parts": [
+          {
+            "copy": "V rámci zákonné iniciativy kraje navrhneme zákon, aby provoz veřejnoprávní televize byl hrazen z rozpočtové kapitoly státního rozpočtu a její hospodaření podléhalo kontrole NKÚ."
+          }
+        ]
+      },
+
+      {
+        "headline": "Kvalitní školy",
+        "parts": [
+          {
+            "copy": "Podpoříme výuku učňovských oborů a technického vzdělání z krajského rozpočtu v rámci tzv. duálního vzdělávání. Kvalitní absolventi řemesel a technických oborů jsou základem hospodářské prosperity kraje. Podpoříme vzdělávání talentovaných dětí. Jsme proti ideologizaci výuky na školách."
+          }
+        ]
+      },
+
+      {
+        "headline": "Kultura a sport, podpora venkova, regionální produkce potravin a cestovního ruchu",
+        "parts": [
+          {
+            "copy": "Zajistíme více finančních prostředků pro regionální rozvoj. V rámci jednotlivých programů financování budeme prosazovat větší podporu venkova, regionální produkce potravin a cestovního ruchu. Zajistíme více peněz na opravy kulturních památek, podporu volno časových sportovních aktivit a lokálních kulturních akcí."
+          }
+        ]
+      },
+
+      {
+        "headline": "Konec korupce a zbytečné byrokracie",
+        "parts": [
+          {
+            "copy": "Snížíme stávající byrokracii a zajistíme maximální transparentnost výběrových řízení. Musí skončit klientelismus v souvislosti s čerpáním dotací, kde vzniká podhoubí pro korupční jednání. To se musí změnit!"
+          }
+        ]
+      },
+
+      {
+        "headline": "Zadržování vody v krajině",
+        "parts": [
+          {
+            "copy": "Podpoříme rozšíření stávajících vodních ploch, tvorbu mokřadů, luhových hájů a retenčních nádrží. Nechceme přijít o Jizerské hory a vody ve studních. Kraj musí zajistit perspektivu dodávky pitné vody z kvalitních hromadných zdrojů."
+          }
+        ]
+      },
+
+      {
+        "headline": "Podpora regionálního podnikání je jediný způsob jak zabránit nezaměstnanosti.",
+        "parts": [
+          {
+            "copy": "Regionální firmy, podnikatelé a živnostníci musí mít vytvořené podmínky pro získání veřejných zakázek. Je nutné takto podpořit vznik pracovních míst. Činnost malých a středních podniků a firem je základem hospodářské prosperity kraje. Je to správná cesta k udržení zaměstnanosti a životní úrovně pracujících lidí. Velkou pozornost budeme věnovat rekvalifikačním projektům, které plně podpoříme. Je nutné podpořit regionální turistickou přitažlivost kraje a na turistiku navázané podnikatelské aktivity."
           }
         ]
       }
+
     ]
   }
 }
