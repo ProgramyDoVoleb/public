@@ -2003,11 +2003,19 @@
 					"reg":768,
 					"leader":{
 						"name":"Jan Schiller",
-						"reg":768
+						"photo": "jan-schiller.jpg",
+						"reg":768,
+						"links": [
+							"https://www.facebook.com/JanSchiller.politik/"
+						]
 					},
 					"links":[
 						"https://www.anobudelip.cz/ustecky-kraj"
-					]
+					],
+					"list": [
+						"Marek Hrabáč", "Marek Kocánek", "Radim Laibl", "Tomáš Kirbs", "Marian Čapek", "Vlastimil Skála", "Jindra Zalabáková", "Pavla Tomášová", "Zdeněk Plecitý", "Milan Rychtařík", "Jiří Valenta", "Miroslav Novotný", "Lumír Kus", "Jiří Štábl", "Lubomíra Mejstříková", "Jiří Řezníček", "Petr Nedvědický", "Miroslav Matějka", "Jiří Anděl", "Kateřina Mazánková", "Zuzana Schwarz Bařtipánová", "Jana Škudrnová", "Martin Pala", "Jaromír Kubelka", "Patrik Srba", "Alena Vaněčková", "Pavel Tůma", "Jan Kuzma", "Tomáš Vlach", "Patricie Prokešová", "Lubomír Veselka", "Pavel Elias", "Zuzana Hořínková Kawanová", "Renata Vítová", "Monika Zemanová", "Ladislav Růžička", "Ondřej Štěrba", "Petr Šrámek", "Milan Petrilák", "František Neumann", "Jiří Urbánek", "Josef Douša", "Radek Andrš", "Lukáš Sinu", "Jan Vycpálek", "Jindřich Nádvorník", "Pavel Pintr", "Martin Hruška", "Vladimír Kossakowski", "Jaroslava Veselá", "Rudolf Klaška", "Jaroslav Šimanovský", "Václav Jugl", "Romana Šrámková", "Tomáš Vávra", "Věra Říha", "Eva Nováková", "Stanislav Rumlena", "Petra Troníčková"
+					],
+					"data": "ulk/768"
 				},
 				{
 					"reg":137,
