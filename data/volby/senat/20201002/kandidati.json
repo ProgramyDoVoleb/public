@@ -3363,7 +3363,10 @@
       ],
       "reg": 81,
       "links": [
-        "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Se%C4%8Fa"
+				"antonin.seda@seznam.cz",
+				"http://antoninseda.cz/",
+        "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Se%C4%8Fa",
+				"https://www.facebook.com/SedaDoSenatu/"
       ],
       "support": [
         7
@@ -3371,7 +3374,8 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-      "work": "bývalý poslanec PČR a radní města Uherské Hradiště, letecký konstruktér a technik"
+      "work": "bývalý poslanec PČR a radní města Uherské Hradiště, letecký konstruktér a technik",
+			"motto": "loajalita nade vše kromě cti"
     },
     {
       "name": [
@@ -3882,10 +3886,12 @@
       "reg": 33,
       "links": [
 				"sarka.struplova@seznam.cz",
-				"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/mgr-sarka-struplova-ruzickova-mba?fbclid=IwAR1BufRfYvQzz0hM6ZtCLyTMdhz89fjjarWwDpE0Ja-FPW67oBWfIExuM58",
+				"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/mgr-sarka-struplova-ruzickova-mba",
 				"https://www.facebook.com/sarka.ruzickova.1238"
 			],
-      "support": [704]
+      "support": [704],
+			"photo": "sarka-struplova.png",
+			"quote": "Jsem velkým patriotem, a proto se zabývám také otázkou regionálního rozvoje se zaměřením na lokální ekonomiku. Lokální ekonomika je pro občanskou společnost vysoce důležitá. Již ze své podstaty je soběstačnost obce či regionu postavena na tom, aby si občané v co největším množství obstarali potřebné zdroje sami. Zaměřenost na lokální ekonomiku sebou přináší výhody. A to nejen ekonomické, ale rovněž výhody ekologické a nezanedbatelný je i dopad do oblasti regionální zaměstnanosti. Podpora lokálních ekonomik je téma, které si zaslouží být v popředí našeho zájmu."
     },
     {
       "name": [
@@ -3936,6 +3942,22 @@
       "links": [],
       "support": [721],
 			"work": "středoškolský učitel, bývalý místostarosta města Příbram"
+    },
+    {
+      "name": [
+        "",
+        "Rostislav",
+        "Domorák",
+        ""
+      ],
+      "reg": 6,
+      "links": [
+				"DomorakR@seznam.cz",
+				"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-rostislav-domorak"
+			],
+      "support": [704],
+			"work": "Ředitel Oblastní charity Ústí nad Labem",
+			"photo": "rostislav-domorak.png"
     }
   ],
   "current": [
