@@ -4448,6 +4448,7 @@
 					"leader":{
 						"name":"Ladislav Okleštěk",
 						"reg":768,
+			      "photo": "ladislav-oklestek.jpg",
 						"links":[
 							"https://www.ladislavoklestek.cz/",
 							"https://www.facebook.com/OklestekLadislav/",
@@ -4456,7 +4457,14 @@
 					},
 					"links":[
 						"https://www.anobudelip.cz/olomoucky-kraj"
-					]
+					],
+					"list": [
+						"Daniel Vitonský",
+						"Jaromíra Lónová",
+						"Miroslava Ferancová",
+						"Petr Krmela"
+					],
+					"data": "olk/768"
 				},
 				{
 					"reg":47,
