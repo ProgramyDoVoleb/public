@@ -150,7 +150,10 @@
       "reg": 6,
       "links": [],
       "support": [
-        7
+				{
+          "name": "Lepší sever",
+          "logo": "obecne/strany/loga/x-lepsisever.png"
+        }
       ],
       "color": "#f59231",
       "work": "starosta obce Raná, diplomat, bývalý velvyslanec v Indonésii"
