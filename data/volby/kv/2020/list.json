@@ -1876,24 +1876,15 @@
 						"name":"Martin Klika",
 						"reg":99,
 						"links":[
-							{
-								"url":"https://www.facebook.com/KlikaUsteckyKraj"
-							},
-							{
-								"url":"https://twitter.com/Martin_Klika"
-							}
+							"https://www.facebook.com/KlikaUsteckyKraj",
+							"https://twitter.com/Martin_Klika"
 						]
 					},
 					"links":[
-						{
-							"url":"http://www.lepsisever.cz"
-						},
-						{
-							"url":"https://www.facebook.com/lepsisever"
-						},
-						{
-							"url":"https://twitter.com/LepsiSever"
-						}
+						"http://www.lepsisever.cz",
+						"https://www.facebook.com/lepsisever",
+						"https://twitter.com/LepsiSever"
+
 					]
 				},
 				{
@@ -2133,7 +2124,7 @@
 								"url":"https://www.instagram.com/hejtmanmartinputa"
 							}
 						],
-						"photo":"martin-puta.jpg"
+						"photo":"martin-puta-2.jpg"
 					},
 					"support":[
 						"Unie pro sport a zdraví",
