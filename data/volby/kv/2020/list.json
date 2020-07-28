@@ -1855,16 +1855,26 @@
 					]
 				},
 				{
+					"reg": 7,
+					"leader": {
+						"name": "Jaroslav Krákora",
+						"reg": 7
+					},
+					"list": [
+						"Petr Benda",
+						"Michal Ševcovic"
+					]
+				},
+				{
 					"name":"Lepší sever",
 					"logo":"obecne/strany/loga/x-lepsisever.png",
 					"coalition":[
-						7,
 						1012,
 						1175
 					],
 					"leader":{
 						"name":"Martin Klika",
-						"reg":7,
+						"reg":99,
 						"links":[
 							{
 								"url":"https://www.facebook.com/KlikaUsteckyKraj"
