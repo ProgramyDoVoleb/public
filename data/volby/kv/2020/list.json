@@ -462,7 +462,11 @@
 					"support": [79]
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jan Hřivna",
+						"reg": 156
+					}
 				},
 				{
 					"reg": 1173
@@ -895,14 +899,18 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - ZDRAVÝM ROZUMEM PRO NÁŠ KRAJ",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Roman Pospíšil",
+						"reg": 156
+					}
 				},
 				{
 					"name": "VIZE - národní socialisté",
@@ -1261,14 +1269,18 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - Čistý kraj - Bez ubytoven zahraničních dělníků!",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Jiří Štěpánek",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -1719,14 +1731,18 @@
 					}
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "STOP ROUŠKÁM A LIKVIDACI EKONOMIKY",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Tomáš Vejvoda",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -1967,7 +1983,7 @@
 					"data": "ulk/1114"
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "ČISTÝ A LEPŠÍ SEVER",
 					"coalition": [
 						156,
 						{
@@ -1976,22 +1992,9 @@
 						}
 					],
 					"leader":{
-						"name":"Tomáš Vandas",
+						"name":"Jindřich Svoboda",
 						"reg":156,
-						"links":[
-							{
-								"url":"http://www.tomasvandas.cz"
-							},
-							{
-								"url":"https://www.facebook.com/tomasvandas.cz"
-							},
-							{
-								"url":"https://twitter.com/tomas_vandas"
-							},
-							{
-								"url":"https://www.instagram.com/vandastomas"
-							}
-						]
+						"links":[]
 					},
 					"links":[
 						{
@@ -3180,9 +3183,6 @@
 					"leader": {
 						"name": "Václav Makalouš"
 					}
-				},
-				{
-					"reg": 156
 				}
 			]
 		},
@@ -3634,14 +3634,18 @@
 					"reg":770
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - STOP KRIMIGRANTŮM - Čistý kraj,",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Marek Nechala",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -4067,7 +4071,10 @@
 					}
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Petr Štyndl"
+					}
 				}
 			]
 		},
@@ -4435,14 +4442,17 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - Čistý kraj",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Josef Křivánek"
+					}
 				}
 			]
 		},
@@ -4744,7 +4754,10 @@
 					"support": [79]
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Lumír Daneček"
+					}
 				},
 				{
 					"name": "Soukromníci a ODA",
@@ -5368,7 +5381,10 @@
 					"reg": 1225
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jan Tomeš"
+					}
 				}
 			]
 		}
