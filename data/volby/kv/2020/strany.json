@@ -513,6 +513,18 @@
       }
     },
     {
+      "reg": 1179,
+      "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+      "hash": "bos",
+      "short": "BOS",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/1179-hnuti-bos.png",
+      "color": "#ce0706"
+    },
+    {
       "reg": 119,
       "name": "Unie pro sport a zdraví",
       "short": "USZ",
@@ -2337,6 +2349,12 @@
       "hash": "volte-pravy-blok",
       "color": "#aaa",
       "logo": "obecne/strany/loga/98-pravy-blok.jpg"
+    },
+    {
+      "name": "Alternativa pro nezávislé kandidáty 2020",
+      "short": "ApnK2020",
+      "hash": "alternativa-pro-nezavisle-kandidaty-2020",
+      "color": "#aaa"
     },
     {
       "name": "Čistý kraj",
