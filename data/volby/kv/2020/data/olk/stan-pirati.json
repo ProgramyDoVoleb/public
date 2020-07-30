@@ -3,13 +3,1303 @@
     {
       "reg": 166,
       "name": "Josef Suchánek",
-      "photo": "josef-suchanek.jpg",
-      "about": "Krajská kandidátka STAN nabízí zkušené a pracovité osobnosti, které jsou odborníky ve svých oblastech a budou pro kraj skutečným přínosem. Máme více než 40 starostů obcí a měst po celém kraji. Díky nim známe problémy našeho kraje a možnosti jejich řešení opravdu dobře."
+      "photo":"josef-suchanek-3.jpg",
+      "about": "Jsem manažer, ředitel Správy kolejí a menz Univerzity Palackého v Olomouci, včelař.",
+      "quote": "Chtěl bych realizovat slušnější krajskou politiku, tzn. politiku bez klientelismu. Politiku v souladu se zdravým rozumem, ve prospěch obyvatel Olomouckého kraje. Mám rád svou práci. Stále věřím v možnost slušnější politiky na všech úrovních a vím, že v menších obcích taková většinou je. Švindlovat se nemá ani doma, ani v práci, ani v politice. Mám rád přírodu a včelařím. S oblibou vyrážím na kolo, na lyže, na vodu, hraji badminton a poslouchám dobrou hudbu."
     },
     {
       "name": "Zdeňka Dvořáková Kocourková",
+      "photo": "zdenka-dvorakova-kocourkova.jpg",
       "reg": 720,
-      "links": []
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/zdenka-dvorakova-kocourkova/",
+        "https://www.facebook.com/zdenkadvorakovakocourkova/",
+        "https://www.instagram.com/zdenka_dvorakova_kocourkova/"
+      ],
+      "about": "Jsem poradkyní pro snižování energetické náročnosti budov a využívání obnovitelných zdrojů energie. Jsem bojovnicí za efektivní nakládání s veřejnými prostředky, roky se účastním občanské iniciativy Rekonstrukce státu. V letech 2014 - 2019 jsem byla opoziční zastupitelkou města Šumperk.",
+      "quote": "Chtěla bych dosáhnout maximální transparentnosti úřadu, otevřených výběrových řízení, digitalizace úřadu s cílem větší občanské spokojenosti při kontaktu s krajem, zvýšení efektivity při nakládání s veřejnými prostředky, rovnoměrného regionálního rozvoje a péče o životní prostředí. "
+    },
+    {
+      "name": "Martin Šmída",
+      "photo": "martin-smida.jpg",
+      "reg": 720,
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/ing-et-ing-martin-smida/"
+      ],
+      "about": "Jsem šťastně ženatý a mám dvě děti. Druhé volební období jsem zastupitelem v Majetíně a také členem republikového výboru Pirátů. Ve volném čase chodím s kamarády na pivo, hraju s ochotnickým divadlem, punkovou kapelou nebo jako DJ.",
+      "quote": "Chci zastupovat svobodomyslné lidi, kterým záleží na budoucnosti. Moje odbornost je v životním prostředí, tam chci především aktualizovat plán odpadového hospodářství pro 21. století. Chci rozkrýt zákulisí podivné servisní společnosti Odpady Olomouckého kraje. Chci zabránit bujení korupce, klientelismu, kumulací funkcí a politických trafik v Olomouckém kraji."
+    },
+    {
+      "name": "Tomáš Müller",
+      "photo": "tomas-muller.jpg",
+      "reg": 166,
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/ing-tomas-muller/"
+      ],
+      "about": "Jsem starostou naší obce už řadu let. V krajském zastupitelstvu jsem již působil v opozici a díky tomu můžu říct, že problémy a témata na krajské a obecní úrovní jsou velmi podobná a navzájem se prolínají. Myslím si, že můžu využít řadu zkušeností a dobrou znalost prostředí. Jsem sportovec, rád běhám ve volné přírodě. Jsem také fanouškem Sigmy Olomouc. Doma peču chleba, pálím slivovici a sadařím.",
+      "quote": "Jsem přesvědčený o tom, že politika se dá dělat i čistě. Proto budu chtít i v krajském zastupitelstvu prosazovat smysluplné investice s co největší transparentností pro veřejnost. Na krajské úrovni bych se také rád věnoval životnímu prostředí, sportu a dopravě."
+    },
+    {
+      "name": "Jaromír Horký",
+      "photo": "jaromir-horky.jpg",
+      "reg": 720,
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/jaromir-horky/",
+        "http://jaromirhorky.cz/",
+        "https://www.facebook.com/jarda.horky",
+        "https://www.instagram.com/jarcek_h/"
+      ],
+      "about": "Jsem PR a marketingový specialista, volební manažer a pořadatel benefičních koncertů Živá ulice. Kromě toho, že jsem nadšený fotograf a možná zvládnu ještě i něco na klavír, jsem velkým fanouškem sportu. Mým favoritem je házená, kterou jsem až do nedávna hrál, ale kvůli zranění jsem s ní musel skončit.",
+      "quote": "Mým cílem jsou kulturně živá města a regiony, transparentní nakládání s veřejnými prostředky a racionálně řešená problematika životního prostředí. Chci prosperující kraj, kde se bude lidem dobře žít a nebude se jim chtít odcházet. Zkrátka chci řešit budoucnost teď."
     }
-  ]
+  ],
+  "program": {
+    "parts": [
+      {
+        "headline": "Čeho chceme dosáhnout",
+        "parts": [
+          {
+            "headline": "ŽIVOTNÍ PROSTŘEDÍ",
+            "copy": "Budeme podporovat chytré hospodaření s vodou v krajině i ve městech, pečovat o půdu a čisté ovzduší. Budeme méně kácet a více sázet. Zaměříme se i na recyklaci odpadů, budeme směřovat k brzkému splnění cíle 65 % materiálové recyklace odpadů. Myslíme globálně, jednáme lokálně."
+          },
+          {
+            "headline": "DOPRAVA",
+            "copy": "Zasadíme se o urychlení dostavby páteřní sítě dálnic, silnic a obchvatů měst a obcí. Zavedeme transparentní způsob stanovení priorit, které silnice mají být přednostně opravovány s ohledem na potřeby obyvatel. Podpoříme výstavbu cyklostezek. Zajistíme chytrou dopravní infrastrukturu."
+          },
+          {
+            "headline": "ZDRAVOTNICTVÍ A SOCIÁLNÍ POLITIKA",
+            "copy": "Budeme usilovat o dostatek zdravotnického personálu, vytvoříme motivační podmínky pro návrat mladých lékařů do regionu. Podpoříme vytvoření systému dostupného bydlení, zaměříme se na podporu nízkopříjmových domácností, rodin s dětmi, seniorů či občanů se zdravotním handicapem. Podpoříme programy prevence a mobilní paliativní péči."
+          },
+          {
+            "headline": "ŠKOLSTVÍ",
+            "copy": "Zasadíme se o propagaci a vrácení prestiže výuce řemesel, víceletým gymnáziím vrátíme jejich původní účel. Podpoříme softwarově otevřená řešení a online výuku. Zaměříme se na podporu kariérního poradenství, kvalitní výuku cizích jazyků a rozvoj kritického myšlení studentů."
+          },
+          {
+            "headline": "REGIONÁLNÍ ROZVOJ",
+            "copy": "Zaměříme se na rozvoj každého regionu kraje na míru, zohledníme rozdíly mezi ekonomickou úrovní, problémy i potenciálem jednotlivých částí kraje. Zajistíme, aby do čtvrt hodiny jízdy veřejným dopravním prostředkem byly občanům zajištěny veškeré základní potřeby jako lékařská péče, základní vzdělání či maloobchod."
+          },
+          {
+            "headline": "FINANCE",
+            "copy": "Zrevidujeme účelnost čerpaných úvěrů. Krajské dotace budeme rozdělovat transparentně a do otevřených grantových soutěží nasměrujeme více peněz. Zavedeme úsporná opatření v provozních nákladech pro udržení investic a osekáme zbytečnou byrokracii pro příspěvkové organizace."
+          },
+          {
+            "headline": "TRANSPARENCE",
+            "copy": "Budeme zveřejňovat smlouvy, faktury a maximum informací o úřadě, aby se občané nemuseli složitě dotazovat. Zveřejníme vše, co můžeme, nejen to, co musíme. Zasadíme se o férové krajské noviny a konec politických trafik. Zavedeme otevřená výběrová řízení pro vedoucí pozice na úřadě i v krajských firmách."
+          },
+          {
+            "headline": "KULTURA",
+            "copy": "Zajistíme kulturní vyžití i v odlehlých částech kraje. Zasadíme se o vznik uměleckých inkubátorů či sdíleného kalendáře kulturních akcí v kraji. Podpoříme regionální spolky i jednotlivce, vesnická kina či kočovná letní kina. Zavedeme jednodušší sdílení knih mezi knihovnami v kraji a podpoříme větší digitalizaci knižních fondů."
+          },
+          {
+            "headline": "CESTOVNÍ RUCH",
+            "copy": "Eliminujeme negativní důsledky masové turistiky, místo toho podpoříme projekty s přesahem, které nemají za cíl pouhý zisk. Nejatraktivnější turistické cíle kraje budeme řádně opatrovat. Upravíme režim rozdělování ubytovacích poplatků a zajistíme lepší řízení a propagaci cestovního ruchu v kraji."
+          },
+          {
+            "headline": "SPORT",
+            "copy": "Umožníme dostupné sportovní vyžití všem, především dětem a mládeži. Vrcholový sport budeme podporovat především vytvářením kvalitních podmínek pro jednotlivé kluby, finanční podporu budeme poskytovat jen transparentním organizacím. Podpoříme výstavbu multifunkčních sportovních hal."
+          },
+          {
+            "headline": "IT",
+            "copy": "Podpoříme inteligentní dopravu v kraji. Zajistíme internet do každého koutu kraje a dostupná řešení pro chytré distanční vzdělávání či jednání a bezpečné hlasování krajských orgánů na dálku. Budeme publikovat veřejná data úřadu jako open data."
+          },
+          {
+            "headline": "BEZPEČNOST",
+            "copy": "Zasadíme se o kvalitní vybavení jednotek integrovaného záchranného systému, dostatek ochranných pomůcek, práce s daty a moderními technologiemi a efektivní systém komunikace a koordinace krizových složek. Podpoříme prevenci kriminality, protidrogovou osvětu či kurzy bezpečného používání internetu pro rodiče, děti a seniory."
+          }
+        ]
+      },
+      {
+        "headline": "Životní prostředí",
+        "parts": [
+          {
+            "headline": "Kvalitní a dostupná voda",
+            "parts": [
+              {
+                "copy": "Budeme podporovat chytré hospodaření s vodou v krajině i ve městech."
+              },
+              {
+                "copy": "Zasadíme se o udržení vody v krajině pomocí remízků, lužních lesů, slepých ramen, tůní a suchých poldrů tak, aby plnily i svou protipovodňovou funkci."
+              },
+              {
+                "copy": "Budeme apelovat na průmyslové producenty i zemědělce a lesní hospodáře, aby jejich činností nedocházelo k degradaci podzemních vod, a lidem tak zůstalo ve studních dostatek kvalitní pitné vody."
+              },
+              {
+                "copy": "Budeme aktivně bojovat proti privatizaci vody a vodních zdrojů a podpoříme návrat vlastnictví vody do rukou měst a obcí."
+              },
+              {
+                "copy": "Podpoříme zelené střechy, kořenové čistírny odpadních vod a další podpůrné způsoby trvale udržitelného nakládání s vodou. Při běžné výstavbě preferujeme vsakování vod či pokročilejší hospodaření s dešťovou i odpadní vodou."
+              }
+            ]
+          },
+          {
+            "headline": "Živá půda",
+            "parts": [
+              {
+                "copy": "Budeme pečovat o půdu jako o nenahraditelný zdroj."
+              },
+              {
+                "copy": "Nepodpoříme vynětí nejkvalitnější půdy ze zemědělského půdního fondu za účelem výstavby dalších hal. Pro investiční výstavbu budeme primárně využívat brownfieldy."
+              },
+              {
+                "copy": "Podpoříme lokální zemědělce v oblasti poptávky po jejich produktech. Chceme, aby krajské instituce v maximální míře nakupovaly od lokálních zemědělců a producentů. Podpoříme tím jak regionální ekonomiku, tak i pestrost zemědělské produkce a krajiny jako celku."
+              },
+              {
+                "copy": "Prosadíme skutečnou péči o půdu, zejména odpovědné pěstování vhodných plodin na přiměřené ploše."
+              },
+              {
+                "copy": "Podpoříme opatření proti erozi půdy prostřednictvím organického hnojení a zasadíme se o omezení nadměrného používání pesticidů a chemických hnojiv."
+              }
+            ]
+          },
+          {
+            "headline": "Čisté ovzduší",
+            "parts": [
+              {
+                "copy": "Dotační programy pro zlepšení ovzduší nastavíme tak, aby je kraj přiděloval spravedlivě a jejich čerpání bylo pro občany přívětivé."
+              },
+              {
+                "copy": "Podpoříme rozvoj železniční dopravy, aby se ulevilo silniční dopravě a snížila se hladina smogu. Posvítíme si na největší průmyslové znečišťovatele."
+              },
+              {
+                "copy": "Zaměříme se také na původce a dopady světelného a hlukového znečištění."
+              }
+            ]
+          },
+          {
+            "headline": "Pestrá krajina",
+            "parts": [
+              {
+                "copy": "Budeme pečovat o veškerou faunu a floru. Budeme obnovovat stromové aleje, polní cesty a remízky."
+              },
+              {
+                "copy": "Budeme méně kácet a více sázet."
+              },
+              {
+                "copy": "Pomůžeme v obnově kůrovcem zasažených a následně vytěžených lesních ploch, a to především u drobných vlastníků. Zaměříme se na druhovou a věkovou rozmanitost skladby dřevin."
+              },
+              {
+                "copy": "Nepodpoříme výstavbu nákladných projektů, jako je kanál Dunaj-Odra-Labe nebo prodloužení Baťova kanálu. Zprůchodníme nejvýraznější migrační bariéry, které jsou překážkou pro volně žijící živočichy."
+              },
+              {
+                "copy": "Respektujeme přirozený výskyt velkých šelem a jsme pro jejich perspektivní koexistenci vedle člověka prostřednictvím zavedení programu prevence zabezpečení proti škodám."
+              }
+            ]
+          },
+          {
+            "headline": "Myslíme globálně, jednáme lokálně",
+            "parts": [
+              {
+                "copy": "Podpoříme rozšíření nabídky vzdělávání o životním prostředí v regionech a sdílení příkladů dobré praxe."
+              },
+              {
+                "copy": "Podporujeme dlouhodobou udržitelnost projektů s dopadem na životní prostředí."
+              },
+              {
+                "copy": "Zasadíme se o ekologická řešení bez ideologie, zaměříme se na racionální posuzování veškerých dopadů našich kroků na životní prostředí."
+              }
+            ]
+          },
+          {
+            "headline": "Odpadové hospodářství",
+            "parts": [
+              {
+                "copy": "Budeme směřovat k brzkému splnění cíle 65 % materiálové recyklace odpadů. Předložíme nový plán odpadového hospodářství s důrazem na třídění a opětovné použití materiálů."
+              },
+              {
+                "copy": "Odpady, které recyklovat nelze, využijeme energeticky."
+              },
+              {
+                "copy": "Zajistíme otevřenost dosud netransparentního spolku Odpady Olomouckého kraje i jeho servisní akciové společnosti."
+              },
+              {
+                "copy": "Podpoříme oddělený sběr odpadu. I běžné odpadkové koše by měly umožňovat třídění. Kdo třídí, bude platit méně než ten, kdo netřídí."
+              },
+              {
+                "copy": "Při podpoře kulturních, sportovních a společenských akcí upřednostníme ty s bezodpadovým režimem a budeme vyžadovat používání vratných kelímků a nádobí. Nejlepší odpad je ten, který vůbec nevznikne."
+              },
+              {
+                "copy": "Prosadíme používání výrobků z recyklovaných materiálů, abychom podpořili oběhové hospodářství."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Doprava",
+        "parts": [
+          {
+            "headline": "Dokončená síť dálnic a obchvatů",
+            "parts": [
+              {
+                "copy": "Zasadíme se o urychlení dostavby páteřní sítě dálnic, silnic a obchvatů měst a obcí. Vytvoříme krajského ambasadora významných dopravních staveb, který bude koordinovat a vyjednávat podmínky mezi státem, obcemi a majiteli pozemků."
+              },
+              {
+                "copy": "Upřednostníme ty úseky, jejichž neexistencí jsou z důvodu hluku a emisí postiženy desítky tisíc obyvatel kraje. Jedná se především o obchvat Přerova (D1), Bludova (I/44 a I/11), Krčmaně a Kokor (D55) nebo Libivé (D35 a I/44), Hranic (Palačovská spojka I/35) a Šternberka (I/46). Zaměříme se hlavně na problém krajského města – dokončení jihozápadního obchvatu (D35) a stavba východní tangenty (I/46)."
+              },
+              {
+                "copy": "Zapojíme stát také do přípravy obchvatů Lipiny a Horních Loděnic (I/46), Bělé pod Pradědem, Jeseníku, České Vsi, Písečné, Hradce – Nové Vsi a Mikulovic (I/44) a Žulové (I/60)."
+              },
+              {
+                "copy": "Dohlédneme na realizaci ve stanovených termínech:",
+                "list": [
+                  "D1 u Přerova: 2021–2024",
+                  "I/55 Přerov – průtah centrem: 2020–2022",
+                  "I/44 Postřelmov – Šumperk (obchvat Bludova): 2021–2023 I/11 Postřelmov – Chromeč (směr Hradec Králové), 2021–2024 D55 Olomouc – Kokory (obchvat Krčmaně): 2022–2024",
+                  "I/35 Lešná – Palačov (Hranice bez tranzitu): 2022–2025 D55 Kokory – Přerov (obchvat Kokor): 2023–2027",
+                  "D35 Křelov–Slavonín (dokončení jihozápadního obchvatu Olomouce): 2024–2026 I/46 Týneček – Šternberk: 2024–2027",
+                  "I/46 Olomouc – východní tangenta: 2025–2028 I/46 Šternberk – obchvat: 2025–2028",
+                  "I/44 Zábřeh – obchvat: 2025–2028",
+                  "D35 Staré Město – Mohelnice (směr Hradec Králové): 2025–2028 I/44 Mohelnice – Vlachov (obchvat Libivé): 2026–2028"
+                ]
+              }
+            ]
+          },
+          {
+            "headline": "Opravené krajské silnice a mosty",
+            "parts": [
+              {
+                "copy": "Zavedeme transparentní způsob stanovení priorit, které silnice II. a. III. tříd mají být opravovány s ohledem na potřeby obyvatel kraje, a ne s ohledem na bydliště krajských náměstků. Budeme dbát na kvalitu všech 915 km silnic II. tříd a 2160 km silnic III. tříd."
+              },
+              {
+                "copy": "Dokončíme opravy silnic II. tříd s pomocí evropských dotací a zefektivníme opravy silnic III. tříd za pomoci národních a krajských zdrojů. Budeme kontrolovat stav mostů v celém kraji a provádět jejich opravy podle transparentně nastavených priorit."
+              },
+              {
+                "copy": "Zahájíme přípravu výstavby obchvatů měst a obcí za celkem 5 mld. Kč podle transparentně stanovených priorit (Prostějov – severozápad, Přerov – východ, Litovel a Červenka, Bedihošť a Hrubčice, Charváty, Tovačov, Kojetín, Troubky, Dřevohostice, Brodek u Přerova, Ruda nad Moravou a další)."
+              }
+            ]
+          },
+          {
+            "headline": "Chytrá veřejná doprava",
+            "parts": [
+              {
+                "copy": "Budeme podporovat všechny způsoby dopravy. V jednotlivých regionech budeme klást důraz na ty formy dopravy nebo jejich kombinaci, které budou výhodné pro občany kraje a ekonomické pro veřejný rozpočet."
+              },
+              {
+                "copy": "Podpoříme výstavbu záchytných parkovišť a přestupních uzlů železniční a autobusové dopravy. Regionální železnice i autobusová doprava zůstanou cenově dostupné zejména pro rodiny s dětmi, seniory a pravidelné cestující."
+              },
+              {
+                "copy": "Dokončíme integraci krajských jízdenek. Pomocí informačních technologií, bezkontaktních platebních terminálů a mobilních aplikací učiníme dopravu v kraji spolehlivou a snadno dostupnou."
+              },
+              {
+                "copy": "Budeme usilovat o urychlení rekonstrukcí nádraží a zastávek, aby byly plně bezbariérové. Budeme spolupracovat s dopravci, kteří nabídnou nízkopodlažní vlaky a autobusy s klimatizací."
+              }
+            ]
+          },
+          {
+            "headline": "Na kole do práce i do přírody",
+            "parts": [
+              {
+                "copy": "Budeme podporovat výstavbu cyklistické infrastruktury, která bude v návaznosti na přestup na veřejnou dopravu novým pilířem cenově dostupného, ekologického a komfortního cestování v Olomouckém kraji."
+              },
+              {
+                "copy": "Budeme nadále rozšiřovat síť rekreačních cyklostezek pro rozvoj cykloturistiky."
+              }
+            ]
+          },
+          {
+            "headline": "Mezikrajská dopravní koordinace",
+            "parts": [
+              {
+                "copy": "Při plánování oprav i veřejné dopravy budeme aktivně komunikovat se sousedními kraji. Zajistíme mezikrajskou provázanost veřejné dopravy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Zdravotnictví a Sociální politika",
+        "parts": [
+          {
+            "headline": "Dostupná a kvalitní zdravotní péče v celém kraji",
+            "parts": [
+              {
+                "copy": "Zlepšíme spolupráci mezi krajem, zdravotnickými zařízeními, zdravotními pojišťovnami a obcemi."
+              },
+              {
+                "copy": "Budeme usilovat o dostatek zdravotních sester, lékařů a zubních lékařů pro dospělé i děti. Pomocí dotačních programů podpoříme udržení stávajících pracovníků a vytvoříme motivační podmínky pro návrat mladých lékařů do regionu, budeme např. finančně podporovat zřizování nových ordinací a ambulancí. Při zajišťování zdravotnického personálu budeme úzce spolupracovat se vzdělávacími institucemi v kraji a zajišťovat stipendijní programy pro studenty zdravotnických oborů."
+              },
+              {
+                "copy": "Budeme průběžně mapovat situaci dostupnosti a kvality zdravotní péče. Velmi důležitá je pro nás zpětná vazba od občanů."
+              },
+              {
+                "copy": "Podpoříme rozvoj sociálně-zdravotní péče o osoby v poslední fázi života nejen v institucionální péči, ale také v přirozeném prostředí domova."
+              },
+              {
+                "copy": "Zaměříme se také na snížení dojezdových časů zdravotnické záchranné služby, zejména na Jesenicku."
+              }
+            ]
+          },
+          {
+            "headline": "Kvalitní bydlení pro všechny",
+            "parts": [
+              {
+                "copy": "Podpoříme vytvoření takového systému dostupného bydlení, který přiláká do regionu mladé rodiny. Zaměříme se na podporu seniorů, osob se zdravotním handicapem a rodin s nízkými příjmy."
+              },
+              {
+                "copy": "Zasadíme se o efektivní čerpání zdrojů určených pro výstavbu dostupného bydlení v obcích. Nastavíme přístupný bytový fond potřebným."
+              },
+              {
+                "copy": "Ve spolupráci s obcemi, státními i nestátními institucemi se zasadíme o kontrolu standardů kvality bydlení a o eliminaci „lichvy s bydlením“, tedy vysokých cen za neodpovídající kvalitu."
+              }
+            ]
+          },
+          {
+            "headline": "Rozvoj sektoru sociálních služeb",
+            "parts": [
+              {
+                "copy": "Vytvoříme systém, který nabídne poskytovatelům sociálních služeb garanci jistoty rozvoje. Budeme průběžně analyticky vyhodnocovat toky peněz, abychom dokázali zajistit zřizovatelům sociálních služeb dostatek prostředků jak pro materiální zajištění, tak pro personální rozvoj."
+              },
+              {
+                "copy": "Budeme nejen finančním partnerem, ale také odbornou oporou všem pomáhajícím institucím. Nastavíme parametry dlouhodobě stabilního systému financování sociálních služeb. Vytvoříme specifické dotační programy zaměřené na pomoc v oblastech s nízkým pokrytím sociálních služeb."
+              },
+              {
+                "copy": "Podpoříme rozvoj sociální práce a sociální politiky u vzdělávacích institucí, např. provázání teoretické a praktické výuky."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora rodin a dětí",
+            "parts": [
+              {
+                "copy": "Vytvoříme jasný koncepční plán rodinné politiky nejen se zapojením všech institucí, ale především samotných občanů kraje."
+              },
+              {
+                "copy": "Budeme podporovat rodiny s dětmi např. formou slev. Zaměříme se na rodiny, které potřebují zvláštní pozornost a podporu: domácnosti osamělých rodičů s dětmi, rodiny s nízkými příjmy, rodiny s výskytem domácího násilí, rodiny žijící v nevyhovujících podmínkách, rodiny s dětmi se zdravotním handicapem atd."
+              },
+              {
+                "copy": "Zajistíme podporu nejen domácnostem v nouzi, ale i rodinám nadaných a talentovaných dětí zvýšením dostupnosti volnočasových a vzdělávacích akcí."
+              },
+              {
+                "copy": "Podpoříme instituce, jejichž pomoc směřuje rodinám a dětem."
+              },
+              {
+                "copy": "Zajistíme odborné a podpůrné služby pro pěstouny, včetně odlehčovacích pobytů. Nabídneme podporu rodinám, které se chtějí zapojit do sítě dlouhodobých i přechodných pěstounů."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora nízkopříjmových domácností a řešení zadlužení",
+            "parts": [
+              {
+                "copy": "Vytvoříme systém stabilní a dlouhodobé podpory financování dluhového poradenství na území celého kraje. V rámci krajem zřizovaných organizací budeme podporovat programy pro zaměstnávání osob v exekuci. Ke stejnému postupu budeme aktivně vybízet i soukromé zaměstnavatele."
+              },
+              {
+                "copy": "Budeme aktivním účastníkem programů posilující finanční gramotnost. Obcím nabídneme finanční, odbornou a metodickou podporu pro předcházení a řešení zadlužení domácností."
+              },
+              {
+                "copy": "Budeme z úrovně kraje připomínkovat a podněcovat takovou legislativu, která nabídne řešení jak dlužníkům, tak i věřitelům."
+              }
+            ]
+          },
+          {
+            "headline": "Provázaný systém institucionální péče a mobilní podpory",
+            "parts": [
+              {
+                "copy": "Nasměrujeme investice do prostředí institucionální péče, které zvýší nejen kvalitu, ale nabídne i flexibilnější formu podpory jedincům a domácnostem."
+              },
+              {
+                "copy": "Posílíme kapacity denních a týdenních stacionářů, které nabízejí možnost celodenní péče."
+              },
+              {
+                "copy": "Podpoříme výstavbu a úpravy obecních bytových fondů vstříc bezbariérovosti a většímu bezpečí osob."
+              },
+              {
+                "copy": "Budeme partnerem a oporou domácnostem, které pečují celodenně o své blízké. Ať už jsou to děti, senioři osoby s psychickými, mentálními či fyzickými zdravotními komplikacemi."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora domácností seniorů",
+            "parts": [
+              {
+                "copy": "Budeme podporovat rozvoj krajských i dalších institucí, které nabízejí oporu a pomoc v seniorském věku."
+              },
+              {
+                "copy": "Zaměříme se na podporu pečovatelských či ošetřovatelských služeb přímo v domácnosti seniorů."
+              },
+              {
+                "copy": "Zajistíme v kraji dostatek činností pro aktivní stáří, např. vzdělávací programy, cestování bez bariér atd. Provedeme revizi aktuální nabídky slev a benefitů seniorům a ve společné diskuzi vytvoříme podporu, která bude využívána."
+              }
+            ]
+          },
+          {
+            "headline": "Důraz na zdravotní prevenci i prevenci sociálních událostí",
+            "parts": [
+              {
+                "copy": "Budeme podporovat občanské povědomí, znalost a vlastní kompetence k řešení negativních sociálních událostí. Budeme aktivně vytvářet programy zvyšující znalosti občanů o zdraví a zdravém životním stylu. Podpoříme státní i nestátní subjekty, které realizují programy prevence na území kraje."
+              },
+              {
+                "copy": "Budeme zdravě omezovat herní průmysl."
+              },
+              {
+                "copy": "Aktivně budeme rozvíjet systematické plánování prevence kouření, užívání alkoholu a návykových látek u dětí a mladistvých ve spolupráci se školami, sociálními pracovníky i pracovníky bezpečnosti."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora a pomoc lidem se zdravotním handicapem",
+            "parts": [
+              {
+                "copy": "Zaměříme se na tři oblasti života osob se zdravotním handicapem – mobilitu a dostupnost, příležitost k zaměstnání či vlastnímu rozvoji, sociální péči a pomoc."
+              },
+              {
+                "copy": "Provedeme audit bezbariérovosti krajského úřadu, krajem zřizovaných škol, sociálních zařízení, nemocnic a dalších organizací a zajistíme, aby byly skutečně bezbariérové. Podpoříme města a obce ve zlepšování bezbariérovosti veřejných prostor."
+              },
+              {
+                "copy": "Budeme plánovat krajskou hromadnou dopravu s ohledem na všechny občany."
+              },
+              {
+                "copy": "Podpoříme zaměstnávání osob se zdravotním znevýhodněním, zvláště v institucích zřízených krajem. Podpoříme nabídku odlehčovacích, vzdělávacích, svépomocných a dalších služeb pro neformální pečující."
+              },
+              {
+                "copy": "Budeme aktivně podporovat vzdělávání lidí se zdravotním/tělesným handicapem, a to nejen při přípravě na povolání, ale také v rámci celoživotního vzdělávání."
+              },
+              {
+                "copy": "Veřejné zakázky budeme vyhodnocovat nejen dle ceny, ale zohledníme také rozměr společenské odpovědnosti, např. zaměstnávání osob se zdravotním handicapem či pečujících osob."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Školství",
+        "parts": [
+          {
+            "headline": "Propagace odborného a učňovského školství",
+            "parts": [
+              {
+                "copy": "Zasadíme se o propagaci a vrácení prestiže výuce řemesel ve vztahu k potřebám trhu. Rozvineme stipendijní programy jako silný motivační prvek. Krajské střední školství vnímáme jako důležitý nástroj přípravy profesí potřebných na území kraje zejména pro výrobní a stavební podniky."
+              },
+              {
+                "copy": "Všechna opatření budeme koordinovat s jednotlivými regiony kraje a přicházet s řešením dle jejich potřeb."
+              },
+              {
+                "copy": "V krajském odborném a učňovském školství budeme podporovat rekvalifikační programy s certifikací oborů, které alespoň z části mohou nahradit nedostatek některých řemeslných profesí."
+              }
+            ]
+          },
+          {
+            "headline": "Návrat k původní myšlence gymnázií",
+            "parts": [
+              {
+                "copy": "Zabráníme odlivu žáků ze základních škol do předimenzovaných tříd víceletých gymnázií. Zamezíme tak segregaci méně nadaných žáků, erozi školních kolektivů a celkové degradaci vzdělávání na základních školách. Budeme razit myšlenku víceletých gymnázií jako institucí pro rozvoj výjimečně nadaných studentů, nikoli jako exkluzivních základních škol."
+              },
+              {
+                "copy": "Podpoříme praxe, stáže a profilace studentů na jednotlivých školách. Podpoříme úsilí gymnázií tvořit kvalitní studijní plány."
+              },
+              {
+                "copy": "Jednotlivé kroky budeme koordinovat s ostatními kraji s ohledem na dobrou praxi a přesahová témata. Dle potřeb kraje a profilace studentů budeme také řešit prostupnost jednotlivých škol v kraji."
+              }
+            ]
+          },
+          {
+            "headline": "Škola 21. století",
+            "parts": [
+              {
+                "copy": "Podpoříme softwarově otevřená řešení a online výuku. Podpoříme dostatečné materiální vybavení škol pro možnosti individuálního zapůjčení výpočetní techniky při uplatňování online výuky."
+              },
+              {
+                "copy": "Budeme prosazovat systémová opatření jako semináře, webináře pro učitele, odborné stáže pedagogů ve firmách v kraji."
+              },
+              {
+                "copy": "Zaměříme se na podporu kariérního poradenství a přípravu oblasti na průmysl 4.0."
+              },
+              {
+                "copy": "Budeme podporovat individuální přístup, výuku cizích jazyků, rozvoj kritického myšlení a schopnost rozpoznávat fake news, což v rychle se měnícím světě považujeme za klíčové."
+              }
+            ]
+          },
+          {
+            "headline": "Participativní rozpočet na středních školách",
+            "parts": [
+              {
+                "copy": "Připravíme pilotní projekt participativních rozpočtů na středních školách zřizovaných krajem. Protože žáci nejlépe vědí, co ke svému studiu potřebují, bude mít každý student možnost navrhovat malé investice ve škole a rozhodovat o nich. Zlepšíme tak argumentační a prezentační schopnosti i finanční gramotnost studentů."
+              }
+            ]
+          },
+          {
+            "headline": "KOMUNIKACE mezi školami, rodiči, žáky i komunitou",
+            "parts": [
+              {
+                "copy": "Podpoříme aktivní zapojení rodičů do plánování a realizace vzdělávací politiky na území kraje, např. veřejná setkání, podpora rodičovských iniciativ atd."
+              },
+              {
+                "copy": "Zaměříme se na efektivnost komunikace mezi zřizovatelem, školou, rodiči a žáky – zřídíme přehledný webový portál věnující se školství a vzdělávání na území Olomouckého kraje a zajistíme propojení s webovými rozhraní obcí a škol."
+              },
+              {
+                "copy": "Vytvoříme prostor pro užší spolupráci škol, předávání dobré praxe a vzájemnou oporu při prosazování funkčních vzdělávacích postupů včetně spolupráce se zahraničními vzdělávacími institucemi."
+              },
+              {
+                "copy": "Zajistíme vnímání školy jako prostoru nejen pro vzdělání, ale i pro rozvoj komunity a sousedství. Podpoříme projekty spolupráce škol s aktivními občany, nestátními institucemi, sportovními oddíly či uměleckými sdruženími. Vytvoříme stabilní platformu spolupráce mezi zástupci zaměstnavatelů, vzdělávacích zařízení (ZŠ, SŠ), univerzitou, zástupci rodičů a dětí (NNO apod.)."
+              },
+              {
+                "copy": "Podpoříme „dětské univerzity“, rozvoj výzkumných center univerzit, ale také marketing a propagaci jednotlivých krajem zřizovaných škol."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora základních uměleckých škol",
+            "parts": [
+              {
+                "copy": "Podpoříme vzdělávání v umění, které vnímáme jako důležitou volnočasovou aktivitu s mimořádnými společenskými benefity, jako je prevence kriminality."
+              },
+              {
+                "copy": "Budeme podporovat vedení jednotlivých ZUŠ, aby se školy uměleckými aktivitami svých žáků či školními kapelami výrazně podílely na kulturním životě ve městech a obcích, ve kterých působí."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora škol a zřizovatelů v práci se všemi studenty",
+            "parts": [
+              {
+                "copy": "Podpoříme zřizovatele i školy jak materiálně, tak metodicky při naplňování principů rovných příležitostí ve vzdělání u dětí z nízkopříjmových domácností."
+              },
+              {
+                "copy": "Systémově podpoříme rozvoj kompetencí pedagogů i ředitelů škol na území Olomouckého kraje se zaměřením na moderní styly řízení školských zařízení a prosazování funkčních vzdělávacích postupů. Zasadíme se o funkční systém podpory pedagogů a rodičů při vzdělávání žáků a studentů se speciálními vzdělávacími potřebami (ADHD, logopedická diagnostika, poruchy učení atd.)."
+              },
+              {
+                "copy": "Podpoříme poradenská pracoviště při školách, které nabízejí oporu pedagogům. Prosadíme logopedy, psychology, kariérní poradce či sociální pracovníky jako stabilní součást personálu školských zařízení na území Olomouckého kraje."
+              }
+            ]
+          },
+          {
+            "headline": "Zachování a podpora speciálních škol",
+            "parts": [
+              {
+                "copy": "Podpoříme speciálně pedagogická centra a pedagogicko-psychologické poradny, uvědomujeme si totiž skutečnost, že ne všechny děti lze integrovat v rámci inkluze. Budeme neustále hledat ideální odpovídající řešení pro všechny zainteresované strany, především pro rodiče a kraj."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Regionální rozvoj",
+        "parts": [
+          {
+            "headline": "Rozvoj všech regionů v kraji",
+            "parts": [
+              {
+                "copy": "Zaměříme se na rozvoj každého regionu kraje na míru."
+              },
+              {
+                "copy": "Připravíme promyšlenou dlouhodobou strategii a na jejím základě povedeme regionální politiku. Do tvorby strategie rozvoje kraje zapojíme veřejnost a využijeme participativního rozpočtování na krajské úrovni. Intenzivně zapojíme také stěžejní aktéry z veřejného, soukromého a neziskového sektoru do rozvoje kraje."
+              },
+              {
+                "copy": "Zohledníme rozdíly mezi ekonomickou úrovní, problémy i potenciálem jednotlivých částí kraje. Zaměříme se na vazbu mezi bohatšími a chudšími částmi kraje, na vazbu mezi městy a venkovem. Otevřeme aktivní komunikaci a spolupráci kraje s městy, obcemi, místními akčními skupinami a mikroregiony."
+              },
+              {
+                "copy": "Budeme klást důraz na mladé občany, na jejich zapojení do rozvoje regionu, prostor pro jejich vize, propojení se školstvím, formálním a neformálním vzděláváním. Podpoříme budování místního a krajského patriotismu."
+              }
+            ]
+          },
+          {
+            "headline": "Vysokorychlostní internet jako podmínka rozvoje",
+            "parts": [
+              {
+                "copy": "Internet budeme ze strany kraje výrazně koordinovat. Usnadníme výstavbu potřebné infrastruktury za využití krajských komunikací a přilehlých pozemků. Podpoříme technologii 5G s jednoznačným cílem umožnit občanům využívat vysokorychlostní internet v každé obci."
+              }
+            ]
+          },
+          {
+            "headline": "Základní infrastruktura a služby kraje",
+            "parts": [
+              {
+                "copy": "Zaměříme se na dosažitelnost základních potřeb pro občana každé obce. Chceme, aby do čtvrt hodiny jízdy veřejným dopravním prostředkem byla občanům kraje zajištěna základní lékařské péče, základní vzdělání, maloobchod, pošta, kulturní a sportovní vyžití."
+              },
+              {
+                "copy": "Zároveň naplníme požadavky na základní infrastrukturu, zejména komunikace, vodu a čističky odpadních vod, vysokorychlostní internet."
+              }
+            ]
+          },
+          {
+            "headline": "Místní ekonomika jako základní stavební kámen",
+            "parts": [
+              {
+                "copy": "Podpoříme zejména malé a střední podnikání a místní produkty. Budeme podporovat také koncept „od vidlí po vidličku“. V každém okresním městě zajistíme funkční zázemí podpory malých a středních podnikatelů, které bude pomáhat a radit se zpracováním a získáváním dotací, podpoří vzdělávání a inovace, stimuluje začínající podnikatele a výrazně podpoří spolupráci mezi podnikatelskými subjekty. Více také v kapitole 6 (finance)."
+              }
+            ]
+          },
+          {
+            "headline": "Energetická soběstačnost a síťování",
+            "parts": [
+              {
+                "copy": "Podpoříme energetickou soběstačnost prostřednictvím podpory komunitních zdrojů energie a důsledného řízení odpadového hospodářství."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora podnikání a zaměstnanosti",
+            "parts": [
+              {
+                "copy": "Podpoříme podnikání, především v lokalitách s vysokou nezaměstnaností a daleko od velkých měst. Podpoříme investice do rozvoje lokálních zaměstnavatelů pro udržení zaměstnanosti v kraji."
+              },
+              {
+                "copy": "Podpoříme vznik nových výzkumných a inovačních center, zavedení inovačních voucherů."
+              },
+              {
+                "copy": "Spolupodpoříme start-upy. Nechceme lít peníze kraje do projektů, jejichž budoucnost je pochybná. Využijeme know-how soukromých investorů a podpoříme nové inovativní podniky, do nichž investují."
+              },
+              {
+                "copy": "Podpoříme předškolní péči ve firmách."
+              },
+              {
+                "copy": "Podpoříme výuku řemesel nejen vyplácením školného, ale i zapojením výrobních a stavebních podniků v regionech, které volají po nedostatku kvalifikovaných zaměstnanců."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Finance",
+        "parts": [
+          {
+            "headline": "Finančně udržitelný kraj",
+            "parts": [
+              {
+                "copy": "Zrevidujeme účelnost čerpaných úvěrů. Opodstatněnost úvěrů vnímáme u předfinancování dotačních příjmů, poskytovaných zpětně."
+              },
+              {
+                "copy": "Refinancujeme vysoké úvěrové zatížení kraje (3,3 mld. Kč). S ohledem na očekávaný propad daňových příjmů v letošním roce (1 mld. Kč) budeme jednat s bankami o delších splátkových kalendářích."
+              },
+              {
+                "copy": "Ustanovíme do čela krajských financí kompetentního ekonoma. Zkušenostmi a praxí ve veřejných financích a zavedením plánů investic utlumíme vliv politických zájmů jednotlivců a lobbistů."
+              },
+              {
+                "copy": "Využijeme zákonné iniciativy kraje k prosazení změn v daňových příjmech krajů a obcí tak, aby systém reflektoval potřeby udržitelnosti a obnovy majetku předaného státem do správy krajů a služeb zajišťovaných krajem."
+              },
+              {
+                "copy": "Prosadíme „smart region“. Případné další zadlužování je možné pouze do investic, generujících energetické úspory, nebo do investic zhodnocujích potřebný majetek."
+              }
+            ]
+          },
+          {
+            "headline": "Transparentní dotační politika",
+            "parts": [
+              {
+                "copy": "Krajské dotace budeme rozdělovat transparentně. Nehodláme pokračovat v klientelismu našich předchůdců. Hodnotící kritéria nastavíme objektivně, nikoliv pocitově. Prosadíme změnu dotačního systému, tak aby přiznaná výše dotace při zachování spoluúčasti umožnila žadateli projekt opravdu realizovat. V konkrétním čase tak sice uspokojíme méně žadatelů, ale umožníme realizaci více projektů."
+              },
+              {
+                "copy": "Do otevřených grantových soutěží nasměrujeme více peněz. Zrevidujeme počet a obsah současných 80 dotačních titulů. Odstraníme jejich překryv, případně sloučíme obdobné tituly do jednoho programu, čímž snížíme i administrativní zátěž úřadu. Zavedeme veřejné prezentace projektů při vyšších částkách."
+              },
+              {
+                "copy": "Zaměříme se na maximální digitalizaci procesů a propojení s různými databázemi, čímž omezíme zbytečné formuláře a usnadníme vyplňování těch nezbytných. Zavedeme evidenci žadatelů tak, abychom systém podpory rozprostřeli rovnoměrně a eliminovali uspokojování „osvědčených žadatelů“. Budeme aktivně bojovat proti klientelismu."
+              },
+              {
+                "copy": "Zavedeme nové dotační soutěže pro regionální zemědělce, kteří hospodaří šetrně, a podpoříme opatření pro boj s klimatickou změnou a suchem. Viz také kapitola 1 (životní prostředí)."
+              },
+              {
+                "copy": "Nastavíme kritéria a priority rozvoje území kraje dle specifických problémů jednotlivých regionů. Dotace budeme rozdělovat vyváženě do všech částí kraje. Nepřipustíme, aby většina dotací putovala do největších měst a periferní oblasti získávaly nejméně. Podpoříme bydlení v odlehlých regionech podporou do rekonstrukcí neobydlených RD."
+              },
+              {
+                "copy": "Budeme podporovat participativní rozpočty obcí."
+              },
+              {
+                "copy": "Posílíme Program obnovy venkova, optimalizujeme jeho tituly a vyvážíme dotační podporu. Na rozdělování malých dotací budeme spolupracovat s místními akčními skupinami."
+              }
+            ]
+          },
+          {
+            "headline": "Snížení provozních nákladů",
+            "parts": [
+              {
+                "copy": "Zavedeme úsporná opatření v provozních nákladech pro udržení investic kraje. Provedeme analýzu efektivity provozu krajského úřadu, jehož převážná část je umístěna v nájemních prostorách. Budeme hledat možnosti úspor. Samozřejmě začneme u sebe a snížíme provozní výdaje hejtmana a jeho náměstků."
+              }
+            ]
+          },
+          {
+            "headline": "Přehlednost a kontrola",
+            "parts": [
+              {
+                "copy": "Zavedeme nový přehledný rozklikávací rozpočet až na úroveň faktur namísto současného nepřehledného rozklikávacího rozpočtu, v němž se nevyzná ani ekonom, ani běžný občan."
+              },
+              {
+                "copy": "Zavedeme transparentní účetnictví kraji i krajským organizacím."
+              },
+              {
+                "copy": "Podpoříme sestavení funkčního finančního výboru zastupitelstva, v jehož čele bude politik z demokratické opoziční strany."
+              }
+            ]
+          },
+          {
+            "headline": "Méně byrokracie pro krajské firmy",
+            "parts": [
+              {
+                "copy": "Zavedeme finanční řízení krajských organizací v reálném čase. K tomu využijeme stávající průběžný sběr ekonomických dat tak, abychom financovali dle potřeb z analýz hospodaření. Protože provoz krajských organizací (školy, zdravotní a sociální ústavy, muzea, správa silnic) spolyká ročně 1,9 mld. Kč, dosáhneme efektivním řízením lepší finanční likvidity kraje."
+              },
+              {
+                "copy": "Zavedeme větší přehlednost ve financování příspěvkových organizací, lepší rozpočtování a méně rozpočtových změn."
+              },
+              {
+                "copy": "Zamezíme byrokracii, která souvisí s každoročním soutěžením příspěvkových organizací o dotační peníze jiných zřizovatelů. Nastavíme jasné víceleté systémy přidělování dotací takovým firmám podle toho, nakolik fungují pro obyvatele Olomouckého kraje."
+              },
+              {
+                "copy": "Zavedeme optimalizaci služeb poskytovaných krajskými organizacemi nastavením výkonnostních ukazatelů. Tímto zavedeme měřitelnost kvality i měřitelnost potřeb dle jednotlivých odvětví."
+              },
+              {
+                "copy": "Zavedeme a využijeme pasportizaci nemovitého majetku kraje v hospodaření jeho organizací. Udržování a obnova budov, pozemků a silnic bude řízena na základě znalostí o stavu majetku, nikoliv na základě politických rozhodnutí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Transparence",
+        "parts": [
+          {
+            "headline": "Zveřejníme vše, co můžeme, nejen to, co musíme",
+            "parts": [
+              {
+                "copy": "Budeme zveřejňovat smlouvy i nad rámec povinností dle zákona o registru smluv, tedy i ty s hodnotou nižší než 50 000 Kč. Zároveň hodláme zveřejňovat i faktury, které vypovídají o reálných částkách vyplacených na základě smluvních vztahů. Nabídneme rozšíření informací v rozklikávacím rozpočtu až na úroveň faktur. Více také v kapitole 6 (finance)."
+              },
+              {
+                "copy": "Budeme automaticky zveřejňovat maximum informací o úřadě, aby se občané nemuseli složitě dotazovat a byl jim umožněn svobodný přístup k informacím."
+              }
+            ]
+          },
+          {
+            "headline": "Termíny plnění a odpovědné osoby za programové prohlášení",
+            "parts": [
+              {
+                "copy": "V programovém prohlášení rady i v různých strategiích kraje jasně stanovíme termíny a odpovědné osoby u jednotlivých úkolů. Zveřejníme průběžná plnění jednotlivých priorit a cílů, aby každý mohl kdykoliv vidět a zhodnotit, zda svou práci děláme dobře."
+              }
+            ]
+          },
+          {
+            "headline": "Vhled do naší práce občanům",
+            "parts": [
+              {
+                "copy": "Zveřejníme seznam schůzek a námi právě řešených témat. Zdarma nabídneme k užívání software umožňující zveřejňování schůzek všem voleným politikům."
+              },
+              {
+                "copy": "Přehledně také zveřejníme, kolik peněz a dalších benefitů od kraje budou dostávat naši nominanti v řídících a kontrolních orgánech."
+              }
+            ]
+          },
+          {
+            "headline": "Jmenovité hlasování radních",
+            "parts": [
+              {
+                "copy": "Poneseme zodpovědnost za svá hlasování a rozhodnutí, proto budeme v koalici zveřejňovat jmenovitě hlasování radních. Nezveřejňování jmen hlasujících může dobře posloužit jako známá výmluva u soudu, kdy není možné doložit, jak kdo hlasoval a kdo tedy nese zodpovědnost za své hlasování."
+              }
+            ]
+          },
+          {
+            "headline": "Méně byrokracie, více digitalizace",
+            "parts": [
+              {
+                "copy": "Odstraníme zbytečnou byrokracii na krajském úřadě a v krajských organizacích. Při úřadování budeme naopak více využívat nové technologie. Zajistíme co nejjednodušší komunikaci občana s úřadem. V maximální možné míře budeme využívat komunikaci elektronickou cestou."
+              },
+              {
+                "copy": "Zasadíme se o větší součinnost jednotlivých součástí kraje, aby úřady obíhala data, nikoliv občané."
+              }
+            ]
+          },
+          {
+            "headline": "Férové krajské noviny",
+            "parts": [
+              {
+                "copy": "Zřídíme redakční radu se zástupci všech koaličních i opozičních politických stran, tak aby z krajských novin nebyl jen marketingový materiál právě vládnoucí koalice. Občané mají právo být informováni o činnosti opozičních politiků."
+              }
+            ]
+          },
+          {
+            "headline": "Bez politických trafik, otevřená výběrová řízení jako standard",
+            "parts": [
+              {
+                "copy": "Dozorčí rady a představenstva začneme obsazovat minimálně z jedné třetiny skrze průhledná nominační řízení, kde nejdůležitějším kritériem bude odbornost. Zabráníme tak politickým trafikám."
+              },
+              {
+                "copy": "Ředitelé společností a příspěvkových organizací budou vybíráni výběrovou komisí, která bude složená především z odborníků."
+              }
+            ]
+          },
+          {
+            "headline": "Hromadné nákupy",
+            "parts": [
+              {
+                "copy": "Pro nákup služeb a v dalších případech, kde to bude vhodné, využijeme regionální výrobce, abychom podpořili místní ekonomiku."
+              },
+              {
+                "copy": "Nastartujeme spolupráci mezi krajem zřizovanými organizacemi a odděleními krajského úřadu v případech, kdy je možné nakupovat hromadně za nižší ceny."
+              }
+            ]
+          },
+          {
+            "headline": "Jednání blíže občanům",
+            "parts": [
+              {
+                "copy": "Zajistíme kvalitní audiovizuální záznam z jednání zastupitelstva. Zasadíme se o zveřejnění a rychlé dohledání zápisů ze zasedání zastupitelstva, včetně návrhů a hlasování jednotlivých zastupitelů a přehledu o jejich účasti."
+              },
+              {
+                "copy": "Záznamy o zasedání rady a obsahu jednání, které již nyní bývají zveřejňovány, musejí být zpřístupněny tak, aby byl každý občan schopný je snadno dohledat a jejich obsah následně pochopit."
+              }
+            ]
+          },
+          {
+            "headline": "Zveřejňování kompletních podkladů předem",
+            "parts": [
+              {
+                "copy": "Budeme dbát na zveřejňování podkladů k zasedáním v dostatečném časovém předstihu. Každý z návrhů musí být podložen důvodovou zprávou. Prosazujeme plné uplatnění demokratického minima při jakémkoliv rozhodování, nebudeme tedy hlasovat pro usnesení, která nejsou dostatečně dobře podložena nebo nejsou známé jejich dopady."
+              },
+              {
+                "copy": "Pro zlepšení informovanosti zastupitelů zpřístupníme také materiály z rady."
+              }
+            ]
+          },
+          {
+            "headline": "V kontrolním a finančním výboru většina pro opozici",
+            "parts": [
+              {
+                "copy": "Stojíme o skutečnou kontrolu plnění usnesení a hospodaření s veřejnými prostředky od opozice, protože věříme, že bez opozice není demokracie. V čele obou výborů chceme politika z demokratické opozice. Pro opozici zajistíme většinu v obou výborech."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Kultura",
+        "parts": [
+          {
+            "headline": "Kulturní vyžití i v odlehlých částech kraje",
+            "parts": [
+              {
+                "copy": "Budeme aktivně pracovat s kulturními subjekty, snažit se je vzdělávat v oblasti nových trendů v kultuře, pomáhat s využitím moderního marketingu a zároveň dbát o kvalitu nabízených kulturních pořadů."
+              },
+              {
+                "copy": "Organizace vzájemně propojíme a pomůžeme jim v rozvoji, například metodickou pomocí ze strany ministerských orgánů. Postaráme se o to, aby veřejné prostředky účinně pomáhaly rozvoji kulturního života rovnoměrně v celém kraji, včetně malých obcí i odlehlých regionů."
+              },
+              {
+                "copy": "Podpoříme i odvětví kultury v širokém slova smyslu, tedy včetně kreativního průmyslu jako design, móda, umělecká řemesla, grafická studia, architektura, kulturní cestovní ruch."
+              }
+            ]
+          },
+          {
+            "headline": "Umělecké inkubátory napříč krajem",
+            "parts": [
+              {
+                "copy": "Výpůjčkou prostor v organizacích zřizovaných Olomouckým krajem, zejména ve školách, podpoříme kulturní aktivity skupin a spolků. Zajistíme tak, aby mladé kapely, divadelní spolky a umělci všeho druhu měli k dispozici vhodné prostředí pro svůj rozvoj."
+              },
+              {
+                "copy": "Na podpoře začínajících subjektů budeme spolupracovat se starosty měst a obcí."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora a zpřístupnění památek",
+            "parts": [
+              {
+                "copy": "Úpravou dotační politiky kraje budeme usilovat o udržení kulturních památek a o obnovu těch, kterým se zatím nedostalo dostatečné pozornosti."
+              },
+              {
+                "copy": "Vytvoříme koncepci podpory památek, budeme k těmto místům budovat naučné stezky a cyklostezky, které budou v maximálně možné míře vhodné i pro osoby se zdravotním znevýhodněním."
+              },
+              {
+                "copy": "Pro informování turistů zprovozníme přehledný krajský web. Veškeré dostupné informace v držení kraje (archivní fotografie, texty) poskytneme projektům, jako je encyklopedie Wikipedie, které svou činností zlepší informovanost o kraji."
+              }
+            ]
+          },
+          {
+            "headline": "Architektonické soutěže jako standard",
+            "parts": [
+              {
+                "copy": "Pozvedneme kulturní úroveň Olomouckého kraje architektonickými soutěžemi veřejných staveb. Díky soutěžím zamezíme netransparentnímu zadávání projektových dokumentací a budeme mít na výběr hned z několika možností. Hodnotící komise nepostavíme z politiků, ale z odborníků. Podpoříme tak vznik nových architektonických skvostů napříč celým krajem. Dotačním programem podpoříme i architektonické soutěže staveb připravovaných městy a obcemi."
+              }
+            ]
+          },
+          {
+            "headline": "Sdílený kalendář akcí v Olomouckém kraji",
+            "parts": [
+              {
+                "copy": "Podpoříme akce lokálních divadel, ochotnických spolků, knihoven a kulturních domů tak, že budeme šířit informace o jejich kvalitním programu, na jehož propagaci nemají dostatek financí."
+              },
+              {
+                "copy": "Vytvoříme proto sdílený kalendář všech akcí v Olomouckém kraji od koncertů až po divadelní představení. Zamezíme tím také většímu překrývání pořádaných akcí v regionech a zefektivníme vynakládání finančních prostředků na jejich uspořádání."
+              }
+            ]
+          },
+          {
+            "headline": "Efektivnější způsob poplatků pro OSA",
+            "parts": [
+              {
+                "copy": "Vyjednáme paušální platbu Ochrannému svazu autorů (OSA) za větší územní celky, abychom dosáhli celkové úspory a zároveň podpořili všechny, kteří dnes poplatky musejí administrovat a platit sami. Kraj platí více než půlmilionový poplatek za obecní rozhlasy, obce zase platí paušální platby za své spolky apod."
+              },
+              {
+                "copy": "Najdeme další úspory jak pro obce, tak pro kraj. Budeme např. častěji využívat díla pod svobodnou licencí bez poplatků OSA. Podpoříme rovněž umělce regionálního významu, kteří nejsou zastupováni OSA. Budeme tak mít jistotu, že peníze za autorskou tvorbu jdou přímo konkrétním autorům. Podpoříme nezávislou a svobodnou kulturu."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora regionálních spolků a jednotlivců",
+            "parts": [
+              {
+                "copy": "Decentralizujeme megalomanské projekty a podpoříme menší regionální akce. Více zapojíme místní akční skupiny jako dobrou spojku ke spolkům v regionech."
+              },
+              {
+                "copy": "Budeme podporovat dobrovolnické spolky a motivovat pořadatele kulturních akcí, aby zvali nezávislé regionální umělce nezastupované OSA či aby jejich akce byly šetrné k životnímu prostředí, např. aby používali vratné kelímky, třídili odpad apod."
+              }
+            ]
+          },
+          {
+            "headline": "Vesnická kina, kočovná letní kina",
+            "parts": [
+              {
+                "copy": "Vytvořením samostatného dotačního titulu na podporu obnovy malých kin zajistíme rozkvět kinematografie v regionech."
+              },
+              {
+                "copy": "Zakoupením licence na promítání filmů podpoříme vznik kočovného letního kina, aby občané mohli letní večery trávit v přírodě v blízkosti svého bydliště."
+              }
+            ]
+          },
+          {
+            "headline": "Funkční období a interpelace ředitelů příspěvkových organizací",
+            "parts": [
+              {
+                "copy": "Budeme motivovat rozvoj institucí zřizovaným krajem zavedením šestiletých funkčních období pro ředitele příspěvkových organizací, tak aby nebyly závislé na politické reprezentaci kraje."
+              },
+              {
+                "copy": "Dáme prostor ředitelům organizací jednou ročně odprezentovat dění v krajských kulturních organizacích. Občané a zastupitelé tak budou dostatečně informováni o dění v organizacích financovaných z veřejných prostředků a budou mít možnost tyto ředitele interpelovat se svými dotazy."
+              }
+            ]
+          },
+          {
+            "headline": "Sdílení knih a informací mezi knihovnami",
+            "parts": [
+              {
+                "copy": "Spojíme hlavní výhodu obecních knihoven (dostupnost, blízkost bydliště) s hlavní výhodou Vědecké knihovny (velký knižní fond) zavedením jednoduššího systému sdílení knih. Zároveň ale zachováme cílení vědecké knihovny na odbornou veřejnost a obecních knihoven, především pak Knihovny města Olomouce, na širokou veřejnost, aby nedocházelo k nepatřičné konkurenci knihoven."
+              },
+              {
+                "copy": "Ve spolupráci s primátory a starosty měst propojíme systém zápůjčky knih mezi městskými knihovnami a Vědeckou knihovnou. Zlepšíme komunikaci mezi manažery knihoven i mezi zřizovateli, a tím zajistíme větší efektivitu ve vynakládání veřejných finančních prostředků v jednom území."
+              }
+            ]
+          },
+          {
+            "headline": "Digitalizace knižního fondu",
+            "parts": [
+              {
+                "copy": "Knihy jsou nástrojem pro vzdělávání, proto je v co nejvyšší míře zpřístupníme na internetu veřejnosti. Umožníme stahovat knihy v digitální podobě v souladu s autorským zákonem, bez nutnosti navštěvovat Vědeckou knihovnu fyzicky."
+              }
+            ]
+          },
+          {
+            "headline": "Nová moderní stavba Vědecké knihovny",
+            "parts": [
+              {
+                "copy": "Podpoříme výstavbu nové moderní centrální budovy pro Vědeckou knihovnu v Olomouci. Budeme trvat na veřejné urbanisticko-architektonické soutěži."
+              }
+            ]
+          },
+          {
+            "headline": "Rozvoj a propagace muzeí a galerií",
+            "parts": [
+              {
+                "copy": "Podpoříme digitalizaci sbírkových fondů a jejich zpřístupnění na internetu chápeme jako samozřejmost. Podpoříme muzea a galerie v odborném badatelském zpracování jejich sbírkových předmětů, tak aby předměty mohly úspěšně sloužit jako primární prameny pro další vědecké poznání."
+              },
+              {
+                "copy": "Budeme podporovat galerie a muzea jako místa setkávání, sdílení informací, vzdělávání a seznamování společnosti s kulturním dědictvím regionu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Cestovní ruch",
+        "parts": [
+          {
+            "headline": "Péče o klenoty kraje",
+            "parts": [
+              {
+                "copy": "Nejatraktivnější turistické cíle kraje budeme řádně opatrovat. Budeme spolupracovat na rozvíjení potenciálu dalších zajímavých lokalit v regionu, abychom zájem turistů nasměrovali i k novým cílům. Zaměříme se na přehledné turistické a orientační značení. Zasadíme se o to, abychom v kraji vybudovali natolik atraktivní zázemí a program, aby zde návštěvníci trávili vícedenní dovolenou."
+              }
+            ]
+          },
+          {
+            "headline": "Zážitková turistika s ohledem na regionální pestrost",
+            "parts": [
+              {
+                "copy": "Eliminujeme negativní důsledky masové turistiky a jejího dopadu na přetížené lokality. Namísto toho podpoříme projekty s přesahem, které nemají za cíl pouhou maximalizaci zisku. Podpoříme regionální produkty a drobné projekty na podporu cestovního ruchu i rozvoje regionu."
+              }
+            ]
+          },
+          {
+            "headline": "Funkční model managementu cestovního ruchu",
+            "parts": [
+              {
+                "copy": "Navrhneme funkční model centrálního, destinačního a nižšího managementu cestovního ruchu. Každý subjekt bude mít jasně vymezen rozsah kompetencí a odpovědnosti tak, aby smysluplně zapadal do celkové koncepce fungování cestovního ruchu v kraji."
+              }
+            ]
+          },
+          {
+            "headline": "Z ubytovacích poplatků motivační nástroj",
+            "parts": [
+              {
+                "copy": "Upravíme režim rozdělování ubytovacích poplatků tak, aby poskytovatelé ubytovacích služeb viděli přímé dopady, jak smysluplně byly ubytovací poplatky investovány do dalšího rozvoje cestovního ruchu. Všechny, kdo odvádějí ubytovací poplatky, budeme srozumitelně informovat, do jakého konkrétního regionálního projektu byly tyto prostředky investovány."
+              }
+            ]
+          },
+          {
+            "headline": "Zázemí pro cyklisty i pěší turistiku",
+            "parts": [
+              {
+                "copy": "Budeme budovat nové trasy a potřebné zázemí pro pěší turistiku i pro cyklisty. Podpoříme projekty cyklotras, servisních stojanů, dobíjecích stanic a center pro horskou cyklistiku. Budeme aktivně prosazovat budování tras a zázemí pro horský běh či nordic walking, traily, lesní balnea, naučné stezky a chodníčky. Více také v kapitole 2 (doprava)."
+              }
+            ]
+          },
+          {
+            "headline": "Celoroční turistická sezóna",
+            "parts": [
+              {
+                "copy": "Postaráme se o údržbu, modernizaci a rozvoj infrastruktury související s udržením celoroční turistické sezóny. Zaměříme se na dostatečné vyžití pro návštěvníky za každého počasí a v každém ročním období."
+              }
+            ]
+          },
+          {
+            "headline": "Efektivní komunikace v oblasti cestovního ruchu",
+            "parts": [
+              {
+                "copy": "Dopracujeme obsah webových stránek veřejných subjektů působících v oblasti cestovního ruchu, tak aby každý turista snadno našel, co hledá. Propojíme subjekty cestovního ruchu od centrální organizace až po místní turistická informační centra a konkrétní poskytovatele služeb. Budeme propagovat podnikatele či spolky pozitivně se podílející na rozvoji cestovního ruchu v regionu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Sport",
+        "parts": [
+          {
+            "headline": "Sport a volnočasové aktivity napříč krajem",
+            "parts": [
+              {
+                "copy": "Umožníme dostupné sportovní vyžití všem, především však dětem a mládeži, protože sportování a volnočasové aktivity vnímáme jako výraznou prevenci sociálně patologických jevů a civilizačních chorob. Podpoříme komunitní projekty a vytvoříme tak podmínky pro volnočasové aktivity."
+              },
+              {
+                "copy": "Ve všech obcích a městech budeme koordinovat funkční informační systémy, které vyhodnotí zájem lidí o volnočasové aktivity a poskytnou jim informace o již existujících možnostech. Budeme pružně reagovat na skutečné potřeby a zájmy občanů."
+              }
+            ]
+          },
+          {
+            "headline": "Materiální podpora především",
+            "parts": [
+              {
+                "copy": "Poskytování finančních dotací nepovažujeme za hlavní způsob veřejné podpory. Vrcholový sport budeme podporovat především vytvářením kvalitních podmínek pro jednotlivé kluby. Zvýhodníme kluby věnující se přípravě mládeže i na výkonnostní úrovni. Finanční dotace budeme poskytovat jen transparentním organizacím. Zaměříme se také na podporu ženského výkonnostního sportu."
+              }
+            ]
+          },
+          {
+            "headline": "Volnočasové aktivity a sportovní kroužky na školách",
+            "parts": [
+              {
+                "copy": "Zajistíme sportovní vyžití dostupné všem dětem bez rozdílu věku či finančních možností. Podpoříme především školní kroužky a volnočasové aktivity zaměřené na pohyb. Vytvoříme grantový program na podporu mimoškolních aktivit, z kterých se budou financovat odměny učitelů a provozní náklady."
+              }
+            ]
+          },
+          {
+            "headline": "Méně byrokracie pro amatérské sporty a volnočasové aktivity",
+            "parts": [
+              {
+                "copy": "Zaměříme se na snižování administrativy a byrokracie pro subjekty poskytující možnost amatérského sportování a volnočasových aktivit a umožníme jejich víceleté a průběžné spolufinancování."
+              }
+            ]
+          },
+          {
+            "headline": "Multifunkční sportovní haly napříč krajem a sportoviště pro širokou veřejnost",
+            "parts": [
+              {
+                "copy": "Podpoříme výstavbu multifunkčních sportovních hal s hledištěm, které budou sloužit veřejnosti a většímu množství sportovních subjektů. Podpoříme dostupná, multifunkční a bezbariérová hřiště a sportoviště pro širokou veřejnost. Budeme podporovat i možnost využití sportovišť při školách pro širokou veřejnost a tím zároveň rozvíjet roli škol jako komunitních center. Jako jedno ze základních kritérií posoudíme využitelnost a užitné parametry stavby na základě předložení stavebně-technického řešení min. ve stupni architektonické studie."
+              }
+            ]
+          },
+          {
+            "headline": "Aktivní životní styl všech generací",
+            "parts": [
+              {
+                "copy": "Budeme propagovat i přímo podporovat sportování a zdravý životní styl pro všechny bez rozdílu věku, sociálního postavení a fyzického omezení, a to především přímo v místě bydliště."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "IT",
+        "parts": [
+          {
+            "headline": "Inteligentní doprava",
+            "parts": [
+              {
+                "copy": "Zajistíme systémy pro přehled o aktuálním pohybu a obsazenosti autobusů a vlaků. Umožníme tím, aby fungovaly aplikace třetích stran a zvyšovaly tak komfort cestujících. Zajistíme sběr dat a přípravu pro další práci s nimi směrem k uživatelsky přívětivější dopravě."
+              },
+              {
+                "copy": "Vytvoříme smart monitoring silnic a síť informačních panelů. Infrastrukturu chytrých silnic budeme budovat ve spolupráci s univerzitami a místními firmami, ne jako plošné megaprojekty."
+              },
+              {
+                "copy": "Umístíme chytré semafory tam, kde je to potřeba. Chceme takové řízení plynulé dopravy ve městě, které bude dynamicky měnit časování dle aktuální situace na silnicích. Na silnicích upřednostníme průjezd MHD."
+              },
+              {
+                "copy": "Začneme využívat pohotovostní dron, který v případě nehody okamžitě vyrazí na místo, aby integrovaný záchranný systém získal okamžitou a přesnou informaci o poloze nehody a situaci na místě."
+              }
+            ]
+          },
+          {
+            "headline": "Koordinace IT samosprávy",
+            "parts": [
+              {
+                "copy": "Z pozice kraje zastřešíme IT potřeby všech obcí v kraji a poskytneme jim pomoc kvalitních a nezávislých odborníků. Pro zajištění fungování kraje a vhodných služeb zaměstnáme schopné odborníky."
+              }
+            ]
+          },
+          {
+            "headline": "Infrastruktura",
+            "parts": [
+              {
+                "copy": "Zpřístupníme krajské úložiště dat samosprávám. Více tak využijeme krajské datacentrum s úložištěm a virtualizačními servery, jehož potenciál je dosud využitý pouze částečně."
+              },
+              {
+                "copy": "Zajistíme rychlý internet do každého koutu kraje. V rámci pokládky krajských chrániček při investičních a dotovaných akcích zajistíme, aby vždy alespoň jedna zůstala v majetku kraje."
+              },
+              {
+                "copy": "Odstraníme překážky při budování infrastruktury, které kladou současné orgány, a změníme politiku správy silnic vůči budování sítí."
+              }
+            ]
+          },
+          {
+            "headline": "Vzdálená komunikace",
+            "parts": [
+              {
+                "copy": "Zajistíme dostupná řešení pro chytré vzdělávání. V krajem zřizovaných školách budeme aktivně podporovat metody výuky a řešení pro interaktivní či dálkové vzdělávání s využitím moderních technologií."
+              },
+              {
+                "copy": "Zajistíme technická řešení pro bezpečné hlasování na dálku a poskytneme je obcím. Koronavirová krize ukázala, že komunikace a hlasování na dálku může být někdy nejen nezbytné, ale může jít o efektivní způsob, jak zrychlit komunikaci a rozhodování."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora otevřených řešení",
+            "parts": [
+              {
+                "copy": "Nainstalujeme bezpečný Free Software do počítačů krajských úředníků jako doplněk. Tím umožníme používání otevřených formátů při komunikaci s veřejností. Zajistíme otevřené formáty pro organizace zřizované krajem."
+              },
+              {
+                "copy": "Zvážíme migrace na bezpečný Free Software tam, kde se to vyplatí. U dražších či důležitých software provedeme vlastní analýzu a produkty případně nahradíme svobodnými alternativami od komerčního dodavatele včetně podpory a záruk."
+              },
+              {
+                "copy": "Budeme využívat příklady dobré praxe a implementovat je ve veřejném sektoru."
+              }
+            ]
+          },
+          {
+            "headline": "Sběr a publikace dat – Open Data",
+            "parts": [
+              {
+                "copy": "Budeme publikovat veřejná data úřadu jako open data. Budeme aktivně shromažďovat data z obcí, aby na jednom místě bylo možné nalézt přehled zveřejněných informací."
+              },
+              {
+                "copy": "Výsledky hlasování budeme zveřejňovat ve formě výpisů ve strojově čitelné podobě, aby bylo možné jednoduše stáhnout přehledná zobrazení či analýzy a data postoupit veřejnosti."
+              }
+            ]
+          },
+          {
+            "headline": "Podpora hubů, inkubátoru a vzdělávacích zařízení propojujících teorii a praxi v IT",
+            "parts": [
+              {
+                "copy": "Budeme organizovat soutěže a hackatony. Budeme vytvářet prostředí, kde začínající podnikatelé a podnikaví studenti mohou snadno začít. Umožníme místním firmám zapojit školy a univerzity do jejich projektů. Podpoříme účast žáků v atraktivních formátech pro řešení skutečných problémů."
+              }
+            ]
+          },
+          {
+            "headline": "Příležitosti pro technologické firmy",
+            "parts": [
+              {
+                "copy": "Zasadíme se o vznik dron polygonu. Vybereme vhodnou oblast v kraji, kde bude možné vytyčit koridory pro provoz autonomních leteckých prostředků a dojednáme s úřadem pro letectví podmínky jejich provozu tak, aby se minimalizovalo riziko úrazů či nehod."
+              },
+              {
+                "copy": "Oslovíme velké technologické firmy i domácí firmy s možností umístění svých vývojových kapacit do Olomouckého kraje a podpoříme vývoj jejich produktů."
+              }
+            ]
+          },
+          {
+            "headline": "Chytrý úřad",
+            "parts": [
+              {
+                "copy": "Zajistíme elektronické materiály pro jednání zastupitelstva, rady i komisí. Posílíme e-government zavedením přívětivých služeb pro občany, designovaných podle jejich potřeb."
+              },
+              {
+                "copy": "Vylepšíme práci s rozklikávacím rozpočtem. Více také v kapitole 6 (finance)."
+              }
+            ]
+          },
+          {
+            "headline": "E-health",
+            "parts": [
+              {
+                "copy": "V rámci zdravotnictví se zasadíme o možnost vzdáleného monitoringu pacienta a využívání telekonzultací."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "bezpečnost",
+        "parts": [
+          {
+            "headline": "Připravenost na krizové situace",
+            "parts": [
+              {
+                "copy": "Podpoříme vznik epidemiologického oddělení ve Fakultní nemocnici Olomouc."
+              },
+              {
+                "copy": "Budeme úzce spolupracovat s obcemi s rozšířenou působností, které jsou důležitým pojítkem mezi krajským úřadem a obecními úřady. Komunikace musí být jasná, srozumitelná a využívat moderních technologií. Stávající komunikaci pomocí e-mailu a tabulek doplníme vytvořením funkčních aplikací a srozumitelného komunikačního a koordinačního systému. Zajistíme software vyhovující požadavkům příslušných ministerstev na sčítání škod během krizových situací."
+              },
+              {
+                "copy": "Zasadíme se o kvalitní vybavení jednotek integrovaného záchranného systému, dostatek ochranných pomůcek, práce s daty a moderními technologiemi a efektivní systém komunikace a koordinace krizových složek."
+              }
+            ]
+          },
+          {
+            "headline": "Efektivní integrovaný záchranný systém",
+            "parts": [
+              {
+                "copy": "Modernizujeme a rozvineme další schopnosti záchranného systému, který považujeme za páteř bezpečnosti v kraji. Budeme usilovat o to, aby stál na vyškoleném a plně vybaveném personálu s moderní technikou."
+              },
+              {
+                "copy": "Na fungování systému by se měly podílet další organizace i dobrovolníci pro drobné a pomocné práce. Zasadíme se o vznik vzájemně propojené bezpečnostní komunity relevantních subjektů. Budeme podporovat přeshraniční spolupráci a sdílení zkušeností v oblasti bezpečnosti a krizového managementu."
+              },
+              {
+                "copy": "Kraj bude mít přehled o výrobcích a dodavatelích ochranných pomůcek i bezpečnostní techniky pro správu i občany. Vybudujeme systém dostupných zásob a materiálu, abychom předešli shánění na poslední chvíli za vysoké ceny. Systém bude mít k dispozici náhradní zdroje energií."
+              },
+              {
+                "copy": "Podpoříme hasičské a policejní sbory, které vykonávají celou řadu důležitých záchranných činností, a proto si zaslouží nejvyšší možnou dotační podporu a benefity. Navrhneme proplacení výcviku k získání řidičského oprávnění sk. C pro kategorii V, tak jako už tomu je v kategoriích II a III. Zasadíme se o lepší koordinaci hasičských záchranných sborů a vznik celokrajského plánu výjezdů v rámci moderní aplikace. Všechny zásahové vozy vybavíme GPS modulem pro lepší koordinaci. Pro zlepšení personálního zázemí policie prosadíme motivační programy, např. možnost přednostního přidělení služebních bytů, které by je více motivovaly pracovat a zůstat v našem kraji. Zasadíme se o smysluplnější rozmístění služeben policie v kraji."
+              },
+              {
+                "copy": "Zasadíme se o kvalitní spolupráci mezi PČR a obecními policiemi v kraji."
+              },
+              {
+                "copy": "Zaměříme se na snížení dojezdové doby záchranné služby v periferních oblastech. Více v bodu 3 (zdravotnictví)."
+              },
+              {
+                "copy": "Zlepšíme technická a organizačních opatření, varování, vyrozumění a osvětu, protože informovanost a prevence jsou základem bezpečnosti. Připravíme a zveřejníme modely mimořádných událostí a krizové plány s využitím technologií GIS. Zpřístupníme občanům srozumitelné a jednoduché návody a základní postupy pro jednotlivce i větší celky. Podpoříme osvětu ve školách, v domovech pro seniory, v prostředcích hromadné dopravy a ve veřejném prostoru, příspěvkových organizacích či ve vybraných firmách."
+              }
+            ]
+          },
+          {
+            "headline": "Prevence kriminality",
+            "parts": [
+              {
+                "copy": "Podporujeme prevenci kriminality a protidrogovou osvětu mezi mladými lidmi na středních školách. Poskytneme středním školám odborníky, kteří budou schopni připravovat žádosti o dotační tituly v oblasti prevence. Podpoříme neziskové a další organizace, aby mohly působit i v odlehlejších a rizikovějších částech kraje. Prosazujeme dekriminalizaci pěstování konopí dle jasně stanovených pravidel, vymezujících jejich legalizaci, jako jsou např. zdravotní důvody. Jsme však důrazně proti nekontrolovanému šíření, a to zejména mezi mládeží."
+              },
+              {
+                "copy": "V případě kriminality využijeme existujících moderních technologií a pocitových map k jejímu efektivnějšímu potírání a prevenci. Prosadíme zvýšení počtu míst tzv. záchytných protialkoholních stanic v kraji."
+              }
+            ]
+          },
+          {
+            "headline": "E-bezpečí",
+            "parts": [
+              {
+                "copy": "Ve spolupráci s existujícími osvětovými projekty jako je E-bezpečí zajistíme a finančně podpoříme kurzy bezpečného používání internetu pro rodiče, děti a seniory, kteří se nejčastěji stávají cílem útočníků a predátorů nebo kyberšikany."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

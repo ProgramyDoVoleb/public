@@ -308,7 +308,8 @@
 					"reg":1227,
 					"leader":{
 						"name":"Antonín Fryč",
-						"reg":1227
+						"reg":1227,
+						"photo": "antonin-fryc.jpg"
 					},
 					"list": [
 						"Natálie Vachatová",
@@ -322,11 +323,9 @@
 						"name":"Zdeněk Štefek"
 					},
 					"list":[
-						"Ivan Cinka",
-						"Ladislava Šimková",
-						"Jindřich Havelka",
-						"Václav Melša"
-					]
+						"Mgr. Ivan Cinka","Ladislava Šimková","Mgr. Jindřich Havelka, DiS.","Václav Melša","Pavel Hubený","MVDr. Luboš Kudrna","Ing. Zbyněk Coufal","Mgr. Zdeněk Milata","Ing. Josef Dovolil","Stanislav Hejduk","Bc. Jiří Urban","Martin Krajdl","JUDr. Ing. Aleš Pokorný","Ing. Jiří Reichel",{"name":"Mgr. Lenka Labudová","reg":99},"Alena Grospičová","Ing. David Kváč","Jiřina Fialová",{"name":"Petra Chaloupková","reg":99},"RNDr. Ladislav Peška","Michal Budlovský","Ing. Martin Škorpík","Ing. Pavel Posolda","Mgr. Ing. Tereza Čechová Humpolcová, Ph.D.","Lukáš Juna","Patrik Švarc","Aleš Haluska","Karel Brich","Pavel Mařík","Kateřina Pavlíková","Lenka Křížová","Mgr. Marie Hrošová, CSc.","Zdeněk Levý","Marie Krejčová","Ing. Jan Bukáček","Aleš Sekera",{"name":"Stanislav Burgr","reg":99},{"name":"Bc. Rudolf Carvan","reg":99},"Filip Korec",{"name":"Pavel Klátil","reg":99},"Tomáš Tomsa","Bohumil Franta","Petr Kvíz","Luboš Kreibich","Bc. Josef Sova, DiS.","Jaroslav Hurt, DiS.","JUDr. Zdeněk Karger","Antonín Prchal","Luboš Kováč","František Kovář",{"name":"Ing. Tomáš Suchý","reg":99},"Zdeněk Zvelebil","Ctirad Sáček","Josef Pelikán","RSDr. Zdeněk Mottl","Jiří Čížek","Helena Pašková","Ladislav Karásek","Jaromír Jedlička","Radek Miškovský","Jiří Žáček","Ing. Vladimír Moucha","Zdeněk Thuma","Jozef Šedo","Alexandr Koníček","Václav Tříska","Ing. Karel Kubovec","Ing. Jaroslav Žigmund",{"name":"Ing. Karel Skřivánek","reg":99}
+					],
+					"data": "stk/47"
 				},
 				{
 					"name":"Spojenci pro Středočeský kraj",
@@ -463,7 +462,11 @@
 					"support": [79]
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jan Hřivna",
+						"reg": 156
+					}
 				},
 				{
 					"reg": 1173
@@ -483,17 +486,9 @@
 						"name":"František Talíř",
 						"reg":1,
 						"links":[
-							{
-								"url":"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
-								"label":"Profil"
-							},
-							{
-								"url":"https://www.facebook.com/frantisek.talir",
-								"label":"FB stránky"
-							},
-							{
-								"url":"https://www.instagram.com/frantisek.talir"
-							}
+							"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
+							"https://www.facebook.com/frantisek.talir",
+							"https://www.instagram.com/frantisek.talir"
 						]
 					},
 					"list":[
@@ -512,20 +507,10 @@
 					"links":[
 						"https://spolecneprojiznicechy.cz/",
 						"https://www.hejtmantour.cz/",
-						{
-							"url":"http://jiznicechy.kdu.cz",
-							"label":"KDU-ČSL Jižní Čechy"
-						},
-						{
-							"url":"https://www.top09.cz/regiony/jihocesky-kraj/",
-							"label":"TOP 09 Jižní Čechy"
-						},
-						{
-							"url":"https://www.facebook.com/jihocesky.kdu"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09.Jihocesky.kraj"
-						}
+						"http://jiznicechy.kdu.cz",
+						"https://www.top09.cz/regiony/jihocesky-kraj/",
+						"https://www.facebook.com/jihocesky.kdu",
+						"https://www.facebook.com/TOP09.Jihocesky.kraj"
 					],
 					"program":"https://spolecneprojiznicechy.cz/#program",
 					"data":"jck/spolecneprojc"
@@ -675,62 +660,113 @@
 						"name":"František Konečný",
 						"reg":768,
 						"links":[
-							{
-								"url":"https://www.facebook.com/frantisek.konecny.50"
-							}
+							"https://www.facebook.com/frantisek.konecny.50"
 						]
 					},
 					"links":[
-						{
-							"url":"https://www.anobudelip.cz/jihocesky-kraj",
-							"label":"ANO Jihočeské"
-						},
-						{
-							"url":"https://www.facebook.com/ANOjihoceskykraj"
-						}
+						"https://www.anobudelip.cz/jihocesky-kraj",
+						"https://www.facebook.com/ANOjihoceskykraj"
 					],
 					"list": [
-						"Barbora Šiftová",
+						"Mgr. Libor Moravec",
+						"Ing. Barbora Šiftová",
 						"Ludmila Pánková",
-						"Magda Blížová",
-						"Petr Holický",
-						"Jiří Svoboda"
+						"Ing. Marcel Kaštovský, MBA",
+						"Mgr. Ing. Jiří Hořánek",
+						"Ing. Jan Smitka, MBA",
+						"Petr Sojka",
+						"Ing. Jiří Svoboda",
+						"Ing. Petr Holický",
+						"Radek Hloušek",
+						"Bc. Miroslav Ryba",
+						"Ing. Petr Kalina",
+						"Ing. Magda Blížilová",
+						"Mgr. Petr Stehlík",
+						"Mgr. Tomáš Beck",
+						"Ing. Miloš Cieslar",
+						"Jindřich Soukal",
+						"Vlastimil Hoch",
+						"Ing. Jiří Kulík",
+						"Bc. Miloš Novák",
+						"Bc. Marek Liška",
+						"Mgr. et Bc Bronislava Šimsová",
+						"Jana Suchá",
+						"Milan Breda",
+						"Mgr. Viktor Lavička",
+						"Ing. Marcela Raabová, Ph.O.",
+						"Jiří Iral",
+						"Pavel Navrátil",
+						"Jan Čermák",
+						"Pavel Hrach",
+						"JUDr. Petr Šonka",
+						"RNDr. Michal Kohn, CSc.",
+						"JUDr. Martin Kupec, Ph.O.",
+						"Jaroslav Berka",
+						"Jan Borovanský",
+						"Jan Michl",
+						"Mgr. František Švepeš",
+						"Jiří Depta",
+						"Petr Štěpánek",
+						"Jan Chvosta",
+						"DiS. Ondřej Valena",
+						"Lukáš Sýs",
+						"Mgr. Milan Chaloupek",
+						"Bc. Filip Vojta",
+						"Martin Arnold",
+						"JUDr. Pavel Prýgl",
+						"Jan Čamra",
+						"Leoš Šůs",
+						"Ing. et Ing. Petr Kahoun",
+						"Ing. Pavel Švejda",
+						"Ing. Jiří Oubrecht, CSc.",
+						"DiS. Jindřiška Pokorná",
+						"Ing. Jiří Strachota",
+						"Jaromír Frank"
 					]
 				},
 				{
 					"reg":1227,
-					"support":[
-						714
-					],
 					"leader":{
 						"name":"Ivana Kerlesová",
 						"reg":1227,
 						"links":[
-							{
-								"url":"https://www.facebook.com/Kerlesova"
-							},
-							{
-								"url":"https://twitter.com/IvanaKerlesova"
-							}
+							"https://kerleska.cz/",
+							"https://www.facebook.com/Kerlesova",
+							"https://twitter.com/IvanaKerlesova"
 						],
 						"photo":"ivana-kerlesova.jpg"
 					},
 					"list":[
 						"Dalibor Uhlíř",
 						"Jaroslav Zvěřina",
-						{
-							"name":"Libor Vondráček",
-							"reg":714
-						},
 						"Jiří Černý"
 					],
 					"links":[
-						{
-							"url":"https://www.facebook.com/trikolora.jiznicechy"
-						}
+						"https://www.facebook.com/trikolora.jiznicechy"
 					],
 					"data":"jck/1227",
 					"program":"https://kerleska.cz/program/"
+				},
+				{
+					"reg": 714,
+					"leader": {
+						"name":"Libor Vondráček",
+			      "photo": "libor-vondracek.jpg",
+						"reg":714,
+						"links": [
+			        "http://vondraczech.cz/",
+			        "https://www.facebook.com/Libor.JHradec",
+			        "https://twitter.com/vondraczech_cz",
+			        "https://www.instagram.com/vondraczech.cz/"
+						]
+					},
+					"links": [
+						"https://www.hradecsrdcemarozumem.cz/kraj/"
+					],
+					"list": [
+						"Ing. Jaroslav Chalupský","Milada Petrů","Ing. Libor Votava","Bc. Felix Hanek","Mgr. Danuše Bednářová","Vlastislav Košner","Jan Kadlec","Ing. Pavel Dvořák","Ing. Ondřej Klor","Bc. Aleš Procházka","Ladislav Štercl","Filip Valtr","Vratislav Škorpil","Ing. Philip Prentis","Bc. Kateřina Boháčková","Bc. Tomáš Lejsek","Ing. Radek Svoboda","Tomáš Hospodářský","Ing. Marie Procházková","Vít Kos","Mgr. Jana Šoustarová Beranová","Mgr. Bc. Šárka Vondráčková","Petr Chaloupek ","Luděk Mitas","JUDr. Pavel David","Václav Picka","Mgr. Jiří Švehla","Tomáš Hubka","Petr Moos","Mgr. Marika Čápová","Iveta Máša","Lenka Fabešová","BcA. Věra Lukášová","Michaela Křížová","Irena Kadlecová","Mgr. Zuzana Prentis","Viktor Jura","Josef Mařík","Petr Bílek","Jaroslav Marvan","David Štafl","Josef Štěpánek","Stanislav Kučera","Tomáš Maxa","Jaroslav Machovec","Josef Beneda","Mgr. Tomáš Sedláček","Ladislav Prachař","Kristýna Maršalová","Ing. Vojtěch Hála","Ing. Jan Třeštík","Ing. Petr Jaroš","Ing. Miroslav Král","Bc. Maxim Kysil","Bc. Pavla Procházková","Mgr. Petr Mašek","Lukáš Kápar","Karel Hůda","Matyáš Adam"
+					],
+					"data": "jck/714"
 				},
 				{
 					"coalition":[
@@ -832,7 +868,11 @@
 					"leader":{
 						"name":"Radek Nejezchleb",
 						"reg":47
-					}
+					},
+					"list": [
+						"Vilém Klapsia","Alena Nohavová","Václav Kučera","JUDr. Tomeš Vytiska","Václav Ebert","Ing. Hana Tůmová, Ph.D.","David Mikeš, DiS.",{"name":"Mgr. Tomáš Bicek","reg":99},"Radek Springer",{"name":"Stanislav Češka","reg":99},"Bedřich Mašík",{"name":"Irena Pekárková","reg":99},"RSDr. Petr Braný","Pavel Štětina","Zdeněk Kollar","Jaroslav Švehla","Hana Filipová","Anna Vaculíková","Richard Schötz","Ing. Jaroslav Mikuška","Jana Kozáková","JUDr. Gustav Janáček","Daniel Pekař",{"name":"Lenka Uhlířová","reg":99},"Martin Kunt",{"name":"Vlastislav Švec","reg":99},"Michal Jirman","Jan Kaloš","Vladimír Horek","Ing. Antonín Liška","Ing. František Vaněček","Kateřina Matějková","Svatoslav Kontroš",{"name":"Ing. Bc. Arnošt Hamrle","reg":99},"Bc. Jaroslav Junek","RNDr. Ivo Přikryl","Erik Škut","Ing. Jan Pikous",{"name":"Ing. Václav Princ","reg":99},"Jiří Fiedler","Stanislav Švancar","Marián Lichtenberg","Josef Králík","Ing. Vladimír Klouda","Luboš Rozporka","Lea Klokočková","Radim Beran","František Dostál","Růžena Novotná","Jan Kejř","Vojtěch Vavera","David Kubíček","Ing. Vítězslav Velát","Olga Klostermannová","Bohumil Kalaš","Ivana Schötzová","Bohuslav Mrázek","Mgr. Vítězslava Baborová","MVDr. František Roučka"
+					],
+					"data": "jck/47"
 				},
 				{
 					"reg":5
@@ -859,14 +899,30 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - ZDRAVÝM ROZUMEM PRO NÁŠ KRAJ",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Roman Pospíšil",
+						"reg": 156
+					}
+				},
+				{
+					"name": "VIZE - národní socialisté",
+					"leader": {
+						"name": "Bc. Ivan Fabián, Dis",
+					  "phash": "vize---narodni-socialiste"
+					},
+					"list": [
+						"Ing. Miloš Benedikt", "Doc. Phdr. et. PaeDr. Zbyněk Holub, PhD.", "Prof. PhDr. Vladimír Kremsa PhD."
+					],
+					"data": "jck/vize",
+					"program": "https://www.vizens.cz/program3/"
 				}
 			]
 		},
@@ -964,13 +1020,16 @@
 						"photo": "ivo-gruner.jpg"
 					},
 					"list":[
-						"Jaroslav Šobr",
-						"Jiří Struček",
-						"Milada Emmerová",
-						"Milena Stárková",
+						"Mgr. Jaroslav Šobr",
+						"Bc. Jiří Struček",
+						"Doc. MUDr. Milada Emmerová CSc.",
+						"Mgr. Michal Černý",
+						"Ing. Milena Stárková",
+						"Mgr. Pavel Hofrajter",
+						"Bc. Michal Chalupný",
 						"Jan Látka",
-						"Václav Šimánek",
-						"Michal Černý"
+						"MUDr. Václav Šimánek Ph.D.",
+						"Zdeněk Hanzlíček"
 					],
 					"links":[
 						{
@@ -980,7 +1039,8 @@
 							"url":"https://www.facebook.com/cssdplzenskykraj"
 						}
 					],
-					"data":"plk/7"
+					"data":"plk/7",
+					"program": "https://drive.google.com/file/d/1zRuXJodJXpHMfQ69DYRk9Q1RfZ5VCSSn"
 				},
 				{
 					"reg":720,
@@ -1148,7 +1208,11 @@
 							"url":"https://www.facebook.com/groups/110721655612158/",
 							"label":"Skupina příznivců"
 						}
-					]
+					],
+					"list": [
+						{"name":"Ing. et Ing. Jan Bozděch, Ph.D.","reg":99},"JUDr. František Podlipský","Ing. Zdeněk Hubka","Jaroslav Rehák","Mgr. Vladimír Frouz","RSDr. Jan Rejfek","Ing. Václav Štekl",{"name":"Ing. Věra Obdržálková","reg":99},"JUDr. Zdeňka Lišková","Bronislav Šulc","Hana Merhoutová","Ing. Petr Žáček",{"name":"Mgr. Hana Hemzáčková","reg":99},"Karel Štěpán","Josef Šefl","František Hlásek","Miroslav Vild","RSDr. Josef Švarcbek","Ing. Lubomír Porvich",{"name":"Iveta Kindelmanová","reg":99},"RSDr. Mgr. František Hrubeš","Ladislav Jelínek","Zdeňka Sítková","Ing. Josef Bartoníček","Petr Nikodém","Václav Tuma","Václav Heřman","Michal Bažant","Jiří Zajíček","Eduard Kvasnička","MUDr. Radmila Pflugová Růžičková","Ing. Karel Šidlo","Jarmila Turková","RSDr. Ing. Karel Kvit","Jiří Cink",{"name":"Martin Tomášek","reg":99},{"name":"Hana Váchalová","reg":99},"Zdeněk Buček","Jaroslav Mareš","Jan Beneš",{"name":"Martin Volka","reg":99},{"name":"Jitka Macnerová","reg":99},"Jiří Godža",{"name":"Antonín Prančl","reg":99},"Pavel Hulinský","František Lifka",{"name":"Monika Magdalena Štefanová","reg":99},"Tomáš Vaňourek",{"name":"Václav Smihrodský","reg":99}
+					],
+					"data": "plk/47"
 				},
 				{
 					"reg":716
@@ -1195,7 +1259,8 @@
 						"Martin Šebesta",
 						"Drahuše Sekmilerová",
 						"Jan Kůrka",
-						"Oldrich Fencl"
+						"Oldrich Fencl",
+						"Miroslav Procházka"
 					],
 					"data": "plk/1114"
 				},
@@ -1204,14 +1269,18 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - Čistý kraj - Bez ubytoven zahraničních dělníků!",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Jiří Štěpánek",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -1272,9 +1341,7 @@
 						]
 					},
 					"list":[
-						"Martin Mareš",
-						"Pavel Hojda",
-						"Josef Borka"
+						"Vladimír Zima",{"name":"Mgr. Jaroslava Červenková, DiS.","reg":99},"Barbora Vojtová","Martin Mareš, DiS.","Ing. Pavel Hojda",{"name":"Ing. Eliška Stránská","reg":99},{"name":"Ing. Jaroslav Souhrada","reg":99},"Karel Hermann","Mgr. Jaroslav Borka","RSDr. Jan Votruba",{"name":"Bc. Jana Kumberová, DiS.","reg":99},"Josef Bečvář","František Vykoukal",{"name":"Radka Bobková","reg":99},{"name":"Věra Bartůňková","reg":99},"Zdeněk Mareš","Ing. Josef Kubíčko","JUDr. Václav Sloup","Bohuslava Hajská","Miroslava Fišerová",{"name":"Lukáš Bartůněk","reg":99},{"name":"Stanislav Doskočil","reg":99},"Ing. Ludmila Šneberková","Josef Švarcbek",{"name":"Bc. Martin Nikodém","reg":99},"Radomír Honců","Lucie Křemenáková","Helena Kobrová","Ing. Stanislav Dušek","Jan Tancibudek","Jana Čepičková","PhDr. Oleg Kalaš","Václav Němec","Jiří Jarolím","Ing. Luděk Premus","Miroslav Homolka","Mgr. Olga Gossová","Tomáš Strejček","Jaroslav Műhlberger","Miroslav Soural","Dana Janurová","Václav Janča","Drahomíra Vrzalová",{"name":"Mgr. PhDr. Zdeněk Musil","reg":99},"Antonín Kalina",{"name":"Mgr. Jan Brychta","reg":99},"Jaroslav Medveď","František Jurčák","Vladimír Brož"
 					],
 					"links":[
 						{
@@ -1285,7 +1352,8 @@
 							"url":"https://www.facebook.com/KS%C4%8CM-Karlovarsk%C3%BD-kraj-306603932862276/",
 							"label":"KSČM Karlovarsko"
 						}
-					]
+					],
+					"data": "kvk/47"
 				},
 				{
 					"reg":720,
@@ -1383,6 +1451,7 @@
 					]
 				},
 				{
+					"name": "VOK – Volba pro kraj s podporou hnutí Karlovaráci",
 					"coalition":[
 						1118,
 						1028
@@ -1391,40 +1460,70 @@
 						"name":"Josef März",
 						"reg":1028,
 						"links":[
-							{
-								"url":"http://www.karlovaraci.cz/index.php/team/josef-marz"
-							},
-							{
-								"url":"https://www.facebook.com/profile.php?id=100008186927999"
-							},
-							{
-								"url":"https://www.instagram.com/pepi9574"
-							}
+							"http://www.karlovaraci.cz/index.php/team/josef-marz",
+							"https://www.facebook.com/profile.php?id=100008186927999",
+							"https://www.instagram.com/pepi9574"
 						]
 					},
+					"list": [
+						"Bc. Jan Picka",
+						"Ing. Josef Švajgl",
+						"MUDr. Miloš Starý",
+						"Martin Maleček",
+						"Václav Skuhravý",
+						"MUDr. Jiří Brdlík",
+						"Ing. Martin Vinš",
+						"Rudolf Chlad",
+						"Pavel Pagáč",
+						"František Stůj",
+						"Bc. Jakub Novotný",
+						"Mgr. Štěpánka Steinová",
+						"Ing. Jiří Hrůza",
+						"Ing. Alena Botlíková",
+						"Jiří Mikuláš",
+						"Ing. Miroslav Očenášek",
+						"Viktor Tůša",
+						"Jan Šustr",
+						"Jaroslav Přibáň",
+						"JUDr. Hana Zakreničná",
+						"Lukáš Mensator",
+						"Václav Rieger",
+						"Ing. Bronislav Grulich",
+						"Bc. Martin Beer",
+						"Tatiana Kocábová",
+						"Matěj Svoboda",
+						"MUDr. František Černý",
+						"Ing. Miloslav Vrána",
+						"Iva Lokvencová",
+						"Ing. Arch. Miroslav Míka",
+						"František Dřížďal",
+						"Vladimír Suchan",
+						"David Skočil",
+						"Zdeněk Havel",
+						"Bronislav Píša",
+						"Jana Rojovská",
+						"RNDr. Martin Šípek",
+						"Radek Vrána",
+						"Lenka Zemanová",
+						"Tomáš Souhrada",
+						"Karel Lídl",
+						"Mgr. Zdeněk Pečenka",
+						"Josef Kopfstein",
+						"Ing. Michal Soukup"
+					],
 					"support":[
 						"nezávislí starostové"
 					],
 					"links":[
-						{
-							"url":"http://www.karlovaraci.cz"
-						},
-						{
-							"url":"http://www.spokojenykraj.cz"
-						},
-						{
-							"url":"https://www.facebook.com/karlovaraci"
-						},
-						{
-							"url":"https://www.facebook.com/spokojenykraj"
-						},
-						{
-							"url":"https://twitter.com/karlovaraci"
-						},
-						{
-							"url":"https://twitter.com/spokojenykraj"
-						}
-					]
+						"https://vok-volbaprokraj.cz/",
+						"http://www.karlovaraci.cz",
+						"https://www.facebook.com/spokojenykraj",
+						"https://www.facebook.com/karlovaraci",
+						"https://twitter.com/spokojenykraj",
+						"https://twitter.com/karlovaraci"
+					],
+					"data": "kvk/1118-1028",
+					"program": "https://vok-volbaprokraj.cz/o-hnuti/program/"
 				},
 				{
 					"reg":7,
@@ -1488,26 +1587,60 @@
 					"list":[
 						"Jitka Pokorná",
 						"Eduard Frisch",
-						"Vít Hromádko",
+						"Ing. Vít Hromádko",
 						"Ladislav Ludvík",
-						"Pavel Jandák", "Kateřina Krumphanzlová",
-						"Jiří Křenčil",
-						"Petr Kvasnička",
-						"Aleš Labík",
-						"Eva Machková",
-						"Vlastimil Ondra",
-						"Robert Petro",
-						"Jan Prudík",
-						"Helena Repíková",
+						"JUDr. Dominik Kříž, Ph.D.",
 						"Dagmar Strnadová",
+						"Jan Benka",
+						"Aleš Labík",
+						"Petr Kvasnička",
 						"Miroslav Stropek",
+						"Vlastimil Ondra",
+						"Jitka Tůmová",
+						"Helena Repíková",
+						"Luboš Garaj",
+						"Jiří Karas",
+						"Jiří Křenčil",
+						"Pavel Jandák",
 						"Jiří Štikar",
-						"Jana Viková"
+						"Bc. Eva Machková",
+						"Eva Procházková",
+						"Ing. Zdeněk Gerát",
+						"Ing. Jana Viková",
+						"Ing. Jan Doubrava",
+						"Michaela Holubcová",
+						"Robert Petro",
+						"Jan Ryba",
+						"Jaroslav Zilvar",
+						"Martina Majdáková",
+						"Mgr. Marek Stepanov",
+						"Mgr. Jakub Jiskra",
+						"Bc. Gabriela Turnerová",
+						"Miroslav Dorňák",
+						"Mgr. Jan Onak",
+						"Stefana Švecová",
+						"Alžběta Derahová",
+						"Pavlína Kubincová",
+						"Ing. Josef Krouza",
+						"Jaroslav Janda",
+						"MUDr. Hana Nesybová",
+						"Ing. Kateřina Krumphanzlová",
+						"Ing. Jiří Lodr",
+						"JUDr. Jan Kollár",
+						"Mgr. Milan Zamazal",
+						"Jan Prudík",
+						"Mgr. Marcela Bendová",
+						"Vlastislav Novotný",
+						"Ing. Josef Fiala",
+						"JUDr. Zdeněk Bartůšek",
+						"Bc. Marek Frisch"
 					],
 					"links": [
 						"https://snk1.cz/",
 						"https://www.facebook.com/SNK1-Starostov%C3%A9-na%C5%A1eho-kraje-106108747651248/"
-					]
+					],
+					"data": "kvk/1129",
+					"program": "https://snk1.cz/volebni-program-2/"
 				},
 				{
 					"reg":769,
@@ -1598,14 +1731,18 @@
 					}
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "STOP ROUŠKÁM A LIKVIDACI EKONOMIKY",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Tomáš Vejvoda",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -1654,19 +1791,7 @@
 						"https://www.instagram.com/severocesi.cz"
 					],
 					"list":[
-						"Lukas Wünsch",
-						"Bronislav Schwarz",
-						"Jaroslav Doubrava",
-						"Radek Slavík",
-						"Šárka Štruplová Růžičková",
-						"Čestmír Pastyřík",
-						"Martin Šimek",
-						"Rostislav Domorák",
-						"Jiří Skřivánek",
-						"Marie Hervertová",
-						"Olga Kubelková",
-						"Josef Kalina",
-						"Petr Klingr"
+						"Lukas Wünsch", "Ing. Bronislav Schwarz", "Jaroslav Doubrava", "Ing. Bc. Radek Slavík", "Milan Kožnar", "Ing. Čestmír Pastýřík", "Ing. Jan Bukva", "Martin Šimek", "Květa Rybárová", "František Moravec", "Ing. Rostislav Domorák", "Ing. Josef Kohout", "Mgr. Šárka Štruplová Růžičková, MBA", "Ing. Jiří Janeček", "Tomáš Rybár", "MUDr. Jiří Petrovský", "Ing. Martin Domín", "Ing. Luděk Jirman", "Jiří Skřivánek", "MUDr. Simona Bukvová", "Ing. Milan Turoň", "Luboš Jirka", "Václav Hrdlička", "Miluše Maskulanisová", "Daniel Běhounek", "Marie Hervertová", "Ivan Geist", "Mgr. Martina Šípová", "PhDr. Olga Kubelková", "Svatopluk Matějka", "Ing. Tomáš Ondrášek", "MUDr. Zdeňka Šteflíková", "Jana Sýkorová", "Jitka Jankovská", "Kotýnek", "Milan Rybák", "Aleš Bechyně", "Jana Kohlová", "Ivo Valášek", "Bc. Hana Jelínková", "Martin Topš", "Lukáš Bartuška", "Alena Dvořáková", "Dagmar Nachtmannová", "Tomáš Bočkaj", "Josef Hořeňovský", "Petr Klingr, DiS.", "Ing. Marcela Velcová", "Ing. Zbyněk Vodák", "Jiří Vlček", "Martin Hajný", "Luboš Barták", "Tomáš Liška", "Josef Kalina"
 					],
 					"data": "ulk/704"
 				},
@@ -1791,39 +1916,41 @@
 						}
 					],
 					"list":[
-						"Oldřich Bubeníček"
+						"Ing. Bc. Petr Kubeš","Jaroslav Komínek","RSDr. Jaroslav Horák","Tomáš Zíka","Radek Belej","Pavel Vodseďálek","Ing. Jaromír Kohlíček, CSc.","Jan Janeček","RSDr. Stanislav Rybák","Jiří Hodboď","Ing. Petra Matlachová Koníčková","Ing. Josef Šenfeld","Ing. Jiří Novák","Gabriela Hubáčková","Václav Beneš","Petr Bureš","Jitka Hanousková","Jana Pilařová Honsová","Ing. Radmila Krastenicsová","Pavel Váňo","Soňa Pulerová","JUDr. Karel Krčmárik","PaedDr. Václav Homolka","Bc. Jaroslava Kamarytová Vršitá","Bc. Lukáš Brázda","Zdeněk Jung","Jana Chudobová","Lukáš Přikryl","Milan Louda","Iva Mazánková","Mgr. Ľudmila Hodboďová","Jaroslav Cingel","Ondřej Strnad","Martin Hošek","František Minárik","Alena Mádlová","PaedDr. Zdeněk Dušek","Irena Kořanová","Jan Švestka","Iveta Jelínková","Bc. Martin Stojan, DiS.","Vratislav Schleier","Drahomír Faix","Mgr. Andrea Fricová","Bc. Jiří Šír","Jiří Dbalý","Marie Hanischová","Miloslav Buldra","Martina Zigmundová","Bc. Vojtěch Kosař","Ing. Bc. Ivana Malířová",{"name":"Květoslava Mihalíková","reg":99},"Karel Fukárek","Oldřich Hladík","Rostislav Šíma","Tomáš Ploc","Jozef Pásztor",{"name":"Jiří Havel","reg":99},{"name":"Libuše Koluchová","reg":99}
+					],
+					"data": "ulk/47"
+				},
+				{
+					"reg": 7,
+					"leader": {
+						"name": "Jaroslav Krákora",
+						"reg": 7
+					},
+					"list": [
+						"Petr Benda",
+						"Michal Ševcovic"
 					]
 				},
 				{
 					"name":"Lepší sever",
 					"logo":"obecne/strany/loga/x-lepsisever.png",
 					"coalition":[
-						7,
 						1012,
 						1175
 					],
 					"leader":{
 						"name":"Martin Klika",
-						"reg":7,
+						"reg":99,
 						"links":[
-							{
-								"url":"https://www.facebook.com/KlikaUsteckyKraj"
-							},
-							{
-								"url":"https://twitter.com/Martin_Klika"
-							}
+							"https://www.facebook.com/KlikaUsteckyKraj",
+							"https://twitter.com/Martin_Klika"
 						]
 					},
 					"links":[
-						{
-							"url":"http://www.lepsisever.cz"
-						},
-						{
-							"url":"https://www.facebook.com/lepsisever"
-						},
-						{
-							"url":"https://twitter.com/LepsiSever"
-						}
+						"http://www.lepsisever.cz",
+						"https://www.facebook.com/lepsisever",
+						"https://twitter.com/LepsiSever"
+
 					]
 				},
 				{
@@ -1856,7 +1983,7 @@
 					"data": "ulk/1114"
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "ČISTÝ A LEPŠÍ SEVER",
 					"coalition": [
 						156,
 						{
@@ -1865,22 +1992,9 @@
 						}
 					],
 					"leader":{
-						"name":"Tomáš Vandas",
+						"name":"Jindřich Svoboda",
 						"reg":156,
-						"links":[
-							{
-								"url":"http://www.tomasvandas.cz"
-							},
-							{
-								"url":"https://www.facebook.com/tomasvandas.cz"
-							},
-							{
-								"url":"https://twitter.com/tomas_vandas"
-							},
-							{
-								"url":"https://www.instagram.com/vandastomas"
-							}
-						]
+						"links":[]
 					},
 					"links":[
 						{
@@ -1922,7 +2036,8 @@
 						"Michal Závladský",
 						"Jaroslav Poráč",
 						"Miroslav Červenka",
-						"Jindřich John"
+						"Jindřich John",
+						"Rudolf Řepka"
 					],
 					"links":[
 						{
@@ -1969,11 +2084,20 @@
 					"reg":768,
 					"leader":{
 						"name":"Jan Schiller",
-						"reg":768
+						"photo": "jan-schiller.jpg",
+						"reg":768,
+						"links": [
+							"https://www.facebook.com/JanSchiller.politik/"
+						]
 					},
 					"links":[
-						"https://www.anobudelip.cz/ustecky-kraj"
-					]
+						"https://www.anobudelip.cz/ustecky-kraj",
+						"https://www.facebook.com/anousteckykraj/"
+					],
+					"list": [
+						"Marek Hrabáč", "Marek Kocánek", "Radim Laibl", "Tomáš Kirbs", "Marian Čapek", "Vlastimil Skála", "Jindra Zalabáková", "Pavla Tomášová", "Zdeněk Plecitý", "Milan Rychtařík", "Jiří Valenta", "Miroslav Novotný", "Lumír Kus", "Jiří Štábl", "Lubomíra Mejstříková", "Jiří Řezníček", "Petr Nedvědický", "Miroslav Matějka", "Jiří Anděl", "Kateřina Mazánková", "Zuzana Schwarz Bařtipánová", "Jana Škudrnová", "Martin Pala", "Jaromír Kubelka", "Patrik Srba", "Alena Vaněčková", "Pavel Tůma", "Jan Kuzma", "Tomáš Vlach", "Patricie Prokešová", "Lubomír Veselka", "Pavel Elias", "Zuzana Hořínková Kawanová", "Renata Vítová", "Monika Zemanová", "Ladislav Růžička", "Ondřej Štěrba", "Petr Šrámek", "Milan Petrilák", "František Neumann", "Jiří Urbánek", "Josef Douša", "Radek Andrš", "Lukáš Sinu", "Jan Vycpálek", "Jindřich Nádvorník", "Pavel Pintr", "Martin Hruška", "Vladimír Kossakowski", "Jaroslava Veselá", "Rudolf Klaška", "Jaroslav Šimanovský", "Václav Jugl", "Romana Šrámková", "Tomáš Vávra", "Věra Říha", "Eva Nováková", "Stanislav Rumlena", "Petra Troníčková"
+					],
+					"data": "ulk/768"
 				},
 				{
 					"reg":137,
@@ -2009,6 +2133,25 @@
 					"leader": {
 						"name": "Petr Žák"
 					}
+				},
+				{
+					"reg": 714,
+					"leader": {
+						"name": "Pavel Dittrich",
+						"reg": 714
+					}
+				},
+				{
+					"name": "VIZE - národní socialiste",
+					"leader": {
+						"name": "Bc. Jan Vondrouš",
+					  "phash": "vize---narodni-socialiste"
+					},
+					"list": [
+						"Bc. Šárka Holubová", "Mgr. Petr Leník", "Petr Šmíd", "Bc. František Pelc", "Vojtěch Dítě", "Bc. Adam Korčák", "Bc. Anna Voříšková", "Bc. Jakub Kubelka"
+					],
+					"data": "ulk/vize",
+					"program": "https://www.vizens.cz/program2/"
 				}
 			]
 		},
@@ -2034,35 +2177,125 @@
 								"url":"https://www.instagram.com/hejtmanmartinputa"
 							}
 						],
-						"photo":"martin-puta.jpg"
+						"photo":"martin-puta-2.jpg"
 					},
 					"support":[
-						"Unie pro sport a zdraví"
+						"Unie pro sport a zdraví",
+						"SPOLEHNUTÍ – SPOLEČNÉ HNUTÍ ČESKOLIPANŮ"
 					],
 					"list":[
-						"Květa Vinklátová",
-						"Jan Sviták",
-						"Lena Mlejnková",
-						{"name": "Tomáš Hocke", "reg": 99},
-						"Markéta Khauerová",
-						"Radek Lípa",
-						"Michael Canov",
-						"Eva Zbrojová",
-						"Jaromír Dvořák",
-						"Petr Tulpa",
-						"Jiří Löffelmann",
-						"Jaroslav Demčák",
-						"Jiří Ulvr",
-						"Josef Horinka",
-						"Vladimír Boháč",
-						"Daniel David",
-						"Markéta Červinková",
-						"Anna Provazníková",
-						"František Lufinka",
-						"Eva Burešová",
-						"Vladimír Stříbrný",
-						"Jaroslav Turnhófer",
-						"Jaroslav Zámečník"
+					  "Ing. Květa Vinklátová",
+					  "Ing. Jan Sviták",
+					  "Bc. Lena Mlejnková",
+					  {
+					    "name": "Ing. Tomáš Hocke",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Ing. Markéta Khauerová",
+					    "reg": 99
+					  },
+					  "Ing. Radek Lípa",
+					  "Ing. Michael Canov",
+					  {
+					    "name": "Eva Zbrojová",
+					    "reg": 99
+					  },
+					  "Mgr. Jaromír Dvořák",
+					  "Mgr. Petr Tulpa",
+					  "Jiří Löffelmann",
+					  "Jaroslav Demčák",
+					  "Mgr. Jiří Ulvr",
+					  "Mgr. Josef Horinka",
+					  {
+					    "name": "Ing. Vladimír Boháč",
+					    "reg": 99
+					  },
+					  "Mgr. Daniel David",
+					  "Markéta Červinková",
+					  {
+					    "name": "Bc. Anna Provazníková",
+					    "reg": 99
+					  },
+					  "Vladimír Stříbrný",
+					  {
+					    "name": "Mgr. František Lufinka",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Jaroslav Kořínek",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Mgr. Josef Šimek",
+					    "reg": 99
+					  },
+					  "Michal Rezler",
+					  "Ing. Eva Burešová",
+					  "Ing. Petr Matyáš",
+					  "Bc. Tomáš Levinský",
+					  "Lukáš Pohanka",
+					  "Bohumil Mráček",
+					  {
+					    "name": "Mgr. Vladimír Vyhnálek",
+					    "reg": 99
+					  },
+					  {
+					    "name": "PhDr. Jiří Miler, Ph.D.",
+					    "reg": 99
+					  },
+					  "Jiří Černý",
+					  {
+					    "name": "Jiří Rýdl",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Jana Holcová",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Zbyněk Polák",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Lenka Malá",
+					    "reg": 99
+					  },
+					  "Ing. Jiří Formánek",
+					  {
+					    "name": "Mgr. Zdeněk Hlinčík",
+					    "reg": 99
+					  },
+					  "Ing. Petr Felkner",
+					  "Luboš Marek",
+					  {
+					    "name": "Bc. František Kučera",
+					    "reg": 99
+					  },
+					  "Ing. Luděk Sajdl",
+					  {
+					    "name": "Gustav Pilz",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Jindřiška Halasníková",
+					    "reg": 99
+					  },
+					  {
+					    "name": "Ing. Jiřina Brychcí",
+					    "reg": 99
+					  },
+					  "Ing. Leona Vránová",
+					  {
+					    "name": "Jana Mlejnecká",
+					    "reg": 99
+					  },
+					  "Jiří Vosecký",
+					  {
+					    "name": "Ing. Jaroslav Turnhöfer",
+					    "phash": "spolehnuti---spolecne-hnuti-ceskolipanu"
+					  },
+					  "Ing. Jaroslav Zámečník, CSc."
 					],
 					"links":[
 						{
@@ -2398,17 +2631,15 @@
 						]
 					},
 					"list":[
-						"Jan Koros",
-						"František Pešek",
-						"Miloš Tita",
-						"Jan Dvořák"
+						"Bc. Jan Koros","Ing. František Pešek",{"name":"Ing. Miloš Tita","reg":99},"Jan Dvořák","František Chot","Jaroslav Šlechta","Ing. Jan Malec","Lucie Sieberová","doc. PhDr. Alena Svobodová, CSc.","Jiří Vaszily","Lukáš Čížek","Taťjana Nováková","PhDr. Věra Picková",{"name":"Jiří Boudný","reg":99},"JUDr. Josef Vondruška","Jiří Bělohlávek",{"name":"Mgr. Šárka Kalvová","reg":99},"Ludmila Zelinková","Leoš Hamrský","Alexandr Šedivý","Milan Voldřich","Štefánia Dvořáková Babáková","Miloslava Hudaková","Petr Siegel",{"name":"Hedvika Jílková","reg":99},{"name":"Karel Nápravník","reg":99},"Ing. Helena Šafaříková",{"name":"Zbyněk Cincibus","reg":99},"Mgr. Danuše Hejlová","Petr Vaněk","David Röbisch","Andrea Rutová","Ing. Miroslav Hokr","Vladimíra Bukvicová","Miroslava Hlavatá","Mgr. Dagmar Staňková","Milan Mašek","Jiří Josífek",{"name":"Jaroslav Zelinka","reg":99},"Bohuslav Kaván","Anna Kuřátková","Josef Rám","Helena Slavíková","Marie Stützová","Otto Hartig",{"name":"Jana Jechová","reg":99},"Vratislav Svatoš","JUDr. Zdeněk Formánek","Břetislav Ptáček"
 					],
 					"links":[
 						{
 							"url":"https://www.facebook.com/KS%C4%8CM-Libereck%C3%BD-kraj-1624537931096023/",
 							"label":"KSČM Liberecko"
 						}
-					]
+					],
+					"data": "lbk/47"
 				},
 				{
 					"reg":1227,
@@ -2472,7 +2703,52 @@
 						"Radovan Vích",
 						"Bronislav Kalvoda",
 						"Libor Křeněk",
-						"Věnceslava Drábková"
+						"Věnceslava Drábková",
+						"Pavel Mrklas",
+						"Tomáš Procházka",
+						"Petr Doubek",
+						"Jan Vaníček",
+						"Petr Strnad",
+						"Ivana Zieglerová",
+						"Roman Brodský",
+						"Jitka Nováková",
+						"Alexandr Stejskal",
+						"Pavel Kotěborský",
+						"Milan Brixi",
+						"Alois Neruda",
+						"Jan Ostrák",
+						"Marcela Kropáčková",
+						"Vladimír Tauchman",
+						"Roman Lanc",
+						"Petr Donát",
+						"Kateřina Šemberková",
+						"Karel Novotný",
+						"Pavel Pauch",
+						"Jan Boor",
+						"Lukáš Leiner",
+						"Václav Fejfar",
+						"Renauld Zappe",
+						"Renáta Žitná",
+						"Radim Plíhal",
+						"Pavel Kříž",
+						"Rudolf Sucharda",
+						"Robert Táborský",
+						"Václav Havlík",
+						"Robert Schneider",
+						"Ivanka Rejmanová",
+						"Jan Bartoš",
+						"Nikola Rybová",
+						"Jaroslav Kovář",
+						"Petr Machala",
+						"Jitka Rotková",
+						"Miloš Krčmařík",
+						"Daniel Křikava",
+						"Vladimír Haftstein",
+						"Pavel Pozděna",
+						"Lukáš Erben",
+						"Miroslav Hujer",
+						"Pavel Kotěborský",
+						"Adam Jindra"
 					],
 					"program": "https://docs.google.com/document/d/1MCP27sW4y4q_fDDbbTL9UG1N72KQ0r-wzUwHeZU9XbY"
 				},
@@ -2526,7 +2802,14 @@
 					"data": "lbk/103"
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jindřich Nestler"
+					}
+				},
+				{
+					"name": "Soukromníci a Svobodní",
+					"coalition": [716, 714]
 				}
 			]
 		},
@@ -2701,12 +2984,9 @@
 						}
 					],
 					"list":[
-						{
-							"name":"Petra Zakouřilová",
-							"reg":99
-						},
-						"Táňa Šormová"
-					]
+						{"name":"Bc. Petra Zakouřilová","reg":99},"JUDr. Václav Ort","Mgr. Táňa Šormová","Mgr. Soňa Marková","Ing, Lubomír Štěpán","PaedDr. Josef Lukášek","Marcela Kováčíková",{"name":"Jaroslav Manych","reg":99},{"name":"Bc. Iva Řezníčková","reg":99},"Josef Tylš",{"name":"Mgr. Josef Radocha","reg":99},"Jiří Machula","Petr Falta",{"name":"Josef Dušek","reg":99},{"name":"Petr Fejfar","reg":99},"Jaroslav Divíšek",{"name":"Hynek Vejnar","reg":99},"Lenka Fialová, DiS.","Jaroslav Vrba","Lenka Kopysová","Jan Janeček","Libor Kračmar","Radim Fryčka",{"name":"Bc. Thomas Rössler","reg":99},{"name":"Vladimír Berger","reg":99},"Zdeněk Koudelka",{"name":"Pavel Václav Chrtek","reg":99},"Petr Forche","Jiří Zvára","Vladimír Motyčka","Jiří Cee","Michal Kürthy","Ing. Věra Kučerová","Zdeněk Žoček","Daniel Čapek",{"name":"Lenka Rosůlková","reg":99},"Václav Šmatolán","Jitka Marková",{"name":"Ing. Jaroslav Špičák","reg":99},"Filip Svoboda","Miroslav Kalivoda","Miroslav Macháček","JUDr. František Koloc","Ladislav Winzberger, DiS.","Blanka Bubnová","Jan Vaňura","Jiří Žoček"
+					],
+					"data": "khk/47"
 				},
 				{
 					"name":"Spojenci pro Královéhradecký kraj",
@@ -2782,12 +3062,13 @@
 					"data":"khk/spojenci"
 				},
 				{
-					"reg":1227,
+					"name": "Trikolora s podporou Soukromníků a Svobodných",
 					"leader":{
 						"name":"Jiří Matoušek",
 						"reg":1227
 					},
-					"support":[
+					"coalition":[
+						1227,
 						714,
 						716
 					],
@@ -2902,9 +3183,6 @@
 					"leader": {
 						"name": "Václav Makalouš"
 					}
-				},
-				{
-					"reg": 156
 				}
 			]
 		},
@@ -3215,7 +3493,11 @@
 						{
 							"url":"https://www.facebook.com/kv.kscm.pce"
 						}
-					]
+					],
+					"list": [
+						"PaedDr. Hana Horská",{"name":"Antonín Vyšohlíd","reg":99},"Lenka Bělohlávková","Roman Harmat","Miroslav Hlavatý",{"name":"Jitka Šimková","reg":99},"Josef Bohatec","Mgr. Václav Snopek, CSc.","Ing. Květa Matušovská",{"name":"Bc. Tomáš Kacálek","reg":99},"Vladimír Příhoda",{"name":"Kateřina Dymáková","reg":99},"JUDr. Zdenka Šťastná","Pavel Žampach","Jan Dvořák",{"name":"Ing. Jaromír Vojtěch","reg":99},"Zdeněk Bureš",{"name":"František Richter","reg":99},{"name":"Veronika Branžovská, DiS.","reg":99},"Bc. Otakar Kovařík",{"name":"Jiří Černý","reg":99},"Milan Mňuk","Ing. Vladimír Dosoudil","Valéria Kmošťáková","Milan Konečný",{"name":"Karel Moravec","reg":99},"Bohdan Němec",{"name":"Tomáš Bartoň","reg":99},{"name":"Richard Kohout","reg":99},"Edita Prchalová","Mgr. Vladimír Severin","Petra Harmatová",{"name":"Richard Nosek","reg":99},"Václav Opasek",{"name":"Vladimír Krátký","reg":99},"Pavel Studnička",{"name":"René Kubíček","reg":99},"Věra Chodilová","Jaroslav Hájek, DiS.","Radim Fülle","Ing. Pavel Kubů",{"name":"Antonín Odvárka","reg":99},{"name":"Jana Pavlasová","reg":99},"Helena Krupková","Rudolf Navrkal",{"name":"Miloš Tesař","reg":99}
+					],
+					"data": "pak/47"
 				},
 				{
 					"reg":5,
@@ -3314,7 +3596,7 @@
 				},
 				{
 					"name": "Mladí pro Pardubický kraj",
-					"support": [2, {"name": "Vize národních socialistů"}, 1209, {"name": "Mladí Žumberáci"}],
+					"support": [2, {"name": "VIZE - národní socialisté"}, 1209, {"name": "Mladí Žumberáci"}],
 					"links": [
 						"https://mladidotoho.com/",
 	          "https://www.facebook.com/mladidotoho/",
@@ -3352,14 +3634,18 @@
 					"reg":770
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - STOP KRIMIGRANTŮM - Čistý kraj,",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Marek Nechala",
+						"reg": 156
+					}
 				}
 			]
 		},
@@ -3572,7 +3858,11 @@
 						{
 							"url":"https://www.facebook.com/KSCMVysocina"
 						}
-					]
+					],
+					"list": [
+						"Marek Nevoral","PharmDr. Miloslav Vrzal","Karel Dvořák","Kamil Vejvoda","Ing. Bc. Eva Dlouhá","Josef Zahradníček","Roman Ondrušek","Ing. Ladislav Vejmělek",{"name":"Mgr. Milan Mokrý","reg":99},"Hana Máchalová",{"name":"Věra Stočková","reg":99},"Jan Zimmerman","Ing. Bc. Hana Hodáčová","Ing. Jan Široký","MUDr. Milan Sedláček","Stanislav Vyvadil","Jaroslav Piša","Jindřich Pospíchal","Hana Hodáčová","Mgr. Helena Vrzalová","Josef Svěrák",{"name":"Romana Gažiová","reg":99},"PhDr. Zdeněk Dobrý","Ing. Jaroslav Fiala",{"name":"Mgr. Lenka Vytisková","reg":99},"Josef Číž","Miloš Srnský","Ing. Karel Moravec","Pavel Kalabus","Milan Plodík","Helena Novotná",{"name":"Tomáš Sáblík","reg":99},"Petr Vacek","Jaroslav Pulkrábek","Monika Jordánová","Josef Fuchs","Pavel Jelínek",{"name":"Jiří Kaštan","reg":99},"Ladislav Brož","Tomáš Pokorný",{"name":"Bc. Antonín Tulis","reg":99},"Ing. Marie Chánová","Pavel Vlček","Karel Hlaváček","Pavla Petříková","Ing. Danuše Milotová","Jindřich Hrdlička","Miroslav Kříž","Miloslav Pekař"
+					],
+					"data": "vys/47"
 				},
 				{
 					"reg":5,
@@ -3728,20 +4018,25 @@
 					"leader":{
 						"name":"Karel Fink",
 						"reg":1114,
+			      "photo": "karel-fink.jpg",
 						"links":[
-							"https://www.facebook.com/KarelFinkSPD/"
+							"http://www.karelfink.cz/",
+							"https://www.facebook.com/KarelFinkSPD/",
+							"https://twitter.com/KarelFink"
 						]
 					},
 					"list":[
-						"Radek Koten",
-						"Tomáš Prchal"
+						"Tomáš Prchal", "Radek Koten", "Romana Krejčířová", "Pavel Šabata", "Ludmila Krátká", "Tomáš Havlík", "Martin Hodboď", "Michal Galbavý", "David Mészaros", "Roman Reichl", "Marcela Severová", "Pavel Duben", "Hana Dlabačová", "Jiří Nekovář", "Josef Matula", "František Burda", "Jaroslav Henzl", "Hana Kulhánková Ferdová", "Darina Kábelová", "Olga Králová", "Ivo Domkář", "Jaroslav Řepa", "Richard Schleis", "Zuzana Makovičuk", "Jakub Hyrš", "Jiří Janiš", "Miloslav Blažek,", "Dagmar Barimová", "Čestmír Nedělka", "Luboš Palát", "Nápravník Jiří", "Karel Janáček", "Ludmila Novotková", "Eva Wachtlová", "František Kulhánek", "Pavel Poulíček", "Petr Pangrác", "Daniela Načeradská", "František Herna", "Lenka Koutníková", "Pavel Harvánek", "Věra Heřmánková", "Veronika Večeřová", "Josef Jareš", "Michal Škoda", "Milan Píša", "David Horák", "Jaroslav Vrba", "Petr Kohout"
 					],
 					"links": [
 						"https://www.facebook.com/spdvysocina/"
-					]
+					],
+					"data": "vys/1114",
+					"program": "https://docs.google.com/document/d/1YZAkuRDsxZGK6-ir5KDknwjVDJpl8hsn219lySU_ULk"
 				},
 				{
 					"name":"Pro TOP Vysočinu",
+					"logo": "obecne/strany/loga/x-pro-top-vysocinu.jpg",
 					"coalition":[
 						721,
 						40,
@@ -3776,7 +4071,10 @@
 					}
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Petr Štyndl"
+					}
 				}
 			]
 		},
@@ -3983,6 +4281,7 @@
 				},
 				{
 					"name":"Spolu pro Moravu",
+					"logo": "obecne/strany/loga/x-spolu-pro-moravu-2.jpg",
 					"coalition":[
 						721,
 						5,
@@ -4012,23 +4311,34 @@
 							"reg":721
 						},
 						{
+							"name":"Jan Schneider"
+						},
+						{
+							"name": "Petr Kunc",
+							"reg": 721
+						},
+						{
 							"name":"Jiří Kacetl",
 							"reg":1190
+						},
+						{
+							"name":"Michal Doležal"
+						},
+						{
+							"name":"Matouš Vencálek"
+						},
+						{
+							"name":"Hana Potměšilová"
+						},
+						{
+							"name":"David Veselý"
 						}
 					],
 					"links":[
-						{
-							"url":"http://spolupromoravu.cz"
-						},
-						{
-							"url":"https://www.facebook.com/SpoluProMoravu"
-						},
-						{
-							"url":"https://twitter.com/SpolUpro"
-						},
-						{
-							"url":"https://www.instagram.com/spolupromoravu"
-						}
+						"http://spolupromoravu.cz",
+						"https://www.facebook.com/SpoluProMoravu",
+						"https://twitter.com/SpolUpro",
+						"https://www.instagram.com/spolupromoravu"
 					],
 					"data": "jmk/spolu-pro-moravu"
 				},
@@ -4047,8 +4357,7 @@
 						]
 					},
 					"list":[
-						"Filip Zachariaš",
-						"Martin Říha"
+						"Bc. Filip Zachariaš","Martin Říha","Ing. Bohumil Smutný, BA","Ing. Zdeněk Tesařík","JUDr. Jan Navrátil",{"name":"Ing. Eliška Volná","reg":99},"Ing. Václav Fišer","Bc. Emil Pernica, DiS.",{"name":"Bc. Mgr. Vojtěch Jedlička","reg":99},{"name":"Miloslava Zachová","reg":99},"Ivan Ostružka","Mgr. Lenka Ingrová, DiS.","Ing. arch. Zdeněk Koudelka","Petr Koš",{"name":"Ing. Jiří Skokan","reg":99},"Mgr. Ivo Pojezný","Radoslav Skála","Radek Boháček","Ing. František Šlapanský","Kateřina Stiglerová","JUDr. Helena Sýkorová","Mária Koudelová","Dagmar Švendová, BA, LL. M.","Barbora Fejfárková","Vlasta Svobodová","Ing. Josef Bártek","Lubomír Pospíšil","Jaromír Blatný","Ing. Jaroslava Konůpková","Ludmila Živná","Mgr. Pavel Macek","Ján Brnka","Jiří Dostál",{"name":"Mgr. Stanislav Ševčík","reg":99},{"name":"Pavel Valach","reg":99},"Radoslav Hruda","Adriana Lehutová","Táňa Kotrnetzová","Ing. Lenka Cucová","MUDr. Božena Hofrová",{"name":"Mgr. Lenka Obořilová","reg":99},"Ing. Pavel Březa",{"name":"Jaroslav Bárta","reg":99},"Jaroslava Fryštáková",{"name":"Radomír Hubatka","reg":99},"Martin Gajda","Radek Chmelař","Květoslava Vančurová","Emil Vítek",{"name":"Natálie Novotná","reg":99},"Martin Florus","Pavel Balík",{"name":"Ladislav Haller","reg":99},"Marie Košuličová","Ing. Jaroslava Hrozková","RNDr. Daniel Borecký, CSc.",{"name":"Eva Handzelová","reg":99},"JUDr. Stanislav Šprtel","Petr Jaglarz","Ing. Josef Pomajbík","RSDr. Ing. Jan Procházka","Jan Herman","Jan Vyhňák","Radoslav Kotík","MUDr. Blanka Chaloupkoová","Ludmila Pilátová","Jiří Fazor",{"name":"Jan Přikryl","reg":99},"Ing. Pavel Kučera"
 					],
 					"links":[
 						{
@@ -4057,7 +4366,8 @@
 						{
 							"url":"https://www.facebook.com/kscmjiznimorava"
 						}
-					]
+					],
+					"data": "jmk/47"
 				},
 				{
 					"reg":1227,
@@ -4132,14 +4442,17 @@
 					"support": [79]
 				},
 				{
-					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
+					"name": "DSSS - Čistý kraj",
 					"coalition": [
 						156,
 						{
 							"name":"Čistý kraj",
 							"logo":"obecne/strany/loga/x-cisty-kraj.jpg"
 						}
-					]
+					],
+					"leader": {
+						"name": "Josef Křivánek"
+					}
 				}
 			]
 		},
@@ -4339,18 +4652,16 @@
 						"name":"Josef Suchánek",
 						"reg":166,
 						"links":[
+							"https://www.piratistarostove.cz/nasilide/ing-josef-suchanek/",
 							"https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj/krajsky-vybor/suchanek-josef",
 							"https://www.facebook.com/suchanek.ol/",
 							"https://twitter.com/SuchanekOl",
 							"https://www.instagram.com/josef.suchanek/"
 						],
-						"photo":"josef-suchanek.jpg"
+						"photo":"josef-suchanek-3.jpg"
 					},
 					"list":[
-						{
-							"name":"Zdeňka Dvořáková Kocourková",
-							"reg":720
-						}
+						"Ing. Josef Suchánek", "Ing. Zdeňka Dvořáková Kocourková", "Ing. et Ing. Martin Šmída", "Ing. Tomáš Müller", "Jaromír Horký", "Ing. Petr Lysek", "Ing. Radim Sršeň, Ph.D.", "MUDr. Martin Morong", "Tomáš Vlazlo", "Ing. Michal Obrusník", "David Hošek", "Martin Švadlenka", "Mgr. Roman Šťastný", "Mgr. Radek Brázda", "Jitka Majerová", "Ing. arch. Petr Daněk", "Zdeněk Žák", "Ing. Petr Mudra", "PharmDr. Robert Šrejma", "Ing. Renata Baslerová", "Mgr. David Novák", "Ing. Hana Naiclerová, MBA", "Radek Vojtek", "Ing. Michal Tichý", "Marika Řehová", "Mgr. Eva Machová", "Bc. Jakub Jüngling", "Ing. Bc. Michal Ondra", "Mgr. Petr Karlík", "Lukáš Drlík"
 					],
 					"links":[
 						"http://www.piratistarostove.cz/",
@@ -4360,13 +4671,15 @@
 					],
 					"data":"olk/stan-pirati",
 					"logo": "obecne/strany/loga/x-pas.png",
-					"name": "Piráti a Starostové"
+					"name": "Piráti a Starostové",
+					"program": "https://www.piratistarostove.cz/wp-content/uploads/2020/07/20e40f4f.pdf"
 				},
 				{
 					"reg":768,
 					"leader":{
 						"name":"Ladislav Okleštěk",
 						"reg":768,
+			      "photo": "ladislav-oklestek.jpg",
 						"links":[
 							"https://www.ladislavoklestek.cz/",
 							"https://www.facebook.com/OklestekLadislav/",
@@ -4375,7 +4688,14 @@
 					},
 					"links":[
 						"https://www.anobudelip.cz/olomoucky-kraj"
-					]
+					],
+					"list": [
+						"Daniel Vitonský",
+						"Jaromíra Lónová",
+						"Miroslava Ferancová",
+						"Petr Krmela"
+					],
+					"data": "olk/768"
 				},
 				{
 					"reg":47,
@@ -4388,7 +4708,10 @@
 						"https://www.facebook.com/volbyolomouckykscm2020/"
 					],
 					"program":"https://drive.google.com/file/d/1mm9OdKt5hN-0AY-jTAGuAqcVhZN8u6rJ/view?usp=drivesdk",
-					"data": "olk/47"
+					"data": "olk/47",
+					"list": [
+						"PhDr. Jiří Zima",{"name":"Ing. Zdenka Szukalská","reg":99},"MUDr. Ivan Sumara","Ing. Liběna Večeřová",{"name":"Mgr. Soňa Staňková","reg":99},"Kateřina Rippelová","Mgr. Věra Vránová, Ph.D.",{"name":"Lenka Šmehlíková","reg":99},"Bc. Vladimír Urbánek, DiS.","RNDr. Tomáš Kaláb",{"name":"Bc. Zdena Marcinková","reg":99},"Lukáš Zahradník","Jolana Rippelová","Jaroslav Opršal",{"name":"Ing. Zdeněk Švec","reg":99},"Bc. Adam Veselský","Zdeněk Vysloužil","Václav Prokeš","Ing. Lubomír Sehnula","Václav Šramko",{"name":"Ing. Bc. Barbora Buchlovská","reg":99},"Ing. Václav Šmíd","Drahomír Strouhal","Josef Doubrava",{"name":"Hana Holoubková","reg":99},{"name":"Jakub Petřek","reg":99},"Patrik Pover","Marek Pospíšil","JUDr. Miroslav Gerec","Ing. Vladislav Rulíšek","Kamil Veselý","Bc. Blanka Vaňková","Mojmír Drápal","PaedDr. Jindřich Kania","Petr Bulko","PhDr. Václav Kopa",{"name":"Monika Tmé, MBA","reg":99},"Václav Smutný","Pavel Hýbl","PaedDr. Jaroslav Šlambor","Jiří Vybíral","Mgr. Petr Michálek","Mgr. Jaroslav Špaček","Ing. Miroslav Marek",{"name":"Miroslav Huťka","reg":99},"Ing. Karel Šimek","Jaromír Kouřil","RSDr. Josef Nekl","RSDr. Alexander Černý","Ladislav Sypko","Jiří Raška","Ing. Ladislav Blaha",{"name":"MUDr. Blanka Zimová","reg":99},"JUDr. Zdeněk Žamboch",{"name":"Mgr. Petr Tilkeridis","reg":99},"Ing. Pavel Musil"
+					]
 				},
 				{
 					"reg":1227,
@@ -4399,7 +4722,8 @@
 							"http://zuzanamajerova.cz/",
 							"https://www.facebook.com/zuzanamajerova.cz/",
 							"https://twitter.com/MajerovaZ"
-						]
+						],
+						"photo": "zuzana-majerova.jpg"
 					},
 					"links":[
 						"https://www.facebook.com/trikoloraolomouckykraj/"
@@ -4418,7 +4742,11 @@
 						]
 					},
 					"links": [
+						"http://www.spdolomouc.cz/",
 						"https://www.facebook.com/spdolomoucky/"
+					],
+					"list": [
+						"Ing. Pavel Jelínek, Ph.D.", "Ing. Martin Jirotka", "Dan Chromec", "Ing. Jaroslav Horák", "Ing. Pavel Dopita, LL.M. MBA", "Ing. Tomáš Hauzner", "Ing. David Alt", "PhDr. Jiří Pospíšil", "Martin Křupka", "Mgr. Stanislav Kaláb", "Martin Malášek", "Denisa Fidlerová", "Mgr. Jaroslav Nýdecký", "Radovan Moudrý", "Ing. Petr Bartoník", "Ing. Jan Polách", "JUDr. Jaroslav Kopecký", "Jaroslav Horák ml.", "Máša Komínková", "Daniel Grešák", "Ing. Miroslav Skládal", "Iveta Švancarová", "Ludvík Koblížek", "Vladimír Vašek", "Petra Zapletalová", "Zdeněk Beňo", "Ing. Roman Bednář", "Mgr. Lenka Literová", "Vítězslav Juřík", "Vlastimil Mikšík", "Jeroným Motyka", "Věra Kocourková", "Radovan Kouřil", "Jana Ejemová", "Rostislav Brázda", "Pavel Olšan", "Josef Režný", "Petr Maus", "František Vrobel", "Tomáš Musil", "Petr Král, DiS.", "Zdeněk Ondráček", "Milan Síleš", "Ing. Jiří Koch", "Josef Janečka", "Mgr. Michal Tesař", "Zdeněk Haman", "Ing. Bohumil Moudrý", "Lenka Rabelová", "Ivo Frič", "Renata Hauznerová", "Jan Tabery", "Petr Hlatký", "Martin Hlatký"
 					]
 				},
 				{
@@ -4426,7 +4754,10 @@
 					"support": [79]
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Lumír Daneček"
+					}
 				},
 				{
 					"name": "Soukromníci a ODA",
@@ -4690,7 +5021,11 @@
 					},
 					"links":[
 						"https://zlin.kscm.cz"
-					]
+					],
+					"list": [
+						"Mgr. Bc. Vojtěch Straka","Vladimír Místecký","Vít Zvěřina","Ing. Michal Kostka","Ing. Marie Pěnčíková","Ing. Vítězslav Lapčík",{"name":"Pavlína Procházková","reg":99},"Jan Doleček","Ing. Bc. Eva Badinková","Ing. Kateřina Ambrožová Srncová","Mgr. Kamila Dudová","Ing. František Jordák","Radislav Pavelka","Stanislav Remeš","Ing. Pavel Kroča","Zdeněk Maršík","Bc. Josef Šťastný","RSDr. Jaroslav Procházka","Anna Smahelová","Miroslav Berka","Zdeňka Hlobilová",{"name":"Lenka Častulíková","reg":99},"Radomír Rafaja",{"name":"Ivan Juřena","reg":99},"Ing. Dagmar Butnikošarovská","Dušan Koňařík",{"name":"Julie Šuránková","reg":99},"Zdeněk Vejpustek",{"name":"Tomáš Kaňovský","reg":99},"Marta Mrňková","Miroslav Ondřej","Ing. Vlastimil Basovník","Petr Urbánek","Veronika Hanačíková",{"name":"Alžběta Koníčková","reg":99},"Václav Lysák","Petr Smeta","Petr Husták","Miroslav Kuja","Jaroslav Kovařík","Zdeněk Hlobil","Jiří Straňák","František Zavadil","Ing. Antonín Hubený","Ing. Bohumil Kuchařík",{"name":"Mgr. Alena Koníčková","reg":99},"Radim Klímek","Rostislav Hajda","Vladislav Kluka"
+					],
+					"data": "zlk/47"
 				},
 				{
 					"coalition":[
@@ -4717,23 +5052,6 @@
 				},
 				{
 					"reg":715
-				},
-				{
-					"reg":714,
-					"leader":{
-						"name":"Tomáš Pajonk",
-						"reg":714,
-						"links":[
-							"http://www.pajonk.cz",
-							"https://www.facebook.com/tomas.pajonk.page/",
-							"https://www.instagram.com/tomaspajonk/"
-						]
-					},
-					"links":[
-						"http://zlinskykraj.svobodni.cz/",
-						"https://www.facebook.com/svobodnizk/",
-						"https://twitter.com/SvobodniVychod"
-					]
 				},
 				{
 					"reg":1114,
@@ -4860,12 +5178,14 @@
 						]
 					},
 					"list":[
-						"Miroslav Hajdušík",
-						"Alena Grosová"
+						"Ing. Miroslav Hajdušík, MBA","Mgr. Alena Grosová","Ing. Ivan Strachoň","Ing. Petr Havránek","Jiří Blahuta","Mgr. Ladislav Sekanina","Ing. Tomáš Michna","Jana Pohludková","Mgr. Ivan Žárský","Ing. RSDr. Svatomír Recman","Bc. Karel Cepko",{"name":"Mgr. Martin Polok","reg":99},"Ing. Petr Paláček",{"name":"Bc. Jana Chorobinská","reg":99},"Vladimír Tvardek","David Stibor","Jan Zámarský","Marian Kachel","Markéta Fikáčková","Jaromíra Valder Jakubcová","Mgr. Tomáš Kania","Bc. Petr Matýsek","Patrik Sikora",{"name":"Pavel Pisch","reg":99},"Ing. Jiří Lukša",{"name":"Mgr. Roman Rajský","reg":99},"Petr Baďura","Bc. Filip Zatloukal","Petr Molek","Martina Vitkovská","Ing. Vít Macháček",{"name":"Mgr. Veronika Maňásková","reg":99},"René Jakus","Naděžda Antalová",{"name":"Ing. Iveta Janatová","reg":99},"René Závišek","Daniel Pavelka","MVDr. Kateřina Křenková","Tomaš Gallik","Robert Skuhra","Bc. Jan Čumpelík","Albert Kukol","Adam Rokos","Jan Kotala",{"name":"Ing. Radim Hyvnar","reg":99},"Ing. Karel Žák","Martin Přasličák","Aleš Elicer","Ing. Petr Maciejovský","Ing. Ivo Dienelt","Ing. Ivan Patík","Kateřina Trávníčková","Dalibor Rada","Vlastimil Korošík","Soňa Ryšánková Dosedělová","Michal Gilík","Alice Hanková","Jiří Hurta","Petr Ramík","Karel Mikeška","Jaroslav Čech",{"name":"Dušan Pechal","reg":99},"Bronislava Brixová Matušková","Vladimír Blažek","Zoja Papadopulosová","Zdeněk Temel"
 					],
 					"links":[
-						"https://mskraj.kscm.cz/cs"
-					]
+						"https://mskraj.kscm.cz/cs",
+						"https://www.facebook.com/KSCMproMoravskoslezsko"
+					],
+					"data": "msk/47",
+					"program": "https://mskraj.kscm.cz/sites/default/files/soubory/uzivatele/Havelka/volby%20MSK%202020/volebni_program_kscm_v_msk_pro_obdobi_2020-2024.pdf"
 				},
 				{
 					"reg":7,
@@ -4904,12 +5224,18 @@
 						"Jiří Navrátil",
 						"Vít Slováček",
 						"Marcel Sikora",
-						"Michal Jedlička"
+						"Michal Jedlička",
+						"Zbyněk Pražák",
+						"Monika Brzesková",
+						"Bohuslav Niemiec",
+						"Jiří Carbol",
+						"Dana Forišková",
+						"Karel Siuda",
+						"Stanislav Šimíček"
 					],
 					"links":[
-						"http://moravskoslezsky.kdu.cz/domu",
-						"https://www.facebook.com/srostliskrajemmsk/",
-						"https://www.facebook.com/KDUCSLMoravskoslezskykraj/"
+						"https://www.srostliskrajem.cz/",
+						"https://www.facebook.com/srostliskrajemmsk/"
 					],
 					"data":"msk/1"
 				},
@@ -4936,6 +5262,8 @@
 					"reg":715
 				},
 				{
+					"name": "STAN, Zelení, Nezávislí pro Moravskoslezský kraj",
+					"logo": "obecne/strany/loga/x-stan-zeleni-nezavisli.png",
 					"coalition":[
 						5,
 						166,
@@ -4943,17 +5271,7 @@
 					],
 					"links":[
 						"http://namtonenijedno.cz/",
-						{
-							"url":"https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
-							"label":"STAN MSK"
-						},
-						"http://www.zeleni-msk.cz",
-						{
-							"url":"https://www.facebook.com/StanMoravskoslezskyKraj/",
-							"label":"STAN MSK"
-						},
-						"https://www.facebook.com/zeleniMSK",
-						"https://www.facebook.com/hnutinezavisli"
+						"https://www.facebook.com/stanzeleninezavislimskraj/"
 					],
 					"leader":{
 						"name":"Jan Lipner",
@@ -5007,7 +5325,7 @@
 					"links": [
 						"http://www.prokrasnykraj.cz/",
 						"https://www.facebook.com/prokrasnykraj/",
-						"https://twitter.com/KrajPro",
+						"https://twitter.com/ProKrasnyKraj",
 						"https://www.instagram.com/prokrasnykraj",
 						"https://www.youtube.com/channel/UCY1DKSiSdZ2puMjHbtVKkng"
 					],
@@ -5041,19 +5359,32 @@
 						"name": "Josef Krysta"
 					},
 					"list": [
-						"Renáta Valerie Nešporek"
+						"Renáta Valerie Nešporek",
+						"Miroslava Škaldová",
+						"Lubomír Kuznik",
+						"Zuzana Hotová",
+						"Nšan Avetysian",
+						"Radek Černý",
+						"Zdeněk Jakubu",
+						"Pavel Olšovský",
+						"Václav Sivák",
+						"Matěj Benda"
 					],
 					"links": [
 	          "https://vok-volbaprokraj.cz/",
-	          "https://www.facebook.com/volbaprokraj/"
+						"https://www.facebook.com/VOK-Volba-pro-kraj-Moravskoslezsk%C3%BD-kraj-105887744535827"
 					],
-					"data": "msk/volba-pro-kraj"
+					"data": "msk/volba-pro-kraj",
+					"program": "https://vok-volbaprokraj.cz/moravskoslezsky-kraj/volebni-program/"
 				},
 				{
 					"reg": 1225
 				},
 				{
-					"reg": 156
+					"reg": 156,
+					"leader": {
+						"name": "Jan Tomeš"
+					}
 				}
 			]
 		}

@@ -2,7 +2,7 @@
   "list": [
     {
       "reg": 1,
-      "name": "Křesťanská a demokratická unie - Československá strana lidová",
+      "name": "KDU-ČSL",
       "short": "KDU-ČSL",
       "color": "#fec92f",
       "logo": "/obecne/strany/loga/1-kdu-csl.svg",
@@ -336,17 +336,21 @@
       "hash": "vok",
       "links": {
         "global": [
-          "http://www.spokojenykraj.cz",
-          "https://www.facebook.com/spokojenykraj",
-          "https://twitter.com/spokojenykraj"
+          "https://vok-volbaprokraj.cz/",
+          "https://www.facebook.com/volbaprokraj/"
         ],
         "regional": [
           {
             "region": 4,
             "links": [
-              "http://www.spokojenykraj.cz",
               "https://www.facebook.com/spokojenykraj",
               "https://twitter.com/spokojenykraj"
+            ]
+          },
+          {
+            "region": 13,
+            "links": [
+              "https://www.facebook.com/VOK-Volba-pro-kraj-Moravskoslezsk%C3%BD-kraj-105887744535827"
             ]
           }
         ]
@@ -2508,6 +2512,15 @@
       }
     },
     {
+      "name": "SPOLEHNUTÍ – SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
+      "short": "Spolehnutí",
+      "hash": "spolehnuti---spolecne-hnuti-ceskolipanu",
+      "links": {
+        "global": [],
+        "regional": []
+      }
+    },
+    {
       "name": "Třebíč občanům",
       "short": "Třebíč občanům",
       "color": "#000",
@@ -2538,11 +2551,14 @@
       }
     },
     {
-      "name": "Vize národních socialistů",
-      "short": "Vize NS",
-      "hash": "vize-ns",
+      "name": "VIZE - národní socialisté",
+      "short": "VIZENS",
+      "hash": "vize---narodni-socialiste",
+      "color": "#f81c1c",
+      "logo": "obecne/strany/loga/x-vize-narsoc.jpg",
       "links": {
         "global": [
+          "https://www.vizens.cz/",
           "https://www.facebook.com/Vize-n%C3%A1rodn%C3%AD-socialist%C3%A9-109573630813341/"
         ],
         "regional": []
@@ -2589,9 +2605,9 @@
     {
       "name": "Za Region",
       "short": "Za Region",
+      "hash": "za-region",
       "color": "#3ab867",
       "logo": "obecne/strany/loga/x-za-region.png",
-      "hash": "za-region",
       "links": {
         "global": [
           "http://www.zaregion.info/",
