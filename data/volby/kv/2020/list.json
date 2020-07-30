@@ -876,7 +876,10 @@
 					"data": "jck/47"
 				},
 				{
-					"reg":5
+					"reg":5,
+					"leader": {
+						"name": "Matouš Šimek"
+					}
 				},
 				{
 					"reg":715
@@ -897,7 +900,10 @@
 				},
 				{
 					"reg":137,
-					"support": [79]
+					"support": [79],
+					"leader": {
+						"name": "Marie Paukejová"
+					}
 				},
 				{
 					"name": "DSSS - ZDRAVÝM ROZUMEM PRO NÁŠ KRAJ",
@@ -932,6 +938,15 @@
 						"reg": 1190
 					},
 					"motto": "Dačicko není v Čechách!"
+				},
+				{
+					"reg": 98
+				},
+				{
+					"reg": 762,
+					"leader": {
+						"name": "Vladimír Prinke"
+					}
 				}
 			]
 		},
@@ -4121,6 +4136,9 @@
 						"reg": 1190
 					},
 					"motto": "Prolomíme hranice!"
+				},
+				{
+					"reg": 98
 				}
 			]
 		},
