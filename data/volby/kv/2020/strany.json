@@ -1386,8 +1386,8 @@
       "reg": 7,
       "name": "Česká strana sociálně demokratická",
       "short": "ČSSD",
-      "color": "#f59231",
-      "logo": "/obecne/strany/loga/7-cssd.svg",
+      "color": "#f70000",
+      "logo": "/obecne/strany/loga/7-cssd-2020.png",
       "hash": "cssd",
       "links": {
         "global": [
@@ -2203,6 +2203,18 @@
       "color": "#539498"
     },
     {
+      "reg": 79,
+      "name": "Národní demokracie",
+      "hash": "nd",
+      "short": "ND",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/79-narodni-demokracie.png",
+      "color": "#4144b5"
+    },
+    {
       "reg": 795,
       "name": "Liberálně ekologická strana",
       "short": "LES",
@@ -2349,6 +2361,17 @@
             "links": []
           }
         ]
+      }
+    },
+    {
+      "name": "Levice",
+      "short": "Levice",
+      "color": "#111",
+      "logo": "obecne/strany/loga/x-levice.png",
+      "hash": "levice",
+      "links": {
+        "global": [],
+        "regional": []
       }
     },
     {

@@ -1,5 +1,6 @@
 {
-	"lastUpdate":"2020-06-22",
+	"lastUpdate":"2020-07-20",
+	"t": 11,
 	"list":[
 		{
 			"id":1,
@@ -458,7 +459,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 156
@@ -853,7 +855,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -1197,7 +1200,8 @@
 					"data": "plk/1114"
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -1588,6 +1592,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Luděk Petráň"
 					}
@@ -1987,12 +1992,23 @@
 						]
 					},
 					"list": [
-						"Lucie Ječmenová"
+						"Lucie Ječmenová",
+						"Pavel Grund"
+					],
+					"links": [
+						"http://www.zaregion.info/",
+						"https://www.facebook.com/zaregion"
 					],
 					"data": "ulk/za-region"
 				},
 				{
 					"reg": 1118
+				},
+				{
+					"reg": 79,
+					"leader": {
+						"name": "Petr Žák"
+					}
 				}
 			]
 		},
@@ -2027,7 +2043,7 @@
 						"Květa Vinklátová",
 						"Jan Sviták",
 						"Lena Mlejnková",
-						"Tomáš Hocke",
+						{"name": "Tomáš Hocke", "reg": 99},
 						"Markéta Khauerová",
 						"Radek Lípa",
 						"Michael Canov",
@@ -2251,18 +2267,6 @@
 					"data": "lbk/53"
 				},
 				{
-<<<<<<< HEAD
-					"coalition": [1, 721],
-					"name": "Společně pro Liberecký kraj",
-					"leader": {
-						"name": "Jiří Klápště",
-						"reg": 721,
-						"links": [
-							{"url": "https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri"},
-							{"url": "https://www.facebook.com/jiri.klapste"},
-							{"url": "https://www.instagram.com/jiriklapste"}
-						]
-=======
 					"coalition":[
 						1,
 						721
@@ -2277,7 +2281,6 @@
 							"https://www.instagram.com/jiriklapste"
 						],
 						"photo":"jiri-klapste.jpg"
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 					},
 					"list":[
 						{
@@ -2317,29 +2320,12 @@
 							"reg":99
 						}
 					],
-<<<<<<< HEAD
 					"links": [
 						{"url": "https://www.spolecneprolibereckykraj.cz"},
 						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "label": "KDU-ČSL Liberecko"},
 						{"url": "https://www.facebook.com/TOP09Liberec/", "label": "TOP 09 Liberecko"}
 					],
 					"data": "lbk/spolecne"
-=======
-					"links":[
-						{
-							"url":"https://www.spolecneprolibereckykraj.cz"
-						},
-						{
-							"url":"https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707",
-							"label":"KDU-ČSL Liberecko"
-						},
-						{
-							"url":"https://www.facebook.com/TOP09Liberec/",
-							"label":"TOP 09 Liberecko"
-						}
-					],
-					"data":"lbk/spolecne"
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
 				},
 				{
 					"coalition":[
@@ -2440,7 +2426,13 @@
 								"url":"https://www.facebook.com/tomas.rakous.39"
 							}
 						]
-					}
+					},
+					"list": [
+						"Zuzana Spudichová",
+						"Kamila Švejdová",
+						"Roman Jech",
+						"Stanislav Kuchař"
+					]
 				},
 				{
 					"reg":715
@@ -2504,6 +2496,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Pavlína Dohnalová"
 					}
@@ -2541,7 +2534,6 @@
 			"id":7,
 			"parties":[
 				{
-<<<<<<< HEAD
 					"coalition": [1, 181, 113],
 					"name": "Koalice pro Královéhradecký kraj",
 					"leader": {
@@ -2555,59 +2547,12 @@
 						]
 					},
 					"links": [
-						{"url": "http://www.koalicehk.kdu.cz"},
+						"http://www.koalicehk.kdu.cz",
 						{"url": "http://kralovehradecky.kdu.cz/", "label": "KDU-ČSL KHK"},
-						{"url": "http://vpm2014.cz"},
-						{"url": "https://www.facebook.com/koalicehk"},
+						"http://vpm2014.cz",
+						"https://www.facebook.com/koalicehk",
 						{"url": "https://www.facebook.com/kdukralovehradecko/", "label": "KDU-ČSL KHK"},
-						{"url": "https://www.facebook.com/volbapromestohk"}
-=======
-					"coalition":[
-						1,
-						181,
-						113
-					],
-					"name":"Koalice pro Královéhradecký kraj",
-					"leader":{
-						"name":"Pavel Bělobrádek",
-						"reg":1,
-						"links":[
-							{
-								"url":"http://www.pavelbelobradek.cz"
-							},
-							{
-								"url":"https://www.facebook.com/Belobradek"
-							},
-							{
-								"url":"https://twitter.com/belobradek"
-							},
-							{
-								"url":"https://www.instagram.com/pbelobradek"
-							}
-						]
-					},
-					"links":[
-						{
-							"url":"http://www.koalicehk.kdu.cz"
-						},
-						{
-							"url":"http://kralovehradecky.kdu.cz/",
-							"label":"KDU-ČSL KHK"
-						},
-						{
-							"url":"http://vpm2014.cz"
-						},
-						{
-							"url":"https://www.facebook.com/koalicehk"
-						},
-						{
-							"url":"https://www.facebook.com/kdukralovehradecko/",
-							"label":"KDU-ČSL KHK"
-						},
-						{
-							"url":"https://www.facebook.com/volbapromestohk"
-						}
->>>>>>> 35cc1cdec1c206a2d23ec21a09bacf6d39f83c5b
+						"https://www.facebook.com/volbapromestohk"
 					],
 					"list":[
 						{
@@ -2953,6 +2898,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Václav Makalouš"
 					}
@@ -3129,6 +3075,7 @@
 							{
 								"url":"http://www.roman-linek.cz"
 							},
+							"https://www.facebook.com/Roman-L%C3%ADnek-129667385500897/",
 							{
 								"url":"https://www.facebook.com/roman.linek.14"
 							},
@@ -3395,6 +3342,7 @@
 					"data": "pak/mladi"
 				},
 				{
+					"support": [79],
 					"reg":137
 				},
 				{
@@ -3433,12 +3381,9 @@
 						]
 					},
 					"links":[
-						{
-							"url":"http://kraj-vysocina.cssd.cz"
-						},
-						{
-							"url":"https://www.facebook.com/cssdkrajvysocina"
-						}
+						"http://kraj-vysocina.cssd.cz",
+						"https://www.facebook.com/uspesnykraj/",
+						"https://www.facebook.com/cssdkrajvysocina"
 					]
 				},
 				{
@@ -3612,6 +3557,7 @@
 					"reg":47,
 					"leader":{
 						"name":"Pavel Hodáč",
+						"photo": "pavel-hodac.jpg",
 						"reg":47,
 						"links":[
 							{
@@ -3824,6 +3770,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Josef Pelikán"
 					}
@@ -4138,10 +4085,25 @@
 				{
 					"name":"Levice",
 					"links":[
+						"https://jsmelevice.cz/jdeme-do-voleb/",
 						"https://www.facebook.com/jsmeLevice/",
 						"https://instagram.com/jsme_levice"
 					],
-					"logo": "obecne/strany/loga/levice.png"
+					"leader": {
+						"name": "Andrej Bóna",
+						"phash": "levice",
+						"links": [
+							"https://www.facebook.com/andrej.bona.SDS/",
+							"https://twitter.com/AndrejBona",
+							"https://www.instagram.com/andrejbona"
+						]
+					},
+					"list": [
+						"Anna Mikulenková",
+						"Libor Malovaný",
+						"Martin Švec",
+						"Martin Tománek"
+					]
 				},
 				{
 					"reg":83,
@@ -4166,7 +4128,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"name": "Dělnická strana sociální spravedlnosti a Čistý kraj",
@@ -4459,7 +4422,8 @@
 					]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 156
@@ -4786,6 +4750,7 @@
 				},
 				{
 					"reg":137,
+					"support": [79],
 					"leader": {
 						"name": "Zdeněk Cekota"
 					}
@@ -5067,7 +5032,8 @@
 					"support": [785]
 				},
 				{
-					"reg":137
+					"reg":137,
+					"support": [79]
 				},
 				{
 					"reg": 1118,
