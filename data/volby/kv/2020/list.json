@@ -4816,7 +4816,10 @@
 				},
 				{
 					"reg":137,
-					"support": [79]
+					"support": [79],
+					"leader": {
+						"name": "Marián Sedláček"
+					}
 				},
 				{
 					"reg": 156,
@@ -4826,11 +4829,29 @@
 				},
 				{
 					"name": "Soukromníci a ODA",
-					"coalition": [716, 1173]
+					"coalition": [716, 1173],
+					"leader": {
+						"name": "Bohuslav Coufal"
+					}
 				},
 				{
 					"reg": 55,
-					"support": [1190]
+					"support": [1190],
+					"leader": {
+						"name": "Miloš Holzer"
+					}
+				},
+				{
+					"reg": 83,
+					"leader": {
+						"name": "Dušan Tejkal"
+					}
+				},
+				{
+					"reg": 736,
+					"leader": {
+						"name": "Pavel Mužný"
+					}
 				}
 			]
 		},
