@@ -2,7 +2,37 @@
   "people": [
     {
       "name": "Radim Fiala",
-      "reg": 1114
+      "reg": 1114,
+      "about": "51 let, zastupitel Olomouckého kraje, poslanec PS PČR, místopředseda SPD, Prostějov, člen SPD",
+      "photo": "radim-fiala.jpg"
+    },
+    {
+      "name": "",
+      "reg": 1114,
+      "about": "57 let, zastupitel Olomouckého kraje, poslanec PS PČR, místopředseda regionálního klubu SPD Olomouckého kraje, předseda oblastního klubu SPD Olomouc, Olomouc, člen SPD",
+      "photo": "pavel-jelinek.jpg",
+      "links": [
+        "https://www.paveljelinek.cz/",
+        "https://www.facebook.com/paveljelinekcz"
+      ]
+    },
+    {
+      "name": "Martin Jirotka",
+      "reg": 1114,
+      "about": "53 let, zastupitel RM Olomouc, ředitel agentury domácí péče, místopředseda oblastního klubu SPD Olomouc, Olomouc, člen SPD",
+      "photo": "martin-jirotka.jpg"
+    },
+    {
+      "name": "Dan Chromec",
+      "reg": 1114,
+      "about": "49 let, řidič, předseda oblastního klubu SPD Přerov, Přerov, člen SPD, kandidát do senát",
+      "photo": "dan-chromec.jpg"
+    },
+    {
+      "name": "Jaroslav Horák",
+      "reg": 1114,
+      "about": "68 let, zastupitel města Šumperka a předseda komise rady města životního prostředí a energetiky, člen dopravní komise rady města, soudní znalec, místopředseda oblastního klubu SPD okresu Šumperk, Šumperk, člen SPD",
+      "photo": "jaroslav-horak.jpg"
     }
   ]
 }

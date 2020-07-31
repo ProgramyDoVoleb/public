@@ -2601,13 +2601,15 @@
       ],
       "reg": 63,
       "links": [
+				"http://www.spdolomouc.cz/kandidat/dan-chromec",
         "https://www.facebook.com/dan.chromec"
       ],
       "support": [
         1114
       ],
       "color": "#874a0f",
-      "work": "technický pracovník zdravotnického zařízení"
+      "work": "technický pracovník zdravotnického zařízení",
+			"photo": "dan-chromec.jpg"
     },
     {
       "name": [
@@ -2735,6 +2737,7 @@
       ],
       "reg": 66,
       "links": [
+				"http://www.spdolomouc.cz/kandidat/mgr-stanislav-kalab",
         "https://www.facebook.com/profile.php?id=100001202791003",
         "https://cs.wikipedia.org/wiki/Stanislav_Kal%C3%A1b"
       ],
@@ -2742,7 +2745,8 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "zastupitel Olomouckého kraje, předseda Olomouckého fotbalového svazu"
+      "work": "zastupitel Olomouckého kraje, předseda Olomouckého fotbalového svazu",
+			"photo": "stanislav-kalab.jpg"
     },
     {
       "name": [
@@ -3438,9 +3442,10 @@
         768
       ],
       "member": 768,
-      "work": "zastupitel Jihočeského kraje, starosta obce Dobev, prokurista společnosti",
+      "work": "zastupitel Jihočeského kraje, starosta obce Dobev",
       "motto": "Věřím ve svobodu a demokracii, v poctivou práci, ve zdravý rozum a přátelství mezi lidmi.",
-      "program": "https://kalinadosenatu.cz/jsem-pro/"
+      "program": "https://kalinadosenatu.cz/jsem-pro/",
+			"photo": "petr-kalina.jpg"
     },
     {
       "name": [
@@ -3976,6 +3981,18 @@
     {
       "name": [
         "",
+        "Pavel",
+        "Trčala",
+        ""
+      ],
+      "reg": 60,
+			"member": 1190,
+      "links": [],
+      "support": [1190]
+    },
+    {
+      "name": [
+        "",
         "Rostislav",
         "Domorák",
         ""
@@ -4004,6 +4021,18 @@
 					"logo":"/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
 				}
 			]
+    },
+    {
+      "name": [
+        "",
+        "Jan",
+        "Šťovíček",
+        ""
+      ],
+      "reg": 78,
+			"member": 99,
+      "links": [],
+      "support": [1190]
     },
     {
       "name": [
@@ -4056,6 +4085,18 @@
 					"logo":"/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
 				}
 			]
+    },
+		{
+			"name": [
+				"",
+        "Ivana",
+        "Horká",
+        ""
+      ],
+      "reg": 51,
+			"member": 99,
+      "links": [],
+      "support": []
     }
   ],
   "current": [

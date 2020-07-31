@@ -513,6 +513,18 @@
       }
     },
     {
+      "reg": 1179,
+      "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+      "hash": "bos",
+      "short": "BOS",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/1179-hnuti-bos.png",
+      "color": "#ce0706"
+    },
+    {
       "reg": 119,
       "name": "Unie pro sport a zdraví",
       "short": "USZ",
@@ -559,6 +571,17 @@
       },
       "logo": "/obecne/strany/loga/1209-ne-volim.png",
       "color": "#0b8c04"
+    },
+    {
+      "reg": 1217,
+      "name": "Moravská a Slezská pirátská strana",
+      "hash": "ms-pirati",
+      "short": "MS Piráti",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#be44a6"
     },
     {
       "reg": 1220,
@@ -1940,6 +1963,14 @@
       }
     },
     {
+      "reg": 736,
+      "name": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
+      "hash": "spr-rscms",
+      "short": "SPR-RSČMS",
+      "logo": "obecne/strany/loga/1125-spr-rsc.jpg",
+      "color": "#aaa"
+    },
+    {
       "reg": 753,
       "name": "Občané pro Budějovice",
       "short": "HOPB",
@@ -1963,6 +1994,14 @@
           }
         ]
       }
+    },
+    {
+      "reg": 762,
+      "name": "Aliance národních sil",
+      "short": "Aliance NS",
+      "hash": "aliancens",
+      "color": "#9458fb",
+      "logo": "obecne/strany/loga/762-ans.png"
     },
     {
       "reg": 766,
@@ -2302,6 +2341,20 @@
           }
         ]
       }
+    },
+    {
+      "reg": 98,
+      "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
+      "short": "Volte pravý blok",
+      "hash": "volte-pravy-blok",
+      "color": "#aaa",
+      "logo": "obecne/strany/loga/98-pravy-blok.jpg"
+    },
+    {
+      "name": "Alternativa pro nezávislé kandidáty 2020",
+      "short": "ApnK2020",
+      "hash": "alternativa-pro-nezavisle-kandidaty-2020",
+      "color": "#aaa"
     },
     {
       "name": "Čistý kraj",

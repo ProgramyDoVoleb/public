@@ -470,6 +470,12 @@
 				},
 				{
 					"reg": 1173
+				},
+				{
+					"reg": 98
+				},
+				{
+					"reg": 83
 				}
 			]
 		},
@@ -489,7 +495,8 @@
 							"http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
 							"https://www.facebook.com/frantisek.talir",
 							"https://www.instagram.com/frantisek.talir"
-						]
+						],
+						"photo": "frantisek-talir.jpg"
 					},
 					"list":[
 						"Robert Huneš",
@@ -761,6 +768,7 @@
 						]
 					},
 					"links": [
+						"https://www.svobodni.cz/kraje/jihocesky-kraj/",
 						"https://www.hradecsrdcemarozumem.cz/kraj/"
 					],
 					"list": [
@@ -875,7 +883,10 @@
 					"data": "jck/47"
 				},
 				{
-					"reg":5
+					"reg":5,
+					"leader": {
+						"name": "Matouš Šimek"
+					}
 				},
 				{
 					"reg":715
@@ -896,7 +907,10 @@
 				},
 				{
 					"reg":137,
-					"support": [79]
+					"support": [79],
+					"leader": {
+						"name": "Marie Paukejová"
+					}
 				},
 				{
 					"name": "DSSS - ZDRAVÝM ROZUMEM PRO NÁŠ KRAJ",
@@ -923,6 +937,23 @@
 					],
 					"data": "jck/vize",
 					"program": "https://www.vizens.cz/program3/"
+				},
+				{
+					"reg": 1190,
+					"leader": {
+						"name": "Bohumil Šuhaj",
+						"reg": 1190
+					},
+					"motto": "Dačicko není v Čechách!"
+				},
+				{
+					"reg": 98
+				},
+				{
+					"reg": 762,
+					"leader": {
+						"name": "Vladimír Prinke"
+					}
 				}
 			]
 		},
@@ -1281,6 +1312,18 @@
 						"name": "Jiří Štěpánek",
 						"reg": 156
 					}
+				},
+				{
+					"reg": 55
+				},
+				{
+					"name": "Alternativa pro nezávislé kandidáty 2020"
+				},
+				{
+					"reg": 1179
+				},
+				{
+					"reg": 762
 				}
 			]
 		},
@@ -1742,6 +1785,15 @@
 					"leader": {
 						"name": "Tomáš Vejvoda",
 						"reg": 156
+					}
+				},
+				{
+					"reg": 785,
+					"links": [
+						"https://www.facebook.com/Zdrav%C3%AD-Sport-Prosperita-Karlovarsk%C3%BD-kraj-110285310476569/"
+					],
+					"leader": {
+						"name": "Petr Ajšman"
 					}
 				}
 			]
@@ -3616,9 +3668,29 @@
 						{"name": "Josef Ročeň", "phash": "mladi-pro-pardubicky-kraj"},
 						{"name": "Jakub Cach", "reg": 99},
 						{"name": "Jonáš Hrdina", "reg": 2},
-						{"name": "Marek Dostál", "reg": 99},
 						{"name": "Kateřina Mašková", "reg": 99},
-						{"name": "Petr Švadlenka", "reg": 99}
+						{"name": "Tomáš Sochor", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Nikol Kopecká", "reg": 99},
+						{"name": "Jan Špaček", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Petr Žoudlík", "reg": 99},
+						{"name": "Lucie Sekerová", "reg": 99},
+						{"name": "Roman Myška", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Pavlína Frišová", "reg": 99},
+						{"name": "Marek Dostál", "reg": 99},
+						{"name": "Martina Baťová", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Vojtěch Kopecký", "reg": 99},
+						{"name": "Jaroslav Hantl", "reg": 99},
+						{"name": "Aleš Dvořák", "reg": 2},
+						{"name": "Pavla Nela Odehnalová", "reg": 99},
+						{"name": "Michal Jurák", "reg": 99},
+						{"name": "Petr Švadlenka", "reg": 99},
+						{"name": "Kristýna Prokešová", "reg": 99},
+						{"name": "Dominik Sedlák", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Lucie Brabencová", "reg": 99},
+						{"name": "Lucie Vacková", "phash": "mladi-pro-pardubicky-kraj"},
+						{"name": "Miloš Sedlák", "reg": 99},
+						{"name": "Hana Matelková", "reg": 99},
+						{"name": "Andreas Wagner", "reg": 99}
 					],
 					"program": "https://mladidotoho.com/volebni-program/",
 					"data": "pak/mladi"
@@ -4075,6 +4147,17 @@
 					"leader": {
 						"name": "Petr Štyndl"
 					}
+				},
+				{
+					"reg": 1190,
+					"leader": {
+						"name": "Petr Chňoupek",
+						"reg": 1190
+					},
+					"motto": "Prolomíme hranice!"
+				},
+				{
+					"reg": 98
 				}
 			]
 		},
@@ -4739,19 +4822,23 @@
 						"reg":1114,
 						"links": [
 							"https://www.facebook.com/radimfiala.cz/"
-						]
+						],
+			      "photo": "radim-fiala.jpg"
 					},
 					"links": [
 						"http://www.spdolomouc.cz/",
 						"https://www.facebook.com/spdolomoucky/"
 					],
 					"list": [
-						"Ing. Pavel Jelínek, Ph.D.", "Ing. Martin Jirotka", "Dan Chromec", "Ing. Jaroslav Horák", "Ing. Pavel Dopita, LL.M. MBA", "Ing. Tomáš Hauzner", "Ing. David Alt", "PhDr. Jiří Pospíšil", "Martin Křupka", "Mgr. Stanislav Kaláb", "Martin Malášek", "Denisa Fidlerová", "Mgr. Jaroslav Nýdecký", "Radovan Moudrý", "Ing. Petr Bartoník", "Ing. Jan Polách", "JUDr. Jaroslav Kopecký", "Jaroslav Horák ml.", "Máša Komínková", "Daniel Grešák", "Ing. Miroslav Skládal", "Iveta Švancarová", "Ludvík Koblížek", "Vladimír Vašek", "Petra Zapletalová", "Zdeněk Beňo", "Ing. Roman Bednář", "Mgr. Lenka Literová", "Vítězslav Juřík", "Vlastimil Mikšík", "Jeroným Motyka", "Věra Kocourková", "Radovan Kouřil", "Jana Ejemová", "Rostislav Brázda", "Pavel Olšan", "Josef Režný", "Petr Maus", "František Vrobel", "Tomáš Musil", "Petr Král, DiS.", "Zdeněk Ondráček", "Milan Síleš", "Ing. Jiří Koch", "Josef Janečka", "Mgr. Michal Tesař", "Zdeněk Haman", "Ing. Bohumil Moudrý", "Lenka Rabelová", "Ivo Frič", "Renata Hauznerová", "Jan Tabery", "Petr Hlatký", "Martin Hlatký"
+						"Ing. Radim Fiala","Ing. Pavel Jelínek, Ph.D.","Ing. Martin Jirotka","Dan Chromec","Ing. Jaroslav Horák","Ing. Pavel Dopita, LL.M. MBA","Ing. Tomáš Hauzner","Ing. David Alt",{"name":"PhDr. Jiří Pospíšil","reg":99},"Martin Křupka",{"name":"Mgr. Stanislav Kaláb","reg":99},"Martin Malášek","Denisa Fidlerová","Mgr. Jaroslav Nýdecký","Radovan Moudrý","Ing. Petr Bartoník","Ing. Jan Polách","JUDr. Jaroslav Kopecký",{"name":"Jaroslav Horák ml.","reg":99},"Máša Komínková",{"name":"Daniel Grešák","reg":99},"Ing. Miroslav Skládal","Iveta Švancarová","Ludvík Koblížek","Vladimír Vašek","Petra Zapletalová","Zdeněk Beňo",{"name":"Ing. Roman Bednář","reg":99},"Mgr. Lenka Literová","Vítězslav Juřík","Vlastimil Mikšík",{"name":"Jeroným Motyka","reg":99},"Věra Kocourková","Radovan Kouřil","Jana Ejemová","Rostislav Brázda","Pavel Olšan","Josef Režný","Petr Maus",{"name":"František Vrobel","reg":99},"Tomáš Musil","Petr Král, DiS.",{"name":"Zdeněk Ondráček","reg":99},"Milan Síleš","Ing. Jiří Koch","Josef Janečka","Mgr. Michael Tesař","Zdeněk Haman","Ing. Bohumil Moudrý","Lenka Rabelová","Ivo Frič","Renata Hauznerová","Jan Tabery","Petr Hlatký","Martin Hlatký"
 					]
 				},
 				{
 					"reg":137,
-					"support": [79]
+					"support": [79],
+					"leader": {
+						"name": "Marián Sedláček"
+					}
 				},
 				{
 					"reg": 156,
@@ -4761,7 +4848,32 @@
 				},
 				{
 					"name": "Soukromníci a ODA",
-					"coalition": [716, 1173]
+					"coalition": [716, 1173],
+					"leader": {
+						"name": "Bohuslav Coufal"
+					}
+				},
+				{
+					"reg": 55,
+					"support": [1190],
+					"leader": {
+						"name": "Miloš Holzer"
+					}
+				},
+				{
+					"reg": 83,
+					"leader": {
+						"name": "Dušan Tejkal"
+					}
+				},
+				{
+					"reg": 736,
+					"leader": {
+						"name": "Pavel Mužný"
+					}
+				},
+				{
+					"reg": 1217
 				}
 			]
 		},
@@ -5072,6 +5184,15 @@
 					"leader": {
 						"name": "Zdeněk Cekota"
 					}
+				},
+				{
+					"reg": 98
+				},
+				{
+					"reg": 736
+				},
+				{
+					"reg": 83
 				}
 			]
 		},
