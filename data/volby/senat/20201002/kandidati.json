@@ -83,11 +83,13 @@
         "https://www.facebook.com/josef.kvasnicka.357"
       ],
       "support": [
-        1179,
-        1114
+				1114,
+        1179
       ],
+			"member": 1179,
       "color": "#ce0706",
-      "work": "bývalý starosta města Plesná, právník a podnikatel v oblasti realit a poradenství"
+      "work": "bývalý starosta města Plesná, právník a podnikatel v oblasti realit a poradenství",
+			"photo": "josef-kvasnicka.jpg"
     },
     {
       "name": [
@@ -2882,13 +2884,27 @@
         ""
       ],
       "reg": 69,
-      "links": [],
+      "links": [
+				"https://www.ank2020.cz/cz/kandidati-ank-2020/radim-baca/"
+			],
       "support": [
-        721
+        721,
+				1173,
+				1220,
+				129,
+				{
+				  "name":"Pro krásný kraj",
+					"logo": "obecne/strany/loga/x-pro-krasny-kraj.png"
+				},
+				{
+				  "name":"Alternativa pro nezávislé kandidáty",
+					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+				}
       ],
-      "member": 721,
+      "member": 99,
       "color": "#531a92",
-      "work": "starosta obce Palkovice, soukromý zemědělec a bývalý zootechnik"
+      "work": "starosta obce Palkovice, soukromý zemědělec a bývalý zootechnik",
+			"motto": "Zdraví, bezpečnost, prosperita"
     },
     {
       "name": [
@@ -3023,9 +3039,18 @@
       ],
       "reg": 72,
       "links": [
-        "https://cs.wikipedia.org/wiki/Peter_Koliba"
+				"https://peterkoliba.cz/",
+				"https://www.ank2020.cz/cz/kandidati-ank-2020/peter-koliba/",
+        "https://cs.wikipedia.org/wiki/Peter_Koliba",
+				"https://www.facebook.com/senatorpeterkoliba",
+				"https://www.instagram.com/senator_peter_koliba/"
       ],
-      "support": [],
+      "support": [
+					{
+					  "name":"Alternativa pro nezávislé kandidáty",
+						"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+					}
+			],
       "photo": "peter-koliba.jpg",
       "work": "úřadující senátor zvolený za ANO, bývalý přednosta Gynekologicko-porodnické kliniky FN Ostrava"
     },
@@ -4195,6 +4220,61 @@
 					"logo":"/obecne/strany/loga/x-iniciativa-obcanu.jpg"
 				}
 			]
+    },
+    {
+      "name": [
+        "",
+        "Marian",
+        "Lebiedzik",
+        ""
+      ],
+      "reg": 75,
+      "links": [
+				"https://www.facebook.com/Marian-Lebiedzik-Dobr%C3%A1-volba-pro-Karvinsko-101069461702720/"
+			],
+      "support": [
+				{
+				  "name":"Dobrá volba 2016",
+					"logo":"/obecne/strany/loga/x-dobra-volba-2016.jpg"
+				}
+			]
+    },
+    {
+      "name": [
+        "",
+        "Eliška",
+        "Lazarová",
+        ""
+      ],
+      "reg": 75,
+      "links": [
+				"https://www.ank2020.cz/cz/kandidati-ank-2020/eliska-lazarova/"
+			],
+      "support": [
+				{
+				  "name":"Alternativa pro nezávislé kandidáty",
+					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+				}
+			]
+    },
+    {
+      "name": [
+        "",
+        "Zdeněk",
+        "Hostomský",
+        ""
+      ],
+      "reg": 24,
+      "links": [
+				"https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/"
+			],
+      "support": [
+				{
+				  "name":"Alternativa pro nezávislé kandidáty",
+					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+				}
+			],
+			"program": "https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/"
     }
   ],
   "current": [
