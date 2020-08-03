@@ -752,7 +752,8 @@
 						"https://www.facebook.com/trikolora.jiznicechy"
 					],
 					"data":"jck/1227",
-					"program":"https://kerleska.cz/program/"
+					"program":"https://kerleska.cz/program/",
+					"support": [716]
 				},
 				{
 					"reg": 714,
@@ -1839,6 +1840,20 @@
 					"leader": {
 						"name": "Petr Ajšman"
 					}
+				},
+				{
+					"reg": 5,
+					"leader": {
+						"name": "Jaroslav Staněk",
+						"reg": 5
+					},
+					"links": [
+						"https://karlovarsko.zeleni.cz",
+						"https://www.facebook.com/zelenikarlovarsko/"
+					],
+					"list": [
+						{"name":"Mgr. Monika Macháčková","reg":99},"Tomáš Kubát","Mgr. Zdenka Kopecká","Ing. Lubomír Vítek","Mgr. Martin Flaška",{"name":"Mgr. Michaela Hýsková","reg":99},{"name":"PhDr. Jakub Formánek","reg":99},{"name":"Emil Voráč","reg":99},"Mgr. Pavel Matala ","Martina Zimová","Ing. Petr Němec",{"name":"RNDr. Milan Gebouský","reg":99},{"name":"Dr.-Ing. Martin Kolouch","reg":99},"Mgr. Marie Mudrová",{"name":"Petr Pecher","reg":99},{"name":"Ing. Radomír Böhm","reg":99},{"name":"Mgr. Jana Malotínová","reg":99},"Ing. Milan Škoda",{"name":"Ing. Pavel Křížek","reg":99},{"name":"Mgr. Michaela Kolouchová","reg":99},{"name":"Ing. Jindřich Košner","reg":99},{"name":"Lumír Novák","reg":99},{"name":"David Mika","reg":99},{"name":"Vladimíra Havlová","reg":99},"Martin Zima",{"name":"Mgr. Daniel Lukáš","reg":99},"Vadim Lavrivský","Lydie Malá","Václav Havel",{"name":"Ing. Jiří Vítek","reg":99},{"name":"Dagmar KINKALOVÁ Paťhová","reg":99},{"name":"Mgr. Karel Rambousek","reg":99},"Ing. Bc. Oldřich Petrlík",{"name":"Dagmar Anna Adamovičová","reg":99},{"name":"Vlastimil Pešek","reg":99},{"name":"Mgr. Václav Kárník","reg":99},"Renata Křížová",{"name":"Pavel Staněk","reg":99},{"name":"MUDr. Eva Nováková","reg":99},{"name":"Růžena Nekolná","reg":99}
+					]
 				}
 			]
 		},
