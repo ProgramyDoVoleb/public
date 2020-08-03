@@ -3742,7 +3742,11 @@
 					"reg":716
 				},
 				{
-					"reg":770
+					"reg":770,
+					"links": [
+						"http://www.vychodocesi.cz/",
+						"https://www.facebook.com/vychodocesi.pak"
+					]
 				},
 				{
 					"name": "DSSS - STOP KRIMIGRANTŮM - Čistý kraj,",
@@ -4001,7 +4005,7 @@
 				},
 				{
 					"name": "Trikolora-Soukromníci",
-					"coalition":[1227, 770],
+					"coalition":[1227, 716],
 					"leader":{
 						"name":"Jan Tesař",
 						"reg":1227
