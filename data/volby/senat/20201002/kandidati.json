@@ -208,6 +208,8 @@
       ],
       "reg": 6,
       "links": [
+				"https://danielpitek.cz/",
+				"https://www.facebook.com/DanPitek",
         "https://cs.wikipedia.org/wiki/Daniel_Pitek"
       ],
       "support": [
@@ -219,7 +221,8 @@
       "color": "#460a0d",
       "work": "soukromý zemědělec a lesník, aktivní účastník veřejného dění",
 			"photo": "daniel-pitek.jpg",
-			"copyright": "wiki"
+			"copyright": "wiki",
+			"program": "https://danielpitek.cz/senat/207/"
     },
     {
       "name": [
@@ -1687,7 +1690,6 @@
         "jh@janholasek.cz",
         "http://www.janholasek.cz",
         "https://www.facebook.com/JHolasek/",
-        "https://twitter.com/honzaholasek",
         "https://www.instagram.com/holasek_jan/",
         "https://cs.wikipedia.org/wiki/Jan_Hol%C3%A1sek",
         "https://www.youtube.com/channel/UCPJutdbIvA2noEHk_iSgqsg/featured"
@@ -1701,7 +1703,8 @@
         {
           "name": "Změna pro Hradec",
           "logo": "obecne/strany/loga/x-zmena-pro-hradec.jpg"
-        }
+        },
+				113
       ],
       "work": "zastupitel města Hradec Králové, advokát a filantrop",
       "member": 99,
