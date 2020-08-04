@@ -2622,49 +2622,15 @@
 						"photo":"jiri-klapste.jpg"
 					},
 					"list":[
-						{
-							"name":"Štěpán Matek",
-							"reg":1
-						},
-						{
-							"name":"Jiří Šolc",
-							"reg":99
-						},
-						{
-							"name":"Josef Šimůnek",
-							"reg":1
-						},
-						{
-							"name":"Miloslav Václav",
-							"reg":721
-						},
-						{
-							"name":"Lenka Procházková",
-							"reg":1
-						},
-						{
-							"name":"Jiří Vondráček",
-							"reg":721
-						},
-						{
-							"name":"Daniela Šebestová",
-							"reg":99
-						},
-						{
-							"name":"Tomáš Veber",
-							"reg":1
-						},
-						{
-							"name":"Libor Šmejda",
-							"reg":99
-						}
+						{"name":"Ing. Matek Štěpán","reg":1},{"name":"Mgr. Šolc Jiří","reg":99},{"name":"Ing. Šimůnek Josef","reg":1},{"name":"Václav Miloslav","reg":721},{"name":"Procházková Lenka","reg":1},{"name":"Mgr. Vondráček Jiří","reg":721},{"name":"MUDr. Šebestová Daniela","reg":99},{"name":"Veber Tomáš","reg":1},{"name":"Mgr. et Mgr. Šmejda Libor, MBA","reg":99},{"name":"Kozák Jan","reg":99},{"name":"Zemanová Hana","reg":1},{"name":"MUDr. Rejmont Miloš","reg":721},{"name":"MUDr. Rákosová Zdeňka","reg":1},{"name":"Ing. Korselt Robert","reg":721},{"name":"Ing. Knížek Petr","reg":1},{"name":"Bašus Ondřej","reg":721},{"name":"MUDr. Kraus Matěj","reg":99},{"name":"Bc. Ševčík Jan DiS.","reg":721},{"name":"Ing. Novák Jiří","reg":1},{"name":"Mgr. Loukota Michal","reg":721},{"name":"MUDr. Malík Martin","reg":99},{"name":"Miler Vojtěch","reg":721},{"name":"Šnorbert Jan","reg":1},{"name":"Ing. Fiala Jiří","reg":721},{"name":"Ing. Valčík Martin","reg":1},{"name":"Ing. May Pavel DiS.","reg":721},{"name":"Zahrádka Václav DiS.","reg":1},{"name":"Havlík Daniel","reg":99},{"name":"Mgr. Kalousová Jana, MBA","reg":1},{"name":"Ing. Faistauer Petr","reg":721},{"name":"Nosek Václav","reg":1},{"name":"Jiříček Vladimír","reg":99},{"name":"Tesárková Kateřina","reg":1},{"name":"Rejnart Lukáš","reg":99},{"name":"MUDr. Matek Petr","reg":99},{"name":"Mgr. Krousová Šárka","reg":99},{"name":"Ing. Ulrychová Václava","reg":1},{"name":"Mgr. Pekařová Jana","reg":99},{"name":"Mgr. Zahradník Aleš","reg":99},{"name":"Nguyenová Thi Hong Ngoc","reg":721},{"name":"Ing. Jiran Pavel","reg":1},{"name":"Bc. Prokop Michal","reg":721},{"name":"Jíra Petr","reg":721},{"name":"Mgr. Mlejnek Pavel","reg":99},{"name":"Mgr. Hendrych Václav","reg":721},{"name":"Mgr. Bürgerová Marie","reg":721},{"name":"Ing. arch. Nalezený Pavel","reg":721},{"name":"Chmelík Zdeněk","reg":721},{"name":"Mgr. Chroust Martin","reg":721}
 					],
 					"links": [
 						{"url": "https://www.spolecneprolibereckykraj.cz"},
 						{"url": "https://www.facebook.com/KDU-%C4%8CSL-Libereck%C3%BD-kraj-162388777174707", "label": "KDU-ČSL Liberecko"},
 						{"url": "https://www.facebook.com/TOP09Liberec/", "label": "TOP 09 Liberecko"}
 					],
-					"data": "lbk/spolecne"
+					"data": "lbk/spolecne",
+					"program": "https://www.spolecneprolibereckykraj.cz/clanek/detail/spolecne-pro-liberecky-kraj"
 				},
 				{
 					"coalition":[
