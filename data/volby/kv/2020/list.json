@@ -1120,39 +1120,16 @@
 						"name":"Ivana Bartošová",
 						"reg":1,
 						"links":[
-							{
-								"url":"https://www.facebook.com/profile.php?id=100007295835833",
-								"label":"FB profil"
-							}
+							"https://www.facebook.com/profile.php?id=100007295835833"
 						]
 					},
 					"links":[
-						{
-							"url":"https://plzen.kdu.cz"
-						},
-						{
-							"url":"http://www.adstrana.cz"
-						},
-						{
-							"url":"https://www.facebook.com/koaliceppk"
-						},
-						{
-							"url":"https://www.facebook.com/kducslplzenskykraj"
-						},
-						{
-							"url":"https://www.facebook.com/adstrana"
-						},
-						{
-							"url":"https://www.instagram.com/kducslplzenskykraj"
-						},
-						{
-							"url":"https://www.instagram.com/verni_agrarnici_ads"
-						},
-						{
-							"url":"https://www.youtube.com/channel/UCD37jOsZB1l2AzeCKFPOgVg",
-							"icon":"yt",
-							"label":"KDU-ČSL Plzeň"
-						}
+						"https://koaliceproplzenskykraj.cz/",
+						"https://www.facebook.com/koaliceppk"
+					],
+					"list": [
+						{"name": "Pavel Šrámek", "reg": 1119},
+						{"name": "Tomáš Rada", "reg": 181}
 					]
 				},
 				{
@@ -1371,16 +1348,9 @@
 					},
 					"links":[
             "https://www.ods.cz/region.karlovarsky/volby2020/krajske",
-						{
-							"url":"http://kvary.kdu.cz"
-						},
-						{
-							"url":"https://www.facebook.com/rs.ods.karlovarsky.kraj",
-							"label":"ODS Karlovarsko"
-						},
-						{
-							"url":"https://www.facebook.com/kdukvkraj"
-						}
+						"http://kvary.kdu.cz",
+						"https://www.facebook.com/rs.ods.karlovarsky.kraj",
+						"https://www.facebook.com/kdukvkraj"
 					],
 					"support":[
 						716
@@ -2880,11 +2850,7 @@
 					},
 					"links": [
 						"http://www.koalicehk.kdu.cz",
-						{"url": "http://kralovehradecky.kdu.cz/", "label": "KDU-ČSL KHK"},
-						"http://vpm2014.cz",
-						"https://www.facebook.com/koalicehk",
-						{"url": "https://www.facebook.com/kdukralovehradecko/", "label": "KDU-ČSL KHK"},
-						"https://www.facebook.com/volbapromestohk"
+						"https://www.facebook.com/koalicehk"
 					],
 					"list":[
 						{
@@ -3343,6 +3309,7 @@
 				},
 				{
 					"reg":344,
+					"name": "Koalice pro Pardubický kraj",
 					"coalition":[
 						1,
 						181,
@@ -3352,16 +3319,10 @@
 						"name":"Roman Línek",
 						"reg":1,
 						"links":[
-							{
-								"url":"http://www.roman-linek.cz"
-							},
+							"http://www.roman-linek.cz",
 							"https://www.facebook.com/Roman-L%C3%ADnek-129667385500897/",
-							{
-								"url":"https://www.facebook.com/roman.linek.14"
-							},
-							{
-								"url":"https://www.instagram.com/romanlinek"
-							}
+							"https://www.facebook.com/roman.linek.14",
+							"https://www.instagram.com/romanlinek"
 						]
 					},
 					"support":[
@@ -3423,29 +3384,13 @@
 						{
 							"name":"Eva Šmeralová",
 							"reg":129
-						}
+						},
+						"Mgr. Radim Vetchý", "Bc. Jana Skalická", "prof. Ing. Miroslav Ludwig, CSc.", "MgA. Tomáš Židek, Ph.D.", "Bc. Veronika Pešinová, MBA", "Bc. Martin Voleský", "Mgr. Jan Neudert", "Ing. Petr Šilar", "MUDr. Vít Ulrych", "Ing. Iveta Krebsová", "Mgr. David Šafář", "Ing. Petr Schejbal", "MUDr. Jiřina Jirešová", "Ing. Zdeněk Mikšovský", "Jiří Pomikálek", "Magda Kokulová", "Mgr. Tereza Všetečková", "Petr Čada", "Bc. Martin Beran, dipl. um.", "Pavel Bezděk", "Mgr. Marie Hubálková", "PhDr. Pavel Petr", "Ing. Iva Doležalová", "Šárka Trunečková, DiS.", "Ing. Mgr. Zdeňka Kumstýřová", "ThMgr. Dušan Ehmig", "JUDr. Tomáš Plavec", "Mgr. Jitka Moskvová", "Ing. Lenka Gotthardová, CSc.", "Ing. Tomáš Pelikán", "Ing. František Weisbauer", "Ing. Dana Hubálková", "Ing. Petr Netolický ", "Ing. Petr Krejcar", "Mgr. Pavlína Parchanská"
 					],
 					"links":[
-						{
-							"url":"https://www.koalicepk.cz"
-						},
-						{
-							"url":"http://pardubicky-kraj.kdu.cz"
-						},
-						{
-							"url":"https://www.facebook.com/koalicepropardubickykraj/",
-							"label":"Facebook"
-						},
-						{
-							"url":"https://www.facebook.com/KDUCSLPK"
-						},
-						{
-							"url":"https://www.instagram.com/koalice_pro_pardubicky_kraj/",
-							"label":"Instagram"
-						},
-						{
-							"url":"https://www.instagram.com/kdupce"
-						}
+						"https://www.koalicepk.cz/",
+						"https://www.facebook.com/koalicepropardubickykraj",
+						"https://twitter.com/KoalicePK"
 					]
 				},
 				{
