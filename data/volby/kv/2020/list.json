@@ -5535,13 +5535,20 @@
 					"name": "Alternativa pro nezávislé kandidáty",
 					"leader": {
 						"name": "Miroslav Koliba",
-						"phash": "alternativa-pro-nezavisle-kandidaty"
+						"phash": "alternativa-pro-nezavisle-kandidaty",
+						"photo": "miroslav-koliba.jpg"
 					},
 					"list": [
 						"Michal Joshua Frána",
 						"Karin Kuchaříková",
 						"Jana Výmolová"
-					]
+					],
+					"links": [
+						"http://www.ank2020.cz/",
+						"https://www.facebook.com/Hnuti.ANK.2020/",
+						"https://www.youtube.com/channel/UCigW18I16vrmHp-N7WZaVrA"
+					],
+					"data": "msk/ank2020"
 				}
 			]
 		}
