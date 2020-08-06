@@ -156,8 +156,110 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.letospodstan.cz/program/"
   },
-  "lastUpdate": "2020-08-06T05:51:13.043Z",
-  "data": "kvk/166"
+  "lastUpdate": "2020-08-06T07:56:50.964Z",
+  "data": "kvk/166",
+  "coalition": [
+    166,
+    721,
+    {
+      "name": "Volba pro Město Cheb",
+      "logo": "obecne/strany/loga/x-volba-pro-mesto-cheb.png",
+      "color": "#fab519"
+    },
+    182
+  ],
+  "name": "STAN - Starostové a nezávislí společně s KOA, VPM Cheb a TOP 09",
+  "links": [
+    "https://www.letospodstan.cz/",
+    "https://www.facebook.com/LetosPodSTAN/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Kulhánek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 182,
+      "links": [
+        "http://petrkulhanek.cz",
+        "https://www.facebook.com/coolhanek",
+        "https://twitter.com/p_kulhanek",
+        "https://www.instagram.com/petr.cool.hanek"
+      ],
+      "name": "Petr Kulhánek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Pisár",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Robert Pisár"
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Jalovec",
+        ""
+      ],
+      "sex": 1,
+      "phash": "volba-pro-mesto-cheb",
+      "name": "Antonín Jalovec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Zahradníček",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Petr Zahradníček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kuchař",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Jan Kuchař"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Horník",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Jan Horník"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Balatka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Miroslav Balatka"
+    }
+  ],
+  "color": "#1ebdb7"
 }

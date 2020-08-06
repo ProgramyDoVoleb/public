@@ -20,7 +20,7 @@
     },
     {
       "reg": 166,
-      "name": "Věslav Michalik",
+      "name": "Věslav Michalík",
       "photo": "veslav-michalik.jpg",
       "about": "Pracovitý a cílevědomý starosta. Dokázal v obci vybudovat vědecké centrum i zajistit lidem zdravotnické potřeby v době, kdy jich byl nedostatek. Dívá se do budoucna. To je v dobře fungující organizaci potřeba. Zejména v kraji. „Změníme negativní trend vývoje kraje. K tomu je potřeba změnit přístup v oblasti vzdělání, infrastruktury, vědy a výzkumu i spolupráce s Prahou.“ Jako starosta Dolních Břežan dokázal Věslav Michalik změnit obec sloužící pouze k bydlení v plnohodnotnou a dobře fungující vesnici. Své zkušenosti uplatní v oblasti regionálního rozvoje a strategického plánování.",
       "quote": null,
@@ -370,8 +370,155 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf"
   },
-  "lastUpdate": "2020-08-06T05:51:13.014Z",
-  "data": "stk/166"
+  "lastUpdate": "2020-08-06T07:56:50.927Z",
+  "data": "stk/166",
+  "reg": 166,
+  "support": [
+    1,
+    129
+  ],
+  "links": [
+    "https://starostovestrednicechy.cz/",
+    "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
+    "https://www.facebook.com/starostove.stredocesky",
+    "https://twitter.com/STAN_Stc"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Petra",
+        "Pecková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 166,
+      "links": [
+        "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj/krajsky-vybor/peckova-petra",
+        "https://www.facebook.com/peckovapetra",
+        "https://www.facebook.com/petra.peckova.39",
+        "https://twitter.com/PPeckova",
+        "https://www.instagram.com/petra_peckova_starostka"
+      ],
+      "name": "Petra Pecková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vít",
+        "Rakušan",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Vít Rakušan"
+    },
+    {
+      "nameFull": [
+        "",
+        "Věslav",
+        "Michalík",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Věslav Michalík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Volf",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "name": "Zdeněk Volf"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Lochman",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Ondřej Lochman"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavla",
+        "Štrobachová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 99,
+      "name": "Pavla Štrobachová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniel",
+        "Marek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Daniel Marek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michael",
+        "Kašpar",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Michael Kašpar"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Borecký",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Petr Borecký"
+    },
+    {
+      "nameFull": [
+        "",
+        "Luděk",
+        "Jeništa",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Luděk Jeništa"
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Boloňský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 129,
+      "name": "Stanislav Boloňský"
+    }
+  ],
+  "name": "STAROSTOVÉ A NEZÁVISLÍ",
+  "short": "STAN",
+  "hash": "stan",
+  "logo": "/obecne/strany/loga/166-stan.svg",
+  "color": "#1ebdb7"
 }

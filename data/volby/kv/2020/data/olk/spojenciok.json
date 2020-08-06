@@ -2,7 +2,7 @@
   "people": [
     {
       "reg": 1,
-      "name": "Marian Jurečka",
+      "name": "Marián Jurečka",
       "photo": "marian-jurecka.jpg",
       "about": "Pochází z rodiny, která se po generace věnovala zemědělství. Rozhodl se pokračovat v rodinné tradici a přihlásil se na Střední zemědělskou školu v Přerově. Vysokoškolské vzdělání získal na Mendelově univerzitě v Brně – obor rostlinolékařství. Do politiky vstoupil v roce 1999 v barvách KDU-ČSL. Postupná mravenčí práce uvnitř strany mu vynesla post místopředsedy a v roce 2012 i lídra kandidátky KDU-ČSL v Olomouckém kraji. Uspěl, stejně jako v následných volbách do Sněmovny. Přibližně čtyři roky řídil Ministerstvo zemědělství. V lednu 2020 se stal předsedou KDU-ČSL. Hraje na tubu, vystupuje s hudebním tělesem Porta Benefica. Je ženatý a má pět synů. Když může, rád vymění oblek za montérky, pohodlné auto za traktor a vyráží pracovat na pole.",
       "quote": "Dobrý hospodář nežije na dluh. Chci kraj ekonomicky pozvednout, zvýšit zaměstnanost a podpořit oblasti, které jsou kvůli své poloze v nevýhodě."
@@ -142,8 +142,185 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.spojenciok.cz/#program"
   },
-  "lastUpdate": "2020-08-06T05:51:13.124Z",
-  "data": "olk/spojenciok"
+  "lastUpdate": "2020-08-06T07:56:51.062Z",
+  "data": "olk/spojenciok",
+  "coalition": [
+    1,
+    5,
+    721,
+    1039
+  ],
+  "logo": "obecne/strany/loga/x-spojenciok.png",
+  "name": "Spojenci – Koalice pro Olomoucký kraj",
+  "links": [
+    "https://www.spojenciok.cz/",
+    "https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Marián",
+        "Jurečka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "links": [
+        "https://www.marianjurecka.cz",
+        "https://www.facebook.com/JureckaMarian/",
+        "https://twitter.com/MJureka",
+        "https://www.instagram.com/marianjurecka/"
+      ],
+      "name": "Marián Jurečka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Blišťanová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 721,
+      "name": "Zdeňka Blišťanová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Škvařilová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1039,
+      "name": "Marcela Škvařilová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Vacková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 5,
+      "name": "Hana Vacková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Slavotínek",
+        ""
+      ],
+      "sex": 1,
+      "name": "Ivo Slavotínek"
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Horák",
+        ""
+      ],
+      "sex": 1,
+      "name": "František Horák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Jakubec",
+        ""
+      ],
+      "sex": 1,
+      "name": "Aleš Jakubec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Šafařík",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jan Šafařík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniel",
+        "Řezníček",
+        ""
+      ],
+      "sex": 1,
+      "name": "Daniel Řezníček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Grasse",
+        ""
+      ],
+      "sex": 1,
+      "name": "Pavel Grasse"
+    },
+    {
+      "nameFull": [
+        "",
+        "Matouš",
+        "Pelikán",
+        ""
+      ],
+      "sex": 1,
+      "name": "Matouš Pelikán"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Matyášek",
+        ""
+      ],
+      "sex": 1,
+      "name": "Aleš Matyášek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Seitlová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1,
+      "name": "Jitka Seitlová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Čečman",
+        ""
+      ],
+      "sex": 1,
+      "name": "Ivo Čečman"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Šulák",
+        ""
+      ],
+      "sex": 1,
+      "name": "Tomáš Šulák"
+    }
+  ],
+  "color": "#018180"
 }

@@ -30,6 +30,80 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.151Z",
-  "data": "msk/zsn"
+  "lastUpdate": "2020-08-06T07:56:51.100Z",
+  "data": "msk/zsn",
+  "coalition": [
+    5,
+    166,
+    88
+  ],
+  "logo": "obecne/strany/loga/x-stan-zeleni-nezavisli.png",
+  "name": "STAN, Zelení, Nezávislí pro Moravskoslezský kraj",
+  "program": {},
+  "links": [
+    "http://namtonenijedno.cz/",
+    "https://www.facebook.com/stanzeleninezavislimskraj/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Lipner",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "links": [
+        "https://www.facebook.com/janlipnerSTAN/",
+        "https://twitter.com/JanLipner"
+      ],
+      "name": "Jan Lipner"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Polášek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 88,
+      "name": "Martin Polášek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Syrovátka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 5,
+      "name": "Ondřej Syrovátka"
+    },
+    {
+      "nameFull": [
+        "",
+        "René",
+        "Šmotek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 5,
+      "name": "René Šmotek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Šebelová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 99,
+      "name": "Michaela Šebelová"
+    }
+  ],
+  "color": "#60b44c"
 }

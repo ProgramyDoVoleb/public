@@ -1,19 +1,523 @@
 {
   "people": [
     {
-      "name": "Jiří Sukop",
-      "reg": 768,
-      "links": [
-        "https://www.facebook.com/JiriSukopANO/",
-        "https://www.instagram.com/jirisukop/"
-      ]
-    },
-    {
       "name": "Pavel Pustějovský",
       "reg": 768,
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.140Z",
-  "data": "zlk/768"
+  "lastUpdate": "2020-08-06T07:56:51.084Z",
+  "data": "zlk/768",
+  "reg": 768,
+  "program": {},
+  "links": [
+    "https://www.anobudelip.cz/zlinsky-kraj",
+    "https://www.facebook.com/anotohlejezlinsko/",
+    "https://www.instagram.com/ano_zlinsky_kraj/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Holiš",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "links": [
+        "https://www.facebook.com/holisradim/"
+      ],
+      "name": "Radim Holiš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Doležel",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Radek Doležel"
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Vychytil",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "David Vychytil"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Janča",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Tomáš Janča"
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Stržínek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Robert Stržínek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Večerková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Hana Večerková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Vardan",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Pavel Vardan"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Pšeja",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Jan Pšeja"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Všetečka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Radek Všetečka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Korec",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Jiří Korec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jarmila",
+        "Slováková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Jarmila Slováková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Yvona",
+        "Wojaczková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Yvona Wojaczková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Žůrek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Jaromír Žůrek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Bartoň",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Pavel Bartoň"
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Hubíková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Monika Hubíková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aloisie",
+        "Jurkovičová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Aloisie Jurkovičová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tibor",
+        "Mičunek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Tibor Mičunek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Zejdl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Vladimír Zejdl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radomil",
+        "Kop",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Radomil Kop"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Maňásek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Petr Maňásek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Vašica",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Tomáš Vašica"
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Slavík",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Roman Slavík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Pekařová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Jana Pekařová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hynek",
+        "Kovář",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Hynek Kovář"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Přikryl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Radim Přikryl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Grygarová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Jana Grygarová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Kovář",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Václav Kovář"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vítězslav",
+        "Hanák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Vítězslav Hanák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Střálková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Lenka Střálková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Čechová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Marcela Čechová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Mlčák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Martin Mlčák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marta",
+        "Lednová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Marta Lednová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Babovec",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Petr Babovec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Ertl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Pavel Ertl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Brada",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Pavel Brada"
+    },
+    {
+      "nameFull": [
+        "",
+        "Mojmír",
+        "Heryán",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Mojmír Heryán"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Melcher",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Jiří Melcher"
+    },
+    {
+      "nameFull": [
+        "",
+        "Renata",
+        "Měsíčková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Renata Měsíčková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Wilczynski",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Ondřej Wilczynski"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Pospíšil",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Petr Pospíšil"
+    },
+    {
+      "nameFull": [
+        "",
+        "Otakar",
+        "Neoral",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Otakar Neoral"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Novák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Marek Novák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Margita",
+        "Balaštíková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 768,
+      "name": "Margita Balaštíková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Pustějovský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Pavel Pustějovský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Vondráček",
+        ""
+      ],
+      "sex": 1,
+      "reg": 768,
+      "name": "Radek Vondráček"
+    }
+  ],
+  "name": "ANO 2011",
+  "short": "ANO",
+  "hash": "ano",
+  "logo": "/obecne/strany/loga/768-ano.svg",
+  "color": "#2f2f65"
 }

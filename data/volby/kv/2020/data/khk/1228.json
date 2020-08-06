@@ -136,8 +136,157 @@
           }
         ]
       }
+    ],
+    "source": "https://spoluprokraj.cz/program/"
+  },
+  "lastUpdate": "2020-08-06T07:56:51.015Z",
+  "data": "khk/1228",
+  "coalition": [
+    5,
+    7,
+    "Osobnosti kraje"
+  ],
+  "logo": "obecne/strany/loga/1228-sprok.png",
+  "name": "Spolu pro kraj",
+  "copyright": {
+    "content": "Fotografie a vizitky kandidátů jsou převzaté z webu %0.",
+    "vars": [
+      "https://spoluprokraj.cz"
     ]
   },
-  "lastUpdate": "2020-08-06T05:51:13.087Z",
-  "data": "khk/1228"
+  "links": [
+    "https://spoluprokraj.cz",
+    "https://www.facebook.com/spoluprokrajkhk",
+    "https://twitter.com/spoluprokrajkhk",
+    "https://www.instagram.com/spoluprokrajkhk"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Štěpán",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "links": [
+        "https://spoluprokraj.cz/member/1-jiri-stepan",
+        "https://www.facebook.com/hejtmanjiristepan",
+        "https://twitter.com/stepanjiri1"
+      ],
+      "name": "Jiří Štěpán"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hanousek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 5,
+      "name": "Martin Hanousek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Hečko",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Hečko"
+    },
+    {
+      "nameFull": [
+        "",
+        "Karin",
+        "Richterová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 5,
+      "name": "Karin Richterová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Masáková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Hana Masáková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Sobotka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 5,
+      "name": "Petr Sobotka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Rudolfský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Stanislav Rudolfský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Barbora",
+        "Kulichová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 5,
+      "name": "Barbora Kulichová"
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Mencl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "František Mencl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Štěpán",
+        "Málek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Štěpán Málek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Birke",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jan Birke"
+    }
+  ],
+  "color": "#60b44c"
 }

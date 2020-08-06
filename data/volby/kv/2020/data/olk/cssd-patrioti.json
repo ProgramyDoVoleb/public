@@ -237,8 +237,636 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://receptprokraj.cz/volebni-program/"
   },
-  "lastUpdate": "2020-08-06T05:51:13.125Z",
-  "data": "olk/cssd-patrioti"
+  "lastUpdate": "2020-08-06T07:56:51.065Z",
+  "data": "olk/cssd-patrioti",
+  "coalition": [
+    7,
+    {
+      "name": "Patrioti Olomouckého kraje",
+      "logo": "obecne/strany/loga/x-patrioti-olk.png"
+    }
+  ],
+  "links": [
+    "https://receptprokraj.cz/",
+    "https://www.facebook.com/CssdOlomouckyKraj/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Zemánek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "links": [
+        "https://jirizemanek.cz/",
+        "https://receptprokraj.cz/jiri-zemanek/",
+        "https://www.facebook.com/zemanek.jiri/",
+        "https://twitter.com/ZemanekJiriOK",
+        "https://www.instagram.com/zemanek.j/",
+        "https://www.youtube.com/channel/UCcgIvOZ6gZXVtxVW-lJCpdQ"
+      ],
+      "name": "Jiří Zemánek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Jabůrek",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Ladislav Jabůrek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Hynek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Ladislav Hynek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Šoltys",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Šoltys"
+    },
+    {
+      "nameFull": [
+        "",
+        "Viktor",
+        "Kohout",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Viktor Kohout"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Malý",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jaromír Malý"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kubiš",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Jiří Kubiš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Kopřiva",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Miroslav Kopřiva"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Holík",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Holík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Nováková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Jana Nováková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivan",
+        "Foltýn",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Ivan Foltýn"
+    },
+    {
+      "nameFull": [
+        "",
+        "Silvie",
+        "Pernicová",
+        ""
+      ],
+      "sex": 2,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Silvie Pernicová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Fabíková",
+        ""
+      ],
+      "sex": 2,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Lucie Fabíková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Přemysl",
+        "Dvorský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Přemysl Dvorský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Šárka",
+        "Zapletalová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Šárka Zapletalová"
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Křepský",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "David Křepský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hönig",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Martin Hönig"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Hofírek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Hofírek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Kudláček",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Petr Kudláček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lada",
+        "Cinegrová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Lada Cinegrová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Slouka",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Radim Slouka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Axman",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Stanislav Axman"
+    },
+    {
+      "nameFull": [
+        "",
+        "Štěpán",
+        "Kulina",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Štěpán Kulina"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Oulehlová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Jana Oulehlová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Čapka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Radek Čapka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Hampl",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Miroslav Hampl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Rousek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jakub Rousek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Husvéth",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Tomáš Husvéth"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Fiala",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Jiří Fiala"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Janeček",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Miroslav Janeček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Kandler",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Lukáš Kandler"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Sobek",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Aleš Sobek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Dvořáková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Ivana Dvořáková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Šamšula",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Libor Šamšula"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Šmída",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Miroslav Šmída"
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Střída",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "František Střída"
+    },
+    {
+      "nameFull": [
+        "",
+        "Yvona",
+        "Kubjátová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Yvona Kubjátová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Šťastný",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Jakub Šťastný"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radovan",
+        "Rašťák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Radovan Rašťák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Weiermüllerová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Jitka Weiermüllerová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Bedřich",
+        "Grulich",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Bedřich Grulich"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vlastimil",
+        "Šmída",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Vlastimil Šmída"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Teplý",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Jiří Teplý"
+    },
+    {
+      "nameFull": [
+        "",
+        "Adam",
+        "Fritcher",
+        ""
+      ],
+      "sex": 1,
+      "phash": "patrioti-olomouckeho-kraje",
+      "name": "Adam Fritcher"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Skácel",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Skácel"
+    },
+    {
+      "nameFull": [
+        "",
+        "Andrej",
+        "Přikrylová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Andrej Přikrylová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Procházka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Stanislav Procházka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Zatloukal",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Pavel Zatloukal"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Šeda",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Petr Šeda"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Malý",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jakub Malý"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Dvořák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jaromír Dvořák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radmila",
+        "Kociánová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Radmila Kociánová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Sebök",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Ladislav Sebök"
+    },
+    {
+      "nameFull": [
+        "",
+        "Alois",
+        "Mačák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Alois Mačák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Tomášek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "name": "Jiří Tomášek"
+    }
+  ],
+  "color": "#f70000"
 }

@@ -5,6 +5,59 @@
       "reg": 1227
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.015Z",
-  "data": "stk/1227"
+  "lastUpdate": "2020-08-06T07:56:50.928Z",
+  "data": "stk/1227",
+  "reg": 1227,
+  "program": {},
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Fryč",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1227,
+      "name": "Antonín Fryč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Natálie",
+        "Vachatová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1227,
+      "name": "Natálie Vachatová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Hutník",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1227,
+      "name": "Ondřej Hutník"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Seidl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1227,
+      "name": "Zdeněk Seidl"
+    }
+  ],
+  "name": "Trikolóra hnutí občanů",
+  "short": "Trikolóra",
+  "hash": "trikolora",
+  "logo": "/obecne/strany/loga/1227-trikolora.png",
+  "color": "#2b3acc"
 }

@@ -11,6 +11,56 @@
       ]
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.033Z",
-  "data": "plk/koalice-pro-plzensky-kraj"
+  "lastUpdate": "2020-08-06T07:56:50.951Z",
+  "data": "plk/koalice-pro-plzensky-kraj",
+  "coalition": [
+    1,
+    181,
+    1119
+  ],
+  "name": "Koalice pro Plzeňský kraj",
+  "program": {},
+  "links": [
+    "https://koaliceproplzenskykraj.cz/",
+    "https://www.facebook.com/koaliceppk"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Bartošová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1,
+      "links": [
+        "https://www.facebook.com/profile.php?id=100007295835833"
+      ],
+      "name": "Ivana Bartošová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Šrámek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1119,
+      "name": "Pavel Šrámek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Rada",
+        ""
+      ],
+      "sex": 1,
+      "reg": 181,
+      "name": "Tomáš Rada"
+    }
+  ],
+  "color": "#fec92f"
 }

@@ -29,6 +29,79 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.073Z",
-  "data": "khk/koalice-pro-kralovehradecky-kraj"
+  "lastUpdate": "2020-08-06T07:56:51.010Z",
+  "data": "khk/koalice-pro-kralovehradecky-kraj",
+  "coalition": [
+    1,
+    181,
+    113
+  ],
+  "name": "Koalice pro Královéhradecký kraj",
+  "program": {},
+  "links": [
+    "http://www.koalicehk.kdu.cz",
+    "https://www.facebook.com/koalicehk"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Bělobrádek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "links": [
+        "http://www.pavelbelobradek.cz",
+        "https://www.facebook.com/Belobradek",
+        "https://twitter.com/belobradek",
+        "https://www.instagram.com/pbelobradek"
+      ],
+      "name": "Pavel Bělobrádek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Machů",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "name": "Martin Machů"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Půža",
+        ""
+      ],
+      "sex": 1,
+      "reg": 113,
+      "name": "Miroslav Půža"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Hamáček",
+        ""
+      ],
+      "sex": 1,
+      "name": "Petr Hamáček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Čáp",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jan Čáp"
+    }
+  ],
+  "color": "#fec92f"
 }

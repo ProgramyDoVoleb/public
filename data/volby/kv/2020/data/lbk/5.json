@@ -32,7 +32,7 @@
     }
   ],
   "program": {
-    "motto": "Neuschneme!",
+    "motto": "Neuschneme",
     "parts": [
       {
         "headline": "Program do krajských voleb 2020",
@@ -192,8 +192,161 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://volbaprokrajinu.cz/uploads/program-2.pdf"
   },
-  "lastUpdate": "2020-08-06T05:51:13.066Z",
-  "data": "lbk/5"
+  "lastUpdate": "2020-08-06T07:56:51.001Z",
+  "data": "lbk/5",
+  "coalition": [
+    5,
+    795
+  ],
+  "logo": "obecne/strany/loga/x-pro-krajinu.jpg",
+  "name": "Pro krajinu",
+  "links": [
+    "http://neuschneme.cz",
+    "https://volbaprokrajinu.cz",
+    "https://www.facebook.com/prokrajinu",
+    "https://twitter.com/krajinu",
+    "https://www.instagram.com/pro_krajinu"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Šedlbauer",
+        ""
+      ],
+      "sex": 1,
+      "reg": 5,
+      "links": [
+        "https://www.facebook.com/jsedlbauer",
+        "https://twitter.com/JSedlbauer",
+        "https://www.instagram.com/josef_sedlbauer"
+      ],
+      "name": "Josef Šedlbauer"
+    },
+    {
+      "nameFull": [
+        "",
+        "Anna",
+        "Kšírová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Anna Kšírová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Macek",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jakub Macek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Vondrová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Martina Vondrová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Hudec",
+        ""
+      ],
+      "sex": 1,
+      "name": "Miroslav Hudec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Vítebská",
+        ""
+      ],
+      "sex": 2,
+      "name": "Lenka Vítebská"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Černý",
+        ""
+      ],
+      "sex": 1,
+      "name": "Ondřej Černý"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Kocumová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Zuzana Kocumová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Baxa",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jaromír Baxa"
+    },
+    {
+      "nameFull": [
+        "",
+        "Anna",
+        "Hudská",
+        ""
+      ],
+      "sex": 2,
+      "name": "Anna Hudská"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Felcman",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jindřich Felcman"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Varvařovský",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jakub Varvařovský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Karková",
+        ""
+      ],
+      "sex": 2,
+      "name": "Ludmila Karková"
+    }
+  ],
+  "color": "#60b44c"
 }

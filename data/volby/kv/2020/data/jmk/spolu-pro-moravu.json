@@ -45,6 +45,139 @@
       ]
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.119Z",
-  "data": "jmk/spolu-pro-moravu"
+  "lastUpdate": "2020-08-06T07:56:51.056Z",
+  "data": "jmk/spolu-pro-moravu",
+  "coalition": [
+    721,
+    5,
+    1190,
+    {
+      "name": "Idealisté",
+      "logo": "obecne/strany/loga/x-idealiste.png",
+      "color": "#00dcc2"
+    },
+    795
+  ],
+  "logo": "obecne/strany/loga/x-spolu-pro-moravu-2.jpg",
+  "name": "Spolu pro Moravu",
+  "program": {},
+  "links": [
+    "http://spolupromoravu.cz",
+    "https://www.facebook.com/SpoluProMoravu",
+    "https://twitter.com/SpolUpro",
+    "https://www.instagram.com/spolupromoravu"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Vitula",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.top09.cz/proc-nas-volit/nase-nazory/?osobnosti=9237",
+        "https://www.facebook.com/jan.vitula",
+        "https://twitter.com/JanVitula",
+        "https://www.instagram.com/vitula1"
+      ],
+      "name": "Jan Vitula"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Drápalová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Jana Drápalová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Třetina",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Tomáš Třetina"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Schneider",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jan Schneider"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Kunc",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Petr Kunc"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kacetl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1190,
+      "name": "Jiří Kacetl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Doležal",
+        ""
+      ],
+      "sex": 1,
+      "name": "Michal Doležal"
+    },
+    {
+      "nameFull": [
+        "",
+        "Matouš",
+        "Vencálek",
+        ""
+      ],
+      "sex": 1,
+      "name": "Matouš Vencálek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Potměšilová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Hana Potměšilová"
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Veselý",
+        ""
+      ],
+      "sex": 1,
+      "name": "David Veselý"
+    }
+  ],
+  "color": "#531a92"
 }

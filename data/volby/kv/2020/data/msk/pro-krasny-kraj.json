@@ -108,8 +108,162 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "http://www.prokrasnykraj.cz/#program"
   },
-  "lastUpdate": "2020-08-06T05:51:13.152Z",
-  "data": "msk/pro-krasny-kraj"
+  "lastUpdate": "2020-08-06T07:56:51.101Z",
+  "data": "msk/pro-krasny-kraj",
+  "coalition": [
+    1173,
+    1220,
+    129
+  ],
+  "logo": "obecne/strany/loga/x-pro-krasny-kraj.png",
+  "name": "Pro krásný kraj - Hlas nezávislých osobností!",
+  "links": [
+    "http://www.prokrasnykraj.cz/",
+    "https://www.facebook.com/prokrasnykraj/",
+    "https://twitter.com/ProKrasnyKraj",
+    "https://www.instagram.com/prokrasnykraj",
+    "https://www.youtube.com/channel/UCY1DKSiSdZ2puMjHbtVKkng"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Miloslav",
+        "Cváček",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "links": [
+        "https://www.facebook.com/profile.php?id=100011292750736",
+        "https://twitter.com/CvacekMiloslav"
+      ],
+      "name": "Miloslav Cváček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Smolka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 129,
+      "name": "Pavel Smolka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Ruman",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1220,
+      "name": "Michal Ruman"
+    },
+    {
+      "nameFull": [
+        "",
+        "Adam",
+        "Hanus",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1173,
+      "name": "Adam Hanus"
+    },
+    {
+      "nameFull": [
+        "",
+        "Salome",
+        "Sýkorová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 129,
+      "name": "Salome Sýkorová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Měkýš",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1220,
+      "name": "Ondřej Měkýš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Čechák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Roman Čechák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Sylva",
+        "Kováčiková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 99,
+      "name": "Sylva Kováčiková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Valim",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1220,
+      "name": "Martin Valim"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lubomír",
+        "Veřmiřovský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Lubomír Veřmiřovský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Hranoš",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "name": "Aleš Hranoš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Hulhahý",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1220,
+      "name": "Petr Hulhahý"
+    }
+  ],
+  "color": "#1d5958"
 }

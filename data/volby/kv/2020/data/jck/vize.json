@@ -17,8 +17,55 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.vizens.cz/program3/"
   },
-  "lastUpdate": "2020-08-06T05:51:13.028Z",
-  "data": "jck/vize"
+  "lastUpdate": "2020-08-06T07:56:50.946Z",
+  "data": "jck/vize",
+  "name": "VIZE - národní socialisté",
+  "people": [],
+  "list": [
+    {
+      "nameFull": [
+        "Bc.",
+        "Ivan",
+        "Fabián",
+        "Dis"
+      ],
+      "sex": 1,
+      "phash": "vize---narodni-socialiste",
+      "name": "Ivan Fabián"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miloš",
+        "Benedikt",
+        ""
+      ],
+      "sex": 1,
+      "name": "Miloš Benedikt"
+    },
+    {
+      "nameFull": [
+        "Doc. Phdr. et. PaeDr.",
+        "Zbyněk",
+        "Holub",
+        "PhD."
+      ],
+      "sex": 1,
+      "name": "Zbyněk Holub"
+    },
+    {
+      "nameFull": [
+        "Prof. PhDr.",
+        "Vladimír",
+        "Kremsa",
+        "PhD."
+      ],
+      "sex": 1,
+      "name": "Vladimír Kremsa"
+    }
+  ],
+  "color": "#aaa"
 }

@@ -42,6 +42,81 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.146Z",
-  "data": "msk/720"
+  "lastUpdate": "2020-08-06T07:56:51.091Z",
+  "data": "msk/720",
+  "reg": 720,
+  "program": {},
+  "links": [
+    "https://moravskoslezsky.pirati.cz/",
+    "https://www.facebook.com/cpsmsk/",
+    "https://twitter.com/PiratiMSK",
+    "https://www.instagram.com/msk_pirati/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Klusová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 720,
+      "links": [
+        "https://moravskoslezsky.pirati.cz/lide/zuzana-klusova/",
+        "https://www.facebook.com/zklusova",
+        "https://twitter.com/ZuzkaKlusova"
+      ],
+      "name": "Zuzana Klusová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Arnošt",
+        "Žídek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 720,
+      "name": "Arnošt Žídek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Nezhyba",
+        ""
+      ],
+      "sex": 1,
+      "reg": 720,
+      "name": "Jan Nezhyba"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Demel",
+        ""
+      ],
+      "sex": 1,
+      "reg": 720,
+      "name": "Jiří Demel"
+    },
+    {
+      "nameFull": [
+        "",
+        "Leonard",
+        "Varga",
+        ""
+      ],
+      "sex": 1,
+      "reg": 720,
+      "name": "Leonard Varga"
+    }
+  ],
+  "name": "Česká pirátská strana",
+  "short": "Piráti",
+  "hash": "pirati",
+  "logo": "/obecne/strany/loga/720-pirati.svg",
+  "color": "#000"
 }

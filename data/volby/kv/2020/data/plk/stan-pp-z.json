@@ -13,6 +13,53 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.030Z",
-  "data": "plk/stan-pp-z"
+  "lastUpdate": "2020-08-06T07:56:50.948Z",
+  "data": "plk/stan-pp-z",
+  "coalition": [
+    166,
+    1014,
+    5,
+    {
+      "name": "Idealisté",
+      "logo": "obecne/strany/loga/x-idealiste.png",
+      "color": "#00dcc2"
+    }
+  ],
+  "name": "JOSEF BERNARD A STAROSTOVÉ (STAN) s podporou Zelených, PRO Plzeň a Idealistů",
+  "program": {},
+  "links": [
+    "http://www.bernardastarostove.cz/",
+    "https://www.facebook.com/bernardastarostove",
+    "https://twitter.com/STAN_Plz"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Bernard",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "links": [
+        "https://www.josefbernard.cz/",
+        "https://www.facebook.com/BernardJosef2016",
+        "https://twitter.com/BernardHejtman"
+      ],
+      "name": "Josef Bernard"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Čížek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Pavel Čížek"
+    }
+  ],
+  "color": "#1ebdb7"
 }

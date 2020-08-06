@@ -31,6 +31,80 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.139Z",
-  "data": "zlk/1"
+  "lastUpdate": "2020-08-06T07:56:51.083Z",
+  "data": "zlk/1",
+  "reg": 1,
+  "program": {},
+  "links": [
+    "http://zlinsky.kdu.cz",
+    "https://www.facebook.com/kduzlinskykraj/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Čunek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "links": [
+        "https://www.kdu.cz/o-nas/nasi-lide/senatori/cunek",
+        "https://www.facebook.com/cunekj/",
+        "https://twitter.com/CunekJiri",
+        "https://www.instagram.com/jiri.cunek/"
+      ],
+      "name": "Jiří Čunek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Bazala",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "name": "Josef Bazala"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdislava",
+        "Odstrčilová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1,
+      "name": "Zdislava Odstrčilová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Teleky",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "name": "Robert Teleky"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Blahová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 1,
+      "name": "Michaela Blahová"
+    }
+  ],
+  "name": "KDU-ČSL",
+  "short": "KDU-ČSL",
+  "hash": "kdu-csl",
+  "logo": "/obecne/strany/loga/1-kdu-csl.svg",
+  "color": "#fec92f"
 }

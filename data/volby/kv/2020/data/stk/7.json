@@ -18,6 +18,46 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.012Z",
-  "data": "stk/7"
+  "lastUpdate": "2020-08-06T07:56:50.923Z",
+  "data": "stk/7",
+  "reg": 7,
+  "program": {},
+  "links": [
+    "http://stredocesky-kraj.cssd.cz",
+    "https://www.facebook.com/JistotyproStredocechy",
+    "https://www.instagram.com/cssdstredocesky"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Robin",
+        "Povšík",
+        ""
+      ],
+      "sex": 1,
+      "reg": 7,
+      "links": [
+        "https://www.facebook.com/Povsik",
+        "https://twitter.com/povsik"
+      ],
+      "name": "Robin Povšík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Aneta",
+        "Heřmanová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 7,
+      "name": "Aneta Heřmanová"
+    }
+  ],
+  "name": "Česká strana sociálně demokratická",
+  "short": "ČSSD",
+  "hash": "cssd",
+  "logo": "/obecne/strany/loga/7-cssd-2020.png",
+  "color": "#f70000"
 }

@@ -332,8 +332,62 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf"
   },
-  "lastUpdate": "2020-08-06T05:51:13.117Z",
-  "data": "jmk/stan-sol"
+  "lastUpdate": "2020-08-06T07:56:51.053Z",
+  "data": "jmk/stan-sol",
+  "coalition": [
+    166,
+    {
+      "name": "Hnutí SOL",
+      "logo": "obecne/strany/loga/x-hnuti-sol.jpg"
+    }
+  ],
+  "links": [
+    "https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj",
+    "http://www.hnutisol.cz",
+    "https://www.facebook.com/StarostoveProJizniMoravu",
+    "https://www.facebook.com/hnutiSOL",
+    "https://twitter.com/stan_jmk",
+    "https://www.instagram.com/hnutisol"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Lukl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "links": [
+        "https://www.facebook.com/frantisek.lukl",
+        "https://twitter.com/Frantisek_Lukl"
+      ],
+      "name": "František Lukl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Maleček",
+        ""
+      ],
+      "sex": 1,
+      "name": "Martin Maleček"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radomír",
+        "Pavlíček",
+        ""
+      ],
+      "sex": 1,
+      "name": "Radomír Pavlíček"
+    }
+  ],
+  "color": "#1ebdb7"
 }

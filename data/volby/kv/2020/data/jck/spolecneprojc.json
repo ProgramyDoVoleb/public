@@ -41,13 +41,6 @@
       ]
     },
     {
-      "name": "Tomáš Bouzek",
-      "quote": "Neutěšený stav vznikal hromaděním chyb v zemědělském, vodním i lesním hospodářství v minulosti a situace se zásadně nemění. Šlo o přístup krátkozraký, bez ohledu na přírodu a naše zdraví. ",
-      "links": [
-        "https://spolecneprojiznicechy.cz/#nasi-lidri"
-      ]
-    },
-    {
       "name": "Robert Huneš",
       "links": []
     },
@@ -231,8 +224,152 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://spolecneprojiznicechy.cz/#program"
   },
-  "lastUpdate": "2020-08-06T05:51:13.019Z",
-  "data": "jck/spolecneprojc"
+  "lastUpdate": "2020-08-06T07:56:50.934Z",
+  "data": "jck/spolecneprojc",
+  "coalition": [
+    1,
+    721
+  ],
+  "name": "Společně pro jižní Čechy",
+  "links": [
+    "https://spolecneprojiznicechy.cz/",
+    "https://www.hejtmantour.cz/",
+    "http://jiznicechy.kdu.cz",
+    "https://www.top09.cz/regiony/jihocesky-kraj/",
+    "https://www.facebook.com/jihocesky.kdu",
+    "https://www.facebook.com/TOP09.Jihocesky.kraj"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Talíř",
+        ""
+      ],
+      "sex": 1,
+      "reg": 1,
+      "links": [
+        "http://jihocesky.kdu.cz/o-nas/krajsky-vybor/talir-(2)",
+        "https://www.facebook.com/frantisek.talir",
+        "https://www.instagram.com/frantisek.talir"
+      ],
+      "name": "František Talíř"
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Huneš",
+        ""
+      ],
+      "sex": 1,
+      "name": "Robert Huneš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Šimon",
+        "Heller",
+        ""
+      ],
+      "sex": 1,
+      "name": "Šimon Heller"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Klíma",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Pavel Klíma"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Bartošek",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jan Bartošek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Kudláčková",
+        ""
+      ],
+      "sex": 2,
+      "name": "Michaela Kudláčková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Hladík",
+        ""
+      ],
+      "sex": 1,
+      "name": "Petr Hladík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Talíř",
+        ""
+      ],
+      "sex": 1,
+      "name": "Pavel Talíř"
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Macků",
+        ""
+      ],
+      "sex": 1,
+      "name": "Karel Macků"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Dvořák",
+        ""
+      ],
+      "sex": 1,
+      "name": "Zdeněk Dvořák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Hejl",
+        ""
+      ],
+      "sex": 1,
+      "name": "Jaroslav Hejl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Rudolf",
+        "Vodička",
+        ""
+      ],
+      "sex": 1,
+      "name": "Rudolf Vodička"
+    }
+  ],
+  "color": "#fec92f"
 }

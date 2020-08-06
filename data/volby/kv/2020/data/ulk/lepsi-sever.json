@@ -13,6 +13,36 @@
       ]
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.053Z",
-  "data": "ulk/lepsi-sever"
+  "lastUpdate": "2020-08-06T07:56:50.981Z",
+  "data": "ulk/lepsi-sever",
+  "coalition": [
+    1012,
+    1175
+  ],
+  "logo": "obecne/strany/loga/x-lepsisever.png",
+  "name": "Lepší sever",
+  "program": {},
+  "links": [
+    "http://www.lepsisever.cz",
+    "https://www.facebook.com/lepsisever",
+    "https://twitter.com/LepsiSever"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Klika",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "links": [
+        "https://www.facebook.com/KlikaUsteckyKraj",
+        "https://twitter.com/Martin_Klika"
+      ],
+      "name": "Martin Klika"
+    }
+  ],
+  "color": "#2d3469"
 }

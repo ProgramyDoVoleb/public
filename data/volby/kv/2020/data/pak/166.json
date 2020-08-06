@@ -9,7 +9,7 @@
     },
     {
       "reg": 166,
-      "name": "Hana Štepánová",
+      "name": "Hana Štěpánová",
       "photo": "hana-stepanova.jpg",
       "about": "Nyní pracuji čtvrtým rokem na pozici radní Pardubického kraje za hnutí STAN. Mou gescí je regionální rozvoj, evropské fondy a inovace. Před tím jsem byla 14 let starostkou obce Morašice na Litomyšlsku a také místopředsedkyní Mikroregionu Litomyšlsko. Původně jsem byla učitelka. Každá profese mě naučila mnoho potřebného pro profesi následující a posunula mě vpřed.",
       "quote": "Byla bych i nadále ráda tou, na kterou se můžete spolehnout."
@@ -34,16 +34,6 @@
       "photo": "david-simek.jpg",
       "about": "Jsem hrdý občan a starosta obce Příluka. Vystudoval jsem střední škola elektrotechnickou. Závodně jsem se v minulosti prováděl judo, rekreačně hokej, fotbal, cyklistika. Je mi 41. let.",
       "quote": "Již mě nebaví \"brblat v koutě\" cítím v sobě touhu změnit to, na co já a mé okolí brblá ..."
-    },
-    {
-      "name": "Hana Štěpánová",
-      "reg": 166,
-      "links": []
-    },
-    {
-      "name": "Oldřích Koblížek",
-      "reg": 166,
-      "links": []
     }
   ],
   "program": {
@@ -283,8 +273,138 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf"
   },
-  "lastUpdate": "2020-08-06T05:51:13.097Z",
-  "data": "pak/166"
+  "lastUpdate": "2020-08-06T07:56:51.027Z",
+  "data": "pak/166",
+  "reg": 166,
+  "links": [
+    "https://www.stan-pardubickykraj.cz",
+    "https://www.facebook.com/starostove.pardubicky",
+    "https://twitter.com/stan_pardk"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Matoušková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 166,
+      "links": [
+        "https://www.michaelamatouskova.cz",
+        "https://www.facebook.com/michmatouskova",
+        "https://twitter.com/michmatouskova1",
+        "https://www.instagram.com/michaela_matouskova1"
+      ],
+      "name": "Michaela Matoušková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Štěpánová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 166,
+      "name": "Hana Štěpánová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Hájek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Jiří Hájek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Oldřich",
+        "Koblížek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Oldřich Koblížek"
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Šimek",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "David Šimek"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Staněk",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Martin Staněk"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Dubský",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Tomáš Dubský"
+    },
+    {
+      "nameFull": [
+        "",
+        "Renata",
+        "Šedová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 166,
+      "name": "Renata Šedová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Paur",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Martin Paur"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Křivka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 166,
+      "name": "Jan Křivka"
+    }
+  ],
+  "name": "STAROSTOVÉ A NEZÁVISLÍ",
+  "short": "STAN",
+  "hash": "stan",
+  "logo": "/obecne/strany/loga/166-stan.svg",
+  "color": "#1ebdb7"
 }

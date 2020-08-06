@@ -43,6 +43,83 @@
       "about": "lídr Pelhřimovska. Jak sám říká, do politiky by nevstupoval, pokud by jej něco netížilo. Ale jelikož chtěl pomoci uspíšit příchod doby „postbabišovské“, vstoupil do TOP 09. Věnuje se především oblasti cestovního ruchu a je zakladatelem agentury Dobrý den. Rád by také prosadil vzdělávací program „Poznej svůj kraj“, který by dětem přiblížil Vysočinu. Mezi jeho koníčky patří hudba nebo turistika."
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.112Z",
-  "data": "vys/pro-top-vysocinu"
+  "lastUpdate": "2020-08-06T07:56:51.047Z",
+  "data": "vys/pro-top-vysocinu",
+  "coalition": [
+    721,
+    40,
+    55,
+    {
+      "name": "Třebíč občanům",
+      "logo": "obecne/strany/loga/x-trebic-obcanum.png",
+      "color": "#000"
+    }
+  ],
+  "logo": "obecne/strany/loga/x-pro-top-vysocinu.jpg",
+  "name": "Pro TOP Vysočinu",
+  "program": {},
+  "links": [
+    "https://www.facebook.com/protopvysocinu/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Dvořák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.top09.cz/volby/2020-krajska-zastupitelstva/zdenek-dvorak-27359.html",
+        "https://www.facebook.com/zdenecekd"
+      ],
+      "name": "Zdeněk Dvořák"
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Kutinová",
+        ""
+      ],
+      "sex": 2,
+      "name": "Blanka Kutinová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Matějka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Jan Matějka"
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Šimo",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Lenka Šimo"
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Rafaj",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "name": "Luboš Rafaj"
+    }
+  ],
+  "color": "#531a92"
 }

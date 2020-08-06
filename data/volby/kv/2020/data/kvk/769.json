@@ -42,45 +42,273 @@
         "headline": "ŠŤASTNÉ NĚMÉ TVÁŘE",
         "copy": "Odpovědnost musíme mít nejen k prostředí, ve kterém žijeme, ale také ke všem jeho obyvatelům. Prosazujeme podporu spolků, které se starají o opuštěná či raněná zvířata a dále rozvíjíme spolkovou činnost týkající se našich zvířecích kamarádů, což v konečném důsledku pomůže nejen jim, ale i nám."
       }
-    ]
+    ],
+    "source": "https://www.skp-rn.cz/krajske-volby"
   },
   "people": [
     {
       "name": "Josef Zickler",
-      "reg": 769,
-      "links": [
-        {
-          "url": "https://www.facebook.com/profile.php?id=100010051891861"
-        },
-        {
-          "url": "https://twitter.com/JosefZickler"
-        },
-        {
-          "url": "https://www.instagram.com/josefzickler"
-        }
-      ]
+      "reg": 769
     },
     {
-      "name": "Mgr. Bc. Radka Kvasničková",
+      "name": "Radka Kvasničková",
       "reg": 769,
       "links": []
     },
     {
-      "name": "Ing. Luděk Beran",
+      "name": "Luděk Beran",
       "reg": 769,
       "links": []
     },
     {
-      "name": "Ing. Mgr. Miroslav Šůs",
+      "name": "Miroslav Šůs",
       "reg": 769,
       "links": []
     },
     {
-      "name": "MUDr. Věra Blechová",
+      "name": "Věra Blechová",
       "reg": 769,
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T05:51:13.045Z",
-  "data": "kvk/769"
+  "lastUpdate": "2020-08-06T07:56:50.967Z",
+  "data": "kvk/769",
+  "reg": 769,
+  "logo": "obecne/strany/loga/769-SKP-RN.jpg",
+  "name": "STRANA KONZERVATIVNÍ PRAVICE S PODPOROU NEZÁVISLÝCH ODBORNÍKŮ",
+  "links": [
+    "https://www.skp-rn.cz",
+    "https://www.facebook.com/radnaroda2017",
+    "https://instagram.com/SKP.RN"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Zickler",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "links": [
+        "https://www.facebook.com/profile.php?id=100010051891861",
+        "https://twitter.com/JosefZickler",
+        "https://www.instagram.com/josefzickler"
+      ],
+      "name": "Josef Zickler"
+    },
+    {
+      "nameFull": [
+        "Mgr. Bc.",
+        "Radka",
+        "Kvasničková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Radka Kvasničková"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Luděk",
+        "Beran",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Luděk Beran"
+    },
+    {
+      "nameFull": [
+        "Ing. Mgr.",
+        "Miroslav",
+        "Šůs",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Miroslav Šůs"
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Věra",
+        "Blechová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Věra Blechová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Ponert",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Miroslav Ponert"
+    },
+    {
+      "nameFull": [
+        "MVDr.",
+        "Václava",
+        "Molcarová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Václava Molcarová"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milada",
+        "Šulcová",
+        "LL.M."
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Milada Šulcová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marta",
+        "Hondlíková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Marta Hondlíková"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Cervan",
+        "Ph.D."
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "David Cervan"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Marek",
+        "Kroha",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Marek Kroha"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Majer",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Petr Majer"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Rojtová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Michaela Rojtová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Riedl",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Tomáš Riedl"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Hanzlík",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Vojtěch Hanzlík"
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Aufrichtig",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Michal Aufrichtig"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kassal",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Jiří Kassal"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Baštová",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Hana Baštová"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Tučáková",
+        ""
+      ],
+      "sex": 2,
+      "reg": 769,
+      "name": "Jana Tučáková"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Pocklan",
+        ""
+      ],
+      "sex": 1,
+      "reg": 769,
+      "name": "Pavel Pocklan"
+    }
+  ],
+  "short": "SKP - ŘN",
+  "hash": "skp-rn",
+  "color": "#51f6ad"
 }
