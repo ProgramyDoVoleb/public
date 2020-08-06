@@ -39,67 +39,1094 @@
   ],
   "logo": "obecne/strany/loga/x-stan-zeleni-nezavisli.png",
   "name": "STAN, Zelení, Nezávislí pro Moravskoslezský kraj",
-  "program": {},
+  "program": {
+    "source": "http://namtonenijedno.cz/volebni-program/",
+    "parts": [
+      {
+        "headline": "Zdravotnictví",
+        "parts": [
+          {
+            "copy": "Nepodpoříme další rušení nemocnic, ani klíčových oddělení ukrývající se pod pojmem “optimalizace” zdravotní péče v regionu. Musíme investovat zejména do lidí – hlavní prioritou je větší podpora zdravotníků, lékařů i nelékařů, v nemocnicích i v ambulancích. Chceme zajistit maximální zkrácení dojezdů záchranné služby do okrajových částí kraje a podporovat dostupnost pohotovostní lékařské služby."
+          },
+          {
+            "headline": "Dostupnost zdravotnictví",
+            "copy": "Dostupnost zdravotnictví je naší prioritou. Hlavním cílem musí být poskytování zdravotní péče a pomoci druhým, nikoli ekonomické výsledky. Mezi medicínskými a ekonomickými cíli je však třeba neustále hledat rovnováhu tak, abychom mohli dlouhodobě finančně a personálně zajistit dostupnou péči pro všechny."
+          },
+          {
+            "headline": "Změna financování zdravotní péče",
+            "copy": "Důležité je podílet se na finanční stabilizaci jednotlivých krajských nemocnic v souvislosti s pandemií Covid-19. Pohled na zdravotnictví po době koronavirové se změnil. Nadále nemůžeme vést nemocnice jako firmu. Firma musí prosperovat, nemocnice musí poskytovat kvalitní a dostupnou lékařskou péči a peníze na tuto základní službu občanům je třeba v rozpočtu vždy najít."
+          },
+          {
+            "headline": "Pohotovostní lékárnu do 20 minut odkudkoliv",
+            "copy": "Zajistíme vznik pohotovostních lékáren tak, aby byly v dojezdové vzdálenosti do 20 minut osobním autem z jakéhokoli kouta našeho kraje."
+          },
+          {
+            "headline": "První pomoc a osvěta k záchraně lidského života",
+            "copy": "Podpoříme vznik dalších stanovišť AED (automatizovaný externí defibrilátor), budeme nadále podporovat systém"
+          }
+        ]
+      },
+      {
+        "headline": "Vzdělávání",
+        "parts": [
+          {
+            "copy": "Kraj jako zřizovatel středních a vyšších odborných škol výrazně ovlivňuje podobu a kvalitu vzdělávání. Úkolem školy je pomoci každému rozvinout svůj talent. Chceme, aby se mladým lidem dostalo takové průpravy na život, která z nich vychová všestranné, schopné a sebevědomé lidi. Investice do kvalitního vzdělání pro všechny se vyplatí!"
+          },
+          {
+            "headline": "Školství pro 21. století",
+            "copy": "Žijeme v rychle se měnícím světě, důležitou součástí vzdělávání je vybavit studenty přenositelnými kompetencemi, jako je schopnost vyhodnocovat informace, pracovat v týmu, používat mateřský i cizí jazyk nebo digitální gramotnost.Podpoříme výuku finanční a mediální gramotnosti. Podstatně rozšíříme environmentální vzdělávání, výchovu a osvětu.Ve spolupráci s řediteli středních škol chceme zvyšovat prostupnost a flexibilitu studijních oborů. Podpoříme spolupráci středních škol s vysokými školami, kvalitnější výuku cizích jazyků, mezinárodní výměny a zahraniční stáže. Zapojíme moderní prvky výuky a podpoříme aplikování platforem pro živou výuku na dálku."
+          },
+          {
+            "headline": "Prohloubení spolupráce škol se soukromým sektorem",
+            "copy": "Kvalifikovaní lidé jsou základem pro uplatnění na trhu práce. Řemeslo má zlaté dno, usilujeme proto o zkvalitnění učňovského a odborného školství a jeho větší propojení s praxí. Podpoříme duální vzdělávání, kdy odborný výcvik zajišťují přímo podniky. Ve spolupráci s firmami zajistíme studentům možnost seznámit se s nejmodernějšími výrobními technologiemi a rozvíjet všestranné praktické dovednosti."
+          },
+          {
+            "headline": "Zkvalitnění škol",
+            "copy": "Využijeme moderní metodiku hodnocení kvality škol k cílené pomoci těm, které v současné době zaostávají. Kvalitní školy oceníme. Ve středních a vyšších odborných školách zřizovaných krajem přenecháme vyšší pravomoci ředitelům a ředitelkám. Omezíme jejich byrokratickou zátěž, mimo jiné zaváděním pozic sdílených administrativních pracovníků. Finančně podpoříme soustavné vzdělávání učitelů. Ustavíme institut krajského školského koordinátora."
+          }
+        ]
+      },
+      {
+        "headline": "Životní prostředí",
+        "parts": [
+          {
+            "copy": "Chceme zdravou krajinu, čistý vzduch a zodpovědné zacházení s přírodními zdroji. Záleží nám na tom, aby byl náš kraj přívětivým místem k životu pro nás i budoucí generace. Řešení sucha a opatření proti povodním se musí stát jednou z hlavních priorit kraje. Usilujeme o větší ochranu zemědělské půdy před erozí a znečištěním chemickými látkami."
+          },
+          {
+            "headline": "Obnova krajiny",
+            "copy": "Naší prioritou je připravit krajinu na extrémy počasí související s klimatickou změnou. Obranou proti suchu i povodním je zlepšit schopnost krajiny zadržovat vodu. Podpoříme obnovu mokřadů, tůní, drobných nádrží a dalších krajinných prvků sloužících ke zpomalení odtoku vody. Odmítáme investice do vodního koridoru Dunaj – Odra – Labe."
+          },
+          {
+            "headline": "Kvalita ovzduší a ochrana klimatu",
+            "copy": "Snižování „krajského příspěvku“ k emisím uhlíku je naším klíčovým závazkem. Jeho naplňování se musí promítnout do všech činností kraje. Budeme usilovat o snižování závislosti na fosilních palivech a větší soběstačnost ve výrobě energie, mimo jiné podporou obnovitelných zdrojů pro obce a domácnosti. Budeme napomáhat rozvoji projektů komunitní energetiky. Podpoříme nízkoemisní výstavbu a moderní průmyslové technologie šetrnější k životnímu prostředí. Budeme dbát o naplňování krajské adaptační strategie na dopady změn klimatu. Metodicky a finančně podpoříme obce v zavádění adaptačních opatření a snižování emisí. Zlepšíme systém podávání žádostí o kotlíkové dotace."
+          },
+          {
+            "headline": "Lepší nakládání s odpady (oběhové hospodářství)",
+            "copy": "Efektivnějším využíváním přírodních zdrojů můžeme výrazně přispět ke snižování emisí skleníkových plynů i úspoře finančních prostředků. Předcházení vzniku odpadů, jejich opětovné využití a recyklace jsou jednou z našich priorit. Podpoříme komunitní projekty zpracování odpadů na výrobu elektřiny a tepla. Jsme proti rozšiřování spalovny nebezpečných odpadů v Mariánských Horách. Krajské organizace musí jít příkladem ve snižování množství vyprodukovaných odpadů a zlepšování podmínek jejich recyklace. Namísto odkladu konce skládkování chceme podporovat moderní technologie zpracování odpadů a vznik přetřiďovacích stanic."
+          }
+        ]
+      },
+      {
+        "headline": "Veřejná správa a eGovernment",
+        "parts": [
+          {
+            "headline": "Úředník pro lidi - ne naopak",
+            "copy": "Stát má lidem sloužit, ne jim překážet. Úředník je v komunikaci s občanem prostředníkem, který by měl umět ochotně pomoci a poradit. Povedeme krajské úřady tak, aby zaměstnanci úřadů proaktivně hledali cesty, jak lidem ulehčit a zpříjemnit vyřizování na úřadě. Služba občanům musí být hlavní motivací každého úředníka."
+          },
+          {
+            "headline": "Přesun úřadů do regionu",
+            "copy": "Prosadíme princip subsidiarity, kdy co nejvíce veřejných potřeb budou zajišťovat obce a následně kraje. Kraj je místo, kde se má rozhodovat o věcech, do kterých už nedohlédne stát a na které zároveň nedosáhne obec.Budeme vytrvale iniciovat decentralizaci moci a přesun úřadů do regionů. V rámci přesunu úřadů budeme navrhovat přesídlení Českého báňského úřadu. Přineseme tak do regionu nová pracovní místa."
+          },
+          {
+            "headline": "Audit veškeré agendy",
+            "copy": "Provedeme důkladný audit veškeré agendy a činností na krajských úřadech. Zasadíme se o postupné rušení zbytných agend a zákonů. Snížíme byrokracii a uvolníme ruce úředníkům na agendy nezbytné."
+          },
+          {
+            "headline": "Open data",
+            "copy": "Sdílení dat a jejich otevření široké veřejnosti pomůže k větší transparentnosti, jednodušší porovnatelnosti a vzniku nástrojů a aplikací k lepší efektivnosti využití dat. Zasadíme se o zveřejňování informací týkajících se rozpočtu, odpadového hospodářství, měření kvality ovzduší či cen veřejných zakázek v jednotlivých oblastech. Prosadíme, aby kraj šel příkladem v sociálně odpovědném zadávání zakázek a zelených veřejných investicích."
+          }
+        ]
+      },
+      {
+        "headline": "Kultura a cestovní ruch",
+        "parts": [
+          {
+            "copy": "Důležitou součástí kvality života lidí je celkový kulturní a společenský rozvoj regionu. Podporou regionální kultury chceme zvyšovat atraktivitu kraje pro mladé lidi i pro návštěvníky. Kraj také hraje výraznou roli v oblasti památkové péče."
+          },
+          {
+            "headline": "Živá regionální kultura",
+            "copy": "Prostřednictvím grantové politiky kraje chceme podporovat rozvoj regionální kultury, např. amatérských divadel, hudebních kapel a souborů, obecních a městských knihoven a kulturně-vzdělávacích a volnočasových aktivit. Zajistíme propagaci místní kultury formou ocenění udělovaných krajem v oblasti kultury a umění. Udržíme soustavu muzeí a galerií. Zavedeme rodinné slevy v hradech, zámcích a kulturních institucích patřících kraji."
+          },
+          {
+            "headline": "Zachování a obnova kulturních památek",
+            "copy": "Zvýšíme investice do oprav a údržby památek. Prostřednictvím dotačních programů, administrativní a technické podpory pomůžeme obcím v péči o památky v jejich vlastnictví tak, aby se staly turisticky atraktivními. Budeme podporovat aktivity neziskových a dobrovolnických organizací v oblasti ochrany a údržby kulturních památek v kraji. Zasadíme se o záchranu objektů, jež tvoří architektonickou paměť kraje, jako je bývalý obchodní dům Ostravica – Textilia v Ostravě."
+          },
+          {
+            "headline": "Udržitelný rozvoj cestovního ruchu",
+            "copy": "Budeme podporovat šetrné formy cestovního ruchu, které umožní zachování přírodních a kulturních hodnot pro budoucí generace. Zavedeme rodinné pasy, které pomohou zvýšit návštěvnost památek. Zaměříme se na propagaci méně známých koutů regionu a zvyšování jejich atraktivnosti pro turisty."
+          }
+        ]
+      },
+      {
+        "headline": "Doprava",
+        "parts": [
+          {
+            "headline": "Atraktivnější a dostupná veřejná doprava",
+            "copy": "Zavedeme celokrajskou roční jízdenku za cenu 3 650 Kč, tj. za 10 Kč na den. Ta umožní jejím držitelům cestovat za přijatelnou cenu veřejnou dopravou po celém území kraje a bude je motivovat k tomu, aby využívali veřejnou dopravu místo individuální. Budeme také pokračovat v modernizaci autobusové i železniční dopravy a zatraktivníme ji pro širší vrstvy obyvatel."
+          },
+          {
+            "headline": "Rychlá, chytrá a ekologická veřejná doprava",
+            "copy": "Elektrifikujeme další regionální železniční tratě a učiníme tak dopravu vlakem ekologičtější, rychlejší a pohodlnější. Tam, kde chybí kvalitní železniční spojení, zavedeme nové přímé autobusové linky spojující hlavní krajská sídla. Zřídíme veřejnou dopravu až do místa bydliště na objednání navazující na hlavní autobusové a železniční uzly v kraji."
+          },
+          {
+            "headline": "Podpora cyklodopravy",
+            "copy": "Začneme budovat páteřní krajské cyklotrasy, které umožní každodenní bezpečnou dopravu cyklistů mezi nedalekými městy a obcemi i turistickou dopravu na delší vzdálenosti v kraji. Zřídíme pozici krajského cyklokoordinátora."
+          }
+        ]
+      },
+      {
+        "headline": "Zmírníme dopady útlumu těžby uhlí",
+        "parts": [
+          {
+            "copy": "Kraj musí prosazovat takovou strategii odklonu od uhlí, která bude minimalizovat dopady na zaměstnance uzavíraných dolů a napomůže rozvoji zdravé regionální ekonomiky. Jako starostové hornických obcí nasloucháme potřebám lidí v našem regionu a jsme připraveni na ně reagovat."
+          },
+          {
+            "headline": "Pracovní příležitosti s vysokou přidanou hodnotou",
+            "copy": "Podpoříme proměnu areálů uzavřených dolů na průmyslové zóny.  Budeme přitom klást důraz na posun od montoven k provozům s vyšší přidanou hodnotou, podporu inovací a nových technologií šetrných k životnímu prostředí. Zasadíme se o efektivní využití evropské podpory pro vznik nových pracovních míst, například v sektoru obnovitelných zdrojů energie."
+          },
+          {
+            "headline": "Sociální programy pro zaměstnance dolů",
+            "copy": "Uzavření dolů nesmí bolet horníky ani obce v regionu. Prosadíme snížení laťky pro získání hornického důchodu a nárok horníků na předčasný důchod od 50 let. Podpoříme hornické odbory v požadavku na speciální výsluhové příspěvky. Pro bývalé horníky zajistíme rekvalifikace dle jejich potřeb."
+          }
+        ]
+      },
+      {
+        "headline": "Ekonomika kraje",
+        "parts": [
+          {
+            "copy": "Obnova ekonomiky po koronaviru je příležitostí k posilování odolnosti, udržitelnosti a soběstačnosti regionu. Vytvoříme prostředí, v němž se bude dařit rozvoji moderních technologií a chytrých průmyslových řešení. Podpoříme vznik pracovních míst s vysokou přidanou hodnotou. Fandíme lokální ekonomice."
+          },
+          {
+            "headline": "Místní produkce pro místní spotřebu",
+            "copy": "Fungující lokální ekonomika je základem zdravější a udržitelnější budoucnosti kraje. Podpoříme místní podnikatele a nápady. Budeme pomáhat iniciativám typu komunitně podporovaného zemědělství, farmářských obchodů, prodeje ze dvora, družstevních a sociálních podniků. Rozšíříme dotační programy na podporu venkovských prodejen. Zintenzivníme spolupráci kraje s Národní sítí Místních akčních skupin. Podpoříme rozvoj mikroregionů a spolupráce mezi obcemi."
+          },
+          {
+            "headline": "Více peněz do regionu",
+            "copy": "Budeme bojovat za úpravu koeficientu rozdělení rozpočtového určení daní mezi kraji. Náš kraj dostává na občana nejméně peněz z celé republiky. Zasadíme se za spravedlivé rozdělení veřejných prostředků, abychom mohli efektivně řešit problémy, jako je nezaměstnanost, škody na životním prostředí či odliv obyvatel z regionu."
+          }
+        ]
+      },
+      {
+        "headline": "Sport a volný čas",
+        "parts": [
+          {
+            "copy": "Od základu změníme stávající „nahodilý“ roční grantový systém přidělování peněz na „systémový“ víceletý grantový systém, který zajistí všem větší stabilitu. Pro pořadatele kulturní nebo sportovní akce není nic horšího než nejistota, jestli kraj příští rok akci opět podpoří. Kvalitní událost je potřeba připravovat dva i více let dopředu, což současný systém dotací neumožňuje. Stejně tak jsou omezeny sportovní kluby při plánování soutěží, soustředění a dalších aktivit. V oblasti dotací a grantů proto musí dojít k zásadním změnám, které stabilizují sport i další volnočasové aktivity."
+          }
+        ]
+      }
+    ]
+  },
   "links": [
     "http://namtonenijedno.cz/",
-    "https://www.facebook.com/stanzeleninezavislimskraj/"
+    "https://www.facebook.com/stanzeleninezavislimskraj/",
+    "https://www.instagram.com/stan.zeleni.nezavisli/"
   ],
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Lipner",
         ""
       ],
-      "sex": 1,
-      "reg": 166,
+      "reg": 1,
+      "work": "starosta obce Horní Suchá",
       "links": [
-        "https://www.facebook.com/janlipnerSTAN/",
-        "https://twitter.com/JanLipner"
+        "https://www.facebook.com/janlipnerSTAN",
+        "https://twitter.com/JanLipner",
+        "mailto:jan.lipner@stan.cz"
       ],
+      "sex": 1,
       "photo": "jan-lipner.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Martin",
         "Polášek",
         ""
       ],
-      "sex": 1,
-      "reg": 88
+      "reg": 88,
+      "work": "starosta obce Těrlicko",
+      "links": [
+        "https://www.facebook.com/martin.polasek.58",
+        "mailto:martin.polasek@nezavisli.cz"
+      ],
+      "sex": 1
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ondřej",
         "Syrovátka",
         ""
       ],
-      "sex": 1,
       "reg": 5,
+      "work": "místostarosta Nového Jičína",
+      "links": [
+        "https://www.facebook.com/ondrej.syrovatka",
+        "https://twitter.com/OndrejSyrovatka",
+        "mailto:ondrej.syrovatka@gypri.cz"
+      ],
+      "sex": 1,
       "photo": "ondrej-syrovatka.jpg"
     },
     {
       "nameFull": [
-        "",
-        "René",
-        "Šmotek",
+        "Mgr.",
+        "Jiří",
+        "Jureček",
         ""
       ],
-      "sex": 1,
-      "reg": 5
+      "reg": 1,
+      "work": "starosta městského obvodu Ostrava - Hošťálkovice",
+      "links": [
+        "https://www.facebook.com/jiri.jurecek.1",
+        "mailto:jjurecek@hostalkovice.ostrava.cz"
+      ],
+      "sex": 1
     },
     {
       "nameFull": [
         "",
+        "Petr",
+        "Becher",
+        ""
+      ],
+      "reg": 88,
+      "work": "ředitel nakladatelství LIBREX",
+      "links": [
+        "https://www.facebook.com/petr.becher.1",
+        "mailto:petr.becher.librex@gmail.com"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Michael",
+        "Rataj",
+        "Ph.D."
+      ],
+      "reg": 1,
+      "work": "starosta obce Branka u Opavy",
+      "links": [
+        "https://www.facebook.com/starostove/",
+
+        "mailto:michael.rataj@outlook.com"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Bc.A.",
+        "René",
+        "Šmotek",
+        ""
+      ],
+      "reg": 5,
+      "work": "herec",
+      "links": [
+        "https://www.facebook.com/rene.smotek",
+
+        "mailto:smotek.r@seznam.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Plandor",
+        "Ph.D."
+      ],
+      "reg": 88,
+      "work": "zastupitel města Štramberk, IT specialista",
+      "links": [
+        "https://www.facebook.com/david.plandor",
+
+        "mailto:plandor@post.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Czepczorová",
+        ""
+      ],
+      "reg": 1,
+      "work": "starostka obce Bukovec",
+      "links": [
+        "https://www.facebook.com/monika.czepczorova.3",
+
+        "mailto:monika.czepczorova@bukovec.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Patrik",
+        "Hujdus",
+        ""
+      ],
+      "reg": 88,
+      "work": "starosta městského obvodu Ostrava - Mariánské Hory a Hulváky",
+      "links": [
+        "https://www.facebook.com/patrik.hujdus",
+        "https://twitter.com/patrikhujdus?lang=cs",
+        "mailto:patrik.hujdus@nezavisli.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr.",
         "Michaela",
         "Šebelová",
         ""
       ],
-      "sex": 2,
-      "reg": 99
+      "reg": 5,
+      "work": "starostka obce Kunčice pod Ondřejníkem",
+      "links": [
+        "https://www.facebook.com/stranazelenych/",
+        "mailto: m.sebelova@fyzioterapie-beskydy.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Letocha",
+        ""
+      ],
+      "reg": 5,
+      "work": "zastupitel města Karviná, podnikatel v marketingu",
+      "links": [
+        "https://www.facebook.com/letochapetr/",
+        "https://twitter.com/petr_letocha",
+        "mailto:petr@konver.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Hana",
+        "Bližňáková",
+        ""
+      ],
+      "reg": 1,
+      "work": "starostka obce Dobroslavice",
+      "links": [
+        "https://www.facebook.com/starostove/",
+
+        "mailto:starostka@dobroslavice.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Jekl",
+        ""
+      ],
+      "reg": 1,
+      "work": "učitel",
+      "links": [
+        "mailto:jiri.jekl@post.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Orel",
+        ""
+      ],
+      "reg": 5,
+      "work": "senátor",
+      "links": [
+        "https://www.facebook.com/orelsenator/",
+
+        "mailto:orel@csopnj.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Hana",
+        "Šutovská",
+        ""
+      ],
+      "reg": 5,
+      "work": "místostarostka města Bruntál",
+      "links": [
+        "https://www.facebook.com/hana.sutovska",
+
+        "mailto:hanasutovska@seznam.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Paschek",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta města Hlučín",
+      "links": [
+        "https://www.facebook.com/starostove/",
+
+        "mailto:paschek.pavel@seznam.cz"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Alena",
+        "Hasáková",
+        ""
+      ],
+      "reg": 1,
+      "work": "učitelka",
+      "links": [
+        "https://www.facebook.com/alena.hasakova",
+
+        "mailto:hasakova@seznam.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dennis",
+        "Hennhofer",
+        ""
+      ],
+      "reg": 5,
+      "work": "učitel",
+      "links": [
+        "https://www.facebook.com/dennis.hennhofer",
+
+        "mailto:dennishennhofer@gmail.com"
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Naděžda",
+        "Kubalová",
+        ""
+      ],
+      "reg": 5,
+      "work": "místostarostka města Orlová",
+      "links": [
+        "https://www.facebook.com/nadezda.kubalova.1",
+
+        "mailto:nadezda.kubalova@centrum.cz"
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Marian",
+        "Kotas",
+        ""
+      ],
+      "reg": 1,
+      "work": "jednatel stavební firmy",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kutač",
+        ""
+      ],
+      "reg": 88,
+      "work": "produktový manažer CK",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavla",
+        "Brady",
+        ""
+      ],
+      "reg": 5,
+      "work": "soudní znalkyně",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr. et Bc.",
+        "Roman",
+        "Šigut",
+        ""
+      ],
+      "reg": 1,
+      "work": "zastupitel města Krnov, státní zaměstnanec drážní inspekce",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Helena",
+        "Pešatová",
+        ""
+      ],
+      "reg": 1,
+      "work": "starostka města Frýdlant nad Ostravicí",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václav",
+        "Polok",
+        ""
+      ],
+      "reg": 88,
+      "work": "soudní znalec",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Dalibor",
+        "Hudec",
+        "MBA"
+      ],
+      "reg": 5,
+      "work": "primář dětského oddělení SN v Opavě",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Martiňák",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Horní Tošanovice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jindřich",
+        "Feber",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Albrechtice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petra",
+        "Ficková",
+        ""
+      ],
+      "reg": 88,
+      "work": "starostka obce Horní Bludovice",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladan",
+        "Mácha",
+        ""
+      ],
+      "reg": 5,
+      "work": "provozovatel kulturní památky Bartošovický mlýn",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lukáš",
+        "Kubný",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Kobeřice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Vítězslav",
+        "Dostál",
+        ""
+      ],
+      "reg": 1,
+      "work": "cestovatel",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Kateřina",
+        "Plintová",
+        ""
+      ],
+      "reg": 88,
+      "work": "ředitelka ZŠ",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavla",
+        "Adamcová",
+        ""
+      ],
+      "reg": 5,
+      "work": "starostka obce Hodslavice",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Luděk",
+        "Šimko",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta města Rýmařov",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "doc. RNDr.",
+        "Tomáš",
+        "Hudeček",
+        "Ph. D."
+      ],
+      "reg": 1,
+      "work": "vysokoškolský pedagog",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dalibor",
+        "Dudek",
+        ""
+      ],
+      "reg": 88,
+      "work": "starosta obce Dolní Domaslavice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Vrchovský",
+        ""
+      ],
+      "reg": 5,
+      "work": "novinář",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Birgus",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Litultovice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Flašar",
+        ""
+      ],
+      "reg": 1,
+      "work": "trenér ledního hokeje",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dáša",
+        "Murycová",
+        ""
+      ],
+      "reg": 88,
+      "work": "starostka obce Doubrava",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "David",
+        "Čech",
+        ""
+      ],
+      "reg": 5,
+      "work": "statutární zástupce ředitele střední školy",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Richard",
+        "Dudek",
+        "Dis."
+      ],
+      "reg": 1,
+      "work": "radní městského obvodu Radvanice a Bartovice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Chorzempa",
+        ""
+      ],
+      "reg": 1,
+      "work": "IT specialista",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Lizák",
+        ""
+      ],
+      "reg": 88,
+      "work": "majitel obchodní společnosti",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Gabriela",
+        "Jahůdka Vaníková",
+        ""
+      ],
+      "reg": 5,
+      "work": "lékařka",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Blokša",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Pržno",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr. et Mgr.",
+        "Pavel",
+        "Kadlec",
+        "DiS."
+      ],
+      "reg": 5,
+      "work": "místopředseda Institutu vzdělávání a rozvoje",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Neděla",
+        ""
+      ],
+      "reg": 88,
+      "work": "starosta obce Bruzovice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Bártek",
+        ""
+      ],
+      "reg": 5,
+      "work": "ředitel Beskydského divadla, radní města",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martin",
+        "Čech",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta města Vratimov",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladimíra",
+        "Machalová",
+        ""
+      ],
+      "reg": 1,
+      "work": "kunsthistorička",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Zechová",
+        ""
+      ],
+      "reg": 1,
+      "work": "starostka obce Velké Heraltice",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Simona",
+        "Streitová",
+        ""
+      ],
+      "reg": 5,
+      "work": "všeobecná sestra",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Buzek",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Dolní Lutyně",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Svatopluk",
+        "Běrský",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Janovice",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Lefner",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta městského obvodu Nová Ves",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Gabzdyl",
+        ""
+      ],
+      "reg": 5,
+      "work": "zastupitel města Příbor",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Borski",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta obce Hrádek",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Němeček",
+        ""
+      ],
+      "reg": 1,
+      "work": "předseda odborové organizace",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Ertelt",
+        ""
+      ],
+      "reg": 1,
+      "work": "starosta města Fulnek",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Rostislav",
+        "Stoček",
+        ""
+      ],
+      "reg": 5,
+      "work": "obchodní manažer v IT",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Helena",
+        "Rašová",
+        ""
+      ],
+      "reg": 1,
+      "work": "starostka obce Jakartovice",
+
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "Ing. MUDr.",
+        "Miroslav",
+        "Přádka",
+        ""
+      ],
+      "reg": 1,
+      "work": "lékař",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Patrik",
+        "Wehovský",
+        ""
+      ],
+      "reg": 1,
+      "work": "IT specialista",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Běčák",
+        ""
+      ],
+      "reg": 5,
+      "work": "taneční mistr",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Luděk",
+        "Macura",
+        ""
+      ],
+      "reg": 1,
+      "work": "energetický poradce",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Šoustal",
+        ""
+      ],
+      "reg": 1,
+      "work": "státní zaměstnanec",
+
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Votýpka",
+        ""
+      ],
+      "reg": 1,
+      "work": "projektový manažer",
+
+      "sex": 1
     }
   ],
   "color": "#60b44c"
