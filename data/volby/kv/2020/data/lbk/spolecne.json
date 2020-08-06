@@ -177,7 +177,7 @@
     ],
     "source": "https://www.spolecneprolibereckykraj.cz/clanek/detail/spolecne-pro-liberecky-kraj"
   },
-  "lastUpdate": "2020-08-06T07:56:50.997Z",
+  "lastUpdate": "2020-08-06T08:10:45.383Z",
   "data": "lbk/spolecne",
   "coalition": [
     1,
@@ -204,7 +204,7 @@
         "https://www.facebook.com/jiri.klapste",
         "https://www.instagram.com/jiriklapste"
       ],
-      "name": "Jiří Klápště"
+      "photo": "jiri-klapste.jpg"
     },
     {
       "nameFull": [
@@ -215,7 +215,10 @@
       ],
       "sex": 1,
       "reg": 1,
-      "name": "Štěpán Matek"
+      "links": [
+        "https://www.spolecneprolibereckykraj.cz/kandidat/matek-stepan"
+      ],
+      "photo": "stepan-matek.jpg"
     },
     {
       "nameFull": [
@@ -226,7 +229,10 @@
       ],
       "sex": 1,
       "reg": 99,
-      "name": "Jiří Šolc"
+      "links": [
+        "https://www.spolecneprolibereckykraj.cz/kandidat/solc-jiri"
+      ],
+      "photo": "jiri-solc.jpg"
     },
     {
       "nameFull": [
@@ -237,7 +243,10 @@
       ],
       "sex": 1,
       "reg": 1,
-      "name": "Josef Šimůnek"
+      "links": [
+        "https://www.spolecneprolibereckykraj.cz/kandidat/simunek-josef"
+      ],
+      "photo": "josef-simunek.jpg"
     },
     {
       "nameFull": [
@@ -248,7 +257,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Miloslav Václav"
+      "links": [
+        "https://www.spolecneprolibereckykraj.cz/kandidat/miloslav-vaclav"
+      ],
+      "photo": "miloslav-vaclav.jpg"
     },
     {
       "nameFull": [
@@ -258,8 +270,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Lenka Procházková"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -269,8 +280,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Jiří Vondráček"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -280,8 +290,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Daniela Šebestová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -291,8 +300,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Tomáš Veber"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -302,8 +310,7 @@
         "MBA"
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Libor Šmejda"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -313,8 +320,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jan Kozák"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -324,8 +330,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Hana Zemanová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -335,8 +340,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Miloš Rejmont"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -346,8 +350,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Zdeňka Rákosová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -357,8 +360,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Robert Korselt"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -368,8 +370,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Petr Knížek"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -379,8 +380,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Ondřej Bašus"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -390,8 +390,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Matěj Kraus"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -401,8 +400,7 @@
         "DiS."
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Jan Ševčík"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -412,8 +410,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Jiří Novák"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -423,8 +420,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Michal Loukota"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -434,8 +430,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Martin Malík"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -445,8 +440,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Vojtěch Miler"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -456,8 +450,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Jan Šnorbert"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -467,8 +460,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Jiří Fiala"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -478,8 +470,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Martin Valčík"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -489,8 +480,7 @@
         "DiS."
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Pavel May"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -500,8 +490,7 @@
         "DiS."
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Václav Zahrádka"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -511,8 +500,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Daniel Havlík"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -522,8 +510,7 @@
         "MBA"
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Jana Kalousová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -533,8 +520,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Petr Faistauer"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -544,8 +530,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Václav Nosek"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -555,8 +540,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Vladimír Jiříček"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -566,8 +550,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Kateřina Tesárková"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -577,8 +560,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Lukáš Rejnart"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -588,8 +570,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Petr Matek"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -599,8 +580,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Šárka Krousová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -610,8 +590,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Václava Ulrychová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -621,8 +600,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jana Pekařová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -632,8 +610,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Aleš Zahradník"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -643,8 +620,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 721,
-      "name": "Nguyenová Thi Hong Ngoc"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -654,8 +630,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Pavel Jiran"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -665,8 +640,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Michal Prokop"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -676,8 +650,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Petr Jíra"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -687,8 +660,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Pavel Mlejnek"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -698,8 +670,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Václav Hendrych"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -709,8 +680,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Marie Bürgerová"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -720,8 +690,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Pavel Nalezený"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -731,8 +700,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Zdeněk Chmelík"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -742,8 +710,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Martin Chroust"
+      "reg": 721
     }
   ],
   "color": "#fec92f"

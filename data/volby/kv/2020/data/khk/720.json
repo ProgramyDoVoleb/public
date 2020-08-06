@@ -18,9 +18,19 @@
       "name": "Martina Vágner Dostálová",
       "reg": 99,
       "links": []
+    },
+    {
+      "name": "Tomáš Eichler",
+      "links": [],
+      "reg": 720
+    },
+    {
+      "name": "Petr Jeništa",
+      "links": [],
+      "reg": 720
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.012Z",
+  "lastUpdate": "2020-08-06T08:10:45.397Z",
   "data": "khk/720",
   "reg": 720,
   "program": {
@@ -46,7 +56,7 @@
         "https://twitter.com/PavelBulicek",
         "https://www.instagram.com/pavelbulicek"
       ],
-      "name": "Pavel Bulíček"
+      "photo": "pavel-bulicek.jpg"
     },
     {
       "nameFull": [
@@ -57,7 +67,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Adam Valenta"
+      "links": [
+        "https://kralovehradecky.pirati.cz/lide/adam-valenta/"
+      ],
+      "photo": "adam-valenta.jpg"
     },
     {
       "nameFull": [
@@ -67,8 +80,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Martina Vágner Dostálová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -78,8 +90,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tomáš Eichler"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -89,8 +100,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Petr Jeništa"
+      "reg": 720
     }
   ],
   "name": "Česká pirátská strana",

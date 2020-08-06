@@ -111,7 +111,7 @@
     ],
     "source": "http://www.prokrasnykraj.cz/#program"
   },
-  "lastUpdate": "2020-08-06T07:56:51.101Z",
+  "lastUpdate": "2020-08-06T08:10:45.489Z",
   "data": "msk/pro-krasny-kraj",
   "coalition": [
     1173,
@@ -141,7 +141,7 @@
         "https://www.facebook.com/profile.php?id=100011292750736",
         "https://twitter.com/CvacekMiloslav"
       ],
-      "name": "Miloslav Cváček"
+      "photo": "miloslav-cvacek.jpg"
     },
     {
       "nameFull": [
@@ -152,7 +152,10 @@
       ],
       "sex": 1,
       "reg": 129,
-      "name": "Pavel Smolka"
+      "links": [
+        "Absolvent Agronomické fakulty VŠZ v Brně. Po ukončení krátce pracoval v JZD Odersko. Od roku 1992 byl vedoucím živnostenského úřadu na MěÚ Vítkov. V roce 1998 poprvé kandidoval do zastupitelstva města Vítkova a po vítězných volbách byl zvolen starostou města. Tuto funkci zastává doposud. V roce 2007 byl zvolen členem Předsednictva Svazu měst a obcí České republiky. Za více než 21 let práce v komunální politice zná potřeby, požadavky i problémy zejména menších měst a obcí. "
+      ],
+      "photo": "pavel-smolka.jpg"
     },
     {
       "nameFull": [
@@ -163,7 +166,7 @@
       ],
       "sex": 1,
       "reg": 1220,
-      "name": "Michal Ruman"
+      "photo": "michal-ruman.jpg"
     },
     {
       "nameFull": [
@@ -174,7 +177,7 @@
       ],
       "sex": 1,
       "reg": 1173,
-      "name": "Adam Hanus"
+      "photo": "adam-hanus.jpg"
     },
     {
       "nameFull": [
@@ -185,7 +188,7 @@
       ],
       "sex": 2,
       "reg": 129,
-      "name": "Salome Sýkorová"
+      "photo": "salome-sykorova.jpg"
     },
     {
       "nameFull": [
@@ -195,8 +198,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1220,
-      "name": "Ondřej Měkýš"
+      "reg": 1220
     },
     {
       "nameFull": [
@@ -206,8 +208,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Roman Čechák"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -217,8 +218,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Sylva Kováčiková"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -228,8 +228,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1220,
-      "name": "Martin Valim"
+      "reg": 1220
     },
     {
       "nameFull": [
@@ -239,8 +238,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Lubomír Veřmiřovský"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -250,8 +248,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Aleš Hranoš"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -261,8 +258,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1220,
-      "name": "Petr Hulhahý"
+      "reg": 1220
     }
   ],
   "color": "#1d5958"

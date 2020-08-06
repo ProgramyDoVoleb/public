@@ -139,7 +139,7 @@
     ],
     "source": "https://spoluprokraj.cz/program/"
   },
-  "lastUpdate": "2020-08-06T07:56:51.015Z",
+  "lastUpdate": "2020-08-06T08:10:45.402Z",
   "data": "khk/1228",
   "coalition": [
     5,
@@ -175,7 +175,7 @@
         "https://www.facebook.com/hejtmanjiristepan",
         "https://twitter.com/stepanjiri1"
       ],
-      "name": "Jiří Štěpán"
+      "photo": "jiri-stepan.jpg"
     },
     {
       "nameFull": [
@@ -186,7 +186,10 @@
       ],
       "sex": 1,
       "reg": 5,
-      "name": "Martin Hanousek"
+      "links": [
+        "https://www.facebook.com/martin.hanousek.16"
+      ],
+      "photo": "martin-hanousek.jpg"
     },
     {
       "nameFull": [
@@ -197,7 +200,7 @@
       ],
       "sex": 1,
       "reg": 7,
-      "name": "Pavel Hečko"
+      "photo": "pavel-hecko.jpg"
     },
     {
       "nameFull": [
@@ -208,7 +211,7 @@
       ],
       "sex": 2,
       "reg": 5,
-      "name": "Karin Richterová"
+      "photo": "karin-richterova.jpg"
     },
     {
       "nameFull": [
@@ -219,7 +222,7 @@
       ],
       "sex": 2,
       "reg": 7,
-      "name": "Hana Masáková"
+      "photo": "hana-masakova.jpg"
     },
     {
       "nameFull": [
@@ -229,8 +232,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 5,
-      "name": "Petr Sobotka"
+      "reg": 5
     },
     {
       "nameFull": [
@@ -240,8 +242,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Stanislav Rudolfský"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -251,8 +252,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 5,
-      "name": "Barbora Kulichová"
+      "reg": 5
     },
     {
       "nameFull": [
@@ -262,8 +262,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "František Mencl"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -273,8 +272,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Štěpán Málek"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -284,8 +282,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jan Birke"
+      "reg": 7
     }
   ],
   "color": "#60b44c"

@@ -11,9 +11,13 @@
       "phash": "za-region",
       "photo": "lucie-jecmenova.jpg",
       "about": "zastupitelka města Bíliny a ředitelka místní akční skupiny pro Litoměřicko, Lounsko a Bílinsko. MAS zajišťuje rozdělování finančních prostředků z operačních programů do zmíněných regionů."
+    },
+    {
+      "name": "Pavel Grund",
+      "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:50.988Z",
+  "lastUpdate": "2020-08-06T08:10:45.373Z",
   "data": "ulk/za-region",
   "name": "Za Region",
   "program": {},
@@ -34,7 +38,7 @@
       "links": [
         "https://www.facebook.com/profile.php?id=100007187718165"
       ],
-      "name": "František Padělek"
+      "photo": "frantisek-padelek.jpg"
     },
     {
       "nameFull": [
@@ -44,7 +48,7 @@
         ""
       ],
       "sex": 2,
-      "name": "Lucie Ječmenová"
+      "photo": "lucie-jecmenova.jpg"
     },
     {
       "nameFull": [
@@ -53,8 +57,7 @@
         "Grund",
         ""
       ],
-      "sex": 1,
-      "name": "Pavel Grund"
+      "sex": 1
     }
   ],
   "color": "#aaa"

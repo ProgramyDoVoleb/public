@@ -227,7 +227,7 @@
     ],
     "source": "https://spolecneprojiznicechy.cz/#program"
   },
-  "lastUpdate": "2020-08-06T07:56:50.934Z",
+  "lastUpdate": "2020-08-06T08:10:45.302Z",
   "data": "jck/spolecneprojc",
   "coalition": [
     1,
@@ -257,7 +257,7 @@
         "https://www.facebook.com/frantisek.talir",
         "https://www.instagram.com/frantisek.talir"
       ],
-      "name": "František Talíř"
+      "photo": "frantisek-talir.jpg"
     },
     {
       "nameFull": [
@@ -266,8 +266,7 @@
         "Huneš",
         ""
       ],
-      "sex": 1,
-      "name": "Robert Huneš"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -277,7 +276,9 @@
         ""
       ],
       "sex": 1,
-      "name": "Šimon Heller"
+      "links": [
+        "https://hellersimon.cz/"
+      ]
     },
     {
       "nameFull": [
@@ -288,7 +289,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Pavel Klíma"
+      "links": [
+        "https://spolecneprojiznicechy.cz/#nasi-lidri"
+      ],
+      "photo": "pavel-klima.jpg"
     },
     {
       "nameFull": [
@@ -298,7 +302,9 @@
         ""
       ],
       "sex": 1,
-      "name": "Jan Bartošek"
+      "links": [
+        "http://www.janbartosek.cz/"
+      ]
     },
     {
       "nameFull": [
@@ -307,8 +313,7 @@
         "Kudláčková",
         ""
       ],
-      "sex": 2,
-      "name": "Michaela Kudláčková"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -317,8 +322,7 @@
         "Hladík",
         ""
       ],
-      "sex": 1,
-      "name": "Petr Hladík"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -327,8 +331,7 @@
         "Talíř",
         ""
       ],
-      "sex": 1,
-      "name": "Pavel Talíř"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -337,8 +340,7 @@
         "Macků",
         ""
       ],
-      "sex": 1,
-      "name": "Karel Macků"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -347,8 +349,7 @@
         "Dvořák",
         ""
       ],
-      "sex": 1,
-      "name": "Zdeněk Dvořák"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -357,8 +358,7 @@
         "Hejl",
         ""
       ],
-      "sex": 1,
-      "name": "Jaroslav Hejl"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -367,8 +367,7 @@
         "Vodička",
         ""
       ],
-      "sex": 1,
-      "name": "Rudolf Vodička"
+      "sex": 1
     }
   ],
   "color": "#fec92f"

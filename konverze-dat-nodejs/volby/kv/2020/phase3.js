@@ -191,8 +191,38 @@ election.list.forEach((region, regionID) => {
 
     data.people.forEach((person, index) => {
       var p = data.list.find(x => x.name === person.name)
-      if (!p) console.log(data.data, index, person.name, p)
+      if (p) {
+        if (person.links && person.links.length > 0) {
+          if (!p.links) p.links = [];
+
+          person.links.forEach(l => {
+            if (!p.links.find(x => x === l.url || l)) {
+              p.links.push(l.url || l);
+            }
+          })
+        }
+
+        if (person.photo) p.photo = person.photo;
+      }
     });
+
+    if (data.list) {
+      data.list.forEach(person => {
+        if (data.people.length < 5) {
+          if (!data.people.find(x => x.name === person.name)) {
+            data.people.push({
+              name: person.name,
+              links: person.links || [],
+              reg: person.reg,
+              phash: person.phash,
+              photo: person.photo
+            })
+          }
+        }
+
+        person.name = undefined;
+      });
+    }
 
     // END
 

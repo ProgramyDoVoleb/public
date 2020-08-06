@@ -240,7 +240,7 @@
     ],
     "source": "https://receptprokraj.cz/volebni-program/"
   },
-  "lastUpdate": "2020-08-06T07:56:51.065Z",
+  "lastUpdate": "2020-08-06T08:10:45.453Z",
   "data": "olk/cssd-patrioti",
   "coalition": [
     7,
@@ -271,7 +271,7 @@
         "https://www.instagram.com/zemanek.j/",
         "https://www.youtube.com/channel/UCcgIvOZ6gZXVtxVW-lJCpdQ"
       ],
-      "name": "Jiří Zemánek"
+      "photo": "jiri-zemanek.jpg"
     },
     {
       "nameFull": [
@@ -282,7 +282,10 @@
       ],
       "sex": 1,
       "phash": "patrioti-olomouckeho-kraje",
-      "name": "Ladislav Jabůrek"
+      "links": [
+        "https://receptprokraj.cz/ladislav-jaburek/"
+      ],
+      "photo": "ladislav-jaburek.jpg"
     },
     {
       "nameFull": [
@@ -293,7 +296,10 @@
       ],
       "sex": 1,
       "reg": 7,
-      "name": "Ladislav Hynek"
+      "links": [
+        "https://receptprokraj.cz/ladislav-hynek/"
+      ],
+      "photo": "ladislav-hynek.jpg"
     },
     {
       "nameFull": [
@@ -304,7 +310,10 @@
       ],
       "sex": 1,
       "reg": 7,
-      "name": "Pavel Šoltys"
+      "links": [
+        "https://receptprokraj.cz/pavel-soltys/"
+      ],
+      "photo": "pavel-soltys.jpg"
     },
     {
       "nameFull": [
@@ -315,7 +324,10 @@
       ],
       "sex": 1,
       "phash": "patrioti-olomouckeho-kraje",
-      "name": "Viktor Kohout"
+      "links": [
+        "https://www.spojenciok.cz/#nas-tym"
+      ],
+      "photo": "viktor-kohout.jpg"
     },
     {
       "nameFull": [
@@ -325,8 +337,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jaromír Malý"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -336,8 +347,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Jiří Kubiš"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -347,8 +357,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Miroslav Kopřiva"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -358,8 +367,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Pavel Holík"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -369,8 +377,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Jana Nováková"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -380,8 +387,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Ivan Foltýn"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -391,8 +397,7 @@
         ""
       ],
       "sex": 2,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Silvie Pernicová"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -402,8 +407,7 @@
         ""
       ],
       "sex": 2,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Lucie Fabíková"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -413,8 +417,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Přemysl Dvorský"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -424,8 +427,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Šárka Zapletalová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -435,8 +437,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "David Křepský"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -446,8 +447,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Martin Hönig"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -457,8 +457,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Pavel Hofírek"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -468,8 +467,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Petr Kudláček"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -479,8 +477,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Lada Cinegrová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -490,8 +487,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Radim Slouka"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -501,8 +497,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Stanislav Axman"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -512,8 +507,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Štěpán Kulina"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -523,8 +517,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Jana Oulehlová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -534,8 +527,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Radek Čapka"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -545,8 +537,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Miroslav Hampl"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -556,8 +547,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jakub Rousek"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -567,8 +557,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Tomáš Husvéth"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -578,8 +567,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Jiří Fiala"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -589,8 +577,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Miroslav Janeček"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -600,8 +587,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Lukáš Kandler"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -611,8 +597,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Aleš Sobek"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -622,8 +607,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Ivana Dvořáková"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -633,8 +617,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Libor Šamšula"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -644,8 +627,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Miroslav Šmída"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -655,8 +637,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "František Střída"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -666,8 +647,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Yvona Kubjátová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -677,8 +657,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Jakub Šťastný"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -688,8 +667,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Radovan Rašťák"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -699,8 +677,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Jitka Weiermüllerová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -710,8 +687,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Bedřich Grulich"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -721,8 +697,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Vlastimil Šmída"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -732,8 +707,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Jiří Teplý"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -743,8 +717,7 @@
         ""
       ],
       "sex": 1,
-      "phash": "patrioti-olomouckeho-kraje",
-      "name": "Adam Fritcher"
+      "phash": "patrioti-olomouckeho-kraje"
     },
     {
       "nameFull": [
@@ -754,8 +727,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Pavel Skácel"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -765,8 +737,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Andrej Přikrylová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -776,8 +747,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Stanislav Procházka"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -787,8 +757,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Pavel Zatloukal"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -798,8 +767,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Petr Šeda"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -809,8 +777,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jakub Malý"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -820,8 +787,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jaromír Dvořák"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -831,8 +797,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 7,
-      "name": "Radmila Kociánová"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -842,8 +807,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Ladislav Sebök"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -853,8 +817,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Alois Mačák"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -864,8 +827,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jiří Tomášek"
+      "reg": 7
     }
   ],
   "color": "#f70000"

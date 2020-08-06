@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.956Z",
+  "lastUpdate": "2020-08-06T08:10:45.337Z",
   "data": "plk/dsss---cisty-kraj---bez-ubytoven-zahranicnich-delniku",
   "coalition": [
     156,
@@ -10,7 +10,13 @@
   ],
   "name": "DSSS - Čistý kraj - Bez ubytoven zahraničních dělníků!",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jiří Štěpánek",
+      "links": [],
+      "reg": 156
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -20,8 +26,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 156,
-      "name": "Jiří Štěpánek"
+      "reg": 156
     }
   ],
   "color": "#113a96"

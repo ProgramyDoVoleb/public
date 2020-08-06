@@ -1,6 +1,32 @@
 {
-  "people": [],
-  "lastUpdate": "2020-08-06T07:56:51.059Z",
+  "people": [
+    {
+      "name": "Andrej Bóna",
+      "links": [
+        "https://www.facebook.com/andrej.bona.SDS/",
+        "https://twitter.com/AndrejBona",
+        "https://www.instagram.com/andrejbona"
+      ],
+      "phash": "levice"
+    },
+    {
+      "name": "Anna Mikulenková",
+      "links": []
+    },
+    {
+      "name": "Libor Malovaný",
+      "links": []
+    },
+    {
+      "name": "Martin Švec",
+      "links": []
+    },
+    {
+      "name": "Martin Tománek",
+      "links": []
+    }
+  ],
+  "lastUpdate": "2020-08-06T08:10:45.447Z",
   "data": "jmk/levice",
   "name": "Levice",
   "program": {},
@@ -23,8 +49,7 @@
         "https://www.facebook.com/andrej.bona.SDS/",
         "https://twitter.com/AndrejBona",
         "https://www.instagram.com/andrejbona"
-      ],
-      "name": "Andrej Bóna"
+      ]
     },
     {
       "nameFull": [
@@ -33,8 +58,7 @@
         "Mikulenková",
         ""
       ],
-      "sex": 2,
-      "name": "Anna Mikulenková"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -43,8 +67,7 @@
         "Malovaný",
         ""
       ],
-      "sex": 1,
-      "name": "Libor Malovaný"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -53,8 +76,7 @@
         "Švec",
         ""
       ],
-      "sex": 1,
-      "name": "Martin Švec"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -63,8 +85,7 @@
         "Tománek",
         ""
       ],
-      "sex": 1,
-      "name": "Martin Tománek"
+      "sex": 1
     }
   ],
   "color": "#aaa"

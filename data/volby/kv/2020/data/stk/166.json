@@ -373,7 +373,7 @@
     ],
     "source": "https://www.starostove-nezavisli.cz/fmfile/0/files/2020/Program%202020_verze%20tisk.pdf"
   },
-  "lastUpdate": "2020-08-06T07:56:50.927Z",
+  "lastUpdate": "2020-08-06T08:10:45.296Z",
   "data": "stk/166",
   "reg": 166,
   "support": [
@@ -403,7 +403,7 @@
         "https://twitter.com/PPeckova",
         "https://www.instagram.com/petra_peckova_starostka"
       ],
-      "name": "Petra Pecková"
+      "photo": "petra-peckova.jpg"
     },
     {
       "nameFull": [
@@ -414,7 +414,10 @@
       ],
       "sex": 1,
       "reg": 166,
-      "name": "Vít Rakušan"
+      "links": [
+        "https://www.facebook.com/vitrakusancz/"
+      ],
+      "photo": "vit-rakusan.jpg"
     },
     {
       "nameFull": [
@@ -425,7 +428,10 @@
       ],
       "sex": 1,
       "reg": 166,
-      "name": "Věslav Michalík"
+      "links": [
+        "https://www.facebook.com/veslavmichalik/"
+      ],
+      "photo": "veslav-michalik.jpg"
     },
     {
       "nameFull": [
@@ -436,7 +442,10 @@
       ],
       "sex": 1,
       "reg": 1,
-      "name": "Zdeněk Volf"
+      "links": [
+        "https://www.facebook.com/people/Zden%25C4%259Bk-Volf/100013139886940"
+      ],
+      "photo": "zdenek-volf.jpg"
     },
     {
       "nameFull": [
@@ -447,7 +456,10 @@
       ],
       "sex": 1,
       "reg": 99,
-      "name": "Ondřej Lochman"
+      "links": [
+        "https://www.facebook.com/ondrejlochmanstarosta/"
+      ],
+      "photo": "ondrej-lochman.jpg"
     },
     {
       "nameFull": [
@@ -457,8 +469,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Pavla Štrobachová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -468,8 +479,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Daniel Marek"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -479,8 +489,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Michael Kašpar"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -490,8 +499,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Petr Borecký"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -501,8 +509,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Luděk Jeništa"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -512,8 +519,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 129,
-      "name": "Stanislav Boloňský"
+      "reg": 129
     }
   ],
   "name": "STAROSTOVÉ A NEZÁVISLÍ",

@@ -33,7 +33,7 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.082Z",
+  "lastUpdate": "2020-08-06T08:10:45.469Z",
   "data": "zlk/stan-top-ni-zhn",
   "reg": 166,
   "support": [
@@ -69,7 +69,7 @@
         "https://twitter.com/petrgazdik",
         "https://www.instagram.com/petr_gazdik/"
       ],
-      "name": "Petr Gazdík"
+      "photo": "petr-gazdik.jpg"
     },
     {
       "nameFull": [
@@ -80,7 +80,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Rudolf Seifert"
+      "links": [
+        "https://www.top09.cz/volby/2020-krajska-zastupitelstva/rudolf-seifert-27363.html"
+      ],
+      "photo": "rudolf-seifert.jpg"
     },
     {
       "nameFull": [
@@ -90,8 +93,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Zuzana Vandame"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -101,8 +103,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 721,
-      "name": "Vít Peštuka"
+      "reg": 721
     },
     {
       "nameFull": [
@@ -112,8 +113,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "František Petr"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -123,8 +123,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Milan Plesar"
+      "reg": 166
     }
   ],
   "name": "STAROSTOVÉ A NEZÁVISLÍ",

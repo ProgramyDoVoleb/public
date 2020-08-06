@@ -1,11 +1,17 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.049Z",
+  "lastUpdate": "2020-08-06T08:10:45.432Z",
   "data": "vys/1190",
   "reg": 1190,
   "program": {
     "motto": "Prolomíme hranice!"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "Petr Chňoupek",
+      "links": [],
+      "reg": 1190
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -15,8 +21,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1190,
-      "name": "Petr Chňoupek"
+      "reg": 1190
     }
   ],
   "name": "Moravské zemské hnutí",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.077Z",
+  "lastUpdate": "2020-08-06T08:10:45.464Z",
   "data": "olk/soukromnici-a-oda",
   "coalition": [
     716,
@@ -7,7 +7,12 @@
   ],
   "name": "Soukromníci a ODA",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Bohuslav Coufal",
+      "links": []
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -16,8 +21,7 @@
         "Coufal",
         ""
       ],
-      "sex": 1,
-      "name": "Bohuslav Coufal"
+      "sex": 1
     }
   ],
   "color": "#e58b22"

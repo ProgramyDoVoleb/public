@@ -46,7 +46,7 @@
       "photo": "josef-horacek.jpg"
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.011Z",
+  "lastUpdate": "2020-08-06T08:10:45.396Z",
   "data": "khk/ods-stan-vc",
   "coalition": [
     53,
@@ -80,7 +80,7 @@
         "https://www.facebook.com/Cervicek.ODS",
         "https://twitter.com/Martin_Cervicek"
       ],
-      "name": "Martin Červíček"
+      "photo": "martin-cervicek.jpg"
     },
     {
       "nameFull": [
@@ -91,7 +91,10 @@
       ],
       "sex": 2,
       "reg": 99,
-      "name": "Martina Berdychová"
+      "links": [
+        "https://www.ods.cz/region.kralovehradecky/volby2020/krajske/kandidati/35254-martina-berdychova"
+      ],
+      "photo": "martina-berdychova.jpg"
     },
     {
       "nameFull": [
@@ -102,7 +105,10 @@
       ],
       "sex": 1,
       "reg": 166,
-      "name": "Rudolf Cogan"
+      "links": [
+        "https://www.ods.cz/region.kralovehradecky/volby2020/krajske/kandidati/35257-rudolf-cogan"
+      ],
+      "photo": "rudolf-cogan-2.jpg"
     },
     {
       "nameFull": [
@@ -113,7 +119,10 @@
       ],
       "sex": 1,
       "reg": 53,
-      "name": "Václav Řehoř"
+      "links": [
+        "https://www.ods.cz/region.kralovehradecky/volby2020/krajske/kandidati/2339-vaclav-rehor"
+      ],
+      "photo": "vaclav-rehor.jpg"
     },
     {
       "nameFull": [
@@ -124,7 +133,10 @@
       ],
       "sex": 1,
       "reg": 166,
-      "name": "Josef Horáček"
+      "links": [
+        "https://www.ods.cz/region.kralovehradecky/volby2020/krajske/kandidati/35259-josef-horacek"
+      ],
+      "photo": "josef-horacek.jpg"
     },
     {
       "nameFull": [
@@ -134,8 +146,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Jana Drejslová"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -145,8 +156,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Dana Kracíková"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -156,8 +166,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Ivan Adamec"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -167,8 +176,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Milan Brandejs"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -178,8 +186,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Ladislav Brykner"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -189,8 +196,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Aleš Maloch"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -200,8 +206,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jiří Škop"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -211,8 +216,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 166,
-      "name": "Lucie Potůčková"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -222,8 +226,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Libor Kasík"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -233,8 +236,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 770,
-      "name": "Helena Rezková"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -244,8 +246,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Louda"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -255,8 +256,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Jiří Pechar"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -266,8 +266,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Jankovský"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -277,8 +276,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "Radek Balcárek"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -288,8 +286,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Káňa"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -299,8 +296,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Jan Sobotka"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -310,8 +306,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Antonín Stanislav"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -321,8 +316,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "Martin Prouza"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -332,8 +326,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Dominik Lukaštík"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -343,8 +336,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Jan Rejzl"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -354,8 +346,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Petr Lžíčař"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -365,8 +356,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "Aleš Svoboda"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -376,8 +366,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Josef Král"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -387,8 +376,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Roman Drašnar"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -398,8 +386,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Miroslav Procházka"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -409,8 +396,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "Vítězslav Šturma"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -420,8 +406,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Luboš Mottl"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -431,8 +416,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 166,
-      "name": "Hana Štěrbová"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -442,8 +426,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Dana Bohutínská"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -453,8 +436,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "David Joska"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -464,8 +446,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Milan Pospíšil"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -475,8 +456,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Miroslav Švábl"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -486,8 +466,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Josef Šalda"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -497,8 +476,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 770,
-      "name": "Pavel Dvořáček"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -508,8 +486,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Miloslav Kůta"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -519,8 +496,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Libor Šnajdr"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -530,8 +506,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Petra Škopová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -541,8 +516,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 770,
-      "name": "Martina Benešová"
+      "reg": 770
     },
     {
       "nameFull": [
@@ -552,8 +526,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Martinov"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -563,8 +536,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Radim Žárský"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -574,8 +546,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Milan Žďárek"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -585,8 +556,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Martin Moravec"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -596,8 +566,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Jaroslav Huňat"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -607,8 +576,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Oldřich Vlasák"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -618,8 +586,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jiří Liška"
+      "reg": 99
     }
   ],
   "color": "#194392"

@@ -20,10 +20,28 @@
     ],
     "source": "https://www.vizens.cz/program3/"
   },
-  "lastUpdate": "2020-08-06T07:56:50.946Z",
+  "lastUpdate": "2020-08-06T08:10:45.321Z",
   "data": "jck/vize",
   "name": "VIZE - národní socialisté",
-  "people": [],
+  "people": [
+    {
+      "name": "Ivan Fabián",
+      "links": [],
+      "phash": "vize---narodni-socialiste"
+    },
+    {
+      "name": "Miloš Benedikt",
+      "links": []
+    },
+    {
+      "name": "Zbyněk Holub",
+      "links": []
+    },
+    {
+      "name": "Vladimír Kremsa",
+      "links": []
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -33,8 +51,7 @@
         "Dis"
       ],
       "sex": 1,
-      "phash": "vize---narodni-socialiste",
-      "name": "Ivan Fabián"
+      "phash": "vize---narodni-socialiste"
     },
     {
       "nameFull": [
@@ -43,8 +60,7 @@
         "Benedikt",
         ""
       ],
-      "sex": 1,
-      "name": "Miloš Benedikt"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -53,8 +69,7 @@
         "Holub",
         "PhD."
       ],
-      "sex": 1,
-      "name": "Zbyněk Holub"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -63,8 +78,7 @@
         "Kremsa",
         "PhD."
       ],
-      "sex": 1,
-      "name": "Vladimír Kremsa"
+      "sex": 1
     }
   ],
   "color": "#aaa"

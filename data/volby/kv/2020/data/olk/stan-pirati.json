@@ -1303,7 +1303,7 @@
     ],
     "source": "https://www.piratistarostove.cz/wp-content/uploads/2020/07/20e40f4f.pdf"
   },
-  "lastUpdate": "2020-08-06T07:56:51.068Z",
+  "lastUpdate": "2020-08-06T08:10:45.456Z",
   "data": "olk/stan-pirati",
   "coalition": [
     166,
@@ -1334,7 +1334,7 @@
         "https://twitter.com/SuchanekOl",
         "https://www.instagram.com/josef.suchanek/"
       ],
-      "name": "Josef Suchánek"
+      "photo": "josef-suchanek-3.jpg"
     },
     {
       "nameFull": [
@@ -1343,8 +1343,7 @@
         "Suchánek",
         ""
       ],
-      "sex": 1,
-      "name": "Josef Suchánek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1354,7 +1353,10 @@
         ""
       ],
       "sex": 2,
-      "name": "Zdeňka Dvořáková Kocourková"
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/zdenka-dvorakova-kocourkova/"
+      ],
+      "photo": "zdenka-dvorakova-kocourkova.jpg"
     },
     {
       "nameFull": [
@@ -1364,7 +1366,10 @@
         ""
       ],
       "sex": 1,
-      "name": "Martin Šmída"
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/ing-et-ing-martin-smida/"
+      ],
+      "photo": "martin-smida.jpg"
     },
     {
       "nameFull": [
@@ -1374,7 +1379,10 @@
         ""
       ],
       "sex": 1,
-      "name": "Tomáš Müller"
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/ing-tomas-muller/"
+      ],
+      "photo": "tomas-muller.jpg"
     },
     {
       "nameFull": [
@@ -1384,7 +1392,10 @@
         ""
       ],
       "sex": 1,
-      "name": "Jaromír Horký"
+      "links": [
+        "https://www.piratistarostove.cz/nasilide/jaromir-horky/"
+      ],
+      "photo": "jaromir-horky.jpg"
     },
     {
       "nameFull": [
@@ -1393,8 +1404,7 @@
         "Lysek",
         ""
       ],
-      "sex": 1,
-      "name": "Petr Lysek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1403,8 +1413,7 @@
         "Sršeň",
         "Ph.D."
       ],
-      "sex": 1,
-      "name": "Radim Sršeň"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1413,8 +1422,7 @@
         "Morong",
         ""
       ],
-      "sex": 1,
-      "name": "Martin Morong"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1423,8 +1431,7 @@
         "Vlazlo",
         ""
       ],
-      "sex": 1,
-      "name": "Tomáš Vlazlo"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1433,8 +1440,7 @@
         "Obrusník",
         ""
       ],
-      "sex": 1,
-      "name": "Michal Obrusník"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1443,8 +1449,7 @@
         "Hošek",
         ""
       ],
-      "sex": 1,
-      "name": "David Hošek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1453,8 +1458,7 @@
         "Švadlenka",
         ""
       ],
-      "sex": 1,
-      "name": "Martin Švadlenka"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1463,8 +1467,7 @@
         "Šťastný",
         ""
       ],
-      "sex": 1,
-      "name": "Roman Šťastný"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1473,8 +1476,7 @@
         "Brázda",
         ""
       ],
-      "sex": 1,
-      "name": "Radek Brázda"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1483,8 +1485,7 @@
         "Majerová",
         ""
       ],
-      "sex": 2,
-      "name": "Jitka Majerová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -1493,8 +1494,7 @@
         "Daněk",
         ""
       ],
-      "sex": 1,
-      "name": "Petr Daněk"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1503,8 +1503,7 @@
         "Žák",
         ""
       ],
-      "sex": 1,
-      "name": "Zdeněk Žák"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1513,8 +1512,7 @@
         "Mudra",
         ""
       ],
-      "sex": 1,
-      "name": "Petr Mudra"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1523,8 +1521,7 @@
         "Šrejma",
         ""
       ],
-      "sex": 1,
-      "name": "Robert Šrejma"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1533,8 +1530,7 @@
         "Baslerová",
         ""
       ],
-      "sex": 2,
-      "name": "Renata Baslerová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -1543,8 +1539,7 @@
         "Novák",
         ""
       ],
-      "sex": 1,
-      "name": "David Novák"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1553,8 +1548,7 @@
         "Naiclerová",
         "MBA"
       ],
-      "sex": 2,
-      "name": "Hana Naiclerová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -1563,8 +1557,7 @@
         "Vojtek",
         ""
       ],
-      "sex": 1,
-      "name": "Radek Vojtek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1573,8 +1566,7 @@
         "Tichý",
         ""
       ],
-      "sex": 1,
-      "name": "Michal Tichý"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1583,8 +1575,7 @@
         "Řehová",
         ""
       ],
-      "sex": 2,
-      "name": "Marika Řehová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -1593,8 +1584,7 @@
         "Machová",
         ""
       ],
-      "sex": 2,
-      "name": "Eva Machová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -1603,8 +1593,7 @@
         "Jüngling",
         ""
       ],
-      "sex": 1,
-      "name": "Jakub Jüngling"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1613,8 +1602,7 @@
         "Ondra",
         ""
       ],
-      "sex": 1,
-      "name": "Michal Ondra"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1623,8 +1611,7 @@
         "Karlík",
         ""
       ],
-      "sex": 1,
-      "name": "Petr Karlík"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -1633,8 +1620,7 @@
         "Drlík",
         ""
       ],
-      "sex": 1,
-      "name": "Lukáš Drlík"
+      "sex": 1
     }
   ],
   "color": "#1ebdb7"

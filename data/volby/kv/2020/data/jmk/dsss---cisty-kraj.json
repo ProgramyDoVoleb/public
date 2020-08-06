@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.061Z",
+  "lastUpdate": "2020-08-06T08:10:45.449Z",
   "data": "jmk/dsss---cisty-kraj",
   "coalition": [
     156,
@@ -10,7 +10,12 @@
   ],
   "name": "DSSS - Čistý kraj",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Josef Křivánek",
+      "links": []
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -19,8 +24,7 @@
         "Křivánek",
         ""
       ],
-      "sex": 1,
-      "name": "Josef Křivánek"
+      "sex": 1
     }
   ],
   "color": "#113a96"

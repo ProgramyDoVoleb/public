@@ -39,7 +39,7 @@
       "about": "Karel Nykles (*3. srpna 1984) je otec, životní euforik a troubleshooter, předseda krajského sdružení Pirátů. Nohama na zemi, s hlavou v oblacích. Pochází z Mariánských Lázní, kam se po více jak deseti letech působení v Plzni vrátil. Pracuje jako Network and Systems Engineer v nadnárodní společnosti. Vystudoval bakalářský program Kybernetika a řídící technika na Fakultě aplikovaných věd Západočeské univerzity v Plzni. V letech 2007 - 2016 pracoval pro Západočeskou univerzitu v Plzni jako Windows administrátor. V letech 2011 - 2015 pak pro Forenzní laboratoř CESNET, kde se zabýval analýzou napadených PC a publikačně osvětovou činností."
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:50.960Z",
+  "lastUpdate": "2020-08-06T08:10:45.342Z",
   "data": "kvk/720",
   "reg": 720,
   "program": {},
@@ -64,8 +64,7 @@
         "https://www.facebook.com/pepik.janu",
         "https://twitter.com/JosefJanu",
         "https://www.instagram.com/pepikjanu/"
-      ],
-      "name": "Josef Janů"
+      ]
     },
     {
       "nameFull": [
@@ -76,7 +75,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Vojtěch Franta"
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/vojtech-fanta/"
+      ],
+      "photo": "vojtech-franta.jpg"
     },
     {
       "nameFull": [
@@ -87,7 +89,10 @@
       ],
       "sex": 2,
       "reg": 720,
-      "name": "Markéta Monsportová"
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/marketa-monsportova/"
+      ],
+      "photo": "marketa-monsportova.jpg"
     },
     {
       "nameFull": [
@@ -98,7 +103,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Lukáš Zykán"
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/lukas-zykan/"
+      ],
+      "photo": "lukas-zykan.jpg"
     },
     {
       "nameFull": [
@@ -109,7 +117,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Karel Nykles"
+      "links": [
+        "https://karlovarsky.pirati.cz/lide/karel-nykles/"
+      ],
+      "photo": "karel-nykles.jpg"
     },
     {
       "nameFull": [
@@ -119,8 +130,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Kalina"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -130,8 +140,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Petr Adamec"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -141,8 +150,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Ondřej Topinka"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -152,8 +160,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Vítězslav Adamec"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -163,8 +170,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Nikola Indrová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -174,8 +180,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Lucie Trčková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -185,8 +190,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Pavel Sušanin"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -196,8 +200,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Karolina Vejmělková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -207,8 +210,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Lada Baranek Lapinová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -218,8 +220,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zdeněk Třešňák"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -229,8 +230,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Josef Pavlovic"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -240,8 +240,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Ondřej Špendlíček"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -251,8 +250,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Antotín Šimkanin"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -262,8 +260,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Lukáš Jadlovský"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -273,8 +270,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Daniela Bílá"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -284,8 +280,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Robin Beitl"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -295,8 +290,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Havel"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -306,8 +300,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Bohdan Vaněk"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -317,8 +310,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Jana Jandová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -328,8 +320,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Radek Náměstek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -339,8 +330,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zdeněk Kopš"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -350,8 +340,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Barbora Erbenová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -361,8 +350,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Tereza Zykánová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -372,8 +360,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zdeněk Hess"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -383,8 +370,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tadeáš Král"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -394,8 +380,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Stehlík"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -405,8 +390,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Pavel Tuček"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -416,8 +400,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Daniel Farkas"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -427,8 +410,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tomáš Veselka"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -438,8 +420,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tomáš Trčka"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -449,8 +430,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Simona Marková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -460,8 +440,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jiří Prýmek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -471,8 +450,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Karel Zemek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -482,8 +460,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Prachař"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -493,8 +470,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Petra Zámečníková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -504,8 +480,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Anna Tučková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -515,8 +490,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jiří Slach"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -526,8 +500,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Lukáš Hulý"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -537,8 +510,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Nedvěd"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -548,8 +520,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Karel Nykles"
+      "reg": 720
     }
   ],
   "name": "Česká pirátská strana",

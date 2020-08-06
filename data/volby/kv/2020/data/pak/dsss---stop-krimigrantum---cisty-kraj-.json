@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.032Z",
+  "lastUpdate": "2020-08-06T08:10:45.419Z",
   "data": "pak/dsss---stop-krimigrantum---cisty-kraj-",
   "coalition": [
     156,
@@ -10,7 +10,13 @@
   ],
   "name": "DSSS - STOP KRIMIGRANTŮM - Čistý kraj,",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Marek Nechala",
+      "links": [],
+      "reg": 156
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -20,8 +26,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 156,
-      "name": "Marek Nechala"
+      "reg": 156
     }
   ],
   "color": "#113a96"

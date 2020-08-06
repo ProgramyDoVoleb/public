@@ -1,9 +1,29 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.931Z",
+  "lastUpdate": "2020-08-06T08:10:45.300Z",
   "data": "stk/714",
   "reg": 714,
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Luboš Zálom",
+      "links": [
+        "https://luboszalom.cz/",
+        "https://www.facebook.com/luboszalom.politika/",
+        "https://twitter.com/luboszalom"
+      ],
+      "reg": 714
+    },
+    {
+      "name": "Marek Hejduk",
+      "links": [],
+      "reg": 714
+    },
+    {
+      "name": "Petr Zavadil",
+      "links": [],
+      "reg": 714
+    }
+  ],
   "links": [
     "https://www.svobodni.cz/kraje/stredocesky-kraj/"
   ],
@@ -21,8 +41,7 @@
         "https://luboszalom.cz/",
         "https://www.facebook.com/luboszalom.politika/",
         "https://twitter.com/luboszalom"
-      ],
-      "name": "Luboš Zálom"
+      ]
     },
     {
       "nameFull": [
@@ -32,8 +51,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 714,
-      "name": "Marek Hejduk"
+      "reg": 714
     },
     {
       "nameFull": [
@@ -43,8 +61,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 714,
-      "name": "Petr Zavadil"
+      "reg": 714
     }
   ],
   "name": "Svobodní",

@@ -145,7 +145,7 @@
     ],
     "source": "https://www.spojenciok.cz/#program"
   },
-  "lastUpdate": "2020-08-06T07:56:51.062Z",
+  "lastUpdate": "2020-08-06T08:10:45.450Z",
   "data": "olk/spojenciok",
   "coalition": [
     1,
@@ -175,7 +175,7 @@
         "https://twitter.com/MJureka",
         "https://www.instagram.com/marianjurecka/"
       ],
-      "name": "Marián Jurečka"
+      "photo": "marian-jurecka.jpg"
     },
     {
       "nameFull": [
@@ -186,7 +186,10 @@
       ],
       "sex": 2,
       "reg": 721,
-      "name": "Zdeňka Blišťanová"
+      "links": [
+        "https://www.facebook.com/jeseniksrdcem/"
+      ],
+      "photo": "zdenka-blistanova.jpg"
     },
     {
       "nameFull": [
@@ -197,7 +200,10 @@
       ],
       "sex": 2,
       "reg": 1039,
-      "name": "Marcela Škvařilová"
+      "links": [
+        "https://www.facebook.com/profile.php?id=100008912567198"
+      ],
+      "photo": "marcela-skvarilova.jpg"
     },
     {
       "nameFull": [
@@ -208,7 +214,10 @@
       ],
       "sex": 2,
       "reg": 5,
-      "name": "Hana Vacková"
+      "links": [
+        "https://www.facebook.com/HankaVackovaZeleni/"
+      ],
+      "photo": "hana-vackova.jpg"
     },
     {
       "nameFull": [
@@ -218,7 +227,10 @@
         ""
       ],
       "sex": 1,
-      "name": "Ivo Slavotínek"
+      "links": [
+        "https://www.facebook.com/ivo.slavotinek"
+      ],
+      "photo": "ivo-slavotinek.jpg"
     },
     {
       "nameFull": [
@@ -227,8 +239,7 @@
         "Horák",
         ""
       ],
-      "sex": 1,
-      "name": "František Horák"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -237,8 +248,7 @@
         "Jakubec",
         ""
       ],
-      "sex": 1,
-      "name": "Aleš Jakubec"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -247,8 +257,7 @@
         "Šafařík",
         ""
       ],
-      "sex": 1,
-      "name": "Jan Šafařík"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -257,8 +266,7 @@
         "Řezníček",
         ""
       ],
-      "sex": 1,
-      "name": "Daniel Řezníček"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -267,8 +275,7 @@
         "Grasse",
         ""
       ],
-      "sex": 1,
-      "name": "Pavel Grasse"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -277,8 +284,7 @@
         "Pelikán",
         ""
       ],
-      "sex": 1,
-      "name": "Matouš Pelikán"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -287,8 +293,7 @@
         "Matyášek",
         ""
       ],
-      "sex": 1,
-      "name": "Aleš Matyášek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -298,8 +303,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 1,
-      "name": "Jitka Seitlová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -308,8 +312,7 @@
         "Čečman",
         ""
       ],
-      "sex": 1,
-      "name": "Ivo Čečman"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -318,8 +321,7 @@
         "Šulák",
         ""
       ],
-      "sex": 1,
-      "name": "Tomáš Šulák"
+      "sex": 1
     }
   ],
   "color": "#018180"

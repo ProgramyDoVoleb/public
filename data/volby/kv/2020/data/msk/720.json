@@ -42,7 +42,7 @@
       "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.091Z",
+  "lastUpdate": "2020-08-06T08:10:45.479Z",
   "data": "msk/720",
   "reg": 720,
   "program": {},
@@ -67,7 +67,7 @@
         "https://www.facebook.com/zklusova",
         "https://twitter.com/ZuzkaKlusova"
       ],
-      "name": "Zuzana Klusová"
+      "photo": "zuzana-klusova.jpg"
     },
     {
       "nameFull": [
@@ -78,7 +78,7 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Arnošt Žídek"
+      "photo": "arnost-zidek.jpg"
     },
     {
       "nameFull": [
@@ -89,7 +89,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Jan Nezhyba"
+      "links": [
+        "https://moravskoslezsky.pirati.cz/lide/jan-nezhyba/"
+      ],
+      "photo": "jan-nezhyba.jpg"
     },
     {
       "nameFull": [
@@ -100,7 +103,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Jiří Demel"
+      "links": [
+        "http://www.jiridemel.cz/"
+      ],
+      "photo": "jiri-demel.jpg"
     },
     {
       "nameFull": [
@@ -110,8 +116,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Leonard Varga"
+      "reg": 720
     }
   ],
   "name": "Česká pirátská strana",

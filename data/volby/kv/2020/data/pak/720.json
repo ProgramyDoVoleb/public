@@ -438,7 +438,7 @@
     ],
     "source": "https://pardubicky.pirati.cz/volby-2020/?pohled=program"
   },
-  "lastUpdate": "2020-08-06T07:56:51.018Z",
+  "lastUpdate": "2020-08-06T08:10:45.406Z",
   "data": "pak/720",
   "reg": 720,
   "links": [
@@ -460,7 +460,7 @@
         "https://pardubicky.pirati.cz/lide/daniel-lebduska",
         "https://www.facebook.com/lebduska.daniel"
       ],
-      "name": "Daniel Lebduška"
+      "photo": "daniel-lebduska.jpg"
     },
     {
       "nameFull": [
@@ -471,7 +471,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Filip Mezera"
+      "links": [
+        "https://pardubicky.pirati.cz/lide/filip-mezera/"
+      ],
+      "photo": "filip-mezera.jpg"
     },
     {
       "nameFull": [
@@ -482,7 +485,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Andrej Ramašeuski"
+      "links": [
+        "https://pardubicky.pirati.cz/lide/andrej-ramaseuski/"
+      ],
+      "photo": "andrej-ramaseuski.jpg"
     },
     {
       "nameFull": [
@@ -493,7 +499,10 @@
       ],
       "sex": 2,
       "reg": 720,
-      "name": "Libuše Vévodová"
+      "links": [
+        "https://pardubicky.pirati.cz/lide/libuse-vevodova/"
+      ],
+      "photo": "libuse-vevodova.jpg"
     },
     {
       "nameFull": [
@@ -504,7 +513,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Jiří Ducháček"
+      "links": [
+        "https://pardubicky.pirati.cz/lide/jiri.duchacek/"
+      ],
+      "photo": "jiri-duchacek.jpg"
     },
     {
       "nameFull": [
@@ -514,8 +526,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Lenka Španihelová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -525,8 +536,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Andrea Linhartová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -536,8 +546,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jaroslav Lainz"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -547,8 +556,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Matěj Karas"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -558,8 +566,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Vladek Vácha"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -569,8 +576,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "David Marhold"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -580,8 +586,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jiří Krátký"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -591,8 +596,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Lucie Procházková"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -602,8 +606,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Dominik Bečka"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -613,8 +616,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Saifrt"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -624,8 +626,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Ondřej Karas"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -635,8 +636,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Aleš Nunvář"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -646,8 +646,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jiří Jansa"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -657,8 +656,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Ondřej Češík"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -668,8 +666,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Marcel Palatáš"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -679,8 +676,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Sára Zavřelová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -690,8 +686,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zdeněk Kubala"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -701,8 +696,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Emanuel Žďárský"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -712,8 +706,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jiří Hruška"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -723,8 +716,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Moravec"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -734,8 +726,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Sedlák"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -745,8 +736,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Herman"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -756,8 +746,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Bednář"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -767,8 +756,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Oldřich Vodehnal"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -778,8 +766,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zdeněk Brejša"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -789,8 +776,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Vít"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -800,8 +786,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jiří Kohoutek"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -811,8 +796,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Zbyněk Ruda"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -822,8 +806,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Jaroslav Klimeš"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -833,8 +816,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Richard Pavlík"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -844,8 +826,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Vít Hořenovský"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -855,8 +836,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tomáš Kolomý"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -866,8 +846,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Ondřej Hapala"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -877,8 +856,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Roman Sahula"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -888,8 +866,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Anna Vavřečková"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -899,8 +876,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Tomáš Grosskopf"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -910,8 +886,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Josef Horák"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -921,8 +896,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Filip Vařecha"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -932,8 +906,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Karsten Sachs"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -943,8 +916,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Karel Macek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -954,8 +926,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Hrubeš"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -965,8 +936,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Jitka Bidlová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -976,8 +946,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Ivana Böhmová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -987,8 +956,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Pavel Štěpánek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -998,8 +966,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Stanislav Klát"
+      "reg": 720
     }
   ],
   "name": "Česká pirátská strana",

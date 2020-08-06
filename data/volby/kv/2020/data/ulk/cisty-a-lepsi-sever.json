@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.982Z",
+  "lastUpdate": "2020-08-06T08:10:45.367Z",
   "data": "ulk/cisty-a-lepsi-sever",
   "coalition": [
     156,
@@ -11,7 +11,17 @@
   "logo": "obecne/strany/loga/x-cisty-kraj.jpg",
   "name": "ČISTÝ A LEPŠÍ SEVER",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jindřich Svoboda",
+      "links": [],
+      "reg": 156
+    },
+    {
+      "name": "Jana Brambaški",
+      "links": []
+    }
+  ],
   "links": [
     "https://www.cisty-kraj.cz",
     "https://twitter.com/cistykraj"
@@ -26,8 +36,7 @@
       ],
       "sex": 1,
       "reg": 156,
-      "links": [],
-      "name": "Jindřich Svoboda"
+      "links": []
     },
     {
       "nameFull": [
@@ -36,8 +45,7 @@
         "Brambaški",
         ""
       ],
-      "sex": 1,
-      "name": "Jana Brambaški"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -46,8 +54,7 @@
         "Svoboda",
         ""
       ],
-      "sex": 1,
-      "name": "Jindřich Svoboda"
+      "sex": 1
     }
   ],
   "color": "#113a96"

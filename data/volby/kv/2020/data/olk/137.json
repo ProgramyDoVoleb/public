@@ -1,12 +1,18 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.076Z",
+  "lastUpdate": "2020-08-06T08:10:45.463Z",
   "data": "olk/137",
   "reg": 137,
   "support": [
     79
   ],
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Marián Sedláček",
+      "links": [],
+      "reg": 137
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -16,8 +22,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 137,
-      "name": "Marián Sedláček"
+      "reg": 137
     }
   ],
   "name": "ROZUMNÍ",

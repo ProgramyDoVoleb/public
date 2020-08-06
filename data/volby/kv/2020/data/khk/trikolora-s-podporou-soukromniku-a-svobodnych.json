@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.014Z",
+  "lastUpdate": "2020-08-06T08:10:45.400Z",
   "data": "khk/trikolora-s-podporou-soukromniku-a-svobodnych",
   "coalition": [
     1227,
@@ -8,7 +8,13 @@
   ],
   "name": "Trikolora s podporou Soukromníků a Svobodných",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jiří Matoušek",
+      "links": [],
+      "reg": 1227
+    }
+  ],
   "links": [
     "https://www.facebook.com/trikolorahk"
   ],
@@ -21,8 +27,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1227,
-      "name": "Jiří Matoušek"
+      "reg": 1227
     }
   ],
   "color": "#2b3acc"

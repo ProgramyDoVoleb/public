@@ -159,7 +159,7 @@
     ],
     "source": "https://www.letospodstan.cz/program/"
   },
-  "lastUpdate": "2020-08-06T07:56:50.964Z",
+  "lastUpdate": "2020-08-06T08:10:45.347Z",
   "data": "kvk/166",
   "coalition": [
     166,
@@ -192,7 +192,7 @@
         "https://twitter.com/p_kulhanek",
         "https://www.instagram.com/petr.cool.hanek"
       ],
-      "name": "Petr Kulhánek"
+      "photo": "petr-kulhanek.jpg"
     },
     {
       "nameFull": [
@@ -203,7 +203,10 @@
       ],
       "sex": 1,
       "reg": 166,
-      "name": "Robert Pisár"
+      "links": [
+        "http://www.pomocvnouziops.cz"
+      ],
+      "photo": "robert-pisar.jpg"
     },
     {
       "nameFull": [
@@ -214,7 +217,10 @@
       ],
       "sex": 1,
       "phash": "volba-pro-mesto-cheb",
-      "name": "Antonín Jalovec"
+      "links": [
+        "https://www.facebook.com/antonius.eratosthenesjuniperus"
+      ],
+      "photo": "antonin-jalovec.jpg"
     },
     {
       "nameFull": [
@@ -225,7 +231,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Petr Zahradníček"
+      "links": [
+        "https://www.top09.cz/volby/2020-krajska-zastupitelstva/petr-zahradnicek-27354.html"
+      ],
+      "photo": "petr-zahradnicek-2.jpg"
     },
     {
       "nameFull": [
@@ -236,7 +245,10 @@
       ],
       "sex": 1,
       "reg": 99,
-      "name": "Jan Kuchař"
+      "links": [
+        "https://www.facebook.com/jan.kuchar.988"
+      ],
+      "photo": "jan-kuchar.jpg"
     },
     {
       "nameFull": [
@@ -246,8 +258,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Jan Horník"
+      "reg": 166
     },
     {
       "nameFull": [
@@ -257,8 +268,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 166,
-      "name": "Miroslav Balatka"
+      "reg": 166
     }
   ],
   "color": "#1ebdb7"

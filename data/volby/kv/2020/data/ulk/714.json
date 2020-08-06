@@ -1,9 +1,15 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.989Z",
+  "lastUpdate": "2020-08-06T08:10:45.375Z",
   "data": "ulk/714",
   "reg": 714,
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Pavel Dittrich",
+      "links": [],
+      "reg": 714
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -13,8 +19,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 714,
-      "name": "Pavel Dittrich"
+      "reg": 714
     }
   ],
   "name": "Svobodní",

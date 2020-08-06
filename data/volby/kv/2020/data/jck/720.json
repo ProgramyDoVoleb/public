@@ -110,7 +110,7 @@
     ],
     "source": "https://jihocesky.pirati.cz/program/"
   },
-  "lastUpdate": "2020-08-06T07:56:50.936Z",
+  "lastUpdate": "2020-08-06T08:10:45.305Z",
   "data": "jck/720",
   "reg": 720,
   "links": [
@@ -133,7 +133,7 @@
         "https://jihocesky.pirati.cz/clenove/mares-lukas",
         "https://lide.pirati.cz/personProfile/658/"
       ],
-      "name": "Lukáš Mareš"
+      "photo": "lukas-mares.jpg"
     },
     {
       "nameFull": [
@@ -144,7 +144,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Jan Novák"
+      "links": [
+        "https://jihocesky.pirati.cz/clenove/novak-jan/"
+      ],
+      "photo": "jan-novak.jpg"
     },
     {
       "nameFull": [
@@ -155,7 +158,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Josef Soumar"
+      "links": [
+        "https://jihocesky.pirati.cz/clenove/soumar-josef/"
+      ],
+      "photo": "josef-soumar.jpg"
     },
     {
       "nameFull": [
@@ -166,7 +172,10 @@
       ],
       "sex": 2,
       "reg": 720,
-      "name": "Veronika Kovářová"
+      "links": [
+        "https://jihocesky.pirati.cz/clenove/kovarova-veronika/"
+      ],
+      "photo": "veronika-kovarova.jpg"
     },
     {
       "nameFull": [
@@ -177,7 +186,10 @@
       ],
       "sex": 1,
       "reg": 720,
-      "name": "Jiří Roubíček"
+      "links": [
+        "https://jihocesky.pirati.cz/clenove/roubicek-jiri/"
+      ],
+      "photo": "jiri-roubicek.jpg"
     },
     {
       "nameFull": [
@@ -187,8 +199,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Martin Kákona"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -198,8 +209,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Dan Leština"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -209,8 +219,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Jan Hošek"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -220,8 +229,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 720,
-      "name": "Lucie Korytářová"
+      "reg": 720
     },
     {
       "nameFull": [
@@ -231,8 +239,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 720,
-      "name": "Lukáš Kolářík"
+      "reg": 720
     }
   ],
   "name": "Česká pirátská strana",

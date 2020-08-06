@@ -1,11 +1,17 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.946Z",
+  "lastUpdate": "2020-08-06T08:10:45.321Z",
   "data": "jck/1190",
   "reg": 1190,
   "program": {
     "motto": "Dačicko není v Čechách!"
   },
-  "people": [],
+  "people": [
+    {
+      "name": "Bohumil Šuhaj",
+      "links": [],
+      "reg": 1190
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -15,8 +21,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1190,
-      "name": "Bohumil Šuhaj"
+      "reg": 1190
     }
   ],
   "name": "Moravské zemské hnutí",

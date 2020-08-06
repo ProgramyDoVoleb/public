@@ -1,9 +1,15 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.932Z",
+  "lastUpdate": "2020-08-06T08:10:45.301Z",
   "data": "stk/156",
   "reg": 156,
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jan Hřivna",
+      "links": [],
+      "reg": 156
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -13,8 +19,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 156,
-      "name": "Jan Hřivna"
+      "reg": 156
     }
   ],
   "name": "Dělnická strana sociální spravedlnosti",

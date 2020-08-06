@@ -48,7 +48,7 @@
       "quote": "Ústecký kraj a především oblast Národního parku České Švýcarsko se stává stále častějším cílem aktivně strávených dovolených. Není divu, protože toto místo patří k nejkrásnějším v Čechách a stále je tu co objevovat. Region má obrovský potenciál rozvoje cestovního ruchu, který je třeba smysluplně uchopit. Dobudování infrastruktury, mimo jiné i cyklostezek, a inženýrských sítí, zamezení nesystematického rušení autobusových a vlakových spojení to jsou témata, která pálí tuto část Ústeckého kraje. Naší snahou je rovněž podpora příchodu lékařů do našeho regionu. Zde na severu žijeme, pracujeme a aktivně se zapojujeme do veřejného života. "
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:50.973Z",
+  "lastUpdate": "2020-08-06T08:10:45.357Z",
   "data": "ulk/704",
   "reg": 704,
   "program": {},
@@ -72,7 +72,7 @@
         "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-petr-pipal",
         "https://www.facebook.com/IngPetrPipal"
       ],
-      "name": "Petr Pípal"
+      "photo": "petr-pipal.png"
     },
     {
       "nameFull": [
@@ -83,7 +83,10 @@
       ],
       "sex": 1,
       "reg": 704,
-      "name": "Lukas Wünsch"
+      "links": [
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/lukas-w-nsch"
+      ],
+      "photo": "lukas_wunsch.png"
     },
     {
       "nameFull": [
@@ -94,7 +97,10 @@
       ],
       "sex": 1,
       "reg": 704,
-      "name": "Bronislav Schwarz"
+      "links": [
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-bronislav-schwarz"
+      ],
+      "photo": "bronislav_schwarc.png"
     },
     {
       "nameFull": [
@@ -105,7 +111,10 @@
       ],
       "sex": 1,
       "reg": 704,
-      "name": "Jaroslav Doubrava"
+      "links": [
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/senator-jaroslav-doubrava"
+      ],
+      "photo": "jaroslav-doubrava.png"
     },
     {
       "nameFull": [
@@ -116,7 +125,10 @@
       ],
       "sex": 1,
       "reg": 704,
-      "name": "Radek Slavík"
+      "links": [
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-bc-radek-slavik"
+      ],
+      "photo": "radek_slavik.png"
     },
     {
       "nameFull": [
@@ -126,8 +138,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Milan Kožnar"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -137,8 +148,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Čestmír Pastýřík"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -148,8 +158,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Jan Bukva"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -159,8 +168,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Martin Šimek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -170,8 +178,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Květa Rybárová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -181,8 +188,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "František Moravec"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -192,8 +198,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Rostislav Domorák"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -203,8 +208,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Josef Kohout"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -214,8 +218,7 @@
         "MBA"
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Šárka Štruplová Růžičková"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -225,8 +228,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Jiří Janeček"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -236,8 +238,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Tomáš Rybár"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -247,8 +248,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Jiří Petrovský"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -258,8 +258,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Martin Domín"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -269,8 +268,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Luděk Jirman"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -280,8 +278,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Jiří Skřivánek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -291,8 +288,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Simona Bukvová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -302,8 +298,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Milan Turoň"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -313,8 +308,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Luboš Jirka"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -324,8 +318,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Václav Hrdlička"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -335,8 +328,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Miluše Maskulanisová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -346,8 +338,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Daniel Běhounek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -357,8 +348,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Marie Hervertová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -368,8 +358,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Ivan Geist"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -379,8 +368,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Martina Šípová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -390,8 +378,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Olga Kubelková"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -401,8 +388,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Svatopluk Matějka"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -412,8 +398,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Tomáš Ondrášek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -423,8 +408,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Zdeňka Šteflíková"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -434,8 +418,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Jana Sýkorová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -445,8 +428,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Jitka Jankovská"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -456,8 +438,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Kotýnek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -467,8 +448,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Milan Rybák"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -478,8 +458,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Aleš Bechyně"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -489,8 +468,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Jana Kohlová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -500,8 +478,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Ivo Valášek"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -511,8 +488,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Hana Jelínková"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -522,8 +498,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Martin Topš"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -533,8 +508,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Lukáš Bartuška"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -544,8 +518,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Alena Dvořáková"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -555,8 +528,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Dagmar Nachtmannová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -566,8 +538,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Tomáš Bočkaj"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -577,8 +548,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Josef Hořeňovský"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -588,8 +558,7 @@
         "DiS."
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Petr Klingr"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -599,8 +568,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 704,
-      "name": "Marcela Velcová"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -610,8 +578,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Zbyněk Vodák"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -621,8 +588,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Jiří Vlček"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -632,8 +598,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Martin Hajný"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -643,8 +608,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Luboš Barták"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -654,8 +618,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Tomáš Liška"
+      "reg": 704
     },
     {
       "nameFull": [
@@ -665,8 +628,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 704,
-      "name": "Josef Kalina"
+      "reg": 704
     }
   ],
   "name": "Severočeši.cz",

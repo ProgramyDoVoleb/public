@@ -6,9 +6,21 @@
       "photo": "miroslav-koliba.jpg",
       "about": "Dostupnost kvalitní zdravotní péče pro celý kraj",
       "quote": "Denně ošetruji lidi od Karviné, přes Bruntál po Nový Jičín. Naslouchám o problémech, které mají řešení. Naším cílem je pomáhat a ne bojovat nebo pomlouvat."
+    },
+    {
+      "name": "Michal Joshua Frána",
+      "links": []
+    },
+    {
+      "name": "Karin Kuchaříková",
+      "links": []
+    },
+    {
+      "name": "Jana Výmolová",
+      "links": []
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.104Z",
+  "lastUpdate": "2020-08-06T08:10:45.493Z",
   "data": "msk/ank2020",
   "name": "Alternativa pro nezávislé kandidáty",
   "program": {},
@@ -27,7 +39,7 @@
       ],
       "sex": 1,
       "phash": "alternativa-pro-nezavisle-kandidaty",
-      "name": "Miroslav Koliba"
+      "photo": "miroslav-koliba.jpg"
     },
     {
       "nameFull": [
@@ -36,8 +48,7 @@
         "Frána",
         ""
       ],
-      "sex": 1,
-      "name": "Michal Joshua Frána"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -46,8 +57,7 @@
         "Kuchaříková",
         ""
       ],
-      "sex": 2,
-      "name": "Karin Kuchaříková"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -56,8 +66,7 @@
         "Výmolová",
         ""
       ],
-      "sex": 2,
-      "name": "Jana Výmolová"
+      "sex": 2
     }
   ],
   "color": "#aaa"

@@ -9,9 +9,19 @@
           "label": "FB profil"
         }
       ]
+    },
+    {
+      "name": "Pavel Šrámek",
+      "links": [],
+      "reg": 1119
+    },
+    {
+      "name": "Tomáš Rada",
+      "links": [],
+      "reg": 181
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:50.951Z",
+  "lastUpdate": "2020-08-06T08:10:45.328Z",
   "data": "plk/koalice-pro-plzensky-kraj",
   "coalition": [
     1,
@@ -36,8 +46,7 @@
       "reg": 1,
       "links": [
         "https://www.facebook.com/profile.php?id=100007295835833"
-      ],
-      "name": "Ivana Bartošová"
+      ]
     },
     {
       "nameFull": [
@@ -47,8 +56,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1119,
-      "name": "Pavel Šrámek"
+      "reg": 1119
     },
     {
       "nameFull": [
@@ -58,8 +66,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 181,
-      "name": "Tomáš Rada"
+      "reg": 181
     }
   ],
   "color": "#fec92f"

@@ -45,7 +45,7 @@
       "about": "obchodní ředitel, krajský předseda KDU-ČSL, předseda Spolku pro záchranu hradu Kyšperk, z.s."
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:50.972Z",
+  "lastUpdate": "2020-08-06T08:10:45.356Z",
   "data": "ulk/53",
   "reg": 53,
   "support": [
@@ -70,7 +70,7 @@
         "https://www.ods.cz/region.ustecky/profil/1837-jiri-kulhanek",
         "https://www.facebook.com/jiri.kulhanek.73"
       ],
-      "name": "Jiří Kulhánek"
+      "photo": "jiri-kulhanek.jpg"
     },
     {
       "nameFull": [
@@ -81,7 +81,10 @@
       ],
       "sex": 2,
       "reg": 53,
-      "name": "Iva Dvořáková"
+      "links": [
+        "https://www.ods.cz/region.ustecky/volby2020/krajske/kandidati/3988-iva-dvorakova"
+      ],
+      "photo": "iva-dvorakova.jpg"
     },
     {
       "nameFull": [
@@ -92,7 +95,10 @@
       ],
       "sex": 1,
       "reg": 53,
-      "name": "Tomáš Rieger"
+      "links": [
+        "https://www.ods.cz/region.ustecky/volby2020/krajske/kandidati/5194-tomas-rieger"
+      ],
+      "photo": "tomas-rieger.jpg"
     },
     {
       "nameFull": [
@@ -103,7 +109,10 @@
       ],
       "sex": 2,
       "reg": 53,
-      "name": "Drahomíra Karasová"
+      "links": [
+        "http://www.miklosova.cz/"
+      ],
+      "photo": "drahomira-karasova.jpg"
     },
     {
       "nameFull": [
@@ -114,7 +123,9 @@
       ],
       "sex": 1,
       "reg": 1,
-      "name": "Jan Růžička"
+      "links": [
+        "https://www.ods.cz/region.ustecky/volby2020/krajske/kandidati/35188-jan-ruzicka"
+      ]
     },
     {
       "nameFull": [
@@ -124,8 +135,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Zdenka Vachková"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -135,8 +145,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jiří Pimpara"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -146,8 +155,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Zdeněk Kutner"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -157,8 +165,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jiří Kalous"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -168,8 +175,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Jitka Gavdunová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -179,8 +185,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Marcel Kollmann"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -190,8 +195,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Michal Šidák"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -201,8 +205,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Pavlína Hapštáková"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -212,8 +215,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Jiří Skřivánek"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -223,8 +225,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Pinka"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -234,8 +235,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Pillár"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -245,8 +245,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Tomáš Brčák"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -256,8 +255,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Jana Machová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -267,8 +265,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Eva Böhmová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -278,8 +275,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Kateřina Kastnerová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -289,8 +285,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Alexandra Moravcová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -300,8 +295,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Michal Voltr"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -311,8 +305,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Helena Zemánková Týřová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -322,8 +315,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Zdeňka Rulíšková"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -333,8 +325,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Jana Pražanová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -344,8 +335,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Rostislav Kadlec"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -355,8 +345,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Tomáš Horyna"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -366,8 +355,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jan Ťažký"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -377,8 +365,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Tetřev"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -388,8 +375,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Tošovský"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -399,8 +385,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Hana Šindelářová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -410,8 +395,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1,
-      "name": "Antonín Štěpanovský"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -421,8 +405,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Vojtěch Srba"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -432,8 +415,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Roland Hase"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -443,8 +425,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Šošško"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -454,8 +435,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Radek Reindl"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -465,8 +445,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jindřich Petráček"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -476,8 +455,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jiří Balej"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -487,8 +465,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Georgij Fibich"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -498,8 +475,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Hellmich"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -509,8 +485,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 1,
-      "name": "Zdeňka Terezie Špringlová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -520,8 +495,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Romana Pospíšilová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -531,8 +505,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jan Železný"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -542,8 +515,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 99,
-      "name": "Tereza Rambousková"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -553,8 +525,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Pavlína Kalitová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -564,8 +535,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Švejda"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -575,8 +545,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Veronika Prchalová"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -586,8 +555,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jiří Laštůvka"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -597,8 +565,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Václav Hofmann"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -608,8 +575,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 99,
-      "name": "Tomáš Liška"
+      "reg": 99
     },
     {
       "nameFull": [
@@ -619,8 +585,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Filip Hrbek"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -630,8 +595,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jan Dvořák"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -641,8 +605,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Jitka Horáková"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -652,8 +615,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Bohumil Kurka"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -663,8 +625,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jan Losenický"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -674,8 +635,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Dvořák"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -685,8 +645,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Kašpar"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -696,8 +655,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 1,
-      "name": "Hana Zvalová"
+      "reg": 1
     },
     {
       "nameFull": [
@@ -707,8 +665,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Stanislav Zaspal"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -718,8 +675,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Jan Novotný"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -729,8 +685,7 @@
         ""
       ],
       "sex": 2,
-      "reg": 53,
-      "name": "Sabina Chládková"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -740,8 +695,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Pavel Šlesinger"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -751,8 +705,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Petr Jindřich"
+      "reg": 53
     },
     {
       "nameFull": [
@@ -762,8 +715,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 53,
-      "name": "Josef Marcel"
+      "reg": 53
     }
   ],
   "name": "Občanská demokratická strana",

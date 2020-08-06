@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.042Z",
+  "lastUpdate": "2020-08-06T08:10:45.427Z",
   "data": "vys/trikolora-soukromnici",
   "coalition": [
     1227,
@@ -7,7 +7,13 @@
   ],
   "name": "Trikolora-Soukromníci",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jan Tesař",
+      "links": [],
+      "reg": 1227
+    }
+  ],
   "links": [
     "https://www.facebook.com/volimtrikoloruVysocina"
   ],
@@ -20,8 +26,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1227,
-      "name": "Jan Tesař"
+      "reg": 1227
     }
   ],
   "color": "#2b3acc"

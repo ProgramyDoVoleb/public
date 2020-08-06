@@ -1,9 +1,25 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.980Z",
+  "lastUpdate": "2020-08-06T08:10:45.365Z",
   "data": "ulk/7",
   "reg": 7,
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Jaroslav Krákora",
+      "links": [],
+      "reg": 7
+    },
+    {
+      "name": "Petr Benda",
+      "links": [],
+      "reg": 7
+    },
+    {
+      "name": "Michal Ševcovic",
+      "links": [],
+      "reg": 7
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -13,8 +29,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Jaroslav Krákora"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -24,8 +39,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Petr Benda"
+      "reg": 7
     },
     {
       "nameFull": [
@@ -35,8 +49,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 7,
-      "name": "Michal Ševcovic"
+      "reg": 7
     }
   ],
   "name": "Česká strana sociálně demokratická",

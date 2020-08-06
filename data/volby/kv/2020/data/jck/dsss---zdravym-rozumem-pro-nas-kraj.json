@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.946Z",
+  "lastUpdate": "2020-08-06T08:10:45.320Z",
   "data": "jck/dsss---zdravym-rozumem-pro-nas-kraj",
   "coalition": [
     156,
@@ -10,7 +10,13 @@
   ],
   "name": "DSSS - ZDRAVÝM ROZUMEM PRO NÁŠ KRAJ",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Roman Pospíšil",
+      "links": [],
+      "reg": 156
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -20,8 +26,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 156,
-      "name": "Roman Pospíšil"
+      "reg": 156
     }
   ],
   "color": "#113a96"

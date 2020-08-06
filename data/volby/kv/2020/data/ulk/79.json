@@ -1,9 +1,15 @@
 {
-  "lastUpdate": "2020-08-06T07:56:50.989Z",
+  "lastUpdate": "2020-08-06T08:10:45.374Z",
   "data": "ulk/79",
   "reg": 79,
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Petr Žák",
+      "links": [],
+      "reg": 79
+    }
+  ],
   "list": [
     {
       "nameFull": [
@@ -13,8 +19,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 79,
-      "name": "Petr Žák"
+      "reg": 79
     }
   ],
   "name": "Národní demokracie",

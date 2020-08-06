@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2020-08-06T07:56:51.026Z",
+  "lastUpdate": "2020-08-06T08:10:45.413Z",
   "data": "pak/trikolora-hnuti-obcanu-a-strana-soukromniku-ceske-republiky",
   "coalition": [
     1227,
@@ -7,7 +7,15 @@
   ],
   "name": "Trikolóra hnutí občanů a Strana soukromníků České republiky",
   "program": {},
-  "people": [],
+  "people": [
+    {
+      "name": "Petr Bajer",
+      "links": [
+        "https://www.facebook.com/bajer.petr"
+      ],
+      "reg": 716
+    }
+  ],
   "links": [
     "https://www.facebook.com/volimtrikolorukrajpardubicky/",
     "https://www.facebook.com/Soukromn%C3%ADci-Pardubick%C3%BD-kraj-112031268946067/"
@@ -24,8 +32,7 @@
       "reg": 716,
       "links": [
         "https://www.facebook.com/bajer.petr"
-      ],
-      "name": "Petr Bajer"
+      ]
     }
   ],
   "color": "#2b3acc"

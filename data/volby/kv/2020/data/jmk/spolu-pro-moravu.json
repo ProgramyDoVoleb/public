@@ -45,7 +45,7 @@
       ]
     }
   ],
-  "lastUpdate": "2020-08-06T07:56:51.056Z",
+  "lastUpdate": "2020-08-06T08:10:45.439Z",
   "data": "jmk/spolu-pro-moravu",
   "coalition": [
     721,
@@ -83,7 +83,7 @@
         "https://twitter.com/JanVitula",
         "https://www.instagram.com/vitula1"
       ],
-      "name": "Jan Vitula"
+      "photo": "jan-vitula.jpg"
     },
     {
       "nameFull": [
@@ -93,7 +93,10 @@
         ""
       ],
       "sex": 2,
-      "name": "Jana Drápalová"
+      "links": [
+        "https://www.facebook.com/jana.drapalova.35"
+      ],
+      "photo": "jana-drapalova.jpg"
     },
     {
       "nameFull": [
@@ -104,7 +107,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Tomáš Třetina"
+      "links": [
+        "https://www.tomastretina.cz/"
+      ],
+      "photo": "tomas-tretina.jpg"
     },
     {
       "nameFull": [
@@ -114,7 +120,7 @@
         ""
       ],
       "sex": 1,
-      "name": "Jan Schneider"
+      "photo": "jan-schneider.jpg"
     },
     {
       "nameFull": [
@@ -125,7 +131,10 @@
       ],
       "sex": 1,
       "reg": 721,
-      "name": "Petr Kunc"
+      "links": [
+        "https://www.facebook.com/Petr-Kunc-101144454971624/"
+      ],
+      "photo": "petr-kunc.jpg"
     },
     {
       "nameFull": [
@@ -135,8 +144,7 @@
         ""
       ],
       "sex": 1,
-      "reg": 1190,
-      "name": "Jiří Kacetl"
+      "reg": 1190
     },
     {
       "nameFull": [
@@ -145,8 +153,7 @@
         "Doležal",
         ""
       ],
-      "sex": 1,
-      "name": "Michal Doležal"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -155,8 +162,7 @@
         "Vencálek",
         ""
       ],
-      "sex": 1,
-      "name": "Matouš Vencálek"
+      "sex": 1
     },
     {
       "nameFull": [
@@ -165,8 +171,7 @@
         "Potměšilová",
         ""
       ],
-      "sex": 2,
-      "name": "Hana Potměšilová"
+      "sex": 2
     },
     {
       "nameFull": [
@@ -175,8 +180,7 @@
         "Veselý",
         ""
       ],
-      "sex": 1,
-      "name": "David Veselý"
+      "sex": 1
     }
   ],
   "color": "#531a92"
