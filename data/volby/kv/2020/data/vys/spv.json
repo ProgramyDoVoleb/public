@@ -8,20 +8,16 @@
       "quote": "za 14 let práce v komunální 8 let v krajské politice mám dostatek zkušeností, vzdělání a energie."
     },
     {
-      "name": "Karolína Koubová",
-      "links": []
+      "name": "Karolína Koubová"
     },
     {
-      "name": "Martin Mrkos",
-      "links": []
+      "name": "Martin Mrkos"
     },
     {
-      "name": "Pavel Pacal",
-      "links": []
+      "name": "Pavel Pacal"
     },
     {
-      "name": "Bohumír Nikl",
-      "links": []
+      "name": "Bohumír Nikl"
     }
   ],
   "program": {
@@ -385,7 +381,12 @@
         "Koubová",
         ""
       ],
-      "sex": 2
+      "sex": 2,
+      "links": [
+        "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Koubov%C3%A1"
+      ],
+      "work": "primátorka Jihlavy",
+      "age": 35
     },
     {
       "nameFull": [
@@ -394,7 +395,11 @@
         "Mrkos",
         ""
       ],
-      "sex": 1
+      "links": [
+        "https://www.zdarns.cz/samosprava/starosta-mistostarosta/"
+      ],
+      "sex": 1,
+      "work": "starosta Žďáru nad Sázavou"
     },
     {
       "nameFull": [
