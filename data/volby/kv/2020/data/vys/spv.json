@@ -4,20 +4,24 @@
       "reg": 166,
       "name": "Lukáš Vlček",
       "photo": "lukas-vlcek.jpg",
-      "about": "Našimi hlavními prioritami jsou: mobilita, udržitelné životní prostředí a rozvoj veřejných služeb. Chceme posílit nástroje pro zadržování vody a práci s krajinou. Kraj Vysočina musí projít zásadní modernizací pro 21. století, například vyššími investicemi do datových sítí.",
-      "quote": "za 14 let práce v komunální 8 let v krajské politice mám dostatek zkušeností, vzdělání a energie."
+      "about": "Už 14 let pracuje jako starosta Pacova, krásného města na západě Vysočiny. Studoval v Brně na Fakultě sociálních studií a na Ekonomicko-správní fakultě. Práci ve veřejném sektoru zasvětil téměř celou svou dosavadní kariéru. Má za sebou ale také několik let zkušeností z privátního sektoru.<br><br>V roce 2018 ho odborná komise zvolila vítězem v soutěži Nejlepší starosta pro Kraj Vysočina za uplynulé volební období. Porota posuzovala jeho osobní přínos pro město, přístup k funkci starosty i výsledky.<br><br>Krajským zastupitelem je již od roku 2012. Lukáš je zároveň i předsedou mikroregionu Stražiště a Regionální komise Svazu měst a obcí.",
+      "quote": "za 14 let práce v komunální 8 let v krajské politice mám dostatek zkušeností, vzdělání a energie. Našimi hlavními prioritami jsou: mobilita, udržitelné životní prostředí a rozvoj veřejných služeb. Chceme posílit nástroje pro zadržování vody a práci s krajinou. Kraj Vysočina musí projít zásadní modernizací pro 21. století, například vyššími investicemi do datových sítí."
     },
     {
-      "name": "Karolína Koubová"
+      "name": "Roman Fabeš",
+      "about": "Roman Fabeš je jedním z nejdéle sloužících starostů v republice. V čele Telče stojí už páté volební období a o jeho oblíbenosti mezi místními svědčí i fakt, že v posledních komunálních volbách vyhrál se ziskem nejvyššího počtu preferenčních hlasů. Do politiky v roce 1998, kdy se stal zastupitelem v Telči. Vystudoval Přírodovědeckou fakultu Masarykovy univerzity v Brně a následně pracoval jako učitel zeměpisu a matematiky na telčském gymnáziu. Od roku 2002 je v Telči starostou."
     },
     {
-      "name": "Martin Mrkos"
+      "name": "Pavel Pacal",
+      "about": "Pavel Pacal má bohaté zkušenosti v práci na komunální i krajské úrovni. Jako náměstek hejtmana, kterým se stal v roce 2016, má na starosti dotační systém spolu s oblastí regionálního rozvoje a územního plánování. Od roku 2018 je i starostou Třebíče. Vystudoval Univerzitu Palackého v Olomouci a následně pracoval jako učitel a ředitel na ZŠ Na Kopcích. V letech 2010-2018 byl místostarostou města Třebíč a věnoval se správě majetku, školství, financím, informatice a krizovému řízení."
     },
     {
-      "name": "Pavel Pacal"
+      "name": "Martin Mrkos",
+      "about": "Martin Mrkos se stal starostou města Žďár nad Sázavou před dvěma lety. Vystudoval obor Finance a oceňování podniku na Vysoké škole ekonomické v Praze. Má za sebou zkušenosti jako finanční specialista a analytik. Od roku 2016 je i krajským zastupitelem."
     },
     {
-      "name": "Bohumír Nikl"
+      "name": "Zdeněk Tůma",
+      "about": "Zdeněk Tůma vystudoval v Praze Vysokou školu chemicko-technologickou. Do zastupitelstva Ledče nad Sázavou se poprvé dostal před 18 lety. V roce 2014 byl zvolen starostou města."
     }
   ],
   "program": {
@@ -368,6 +372,7 @@
       "home": "Pacov",
       "reg": 166,
       "links": [
+        "http://www.vlcekprovysocinu.cz/",
         "https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas",
         "https://www.facebook.com/VlcekProVysocinu",
         "https://www.instagram.com/vlcek.starosta"
@@ -392,6 +397,9 @@
         "Pacal",
         ""
       ],
+      "links": [
+        "https://www.facebook.com/StarostaPavelPacal"
+      ],
       "sex": 1,
       "work": "náměstek hejtmana, starosta",
       "home": "Třebíč"
@@ -407,53 +415,11 @@
       "work": "starosta Žďáru nad Sázavou",
       "home": "Žďár nad Sázavou",
       "links": [
+        "https://www.facebook.com/StarostaMartinMrkos/",
+        "https://www.instagram.com/martin_mrkos/",
         "https://www.zdarns.cz/samosprava/starosta-mistostarosta/"
       ],
       "sex": 1
-    },
-    {
-      "nameFull": [
-        "",
-        "Zdeněk",
-        "Navrátil",
-        ""
-      ],
-      "sex": 1,
-      "work": "projektový manažer, radní",
-      "home": "Žďár nad Sázavou"
-    },
-    {
-      "nameFull": [
-        "",
-        "Bohumír",
-        "Nikl",
-        ""
-      ],
-      "sex": 1,
-      "work": "starosta",
-      "home": "Ždírec nad Doubravou"
-    },
-    {
-      "nameFull": [
-        "",
-        "Libor",
-        "Kuchyňa",
-        ""
-      ],
-      "sex": 1,
-      "work": "záchranář, zakladatel sportovní akademie",
-      "home": "Jihlava"
-    },
-    {
-      "nameFull": [
-        "",
-        "Miloň",
-        "Slabý",
-        ""
-      ],
-      "sex": 1,
-      "work": "starosta",
-      "home": "Jemnice"
     },
     {
       "nameFull": [
@@ -502,6 +468,50 @@
       "sex": 1,
       "work": "starosta",
       "home": "Těchobuz"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Navrátil",
+        ""
+      ],
+      "sex": 1,
+      "work": "projektový manažer, radní",
+      "home": "Žďár nad Sázavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohumír",
+        "Nikl",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Ždírec nad Doubravou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Kuchyňa",
+        ""
+      ],
+      "sex": 1,
+      "work": "záchranář, zakladatel sportovní akademie",
+      "home": "Jihlava"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloň",
+        "Slabý",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Jemnice"
     },
     {
       "nameFull": [
