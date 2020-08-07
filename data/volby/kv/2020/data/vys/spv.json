@@ -351,11 +351,9 @@
   ],
   "name": "Starostové pro Vysočinu",
   "links": [
-    "https://www.starostove-nezavisli.cz/regiony/vysocina",
-    "http://www.snked.cz",
+    "https://www.provysocinu2020.cz/",
     "https://www.facebook.com/ProVysocinu",
-    "https://www.facebook.com/STAN.Kraj.Vysocina",
-    "https://www.facebook.com/snked"
+    "http://instagram.com/provysocinu"
   ],
   "list": [
     {
@@ -366,6 +364,8 @@
         ""
       ],
       "sex": 1,
+      "work": "starosta, držitel titulu Nejlepší starosta kraje",
+      "home": "Pacov",
       "reg": 166,
       "links": [
         "https://www.starostove-nezavisli.cz/regiony/vysocina/vlcek-lukas",
@@ -377,29 +377,13 @@
     {
       "nameFull": [
         "",
-        "Karolína",
-        "Koubová",
+        "Roman",
+        "Fabeš",
         ""
-      ],
-      "sex": 2,
-      "links": [
-        "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Koubov%C3%A1"
-      ],
-      "work": "primátorka Jihlavy",
-      "age": 35
-    },
-    {
-      "nameFull": [
-        "",
-        "Martin",
-        "Mrkos",
-        ""
-      ],
-      "links": [
-        "https://www.zdarns.cz/samosprava/starosta-mistostarosta/"
       ],
       "sex": 1,
-      "work": "starosta Žďáru nad Sázavou"
+      "work": "starosta",
+      "home": "Telč"
     },
     {
       "nameFull": [
@@ -408,7 +392,35 @@
         "Pacal",
         ""
       ],
+      "sex": 1,
+      "work": "náměstek hejtmana, starosta",
+      "home": "Třebíč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Mrkos",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta Žďáru nad Sázavou",
+      "home": "Žďár nad Sázavou",
+      "links": [
+        "https://www.zdarns.cz/samosprava/starosta-mistostarosta/"
+      ],
       "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Navrátil",
+        ""
+      ],
+      "sex": 1,
+      "work": "projektový manažer, radní",
+      "home": "Žďár nad Sázavou"
     },
     {
       "nameFull": [
@@ -417,7 +429,31 @@
         "Nikl",
         ""
       ],
-      "sex": 1
+      "sex": 1,
+      "work": "starosta",
+      "home": "Ždírec nad Doubravou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Kuchyňa",
+        ""
+      ],
+      "sex": 1,
+      "work": "záchranář, zakladatel sportovní akademie",
+      "home": "Jihlava"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloň",
+        "Slabý",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Jemnice"
     },
     {
       "nameFull": [
@@ -426,16 +462,464 @@
         "Tůma",
         ""
       ],
-      "sex": 1
+      "sex": 1,
+      "work": "starosta",
+      "home": "Ledeč nad Sázavou"
     },
     {
       "nameFull": [
         "",
-        "Roman",
-        "Fabeš",
+        "Karolína",
+        "Koubová",
         ""
       ],
-      "sex": 1
+      "sex": 2,
+      "work": "primátorka Jihlavy",
+      "home": "Jihlava",
+      "links": [
+        "https://cs.wikipedia.org/wiki/Karol%C3%ADna_Koubov%C3%A1"
+      ],
+      "age": 35
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Burda",
+        ""
+      ],
+      "sex": 1,
+      "work": "radní, předseda Rady dětí a mládeže",
+      "home": "Třebíč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Hájek",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Těchobuz"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Kiesewetterová",
+        ""
+      ],
+      "sex": 2,
+      "work": "místostarostka",
+      "home": "Moravské Budějovice"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Starý",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Sobíňov"
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Požárová",
+        ""
+      ],
+      "sex": 2,
+      "work": "místostarostka",
+      "home": "Třešť"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiřina",
+        "Jurdová",
+        ""
+      ],
+      "sex": 2,
+      "work": "zastupitelka, ekonomka",
+      "home": "Velké Meziříčí"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Antonů",
+        ""
+      ],
+      "sex": 1,
+      "work": "IT specialista",
+      "home": "Jihlava"
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Vlček",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Velká Bíteš"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Hrala",
+        ""
+      ],
+      "sex": 1,
+      "work": "pracovník v regionálním rozvoji",
+      "home": "Humpolec"
+    },
+    {
+      "nameFull": [
+        "",
+        "Karolína",
+        "Kostečková",
+        ""
+      ],
+      "sex": 2,
+      "work": "manažerka firmy",
+      "home": "Žďár nad Sázavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Jakeš",
+        ""
+      ],
+      "sex": 1,
+      "work": "ředitel ZŠ Štoky",
+      "home": "Havlíčkův Brod"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Škodová",
+        ""
+      ],
+      "sex": 2,
+      "work": "starostka",
+      "home": "Hrotovice"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivan",
+        "Šulc",
+        ""
+      ],
+      "sex": 1,
+      "work": "místostarosta",
+      "home": "Stonařov"
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Hnik",
+        ""
+      ],
+      "sex": 1,
+      "work": "místostarosta",
+      "home": "Světlá nad Sázavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Štefl",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Počátky"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Schwarz",
+        ""
+      ],
+      "sex": 1,
+      "work": "umělecký kovář",
+      "home": "Havlíčkův Brod"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Rajdlík",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Nová Cerekev"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Žáková",
+        ""
+      ],
+      "sex": 2,
+      "work": "senátorka",
+      "home": "Koněšín"
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Kunst",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Horní Cerekev"
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Černá",
+        ""
+      ],
+      "sex": 1,
+      "work": "ekonomka, zastupitelka",
+      "home": "Třebíč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Kulhánek",
+        ""
+      ],
+      "sex": 1,
+      "work": "klinický psycholog, radní",
+      "home": "Žďár nad Sázavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Skočdopole",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Polná"
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Malý",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Želetava"
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Zadražilová",
+        ""
+      ],
+      "sex": 2,
+      "work": "starostka",
+      "home": "Moraveč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Prošek",
+        ""
+      ],
+      "sex": 1,
+      "work": "radní, zástupce ředitele gymnázia",
+      "home": "Štoky"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Mašík",
+        ""
+      ],
+      "sex": 1,
+      "work": "zastupitel",
+      "home": "Bystřice nad Pernštejnem"
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Bustová",
+        ""
+      ],
+      "sex": 2,
+      "work": "starostka",
+      "home": "Litohoř"
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Veletová",
+        ""
+      ],
+      "sex": 2,
+      "work": "starostka",
+      "home": "Košetice"
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Maslák",
+        ""
+      ],
+      "sex": 1,
+      "work": "ředitel HZS ÚO Třebíč",
+      "home": "Třešť"
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Březka",
+        ""
+      ],
+      "sex": 1,
+      "work": "technik, bývalý starosta",
+      "home": "Bory"
+    },
+    {
+      "nameFull": [
+        "",
+        "Beata",
+        "Bílková",
+        ""
+      ],
+      "sex": 2,
+      "work": "zubní lékařka",
+      "home": "Žďár nad Sázavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Přibyl",
+        ""
+      ],
+      "sex": 1,
+      "work": "radní, stavební inženýr",
+      "home": "Brtnice"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromíra",
+        "Hanáčková",
+        ""
+      ],
+      "sex": 2,
+      "work": "ředitelka MKS Třebíč",
+      "home": "Třebíč"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Jirsa",
+        ""
+      ],
+      "sex": 1,
+      "work": "zastupitel, projektant elektro",
+      "home": "Dolní Cerekev"
+    },
+    {
+      "nameFull": [
+        "",
+        "Oldřich",
+        "Záruba",
+        ""
+      ],
+      "sex": 1,
+      "work": "sládek a jednatel pivovaru Chotěboř",
+      "home": "Havlíčkův Brod"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Buňata",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Želiv"
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Dibelka",
+        ""
+      ],
+      "sex": 1,
+      "work": "zastupitel, místopředseda představenstva AGRO",
+      "home": "Golčův Jeníkov"
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivan",
+        "Kuželka",
+        ""
+      ],
+      "sex": 1,
+      "work": "klinický radiobiologický fyzik",
+      "home": "Havlíčkův Brod"
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Měrka",
+        ""
+      ],
+      "sex": 1,
+      "work": "starosta",
+      "home": "Náměšť nad Oslavou"
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Marková",
+        ""
+      ],
+      "sex": 2,
+      "work": "ředitelka plavecké školy, předsedkyně správní rady Domácí hospic Vysočina",
+      "home": "Nové Město na Moravě"
     }
   ],
   "color": "#1ebdb7"
