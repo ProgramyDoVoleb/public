@@ -11,7 +11,7 @@ json.forEach((o, i) => {
   if (ff) {
     var obv = JSON.parse(ff)
 
-    obv.svg = null;
+    obv.svg = [[15, 50], [16, 51]];
 
     fs.writeFileSync(f + '.json', JSON.stringify(obv, null, 2));
     fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewbox="0 0 500 600"><path d="' + o + '" /></svg>');
