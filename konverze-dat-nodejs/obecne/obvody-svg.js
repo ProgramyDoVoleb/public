@@ -20,6 +20,6 @@ json.forEach((o, i) => {
     })
 
     fs.writeFileSync(f + '.json', JSON.stringify(obv, null, 2));
-    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + c.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><mask id="mm"><path d="' + o.d + '" fill="#000" /></mask><rect x="-10000" y="-10000" width="30000" height="30000" fill="#000" opacity=".3" /></svg>');
+    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + c.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><mask id="mm"><rect x="-10000" y="-10000" width="30000" height="30000" fill="#fff" /><path d="' + o.d + '" fill="#000" /></mask><rect x="-10000" y="-10000" width="30000" height="30000" fill="#fff" opacity="1" mask="url(#mm)" /></svg>');
   }
 });
