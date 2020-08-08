@@ -11,7 +11,7 @@ json.forEach((o, i) => {
   if (ff) {
     var obv = JSON.parse(ff)
 
-    obv.svg = [[15, 50], [16, 51]];
+    obv.svg = [];
 
     var c = [];
 
