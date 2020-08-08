@@ -16,11 +16,10 @@ json.forEach((o, i) => {
     var c = []
 
     o.bb.forEach(b => {
-      console.log(b);
       c.push(Math.round(Number(b)));
     })
 
     fs.writeFileSync(f + '.json', JSON.stringify(obv, null, 2));
-    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + c.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><path d="' + o.d + '" /></svg>');
+    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + c.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><defs><filter id="f1" x="0" y="0" width="130%" height="130%"><feOffset result="offOut" in="SourceAlpha" dx="1" dy="1" /><feGaussianBlur result="blurOut" in="offOut" stdDeviation="2" /><feBlend in="SourceGraphic" in2="blurOut" mode="normal" /></filter></defs><path d="' + o.d + '" stroke="#c00" stroke-width=".2" fill="transparent" filter="url(#f1)" /></svg>');
   }
 });
