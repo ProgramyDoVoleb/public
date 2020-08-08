@@ -13,7 +13,14 @@ json.forEach((o, i) => {
 
     obv.svg = [[15, 50], [16, 51]];
 
+    var c = []
+
+    o.bb.forEach(b => {
+      console.log(b);
+      c.push(Math.round(Number(b)));
+    })
+
     fs.writeFileSync(f + '.json', JSON.stringify(obv, null, 2));
-    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + o.bb.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><path d="' + o.d + '" /></svg>');
+    fs.writeFileSync('data/obecne/info/obvody/' + (i + 1) + '.svg', '<svg viewBox="' + c.join(' ') + '" xmlns="http://www.w3.org/2000/svg"><path d="' + o.d + '" /></svg>');
   }
 });
