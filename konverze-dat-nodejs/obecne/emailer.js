@@ -34,6 +34,7 @@ json.list.forEach(item => {
     obj.type = "senat";
 
     if (p) {
+      obj.reg = p.reg;
       obj.photo = !!p.photo;
       obj.program = p.program || "";
       obj.motto = p.motto || "";
@@ -47,6 +48,10 @@ json.list.forEach(item => {
       about: "",
       quote: "",
       photo: false
+    }
+
+    if (data) {
+      obj.id = item.data.split('odpovedi/')[1];
     }
 
     if (data && data.program) {
