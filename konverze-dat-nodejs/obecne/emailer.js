@@ -20,7 +20,7 @@ json.list.forEach(item => {
   var obj = {};
 
   obj.name = item.name;
-  obj.anwers = ['', '', '', ''];
+  obj.answers = ['', '', '', ''];
   obj.program = "";
   obj.motto = "";
 
