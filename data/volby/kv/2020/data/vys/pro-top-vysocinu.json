@@ -1,135 +1,623 @@
 {
-    "people": [
-        {
-            "name": "Zdeněk Dvořák",
-            "reg": 721,
-            "links": [
-                "https://www.facebook.com/zdenecekd"
-            ],
-            "photo": "zdenek-dvorak.jpg",
-            "about": "Starosta Dolní Cerekve Zdeněk Dvořák (36), který vede koaliční kandidátku TOP 09 na Vysočině, se již jako zastupitel věnoval mimo jiné prorodinné a seniorské politice. V těchto oblastech byl také spoluautorem několika projektů a koncepce. Starostou byl zvolen v roce 2018, dříve zastával funkci místostarosty a předtím zastupitele. Je také trenérem mládeže v házenkářském klubu TJ Dolní Cerekev a stal se organizátorem a vedoucím sportovní haly na největším házenkářském turnaji ve střední Evropě - Prague Handball Cup."
-        },
-        {
-            "name": "Blanka Kutinová",
-            "links": [
-                "https://www.facebook.com/profile.php?id=1355071219"
-            ],
-            "about": "Je zastupitelkou Město Třebíč za podporující subjekt Třebíč Občanům, který v roce 2018 vyhrál komunální volby. Díky své profesi a vzdělání se chce na Vysočině zaměřit na sociální a zdravotnická témata. Zabývá se ale také životním prostředím a komunikací s občany."
-        },
-        {
-            "name": "Lenka Šimo",
-            "reg": 721,
-            "quote": "Jsme v tom společně a jen společně s tím můžeme pohnout.",
-            "about": "Lenka Šimo je předsedkyní regionálního výboru TOP 09 a pracuje jako učitelka a historička. Díky svému vzdělání se zabývá rozvojem školství a kultury a své zkušenosti by také ráda nabídla Kraji Vysočina. Ve svém volném čase se podílí na kulturních projektech. Obnovila tradici masopustu ve Žďáře nad Sázavou, organizuje komentované prohlídky a vede pracovní skupinu Turistický ruch pro Žďár. V oblasti historie spolupracuje i s Ústavem pro studium totalitních režimů.",
-            "links": [
-                "https://www.facebook.com/simolenka/",
-                "https://www.instagram.com/lenkasimo/"
-            ],
-            "photo": "lenka-simo.jpg"
-        },
-        {
-            "name": "Jan Matějka",
-            "links": [
-                "https://www.facebook.com/jan.matejka.96"
-            ],
-            "about": "Havlíčkobrodským lídrem je středoškolský učitel odborných předmětů Jan Matějka. Jak už jeho povolání napovídá, věnuje se hlavně školství. Díky svému vzdělání se ale zajímá také o oblast stavebnictví nebo dopravy. V roce 2018 kandidoval do zastupitelstva v Havlíčkově Brodě za TOP 09, jejíž je členem. Není mu cizí ani problematika sportu, neboť se dlouhodobě věnuje volejbalu jako aktivní hráč i trenér mládeže. Svůj volný čas rád tráví s přáteli nebo vlastním vzděláváním a výzkumem."
-        },
-        {
-            "name": "Luboš Rafaj",
-            "links": [
-                "https://www.facebook.com/lubos.rafaj.9"
-            ],
-            "reg": 721,
-            "about": "lídr Pelhřimovska. Jak sám říká, do politiky by nevstupoval, pokud by jej něco netížilo. Ale jelikož chtěl pomoci uspíšit příchod doby „postbabišovské“, vstoupil do TOP 09. Věnuje se především oblasti cestovního ruchu a je zakladatelem agentury Dobrý den. Rád by také prosadil vzdělávací program „Poznej svůj kraj“, který by dětem přiblížil Vysočinu. Mezi jeho koníčky patří hudba nebo turistika."
-        }
-    ],
-    "lastUpdate": "2020-08-06T08:10:45.431Z",
-    "data": "vys/pro-top-vysocinu",
-    "coalition": [
-        721,
-        40,
-        55,
-        {
-            "name": "Třebíč občanům",
-            "logo": "obecne/strany/loga/x-trebic-obcanum.png",
-            "color": "#000"
-        }
-    ],
-    "logo": "obecne/strany/loga/x-pro-top-vysocinu.jpg",
-    "name": "Pro TOP Vysočinu",
-    "program": [],
-    "links": [
-        "https://www.facebook.com/protopvysocinu/"
-    ],
-    "list": [
-        {
-            "nameFull": [
-                "",
-                "Zdeněk",
-                "Dvořák",
-                ""
-            ],
-            "sex": 1,
-            "reg": 721,
-            "links": [
-                "https://www.top09.cz/volby/2020-krajska-zastupitelstva/zdenek-dvorak-27359.html",
-                "https://www.facebook.com/zdenecekd"
-            ],
-            "photo": "zdenek-dvorak.jpg"
-        },
-        {
-            "nameFull": [
-                "",
-                "Blanka",
-                "Kutinová",
-                ""
-            ],
-            "sex": 2,
-            "links": [
-                "https://www.facebook.com/profile.php?id=1355071219"
+  "people": [
+    {
+      "name": "Zdeněk Dvořák",
+      "reg": 721,
+      "links": [
+        "https://www.facebook.com/zdenecekd"
+      ],
+      "photo": "zdenek-dvorak.jpg",
+      "about": "Starosta Dolní Cerekve Zdeněk Dvořák (36), který vede koaliční kandidátku TOP 09 na Vysočině, se již jako zastupitel věnoval mimo jiné prorodinné a seniorské politice. V těchto oblastech byl také spoluautorem několika projektů a koncepce. Starostou byl zvolen v roce 2018, dříve zastával funkci místostarosty a předtím zastupitele. Je také trenérem mládeže v házenkářském klubu TJ Dolní Cerekev a stal se organizátorem a vedoucím sportovní haly na největším házenkářském turnaji ve střední Evropě - Prague Handball Cup."
+    },
+    {
+      "name": "Blanka Kutinová",
+      "links": [
+        "https://www.facebook.com/profile.php?id=1355071219"
+      ],
+      "about": "Je zastupitelkou Město Třebíč za podporující subjekt Třebíč Občanům, který v roce 2018 vyhrál komunální volby. Díky své profesi a vzdělání se chce na Vysočině zaměřit na sociální a zdravotnická témata. Zabývá se ale také životním prostředím a komunikací s občany."
+    },
+    {
+      "name": "Lenka Šimo",
+      "reg": 721,
+      "quote": "Jsme v tom společně a jen společně s tím můžeme pohnout.",
+      "about": "Lenka Šimo je předsedkyní regionálního výboru TOP 09 a pracuje jako učitelka a historička. Díky svému vzdělání se zabývá rozvojem školství a kultury a své zkušenosti by také ráda nabídla Kraji Vysočina. Ve svém volném čase se podílí na kulturních projektech. Obnovila tradici masopustu ve Žďáře nad Sázavou, organizuje komentované prohlídky a vede pracovní skupinu Turistický ruch pro Žďár. V oblasti historie spolupracuje i s Ústavem pro studium totalitních režimů.",
+      "links": [
+        "https://www.facebook.com/simolenka/",
+        "https://www.instagram.com/lenkasimo/"
+      ],
+      "photo": "lenka-simo.jpg"
+    },
+    {
+      "name": "Jan Matějka",
+      "links": [
+        "https://www.facebook.com/jan.matejka.96"
+      ],
+      "about": "Havlíčkobrodským lídrem je středoškolský učitel odborných předmětů Jan Matějka. Jak už jeho povolání napovídá, věnuje se hlavně školství. Díky svému vzdělání se ale zajímá také o oblast stavebnictví nebo dopravy. V roce 2018 kandidoval do zastupitelstva v Havlíčkově Brodě za TOP 09, jejíž je členem. Není mu cizí ani problematika sportu, neboť se dlouhodobě věnuje volejbalu jako aktivní hráč i trenér mládeže. Svůj volný čas rád tráví s přáteli nebo vlastním vzděláváním a výzkumem."
+    },
+    {
+      "name": "Luboš Rafaj",
+      "links": [
+        "https://www.facebook.com/lubos.rafaj.9"
+      ],
+      "reg": 721,
+      "about": "lídr Pelhřimovska. Jak sám říká, do politiky by nevstupoval, pokud by jej něco netížilo. Ale jelikož chtěl pomoci uspíšit příchod doby „postbabišovské“, vstoupil do TOP 09. Věnuje se především oblasti cestovního ruchu a je zakladatelem agentury Dobrý den. Rád by také prosadil vzdělávací program „Poznej svůj kraj“, který by dětem přiblížil Vysočinu. Mezi jeho koníčky patří hudba nebo turistika."
+    }
+  ],
+  "lastUpdate": "2020-08-06T08:10:45.431Z",
+  "data": "vys/pro-top-vysocinu",
+  "coalition": [
+    721,
+    40,
+    55,
+    {
+      "name": "Třebíč občanům",
+      "logo": "obecne/strany/loga/x-trebic-obcanum.png",
+      "color": "#000"
+    }
+  ],
+  "logo": "obecne/strany/loga/x-pro-top-vysocinu.jpg",
+  "name": "Pro TOP Vysočinu",
+  "program": {
+    "source": "https://www.protopvysocinu.cz/volebn%C3%AD-program",
+    "parts": [
+      {
+        "headline": "Voda místo jedů",
+        "parts": [
+          {
+            "list": [
+              "Podpoříme lokality v boji proti úložišti bez pravidel",
+              "Zapojíme všechny nástroje kraje do boje se suchem a kůrovcem",
+              "Vytvoříme jednotnou koncepci odpadového hospodářství",
+              "Propojíme vodohospodářské soustavy"
             ]
-        },
-        {
-            "nameFull": [
-                "",
-                "Jan",
-                "Matějka",
-                ""
-            ],
-            "sex": 1,
-            "reg": 721,
-            "links": [
-                "https://www.facebook.com/jan.matejka.96"
+          }
+        ]
+      },
+      {
+        "headline": "Pohyb místo čekání",
+        "parts": [
+          {
+            "list": [
+              "Zkoordinujeme opravy silnic",
+              "Zajistíme smysluplnou a plně integrovanou hromadnou dopravu",
+              "Vytvoříme síť krajských cyklostezek"
             ]
-        },
-        {
-            "nameFull": [
-                "",
-                "Lenka",
-                "Šimo",
-                ""
-            ],
-            "sex": 1,
-            "reg": 721,
-            "links": [
-                "https://www.facebook.com/simolenka/"
-            ],
-            "photo": "lenka-simo.jpg"
-        },
-        {
-            "nameFull": [
-                "",
-                "Luboš",
-                "Rafaj",
-                ""
-            ],
-            "sex": 1,
-            "reg": 721,
-            "links": [
-                "https://www.facebook.com/lubos.rafaj.9"
+          }
+        ]
+      },
+      {
+        "headline": "Vzdělávání místo biflování",
+        "parts": [
+          {
+            "list": [
+              "Zajistíme vzájemné sdílení know-how mezi školami, zaměstnavateli i kulturními institucemi",
+              "Poskytneme peníze školám přímo, ne skrze projekty",
+              "Propojíme jazykové vzdělávání s životní praxí a každodenním životem"
             ]
-        }
-    ],
-    "color": "#531a92",
-    "pt": "0192"
+          }
+        ]
+      },
+      {
+        "headline": "Dostupnost místo nedostatků",
+        "parts": [
+          {
+            "list": [
+              "Přivedeme na Vysočinu lékaře a postaráme se o ně",
+              "Dohlédneme na efektivní hospodaření nemocnic",
+              "Připravíme Vysočinu na zvládnutí epidemií"
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Domov místo ústavu",
+        "parts": [
+          {
+            "list": [
+              "Nabídneme seniorům a potřebným domácí péči. Podpoříme rozvoj osobní asistence, odlehčovací služby a chráněných bydlení",
+              "Ustanovíme koordinátora sociální a zdravotní péče",
+              "Zamezíme vzniku vyloučených lokalit"
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Srozumitelnost místo zmatků",
+        "parts": [
+          {
+            "list": [
+              "Pomůžeme obcím zlepšit základní občanskou vybavenost",
+              "Poskytneme starostům metodickou podporu",
+              "Využijeme digitalizace státní správy pro transparentnost a decentralizaci kraje"
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Podpora místo zaklekávání",
+        "parts": [
+          {
+            "list": [
+              "Prosadíme výrobky z Vysočiny doma i v Evropě",
+              "Podpoříme nově vznikající firmy",
+              "Udržíme na Vysočině mladé rodiny"
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Hrdost místo nezájmu",
+        "parts": [
+          {
+            "list": [
+              "Zavedeme program “Poznej svůj kraj” a jednotnou časově limitovanou kartu s volnými vstupy do vybraných atrakcí a lokalit podpořenou informačním webem",
+              "Zaplatíme trenéry mládeže",
+              "Podporu nasměrujeme i do malých místních sportovních a kulturních organizací"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "links": [
+    "https://www.facebook.com/protopvysocinu/"
+  ],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Dvořák",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.top09.cz/volby/2020-krajska-zastupitelstva/zdenek-dvorak-27359.html",
+        "https://www.facebook.com/zdenecekd"
+      ],
+      "photo": "zdenek-dvorak.jpg"
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Kutinová",
+        ""
+      ],
+      "sex": 2,
+      "links": [
+        "https://www.facebook.com/profile.php?id=1355071219"
+      ]
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Matějka",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.facebook.com/jan.matejka.96"
+      ]
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Šimo",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.facebook.com/simolenka/"
+      ],
+      "photo": "lenka-simo.jpg"
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Rafaj",
+        ""
+      ],
+      "sex": 1,
+      "reg": 721,
+      "links": [
+        "https://www.facebook.com/lubos.rafaj.9"
+      ]
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Honzárek",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Vaverka",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Kopáček",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Velíšek",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Půža",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Kolářová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Martínek",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Hlaváčková",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Skoumal",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Jirman",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Novotný",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloslav Matěj",
+        "Zíka",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Vondra",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Novák",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Augustýn",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Kateřina",
+        "Remsová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Imrich",
+        "Brdečka",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Fikar",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Jakšík",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Zduba",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Kolář",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Kachlík",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Libus",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Rostislav",
+        "Štork",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Drdlová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Lisová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Holub",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Květa",
+        "Mošnová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Pejchal",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Šanda",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Adéla",
+        "Šoukalová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Tomášová",
+        ""
+      ],
+      "sex": 2
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Blažek",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Domkář",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohumír",
+        "Pospíšil",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Mladý",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Kabelka",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Pikla",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloslav",
+        "Sláma",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Jaroš",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Kejklíček",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Vondra",
+        ""
+      ],
+      "sex": 1
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Kouřílková",
+        ""
+      ],
+      "sex": 2
+    }
+  ],
+  "color": "#531a92",
+  "pt": "0192"
 }
