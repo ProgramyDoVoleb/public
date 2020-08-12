@@ -3,27 +3,131 @@
     {
       "name": "Silvie Čermáková",
       "reg": 5,
-      "links": [
-        {
-          "url": "https://www.facebook.com/silvie.cermakova.16"
-        }
-      ]
+      "about": "Abychom jsme mohli některé plány uskutečnit ve vedení kraje, zvolili jsme si do čela regionální političku, která je připravena přenést náměty odborné veřejnosti stejně jako občanů na politickou úroveň a urychlit jejich zavádění do praxe. Silvie Čermáková je členkou Rady města Jihlavy a velkou měrou se podílí na kulturním životě krajského města. Dobře ví, jak důležitou roli v našich životech hrají symboly a jak pevně je vše ukotveno v naší společné kultuře. Má hluboký vztah k umění a kreativitě, k praktické lidské tvořivosti a zejména pak k přírodě. Jako jedinou cestu vidí nutnou změnu uvažování: i zarytého skeptika je třeba přesvědčit o tom, že jedině kombinací těchto prvků si můžeme vystavět budoucnost, v níž se nám bude dobře žít."
     },
     {
       "name": "Václav Hlaváč",
       "reg": 5,
-      "links": []
+      "about": "Snad ani není třeba vysvětlovat, proč v době rozvratu ekosystémů potřebujeme takové vedení kraje, které perfektně zná přírodní poměry a zároveň alespoň tuší, kterou cestou se vydat k nápravě neblahého stavu. Václav Hlaváč je řešitelem několika projektů na záchranu ohrožených přírodních druhů. Je to právě on, kdo ví, jak by mělo vypadat životní prostředí, tak abychom se za ně nemuseli stydět sami před sebou ani před lidmi, kteří náš kraj navštíví jako turisté."
     },
     {
       "name": "Anna Gümplová",
       "reg": 5,
-      "links": []
+      "about": "Pokud je někdo, koho zdejší po léta konzervativní politika potřebuje, je to mladý člověk-aktivista. Dnes už víme, že klíčem k úspěchu je přítomnost „energie“, která dokáže přesvědčit ostatní o nutnosti změny. Proto jsme třetí místo kandidátky obsadili angažovanou mladou političkou a současnou místopředsedkyní Zelených Annou Gümplovou, která se může pochlubit dlouholetou prací pro neziskové subjekty, např. Arniku, Greenpeace, Limity jsme my nebo Federaci mladých evropských zelených. A třebaže nad tím někdo může mávnout rukou, většina z nás přinejmenším tuší, jak důležitý bude v budoucnu význam organizací bojujících za lepší životní prostředí. S každým teplejším rokem se totiž utvrzujeme v tom, že budoucnost bude zelená, nebo žádná."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.427Z",
   "data": "vys/5",
   "reg": 5,
-  "program": {},
+  "program": {
+    "source": "http://zelenavysocina.cz/krajske-volby-2020/volebni-program-2020/",
+    "parts": [
+      {
+        "headline": "Kvalitní životní prostředí a zemědělství",
+        "parts": [
+          {
+            "list": [
+
+              "Nesouhlasíme s vybudováním hlubinného úložiště jaderného odpadu na Vysočině, na základě současných zkušeností s postupem SURAO.",
+              "Podporujeme ochranu typického krajinného rázu Vysočiny a jejích přírodních krás a hodnot, ochranu volné krajiny před živelnou zástavbou, zachování průchodnosti krajiny, ochranou vodních zdrojů, alejí a půdy.",
+              "Podporujeme zemědělské hospodaření šetrné k půdě, zvířatům i lidem, produkci s vyšší přidanou hodnotou, kvalitní potraviny a lokální produkci (např. značení Vysočina – regionální produkt, soutěž Regionální potravina Kraje Vysočina apod.)",
+              "Vrátíme přirozenost vodním tokům ve volné krajině a napravíme předchozí pochybení. Jedná se především o odstranění nevhodně kanalizovaných úseků a zbytečně napřímených toků, které zhoršily průběhy povodňových situací. Jako zásadní prevenci povodním vidíme budování rozlivových bezpečnostních pásem namísto zástavby v blízkosti potenciálně nebezpečných vodních toků.",
+              "Podporujeme programy rozvoje nízkoenergetické výstavby, úspor energie a rozvoje obnovitelných zdrojů energie pro obce a domácnosti. Cílem je zlepšení kvality ovzduší, snížení „krajského příspěvku“ ke klimatickým změnám a také vyšší energetická bezpečnost (menší závislost na vnějších zdrojích fosilních paliv).",
+              "Podporujeme iniciativu kraje, která by umožnila prakticky využívat komunální upravené biologicky rozložitelné odpady jako kvalitní hnojivo v zemědělství, či v zemědělských bioplynových stanicích.",
+              "Podporujeme opětovné využití opuštěných areálů (brownfields)."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Rozvoje kraje",
+        "parts": [
+          {
+            "list": [
+              "U všech rozvojových projektů klademe důraz na respektování lidského měřítka a ekologických, sociálních, kulturních, historických a tradičních hodnot namísto čistě ekonomického a technokratického pohledu.",
+              "Podpoříme modernizaci venkovské infrastruktury.",
+              "Podporujeme drobné podnikání, úsporné a ekologicky šetrné technologie a iniciativu kraje k odstraňování byrokratických překážek v podnikání."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Vzdělávání",
+        "parts": [
+          {
+            "list": [
+              "Chceme zachovat obory, které mají v kraji tradici a uplatnění a budeme usilovat o zkvalitnění učňovského školství.",
+              "Podporujeme rozmanitost škol a výchovně vzdělávacích programů a prosazujeme právo rodičů na možnost volby vhodného způsobu vzdělávání pro své děti, včetně možnosti domácí formy vzdělávání. Usilujeme o zavádění nových výukových metod směřujících k výchově k samostatnosti a tvořivosti, včetně programů reformní a alternativní pedagogiky. Podpoříme školy při zajišťování asistentů do běžných škol pro děti s postižením.",
+              "Zasadíme se o zachování základních škol v malých obcích. Podpoříme fungování venkovských škol jako kulturních a společenských středisek obcí (tzv. komunitní školy) s využitím evropských prostředků pro tyto účely."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Transparentnost",
+        "parts": [
+          {
+            "list": [
+              "Vyčleníme část rozpočtu kraje pro participativní rozpočet, ve kterém si občané sami zvolí, které projekty a aktivity podpoří.",
+              "Chceme průhledné a spravedlivé rozdělování prostředků z krajského rozpočtu. K tomu pomůže přehledný rozklikávací rozpočet kraje, kde si občané budou moci přehledně zjistit, jak kraj hospodaří s veřejnými prostředky.",
+              "U zásadních otázek budeme chtít uspořádat krajské referendum."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Funkční doprava",
+        "parts": [
+          {
+            "list": [
+              "Podporujeme projekty zvyšující bezpečnost provozu na komunikacích včetně dopravní výchovy.",
+              "Podporujeme rozvoj sítě tras a stezek pro cyklisty ale i pěší.",
+              "Podporujeme vybudování krajského integrovaného dopravního systému.",
+              "Budeme prosazovat zachování osobní dopravy na všech současných železničních tratích.",
+              "Budeme usilovat o výstavbu veřejných překladišť (logistických center) pro převedení těžké nákladní dopravy na železnici, s přednostním využíváním víceúčelových a normalizovaných kontejnerů vhodných pro kolejovou i silniční přepravu.",
+              "Podporujeme výstavbu VRT která zrychlí dopravu do hlavního města a Brna."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Zdravotnictví",
+        "parts": [
+          {
+            "list": [
+              "Prvořadým úkolem je zajištění dostupnosti a kvality zdravotní péče všem obyvatelům kraje. Zachováme stávající síť krajských nemocnic a stávající dostupnost zdravotní péče, včetně pohotovostních zubních ordinací.",
+              "Klademe velký důraz na prevenci a aktivity propagující zdravý životní styl. Například chceme motivovat školy, rodiče a zubní lékaře k organizaci pravidelných zubních a zdravotních prohlídek v základních, středních i vysokých školách.",
+              "Podpoříme rozvoj zařízení komplexní paliativní péče, včetně ambulantních tak, aby byla reálně dostupná pro všechny pacienty v příslušném stavu."
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Sociální péče",
+        "parts": [
+          {
+            "list": [
+              "Chceme všestranně rozvíjet sociální služby v kraji a stabilizovat jejich financování.",
+              "V sociálních a zdravotních službách upřednostníme domácí péči (např. osobní asistence, pečovatelské služby a terénní služby obecně, komunitní služby) před péčí ústavní.",
+              "Podporujeme prevenci zadlužování a závislostí (gamblerství a drogová závislost)"
+            ]
+          }
+        ]
+      },
+      {
+        "headline": "Sport, kultura, cestovní ruch a volný čas",
+        "parts": [
+          {
+            "list": [
+              "Podpoříme projekty kulturního, společenského a rekreačně sportovního vyžití pro všechny věkové a zájmové skupiny obyvatel, zejména ale pro děti, mládež a seniory nebo aktivity oživující veřejný prostor.",
+              "Preferujeme podporu aktivit občanů, spolků a oddílů před podporou profesionálů.",
+              "Zaměříme kulturní dotační politiku na tzv. živé umění. Obce našeho regionu by neměly být skanzeny, ale živá sídla s funkčními kinematografy, divadly, knihovnami, ale i výstavami a jarmarky. Považujeme za důležité udržet v regionu tvůrčí lidový potenciál a zároveň propojovat městskou a venkovskou kulturní scénu.      "
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "links": [
     "http://zelenavysocina.cz",
     "https://www.facebook.com/szvysocina"
