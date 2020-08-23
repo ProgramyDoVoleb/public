@@ -278,8 +278,8 @@
       "sex": 1,
       "reg": 47,
       "links": [
-	      "https://kostka.php5.cz/",
-	      "https://www.facebook.com/michalkostkaing/"
+        "https://kostka.php5.cz/",
+        "https://www.facebook.com/michalkostkaing/"
       ]
     },
     {
@@ -292,7 +292,7 @@
       "sex": 2,
       "reg": 47,
       "links": [
-	      "https://www.facebook.com/pencikovamarie"
+        "https://www.facebook.com/pencikovamarie"
       ]
     },
     {
@@ -335,7 +335,7 @@
       "sex": 2,
       "reg": 47,
       "links": [
-	      "https://www.facebook.com/badinkovakscm/"
+        "https://www.facebook.com/badinkovakscm/"
       ]
     },
     {
@@ -348,7 +348,7 @@
       "sex": 2,
       "reg": 47,
       "links": [
-	      "https://www.facebook.com/srncovakaterina"
+        "https://www.facebook.com/srncovakaterina"
       ]
     },
     {
@@ -744,7 +744,8 @@
   ],
   "name": "Komunistická strana Čech a Moravy",
   "short": "KSČM",
-  "hash": "kscm",
+  "hash": "komunisticka-strana-cech-a-moravy",
   "logo": "/obecne/strany/loga/47-kscm.svg",
-  "color": "#eb343f"
+  "color": "#eb343f",
+  "no": 63
 }

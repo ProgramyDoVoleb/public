@@ -6,16 +6,22 @@
   "program": {},
   "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
   "short": "DSZ-ZA PR.ZVÍŘ.",
-  "hash": "dsz-za-pr-zvir-",
+  "hash": "demokraticka-strana-zelenych---za-prava-zvirat",
   "logo": "/obecne/strany/loga/715-dsz.png",
   "color": "#0b6218",
   "list": [
-	  {
-		  "nameFull": ["", "Larisa", "Zankerová", ""],
-		  "reg": 99,
-		  "sex": 2,
-		  "work": "vedoucí a kynolog psího domova Pod křídly anděla, předsedkyně spolku Zastavme Utrpení, ochránce práv zvířat",
-		  "age": 40
-	  }
-  ]
+    {
+      "nameFull": [
+        "",
+        "Larisa",
+        "Zankerová",
+        ""
+      ],
+      "reg": 99,
+      "sex": 2,
+      "work": "vedoucí a kynolog psího domova Pod křídly anděla, předsedkyně spolku Zastavme Utrpení, ochránce práv zvířat",
+      "age": 40
+    }
+  ],
+  "no": 5
 }

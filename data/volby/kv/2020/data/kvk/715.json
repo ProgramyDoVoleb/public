@@ -6,16 +6,22 @@
   "program": {},
   "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
   "short": "DSZ-ZA PR.ZVÍŘ.",
-  "hash": "dsz-za-pr-zvir-",
+  "hash": "demokraticka-strana-zelenych---za-prava-zvirat",
   "logo": "/obecne/strany/loga/715-dsz.png",
   "color": "#0b6218",
   "list": [
-	  {
-		  "nameFull": ["Ing.", "Jan", "Havel", ""],
-		  "reg": 99,
-		  "sex": 1,
-		  "work": "úředník, vedoucí ubytovacího zařízení",
-		  "age": 63
-	  }
-  ]
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Havel",
+        ""
+      ],
+      "reg": 99,
+      "sex": 1,
+      "work": "úředník, vedoucí ubytovacího zařízení",
+      "age": 63
+    }
+  ],
+  "no": 5
 }

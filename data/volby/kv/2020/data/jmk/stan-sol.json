@@ -337,13 +337,15 @@
   },
   "lastUpdate": "2020-08-06T08:10:45.437Z",
   "data": "jmk/stan-sol",
+  "name": "Starostové pro jižní Moravu",
+  "hash": "starostove-pro-jizni-moravu",
+  "short": "STAN+SOL",
   "coalition": [
     166,
-    {
-      "name": "Hnutí SOL",
-      "logo": "obecne/strany/loga/x-hnuti-sol.jpg"
-    }
+    1031
   ],
+  "reg": 1457,
+  "no": 51,
   "links": [
     "https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj",
     "http://www.hnutisol.cz",

@@ -242,12 +242,14 @@
   },
   "lastUpdate": "2020-08-06T08:10:45.453Z",
   "data": "olk/cssd-patrioti",
+  "reg": 1442,
+  "name": "ČSSD a Patrioti Olomouckého kraje",
+  "hash": "cssd-a-patrioti-olomouckeho-kraje",
+  "short": "ČSSD a POK",
+  "no": 52,
   "coalition": [
     7,
-    {
-      "name": "Patrioti Olomouckého kraje",
-      "logo": "obecne/strany/loga/x-patrioti-olk.png"
-    }
+    1230
   ],
   "links": [
     "https://receptprokraj.cz/",

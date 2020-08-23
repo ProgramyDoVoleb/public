@@ -171,15 +171,17 @@
   "data": "pak/mladi",
   "support": [
     2,
-    {
-      "name": "VIZE - národní socialisté"
-    },
+    1237,
     1209,
     {
       "name": "Mladí Žumberáci"
     }
   ],
+  "reg": 1234,
   "name": "Mladí pro Pardubický kraj",
+  "hash": "mladi-pro-pardubicky-kraj",
+  "short": "MPK",
+  "no": 83,
   "links": [
     "https://mladidotoho.com/",
     "https://www.facebook.com/mladidotoho/",

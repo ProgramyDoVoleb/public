@@ -27,7 +27,6 @@
         "parts": [
           {
             "list": [
-
               "Nesouhlasíme s vybudováním hlubinného úložiště jaderného odpadu na Vysočině, na základě současných zkušeností s postupem SURAO.",
               "Podporujeme ochranu typického krajinného rázu Vysočiny a jejích přírodních krás a hodnot, ochranu volné krajiny před živelnou zástavbou, zachování průchodnosti krajiny, ochranou vodních zdrojů, alejí a půdy.",
               "Podporujeme zemědělské hospodaření šetrné k půdě, zvířatům i lidem, produkci s vyšší přidanou hodnotou, kvalitní potraviny a lokální produkci (např. značení Vysočina – regionální produkt, soutěž Regionální potravina Kraje Vysočina apod.)",
@@ -169,7 +168,8 @@
   ],
   "name": "Strana zelených",
   "short": "Zelení",
-  "hash": "zeleni",
+  "hash": "strana-zelenych",
   "logo": "/obecne/strany/loga/5-zeleni.svg",
-  "color": "#60b44c"
+  "color": "#60b44c",
+  "no": 13
 }

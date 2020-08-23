@@ -41,8 +41,8 @@
   "reg": 344,
   "coalition": [
     1,
-    181,
-    129
+    129,
+    181
   ],
   "support": [
     "Sdružení pro Pardubice"
@@ -562,8 +562,9 @@
       "reg": 344
     }
   ],
-  "short": "Koalice pro PaK",
-  "hash": "koalice-pro-pak",
+  "short": "KDU+SNKED+Nestr",
+  "hash": "koalice-pro-pardubicky-kraj",
   "logo": "/obecne/strany/loga/344-koalice-pro-pak.png",
-  "color": "#004588"
+  "color": "#004588",
+  "no": 17
 }

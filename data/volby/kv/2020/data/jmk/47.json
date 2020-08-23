@@ -69,11 +69,11 @@
       "sex": 1,
       "reg": 47,
       "links": [
-	      "https://www.filipzacharias.cz/",
-	      "https://www.facebook.com/zacharias.f/",
-	      "https://twitter.com/filip_zacharias",
-	      "https://www.instagram.com/filip_zacharias/",
-	      "https://filipzacharias.blog.idnes.cz/"
+        "https://www.filipzacharias.cz/",
+        "https://www.facebook.com/zacharias.f/",
+        "https://twitter.com/filip_zacharias",
+        "https://www.instagram.com/filip_zacharias/",
+        "https://filipzacharias.blog.idnes.cz/"
       ]
     },
     {
@@ -759,7 +759,8 @@
   ],
   "name": "Komunistická strana Čech a Moravy",
   "short": "KSČM",
-  "hash": "kscm",
+  "hash": "komunisticka-strana-cech-a-moravy",
   "logo": "/obecne/strany/loga/47-kscm.svg",
-  "color": "#eb343f"
+  "color": "#eb343f",
+  "no": 63
 }

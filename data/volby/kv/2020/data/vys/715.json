@@ -6,16 +6,22 @@
   "program": {},
   "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT",
   "short": "DSZ-ZA PR.ZVÍŘ.",
-  "hash": "dsz-za-pr-zvir-",
+  "hash": "demokraticka-strana-zelenych---za-prava-zvirat",
   "logo": "/obecne/strany/loga/715-dsz.png",
   "color": "#0b6218",
   "list": [
-	  {
-		  "nameFull": ["", "Hana", "Šroufková", ""],
-		  "reg": 99,
-		  "sex": 2,
-		  "work": "dělnice, ochránce zvířat",
-		  "age": 45
-	  }
-  ]
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Šroufková",
+        ""
+      ],
+      "reg": 99,
+      "sex": 2,
+      "work": "dělnice, ochránce zvířat",
+      "age": 45
+    }
+  ],
+  "no": 5
 }

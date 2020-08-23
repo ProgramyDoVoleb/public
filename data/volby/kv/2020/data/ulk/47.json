@@ -40,8 +40,8 @@
   "data": "ulk/47",
   "reg": 47,
   "program": {
-	  "motto": "CHCEME S VÁMI DÁL ROZVÍJET NÁŠ KRAJ!",
-	  "source": "https://drive.google.com/file/d/1xzaL-SKez0m1EinbiQ-sFe6IOWkL7dMV/view?usp=sharing"
+    "motto": "CHCEME S VÁMI DÁL ROZVÍJET NÁŠ KRAJ!",
+    "source": "https://drive.google.com/file/d/1xzaL-SKez0m1EinbiQ-sFe6IOWkL7dMV/view?usp=sharing"
   },
   "links": [
     "https://www.usti-kscm.cz"
@@ -652,7 +652,8 @@
   ],
   "name": "Komunistická strana Čech a Moravy",
   "short": "KSČM",
-  "hash": "kscm",
+  "hash": "komunisticka-strana-cech-a-moravy",
   "logo": "/obecne/strany/loga/47-kscm.svg",
-  "color": "#eb343f"
+  "color": "#eb343f",
+  "no": 63
 }
