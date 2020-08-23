@@ -1,6 +1,6 @@
 {
-	"lastUpdate":"2020-07-20",
-	"t": 11,
+  "lastUpdate": "2020-08-24",
+  "t": 11,
   "list": [
     {
       "name": [
@@ -26,11 +26,20 @@
       "nominee": 720,
       "color": "#000",
       "program": "https://monsportova.cz/#priority",
-      "photo": "marketa-monsportova.jpg"
+      "photo": "marketa-monsportova.jpg",
+      "no": 2,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 48,
+      "home": "Velká Hleďsebe",
+      "homeID": 539279,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Miroslav",
         "Nenutil",
         ""
@@ -47,7 +56,17 @@
       "member": 7,
       "color": "#f59231",
       "photo": "miroslav-nenutil.jpg",
-      "work": "úřadující senátor, bývalý starosta města Stříbro, učitel"
+      "work": "úřadující senátor, bývalý starosta města Stříbro, učitel",
+      "no": 8,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 62,
+      "home": "Stříbro",
+      "homeID": 561215,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
@@ -65,15 +84,25 @@
       "support": [
         166
       ],
-      "member": 166,
+      "member": 99,
       "color": "#1ebdb7",
       "photo": "miroslav-plevny.jpg",
       "motto": "Chci prosperující pohraničí, kde budou lidé chtít žít.",
-      "work": "místostarosta města Cheb, bývalý děkan Fakulty ekonomické ZČU"
+      "work": "místostarosta města Cheb, bývalý děkan Fakulty ekonomické ZČU",
+      "no": 5,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 54,
+      "home": "Cheb",
+      "homeID": 554481,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Josef",
         "Kvasnička",
         ""
@@ -83,17 +112,27 @@
         "https://www.facebook.com/josef.kvasnicka.357"
       ],
       "support": [
-				1114,
+        1114,
         1179
       ],
-			"member": 1179,
+      "member": 1179,
       "color": "#ce0706",
       "work": "bývalý starosta města Plesná, právník a podnikatel v oblasti realit a poradenství",
-			"photo": "josef-kvasnicka.jpg"
+      "photo": "josef-kvasnicka.jpg",
+      "no": 9,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 70,
+      "home": "Plesná",
+      "homeID": 554740,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Zdeněk",
         "Pištora",
         ""
@@ -109,12 +148,21 @@
       "nominee": 1227,
       "color": "#2b3acc",
       "work": "starosta města Postoloprty, učitel",
-			"photo": "zdenek-pistora.jpg",
-			"copyright": "wiki"
+      "photo": "zdenek-pistora.jpg",
+      "copyright": "wiki",
+      "no": 7,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 56,
+      "home": "Postoloprty",
+      "homeID": 566624,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Vladimír",
         "Drápal",
         ""
@@ -135,16 +183,25 @@
         40
       ],
       "member": 99,
-      "nominee": 99,
+      "nominee": 53,
       "color": "#fec92f",
       "photo": "vladimir-drapal.jpg",
       "work": "kurátor Galerie města Loun, občanský aktivista a vydavatel hudby",
       "program": "https://www.vdrapal.cz/program/",
-      "motto": "Odpovědnost, pracovitost, odvaha."
+      "motto": "Odpovědnost, pracovitost, odvaha.",
+      "no": 1,
+      "party": {
+        "reg": 1477,
+        "name": "Koalice ODS, TOP 09, KDU-ČSL a KAN"
+      },
+      "age": 56,
+      "home": "Louny",
+      "homeID": 565971,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jaroslav",
         "Veselý",
         ""
@@ -152,13 +209,24 @@
       "reg": 6,
       "links": [],
       "support": [
-				{
+        {
           "name": "Lepší sever",
           "logo": "obecne/strany/loga/x-lepsisever.png"
         }
       ],
       "color": "#f59231",
-      "work": "starosta obce Raná, diplomat, bývalý velvyslanec v Indonésii"
+      "work": "starosta obce Raná, diplomat, bývalý velvyslanec v Indonésii",
+      "no": 6,
+      "party": {
+        "reg": 1478,
+        "name": "Lepší Sever"
+      },
+      "age": 64,
+      "home": "Raná",
+      "homeID": 566659,
+      "member": 99,
+      "nominee": 1012,
+      "sex": 1
     },
     {
       "name": [
@@ -169,7 +237,7 @@
       ],
       "reg": 6,
       "links": [
-				"benes.v@kr-ustecky.cz",
+        "benes.v@kr-ustecky.cz",
         "http://old.kscm.cz/volby-a-akce/poslanecka-snemovna-pcr6/kandidatni-listiny-do-ps-pcr-2010/ustecky-kraj/vaclav-benes"
       ],
       "support": [
@@ -179,12 +247,22 @@
       "color": "#eb343f",
       "work": "zastupitel Ústeckého kraje, starosta obce Blatno, elektrotechnik",
       "motto": "Budu podporovat rozvoj regionů",
-			"program": "https://drive.google.com/file/d/1yBmir3np5MWeHgc4bPzHQcYmp71GjmUB/view?usp=sharing",
-			"photo": "vaclav-benes.jpg"
+      "program": "https://drive.google.com/file/d/1yBmir3np5MWeHgc4bPzHQcYmp71GjmUB/view?usp=sharing",
+      "photo": "vaclav-benes.jpg",
+      "no": 5,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 67,
+      "home": "Blatno",
+      "homeID": 566004,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Ivo",
         "Trešl",
         ""
@@ -197,7 +275,18 @@
       "color": "#1ebdb7",
       "photo": "ivo-tresl.jpg",
       "motto": "Poctivě, s pokorou a s rozumem",
-      "work": "radní města Rakovník, traumatolog v Masarykově nemocnici Rakovník"
+      "work": "radní města Rakovník, traumatolog v Masarykově nemocnici Rakovník",
+      "no": 8,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 48,
+      "home": "Rakovník",
+      "homeID": 541656,
+      "member": 166,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
@@ -208,8 +297,8 @@
       ],
       "reg": 6,
       "links": [
-				"https://danielpitek.cz/",
-				"https://www.facebook.com/DanPitek",
+        "https://danielpitek.cz/",
+        "https://www.facebook.com/DanPitek",
         "https://cs.wikipedia.org/wiki/Daniel_Pitek"
       ],
       "support": [
@@ -220,21 +309,32 @@
       ],
       "color": "#460a0d",
       "work": "soukromý zemědělec a lesník, aktivní účastník veřejného dění",
-			"photo": "daniel-pitek.jpg",
-			"copyright": "wiki",
-			"program": "https://danielpitek.cz/senat/207/"
+      "photo": "daniel-pitek.jpg",
+      "copyright": "wiki",
+      "program": "https://danielpitek.cz/senat/207/",
+      "no": 2,
+      "party": {
+        "reg": 1187,
+        "name": "SENÁTOR 21"
+      },
+      "age": 53,
+      "home": "Velemín",
+      "homeID": 565849,
+      "member": 99,
+      "nominee": 1187,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. et. Bc.",
         "Milan",
         "Rychtařík",
         ""
       ],
       "reg": 6,
       "links": [
-				"M.rychtarik@tiscali.cz",
-				"https://www.facebook.com/Milan-Rychta%C5%99%C3%ADk-politik-112137787250428/",
+        "M.rychtarik@tiscali.cz",
+        "https://www.facebook.com/Milan-Rychta%C5%99%C3%ADk-politik-112137787250428/",
         "https://www.facebook.com/milan.rychtarik.5"
       ],
       "support": [
@@ -242,15 +342,26 @@
       ],
       "color": "#2f2f65",
       "work": "zastupitel Ústeckého kraje, zastupitel města Louny, obchodní manažer",
-			"motto": "Budu makat pro Vás",
-			"program": "https://docs.google.com/document/d/1ybahkharzZa8tRWFEP5oxIdTM76FuKrFemWPBVEWLAc/edit?usp=sharing",
-			"photo": "milar-rychtarik.jpg",
-			"quote": "Ode mě nečekejte žádné plané sliby. Ode mě očekávejte tvrdou a dobře odvedenou práci pro region Žatecka, Rakovnicka a Lounska s jasnými výsledky",
-			"about": "<p>Je mi 47 let a žiji se svou rodinou v Lounech. Jsem místostarostou města Louny a krajským zastupitelem Ústeckého kraje, kde jsem současně místopředsedou komise SMART a rozvoje IT a nových technologií. </p><p>Vystudoval jsem marketing, management a Veřejnou správu. Magisterský titul jsem získal z Politologie. Hovořím plynně anglicky a obstojně se domluvím německy i rusky. Celý svůj profesní život jsem pracoval na manažerských pozicích, zejména v IT a obchodních firmách.</p><p>Mezi mé záliby patří především rodina, sport. Ve volných chvílích se věnuji rekonstrukci domu, který vlastnoručně opravuji. Mám rád šachy, tenis, běhání a cestování. Mám rád rockovou muziku a dobré filmy, především kde hrají Robert De Niro a Al Pacino.</p>"
+      "motto": "Budu makat pro Vás",
+      "program": "https://docs.google.com/document/d/1ybahkharzZa8tRWFEP5oxIdTM76FuKrFemWPBVEWLAc/edit?usp=sharing",
+      "photo": "milar-rychtarik.jpg",
+      "quote": "Ode mě nečekejte žádné plané sliby. Ode mě očekávejte tvrdou a dobře odvedenou práci pro region Žatecka, Rakovnicka a Lounska s jasnými výsledky",
+      "about": "<p>Je mi 47 let a žiji se svou rodinou v Lounech. Jsem místostarostou města Louny a krajským zastupitelem Ústeckého kraje, kde jsem současně místopředsedou komise SMART a rozvoje IT a nových technologií. </p><p>Vystudoval jsem marketing, management a Veřejnou správu. Magisterský titul jsem získal z Politologie. Hovořím plynně anglicky a obstojně se domluvím německy i rusky. Celý svůj profesní život jsem pracoval na manažerských pozicích, zejména v IT a obchodních firmách.</p><p>Mezi mé záliby patří především rodina, sport. Ve volných chvílích se věnuji rekonstrukci domu, který vlastnoručně opravuji. Mám rád šachy, tenis, běhání a cestování. Mám rád rockovou muziku a dobré filmy, především kde hrají Robert De Niro a Al Pacino.</p>",
+      "no": 9,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 48,
+      "home": "Louny",
+      "homeID": 565971,
+      "member": 768,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Dominik",
         "Hanko",
         ""
@@ -266,11 +377,22 @@
       ],
       "color": "#874a0f",
       "work": "zastupitel Ústeckého kraje, preventista městské policie",
-      "photo": "dominik-hanko-2.jpg"
+      "photo": "dominik-hanko-2.jpg",
+      "no": 4,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 41,
+      "home": "Litoměřice",
+      "homeID": 564567,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Daniel",
         "Kůs",
         ""
@@ -290,11 +412,20 @@
       "nominee": 720,
       "color": "#000",
       "program": "https://www.danielkus.cz/",
-			"photo": "daniel-kus.jpg"
+      "photo": "daniel-kus.jpg",
+      "no": 4,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 46,
+      "home": "Plzeň",
+      "homeID": 2,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Lumír",
         "Aschenbrenner",
         ""
@@ -319,11 +450,20 @@
       "nominee": 53,
       "color": "#194392",
       "photo": "lumir-aschenbrenner-2.jpg",
-      "work": "úřadující senátor, zastupitel města Plzeň, starosta městského obvodu Plzeň 2-Slovany"
+      "work": "úřadující senátor, zastupitel města Plzeň, starosta městského obvodu Plzeň 2-Slovany",
+      "no": 6,
+      "party": {
+        "reg": 1462,
+        "name": "Koalice pro Plzeň"
+      },
+      "age": 60,
+      "home": "Plzeň",
+      "homeID": 2,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jindřich",
         "Sitta",
         ""
@@ -335,26 +475,46 @@
       ],
       "color": "#1ebdb7",
       "photo": "jindrich-sitta.jpg",
-      "work": "vojenský lékař, bývalý velitel 6. polní nemocnice AČR, 1. místopředseda Československé obce legionářské"
+      "work": "vojenský lékař, bývalý velitel 6. polní nemocnice AČR, 1. místopředseda Československé obce legionářské",
+      "no": 1,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 65,
+      "home": "Plzeň",
+      "homeID": 2,
+      "member": 99,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
-        "Oldřich",
+        "Ing.",
+        "Oldrich",
         "Fencl",
         ""
       ],
       "reg": 9,
-      "links": [
-
-      ],
+      "links": [],
       "support": [
         1114
       ],
       "color": "#874a0f",
       "photo": "oldrich-fencl.jpg",
       "work": "geodet – geolog",
-      "program": "https://drive.google.com/file/d/1VZjkAWNLN-6_OwfRgZM2TOZ_Pp9Fk7pa/view?usp=sharing"
+      "program": "https://drive.google.com/file/d/1VZjkAWNLN-6_OwfRgZM2TOZ_Pp9Fk7pa/view?usp=sharing",
+      "no": 3,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 65,
+      "home": "Plzeň",
+      "homeID": 2,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
@@ -375,20 +535,29 @@
       "member": 720,
       "nominee": 720,
       "color": "#000",
-      "photo": "michal-horak-2.jpg"
+      "photo": "michal-horak-2.jpg",
+      "no": 4,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 55,
+      "home": "Písek",
+      "homeID": 549240,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Karel",
         "Kratochvíle",
         ""
       ],
       "reg": 12,
       "links": [
-				"senator.strakonice@email.cz",
-				"https://karel-kratochvile.cz/",
-				"https://www.facebook.com/k.kratochvile/",
+        "senator.strakonice@email.cz",
+        "https://karel-kratochvile.cz/",
+        "https://www.facebook.com/k.kratochvile/",
         "https://cs.wikipedia.org/wiki/Karel_Kratochv%C3%ADle"
       ],
       "support": [
@@ -397,8 +566,19 @@
       "color": "#f59231",
       "photo": "karel-kratochvile.jpg",
       "work": "úřadující senátor, bývalý poslanec PČR, ředitel Zemského hřebčince v Písku",
-			"program": "https://karel-kratochvile.cz/#volebni-program",
-			"motto": "Jdu do toho znovu"
+      "program": "https://karel-kratochvile.cz/#volebni-program",
+      "motto": "Jdu do toho znovu",
+      "no": 7,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 62,
+      "home": "Písek",
+      "homeID": 549240,
+      "member": 7,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
@@ -417,11 +597,22 @@
       "color": "#1ebdb7",
       "photo": "ivana-zelenkova.jpg",
       "motto": "Vraťme lidi na venkov",
-      "work": "starostka obce Čejetice"
+      "work": "starostka obce Čejetice",
+      "no": 5,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 57,
+      "home": "Čejetice",
+      "homeID": 550922,
+      "member": 166,
+      "nominee": 166,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Miroslav",
         "Ušatý",
         ""
@@ -432,14 +623,25 @@
         1227
       ],
       "color": "#2b3acc",
-      "work": "starosta Albrechtic nad Vltavou, živnostník"
+      "work": "starosta Albrechtic nad Vltavou, živnostník",
+      "no": 9,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 54,
+      "home": "Albrechtice nad Vltavou",
+      "homeID": 549258,
+      "member": 99,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr. Bc.",
         "Tomáš",
         "Fiala",
-        ""
+        "MBA"
       ],
       "reg": 12,
       "links": [
@@ -456,11 +658,21 @@
       "color": "#194392",
       "photo": "tomas-fiala.jpg",
       "work": "ředitel Nemocnice Strakonice, lékař",
-      "program": "http://tomasfiala.cz/index.php/program"
+      "program": "http://tomasfiala.cz/index.php/program",
+      "no": 8,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 63,
+      "home": "Strakonice",
+      "homeID": 550787,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Luboš",
         "Peterka",
         ""
@@ -475,10 +687,20 @@
         181,
         1119
       ],
-			"member": 99,
+      "member": 99,
       "color": "#fec92f",
       "photo": "lubos-peterka.jpg",
-      "work": "starosta městyse Radomyšl"
+      "work": "starosta městyse Radomyšl",
+      "no": 11,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 55,
+      "home": "Radomyšl",
+      "homeID": 551660,
+      "nominee": 1,
+      "sex": 1
     },
     {
       "name": [
@@ -504,7 +726,16 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-      "photo": "milan-stech.jpg"
+      "photo": "milan-stech.jpg",
+      "no": 1,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 66,
+      "home": "Lišov",
+      "homeID": 544779,
+      "sex": 1
     },
     {
       "name": [
@@ -526,7 +757,16 @@
       "nominee": 1229,
       "color": "#aaa",
       "photo": "stanislav-mrvka.jpg",
-      "work": "zastupitel Jihočeského kraje, bývalý starosta města Jindřichův Hradec"
+      "work": "zastupitel Jihočeského kraje, bývalý starosta města Jindřichův Hradec",
+      "no": 2,
+      "party": {
+        "reg": 1229,
+        "name": "Změna 2020"
+      },
+      "age": 67,
+      "home": "Jindřichův Hradec",
+      "homeID": 545881,
+      "sex": 1
     },
     {
       "name": [
@@ -547,32 +787,52 @@
       "nominee": 768,
       "color": "#2f2f65",
       "work": "člen Rady Českého rozhlasu, bývalý ministr kultury a poslanec PČR",
-			"photo": "vitezslav-jandak.jpg",
-			"copyright": "wiki"
+      "photo": "vitezslav-jandak.jpg",
+      "copyright": "wiki",
+      "no": 3,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 73,
+      "home": "Chlum u Třeboně",
+      "homeID": 546461,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "doc. PhDr. Mgr.",
         "Lubomír",
         "Pána",
-        ""
+        "Ph.D., dr. h. c."
       ],
       "reg": 15,
       "links": [
-				"http://www.lubomirpana.cz/",
-				"https://www.facebook.com/lubospana/"
-			],
+        "http://www.lubomirpana.cz/",
+        "https://www.facebook.com/lubospana/"
+      ],
       "support": [
         1114
       ],
       "color": "#874a0f",
       "work": "bývalý rektor Vysoké školy evropských a regionálních studií",
-			"program": "https://www.lubomirpana.cz/muj-program/",
-			"photo": "lubomir-pana.jpg"
+      "program": "https://www.lubomirpana.cz/muj-program/",
+      "photo": "lubomir-pana.jpg",
+      "no": 5,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 69,
+      "home": "České Budějovice",
+      "homeID": 544256,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Burian",
         ""
@@ -592,11 +852,20 @@
       "member": 53,
       "nominee": 53,
       "color": "#194392",
-      "photo": "jiri-burian-2.jpg"
+      "photo": "jiri-burian-2.jpg",
+      "no": 8,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 71,
+      "home": "Sedlčany",
+      "homeID": 541281,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Simona",
         "Luftová",
         ""
@@ -614,7 +883,16 @@
       "nominee": 720,
       "color": "#000",
       "photo": "simona-luftova.jpg",
-      "work": "středoškolská učitelka a projektová manažerka"
+      "work": "středoškolská učitelka a projektová manažerka",
+      "no": 3,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 47,
+      "home": "Příbram",
+      "homeID": 539911,
+      "sex": 2
     },
     {
       "name": [
@@ -635,31 +913,53 @@
       "color": "#1ebdb7",
       "photo": "petr-stepanek.jpg",
       "motto": "Po 14 letech úspěšného vedení prosperující obce dokázal, že umí citlivě a efektivně spravovat věci veřejné.",
-      "work": "zastupitel Středočeského kraje, starosta obce Petrovice"
+      "work": "zastupitel Středočeského kraje, starosta obce Petrovice",
+      "no": 6,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 56,
+      "home": "Petrovice",
+      "homeID": 541044,
+      "member": 166,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jindřich",
         "Havelka",
-        ""
+        "DiS."
       ],
       "reg": 18,
       "links": [
-				"havelka.x@seznam.cz"
-			],
+        "havelka.x@seznam.cz"
+      ],
       "support": [
         47
       ],
       "color": "#eb343f",
       "work": "záchranář, bývalý zastupitel obce Trhové Dušníky",
-			"motto": "Prvním a největším bohatstvím je zdraví",
-			"photo": "jindrich-havelka.jpg",
-			"program": "https://drive.google.com/file/d/10GfjqUvgeVmXOPZguZqPkQ-lZiAr33vs/view?usp=sharing"
+      "motto": "Prvním a největším bohatstvím je zdraví",
+      "photo": "jindrich-havelka.jpg",
+      "program": "https://drive.google.com/file/d/10GfjqUvgeVmXOPZguZqPkQ-lZiAr33vs/view?usp=sharing",
+      "no": 4,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 46,
+      "home": "Trhové Dušníky",
+      "homeID": 598429,
+      "member": 47,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Stanislav",
         "Holobrada",
         ""
@@ -673,11 +973,21 @@
       ],
       "member": 7,
       "color": "#f59231",
-      "work": "zastupitel obce Dobříš, ředitel Nemocnice Příbram, chirurg"
+      "work": "zastupitel obce Dobříš, ředitel Nemocnice Příbram, chirurg",
+      "no": 1,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 59,
+      "home": "Dobříš",
+      "homeID": 540111,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Bc.",
         "Jiří",
         "Novotný",
         ""
@@ -688,11 +998,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "odborný pracovník Úřadu práce ČR"
+      "work": "odborný pracovník Úřadu práce ČR",
+      "no": 5,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 44,
+      "home": "Příbram",
+      "homeID": 539911,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Michael",
         "Žantovský",
         ""
@@ -709,17 +1030,26 @@
         721,
         166,
         53,
-				129
+        129
       ],
-      "member": 721,
+      "member": 99,
       "nominee": 721,
       "color": "#531a92",
       "photo": "michael-zantovsky.jpg",
-      "work": "ředitel Knihovny Václava Havla, diplomat, překladatel a publicista, bývalý senátor"
+      "work": "ředitel Knihovny Václava Havla, diplomat, překladatel a publicista, bývalý senátor",
+      "no": 2,
+      "party": {
+        "reg": 1329,
+        "name": "Michael Žantovský ? Svoboda a demokracie"
+      },
+      "age": 71,
+      "home": "Praha",
+      "homeID": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Václav",
         "Láska",
         ""
@@ -739,18 +1069,27 @@
         5,
         1
       ],
-      "member": 99,
+      "member": 1187,
       "nominee": 1187,
       "color": "#460a0d",
       "photo": "vaclav-laska.jpg",
-      "work": "úřadující senátor, předseda hnutí Senátor 21, právník a bývalý předseda správní rady Transparency International"
+      "work": "úřadující senátor, předseda hnutí Senátor 21, právník a bývalý předseda správní rady Transparency International",
+      "no": 7,
+      "party": {
+        "reg": 1187,
+        "name": "SENÁTOR 21"
+      },
+      "age": 46,
+      "home": "Praha",
+      "homeID": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr. Ing.",
         "Miloslav",
         "Ludvík",
-        ""
+        "MBA"
       ],
       "reg": 21,
       "links": [
@@ -767,15 +1106,24 @@
       "nominee": 7,
       "color": "#f59231",
       "work": "ředitel Fakultní nemonice v Motole, bývalý ministr zdravotnictví, manažer",
-			"photo": "miloslav-ludvik.jpg",
-			"copyright": "wiki"
+      "photo": "miloslav-ludvik.jpg",
+      "copyright": "wiki",
+      "no": 1,
+      "party": {
+        "reg": 1452,
+        "name": "Koalice ČSSD a hnutí ANO 2011"
+      },
+      "age": 57,
+      "home": "Praha",
+      "homeID": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "prof. Ing.",
         "Mansoor",
         "Maitah",
-        ""
+        "Ph.D. et Ph.D."
       ],
       "reg": 21,
       "links": [],
@@ -783,7 +1131,18 @@
         1227
       ],
       "color": "#2b3acc",
-      "work": "profesor ekonomie na ČZU a VŠE"
+      "work": "profesor ekonomie na ČZU a VŠE",
+      "no": 5,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 58,
+      "home": "Praha",
+      "homeID": 1,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
@@ -798,14 +1157,25 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "specialista v oboru umělé inteligence"
+      "work": "specialista v oboru umělé inteligence",
+      "no": 4,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 63,
+      "home": "Praha",
+      "homeID": 1,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "David",
         "Pavlát",
-        ""
+        "Ph.D."
       ],
       "reg": 24,
       "links": [],
@@ -815,7 +1185,16 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-      "work": "historik moderních českých dějin"
+      "work": "historik moderních českých dějin",
+      "no": 7,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 40,
+      "home": "Praha 9",
+      "homeID": 500216,
+      "sex": 1
     },
     {
       "name": [
@@ -838,18 +1217,27 @@
         720
       ],
       "work": "úřadující senátor, radní městské části Praha-Vinoř, scénárista a publicista",
-      "member": 99,
+      "member": 166,
       "nominee": 166,
       "color": "#1ebdb7",
       "photo": "david-smoljak.jpg",
-      "motto": "Politika je často dost tvrdá a nevybíravá, plná nelehkých kompromisů, ale ze své podstaty není špinavá. Když se na ni ale všichni vykašleme a přenecháme ji napospas těm, co ji chtějí dělat jenom proto, aby nad námi měli moc, tak taková zaručeně bude!"
+      "motto": "Politika je často dost tvrdá a nevybíravá, plná nelehkých kompromisů, ale ze své podstaty není špinavá. Když se na ni ale všichni vykašleme a přenecháme ji napospas těm, co ji chtějí dělat jenom proto, aby nad námi měli moc, tak taková zaručeně bude!",
+      "no": 10,
+      "party": {
+        "reg": 1472,
+        "name": "David Smoljak, koalice STAN + Piráti + TOP 09"
+      },
+      "age": 61,
+      "home": "Praha-Vinoř",
+      "homeID": 539007,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "plk. gšt. v záloze PhDr.",
         "Eduard",
         "Stehlík",
-        ""
+        "Ph.D., MBA"
       ],
       "reg": 24,
       "links": [
@@ -861,18 +1249,27 @@
       "support": [
         1,
         53,
-				714
+        714
       ],
       "work": "vojenský historik, předseda Rady ÚSTR, ředitel Památníku Lidice",
       "member": 99,
-      "nominee": 99,
+      "nominee": 53,
       "color": "#fec92f",
       "photo": "eduard-stehlik.jpg",
-      "program": "https://eduardstehlik.eu/programove-priority/"
+      "program": "https://eduardstehlik.eu/programove-priority/",
+      "no": 3,
+      "party": {
+        "reg": 210,
+        "name": "Koalice ODS a KDU-ČSL"
+      },
+      "age": 55,
+      "home": "Praha 6",
+      "homeID": 500178,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Václav",
         "Krása",
         ""
@@ -886,8 +1283,19 @@
       ],
       "color": "#2b3acc",
       "work": "předseda Národní rady osob se zdravotním postižením, bývalý poslanec PČR",
-			"photo": "vaclav-krasa.jpg",
-			"copyright": "wiki"
+      "photo": "vaclav-krasa.jpg",
+      "copyright": "wiki",
+      "no": 11,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 68,
+      "home": "Chýně",
+      "homeID": 539309,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
@@ -902,7 +1310,18 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "živnostník v oboru gastronomie"
+      "work": "živnostník v oboru gastronomie",
+      "no": 2,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 47,
+      "home": "Praha 8",
+      "homeID": 500208,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
@@ -927,7 +1346,17 @@
       "member": 99,
       "color": "#000",
       "photo": "robert-veverka.jpg",
-      "program": "http://robertveverka.cz/program/"
+      "program": "http://robertveverka.cz/program/",
+      "no": 1,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 43,
+      "home": "Praha",
+      "homeID": 1,
+      "nominee": 720,
+      "sex": 1
     },
     {
       "name": [
@@ -953,14 +1382,23 @@
       "member": 53,
       "nominee": 53,
       "color": "#194392",
-      "photo": "miroslava-nemcova-2.jpg"
+      "photo": "miroslava-nemcova-2.jpg",
+      "no": 8,
+      "party": {
+        "reg": 1329,
+        "name": "Koalice ODS, TOP 09 a STAN s podporou LES"
+      },
+      "age": 67,
+      "home": "Žďár nad Sázavou",
+      "homeID": 595209,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "prof. RNDr.",
         "Václav",
         "Hampl",
-        ""
+        "DrSc."
       ],
       "reg": 27,
       "links": [
@@ -983,16 +1421,25 @@
       ],
       "work": "úřadující senátor, bývalý rektor Univerzity Karlovy v Praze, fyziolog",
       "member": 99,
-      "nominee": 99,
+      "nominee": 1,
       "color": "#fec92f",
-      "photo": "vaclav-hampl.jpg"
+      "photo": "vaclav-hampl.jpg",
+      "no": 4,
+      "party": {
+        "reg": 1461,
+        "name": "PRAHA SOBĚ, KDU-ČSL, ZELENÍ, SENÁTOR 21"
+      },
+      "age": 58,
+      "home": "Praha",
+      "homeID": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "prof. RNDr.",
         "Ivo",
         "Budil",
-        ""
+        "Ph.D., DSc."
       ],
       "reg": 27,
       "links": [
@@ -1006,15 +1453,25 @@
         1227
       ],
       "color": "#2b3acc",
-			"photo": "ivo-budil.jpg",
-			"copyright": "wiki",
+      "photo": "ivo-budil.jpg",
+      "copyright": "wiki",
       "work": "profesor antropologie na Metropolitní univerzitě, bývalý děkan Fakulty filozofické ZČU",
-      "member": 99,
-      "program": "https://www.facebook.com/IvoBudilTrikolora/posts/133240085075693"
+      "member": 1227,
+      "program": "https://www.facebook.com/IvoBudilTrikolora/posts/133240085075693",
+      "no": 2,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 55,
+      "home": "Praha 4",
+      "homeID": 500119,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Dr.- Ing.",
         "Milan",
         "Urban",
         ""
@@ -1025,11 +1482,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "architekt"
+      "work": "architekt",
+      "no": 6,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 60,
+      "home": "Praha 4",
+      "homeID": 500119,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Adéla",
         "Šípová",
         ""
@@ -1048,14 +1516,23 @@
         720
       ],
       "work": "advokátka",
-      "member": 720,
+      "member": 99,
       "nominee": 720,
       "color": "#000",
-      "photo": "adela-sipova.jpg"
+      "photo": "adela-sipova.jpg",
+      "no": 6,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 40,
+      "home": "Doksy",
+      "homeID": 532223,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jiří",
         "Dienstbier",
         ""
@@ -1081,7 +1558,16 @@
       "nominee": 7,
       "color": "#f59231",
       "photo": "jiri-dienstbier.jpg",
-      "motto": "Zásadovost. Spravedlnost."
+      "motto": "Zásadovost. Spravedlnost.",
+      "no": 7,
+      "party": {
+        "reg": 1469,
+        "name": "ZÁSADOVOST, SPRAVEDLNOST -ČSSD, Zelení, Budoucnost"
+      },
+      "age": 51,
+      "home": "Praha 2",
+      "homeID": 500089,
+      "sex": 1
     },
     {
       "name": [
@@ -1101,14 +1587,24 @@
       "support": [
         166
       ],
-      "member": 166,
+      "member": 99,
       "color": "#1ebdb7",
       "photo": "marketa-frohlichova.jpg",
-      "work": "starostka obce Krušovice, dobrovolná hasička a bývalá zaměstnankyně Policie ČR a Městské policie v Kladně"
+      "work": "starostka obce Krušovice, dobrovolná hasička a bývalá zaměstnankyně Policie ČR a Městské policie v Kladně",
+      "no": 5,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 44,
+      "home": "Krušovice",
+      "homeID": 541974,
+      "nominee": 166,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jiří",
         "Landa",
         ""
@@ -1119,14 +1615,25 @@
         1227
       ],
       "color": "#2b3acc",
-      "work": "lékař a fytoterapeut"
+      "work": "lékař a fytoterapeut",
+      "no": 10,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 64,
+      "home": "Kladno",
+      "homeID": 532053,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Ondřej",
         "Závodský",
-        ""
+        "Ph.D."
       ],
       "reg": 30,
       "links": [
@@ -1136,22 +1643,33 @@
         "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Z%C3%A1vodsk%C3%BD"
       ],
       "support": [
-        1, 721
+        1,
+        721
       ],
       "member": 99,
       "color": "#fec92f",
-      "work": "právní expert NFPK"
+      "work": "právní expert NFPK",
+      "no": 13,
+      "party": {
+        "reg": 1058,
+        "name": "Koalice KDU-ČSL a TOP 09"
+      },
+      "age": 40,
+      "home": "Praha 4",
+      "homeID": 500119,
+      "nominee": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing. Bc.",
         "Miloslava",
         "Vostrá",
         ""
       ],
       "reg": 30,
       "links": [
-				"vostram@psp.cz",
+        "vostram@psp.cz",
         "https://cs.wikipedia.org/wiki/Miloslava_Vostr%C3%A1"
       ],
       "support": [
@@ -1160,12 +1678,23 @@
       "color": "#eb343f",
       "work": "poslankyně PČR, zastupitelka obce Braškov",
       "motto": "Sny a touhy je třeba každý den naplnit v reálné skutky",
-			"program": "https://drive.google.com/file/d/1cqtfq1OngrMKALc5deCj7TPjt8wpdr4w/view?usp=sharing",
-			"photo": "miloslava-vostra.jpg"
+      "program": "https://drive.google.com/file/d/1cqtfq1OngrMKALc5deCj7TPjt8wpdr4w/view?usp=sharing",
+      "photo": "miloslava-vostra.jpg",
+      "no": 8,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 55,
+      "home": "Braškov",
+      "homeID": 532126,
+      "member": 47,
+      "nominee": 47,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Petr",
         "Bendl",
         ""
@@ -1184,7 +1713,17 @@
       "member": 53,
       "color": "#194392",
       "photo": "petr-bendl.jpg",
-      "work": "poslanec PČR, zastupitel obce Bratronice, bývalý ministr zemědělství a dopravy"
+      "work": "poslanec PČR, zastupitel obce Bratronice, bývalý ministr zemědělství a dopravy",
+      "no": 1,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 54,
+      "home": "Bratronice",
+      "homeID": 532142,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
@@ -1199,24 +1738,34 @@
         "http://davidbohbot.cz/",
         "https://www.facebook.com/david.bohbot.58",
         "https://www.youtube.com/watch?v=Afz52B6-Yw4",
-				"https://www.instagram.com/bohbot_david"
+        "https://www.instagram.com/bohbot_david"
       ],
       "support": [
-				714
+        714
       ],
       "member": 99,
       "color": "#159582",
       "program": "http://davidbohbot.cz/program/",
       "work": "bezpečnostní expert",
       "motto": "Bezpečnost je moje priorita",
-      "photo": "david-bohbot.jpg"
+      "photo": "david-bohbot.jpg",
+      "no": 11,
+      "party": {
+        "reg": 714,
+        "name": "Svobodní"
+      },
+      "age": 52,
+      "home": "Praha 11",
+      "homeID": 547034,
+      "nominee": 714,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Václav",
         "Bošek",
-        ""
+        "MBA"
       ],
       "reg": 30,
       "links": [],
@@ -1225,11 +1774,21 @@
       ],
       "member": 99,
       "color": "#874a0f",
-      "work": "zástupce ředitele společnosti"
+      "work": "zástupce ředitele společnosti",
+      "no": 9,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 43,
+      "home": "Kladno",
+      "homeID": 532053,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Zbyněk",
         "Linhart",
         ""
@@ -1255,7 +1814,16 @@
       "member": 99,
       "nominee": 166,
       "color": "#1ebdb7",
-      "photo": "zbynek-linhart.jpg"
+      "photo": "zbynek-linhart.jpg",
+      "no": 1,
+      "party": {
+        "reg": 1164,
+        "name": "Senátor Českého Švýcarska za starosty"
+      },
+      "age": 51,
+      "home": "Krásná Lípa",
+      "homeID": 562611,
+      "sex": 1
     },
     {
       "name": [
@@ -1266,9 +1834,9 @@
       ],
       "reg": 33,
       "links": [
-				"https://zdenekriha.blog.idnes.cz/",
-				"https://www.facebook.com/Zden%C4%9Bk-%C5%98%C3%ADha-105730334478257"
-			],
+        "https://zdenekriha.blog.idnes.cz/",
+        "https://www.facebook.com/Zden%C4%9Bk-%C5%98%C3%ADha-105730334478257"
+      ],
       "support": [
         1227
       ],
@@ -1276,14 +1844,23 @@
       "nominee": 1227,
       "color": "#2b3acc",
       "work": "docent v oboru Technologie a management dopravy, vysokoškolský učitel",
-      "photo": "zdenek-riha.jpg"
+      "photo": "zdenek-riha.jpg",
+      "no": 7,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 46,
+      "home": "Děčín",
+      "homeID": 562335,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.Mgr.",
         "Leoš",
         "Moravec",
-        ""
+        "MSc."
       ],
       "reg": 33,
       "links": [],
@@ -1291,7 +1868,18 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "zastupitel města Rumburk, ředitel dětského domova"
+      "work": "zastupitel města Rumburk, ředitel dětského domova",
+      "no": 3,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 40,
+      "home": "Rumburk",
+      "homeID": 562777,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
@@ -1314,7 +1902,16 @@
       "member": 99,
       "nominee": 53,
       "color": "#194392",
-      "photo": "vit-vomacka.jpg"
+      "photo": "vit-vomacka.jpg",
+      "no": 4,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 60,
+      "home": "Kravaře",
+      "homeID": 561720,
+      "sex": 1
     },
     {
       "name": [
@@ -1325,18 +1922,27 @@
       ],
       "reg": 36,
       "links": [
-				"Milos.tita@volny.cz"
-			],
+        "Milos.tita@volny.cz"
+      ],
       "support": [
         47
       ],
       "work": "zastupitel Libereckého kraje, bývalý starosta města Ralsko",
-      "member": 47,
+      "member": 99,
       "nominee": 47,
       "color": "#eb343f",
-			"photo": "milos-tita.jpg",
-			"motto": "Senát má pomáhat, ne škodit",
-			"program": "https://drive.google.com/file/d/1zCZyjKt0nG2z8SWacj-TnYUZEdJqiI4I/view?usp=sharing"
+      "photo": "milos-tita.jpg",
+      "motto": "Senát má pomáhat, ne škodit",
+      "program": "https://drive.google.com/file/d/1zCZyjKt0nG2z8SWacj-TnYUZEdJqiI4I/view?usp=sharing",
+      "no": 5,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 63,
+      "home": "Ralsko",
+      "homeID": 562017,
+      "sex": 1
     },
     {
       "name": [
@@ -1361,7 +1967,16 @@
       "nominee": 720,
       "color": "#000",
       "photo": "petr-jenik.jpg",
-      "program": "https://petrjenik.cz/"
+      "program": "https://petrjenik.cz/",
+      "no": 3,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 41,
+      "home": "Česká Lípa",
+      "homeID": 561380,
+      "sex": 1
     },
     {
       "name": [
@@ -1380,7 +1995,16 @@
       "work": "starosta obce Vrchovany",
       "member": 7,
       "nominee": 7,
-      "color": "#f59231"
+      "color": "#f59231",
+      "no": 9,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 48,
+      "home": "Vrchovany",
+      "homeID": 562238,
+      "sex": 1
     },
     {
       "name": [
@@ -1391,10 +2015,10 @@
       ],
       "reg": 36,
       "links": [
-	      "info@jirivosecky.cz",
-	      "https://www.jirivosecky.cz/",
-	      "https://www.facebook.com/senatorvosecky/",
-	      "https://www.instagram.com/jiri_vosecky/",
+        "info@jirivosecky.cz",
+        "https://www.jirivosecky.cz/",
+        "https://www.facebook.com/senatorvosecky/",
+        "https://www.instagram.com/jiri_vosecky/",
         "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Voseck%C3%BD"
       ],
       "support": [
@@ -1404,7 +2028,18 @@
       "color": "#1ebdb7",
       "photo": "jiri-vosecky.jpg",
       "work": "úřadující senátor, zastupitel obce Okrouhlá, bývalý sklář",
-      "program": "https://www.jirivosecky.cz/me-priority"
+      "program": "https://www.jirivosecky.cz/me-priority",
+      "no": 8,
+      "party": {
+        "reg": 1164,
+        "name": "Starostové"
+      },
+      "age": 69,
+      "home": "Okrouhlá",
+      "homeID": 561894,
+      "member": 703,
+      "nominee": 703,
+      "sex": 1
     },
     {
       "name": [
@@ -1419,7 +2054,18 @@
         1227
       ],
       "color": "#2b3acc",
-      "work": "starosta obce Provodín"
+      "work": "starosta obce Provodín",
+      "no": 6,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 64,
+      "home": "Provodín",
+      "homeID": 561983,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
@@ -1435,12 +2081,23 @@
       ],
       "color": "#874a0f",
       "work": "živnostník v oblasti nemovitostí a financí",
-			"photo": "libor-krenek-2.jpg",
-			"program": "https://docs.google.com/document/d/1ccZK-DOHzvr83opxM_wq47T5WYZVQSSF6zfOd_I4AOM/edit?usp=sharing"
+      "photo": "libor-krenek-2.jpg",
+      "program": "https://docs.google.com/document/d/1ccZK-DOHzvr83opxM_wq47T5WYZVQSSF6zfOd_I4AOM/edit?usp=sharing",
+      "no": 10,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 53,
+      "home": "Chlum",
+      "homeID": 561614,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Klára",
         "Sovová",
         ""
@@ -1454,39 +2111,59 @@
       "support": [
         53
       ],
-      "member": 99,
+      "member": 53,
       "nominee": 53,
       "color": "#194392",
       "photo": "klara-sovova.jpg",
-      "work": "advokátka a provozovatelka hotelu Luční bouda"
+      "work": "advokátka a provozovatelka hotelu Luční bouda",
+      "no": 3,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 54,
+      "home": "Pec pod Sněžkou",
+      "homeID": 579581,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jan",
         "Sobotka",
         ""
       ],
       "reg": 39,
       "links": [
-		"https://www.jansobotka.cz/",
+        "https://www.jansobotka.cz/",
         "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/sobotka-jan",
         "https://www.facebook.com/jansobotkavrchlabi",
         "https://cs.wikipedia.org/wiki/Jan_Sobotka_(sen%C3%A1tor)"
       ],
       "support": [
         166,
-		720,
-		721
+        720,
+        721
       ],
       "color": "#1ebdb7",
       "photo": "jan-sobotka.jpg",
       "motto": "Jsem senátor, který nezapomněl na starosti starosty.",
-      "work": "úřadující senátor, zastupitel Královéhradeckého kraje, starosta města Vrchlabí"
+      "work": "úřadující senátor, zastupitel Královéhradeckého kraje, starosta města Vrchlabí",
+      "no": 1,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 59,
+      "home": "Vrchlabí",
+      "homeID": 579858,
+      "member": 99,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jan",
         "Jarolím",
         ""
@@ -1503,7 +2180,18 @@
       ],
       "color": "#2f2f65",
       "work": "starosta města Dvůr Králové nad Labem, ekonom",
-      "photo": "jan-jarolim.jpg"
+      "photo": "jan-jarolim.jpg",
+      "no": 4,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 46,
+      "home": "Dvůr Králové nad Labem",
+      "homeID": 579203,
+      "member": 768,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
@@ -1518,19 +2206,30 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "nástrojař"
+      "work": "nástrojař",
+      "no": 2,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 47,
+      "home": "Trutnov",
+      "homeID": 579025,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Cyril",
         "Koky",
-        ""
+        "MPA"
       ],
       "reg": 42,
       "links": [
         "cyril.koky.kolin@pirati.cz",
-				"https://www.cyrilkoky.cz/",
+        "https://www.cyrilkoky.cz/",
         "https://stredocesky.pirati.cz/lide/cyril-koky/",
         "https://www.facebook.com/cyril.koky.71",
         "https://cs.wikipedia.org/wiki/Cyril_Koky"
@@ -1539,44 +2238,64 @@
         720
       ],
       "work": "referent pro oblast národnostních menšin na Krajském úřadě Středočeského kraje",
-      "member": 99,
+      "member": 720,
       "nominee": 720,
       "color": "#000",
       "photo": "cyril-koky.jpg",
-			"motto": "V Senátu ČR chci zúročit své dlouholeté zkušenosti z oblasti státní správy, sociální problematiky a prevence kriminality.",
-			"program": "https://www.cyrilkoky.cz/moje-priority/"
+      "motto": "V Senátu ČR chci zúročit své dlouholeté zkušenosti z oblasti státní správy, sociální problematiky a prevence kriminality.",
+      "program": "https://www.cyrilkoky.cz/moje-priority/",
+      "no": 5,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 51,
+      "home": "Kolín",
+      "homeID": 533165,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Martin",
         "Škorpík",
         ""
       ],
       "reg": 42,
       "links": [
-				"mskorpik@skorpik.eu"
-			],
+        "mskorpik@skorpik.eu"
+      ],
       "support": [
         47
       ],
       "color": "#eb343f",
       "work": "zastupitel města Kolín, stavební technik",
-			"motto": "Buďme hrdý národ!",
-			"photo": "martin-skorpik.jpg",
-			"program": "https://drive.google.com/file/d/1H5I2Yx11DyhF2d20K5lX9CFafUbOFk2m/view?usp=sharing"
+      "motto": "Buďme hrdý národ!",
+      "photo": "martin-skorpik.jpg",
+      "program": "https://drive.google.com/file/d/1H5I2Yx11DyhF2d20K5lX9CFafUbOFk2m/view?usp=sharing",
+      "no": 3,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 58,
+      "home": "Kolín",
+      "homeID": 533165,
+      "member": 47,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Tomáš",
         "Klinecký",
         ""
       ],
       "reg": 42,
       "links": [
-				"tomas.klinecky@stc.top09.cz",
-				"https://www.klinecky.cz/",
+        "tomas.klinecky@stc.top09.cz",
+        "https://www.klinecky.cz/",
         "https://www.top09.cz/volby/2020-senat/mgr-tomas-klinecky-27378.html",
         "https://www.facebook.com/klineckytomas/",
         "https://www.instagram.com/tomas_klinecky/",
@@ -1585,17 +2304,27 @@
       "support": [
         721,
         5,
-				1220
+        1220
       ],
       "member": 721,
       "color": "#531a92",
       "photo": "tomas-klinecky.jpg",
       "work": "místostarosta města Český Brod, advokát",
-			"program": "https://www.klinecky.cz/muj-program-do-senatu/"
+      "program": "https://www.klinecky.cz/muj-program-do-senatu/",
+      "no": 7,
+      "party": {
+        "reg": 1470,
+        "name": "Tomáš Klinecký - TOP 09, Hlas, Zelení"
+      },
+      "age": 40,
+      "home": "Český Brod",
+      "homeID": 533271,
+      "nominee": 721,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Pavel",
         "Kárník",
         ""
@@ -1612,14 +2341,25 @@
       ],
       "color": "#1ebdb7",
       "photo": "pavel-karnik.jpg",
-      "work": "ředitel Městské knihovny Kolín"
+      "work": "ředitel Městské knihovny Kolín",
+      "no": 11,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 60,
+      "home": "Kolín",
+      "homeID": 533165,
+      "member": 99,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "Ivanka",
         "Kohoutová",
-        ""
+        "Ph.D."
       ],
       "reg": 42,
       "links": [],
@@ -1627,14 +2367,25 @@
         1227
       ],
       "color": "#2b3acc",
-      "work": "ředitelka Střední zdravotnické školy Ruská"
+      "work": "ředitelka Střední zdravotnické školy Ruská",
+      "no": 9,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 63,
+      "home": "Zlatá",
+      "homeID": 513644,
+      "member": 99,
+      "nominee": 1227,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "doc. Mgr.",
         "Petr",
         "Žantovský",
-        ""
+        "Ph.D."
       ],
       "reg": 42,
       "links": [
@@ -1645,11 +2396,21 @@
       ],
       "member": 99,
       "color": "#874a0f",
-      "work": "publicista a komentátor, člen Rady ČTK"
+      "work": "publicista a komentátor, člen Rady ČTK",
+      "no": 10,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 58,
+      "home": "Rudná",
+      "homeID": 531723,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Michal",
         "Zapletal",
         ""
@@ -1665,14 +2426,25 @@
       ],
       "color": "#194392",
       "photo": "michal-zapletal.jpg",
-      "work": "živnostník a provozovatel kavárny"
+      "work": "živnostník a provozovatel kavárny",
+      "no": 1,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 51,
+      "home": "Kolín",
+      "homeID": 533165,
+      "member": 53,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "doc. PhDr.",
         "Pavel",
         "Vacek",
-        ""
+        "Ph.D."
       ],
       "reg": 45,
       "links": [
@@ -1684,13 +2456,22 @@
       ],
       "support": [
         720,
-				166
+        166
       ],
       "work": "zastupitel města Hradec Králové, bývalý děkan Pedagogické fakulty UHK",
-      "member": 720,
+      "member": 99,
       "nominee": 720,
       "color": "#000",
-      "photo": "pavel-vacek.jpg"
+      "photo": "pavel-vacek.jpg",
+      "no": 8,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 72,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "sex": 1
     },
     {
       "name": [
@@ -1718,21 +2499,30 @@
           "name": "Změna pro Hradec",
           "logo": "obecne/strany/loga/x-zmena-pro-hradec.jpg"
         },
-				113
+        113
       ],
       "work": "zastupitel města Hradec Králové, advokát a filantrop",
       "member": 99,
-      "nominee": 99,
+      "nominee": 1049,
       "color": "#4f689a",
       "photo": "jan-holasek.jpg",
-      "program": "http://www.janholasek.cz/kandidatura"
+      "program": "http://www.janholasek.cz/kandidatura",
+      "no": 3,
+      "party": {
+        "reg": 1463,
+        "name": "Jan Holásek - společný kandidát"
+      },
+      "age": 47,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "prof. MUDr.",
         "Jaroslav",
         "Malý",
-        ""
+        "CSc."
       ],
       "reg": 45,
       "links": [
@@ -1741,14 +2531,24 @@
       "support": [],
       "member": 99,
       "photo": "jaroslav-maly.jpg",
-      "work": "úřadující senátor zvolený za ČSSD, profesor vnitřního lékařství na LF HK UK"
+      "work": "úřadující senátor zvolený za ČSSD, profesor vnitřního lékařství na LF HK UK",
+      "no": 9,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 73,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "prof. MUDr.",
         "Jan",
         "Čáp",
-        ""
+        "CSc."
       ],
       "reg": 45,
       "links": [
@@ -1763,11 +2563,22 @@
         1
       ],
       "color": "#fec92f",
-      "work": "zastupitel města Hradec Králové, profesor endokrinologie na LF HK UK"
+      "work": "zastupitel města Hradec Králové, profesor endokrinologie na LF HK UK",
+      "no": 5,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 67,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "member": 1,
+      "nominee": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jiří",
         "Mašek",
         ""
@@ -1780,27 +2591,49 @@
         768
       ],
       "color": "#2f2f65",
-      "work": "poslanec PČR, zastupitel města Hradec Králové, záchranář"
+      "work": "poslanec PČR, zastupitel města Hradec Králové, záchranář",
+      "no": 10,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 62,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "member": 768,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Lubomír",
         "Štěpán",
         ""
       ],
       "reg": 45,
       "links": [
-				"stepan.ils@tiscali.cz"
-			],
+        "stepan.ils@tiscali.cz"
+      ],
       "support": [
         47
       ],
       "color": "#eb343f",
       "work": "zastupitel města Hradec Králové, projektant",
-			"motto": "Zájem občanů na prvním místě",
-			"photo": "lubomir-stepan.jpg",
-			"program": "https://drive.google.com/file/d/1UIN3s0u48OZbyDZzt5RQbKONv0hVdvJ0/view?usp=sharing"
+      "motto": "Zájem občanů na prvním místě",
+      "photo": "lubomir-stepan.jpg",
+      "program": "https://drive.google.com/file/d/1UIN3s0u48OZbyDZzt5RQbKONv0hVdvJ0/view?usp=sharing",
+      "no": 7,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 66,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "member": 47,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
@@ -1823,11 +2656,22 @@
       ],
       "color": "#2b3acc",
       "work": "OSVČ v oblasti pojišťovnictví na pozici vedoucí obchodní skupiny",
-      "photo": "petr-brabnik-2.jpg"
+      "photo": "petr-brabnik-2.jpg",
+      "no": 2,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 51,
+      "home": "Nový Bydžov",
+      "homeID": 570508,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Pavel",
         "Staněk",
         ""
@@ -1845,11 +2689,22 @@
       ],
       "color": "#194392",
       "photo": "pavel-stanek.jpg",
-      "work": "bývalý poslanec PČR a náměstek ministra spravedlnosti, právník"
+      "work": "bývalý poslanec PČR a náměstek ministra spravedlnosti, právník",
+      "no": 1,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 47,
+      "home": "Předměřice nad Labem",
+      "homeID": 570672,
+      "member": 53,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Markéta",
         "Pakandlová",
         ""
@@ -1860,11 +2715,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "advokátka"
+      "work": "advokátka",
+      "no": 6,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 59,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Miroslav",
         "Antl",
         ""
@@ -1878,12 +2744,22 @@
       ],
       "support": [],
       "photo": "miroslav-antl.jpg",
-      "member": 99,
-      "work": "úřadující senátor zvolený za ČSSD, zastupitel Královéhradeckého kraje, odborný asistent na PedF UHK"
+      "member": 1235,
+      "work": "úřadující senátor zvolený za ČSSD, zastupitel Královéhradeckého kraje, odborný asistent na PedF UHK",
+      "no": 6,
+      "party": {
+        "reg": 1235,
+        "name": "ZA OBČANY"
+      },
+      "age": 65,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "nominee": 1235,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jan",
         "Grulich",
         ""
@@ -1894,29 +2770,40 @@
         "https://www.top09.cz/volby/2020-senat/mgr-jan-grulich-26982.html",
         "https://www.facebook.com/honzadosenatu/",
         "https://twitter.com/grulich_jan",
-				"https://cs.wikipedia.org/wiki/Jan_Grulich"
+        "https://cs.wikipedia.org/wiki/Jan_Grulich"
       ],
       "support": [
         721,
-				720,
-				166,
-				1,
-				795
+        720,
+        166,
+        1,
+        795
       ],
       "color": "#531a92",
       "photo": "jan-grulich.jpg",
-      "work": "zastupitel Královéhradeckého kraje, ředitel ZŠ a MŠ Trivium Plus v Dobřanech"
+      "work": "zastupitel Královéhradeckého kraje, ředitel ZŠ a MŠ Trivium Plus v Dobřanech",
+      "no": 5,
+      "party": {
+        "reg": 1431,
+        "name": "Jan Grulich - senátor z hor"
+      },
+      "age": 45,
+      "home": "Sedloňov",
+      "homeID": 576743,
+      "member": 721,
+      "nominee": 721,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PaedDr.",
         "Josef",
         "Lukášek",
         ""
       ],
       "reg": 48,
       "links": [
-				"josef.lukasek@tiscali.cz",
+        "josef.lukasek@tiscali.cz",
         "https://cs.wikipedia.org/wiki/Josef_Luk%C3%A1%C5%A1ek"
       ],
       "support": [
@@ -1924,16 +2811,27 @@
       ],
       "color": "#eb343f",
       "work": "zastupitel Královéhradeckého kraje, zastupitel obce Bystré, spisovatel regionální literatury Orlických hor",
-			"program": "https://drive.google.com/file/d/13VZx6MGOHb-Do75AxTYjIds52BQFIBhT/view?usp=sharing",
-			"photo": "josef-lukasek.jpg",
-			"motto": "Nedejme se!"
+      "program": "https://drive.google.com/file/d/13VZx6MGOHb-Do75AxTYjIds52BQFIBhT/view?usp=sharing",
+      "photo": "josef-lukasek.jpg",
+      "motto": "Nedejme se!",
+      "no": 2,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 68,
+      "home": "Bystré",
+      "homeID": 576166,
+      "member": 47,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jiří",
         "Matoušek",
-        ""
+        "MPA"
       ],
       "reg": 48,
       "links": [],
@@ -1943,11 +2841,22 @@
         716
       ],
       "color": "#2b3acc",
-      "work": "politolog, podnikatel v autodopravě"
+      "work": "politolog, podnikatel v autodopravě",
+      "no": 1,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 41,
+      "home": "Javornice",
+      "homeID": 576336,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jana",
         "Drejslová",
         ""
@@ -1965,7 +2874,17 @@
       ],
       "photo": "jana-drejslova.jpg",
       "motto": "Žiji Rychnovem – městem i okresem. Budu žít i svým senátním obvodem!",
-      "work": "zastupitelka Královéhradeckého kraje, místostarostka města Rychnov nad Kněžnou, bývalá učitelka na Gymnáziu F. M. Pelcla"
+      "work": "zastupitelka Královéhradeckého kraje, místostarostka města Rychnov nad Kněžnou, bývalá učitelka na Gymnáziu F. M. Pelcla",
+      "no": 7,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 57,
+      "home": "Rychnov nad Kněžnou",
+      "homeID": 576069,
+      "nominee": 53,
+      "sex": 2
     },
     {
       "name": [
@@ -1984,11 +2903,21 @@
       "support": [],
       "motto": "Živá voda pro náš kraj",
       "photo": "drahoslav-chudoba.jpg",
-      "work": "odborník na vodárenství, zemědělec a filantrop"
+      "work": "odborník na vodárenství, zemědělec a filantrop",
+      "no": 3,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 55,
+      "home": "Rychnov nad Kněžnou",
+      "homeID": 576069,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Vladimíra",
         "Lesenská",
         ""
@@ -2002,8 +2931,19 @@
       ],
       "color": "#874a0f",
       "work": "zastupitelka města Týniště nad Orlicí, bývalý poslankyně PČR, ředitelka kontaktního pracoviště Úřadu práce ČR",
-			"photo": "vladimira-lesenska.jpg",
-			"copyright": "wiki"
+      "photo": "vladimira-lesenska.jpg",
+      "copyright": "wiki",
+      "no": 8,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 56,
+      "home": "Týniště nad Orlicí",
+      "homeID": 576859,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 2
     },
     {
       "name": [
@@ -2016,7 +2956,7 @@
       "links": [
         "https://www.facebook.com/MichalSmarda.NMNM/",
         "https://twitter.com/MichalSmarda",
-				"https://www.instagram.com/michalsmarda/",
+        "https://www.instagram.com/michalsmarda/",
         "https://cs.wikipedia.org/wiki/Michal_%C5%A0marda_(politik)"
       ],
       "support": [
@@ -2031,12 +2971,21 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-			"photo": "michal-smarda.jpg",
-			"copyright": "wiki"
+      "photo": "michal-smarda.jpg",
+      "copyright": "wiki",
+      "no": 4,
+      "party": {
+        "reg": 1469,
+        "name": "SILNÝ HLAS Z VYSOČINY - ČSSD, Zelení, Budoucnost"
+      },
+      "age": 45,
+      "home": "Nové Město na Moravě",
+      "homeID": 596230,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Josef",
         "Klement",
         ""
@@ -2047,7 +2996,7 @@
         53,
         721
       ],
-      "member": 1,
+      "member": 99,
       "color": "#fec92f",
       "work": "místostarosta města Žďár nad Sázavou, manažer v automobilovém průmyslu",
       "links": [
@@ -2057,11 +3006,21 @@
         "https://www.facebook.com/ingjosefklement/",
         "https://www.kduvysocina.cz/index.php/kandidatem-ve-volebnim-obvodu-zdar-nad-sazavou-je-josef-klement"
       ],
-      "photo": "josef-klement.jpg"
+      "photo": "josef-klement.jpg",
+      "no": 6,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 49,
+      "home": "Žďár nad Sázavou",
+      "homeID": 595209,
+      "nominee": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Bohumil",
         "Kasal",
         ""
@@ -2074,18 +3033,29 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "profesor architektury na ČVUT v Praze"
+      "work": "profesor architektury na ČVUT v Praze",
+      "no": 1,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 64,
+      "home": "Praha 6",
+      "homeID": 500178,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Pavel",
         "Kováčik",
         ""
       ],
       "reg": 54,
       "links": [
-				"kovacik@psp.cz",
+        "kovacik@psp.cz",
         "https://cs.wikipedia.org/wiki/Pavel_Kov%C3%A1%C4%8Dik"
       ],
       "support": [
@@ -2095,24 +3065,33 @@
       "nominee": 47,
       "color": "#eb343f",
       "work": "poslanec PČR, předseda poslaneckého klubu KSČM a stínový ministr zemědělství",
-			"photo": "pavel-kovacik.jpg",
-			"copyright": "wiki",
-			"motto": "Zdravý rozum a zkušenost do Senátu",
-			"program": "https://drive.google.com/file/d/1pphGSxV0O-fNLGFdw8f2BWASg4x2kaEY/view?usp=sharing"
+      "photo": "pavel-kovacik.jpg",
+      "copyright": "wiki",
+      "motto": "Zdravý rozum a zkušenost do Senátu",
+      "program": "https://drive.google.com/file/d/1pphGSxV0O-fNLGFdw8f2BWASg4x2kaEY/view?usp=sharing",
+      "no": 7,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 65,
+      "home": "Třebíč",
+      "homeID": 590266,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Tomáš",
         "Třetina",
         ""
       ],
       "reg": 54,
       "links": [
-				"https://www.tomastretina.cz/",
+        "https://www.tomastretina.cz/",
         "https://www.top09.cz/volby/2020-senat/mgr-tomas-tretina-26984.html",
         "https://www.facebook.com/starosta.tretina",
-				"https://twitter.com/tomas_tretina",
+        "https://twitter.com/tomas_tretina",
         "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_T%C5%99etina"
       ],
       "support": [
@@ -2122,38 +3101,56 @@
         720,
         1,
         1220,
-				714
+        714
       ],
       "member": 721,
       "nominee": 721,
       "color": "#531a92",
       "photo": "tomas-tretina.jpg",
       "work": "starosta města Moravský Krumlov, učitel na I. stupni a bývalý ředitel základní školy",
-			"program": "https://www.tomastretina.cz/program/"
+      "program": "https://www.tomastretina.cz/program/",
+      "no": 4,
+      "party": {
+        "reg": 1329,
+        "name": "Společně pro Znojemsko"
+      },
+      "age": 48,
+      "home": "Moravský Krumlov",
+      "homeID": 594482,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "Vladimír",
         "Železný",
         ""
       ],
       "reg": 54,
       "links": [
-				"http://www.vladimirzelezny.cz/",
-				"https://www.facebook.com/zelezny.vladimir",
+        "http://www.vladimirzelezny.cz/",
+        "https://www.facebook.com/zelezny.vladimir",
         "https://cs.wikipedia.org/wiki/Vladim%C3%ADr_%C5%BDelezn%C3%BD"
       ],
       "support": [
         1227
       ],
-      "member": 1227,
+      "member": 99,
       "nominee": 1227,
       "color": "#2b3acc",
       "work": "bývalý senátor a europoslanec za hnutí NEZ, zakladatel a bývalý ředitel soukromé televize TV Nova",
-			"photo": "vladimir-zelezny.jpg",
-			"copyright": "wiki",
-			"motto": "Bráním normální život"
+      "photo": "vladimir-zelezny.jpg",
+      "copyright": "wiki",
+      "motto": "Bráním normální život",
+      "no": 6,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 75,
+      "home": "Praha",
+      "homeID": 554782,
+      "sex": 1
     },
     {
       "name": [
@@ -2172,13 +3169,23 @@
       "support": [
         7
       ],
-      "member": 99,
+      "member": 7,
       "color": "#f59231",
-      "work": "zastupitel Jihomoravského kraje, starosta města Znojmo, podnikatel v oblasti gastronomie a služeb"
+      "work": "zastupitel Jihomoravského kraje, starosta města Znojmo, podnikatel v oblasti gastronomie a služeb",
+      "no": 3,
+      "party": {
+        "reg": 158,
+        "name": "Starostové a osobnosti pro Moravu"
+      },
+      "age": 40,
+      "home": "Znojmo",
+      "homeID": 593711,
+      "nominee": 158,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Růžena",
         "Šalomonová",
         ""
@@ -2189,14 +3196,25 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "zastupitelka města Znojmo, zakladatelka Rady seniorů města Znojma"
+      "work": "zastupitelka města Znojmo, zakladatelka Rady seniorů města Znojma",
+      "no": 5,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 66,
+      "home": "Znojmo",
+      "homeID": 593711,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Martin",
         "Pavlík",
-        ""
+        "Ph.D., EDIC, DESA"
       ],
       "reg": 54,
       "links": [],
@@ -2204,11 +3222,22 @@
         768
       ],
       "color": "#2f2f65",
-      "work": "ředitel Nemocnice Znojmo, bývalý ředitel Fakultní nemocnice u sv. Anny v Brně"
+      "work": "ředitel Nemocnice Znojmo, bývalý ředitel Fakultní nemocnice u sv. Anny v Brně",
+      "no": 2,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 50,
+      "home": "Brno",
+      "homeID": 582786,
+      "member": 99,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing. arch.",
         "Jaroslav",
         "Klaška",
         ""
@@ -2231,12 +3260,21 @@
       "color": "#fec92f",
       "photo": "jaroslav-klaska.jpg",
       "work": "bývalý poslanec PČR a starosta města Šlapanice, architekt",
-			"program": "https://www.koalicespojmesily.cz/#temata",
-			"motto": "Finanční stabilita, vyrovnané hospodaření a prosperita. To je moje motto."
+      "program": "https://www.koalicespojmesily.cz/#temata",
+      "motto": "Finanční stabilita, vyrovnané hospodaření a prosperita. To je moje motto.",
+      "no": 2,
+      "party": {
+        "reg": 1327,
+        "name": "SPOJME SÍLY, Koalice KDU-ČSL, ODS a TOP 09"
+      },
+      "age": 58,
+      "home": "Šlapanice",
+      "homeID": 583952,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Ivo",
         "Bárek",
         ""
@@ -2245,7 +3283,7 @@
       "links": [
         "bareki@senat.cz",
         "http://barek.cz/",
-				"https://www.facebook.com/ivobareksenator/",
+        "https://www.facebook.com/ivobareksenator/",
         "https://www.facebook.com/ivo.barek.9",
         "https://cs.wikipedia.org/wiki/Ivo_B%C3%A1rek"
       ],
@@ -2255,14 +3293,24 @@
       "member": 7,
       "color": "#f59231",
       "photo": "ivo-barek.jpg",
-      "work": "úřadující senátor, zastupitel města Vyškov, bývalý místopředseda Senátu"
+      "work": "úřadující senátor, zastupitel města Vyškov, bývalý místopředseda Senátu",
+      "no": 1,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 58,
+      "home": "Vyškov",
+      "homeID": 592889,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Karel",
         "Zitterbart",
-        ""
+        "Ph.D."
       ],
       "reg": 57,
       "links": [
@@ -2273,15 +3321,25 @@
         166,
         720
       ],
-      "member": 166,
+      "member": 99,
       "color": "#1ebdb7",
       "photo": "karel-zitterbart.jpg",
       "motto": "Správná diagnóza, moudré řešení, obecný prospěch",
-      "work": "praktický dětský lékař, odborný asistent na Klinice dětské onkologie LF MU a FN Brno"
+      "work": "praktický dětský lékař, odborný asistent na Klinice dětské onkologie LF MU a FN Brno",
+      "no": 5,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 41,
+      "home": "Mokrá-Horákov",
+      "homeID": 583405,
+      "nominee": 166,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. Ing.",
         "Lubomír",
         "Wenzl",
         ""
@@ -2292,14 +3350,25 @@
         768
       ],
       "color": "#2f2f65",
-      "work": "zastupitel obce Drnovice, ředitel Nemocnice Kyjov"
+      "work": "zastupitel obce Drnovice, ředitel Nemocnice Kyjov",
+      "no": 4,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 52,
+      "home": "Drnovice",
+      "homeID": 593001,
+      "member": 768,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Libor",
         "Bláha",
-        ""
+        "MBA"
       ],
       "reg": 57,
       "links": [
@@ -2312,11 +3381,21 @@
       "member": 1114,
       "color": "#874a0f",
       "work": "zastupitel Jihomoravského kraje, VŠ pedagog, jednatel společnosti",
-			"photo": "libor-blaha-3.jpg"
+      "photo": "libor-blaha-3.jpg",
+      "no": 3,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 40,
+      "home": "Vyškov",
+      "homeID": 592889,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Kadeřávek",
         ""
@@ -2340,11 +3419,20 @@
       "color": "#000",
       "motto": "Svobodu nekoupíte, tu si volíte.",
       "program": "https://www.kaderavek.cz/program/",
-      "photo": "jiri-kaderavek.jpg"
+      "photo": "jiri-kaderavek.jpg",
+      "no": 6,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 50,
+      "home": "Sivice",
+      "homeID": 583863,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MgA.",
         "Lukáš",
         "Berta",
         ""
@@ -2363,18 +3451,27 @@
       ],
       "work": "blogger a IT specialista, bývalý učitel na Fakultě výtvarných umění VUT",
       "member": 99,
-      "nominee": 99,
+      "nominee": 1194,
       "color": "#16cf74",
       "program": "https://lukasberta.cz/program.htm",
       "motto": "Slušnost, skromnost, porozumění",
-			"photo": "lukas-berta-2.jpg"
+      "photo": "lukas-berta-2.jpg",
+      "no": 8,
+      "party": {
+        "reg": 1194,
+        "name": "\"Marek Hilšer do Senátu\""
+      },
+      "age": 41,
+      "home": "Brno",
+      "homeID": 3,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Roman",
         "Kraus",
-        ""
+        "MBA"
       ],
       "reg": 60,
       "links": [
@@ -2387,22 +3484,32 @@
       "support": [
         721,
         53,
-				714
+        714
       ],
       "nominee": 53,
       "color": "#531a92",
-      "work": "bývalý ředitel Fakultní nemocnice Brno a FNUSA v Brně, anesteziolog"
+      "work": "bývalý ředitel Fakultní nemocnice Brno a FNUSA v Brně, anesteziolog",
+      "no": 11,
+      "party": {
+        "reg": 687,
+        "name": "Koalice ODS a TOP 09"
+      },
+      "age": 64,
+      "home": "Brno",
+      "homeID": 3,
+      "member": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Tomáš",
         "Tomáš",
-        ""
+        "Ph.D."
       ],
       "reg": 60,
       "links": [
-				"https://www.facebook.com/mudrtomas/",
+        "https://www.facebook.com/mudrtomas/",
         "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Tom%C3%A1%C5%A1"
       ],
       "support": [
@@ -2410,15 +3517,26 @@
       ],
       "color": "#fec92f",
       "work": "zastupitel městské části Brno-sever, přednosta I. ortopedické kliniky FNUSA v Brně",
-			"photo": "tomas-tomas.jpg",
-			"copyright": "wiki"
+      "photo": "tomas-tomas.jpg",
+      "copyright": "wiki",
+      "no": 9,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 52,
+      "home": "Brno",
+      "homeID": 3,
+      "member": 1,
+      "nominee": 1,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "prof. Ing.",
         "Karel",
         "Rais",
-        ""
+        "CSc., MBA"
       ],
       "reg": 60,
       "links": [
@@ -2429,15 +3547,26 @@
       ],
       "color": "#2f2f65",
       "work": "poslanec PČR, bývalý rektor VUT v Brně a bývalý děkan Fakulty podnikatelské VUT",
-			"photo": "karel-rais.jpg",
-			"copyright": "wiki"
+      "photo": "karel-rais.jpg",
+      "copyright": "wiki",
+      "no": 7,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 70,
+      "home": "Brno",
+      "homeID": 3,
+      "member": 99,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. Bc.",
         "Tomáš",
         "Anderle",
-        ""
+        "MBA, LL.M."
       ],
       "reg": 60,
       "links": [
@@ -2450,11 +3579,21 @@
       "motto": "SPD pro budoucnost našich dětí",
       "program": "https://doporucujeme.denik.cz/doporucujeme/kandidat-do-senatu-parlamentu-cr-za-brno-mesto-20200619.html",
       "work": "zastupitel městské části Brno-Židenice, ředitel Střední školy Gemini",
-      "member": 1114
+      "member": 1114,
+      "no": 4,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 47,
+      "home": "Brno",
+      "homeID": 3,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Richard",
         "Novák",
         ""
@@ -2465,14 +3604,26 @@
         1227
       ],
       "color": "#2b3acc",
-	  "motto": "Před nikým si klekat nebudu!"
+      "motto": "Před nikým si klekat nebudu!",
+      "no": 10,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 58,
+      "work": "advokát, myslivec",
+      "home": "Velké Němčice",
+      "homeID": 585009,
+      "member": 1227,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Lajtoch",
-        ""
+        "PhD."
       ],
       "reg": 63,
       "links": [
@@ -2484,18 +3635,27 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-      "work": "bývalý senátor za Přerovsko a bývalý primátor města Přerov"
+      "work": "bývalý senátor za Přerovsko a bývalý primátor města Přerov",
+      "no": 5,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 66,
+      "home": "Přerov",
+      "homeID": 511382,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RNDr.",
         "Jitka",
         "Seitlová",
         ""
       ],
       "reg": 63,
       "links": [
-				"http://www.seitlova.cz/",
+        "http://www.seitlova.cz/",
         "https://www.facebook.com/senatorkaJitkaSeitlova/",
         "https://cs.wikipedia.org/wiki/Jitka_Seitlov%C3%A1"
       ],
@@ -2509,7 +3669,16 @@
       "member": 1,
       "nominee": 1,
       "color": "#fec92f",
-      "photo": "jitka-seitlova.jpg"
+      "photo": "jitka-seitlova.jpg",
+      "no": 8,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 66,
+      "home": "Lipník nad Bečvou",
+      "homeID": 514705,
+      "sex": 2
     },
     {
       "name": [
@@ -2530,23 +3699,32 @@
         720
       ],
       "work": "zastupitel města Přerov, manažer kultury v Městském domě v Přerově a pořadatel kulturních akcí na Přerovsku",
-      "member": 720,
+      "member": 99,
       "nominee": 720,
       "color": "#000",
       "program": "https://ondruj.cz/program/",
-      "photo": "pavel-ondruj.jpg"
+      "photo": "pavel-ondruj.jpg",
+      "no": 11,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 48,
+      "home": "Přerov",
+      "homeID": 511382,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Miroslav",
         "Raindl",
         ""
       ],
       "reg": 63,
       "links": [
-				"miroslav.raindl@seznam.cz"
-			],
+        "miroslav.raindl@seznam.cz"
+      ],
       "support": [
         47
       ],
@@ -2554,16 +3732,25 @@
       "nominee": 47,
       "color": "#eb343f",
       "work": "zastupitel města Hranice, vedoucí střediska výchovné péče, dětský psycholog",
-			"motto": "Chyba není v Senátu! Ale v senátorech!",
-			"photo": "miroslav-raindl.jpg",
-			"program": "https://drive.google.com/file/d/10WgfMdjttTEIlXVsApWqmHfaYfjQzchM/view?usp=sharing"
+      "motto": "Chyba není v Senátu! Ale v senátorech!",
+      "photo": "miroslav-raindl.jpg",
+      "program": "https://drive.google.com/file/d/10WgfMdjttTEIlXVsApWqmHfaYfjQzchM/view?usp=sharing",
+      "no": 6,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 66,
+      "home": "Hranice",
+      "homeID": 513750,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr. Mgr.",
         "Tomáš",
         "Kocourek",
-        ""
+        "MBA"
       ],
       "reg": 63,
       "links": [
@@ -2575,14 +3762,23 @@
         53
       ],
       "work": "zastupitel města Přerov, ortoped a lékař zdravotnické záchranné služby",
-      "member": 53,
+      "member": 99,
       "nominee": 53,
       "color": "#194392",
-      "photo": "tomas-kocourek.jpg"
+      "photo": "tomas-kocourek.jpg",
+      "no": 4,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 42,
+      "home": "Přerov",
+      "homeID": 511382,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Petr",
         "Vrána",
         ""
@@ -2597,11 +3793,20 @@
       "work": "poslanec PČR, radní Olomouckého kraje, radní města Přerov, obchodní manažer ve firmě Precheza",
       "member": 768,
       "nominee": 768,
-      "color": "#2f2f65"
+      "color": "#2f2f65",
+      "no": 3,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 45,
+      "home": "Přerov",
+      "homeID": 511382,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Antonín",
         "Prachař",
         ""
@@ -2611,8 +3816,19 @@
         "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Pracha%C5%99"
       ],
       "work": "zastupitel města Přerov, bývalý ministr dopravy a funkcionář v Česmad Bohemia",
-			"photo": "antonin-prachar.jpg",
-			"copyright": "wiki"
+      "photo": "antonin-prachar.jpg",
+      "copyright": "wiki",
+      "no": 7,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 57,
+      "home": "Přerov",
+      "homeID": 511382,
+      "member": 99,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
@@ -2623,7 +3839,7 @@
       ],
       "reg": 63,
       "links": [
-				"http://www.spdolomouc.cz/kandidat/dan-chromec",
+        "http://www.spdolomouc.cz/kandidat/dan-chromec",
         "https://www.facebook.com/dan.chromec"
       ],
       "support": [
@@ -2631,25 +3847,46 @@
       ],
       "color": "#874a0f",
       "work": "technický pracovník zdravotnického zařízení",
-			"photo": "dan-chromec.jpg"
+      "photo": "dan-chromec.jpg",
+      "no": 1,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 49,
+      "home": "Přerov",
+      "homeID": 511382,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "doc. MUDr.",
         "Jaroslav",
         "Vomáčka",
-        ""
+        "Ph.D., MBA"
       ],
       "reg": 66,
       "links": [
-				"https://www.facebook.com/JaroslavVomacka1/"
-			],
+        "https://www.facebook.com/JaroslavVomacka1/"
+      ],
       "support": [
         7
       ],
       "member": 7,
       "nominee": 7,
-      "color": "#f59231"
+      "color": "#f59231",
+      "no": 7,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 64,
+      "work": "lékař, vysokoškolský učitel",
+      "home": "Litovel",
+      "homeID": 503444,
+      "sex": 1
     },
     {
       "name": [
@@ -2672,14 +3909,23 @@
       "nominee": 166,
       "color": "#1ebdb7",
       "photo": "marek-ostadal.jpg",
-      "motto": "Selské rozom do hrsti!"
+      "motto": "Selské rozom do hrsti!",
+      "no": 3,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 47,
+      "home": "Náklo",
+      "homeID": 504441,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RNDr. Mgr.",
         "František",
         "John",
-        ""
+        "Ph.D."
       ],
       "reg": 66,
       "links": [
@@ -2699,11 +3945,20 @@
       "member": 1,
       "nominee": 1,
       "color": "#fec92f",
-      "program": "https://www.frantisekjohn.cz/senat.html"
+      "program": "https://www.frantisekjohn.cz/senat.html",
+      "no": 4,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 42,
+      "home": "Zábřeh",
+      "homeID": 541354,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jan",
         "Zahradníček",
         ""
@@ -2714,11 +3969,22 @@
         768
       ],
       "color": "#2f2f65",
-      "work": "náměstek hejtmana Olomouckého kraje, starosta obce Medlov, interní auditor na krajském úřadě"
+      "work": "náměstek hejtmana Olomouckého kraje, starosta obce Medlov, interní auditor na krajském úřadě",
+      "no": 6,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 60,
+      "home": "Medlov",
+      "homeID": 552372,
+      "member": 768,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Radek",
         "Vincour",
         ""
@@ -2735,18 +4001,29 @@
       ],
       "color": "#194392",
       "photo": "radek-vincour.jpg",
-      "work": "starosta města Uničov, pedagog, bývalý muzikant a zpěvák kapely Fofrovanka"
+      "work": "starosta města Uničov, pedagog, bývalý muzikant a zpěvák kapely Fofrovanka",
+      "no": 2,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 53,
+      "home": "Uničov",
+      "homeID": 505587,
+      "member": 53,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Stanislav",
         "Kaláb",
         ""
       ],
       "reg": 66,
       "links": [
-				"http://www.spdolomouc.cz/kandidat/mgr-stanislav-kalab",
+        "http://www.spdolomouc.cz/kandidat/mgr-stanislav-kalab",
         "https://www.facebook.com/profile.php?id=100001202791003",
         "https://cs.wikipedia.org/wiki/Stanislav_Kal%C3%A1b"
       ],
@@ -2755,11 +4032,22 @@
       ],
       "color": "#874a0f",
       "work": "zastupitel Olomouckého kraje, předseda Olomouckého fotbalového svazu",
-			"photo": "stanislav-kalab.jpg"
+      "photo": "stanislav-kalab.jpg",
+      "no": 1,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 69,
+      "home": "Olomouc",
+      "homeID": 500496,
+      "member": 99,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Carbol",
         ""
@@ -2780,7 +4068,16 @@
       "member": 1,
       "nominee": 1,
       "color": "#fec92f",
-      "photo": "jiri-carbol.jpg"
+      "photo": "jiri-carbol.jpg",
+      "no": 9,
+      "party": {
+        "reg": 1448,
+        "name": "Koalice KDU-ČSL a NMFM"
+      },
+      "age": 61,
+      "home": "Dobrá",
+      "homeID": 598089,
+      "sex": 1
     },
     {
       "name": [
@@ -2792,7 +4089,7 @@
       "reg": 69,
       "links": [
         "deutscher.karel@frydekmistek.cz",
-				"https://www.facebook.com/DeutscherKarel/",
+        "https://www.facebook.com/DeutscherKarel/",
         "https://www.facebook.com/karel.deutscher"
       ],
       "support": [
@@ -2802,11 +4099,20 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-			"photo": "karel-deutscher.jpg"
+      "photo": "karel-deutscher.jpg",
+      "no": 5,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 45,
+      "home": "Frýdek-Místek",
+      "homeID": 598003,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RNDr.",
         "Helena",
         "Pešatová",
         ""
@@ -2820,15 +4126,24 @@
         166
       ],
       "work": "starostka města Frýdlant nad Ostravicí, učitelka matematiky a chemie na frýdlantském gymnáziu",
-      "member": 166,
+      "member": 99,
       "nominee": 166,
       "color": "#1ebdb7",
       "photo": "helena-pesatova.jpg",
-      "motto": "Žiju v této zemi a hodlám pro ni i nadále pracovat."
+      "motto": "Žiju v této zemi a hodlám pro ni i nadále pracovat.",
+      "no": 4,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 61,
+      "home": "Frýdlant nad Ostravicí",
+      "homeID": 598143,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Bc.",
         "Radim",
         "Mamula",
         ""
@@ -2839,20 +4154,29 @@
         768
       ],
       "work": "předseda MFK Frýdek-Místek, vedoucí provozu společnosti AVE CZ odpadové hospodářství",
-      "member": 768,
+      "member": 99,
       "nominee": 768,
-      "color": "#2f2f65"
+      "color": "#2f2f65",
+      "no": 6,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 50,
+      "home": "Frýdek-Místek",
+      "homeID": 598003,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Bc.",
         "Daniel",
         "Pawlas",
         ""
       ],
       "reg": 69,
       "links": [
-				"daniel.pawlas@seznam.cz",
+        "daniel.pawlas@seznam.cz",
         "https://cs.wikipedia.org/wiki/Daniel_Pawlas"
       ],
       "support": [
@@ -2862,28 +4186,46 @@
       "member": 47,
       "nominee": 47,
       "color": "#eb343f",
-			"motto": "Stop antizemanovskému Senátu!",
-			"program": "https://drive.google.com/file/d/1fo2AMyBJKp-2XMPYPTePZVt6K8rl33Nx/view?usp=sharing",
-			"photo": "daniel-pawlas.jpg"
+      "motto": "Stop antizemanovskému Senátu!",
+      "program": "https://drive.google.com/file/d/1fo2AMyBJKp-2XMPYPTePZVt6K8rl33Nx/view?usp=sharing",
+      "photo": "daniel-pawlas.jpg",
+      "no": 7,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 45,
+      "home": "Havířov",
+      "homeID": 555088,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jaroslav",
         "Matýs",
         ""
       ],
       "reg": 69,
       "links": [
-				"https://www.instagram.com/mudr_jaroslav_matys/"
-			],
+        "https://www.instagram.com/mudr_jaroslav_matys/"
+      ],
       "support": [
         1227
       ],
       "work": "specializovaný dětský psychiatr, předseda Asociace dětské a dorostové psychiatrie ČR",
       "member": 99,
       "nominee": 1227,
-      "color": "#2b3acc"
+      "color": "#2b3acc",
+      "no": 2,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 60,
+      "home": "Frýdek-Místek",
+      "homeID": 598003,
+      "sex": 1
     },
     {
       "name": [
@@ -2894,26 +4236,36 @@
       ],
       "reg": 69,
       "links": [
-				"https://www.ank2020.cz/cz/kandidati-ank-2020/radim-baca/"
-			],
+        "https://www.ank2020.cz/cz/kandidati-ank-2020/radim-baca/"
+      ],
       "support": [
         721,
-				1173,
-				1220,
-				129,
-				{
-				  "name":"Pro krásný kraj",
-					"logo": "obecne/strany/loga/x-pro-krasny-kraj.png"
-				},
-				{
-				  "name":"Alternativa pro nezávislé kandidáty",
-					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
-				}
+        1173,
+        1220,
+        129,
+        {
+          "name": "Pro krásný kraj",
+          "logo": "obecne/strany/loga/x-pro-krasny-kraj.png"
+        },
+        {
+          "name": "Alternativa pro nezávislé kandidáty",
+          "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+        }
       ],
       "member": 99,
       "color": "#531a92",
       "work": "starosta obce Palkovice, soukromý zemědělec a bývalý zootechnik",
-			"motto": "Zdraví, bezpečnost, prosperita"
+      "motto": "Zdraví, bezpečnost, prosperita",
+      "no": 8,
+      "party": {
+        "reg": 1231,
+        "name": "Alternativa pro nezávislé kandidáty 2020-ANK 2020"
+      },
+      "age": 50,
+      "home": "Palkovice",
+      "homeID": 598551,
+      "nominee": 1231,
+      "sex": 1
     },
     {
       "name": [
@@ -2930,16 +4282,26 @@
         1114,
         1123
       ],
-      "member": 1123,
+      "member": 1114,
       "color": "#874a0f",
-      "work": "starosta obce Mošnov"
+      "work": "starosta obce Mošnov",
+      "no": 10,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 64,
+      "home": "Mošnov",
+      "homeID": 568686,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Martin",
         "Tomášek",
-        ""
+        "Ph.D."
       ],
       "reg": 72,
       "links": [
@@ -2951,7 +4313,7 @@
       ],
       "support": [
         720,
-				5
+        5
       ],
       "work": "místostarosta městkého obvodu Ostrava-Poruba, literární historik a učitel na Filozofické fakultě OU",
       "member": 720,
@@ -2959,7 +4321,16 @@
       "color": "#000",
       "motto": "Odvážně a s pokorou.",
       "program": "https://www.martindosenatu.cz/#priority",
-			"photo": "martin-tomasek.jpg"
+      "photo": "martin-tomasek.jpg",
+      "no": 14,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 51,
+      "home": "Ostrava",
+      "homeID": 4,
+      "sex": 1
     },
     {
       "name": [
@@ -2970,7 +4341,7 @@
       ],
       "reg": 72,
       "links": [
-				"p.gajdacek@seznam.cz",
+        "p.gajdacek@seznam.cz",
         "https://ostrava.kscm.cz/cs/nasi-lide/petr-gajdacek",
         "https://www.facebook.com/petr.gajdacek",
         "https://twitter.com/Gajdacekpetr",
@@ -2984,14 +4355,23 @@
       "nominee": 47,
       "color": "#eb343f",
       "motto": "Zbavme Senát darmožroutů!",
-			"photo": "petr-gajdacek.jpg"
+      "photo": "petr-gajdacek.jpg",
+      "no": 8,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 71,
+      "home": "Ostrava",
+      "homeID": 4,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Rostislav",
         "Gromnica",
-        ""
+        "Ph.D."
       ],
       "reg": 72,
       "links": [
@@ -3003,31 +4383,51 @@
         166
       ],
       "work": "lékař, primář oddělení, vedoucí lékař, externí učitel na lékařské fakultě, soudní znalec a publicista v oblasti medicíny",
-      "member": 166,
+      "member": 99,
       "nominee": 166,
       "color": "#1ebdb7",
-      "photo": "rostislav-gromnica.jpg"
+      "photo": "rostislav-gromnica.jpg",
+      "no": 2,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 64,
+      "home": "Ostrava",
+      "homeID": 4,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Radim",
         "Smetana",
         ""
       ],
       "reg": 72,
       "links": [],
-      "support": [7],
+      "support": [
+        7
+      ],
       "work": "starosta městského obvodu Ostrava-Svinov, středoškolský učitel",
-      "member": 99,
-      "nominee": 99
+      "member": 7,
+      "nominee": 7,
+      "no": 5,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 46,
+      "home": "Ostrava",
+      "homeID": 4,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Andrea",
         "Wlochová",
-        ""
+        "Ph.D."
       ],
       "reg": 72,
       "links": [],
@@ -3035,40 +4435,60 @@
         1227
       ],
       "work": "vedoucí katedry jazyků na VŠB–TUO",
-      "member": 99,
+      "member": 1227,
       "nominee": 1227,
-      "color": "#2b3acc"
+      "color": "#2b3acc",
+      "no": 3,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 45,
+      "home": "Ostrava",
+      "homeID": 4,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "doc. MUDr.",
         "Peter",
         "Koliba",
-        ""
+        "CSc."
       ],
       "reg": 72,
       "links": [
-				"https://peterkoliba.cz/",
-				"https://www.ank2020.cz/cz/kandidati-ank-2020/peter-koliba/",
+        "https://peterkoliba.cz/",
+        "https://www.ank2020.cz/cz/kandidati-ank-2020/peter-koliba/",
         "https://cs.wikipedia.org/wiki/Peter_Koliba",
-				"https://www.facebook.com/senatorpeterkoliba",
-				"https://www.instagram.com/senator_peter_koliba/"
+        "https://www.facebook.com/senatorpeterkoliba",
+        "https://www.instagram.com/senator_peter_koliba/"
       ],
       "support": [
-					{
-					  "name":"Alternativa pro nezávislé kandidáty",
-						"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
-					}
-			],
+        {
+          "name": "Alternativa pro nezávislé kandidáty",
+          "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+        }
+      ],
       "photo": "peter-koliba.jpg",
-      "work": "úřadující senátor zvolený za ANO, bývalý přednosta Gynekologicko-porodnické kliniky FN Ostrava"
+      "work": "úřadující senátor zvolený za ANO, bývalý přednosta Gynekologicko-porodnické kliniky FN Ostrava",
+      "no": 13,
+      "party": {
+        "reg": 1231,
+        "name": "Alternativa pro nezávislé kandidáty 2020-ANK 2020"
+      },
+      "age": 67,
+      "home": "Budišovice",
+      "homeID": 568261,
+      "member": 1231,
+      "nominee": 1231,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "doc. MUDr.",
         "Ondřej",
         "Šimetka",
-        ""
+        "Ph.D., MBA"
       ],
       "reg": 72,
       "links": [],
@@ -3076,11 +4496,22 @@
         53
       ],
       "color": "#194392",
-      "work": "přednosta Gynekologicko-porodnické kliniky FN Ostrava"
+      "work": "přednosta Gynekologicko-porodnické kliniky FN Ostrava",
+      "no": 4,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 50,
+      "home": "Opava",
+      "homeID": 8,
+      "member": 99,
+      "nominee": 53,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jan",
         "Síla",
         ""
@@ -3091,11 +4522,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "neurochirurg v SZZ Krnov"
+      "work": "neurochirurg v SZZ Krnov",
+      "no": 6,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 70,
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Radim",
         "Kravčík",
         ""
@@ -3108,15 +4550,24 @@
       "support": [
         720
       ],
-      "member": 720,
+      "member": 99,
       "nominee": 720,
       "color": "#000",
       "work": "pedagog a regionální historik, bývalý kastelán hradu Fryštát",
-      "photo": "radim-kravcik.jpg"
+      "photo": "radim-kravcik.jpg",
+      "no": 1,
+      "party": {
+        "reg": 720,
+        "name": "Česká pirátská strana"
+      },
+      "age": 40,
+      "home": "Karviná",
+      "homeID": 598917,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Radek",
         "Sušil",
         ""
@@ -3132,18 +4583,27 @@
       "member": 7,
       "nominee": 7,
       "color": "#f59231",
-      "photo": "radek-susil.jpg"
+      "photo": "radek-susil.jpg",
+      "no": 10,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 53,
+      "home": "Karviná",
+      "homeID": 598917,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Ondřej",
         "Feber",
         ""
       ],
       "reg": 75,
       "links": [
-				"feber@feber.cz",
+        "feber@feber.cz",
         "https://feber.cz/",
         "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Feber"
       ],
@@ -3155,9 +4615,18 @@
       "nominee": 768,
       "color": "#2f2f65",
       "program": "https://feber.cz/prosazuji/",
-			"photo": "ondrej-feber.jpg",
-			"motto": "Budu bojovat za celé Karvinsko.",
-			"about": "<p>Narodil jsem se ve Stonavě roku 1951.</p><p>Na vysoké škole mě zaujalo studium dopravy a hornictví. Svou profesní dráhu jsem začal příslovečně - u dráhy. Pozice výpravčího a dispečera železnice se pro mě stala opravdovou výzvou. Vyžadovala disciplínu, smysl pro povinnost a komunikaci. Všechny získané zkušenosti jsem později využil také jako důlní technik a báňský záchranář.</p><p>V roce 1990 mě obyvatelé Stonavy poprvé zvolili do úřadu starosty. Od té doby jsem si jejich důvěru vysloužil už sedmkrát. Společně jsme dokázali, že Stonava získala 1. místo v krajském a 3. místo v celostátním kole soutěže Obec roku 2000.</p><p>V letech 2000 - 2006 mě podpora voličů přivedla až do Senátu Parlamentu České republiky. </p><p>Věnuji se myslivosti, pyšním se členstvím v kroužku krojovaných horníků Stonavy, rád chodím do hor a dříve jsem hrával na elektrické varhany.</p><p>Mou předností, kterou ustavičně rozvíjím, je umění komunikovat s lidmi. Jsem přímý, nekonfliktní, nevyhýbám se zodpovědnosti. Činím jasná rozhodnutí, stojím si za svými závazky a mám pochopení pro jiné názory a úhly pohledu.</p>"
+      "photo": "ondrej-feber.jpg",
+      "motto": "Budu bojovat za celé Karvinsko.",
+      "about": "<p>Narodil jsem se ve Stonavě roku 1951.</p><p>Na vysoké škole mě zaujalo studium dopravy a hornictví. Svou profesní dráhu jsem začal příslovečně - u dráhy. Pozice výpravčího a dispečera železnice se pro mě stala opravdovou výzvou. Vyžadovala disciplínu, smysl pro povinnost a komunikaci. Všechny získané zkušenosti jsem později využil také jako důlní technik a báňský záchranář.</p><p>V roce 1990 mě obyvatelé Stonavy poprvé zvolili do úřadu starosty. Od té doby jsem si jejich důvěru vysloužil už sedmkrát. Společně jsme dokázali, že Stonava získala 1. místo v krajském a 3. místo v celostátním kole soutěže Obec roku 2000.</p><p>V letech 2000 - 2006 mě podpora voličů přivedla až do Senátu Parlamentu České republiky. </p><p>Věnuji se myslivosti, pyšním se členstvím v kroužku krojovaných horníků Stonavy, rád chodím do hor a dříve jsem hrával na elektrické varhany.</p><p>Mou předností, kterou ustavičně rozvíjím, je umění komunikovat s lidmi. Jsem přímý, nekonfliktní, nevyhýbám se zodpovědnosti. Činím jasná rozhodnutí, stojím si za svými závazky a mám pochopení pro jiné názory a úhly pohledu.</p>",
+      "no": 7,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 68,
+      "home": "Stonava",
+      "homeID": 599140,
+      "sex": 1
     },
     {
       "name": [
@@ -3176,24 +4645,33 @@
       "photo": "zdena-cerninova-2.jpg",
       "work": "podnikatelka",
       "links": [
-	      "http://zdenacerninova.cz/"
+        "http://zdenacerninova.cz/"
       ],
-		"del": {
-			"links": [
-				"cerninova@seznam.cz",
-				"https://www.facebook.com/CerninovaZdena/",
-				"https://www.facebook.com/profile.php?id=100014109816780",
-				"https://www.instagram.com/zdena3375/"
-			],
-			"photo_x": "zdena-cerninova.jpg",
-			"motto_x": "Karviná a okolí si zaslouží více pozornosti",
-			"program_x": "https://drive.google.com/file/d/1zSOcJ4VFIUhPMOwWwjrb4F_AIc1721f2/view?usp=sharing",
-			"work_x": "majitelka první soukromé pohřební služby v Karviné"
-		}
+      "del": {
+        "links": [
+          "cerninova@seznam.cz",
+          "https://www.facebook.com/CerninovaZdena/",
+          "https://www.facebook.com/profile.php?id=100014109816780",
+          "https://www.instagram.com/zdena3375/"
+        ],
+        "photo_x": "zdena-cerninova.jpg",
+        "motto_x": "Karviná a okolí si zaslouží více pozornosti",
+        "program_x": "https://drive.google.com/file/d/1zSOcJ4VFIUhPMOwWwjrb4F_AIc1721f2/view?usp=sharing",
+        "work_x": "majitelka první soukromé pohřební služby v Karviné"
+      },
+      "no": 2,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 63,
+      "home": "Karviná",
+      "homeID": 598917,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Daniel",
         "Placzek",
         ""
@@ -3206,11 +4684,20 @@
       "member": 99,
       "nominee": 1227,
       "color": "#2b3acc",
-      "work": "chirurg a primář LDN v rámci Nemocnice s poliklinikou Karviná-Ráj"
+      "work": "chirurg a primář LDN v rámci Nemocnice s poliklinikou Karviná-Ráj",
+      "no": 5,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 58,
+      "home": "Orlová",
+      "homeID": 599069,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Naděžda",
         "Franková",
         ""
@@ -3221,11 +4708,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "dětská neuroložka"
+      "work": "dětská neuroložka",
+      "no": 4,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 66,
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "MgA.",
         "Petr",
         "Michálek",
         ""
@@ -3242,12 +4740,21 @@
         166
       ],
       "work": "zastupitel města Zlín, ředitel Městského divadla Zlín, člen garanční rady Národního divadla",
-      "member": 99,
+      "member": 166,
       "nominee": 166,
       "color": "#1ebdb7",
       "photo": "petr-michalek.jpg",
       "motto": "Nový typ senátora",
-      "program": "http://michalekdosenatu.cz/#program"
+      "program": "http://michalekdosenatu.cz/#program",
+      "no": 1,
+      "party": {
+        "reg": 166,
+        "name": "STAROSTOVÉ A NEZÁVISLÍ"
+      },
+      "age": 43,
+      "home": "Zlín",
+      "homeID": 585068,
+      "sex": 1
     },
     {
       "name": [
@@ -3271,7 +4778,16 @@
       "nominee": 1,
       "color": "#fec92f",
       "motto": "Za rodiny, za seniory, za novou nemocnici",
-      "program": "http://www.blahovadosenatu.cz/program"
+      "program": "http://www.blahovadosenatu.cz/program",
+      "no": 7,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 51,
+      "home": "Zlín",
+      "homeID": 585068,
+      "sex": 2
     },
     {
       "name": [
@@ -3282,7 +4798,7 @@
       ],
       "reg": 78,
       "links": [
-				"jandolecek@centrum.cz",
+        "jandolecek@centrum.cz",
         "https://www.facebook.com/rijen2020/"
       ],
       "support": [
@@ -3290,13 +4806,24 @@
       ],
       "color": "#eb343f",
       "work": "vydavatel publikací a časopisů o technice, bývalý voják z povolání",
-			"motto": "Doprovodíme pracující, zaměstnance a živnostníky do střední třídy",
+      "motto": "Doprovodíme pracující, zaměstnance a živnostníky do střední třídy",
       "program": "https://drive.google.com/file/d/1ozWmyLG9ly0r9503-PiexSQ4yUFSey4x/view?usp=sharing",
-      "photo": "jan-dolecek.jpg"
+      "photo": "jan-dolecek.jpg",
+      "no": 6,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 48,
+      "home": "Zubří",
+      "homeID": 545252,
+      "member": 47,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Tomáš",
         "Goláň",
         ""
@@ -3318,11 +4845,21 @@
       "member": 99,
       "color": "#460a0d",
       "photo": "tomas-golan.jpg",
-      "work": "úřadující senátor, ekonom a daňový poradce"
+      "work": "úřadující senátor, ekonom a daňový poradce",
+      "no": 4,
+      "party": {
+        "reg": 1187,
+        "name": "SENÁTOR 21"
+      },
+      "age": 51,
+      "home": "Zlín",
+      "homeID": 585068,
+      "nominee": 1187,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Radek",
         "Henner",
         ""
@@ -3336,11 +4873,22 @@
         1114
       ],
       "color": "#874a0f",
-      "work": "válečný veterán a plukovník v záloze, účastník mírové mise SFOR v Bosně a Hercegovině"
+      "work": "válečný veterán a plukovník v záloze, účastník mírové mise SFOR v Bosně a Hercegovině",
+      "no": 5,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 57,
+      "home": "Přílepy",
+      "homeID": 549720,
+      "member": 1114,
+      "nominee": 1114,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Petr",
         "Sládek",
         ""
@@ -3351,13 +4899,22 @@
       ],
       "support": [
         53,
-				720
+        720
       ],
       "work": "ředitel Uherskohradišťské nemocnice, otorhinolaryngolog",
       "member": 99,
       "nominee": 53,
       "color": "#194392",
-      "photo": "petr-sladek.jpg"
+      "photo": "petr-sladek.jpg",
+      "no": 3,
+      "party": {
+        "reg": 53,
+        "name": "Občanská demokratická strana"
+      },
+      "age": 52,
+      "home": "Uherské Hradiště",
+      "homeID": 592005,
+      "sex": 1
     },
     {
       "name": [
@@ -3384,7 +4941,16 @@
       "nominee": 1,
       "color": "#fec92f",
       "program": "http://www.bazaladosenatu.cz/o-nas/proc-kandiduji",
-      "photo": "josef-bazala.jpg"
+      "photo": "josef-bazala.jpg",
+      "no": 2,
+      "party": {
+        "reg": 1,
+        "name": "KDU-ČSL"
+      },
+      "age": 60,
+      "home": "Staré Město",
+      "homeID": 550752,
+      "sex": 1
     },
     {
       "name": [
@@ -3402,22 +4968,33 @@
       ],
       "color": "#e58b22",
       "photo": "ivo-valenta.jpg",
-      "work": "úřadující senátor, zastupitel Zlínského kraje, majitel společnosti SYNOT a spoluvlastník Parlamentních listů"
+      "work": "úřadující senátor, zastupitel Zlínského kraje, majitel společnosti SYNOT a spoluvlastník Parlamentních listů",
+      "no": 5,
+      "party": {
+        "reg": 716,
+        "name": "Strana soukromníků České republiky"
+      },
+      "age": 64,
+      "home": "Zlín",
+      "homeID": 585068,
+      "member": 99,
+      "nominee": 716,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Antonín",
         "Seďa",
         ""
       ],
       "reg": 81,
       "links": [
-				"antonin.seda@seznam.cz",
-				"http://antoninseda.cz/",
+        "antonin.seda@seznam.cz",
+        "http://antoninseda.cz/",
         "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Se%C4%8Fa",
-				"https://www.facebook.com/SedaDoSenatu/",
-				"https://twitter.com/antonin_seda"
+        "https://www.facebook.com/SedaDoSenatu/",
+        "https://twitter.com/antonin_seda"
       ],
       "support": [
         7
@@ -3426,9 +5003,18 @@
       "nominee": 7,
       "color": "#f59231",
       "work": "bývalý poslanec PČR a radní města Uherské Hradiště, letecký konstruktér a technik",
-			"motto": "loajalita nade vše kromě cti",
-			"photo": "antonin-seda-2.jpg",
-			"program": "https://drive.google.com/file/d/1KegWBSdi8K5oc0xnTTiAYHXA7BEapta7/view?usp=sharing"
+      "motto": "loajalita nade vše kromě cti",
+      "photo": "antonin-seda-2.jpg",
+      "program": "https://drive.google.com/file/d/1KegWBSdi8K5oc0xnTTiAYHXA7BEapta7/view?usp=sharing",
+      "no": 1,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 59,
+      "home": "Uherské Hradiště",
+      "homeID": 592005,
+      "sex": 1
     },
     {
       "name": [
@@ -3447,11 +5033,21 @@
       ],
       "color": "#874a0f",
       "work": "zastupitelka města Bystřice pod Hostýnem, živnostnice",
-      "member": 1114
+      "member": 1114,
+      "no": 4,
+      "party": {
+        "reg": 1114,
+        "name": "Svoboda a přímá demokracie (SPD)"
+      },
+      "age": 67,
+      "home": "Bystřice pod Hostýnem",
+      "homeID": 588393,
+      "nominee": 1114,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jaroslava",
         "Brožová Lampertová",
         ""
@@ -3465,11 +5061,21 @@
         768
       ],
       "member": 768,
-      "work": "starostka obce Velká Hleďsebe"
+      "work": "starostka obce Velká Hleďsebe",
+      "no": 3,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 66,
+      "home": "Velká Hleďsebe",
+      "homeID": 539279,
+      "nominee": 768,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Petr",
         "Kalina",
         ""
@@ -3487,11 +5093,21 @@
       "work": "zastupitel Jihočeského kraje, starosta obce Dobev",
       "motto": "Věřím ve svobodu a demokracii, v poctivou práci, ve zdravý rozum a přátelství mezi lidmi.",
       "program": "https://kalinadosenatu.cz/jsem-pro/",
-			"photo": "petr-kalina.jpg"
+      "photo": "petr-kalina.jpg",
+      "no": 3,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 48,
+      "home": "Dobev",
+      "homeID": 549363,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Michaela",
         "Vojtová",
         ""
@@ -3501,12 +5117,22 @@
       "support": [
         768
       ],
-      "member": 768,
-      "work": "zastupitelka Středočeského kraje, ekonomka"
+      "member": 99,
+      "work": "zastupitelka Středočeského kraje, ekonomka",
+      "no": 12,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 52,
+      "home": "Kladno",
+      "homeID": 532053,
+      "nominee": 768,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Milan",
         "Volf",
         ""
@@ -3519,32 +5145,52 @@
         727
       ],
       "member": 727,
-      "work": "zastupitel města Kladno, předseda VpK, bývalý primátor města Kladno, bývalý hokejista a hokejový funkcionář"
+      "work": "zastupitel města Kladno, předseda VpK, bývalý primátor města Kladno, bývalý hokejista a hokejový funkcionář",
+      "no": 3,
+      "party": {
+        "reg": 77,
+        "name": "Česká pravice"
+      },
+      "age": 57,
+      "home": "Kladno",
+      "homeID": 532053,
+      "nominee": 77,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Anděl",
-        ""
+        "CSc."
       ],
       "reg": 33,
       "links": [
-				"https://www.facebook.com/jiri.andel.75873"
-			],
+        "https://www.facebook.com/jiri.andel.75873"
+      ],
       "support": [
         768
       ],
       "member": 99,
       "work": "zastupitel Ústeckého kraje, radní města Děčín, ekonom",
-			"photo": "jiri-andel.jpg"
+      "photo": "jiri-andel.jpg",
+      "no": 6,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 62,
+      "home": "Děčín",
+      "homeID": 562335,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. et Mgr.",
         "Libor",
         "Šmejda",
-        ""
+        "MBA"
       ],
       "reg": 36,
       "links": [
@@ -3555,12 +5201,22 @@
         721,
         1187
       ],
-      "member": 1187,
-      "work": "ředitel Základní školy Špičák"
+      "member": 99,
+      "work": "ředitel Základní školy Špičák",
+      "no": 7,
+      "party": {
+        "reg": 1443,
+        "name": "Společně pro Senát"
+      },
+      "age": 55,
+      "home": "Česká Lípa",
+      "homeID": 561380,
+      "nominee": 721,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Igor",
         "Karen",
         ""
@@ -3573,12 +5229,22 @@
       "support": [
         768
       ],
-      "member": 99,
-      "work": "praktický lékař"
+      "member": 768,
+      "work": "praktický lékař",
+      "no": 8,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 56,
+      "home": "Lysá nad Labem",
+      "homeID": 537454,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "brig. gen. Ing.",
         "František",
         "Mencl",
         ""
@@ -3588,12 +5254,22 @@
       "support": [
         7
       ],
-      "member": 7,
-      "work": "ředitel Hasičského záchraného sboru Královéhradeckého kraje, propagátor soutěží v požárním sportu"
+      "member": 99,
+      "work": "ředitel Hasičského záchraného sboru Královéhradeckého kraje, propagátor soutěží v požárním sportu",
+      "no": 4,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 65,
+      "home": "Hradec Králové",
+      "homeID": 569810,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Libor",
         "Černý",
         ""
@@ -3603,38 +5279,58 @@
       "support": [
         768
       ],
-      "member": 768,
-      "work": "zastupitel města Nové Město na Moravě, poradce ministra obrany pro ASC Dukla"
+      "member": 99,
+      "work": "zastupitel města Nové Město na Moravě, poradce ministra obrany pro ASC Dukla",
+      "no": 2,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 52,
+      "home": "Nové Město na Moravě",
+      "homeID": 596230,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Anna",
         "Šabatová",
-        ""
+        "Ph.D."
       ],
       "reg": 60,
       "links": [
-				"https://www.sabatovadosenatu.cz/",
-				"https://www.facebook.com/sabatovaanna/",
+        "https://www.sabatovadosenatu.cz/",
+        "https://www.facebook.com/sabatovaanna/",
         "https://cs.wikipedia.org/wiki/Anna_%C5%A0abatov%C3%A1",
-				"https://www.instagram.com/anna.sabatova/"
+        "https://www.instagram.com/anna.sabatova/"
       ],
       "support": [
         5,
-				1187,
+        1187,
         {
           "name": "Idealisté",
-				  "logo": "obecne/strany/loga/x-idealiste.png"
+          "logo": "obecne/strany/loga/x-idealiste.png"
         }
       ],
       "member": 99,
       "work": "bývalá veřejná ochránkyně práv a předsedkyně Českého helsinského výboru",
-			"photo": "anna-sabatova.jpg"
+      "photo": "anna-sabatova.jpg",
+      "no": 1,
+      "party": {
+        "reg": 1459,
+        "name": "ZELENÍ, SENÁTOR 21 a IDEALISTÉ"
+      },
+      "age": 69,
+      "home": "Praha",
+      "homeID": 1,
+      "nominee": 5,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Zdeněk",
         "Jiříček",
         ""
@@ -3645,7 +5341,17 @@
         768
       ],
       "member": 768,
-      "work": "ředitel Psychiatrické nemocnice v Opavě"
+      "work": "ředitel Psychiatrické nemocnice v Opavě",
+      "no": 7,
+      "party": {
+        "reg": 768,
+        "name": "ANO 2011"
+      },
+      "age": 51,
+      "home": "Hlučín",
+      "homeID": 507016,
+      "nominee": 768,
+      "sex": 1
     },
     {
       "name": [
@@ -3663,7 +5369,17 @@
       "support": [],
       "member": 99,
       "work": "úřadující senátorka zvolená za ČSSD, zastupitelka Středočeského kraje",
-      "photo": "emilie-triskova.jpg"
+      "photo": "emilie-triskova.jpg",
+      "no": 2,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 58,
+      "home": "Poděbrady",
+      "homeID": 537683,
+      "nominee": 80,
+      "sex": 2
     },
     {
       "name": [
@@ -3674,14 +5390,26 @@
       ],
       "reg": 12,
       "links": [
-				"pavelstetina@seznam.cz"
-			],
-      "support": [47],
+        "pavelstetina@seznam.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "lesník",
       "photo": "pavel-stetina.jpg",
-			"motto": "Z Prácheňského kraje do Senátu!",
-			"program": "https://drive.google.com/file/d/1__LuQ9RLCGVLU8FzRo18hmJ9sQxmSZA4/view?usp=sharing"
+      "motto": "Z Prácheňského kraje do Senátu!",
+      "program": "https://drive.google.com/file/d/1__LuQ9RLCGVLU8FzRo18hmJ9sQxmSZA4/view?usp=sharing",
+      "no": 2,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 68,
+      "home": "Nová Pec",
+      "homeID": 550451,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
@@ -3692,68 +5420,116 @@
       ],
       "reg": 21,
       "links": [
-				"romanblasko@seznam.cz"
-			],
-      "support": [47],
-      "member": 47,
+        "romanblasko@seznam.cz"
+      ],
+      "support": [
+        47
+      ],
+      "member": 93,
       "work": "fotograf",
       "photo": "roman-blasko.jpg",
-			"motto": "Chraňme české zájmy. Praha pro život, ne pro developery.",
-			"program": "https://drive.google.com/file/d/14v4mMITfOocWaBCTHMNsAGKh2FS7fb9a/view?usp=sharing"
+      "motto": "Chraňme české zájmy. Praha pro život, ne pro developery.",
+      "program": "https://drive.google.com/file/d/14v4mMITfOocWaBCTHMNsAGKh2FS7fb9a/view?usp=sharing",
+      "no": 6,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 51,
+      "home": "Luboměř",
+      "homeID": 599646,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Doc.Dr.",
         "Václav",
         "Šenkýř",
-        ""
+        "CSc."
       ],
       "reg": 33,
       "links": [
-				"vaclav.senkyr@telecom.cz"
-			],
-      "support": [47],
+        "vaclav.senkyr@telecom.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "organizační a ekonomický poradce",
       "photo": "vaclav-senkyr.jpg",
-			"motto": "Vzdělání a zkušenosti dám ve prospěch naší země",
-			"program": "https://drive.google.com/file/d/1YUW2pktrjry7RqGSRztbRaJPu4ymGIAW/view?usp=sharing"
+      "motto": "Vzdělání a zkušenosti dám ve prospěch naší země",
+      "program": "https://drive.google.com/file/d/1YUW2pktrjry7RqGSRztbRaJPu4ymGIAW/view?usp=sharing",
+      "no": 4,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 79,
+      "home": "Děčín",
+      "homeID": 562335,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RSDr.",
         "Josef",
         "Švarcbek",
         ""
       ],
       "reg": 3,
       "links": [
-				"svarcbek.j@seznam.cz"
-			],
-      "support": [47],
+        "svarcbek.j@seznam.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "velitel jednotky požární ochrany",
       "photo": "josef-svarcbek.jpg",
-			"motto": "Jsem hasič. Chci s vámi hasit problémy společnosti.",
-			"program": "https://drive.google.com/file/d/1xTjjLIhbpeUdeX_SjpTyk3JsWQWeinVl/view?usp=sharing"
+      "motto": "Jsem hasič. Chci s vámi hasit problémy společnosti.",
+      "program": "https://drive.google.com/file/d/1xTjjLIhbpeUdeX_SjpTyk3JsWQWeinVl/view?usp=sharing",
+      "no": 4,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 65,
+      "home": "Planá",
+      "homeID": 535176,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Pavel",
         "Franěk",
         ""
       ],
       "reg": 24,
       "links": [
-				"franekpav@seznam.cz"
-			],
-      "support": [47],
+        "franekpav@seznam.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "specialista v oblasti regionální politiky a cestovního ruchu",
       "photo": "pavel-franek.jpg",
-			"motto": "Je čas na změny!",
-			"program": "https://drive.google.com/file/d/1RaDYmN-obBT3PjB8IiU2yhisiL7Kl5Lm/view?usp=sharing"
+      "motto": "Je čas na změny!",
+      "program": "https://drive.google.com/file/d/1RaDYmN-obBT3PjB8IiU2yhisiL7Kl5Lm/view?usp=sharing",
+      "no": 6,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 74,
+      "home": "Praha",
+      "homeID": 1,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
@@ -3764,14 +5540,26 @@
       ],
       "reg": 9,
       "links": [
-				"vaclav.herman@volny.cz"
-			],
-      "support": [47],
+        "vaclav.herman@volny.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "servisní technik",
       "photo": "vaclav-herman.jpg",
-			"motto": "Odvážně a s pokorou pro společnou budoucnost",
-			"program": "https://drive.google.com/file/d/1lPv2SKCpT34ExdB-lKn_9fn7WEJ0p0r7/view?usp=sharing"
+      "motto": "Odvážně a s pokorou pro společnou budoucnost",
+      "program": "https://drive.google.com/file/d/1lPv2SKCpT34ExdB-lKn_9fn7WEJ0p0r7/view?usp=sharing",
+      "no": 2,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 46,
+      "home": "Plzeň",
+      "homeID": 2,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
@@ -3782,33 +5570,57 @@
       ],
       "reg": 15,
       "links": [
-				"hodac@pel.cz",
-				"hodac.p@kr-vysocina.cz"
-			],
-      "support": [47],
+        "hodac@pel.cz",
+        "hodac.p@kr-vysocina.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "jednatel společnosti v oblasti strojírenské výroby",
       "photo": "pavel-hodac.jpg",
-			"motto": "Volte toho, koho znáte",
-			"program": "https://drive.google.com/file/d/1al8waBO4tbU7DqZdsrqU-DxV56PpGR7g/view?usp=sharing"
+      "motto": "Volte toho, koho znáte",
+      "program": "https://drive.google.com/file/d/1al8waBO4tbU7DqZdsrqU-DxV56PpGR7g/view?usp=sharing",
+      "no": 6,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 51,
+      "home": "Pelhřimov",
+      "homeID": 547492,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. Bc.",
         "Zdeněk",
         "Střítecký",
         ""
       ],
       "reg": 51,
       "links": [
-				"Zdenek.Stritecky@seznam.cz"
-			],
-      "support": [47],
+        "Zdenek.Stritecky@seznam.cz"
+      ],
+      "support": [
+        47
+      ],
       "member": 47,
       "work": "podnikový právník",
       "photo": "zdenek-stritecky.jpg",
-			"motto": "REFERENDUM - kladivo na nepoctivé politiky",
-			"program": "https://drive.google.com/file/d/1-ILE3TA2x_59V5aUunOlg_bE2k84uCl4/view?usp=sharing"
+      "motto": "REFERENDUM - kladivo na nepoctivé politiky",
+      "program": "https://drive.google.com/file/d/1-ILE3TA2x_59V5aUunOlg_bE2k84uCl4/view?usp=sharing",
+      "no": 3,
+      "party": {
+        "reg": 47,
+        "name": "Komunistická strana Čech a Moravy"
+      },
+      "age": 50,
+      "home": "Trnava",
+      "homeID": 591840,
+      "nominee": 47,
+      "sex": 1
     },
     {
       "name": [
@@ -3819,84 +5631,162 @@
       ],
       "reg": 63,
       "links": [],
-      "support": [1173, 1227]
+      "support": [
+        1173,
+        1227
+      ],
+      "no": 10,
+      "party": {
+        "reg": 1473,
+        "name": "Koalice Trikolóra a ODA"
+      },
+      "age": 61,
+      "work": "starosta",
+      "home": "Hranice",
+      "homeID": 513750,
+      "member": 1173,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Svatava",
         "Štěrbová",
         ""
       ],
       "reg": 3,
-			"member": 5,
+      "member": 5,
       "links": [
-				"info@svatava2020.cz",
-				"https://www.svatava2020.cz/",
-				"https://www.facebook.com/svatava2020/"
-			],
-      "support": [5, 1187]
-
+        "info@svatava2020.cz",
+        "https://www.svatava2020.cz/",
+        "https://www.facebook.com/svatava2020/"
+      ],
+      "support": [
+        5,
+        1187
+      ],
+      "no": 6,
+      "party": {
+        "reg": 1449,
+        "name": "ZELENÍ a SENÁTOR 21"
+      },
+      "age": 49,
+      "work": "právnička a zastupitelka města Kladruby",
+      "home": "Kladruby",
+      "homeID": 559920,
+      "nominee": 5,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Jan",
         "Riedl",
         ""
       ],
       "reg": 36,
-			"member": 99,
+      "member": 99,
       "links": [
-				"riedl_jan@volny.cz",
-				"https://www.janriedl.cz/"
-			],
+        "riedl_jan@volny.cz",
+        "https://www.janriedl.cz/"
+      ],
       "support": [],
-			"program": "https://www.janriedl.cz/vize",
-			"motto": "Zákony se zabývám celý svůj profesní život, a proto jsem připraven je pro Vás posuzovat a schvalovat.",
-			"photo": "jan-riedl.jpg"
+      "program": "https://www.janriedl.cz/vize",
+      "motto": "Zákony se zabývám celý svůj profesní život, a proto jsem připraven je pro Vás posuzovat a schvalovat.",
+      "photo": "jan-riedl.jpg",
+      "no": 2,
+      "party": {
+        "reg": 80,
+        "name": "JUDr. JAN RIEDL - NEZÁVISLÝ KANDIDÁT"
+      },
+      "age": 67,
+      "work": "advokát",
+      "home": "Česká Lípa",
+      "homeID": 561380,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Bohuslav",
         "Chalupa",
         ""
       ],
       "reg": 60,
-			"member": 99,
+      "member": 99,
       "links": [
-				"https://www.facebook.com/politikajinak.cz/"
-			],
+        "https://www.facebook.com/politikajinak.cz/"
+      ],
       "support": [],
-			"program": "https://www.facebook.com/notes/bohuslav-chalupa-v%C3%A1%C5%A1-kandid%C3%A1t-do-sen%C3%A1tu-parlamentu-%C4%8Desk%C3%A9-republiky/pro%C4%8D/107809420830771/",
-			"motto": "Bezpečná, suverénní, odolná, soběstačná a hrdá země je to jediné, co můžeme, mohu, odkázat svým potomkům."
+      "program": "https://www.facebook.com/notes/bohuslav-chalupa-v%C3%A1%C5%A1-kandid%C3%A1t-do-sen%C3%A1tu-parlamentu-%C4%8Desk%C3%A9-republiky/pro%C4%8D/107809420830771/",
+      "motto": "Bezpečná, suverénní, odolná, soběstačná a hrdá země je to jediné, co můžeme, mohu, odkázat svým potomkům.",
+      "no": 2,
+      "party": {
+        "reg": 785,
+        "name": "Zdraví Sport Prosperita"
+      },
+      "age": 60,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeID": 3,
+      "nominee": 785,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Jiří",
         "Liška",
-        ""
+        "CSc."
       ],
       "reg": 9,
       "links": [],
-      "support": [7]
+      "support": [
+        7
+      ],
+      "no": 5,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 76,
+      "work": "zástup. primáře novorozeneckého odd. Mulačovy nem.",
+      "home": "Plzeň",
+      "homeID": 2,
+      "member": 7,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Jakub",
         "Štědroň",
-        ""
+        "Ph.D."
       ],
       "reg": 27,
       "links": [],
-      "support": [7]
+      "support": [
+        7
+      ],
+      "no": 7,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 41,
+      "work": "ředitel kulturní organizace",
+      "home": "Praha 6",
+      "homeID": 500178,
+      "member": 7,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Otta",
         ""
@@ -3904,7 +5794,19 @@
       "reg": 42,
       "links": [],
       "support": [],
-			"status": "sbírá podpisy"
+      "status": "sbírá podpisy",
+      "no": 4,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 58,
+      "work": "OSVČ, v letech 1994-2010 starosta obce Velký Osek",
+      "home": "Kolín",
+      "homeID": 533165,
+      "member": 99,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
@@ -3915,51 +5817,104 @@
       ],
       "reg": 75,
       "links": [
-				"https://www.radomirprus.cz/"
-			],
+        "https://www.radomirprus.cz/"
+      ],
       "support": [],
-			"motto": "Energie pro náš region",
-			"status": "sbírá podpisy"
+      "motto": "Energie pro náš region",
+      "status": "sbírá podpisy",
+      "no": 13,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 42,
+      "work": "průmyslník, vizionář, filantrop",
+      "home": "Petrovice u Karviné",
+      "homeID": 599077,
+      "member": 99,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Šárka",
         "Štruplová Růžičková",
-        ""
+        "MBA"
       ],
       "reg": 33,
       "links": [
-				"sarka.struplova@seznam.cz",
-				"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/mgr-sarka-struplova-ruzickova-mba",
-				"https://www.facebook.com/sarka.ruzickova.1238"
-			],
-      "support": [704],
-			"photo": "sarka-struplova.png",
-			"quote": "Jsem velkým patriotem, a proto se zabývám také otázkou regionálního rozvoje se zaměřením na lokální ekonomiku. Lokální ekonomika je pro občanskou společnost vysoce důležitá. Již ze své podstaty je soběstačnost obce či regionu postavena na tom, aby si občané v co největším množství obstarali potřebné zdroje sami. Zaměřenost na lokální ekonomiku sebou přináší výhody. A to nejen ekonomické, ale rovněž výhody ekologické a nezanedbatelný je i dopad do oblasti regionální zaměstnanosti. Podpora lokálních ekonomik je téma, které si zaslouží být v popředí našeho zájmu.",
-			"work": "ředitelka domu kultury v Rumburku"
+        "sarka.struplova@seznam.cz",
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/mgr-sarka-struplova-ruzickova-mba",
+        "https://www.facebook.com/sarka.ruzickova.1238"
+      ],
+      "support": [
+        704
+      ],
+      "photo": "sarka-struplova.png",
+      "quote": "Jsem velkým patriotem, a proto se zabývám také otázkou regionálního rozvoje se zaměřením na lokální ekonomiku. Lokální ekonomika je pro občanskou společnost vysoce důležitá. Již ze své podstaty je soběstačnost obce či regionu postavena na tom, aby si občané v co největším množství obstarali potřebné zdroje sami. Zaměřenost na lokální ekonomiku sebou přináší výhody. A to nejen ekonomické, ale rovněž výhody ekologické a nezanedbatelný je i dopad do oblasti regionální zaměstnanosti. Podpora lokálních ekonomik je téma, které si zaslouží být v popředí našeho zájmu.",
+      "work": "ředitelka domu kultury v Rumburku",
+      "no": 5,
+      "party": {
+        "reg": 704,
+        "name": "Severočeši.cz"
+      },
+      "age": 44,
+      "home": "Rumburk",
+      "homeID": 562777,
+      "member": 704,
+      "nominee": 704,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Ing. arch.",
         "Liana",
         "Janáčková",
         ""
       ],
       "reg": 72,
       "links": [],
-      "support": [88]
+      "support": [
+        88
+      ],
+      "no": 9,
+      "party": {
+        "reg": 88,
+        "name": "NEZÁVISLÍ"
+      },
+      "age": 66,
+      "work": "architektka, zastupitelka městského obvodu",
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 88,
+      "nominee": 88,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Miroslav",
         "Chlubna",
         ""
       ],
       "reg": 75,
       "links": [],
-      "support": [88]
+      "support": [
+        88
+      ],
+      "no": 11,
+      "party": {
+        "reg": 88,
+        "name": "NEZÁVISLÍ"
+      },
+      "age": 46,
+      "work": "starosta města Orlová",
+      "home": "Orlová",
+      "homeID": 599069,
+      "member": 88,
+      "nominee": 88,
+      "sex": 1
     },
     {
       "name": [
@@ -3970,25 +5925,50 @@
       ],
       "reg": 45,
       "links": [
-				"igorindrak@seznam.cz",
-				"https://www.igorindrak.cz/",
-				"https://www.facebook.com/igor.indrak.9"
-			],
+        "igorindrak@seznam.cz",
+        "https://www.igorindrak.cz/",
+        "https://www.facebook.com/igor.indrak.9"
+      ],
       "support": [],
-			"program": "https://www.igorindrak.cz/moje-sluzby/",
-			"photo": "igor-indrak.jpg"
+      "program": "https://www.igorindrak.cz/moje-sluzby/",
+      "photo": "igor-indrak.jpg",
+      "no": 11,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 44,
+      "work": "obchodně - technický pracovník",
+      "home": "Skřivany",
+      "homeID": 570834,
+      "member": 99,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Václav",
         "Švenda",
         ""
       ],
       "reg": 18,
       "links": [],
-      "support": [721],
-			"work": "středoškolský učitel, bývalý místostarosta města Příbram"
+      "support": [
+        721
+      ],
+      "work": "středoškolský učitel, bývalý místostarosta města Příbram",
+      "no": 7,
+      "party": {
+        "reg": 721,
+        "name": "TOP 09"
+      },
+      "age": 46,
+      "home": "Příbram",
+      "homeID": 539911,
+      "member": 721,
+      "nominee": 721,
+      "sex": 1
     },
     {
       "name": [
@@ -3998,29 +5978,55 @@
         ""
       ],
       "reg": 60,
-			"member": 1190,
+      "member": 1190,
       "links": [],
-      "support": [1190]
+      "support": [
+        1190
+      ],
+      "no": 5,
+      "party": {
+        "reg": 1190,
+        "name": "Moravské zemské hnutí"
+      },
+      "age": 42,
+      "work": "majitel sportovní firmy, lyžař, horolezec",
+      "home": "Brno",
+      "homeID": 3,
+      "nominee": 1190,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Rostislav",
         "Domorák",
         ""
       ],
       "reg": 6,
       "links": [
-				"DomorakR@seznam.cz",
-				"http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-rostislav-domorak"
-			],
-      "support": [704],
-			"work": "Ředitel Oblastní charity Ústí nad Labem",
-			"photo": "rostislav-domorak.png"
+        "DomorakR@seznam.cz",
+        "http://www.zregionudokraje.cz/index.php/cs/nasi-lide/ing-rostislav-domorak"
+      ],
+      "support": [
+        704
+      ],
+      "work": "Ředitel Oblastní charity Ústí nad Labem",
+      "photo": "rostislav-domorak.png",
+      "no": 10,
+      "party": {
+        "reg": 704,
+        "name": "Severočeši.cz"
+      },
+      "age": 59,
+      "home": "Budyně nad Ohří",
+      "homeID": 564656,
+      "member": 99,
+      "nominee": 704,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Vladimír",
         "Dryml",
         ""
@@ -4028,68 +6034,117 @@
       "reg": 45,
       "links": [],
       "support": [
-				{
-				  "name":"Zdraví Sport Prosperita",
-					"logo":"/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
-				}
-			]
+        {
+          "name": "Zdraví Sport Prosperita",
+          "logo": "/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
+        }
+      ],
+      "no": 4,
+      "party": {
+        "reg": 785,
+        "name": "Zdraví Sport Prosperita"
+      },
+      "age": 68,
+      "work": "lékař",
+      "home": "Vrchlabí",
+      "homeID": 579858,
+      "member": 99,
+      "nominee": 785,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Jan",
         "Šťovíček",
-        ""
+        "Ph.D."
       ],
       "reg": 78,
-			"member": 99,
+      "member": 99,
       "links": [],
-      "support": [1190]
+      "support": [
+        1190
+      ],
+      "no": 3,
+      "party": {
+        "reg": 1190,
+        "name": "Moravské zemské hnutí"
+      },
+      "age": 48,
+      "work": "Prezident Autoklubu ČR",
+      "home": "Praha 5",
+      "homeID": 500143,
+      "nominee": 1190,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jaroslav",
         "Chalupský",
         ""
       ],
       "reg": 15,
       "links": [
-				"jarda.chalupsky@chalupsky.cz",
-				"https://www.hradecsrdcemarozumem.cz/senat/",
-				"https://www.chalupsky.cz/",
-				"https://www.facebook.com/jarda.chalupsky"
-			],
-			"member": 99,
-			"color": "#159582",
+        "jarda.chalupsky@chalupsky.cz",
+        "https://www.hradecsrdcemarozumem.cz/senat/",
+        "https://www.chalupsky.cz/",
+        "https://www.facebook.com/jarda.chalupsky"
+      ],
+      "member": 99,
+      "color": "#159582",
       "support": [
-				714
-			],
-			"photo": "jaroslav-chalupsky.png"
+        714
+      ],
+      "photo": "jaroslav-chalupsky.png",
+      "no": 4,
+      "party": {
+        "reg": 714,
+        "name": "Svobodní"
+      },
+      "age": 46,
+      "work": "manažer kvality, radní města, ekonom a podnikatel",
+      "home": "Jindřichův Hradec",
+      "homeID": 545881,
+      "nominee": 714,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "Jiřina",
         "Rosáková",
         " "
       ],
       "reg": 18,
       "links": [
-				"https://jirinarosakova.cz/",
-				"https://www.facebook.com/Ji%C5%99ina-Ros%C3%A1kov%C3%A1-119078923228030/",
-				"https://twitter.com/JRosakova"
-			],
+        "https://jirinarosakova.cz/",
+        "https://www.facebook.com/Ji%C5%99ina-Ros%C3%A1kov%C3%A1-119078923228030/",
+        "https://twitter.com/JRosakova"
+      ],
       "support": [
-				5, 1187
-			],
-			"program": "https://jirinarosakova.cz/program",
-			"motto": "Nejsem včerejší",
-			"photo": "jirina-rosakova.jpg"
+        5,
+        1187
+      ],
+      "program": "https://jirinarosakova.cz/program",
+      "motto": "Nejsem včerejší",
+      "photo": "jirina-rosakova.jpg",
+      "no": 2,
+      "party": {
+        "reg": 1449,
+        "name": "Koalice Zelení a SEN 21"
+      },
+      "age": 64,
+      "work": "scénáristka",
+      "home": "Mníšek pod Brdy",
+      "homeID": 540765,
+      "member": 99,
+      "nominee": 5,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Bc.",
         "Filip",
         "Smoljak",
         ""
@@ -4097,83 +6152,156 @@
       "reg": 24,
       "links": [],
       "support": [
-				{
-				  "name":"Zdraví Sport Prosperita",
-					"logo":"/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
-				}
-			]
+        {
+          "name": "Zdraví Sport Prosperita",
+          "logo": "/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
+        }
+      ],
+      "no": 1,
+      "party": {
+        "reg": 785,
+        "name": "Zdraví Sport Prosperita"
+      },
+      "age": 54,
+      "work": "sociální pracovník, ředitel soc.služby, filantrop",
+      "home": "Praha",
+      "homeID": 1,
+      "member": 99,
+      "nominee": 785,
+      "sex": 1
     },
-		{
-			"name": [
-				"",
+    {
+      "name": [
+        "Ing. Bc.",
         "Ivana",
         "Horká",
         ""
       ],
       "reg": 51,
-			"member": 99,
+      "member": 1238,
       "links": [],
-      "support": []
+      "support": [],
+      "no": 5,
+      "party": {
+        "reg": 1238,
+        "name": "Nezávislá kandidátka"
+      },
+      "age": 57,
+      "work": "OSVČ",
+      "home": "Velké Meziříčí",
+      "homeID": 597007,
+      "nominee": 1238,
+      "sex": 2
     },
-		{
-			"name": [
-				"",
+    {
+      "name": [
+        "Mgr.",
         "Zdeňka",
         "Hamousová",
         ""
       ],
       "reg": 6,
-			"member": 99,
+      "member": 99,
       "links": [
-				"https://www.facebook.com/hamousovasenatorka"
-			],
-      "support": [119]
+        "https://www.facebook.com/hamousovasenatorka"
+      ],
+      "support": [
+        119
+      ],
+      "no": 3,
+      "party": {
+        "reg": 119,
+        "name": "Unie pro sport a zdraví"
+      },
+      "age": 59,
+      "work": "starostka",
+      "home": "Žatec",
+      "homeID": 566985,
+      "nominee": 119,
+      "sex": 2
     },
-		{
-			"name": [
-				"",
-        "Lucie",
+    {
+      "name": [
+        "",
+        "Lucie Frederika",
         "Groene Odkolek",
         ""
       ],
       "reg": 24,
-			"member": 99,
+      "member": 99,
       "links": [
-				"https://www.odkolek.com/",
-				"https://www.facebook.com/LucieGOdkolek/"
-			],
-      "support": [715]
+        "https://www.odkolek.com/",
+        "https://www.facebook.com/LucieGOdkolek/"
+      ],
+      "support": [
+        715
+      ],
+      "no": 4,
+      "party": {
+        "reg": 715,
+        "name": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT"
+      },
+      "age": 50,
+      "work": "před.správní rady Nadační fond Odkolek,scénáristka",
+      "home": "Praha 9",
+      "homeID": 500216,
+      "nominee": 715,
+      "sex": 1
     },
-		{
-			"name": [
-				"",
+    {
+      "name": [
+        "",
         "Václav",
         "Fischer",
         ""
       ],
       "reg": 27,
-			"member": 99,
+      "member": 99,
       "links": [
-				"fischer@vaclavfischer.eu",
-				"https://www.vaclavfischer.eu/",
-				"https://facebook.com/fischer1954",
-				"https://twitter.com/VaclavFischer"
-			],
-      "support": [9]
+        "fischer@vaclavfischer.eu",
+        "https://www.vaclavfischer.eu/",
+        "https://facebook.com/fischer1954",
+        "https://twitter.com/VaclavFischer"
+      ],
+      "support": [
+        9
+      ],
+      "no": 3,
+      "party": {
+        "reg": 9,
+        "name": "Nezávislá iniciativa (NEI)"
+      },
+      "age": 66,
+      "work": "podnikatel",
+      "home": "Praha 1",
+      "homeID": 500054,
+      "nominee": 9,
+      "sex": 1
     },
-		{
-			"name": [
-				"",
+    {
+      "name": [
+        "",
         "Bohumila",
         "Beranová",
         ""
       ],
       "reg": 54,
-			"member": 99,
+      "member": 99,
       "links": [
-				"https://www.facebook.com/bohumila.beranova.52"
-			],
-      "support": []
+        "https://www.facebook.com/bohumila.beranova.52"
+      ],
+      "support": [],
+      "no": 1,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 47,
+      "work": "OSVČ",
+      "home": "Znojmo",
+      "homeID": 593711,
+      "nominee": 80,
+      "sex": 2
     },
     {
       "name": [
@@ -4185,102 +6313,174 @@
       "reg": 3,
       "links": [],
       "support": [
-				{
-				  "name":"Zdraví Sport Prosperita",
-					"logo":"/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
-				}
-			]
+        {
+          "name": "Zdraví Sport Prosperita",
+          "logo": "/obecne/strany/loga/785-pro-zdravi-a-sport.jpg"
+        }
+      ],
+      "no": 7,
+      "party": {
+        "reg": 785,
+        "name": "Zdraví Sport Prosperita"
+      },
+      "age": 65,
+      "work": "realitní makléř",
+      "home": "Karlovy Vary",
+      "homeID": 554961,
+      "member": 1205,
+      "nominee": 785,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "Petr",
         "Fejk",
         ""
       ],
       "reg": 27,
       "links": [
-				"fejk@orbispark.com",
-				"http://petrfejk.cz/",
-				"https://www.facebook.com/petrfejkdosenatu2020/",
-				"https://twitter.com/petr_fejk",
-				"https://www.instagram.com/petrfejkdosenatu/"
-			],
+        "fejk@orbispark.com",
+        "http://petrfejk.cz/",
+        "https://www.facebook.com/petrfejkdosenatu2020/",
+        "https://twitter.com/petr_fejk",
+        "https://www.instagram.com/petrfejkdosenatu/"
+      ],
       "support": [
-				{
-				  "name":"Iniciativa občanů",
-					"logo":"/obecne/strany/loga/x-iniciativa-obcanu.jpg"
-				}
-			]
+        {
+          "name": "Iniciativa občanů",
+          "logo": "/obecne/strany/loga/x-iniciativa-obcanu.jpg"
+        }
+      ],
+      "no": 5,
+      "party": {
+        "reg": 86,
+        "name": "Iniciativa občanů"
+      },
+      "age": 56,
+      "work": "manažer, bývalý ředitel Zoo Praha",
+      "home": "Praha 2",
+      "homeID": 500089,
+      "member": 99,
+      "nominee": 86,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "doc. Ing.",
         "Marian",
         "Lebiedzik",
-        ""
+        "Ph.D."
       ],
       "reg": 75,
       "links": [
-				"https://www.facebook.com/Marian-Lebiedzik-Dobr%C3%A1-volba-pro-Karvinsko-101069461702720/"
-			],
+        "https://www.facebook.com/Marian-Lebiedzik-Dobr%C3%A1-volba-pro-Karvinsko-101069461702720/"
+      ],
       "support": [
-				{
-				  "name":"Dobrá volba 2016",
-					"logo":"/obecne/strany/loga/x-dobra-volba-2016.jpg"
-				}
-			]
+        {
+          "name": "Dobrá volba 2016",
+          "logo": "/obecne/strany/loga/x-dobra-volba-2016.jpg"
+        }
+      ],
+      "no": 12,
+      "party": {
+        "reg": 1127,
+        "name": "Dobrá volba 2016"
+      },
+      "age": 45,
+      "work": "starosta obce",
+      "home": "Petrovice u Karviné",
+      "homeID": 599077,
+      "member": 99,
+      "nominee": 1127,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Eliška",
         "Lazarová",
         ""
       ],
       "reg": 75,
       "links": [
-				"https://www.ank2020.cz/cz/kandidati-ank-2020/eliska-lazarova/"
-			],
+        "https://www.ank2020.cz/cz/kandidati-ank-2020/eliska-lazarova/"
+      ],
       "support": [
-				{
-				  "name":"Alternativa pro nezávislé kandidáty",
-					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
-				}
-			]
+        {
+          "name": "Alternativa pro nezávislé kandidáty",
+          "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+        }
+      ],
+      "no": 9,
+      "party": {
+        "reg": 1231,
+        "name": "Alternativa pro nezávislé kandidáty 2020-ANK 2020"
+      },
+      "age": 63,
+      "work": "lékařka",
+      "home": "Dětmarovice",
+      "homeID": 598941,
+      "member": 99,
+      "nominee": 1231,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "RNDr. PhDr.",
         "Zdeněk",
         "Hostomský",
-        ""
+        "CSc."
       ],
       "reg": 24,
       "links": [
-				"https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/"
-			],
+        "https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/"
+      ],
       "support": [
-				{
-				  "name":"Alternativa pro nezávislé kandidáty",
-					"logo":"/obecne/strany/loga/x-alternativa-pro-nk.jpg"
-				}
-			],
-			"program": "https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/",
-			"photo": "zdenek-hostomsky.jpg"
+        {
+          "name": "Alternativa pro nezávislé kandidáty",
+          "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg"
+        }
+      ],
+      "program": "https://www.ank2020.cz/cz/kandidati-ank-2020/zdenek-hostomsky/",
+      "photo": "zdenek-hostomsky.jpg",
+      "no": 8,
+      "party": {
+        "reg": 1231,
+        "name": "Alternativa pro nezávislé kandidáty 2020-ANK 2020"
+      },
+      "age": 67,
+      "work": "biochemik a ředitel výzkumné instituce",
+      "home": "Praha 2",
+      "homeID": 500089,
+      "member": 1231,
+      "nominee": 1231,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Petra",
         "Kurschová",
         ""
       ],
       "reg": 12,
       "links": [
-				"https://www.facebook.com/Sen%C3%A1torka-Petra-Kurschov%C3%A1-104696618008391"
-			],
-      "support": []
+        "https://www.facebook.com/Sen%C3%A1torka-Petra-Kurschov%C3%A1-104696618008391"
+      ],
+      "support": [],
+      "no": 6,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 42,
+      "work": "oděvní návrhář",
+      "home": "Strakonice",
+      "homeID": 550787,
+      "member": 99,
+      "nominee": 80,
+      "sex": 2
     },
     {
       "name": [
@@ -4291,29 +6491,59 @@
       ],
       "reg": 12,
       "links": [],
-      "support": [1114]
+      "support": [
+        1114
+      ]
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Karel",
         "Otava",
         ""
       ],
       "reg": 42,
       "links": [],
-      "support": [7]
+      "support": [
+        7
+      ],
+      "no": 6,
+      "party": {
+        "reg": 7,
+        "name": "Česká strana sociálně demokratická"
+      },
+      "age": 69,
+      "work": "starosta města Lysá nad Labem",
+      "home": "Lysá nad Labem",
+      "homeID": 537454,
+      "member": 7,
+      "nominee": 7,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "generálmajor v. v. Ing.",
         "Jiří",
         "Kubala",
         ""
       ],
       "reg": 63,
       "links": [],
-      "support": [88]
+      "support": [
+        88
+      ],
+      "no": 9,
+      "party": {
+        "reg": 88,
+        "name": "NEZÁVISLÍ"
+      },
+      "age": 64,
+      "work": "vojenský pilot ve výslužbě",
+      "home": "Rokytnice",
+      "homeID": 517607,
+      "member": 99,
+      "nominee": 88,
+      "sex": 1
     },
     {
       "name": [
@@ -4324,22 +6554,38 @@
       ],
       "reg": 63,
       "links": [],
-      "support": [1116]
+      "support": [
+        1116
+      ]
     },
     {
       "name": [
-        "",
+        "Bc.",
         "Antonín",
         "Baudyš",
         ""
       ],
       "reg": 66,
       "links": [
-	      "antonin.baudys@hnuticesta.cz",
-	      "https://www.antoninbaudys.cz/"
+        "antonin.baudys@hnuticesta.cz",
+        "https://www.antoninbaudys.cz/"
       ],
-      "support": [1177],
-      "program": "https://www.antoninbaudys.cz/"
+      "support": [
+        1177
+      ],
+      "program": "https://www.antoninbaudys.cz/",
+      "no": 5,
+      "party": {
+        "reg": 1177,
+        "name": "CESTA ODPOVĚDNÉ SPOLEČNOSTI"
+      },
+      "age": 47,
+      "work": "konzultant, místopředseda hnutí CESTA",
+      "home": "Šumperk",
+      "homeID": 523704,
+      "member": 1177,
+      "nominee": 1177,
+      "sex": 1
     },
     {
       "name": [
@@ -4350,64 +6596,148 @@
       ],
       "reg": 69,
       "links": [],
-      "support": [1127]
+      "support": [
+        1127
+      ],
+      "no": 3,
+      "party": {
+        "reg": 1127,
+        "name": "Dobrá volba 2016"
+      },
+      "age": 58,
+      "work": "starosta obce",
+      "home": "Čeladná",
+      "homeID": 598071,
+      "member": 1127,
+      "nominee": 1127,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RNDr.",
         "Pavel",
         "Olšovský",
-        ""
+        "Ph.D."
       ],
       "reg": 69,
       "links": [
-				"olsovskysenat@seznam.cz"
-			],
-      "support": [1118]
+        "olsovskysenat@seznam.cz"
+      ],
+      "support": [
+        1118
+      ],
+      "no": 1,
+      "party": {
+        "reg": 1118,
+        "name": "VOK - Volba pro kraj"
+      },
+      "age": 53,
+      "work": "vědecký pracovník, projektový manažer, SŠ učitel",
+      "home": "Frýdek-Místek",
+      "homeID": 598003,
+      "member": 99,
+      "nominee": 1118,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Mgr. Bc.",
         "Karel",
         "Světnička",
         ""
       ],
       "reg": 75,
       "links": [],
-      "support": [1217]
+      "support": [
+        1217
+      ],
+      "no": 8,
+      "party": {
+        "reg": 1217,
+        "name": "Moravská a Slezská pirátská strana"
+      },
+      "age": 60,
+      "work": "právník a nezávislý publicista",
+      "home": "Havířov",
+      "homeID": 555088,
+      "member": 1217,
+      "nominee": 1217,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "MUDr.",
         "Pavel",
         "Stodůlka",
-        ""
+        "Ph.D."
       ],
       "reg": 78,
       "links": [],
-      "support": [88]
+      "support": [
+        88
+      ],
+      "no": 2,
+      "party": {
+        "reg": 88,
+        "name": "NEZÁVISLÍ"
+      },
+      "age": 55,
+      "work": "lékař",
+      "home": "Zlín",
+      "homeID": 585068,
+      "member": 99,
+      "nominee": 88,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing. Mgr.",
         "Pynelopi",
         "Cimprichová",
         ""
       ],
       "reg": 72,
       "links": [],
-      "support": [1225]
+      "support": [
+        1225
+      ],
+      "no": 1,
+      "party": {
+        "reg": 1225,
+        "name": "Jednotní"
+      },
+      "age": 62,
+      "work": "podnikatelka",
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 1225,
+      "nominee": 1225,
+      "sex": 2
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Miroslava",
         "Škaldová",
         ""
       ],
       "reg": 72,
       "links": [],
-      "support": [1118]
+      "support": [
+        1118
+      ],
+      "no": 12,
+      "party": {
+        "reg": 1118,
+        "name": "VOK - Volba pro kraj"
+      },
+      "age": 56,
+      "work": "ředitelka základní a mateřské školy",
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 99,
+      "nominee": 1118,
+      "sex": 2
     },
     {
       "name": [
@@ -4418,11 +6748,25 @@
       ],
       "reg": 75,
       "links": [],
-      "support": [1118]
+      "support": [
+        1118
+      ],
+      "no": 3,
+      "party": {
+        "reg": 1118,
+        "name": "VOK - Volba pro kraj"
+      },
+      "age": 64,
+      "work": "dlouholetý starosta a primátor",
+      "home": "Karviná",
+      "homeID": 598917,
+      "member": 99,
+      "nominee": 1118,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jiří",
         "Sedláček",
         ""
@@ -4432,25 +6776,49 @@
       "support": [
         1227
       ],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 1,
+      "party": {
+        "reg": 1227,
+        "name": "Trikolóra hnutí občanů"
+      },
+      "age": 64,
+      "work": "jednatel společnosti",
+      "home": "Tachov",
+      "homeID": 560715,
+      "member": 99,
+      "nominee": 1227,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Jan Michael",
         "Kubín",
         ""
       ],
       "reg": 21,
       "links": [
-	      "jan.kubin@hnuticesta.cz",
-	      "https://www.janmichaelkubin.cz/"
+        "jan.kubin@hnuticesta.cz",
+        "https://www.janmichaelkubin.cz/"
       ],
       "support": [
         1177
       ],
       "color": "#aaa",
-      "program": "https://www.janmichaelkubin.cz/"
+      "program": "https://www.janmichaelkubin.cz/",
+      "no": 3,
+      "party": {
+        "reg": 1177,
+        "name": "CESTA ODPOVĚDNÉ SPOLEČNOSTI"
+      },
+      "age": 56,
+      "work": "podnikatel, místopředseda hnutí CESTA",
+      "home": "Praha",
+      "homeID": 1,
+      "member": 1177,
+      "nominee": 1177,
+      "sex": 1
     },
     {
       "name": [
@@ -4469,7 +6837,7 @@
     {
       "name": [
         "",
-        "Marel",
+        "Marek",
         "Anděl",
         ""
       ],
@@ -4477,7 +6845,18 @@
       "member": 99,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 1,
+      "party": {
+        "reg": 1236,
+        "name": "PÍSEK SOBĚ - sdružení nezávislých kandidátů"
+      },
+      "age": 48,
+      "work": "ředitel muzea Elektrárny královského města Písku",
+      "home": "Písek",
+      "homeID": 549240,
+      "nominee": 1236,
+      "sex": 1
     },
     {
       "name": [
@@ -4490,7 +6869,18 @@
       "member": 99,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 3,
+      "party": {
+        "reg": 1116,
+        "name": "Národ Sobě"
+      },
+      "age": 57,
+      "work": "jednatel firmy",
+      "home": "Brno",
+      "homeID": 3,
+      "nominee": 1116,
+      "sex": 1
     },
     {
       "name": [
@@ -4507,7 +6897,7 @@
     },
     {
       "name": [
-        "",
+        "Mgr.",
         "Vladimír",
         "Navara",
         ""
@@ -4515,7 +6905,19 @@
       "reg": 33,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 2,
+      "party": {
+        "reg": 1118,
+        "name": "VOK - Volba pro kraj"
+      },
+      "age": 54,
+      "work": "podnikatel",
+      "home": "Velké Březno",
+      "homeID": 568350,
+      "member": 1118,
+      "nominee": 1118,
+      "sex": 1
     },
     {
       "name": [
@@ -4525,10 +6927,21 @@
         ""
       ],
       "reg": 60,
-      "member": 99,
+      "member": 1125,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 4,
+      "party": {
+        "reg": 1116,
+        "name": "Národ Sobě"
+      },
+      "age": 47,
+      "work": "OSVČ",
+      "home": "Kladno",
+      "homeID": 532053,
+      "nominee": 1116,
+      "sex": 1
     },
     {
       "name": [
@@ -4541,7 +6954,18 @@
       "member": 99,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 5,
+      "party": {
+        "reg": 1116,
+        "name": "Národ Sobě"
+      },
+      "age": 48,
+      "work": "řidič",
+      "home": "Kropáčova Vrutice",
+      "homeID": 536181,
+      "nominee": 1116,
+      "sex": 1
     },
     {
       "name": [
@@ -4558,7 +6982,7 @@
     },
     {
       "name": [
-        "",
+        "JUDr.",
         "Jaroslav",
         "Pollák",
         ""
@@ -4566,7 +6990,19 @@
       "reg": 63,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 2,
+      "party": {
+        "reg": 1116,
+        "name": "Národ Sobě"
+      },
+      "age": 69,
+      "work": "senior - OSVČ",
+      "home": "Kaplice",
+      "homeID": 545562,
+      "member": 1116,
+      "nominee": 1116,
+      "sex": 1
     },
     {
       "name": [
@@ -4579,7 +7015,18 @@
       "member": 99,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 11,
+      "party": {
+        "reg": 1116,
+        "name": "Národ Sobě"
+      },
+      "age": 45,
+      "work": "OSVČ",
+      "home": "Ostrava",
+      "homeID": 4,
+      "nominee": 1116,
+      "sex": 1
     },
     {
       "name": [
@@ -4591,7 +7038,19 @@
       "reg": 36,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 1,
+      "party": {
+        "reg": 1047,
+        "name": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ"
+      },
+      "age": 57,
+      "work": "stavební technik",
+      "home": "Česká Lípa",
+      "homeID": 561380,
+      "member": 1047,
+      "nominee": 1047,
+      "sex": 1
     },
     {
       "name": [
@@ -4604,11 +7063,22 @@
       "member": 99,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 10,
+      "party": {
+        "reg": 80,
+        "name": "Nezávislý kandidát"
+      },
+      "age": 54,
+      "work": "úředník",
+      "home": "Volenice",
+      "homeID": 551961,
+      "nominee": 80,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "RNDr.",
         "Radoslav",
         "Štědroň",
         ""
@@ -4616,21 +7086,45 @@
       "reg": 75,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 6,
+      "party": {
+        "reg": 1225,
+        "name": "Jednotní"
+      },
+      "age": 65,
+      "work": "geograf - praktický filosof",
+      "home": "Ostrava",
+      "homeID": 4,
+      "member": 159,
+      "nominee": 1225,
+      "sex": 1
     },
     {
       "name": [
-        "",
+        "PhDr.",
         "Vladimíra",
         "Vítová",
-        ""
+        "Ph.D."
       ],
       "reg": 24,
       "links": [
-	      "https://www.facebook.com/Vladim%C3%ADra-V%C3%ADtov%C3%A1-kandid%C3%A1tka-do-Sen%C3%A1tu-Praha-9-2020-107004851119987/"
+        "https://www.facebook.com/Vladim%C3%ADra-V%C3%ADtov%C3%A1-kandid%C3%A1tka-do-Sen%C3%A1tu-Praha-9-2020-107004851119987/"
       ],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 9,
+      "party": {
+        "reg": 762,
+        "name": "ALIANCE NÁRODNÍCH SIL"
+      },
+      "age": 57,
+      "work": "předsedkyně ALIANCE NÁRODNÍCH SIL",
+      "home": "Praha 10",
+      "homeID": 500224,
+      "member": 762,
+      "nominee": 762,
+      "sex": 2
     },
     {
       "name": [
@@ -4647,7 +7141,7 @@
     },
     {
       "name": [
-        "",
+        "Ing.",
         "Naděžda",
         "Zímová",
         ""
@@ -4655,7 +7149,19 @@
       "reg": 30,
       "links": [],
       "support": [],
-      "color": "#aaa"
+      "color": "#aaa",
+      "no": 2,
+      "party": {
+        "reg": 1184,
+        "name": "Radostné Česko"
+      },
+      "age": 58,
+      "work": "daňový poradce",
+      "home": "Kladno",
+      "homeID": 532053,
+      "member": 1184,
+      "nominee": 1184,
+      "sex": 2
     }
   ],
   "current": [
