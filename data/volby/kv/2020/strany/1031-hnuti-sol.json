@@ -1,0 +1,24 @@
+{
+  "reg": 1031,
+  "name": "Hnutí SOL",
+  "short": "Hnutí SOL",
+  "logo": "obecne/strany/loga/x-hnuti-sol.jpg",
+  "hash": "hnuti-sol",
+  "links": {
+    "global": [
+      "http://www.hnutisol.cz",
+      "https://www.facebook.com/hnutiSOL",
+      "https://www.instagram.com/hnutisol"
+    ],
+    "regional": [
+      {
+        "region": 10,
+        "links": [
+          "http://www.hnutisol.cz",
+          "https://www.facebook.com/hnutiSOL",
+          "https://www.instagram.com/hnutisol"
+        ]
+      }
+    ]
+  }
+}

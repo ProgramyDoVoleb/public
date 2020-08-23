@@ -17,18 +17,15 @@
     "regional": [
       {
         "region": 2,
-        "links": [
-        ]
+        "links": []
       },
       {
         "region": 7,
-        "links": [
-        ]
+        "links": []
       },
       {
         "region": 10,
-        "links": [
-        ]
+        "links": []
       },
       {
         "region": 12,
@@ -39,5 +36,11 @@
         ]
       }
     ]
-  }
+  },
+  "no": 71,
+  "active": [
+    0,
+    1,
+    4
+  ]
 }

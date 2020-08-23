@@ -1,9 +1,28 @@
 {
-  "reg":137,
-  "name":"ROZUMNÍ",
-  "hash":"rozumni",
-  "short":"Rozumní",
-  "links":{"global":[],"regional":[]},
-  "logo":"/obecne/strany/loga/137-rozumni.png",
-  "color":"#a9e614"
+  "reg": 137,
+  "name": "ROZUMNÍ - Petr Hannig - za spravedlnost a životní jistoty",
+  "hash": "rozumni",
+  "short": "Rozumní",
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "logo": "/obecne/strany/loga/137-rozumni.png",
+  "color": "#a9e614",
+  "no": 82,
+  "active": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "reg": 55,
   "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
-  "short": "Koruna Česká",
+  "short": "Monarchiste.cz",
   "color": "#9a26cc",
   "logo": "/obecne/strany/loga/55-koruna-ceska.png",
   "hash": "monarchiste-cz",
@@ -10,16 +10,17 @@
     "regional": [
       {
         "region": 1,
-        "links": [
-
-        ]
+        "links": []
       },
       {
         "region": 9,
-        "links": [
-
-        ]
+        "links": []
       }
     ]
-  }
+  },
+  "no": 68,
+  "active": [
+    2,
+    10
+  ]
 }

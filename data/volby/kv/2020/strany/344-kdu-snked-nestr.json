@@ -1,0 +1,36 @@
+{
+  "reg": 344,
+  "name": "Koalice pro Pardubický kraj",
+  "hash": "kdu-snked-nestr",
+  "short": "KDU+SNKED+Nestr",
+  "no": 17,
+  "coalition": [
+    1,
+    129,
+    181
+  ],
+  "links": {
+    "global": [
+      "https://www.koalicepk.cz/",
+      "http://pardubicky-kraj.kdu.cz",
+      "https://www.facebook.com/koalicepropardubickykraj/",
+      "https://www.instagram.com/koalice_pro_pardubicky_kraj/"
+    ],
+    "regional": [
+      {
+        "region": 8,
+        "links": [
+          "https://www.koalicepk.cz",
+          "http://pardubicky-kraj.kdu.cz",
+          "https://www.facebook.com/koalicepropardubickykraj/",
+          "https://www.instagram.com/koalice_pro_pardubicky_kraj/"
+        ]
+      }
+    ]
+  },
+  "color": "#004588",
+  "logo": "/obecne/strany/loga/344-koalice-pro-pak.png",
+  "active": [
+    7
+  ]
+}

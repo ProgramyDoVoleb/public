@@ -1,17 +1,19 @@
 {
-  "reg":1225,
-  "name":"Jednotní - alternativa pro patrioty (JAP)",
-  "hash":"jednotni",
-  "short":"Jednotní",
-  "links":{
-    "global":[
+  "reg": 1225,
+  "name": "Jednotní",
+  "hash": "jednotni",
+  "short": "JEDNOTNÍ",
+  "links": {
+    "global": [
       "https://www.jednotni.com/",
       "https://www.facebook.com/Jednotn%C3%AD-ofici%C3%A1ln%C3%AD-str%C3%A1nka-410426376192466/"
     ],
-    "regional":[
-
-    ]
+    "regional": []
   },
-  "color":"#aaa",
-  "logo": "obecne/strany/loga/1225-jednotni.png"
+  "color": "#aaa",
+  "logo": "obecne/strany/loga/1225-jednotni.png",
+  "no": 37,
+  "active": [
+    12
+  ]
 }

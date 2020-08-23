@@ -1,6 +1,6 @@
 {
   "reg": 1114,
-  "name": "Svoboda a přímá demokracie",
+  "name": "Svoboda a přímá demokracie (SPD)",
   "short": "SPD",
   "color": "#874a0f",
   "logo": "/obecne/strany/loga/1114-spd.svg",
@@ -87,5 +87,21 @@
         "links": []
       }
     ]
-  }
+  },
+  "no": 16,
+  "active": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ]
 }

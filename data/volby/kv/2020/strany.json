@@ -113,7 +113,14 @@
             ]
           }
         ]
-      }
+      },
+      "no": 12,
+      "active": [
+        8,
+        9,
+        11,
+        12
+      ]
     },
     {
       "reg": 1012,
@@ -148,6 +155,14 @@
           }
         ]
       }
+    },
+    {
+      "reg": 1021,
+      "name": "Čistý kraj",
+      "hash": "cisty-kraj",
+      "short": "Čistý kraj",
+      "color": "#fb171b",
+      "logo": "obecne/strany/loga/x-cisty-kraj.jpg"
     },
     {
       "reg": 1028,
@@ -194,6 +209,34 @@
             ]
           }
         ]
+      },
+      "no": 10,
+      "active": [
+        5
+      ]
+    },
+    {
+      "reg": 1031,
+      "name": "Hnutí SOL",
+      "short": "Hnutí SOL",
+      "logo": "obecne/strany/loga/x-hnuti-sol.jpg",
+      "hash": "hnuti-sol",
+      "links": {
+        "global": [
+          "http://www.hnutisol.cz",
+          "https://www.facebook.com/hnutiSOL",
+          "https://www.instagram.com/hnutisol"
+        ],
+        "regional": [
+          {
+            "region": 10,
+            "links": [
+              "http://www.hnutisol.cz",
+              "https://www.facebook.com/hnutiSOL",
+              "https://www.instagram.com/hnutisol"
+            ]
+          }
+        ]
       }
     },
     {
@@ -237,8 +280,27 @@
       }
     },
     {
+      "reg": 1058,
+      "name": "Společně pro Liberecký kraj",
+      "hash": "kdu-csl-top-09",
+      "short": "KDU-ČSL+TOP 09",
+      "no": 59,
+      "coalition": [
+        1,
+        721
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        1
+      ]
+    },
+    {
       "reg": 1114,
-      "name": "Svoboda a přímá demokracie",
+      "name": "Svoboda a přímá demokracie (SPD)",
       "short": "SPD",
       "color": "#874a0f",
       "logo": "/obecne/strany/loga/1114-spd.svg",
@@ -325,7 +387,23 @@
             "links": []
           }
         ]
-      }
+      },
+      "no": 16,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 1118,
@@ -354,7 +432,12 @@
             ]
           }
         ]
-      }
+      },
+      "no": 28,
+      "active": [
+        4,
+        12
+      ]
     },
     {
       "reg": 1119,
@@ -383,7 +466,7 @@
     },
     {
       "reg": 112,
-      "name": "Místní",
+      "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
       "short": "HNHRM",
       "color": "#4da631",
       "logo": "/obecne/strany/loga/112-hnhrm.png",
@@ -402,7 +485,11 @@
             ]
           }
         ]
-      }
+      },
+      "no": 49,
+      "active": [
+        3
+      ]
     },
     {
       "reg": 1126,
@@ -440,7 +527,7 @@
     },
     {
       "reg": 1129,
-      "name": "SNK1 - Starostové našeho kraje",
+      "name": "Sdružení nezávislých kandidátů 1 - Starostové našeho kraje",
       "short": "SNK1",
       "color": "#1a1638",
       "logo": "obecne/strany/loga/1129-snk1.jpg",
@@ -453,7 +540,11 @@
             "links": []
           }
         ]
-      }
+      },
+      "no": 39,
+      "active": [
+        3
+      ]
     },
     {
       "reg": 113,
@@ -479,6 +570,44 @@
       }
     },
     {
+      "reg": 1141,
+      "name": "Soukromníci a Svobodní",
+      "hash": "soukrom-svobod",
+      "short": "Soukrom+Svobod",
+      "no": 55,
+      "coalition": [
+        714,
+        716
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        5
+      ]
+    },
+    {
+      "reg": 1152,
+      "name": "Starostové pro Vysočinu",
+      "hash": "stan-snk-ed",
+      "short": "STAN+SNK ED",
+      "no": 27,
+      "coalition": [
+        129,
+        166
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        8
+      ]
+    },
+    {
       "reg": 1173,
       "name": "Občanská demokratická aliance",
       "hash": "oda",
@@ -493,7 +622,11 @@
         "regional": []
       },
       "color": "#1d5958",
-      "logo": "obecne/strany/loga/1173-oda.png"
+      "logo": "obecne/strany/loga/1173-oda.png",
+      "no": 69,
+      "active": [
+        0
+      ]
     },
     {
       "reg": 1175,
@@ -511,6 +644,21 @@
           }
         ]
       }
+    },
+    {
+      "reg": 1179,
+      "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+      "hash": "bos",
+      "short": "BOS",
+      "no": 1,
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        2
+      ]
     },
     {
       "reg": 1179,
@@ -556,7 +704,12 @@
             "links": []
           }
         ]
-      }
+      },
+      "no": 84,
+      "active": [
+        1,
+        8
+      ]
     },
     {
       "reg": 1209,
@@ -571,6 +724,21 @@
       },
       "logo": "/obecne/strany/loga/1209-ne-volim.png",
       "color": "#0b8c04"
+    },
+    {
+      "reg": 1217,
+      "name": "Moravská a Slezská pirátská strana",
+      "hash": "ms-pirati",
+      "short": "MS Piráti",
+      "no": 14,
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        12
+      ]
     },
     {
       "reg": 1217,
@@ -604,9 +772,9 @@
     },
     {
       "reg": 1225,
-      "name": "Jednotní - alternativa pro patrioty (JAP)",
+      "name": "Jednotní",
       "hash": "jednotni",
-      "short": "Jednotní",
+      "short": "JEDNOTNÍ",
       "links": {
         "global": [
           "https://www.jednotni.com/",
@@ -615,7 +783,11 @@
         "regional": []
       },
       "color": "#aaa",
-      "logo": "obecne/strany/loga/1225-jednotni.png"
+      "logo": "obecne/strany/loga/1225-jednotni.png",
+      "no": 37,
+      "active": [
+        12
+      ]
     },
     {
       "reg": 1227,
@@ -703,15 +875,43 @@
             ]
           }
         ]
+      },
+      "no": 70,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "reg": 1228,
+      "name": "Společně pro kraj",
+      "short": "Společně pro kraj",
+      "hash": "spolecne-pro-kraj",
+      "links": {
+        "global": [],
+        "regional": [
+          {
+            "region": 8,
+            "links": []
+          }
+        ]
       }
     },
     {
       "reg": 1229,
       "name": "Změna 2020",
-      "short": "Změna",
-      "color": "#aaa",
+      "short": "Z 2020",
+      "no": 72,
       "logo": "/obecne/strany/loga/1229-zmena-2020-2.png",
-      "hash": "zmena-2020",
+      "hash": "z-2020",
       "links": {
         "global": [
           "https://www.facebook.com/zmena2020"
@@ -724,7 +924,125 @@
             ]
           }
         ]
+      },
+      "color": "#aaa",
+      "active": [
+        1
+      ]
+    },
+    {
+      "reg": 1230,
+      "name": "Patrioti Olomouckého kraje",
+      "short": "Patrioti Olomouckého kraje",
+      "logo": "obecne/strany/loga/x-patrioti-olk.png",
+      "hash": "patrioti-olomouckeho-kraje",
+      "links": {
+        "global": [],
+        "regional": [
+          {
+            "region": 11,
+            "links": []
+          }
+        ]
       }
+    },
+    {
+      "reg": 1231,
+      "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
+      "hash": "ank-2020",
+      "short": "ANK 2020",
+      "no": 79,
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg",
+      "color": "#aaa",
+      "active": [
+        2,
+        12
+      ]
+    },
+    {
+      "reg": 1232,
+      "name": "Budoucnost",
+      "hash": "budoucnost",
+      "short": "Budoucnost",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa"
+    },
+    {
+      "reg": 1233,
+      "name": "Idealisté",
+      "short": "Idealisté",
+      "color": "#00dcc2",
+      "logo": "obecne/strany/loga/x-idealiste.png",
+      "hash": "idealiste",
+      "links": {
+        "global": [],
+        "regional": [
+          {
+            "region": 3,
+            "links": []
+          },
+          {
+            "region": 10,
+            "links": []
+          }
+        ]
+      }
+    },
+    {
+      "reg": 1234,
+      "name": "Mladí pro Pardubický kraj",
+      "hash": "mpk",
+      "short": "MPK",
+      "no": 83,
+      "color": "#00aef0",
+      "logo": "obecne/strany/loga/x-mladi-pro-pak.png",
+      "links": {
+        "global": [
+          "https://mladidotoho.com/",
+          "https://www.facebook.com/mladidotoho/",
+          "https://www.instagram.com/mladidotoho/"
+        ],
+        "regional": [
+          {
+            "region": 8,
+            "links": [
+              "https://mladidotoho.com/",
+              "https://www.facebook.com/mladidotoho/",
+              "https://www.instagram.com/mladidotoho/"
+            ]
+          }
+        ]
+      },
+      "active": [
+        7
+      ]
+    },
+    {
+      "reg": 1237,
+      "name": "VIZE - národní socialisté",
+      "hash": "vizens",
+      "short": "VIZENS",
+      "no": 23,
+      "color": "#f81c1c",
+      "logo": "obecne/strany/loga/x-vize-narsoc.jpg",
+      "links": {
+        "global": [
+          "https://www.vizens.cz/",
+          "https://www.facebook.com/Vize-n%C3%A1rodn%C3%AD-socialist%C3%A9-109573630813341/"
+        ],
+        "regional": []
+      },
+      "active": [
+        1,
+        4
+      ]
     },
     {
       "reg": 129,
@@ -759,6 +1077,25 @@
       }
     },
     {
+      "reg": 1350,
+      "name": "PIRÁTI a STAROSTOVÉ",
+      "hash": "pirati-a-stan",
+      "short": "PIRÁTI a STAN",
+      "no": 21,
+      "coalition": [
+        166,
+        720
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        10
+      ]
+    },
+    {
       "reg": 136,
       "name": "Tábor 2020",
       "short": "T2020",
@@ -785,7 +1122,7 @@
     },
     {
       "reg": 137,
-      "name": "ROZUMNÍ",
+      "name": "ROZUMNÍ - Petr Hannig - za spravedlnost a životní jistoty",
       "hash": "rozumni",
       "short": "Rozumní",
       "links": {
@@ -793,18 +1130,532 @@
         "regional": []
       },
       "logo": "/obecne/strany/loga/137-rozumni.png",
-      "color": "#a9e614"
+      "color": "#a9e614",
+      "no": 82,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 142,
       "name": "Starostové pro kraj",
       "hash": "starostove",
       "short": "Starostové",
+      "no": 81,
       "links": {
         "global": [],
         "regional": []
       },
-      "color": "#0dd63f"
+      "color": "#0dd63f",
+      "active": [
+        12
+      ]
+    },
+    {
+      "reg": 1442,
+      "name": "ČSSD a Patrioti Olomouckého kraje",
+      "hash": "cssd-a-pok",
+      "short": "ČSSD a POK",
+      "no": 52,
+      "coalition": [
+        7,
+        1230
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        10
+      ]
+    },
+    {
+      "reg": 1444,
+      "name": "Pro KRAJinu",
+      "hash": "zeleni-les",
+      "short": "Zelení+LES",
+      "no": 85,
+      "coalition": [
+        5,
+        795
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        5
+      ]
+    },
+    {
+      "reg": 1445,
+      "name": "Občanská demokratická strana s podporou Svobodných a hnutí Starostové a osobnosti pro Moravu",
+      "hash": "ods-svobod--som",
+      "short": "ODS+Svobod.+SOM",
+      "no": 76,
+      "coalition": [
+        53,
+        158,
+        714
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        9
+      ]
+    },
+    {
+      "reg": 1446,
+      "name": "TRIKOLÓRA - SOUKROMNÍCI",
+      "hash": "trikol-soukrom",
+      "short": "Trikol+Soukrom",
+      "no": 31,
+      "coalition": [
+        716,
+        1227
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        7
+      ]
+    },
+    {
+      "reg": 1447,
+      "name": "ODS a Starostové pro občany",
+      "hash": "ods-sto",
+      "short": "ODS+STO",
+      "no": 46,
+      "coalition": [
+        53,
+        779
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        8
+      ]
+    },
+    {
+      "reg": 1450,
+      "name": "Spojenci - Koalice pro Olomoucký kraj (KDU-ČSL, TOP 09, Strana zelených, ProOlomouc)",
+      "hash": "kdu-z-top-prool",
+      "short": "KDU+Z+TOP+ProOl",
+      "no": 64,
+      "coalition": [
+        1,
+        5,
+        721,
+        1039
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        10
+      ]
+    },
+    {
+      "reg": 1451,
+      "name": "VOK - Volba pro kraj s podporou hnutí Karlovaráci",
+      "hash": "kvc-vok",
+      "short": "KVC+VOK",
+      "no": 26,
+      "coalition": [
+        1028,
+        1118
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        3
+      ]
+    },
+    {
+      "reg": 1453,
+      "name": "Dělnická strana sociální spravedlnosti - Čistý kraj",
+      "hash": "dsss-cikr",
+      "short": "DSSS+ČiKR",
+      "no": 60,
+      "coalition": [
+        156,
+        1021
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        4
+      ]
+    },
+    {
+      "reg": 1454,
+      "name": "Občanská demokratická strana + STAROSTOVÉ A NEZÁVISLÍ a VÝCHODOČEŠI",
+      "hash": "ods-stan-vc",
+      "short": "ODS+STAN+VČ",
+      "no": 73,
+      "coalition": [
+        53,
+        166,
+        770
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        6
+      ]
+    },
+    {
+      "reg": 1455,
+      "name": "Koalice pro Královéhradecký kraj - KDU-ČSL - VPM - Nestraníci",
+      "hash": "kdu-vpm-nestr-",
+      "short": "KDU+VPM+Nestr.",
+      "no": 32,
+      "coalition": [
+        1,
+        113,
+        181
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        6
+      ]
+    },
+    {
+      "reg": 1456,
+      "name": "Spojenci pro kraj",
+      "hash": "jp-les-ed-z-top",
+      "short": "JP+LES+ED+Z+TOP",
+      "no": 77,
+      "coalition": [
+        5,
+        129,
+        721,
+        795,
+        1126
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        4
+      ]
+    },
+    {
+      "reg": 1457,
+      "name": "Starostové pro jižní Moravu",
+      "hash": "stan-sol",
+      "short": "STAN+SOL",
+      "no": 51,
+      "coalition": [
+        166,
+        1031
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        9
+      ]
+    },
+    {
+      "reg": 1458,
+      "name": "TRIKOLORA - SOUKROMNÍCI - NEZÁVISLÍ",
+      "hash": "trikol-souk-nez",
+      "short": "Trikol+Souk+NEZ",
+      "no": 6,
+      "coalition": [
+        88,
+        716,
+        1227
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        11
+      ]
+    },
+    {
+      "reg": 1460,
+      "name": "Soukromníci a ODA",
+      "hash": "soukromnici-oda",
+      "short": "Soukromníci+ODA",
+      "no": 66,
+      "coalition": [
+        716,
+        1173
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        10
+      ]
+    },
+    {
+      "reg": 1464,
+      "name": "Spojenci pro Královéhradecký kraj",
+      "hash": "top-09-hdk-les",
+      "short": "TOP 09+HDK+LES",
+      "no": 47,
+      "coalition": [
+        721,
+        795,
+        1049
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        6
+      ]
+    },
+    {
+      "reg": 1465,
+      "name": "Pro TOP Vysočinu",
+      "hash": "top-kan-monarch",
+      "short": "TOP+KAN+Monarch",
+      "no": 25,
+      "coalition": [
+        40,
+        55,
+        721
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        8
+      ]
+    },
+    {
+      "reg": 1466,
+      "name": "Pro krásný kraj - Hlas nezávislých osobností! Koalice ODA, HLAS, SNK ED",
+      "hash": "oda-hlas-snk-ed",
+      "short": "ODA+Hlas+SNK ED",
+      "no": 57,
+      "coalition": [
+        129,
+        1173,
+        1220
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        12
+      ]
+    },
+    {
+      "reg": 1467,
+      "name": "Spolu pro Moravu",
+      "hash": "top-z-les-mzh-i",
+      "short": "TOP+Z+LES+MZH+I",
+      "no": 44,
+      "coalition": [
+        5,
+        721,
+        795,
+        1190,
+        1233
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        9
+      ]
+    },
+    {
+      "reg": 1468,
+      "name": "3PK - Pro prosperující Pardubický kraj",
+      "hash": "cssd-sprok",
+      "short": "ČSSD+SproK",
+      "no": 30,
+      "coalition": [
+        7,
+        1228
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        7
+      ]
+    },
+    {
+      "reg": 1470,
+      "name": "Spojenci pro Středočeský kraj - TOP 09, Hlas, Zelení",
+      "hash": "top-hlas-zeleni",
+      "short": "TOP+Hlas+Zelení",
+      "no": 48,
+      "coalition": [
+        5,
+        721,
+        1220
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        0
+      ]
+    },
+    {
+      "reg": 1471,
+      "name": "Změna pro lidi a pro krajinu",
+      "hash": "zmena-nbplk",
+      "short": "Změna+NBPLK",
+      "no": 78,
+      "coalition": [
+        771,
+        780
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        5
+      ]
+    },
+    {
+      "reg": 1474,
+      "name": "KDU-ČSL, ADS A NESTRANÍCI - KOALICE PRO PLZEŇSKÝ KRAJ",
+      "hash": "kdu-ads-nestr-",
+      "short": "KDU+ADS+Nestr.",
+      "no": 9,
+      "coalition": [
+        1,
+        181,
+        1119
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        2
+      ]
+    },
+    {
+      "reg": 1475,
+      "name": "STAROSTOVÉ (STAN) s JOSEFEM BERNARDEM a podporou Zelených, PRO Plzeň a Idealistů",
+      "hash": "stan-z-proplzen",
+      "short": "STAN+Z+PROPLZEŇ",
+      "no": 58,
+      "coalition": [
+        5,
+        166,
+        1014
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        2
+      ]
+    },
+    {
+      "reg": 1476,
+      "name": "STAN, ZELENÍ a NEZÁVISLÍ",
+      "hash": "stan-zeleni-nez",
+      "short": "STAN+Zelení+NEZ",
+      "no": 54,
+      "coalition": [
+        5,
+        88,
+        166
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        12
+      ]
+    },
+    {
+      "reg": 1478,
+      "name": "LEPŠÍ SEVER",
+      "hash": "ufo-promost",
+      "short": "UFO+ProMOST",
+      "no": 42,
+      "coalition": [
+        1012,
+        1175
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        4
+      ]
     },
     {
       "reg": 156,
@@ -816,7 +1667,16 @@
         "regional": []
       },
       "logo": "/obecne/strany/loga/156-dsss.svg",
-      "color": "#113a96"
+      "color": "#113a96",
+      "no": 38,
+      "active": [
+        0,
+        1,
+        5,
+        8,
+        10,
+        12
+      ]
     },
     {
       "reg": 158,
@@ -944,7 +1804,15 @@
             ]
           }
         ]
-      }
+      },
+      "no": 7,
+      "active": [
+        0,
+        1,
+        4,
+        7,
+        11
+      ]
     },
     {
       "reg": 181,
@@ -1002,6 +1870,44 @@
       "color": "#a42978"
     },
     {
+      "reg": 210,
+      "name": "Koalice ODS a KDU-ČSL s podporou Soukromníků",
+      "hash": "kdu-csl-ods",
+      "short": "KDU-ČSL+ODS",
+      "no": 61,
+      "coalition": [
+        1,
+        53
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        3
+      ]
+    },
+    {
+      "reg": 227,
+      "name": "SPOLU PRO KRAJ - Osobnosti kraje, ČSSD a Zelení",
+      "hash": "cssd---zeleni",
+      "short": "ČSSD + Zelení",
+      "no": 4,
+      "coalition": [
+        5,
+        7
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        6
+      ]
+    },
+    {
       "reg": 24,
       "name": "Konzervativní strana",
       "short": "KONS",
@@ -1021,10 +1927,14 @@
     {
       "reg": 344,
       "name": "Koalice pro Pardubický kraj",
-      "short": "Koalice pro PaK",
-      "color": "#004588",
-      "logo": "/obecne/strany/loga/344-koalice-pro-pak.png",
-      "hash": "koalice-pro-pak",
+      "hash": "kdu-snked-nestr",
+      "short": "KDU+SNKED+Nestr",
+      "no": 17,
+      "coalition": [
+        1,
+        129,
+        181
+      ],
       "links": {
         "global": [
           "https://www.koalicepk.cz/",
@@ -1043,7 +1953,12 @@
             ]
           }
         ]
-      }
+      },
+      "color": "#004588",
+      "logo": "/obecne/strany/loga/344-koalice-pro-pak.png",
+      "active": [
+        7
+      ]
     },
     {
       "reg": 40,
@@ -1169,7 +2084,23 @@
             ]
           }
         ]
-      }
+      },
+      "no": 63,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 5,
@@ -1274,7 +2205,14 @@
             ]
           }
         ]
-      }
+      },
+      "no": 13,
+      "active": [
+        1,
+        3,
+        7,
+        8
+      ]
     },
     {
       "reg": 53,
@@ -1386,12 +2324,21 @@
             ]
           }
         ]
-      }
+      },
+      "no": 33,
+      "active": [
+        0,
+        1,
+        4,
+        5,
+        10,
+        11
+      ]
     },
     {
       "reg": 55,
       "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
-      "short": "Koruna Česká",
+      "short": "Monarchiste.cz",
       "color": "#9a26cc",
       "logo": "/obecne/strany/loga/55-koruna-ceska.png",
       "hash": "monarchiste-cz",
@@ -1407,7 +2354,50 @@
             "links": []
           }
         ]
-      }
+      },
+      "no": 68,
+      "active": [
+        2,
+        10
+      ]
+    },
+    {
+      "reg": 659,
+      "name": "STAN - Starostové a nezávislí společně s KOA, VPM Cheb a TOP 09",
+      "hash": "top-stan",
+      "short": "TOP+STAN",
+      "no": 62,
+      "coalition": [
+        166,
+        721
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        3
+      ]
+    },
+    {
+      "reg": 687,
+      "name": "Občanská demokratická strana s podporou TOP 09 a nezávislých starostů",
+      "hash": "ods-top-09",
+      "short": "ODS+TOP 09",
+      "no": 74,
+      "coalition": [
+        53,
+        721
+      ],
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        7
+      ]
     },
     {
       "reg": 7,
@@ -1517,7 +2507,20 @@
             ]
           }
         ]
-      }
+      },
+      "no": 45,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12
+      ]
     },
     {
       "reg": 703,
@@ -1542,12 +2545,16 @@
             ]
           }
         ]
-      }
+      },
+      "no": 20,
+      "active": [
+        5
+      ]
     },
     {
       "reg": 704,
       "name": "Severočeši.cz",
-      "short": "Severočeši.cz",
+      "short": "S.cz",
       "color": "#003664",
       "logo": "/obecne/strany/loga/704-severocesi.png",
       "hash": "s-cz",
@@ -1566,7 +2573,11 @@
             ]
           }
         ]
-      }
+      },
+      "no": 41,
+      "active": [
+        4
+      ]
     },
     {
       "reg": 714,
@@ -1606,7 +2617,13 @@
             ]
           }
         ]
-      }
+      },
+      "no": 71,
+      "active": [
+        0,
+        1,
+        4
+      ]
     },
     {
       "reg": 715,
@@ -1671,7 +2688,23 @@
             "links": []
           }
         ]
-      }
+      },
+      "no": 5,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 716,
@@ -1719,7 +2752,11 @@
             ]
           }
         ]
-      }
+      },
+      "no": 65,
+      "active": [
+        2
+      ]
     },
     {
       "reg": 720,
@@ -1845,7 +2882,22 @@
             ]
           }
         ]
-      }
+      },
+      "no": 19,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12
+      ]
     },
     {
       "reg": 721,
@@ -1967,8 +3019,48 @@
       "name": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
       "hash": "spr-rscms",
       "short": "SPR-RSČMS",
+      "no": 40,
+      "links": {
+        "global": [],
+        "regional": []
+      },
       "logo": "obecne/strany/loga/1125-spr-rsc.jpg",
-      "color": "#aaa"
+      "color": "#aaa",
+      "active": [
+        10,
+        11
+      ]
+    },
+    {
+      "reg": 74,
+      "name": "Levice",
+      "hash": "levice",
+      "short": "Levice",
+      "color": "#aaa",
+      "logo": "obecne/strany/loga/x-levice.png",
+      "no": 56,
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "active": [
+        9
+      ]
+    },
+    {
+      "reg": 747,
+      "name": "ZaRegion",
+      "hash": "zaregion",
+      "short": "ZaRegion",
+      "no": 75,
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "color": "#aaa",
+      "active": [
+        4
+      ]
     },
     {
       "reg": 753,
@@ -1997,11 +3089,19 @@
     },
     {
       "reg": 762,
-      "name": "Aliance národních sil",
-      "short": "Aliance NS",
-      "hash": "aliancens",
+      "name": "ALIANCE NÁRODNÍCH SIL",
+      "hash": "ans",
+      "short": "ANS",
+      "no": 43,
+      "links": {
+        "global": [],
+        "regional": []
+      },
       "color": "#9458fb",
-      "logo": "obecne/strany/loga/762-ans.png"
+      "logo": "obecne/strany/loga/762-ans.png",
+      "active": [
+        1
+      ]
     },
     {
       "reg": 766,
@@ -2026,7 +3126,11 @@
             ]
           }
         ]
-      }
+      },
+      "no": 80,
+      "active": [
+        1
+      ]
     },
     {
       "reg": 768,
@@ -2131,15 +3235,32 @@
             ]
           }
         ]
-      }
+      },
+      "no": 50,
+      "active": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 769,
-      "name": "STRANA KONZERVATIVNÍ PRAVICE S PODPOROU NEZÁVISLÝCH ODBORNÍKŮ",
+      "name": "Strana konzervativní pravice - Řád národa",
       "short": "SKP - ŘN",
+      "no": 2,
       "color": "#51f6ad",
       "logo": "obecne/strany/loga/769-SKP-RN.jpg",
-      "hash": "skp-rn",
+      "hash": "skp---rn",
       "links": {
         "global": [
           "https://www.skp-rn.cz",
@@ -2156,7 +3277,10 @@
             ]
           }
         ]
-      }
+      },
+      "active": [
+        3
+      ]
     },
     {
       "reg": 770,
@@ -2179,7 +3303,11 @@
             ]
           }
         ]
-      }
+      },
+      "no": 15,
+      "active": [
+        7
+      ]
     },
     {
       "reg": 771,
@@ -2230,10 +3358,32 @@
       }
     },
     {
+      "reg": 780,
+      "name": "Nová budoucnost pro Liberecký kraj",
+      "short": "NBPLK",
+      "color": "#72bf44",
+      "logo": "/obecne/strany/loga/780-nbplk.jpg",
+      "hash": "nbplk",
+      "links": {
+        "global": [
+          "https://www.facebook.com/NBPLK/"
+        ],
+        "regional": [
+          {
+            "region": 6,
+            "links": [
+              "https://www.facebook.com/NBPLK/"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "reg": 785,
       "name": "Zdraví Sport Prosperita",
-      "hash": "zdravi-sport-prosperita",
-      "short": "ZSP",
+      "hash": "pro-zdravi",
+      "short": "PRO Zdraví",
+      "no": 34,
       "links": {
         "global": [
           "https://www.zdravisportprosperita.cz",
@@ -2243,7 +3393,12 @@
         "regional": []
       },
       "logo": "/obecne/strany/loga/785-pro-zdravi-a-sport.jpg",
-      "color": "#539498"
+      "color": "#539498",
+      "active": [
+        3,
+        7,
+        9
+      ]
     },
     {
       "reg": 79,
@@ -2255,7 +3410,11 @@
         "regional": []
       },
       "logo": "/obecne/strany/loga/79-narodni-demokracie.png",
-      "color": "#4144b5"
+      "color": "#4144b5",
+      "no": 18,
+      "active": [
+        4
+      ]
     },
     {
       "reg": 795,
@@ -2313,7 +3472,16 @@
             ]
           }
         ]
-      }
+      },
+      "no": 22,
+      "active": [
+        0,
+        7,
+        9,
+        10,
+        11,
+        12
+      ]
     },
     {
       "reg": 88,
@@ -2345,34 +3513,24 @@
     {
       "reg": 98,
       "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
-      "short": "Volte pravý blok",
-      "hash": "volte-pravy-blok",
-      "color": "#aaa",
-      "logo": "obecne/strany/loga/98-pravy-blok.jpg"
-    },
-    {
-      "name": "Alternativa pro nezávislé kandidáty",
-      "short": "Alternativa",
-      "hash": "alternativa-pro-nezavisle-kandidaty",
-      "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg",
+      "hash": "pb",
+      "short": "PB",
+      "no": 67,
       "links": {
         "global": [],
         "regional": []
-      }
-    },
-    {
-      "name": "Alternativa pro nezávislé kandidáty 2020",
-      "short": "ApnK2020",
-      "hash": "alternativa-pro-nezavisle-kandidaty-2020",
-      "logo": "/obecne/strany/loga/x-alternativa-pro-nk.jpg",
-      "color": "#aaa"
-    },
-    {
-      "name": "Čistý kraj",
-      "hash": "cisty-kraj",
-      "short": "Čistý kraj",
-      "color": "#fb171b",
-      "logo": "obecne/strany/loga/x-cisty-kraj.jpg"
+      },
+      "active": [
+        0,
+        1,
+        6,
+        7,
+        8,
+        11,
+        12
+      ],
+      "color": "#aaa",
+      "logo": "obecne/strany/loga/98-pravy-blok.jpg"
     },
     {
       "name": "Fórum Jihlava",
@@ -2384,84 +3542,6 @@
           {
             "region": 9,
             "links": []
-          }
-        ]
-      }
-    },
-    {
-      "name": "Hnutí SOL",
-      "short": "Hnutí SOL",
-      "logo": "obecne/strany/loga/x-hnuti-sol.jpg",
-      "hash": "hnuti-sol",
-      "links": {
-        "global": [
-          "http://www.hnutisol.cz",
-          "https://www.facebook.com/hnutiSOL",
-          "https://www.instagram.com/hnutisol"
-        ],
-        "regional": [
-          {
-            "region": 10,
-            "links": [
-              "http://www.hnutisol.cz",
-              "https://www.facebook.com/hnutiSOL",
-              "https://www.instagram.com/hnutisol"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "name": "Idealisté",
-      "short": "Idealisté",
-      "color": "#00dcc2",
-      "logo": "obecne/strany/loga/x-idealiste.png",
-      "hash": "idealiste",
-      "links": {
-        "global": [],
-        "regional": [
-          {
-            "region": 3,
-            "links": []
-          },
-          {
-            "region": 10,
-            "links": []
-          }
-        ]
-      }
-    },
-    {
-      "name": "Levice",
-      "short": "Levice",
-      "color": "#111",
-      "logo": "obecne/strany/loga/x-levice.png",
-      "hash": "levice",
-      "links": {
-        "global": [],
-        "regional": []
-      }
-    },
-    {
-      "name": "Mladí pro Pardubický kraj",
-      "short": "MPK",
-      "color": "#00aef0",
-      "logo": "obecne/strany/loga/x-mladi-pro-pak.png",
-      "hash": "mladi-pro-pardubicky-kraj",
-      "links": {
-        "global": [
-          "https://mladidotoho.com/",
-          "https://www.facebook.com/mladidotoho/",
-          "https://www.instagram.com/mladidotoho/"
-        ],
-        "regional": [
-          {
-            "region": 8,
-            "links": [
-              "https://mladidotoho.com/",
-              "https://www.facebook.com/mladidotoho/",
-              "https://www.instagram.com/mladidotoho/"
-            ]
           }
         ]
       }
@@ -2519,21 +3599,6 @@
       }
     },
     {
-      "name": "Patrioti Olomouckého kraje",
-      "short": "Patrioti Olomouckého kraje",
-      "logo": "obecne/strany/loga/x-patrioti-olk.png",
-      "hash": "patrioti-olomouckeho-kraje",
-      "links": {
-        "global": [],
-        "regional": [
-          {
-            "region": 11,
-            "links": []
-          }
-        ]
-      }
-    },
-    {
       "name": "Pro Třebíč",
       "short": "Pro Třebíč",
       "hash": "pro-trebic",
@@ -2551,20 +3616,6 @@
       "name": "Sdružení pro Pardubice",
       "short": "Sdružení pro Pardubice",
       "hash": "sdruzeni-pro-pardubice",
-      "links": {
-        "global": [],
-        "regional": [
-          {
-            "region": 8,
-            "links": []
-          }
-        ]
-      }
-    },
-    {
-      "name": "Společně pro kraj",
-      "short": "Společně pro kraj",
-      "hash": "spolecne-pro-kraj",
       "links": {
         "global": [],
         "regional": [
@@ -2612,42 +3663,6 @@
           {
             "region": 6,
             "links": []
-          }
-        ]
-      }
-    },
-    {
-      "name": "VIZE - národní socialisté",
-      "short": "VIZENS",
-      "hash": "vize---narodni-socialiste",
-      "color": "#f81c1c",
-      "logo": "obecne/strany/loga/x-vize-narsoc.jpg",
-      "links": {
-        "global": [
-          "https://www.vizens.cz/",
-          "https://www.facebook.com/Vize-n%C3%A1rodn%C3%AD-socialist%C3%A9-109573630813341/"
-        ],
-        "regional": []
-      }
-    },
-    {
-      "name": "Volba pro kraj",
-      "short": "Volba",
-      "hash": "volba-pro-kraj",
-      "color": "#f9ae2e",
-      "logo": "/obecne/strany/loga/1118-vok-2.png",
-      "links": {
-        "global": [
-          "https://vok-volbaprokraj.cz/",
-          "https://www.facebook.com/volbaprokraj/"
-        ],
-        "regional": [
-          {
-            "region": 13,
-            "links": [
-              "https://vok-volbaprokraj.cz/",
-              "https://www.facebook.com/volbaprokraj/"
-            ]
           }
         ]
       }
@@ -2718,27 +3733,6 @@
           }
         ]
       }
-    },
-    {
-	  "reg": 780,
-	  "name": "Nová budoucnost pro Liberecký kraj",
-	  "short": "NBPLK",
-	  "color": "#72bf44",
-	  "logo": "/obecne/strany/loga/780-nbplk.jpg",
-	  "hash": "nbplk",
-	  "links": {
-	    "global": [
-	      "https://www.facebook.com/NBPLK/"
-	    ],
-	    "regional": [
-	      {
-	        "region": 6,
-	        "links": [
-	          "https://www.facebook.com/NBPLK/"
-	        ]
-	      }
-	    ]
-	  }
-	}
+    }
   ]
 }
