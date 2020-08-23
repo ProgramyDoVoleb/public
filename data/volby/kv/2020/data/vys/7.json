@@ -3,20 +3,269 @@
     {
       "name": "Jiří Běhounek",
       "reg": 7,
-      "links": [
-        {
-          "url": "https://www.cssd.cz/nasi-lide/jiri-behounek"
-        },
-        {
-          "url": "https://www.facebook.com/behounek.jiri"
-        }
-      ]
+      "about": "Je uznávaný lékař a oblíbený politik. Od roku 2008 je hejtmanem Kraje Vysočina, od roku 2013 pak zasedá v Poslanecké sněmovně PČR. Pod jeho vedením se Kraj Vysočina změnil v dobré místo pro život. Nejenže během finanční krize v roce 2009 investoval do rozvoje regionu, ale i v době koronavirové držel pevnou ruku nad řízením kraje. V současné době je pověřen také vedením Asociace krajů ČR. Je eOsobností roku 2017. Zastává názor, že nejlepší přístup státu k občanovi je přes sítě, co nejefektivnější."
+    },
+    {
+	    "name": "Vladimír Novotný",
+	    "reg": 7,
+	    "about": "Během své profesní kariéry se věnoval financím a řízení podniků. Je dlouholetým zastupitelem města Žďár nad Sázavou. Radním Kraje Vysočina je od roku 2008. Tehdy měl na starost finance a grantovou politiku. Vypořádat se tak musel s finanční krizí, ze které vyšel náš kraj jako vítěz. V současnosti řídí zdravotnictví. ",
+	    "quote": "Umíme našim lidem pomoci a být přitom zodpovědní."
+    },
+    {
+	    "name": "Tomáš Škaryd",
+	    "reg": 7,
+	    "about": "Působil jako radní Kraje Vysočina pro oblast kultury a cestovního ruchu, v současnosti je členem krajského zastupitelstva. Od roku 2002 je úspěšným starostou města Chotěboř. Město pod jeho rukama roste do krásy a žije se tu dobře všem generacím. Jeho zkušenosti se rozhodně neztratí.",
+	    "quote": "Bude se stavět a užitek z toho budeme mít všichni."
+    },
+    {
+	    "name": "Martin Hyský",
+	    "reg": 7,
+	    "about": "Od roku 2008 je členem Rady Kraje Vysočina, angažuje se také ve směřování města Jihlavy, kde je členem zastupitelstva. Ve vedení Kraje Vysočina byl odpovědný za regionální rozvoj a také územní plánování. V současnosti se zabývá lesním a vodním hospodářstvím, zemědělstvím a životní prostředím. Je známý tím, že se nikdy nevzdává. ",
+	    "quote": "Zase se to u nás zazelená."
+    },
+    {
+	    "name": "Jana Fialová",
+	    "reg": 7,
+	    "about": "Pracovala jako výrobní manažerka, vedoucí marketingu a propagace, učitelka či jako odborná asistentka. Zastávala také post starostky obce Bransouze. Již osm let je radní Kraje Vysočina pro oblast školství, mládeže a sportu. Výsledkem je, že školství na Vysočině šlape na jedničku a mnohými je dáváno ostatním za vzor. ",
+	    "quote": "Dobré vzdělání je základ."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.420Z",
   "data": "vys/7",
   "reg": 7,
-  "program": {},
+  "program": {
+	  "source": "https://drive.google.com/file/d/1Wqnnz_IPPVjwftcHeKarno9EK6Mjxknp/view?usp=sharing",
+	  "parts": [
+		  {
+			  "headline": "Desatero pro spokojený život na Vysočině",
+			  "list": [
+				"Nepřipustíme zadlužení příštích generací",
+				"Zajistíme rozvoj sociálních služeb",
+				"Udržíme dostupné zdravotnictví",
+				"Vrátíme lesy do krajiny a vodu do studní",
+				"S námi budete jezdit po silnicích bez výmolů a spoji bez zpoždění",
+				"Budeme mít dobré školy a šikovné absolventy",
+				"Podpoříme kulturu a cestovní ruch",
+				"Fandíme městům, obcím, podnikání a lidské síle",
+				"Umíme řádně pečovat o veřejný majetek",
+				"Budeme pokračovat v modernizaci"
+			  ]
+		  },		  
+		  {
+		    "headline": "Nepřipustíme zadlužení příštích generací",
+		    "parts": [
+		      {
+		        "copy": "ČSSD dokázala i přes hospodářskou krizi udržet 12 letvyrovnaný rozpočet. Investovali jsme přitom ve velkém. Díky tomu nikdo nezůstal na dlažbě. V nakládání s veřejnými penězi je Vysočina dávána za vzor, jak se to má dělat. Zvládli jsme jednu krizi, zvládneme i druhou!"
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "V první řadě musíme rozpočtovat reálně - každá investice musí být obhájena. Musíme mít jasnou představu, jak moc zatíží rozpočet.",
+		          "Úvěrů se nebojíme. Ale jen když slouží na dofinancování strategických aktivit kraje. Nesmíme si půjčovat na spotřebu.",
+		          "Nejdůležitější je absolutní otevřenost hospodaření. Účty nejsou žádné čáry. Na krajské peníze musí být i nadále vidět.",
+		          "Chceme efektivně řídit příspěvkové organizace. I ony musí být zcela transparentní.",
+		          "Posílíme komunikaci s podnikatelskými subjekty a zástupci zaměstnanců."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Zajistíme rozvoj sociálních služeb",
+		    "parts": [
+		      {
+		        "copy": "ČSSD dobře chápe zásadní společenské změny, nárůst chronických nemocí, prodlužování lidského života. A právě proto zajistila nové služby, díky kterým je postaráno o všechny, kdo to potřebují. Odpovídá tomu i péče o lidi s postižením, seniory a umírající."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Masivní výstavba domovů pro seniory a domovů pro osoby se zdravotním postižením.",
+		          "Efektivní krajská síť sociálních služeb s minimálně tříletým financováním.",
+		          "Podpora rodinné politiky kraje a rozvoj náhradní rodinné péče; podpoříme další modernizaci a rozšiřování sítě sociálních služeb pro jednotlivé skupiny obyvatel, zejména pak v péči o fungující rodinu.",
+		          "Zavedeme dlouhodobou péči o staré, nemocné a handicapované, propojíme zdravotní a sociální služby.",
+		          "Zasadíme se o minimálně 10 % navýšení reálných platů všech pracovníků v sociálních službách."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Udržíme dostupné zdravotnictví",
+		    "parts": [
+		      {
+		        "copy": "ČSSD zvýšila investice do nemocnic a zmodernizovala je. Zároveň jsme zamezili snahám o jejich privatizaci. Podařilo se nám také udržet kvalifikovaný personál v bílých pláštích. Lidé se také nemusí bát, že by sanitka nepřijela včas."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Nové investice především do přístrojového vybavení a následné zdravotní péče",
+		          "Zachování akutní péče ve všech nemocnicích zřizovaných krajem.",
+		          "Posílení spolupráce nemocnic a udržení ekonomické stability všech zařízení.",
+		          "Stabilizace personálního obsazení v nemocnicích pomocí rozumného růstu mezd, motivačních příspěvků a stipendií.",
+		          "Budeme dbát na to, aby byla péče dostupná i ve venkovských oblastech. Podpoříme zachování a vznik nových stomatologických ordinací a praxí obvodních lékařů.",
+		          "Zvláštní programy podpory zajistíme i pro specialisty.",
+		          "Budeme spolupracovat na transformaci psychiatrické péče.",
+		          "Podpoříme nová řešení komplexní paliativní péče.",
+		          "Připravíme koncepci sociálně zdravotního pomezí.",
+		          "Budeme dále rozvíjet Integrovaný záchranný systém."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Vrátíme lesy do krajiny a vodu do studní",
+		    "parts": [
+		      {
+		        "copy": "ČSSD se podařilo zmírnit důsledky kůrovcové kalamity a sucha v regionu. Vlastníci lesů dostali peníze na jejich obnovu, v obcích se budují nové vodovody a také kanalizační sítě. Velké pomoci se rovněž těší zemědělci a lidé na venkově nejsou odsunuti na druhou kolej."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Podpoříme snižování emisí u zdrojů znečišťování. Zajistíme zlepšení kvality ovzduší v obcích.",
+		          "Budeme pokračovat v monitoringu ovzduší nad rámec státních sítí.",
+		          "Musíme pečovat o chráněná území. Ochráníme krajinný ráz a půdní fond.",
+		          "Chceme přísnou regulaci větrných a fotovoltaických elektráren. Potřebná je i optimalizace bioplynových stanic.",
+		          "Zachováme vysokou jakost pitné vody pro obyvatele. Mimořádnou pozornost budeme věnovat vodním nádržím Švihov a Vír.",
+		          "Podpoříme udržitelné hospodaření v lesích a Intenzivní péči o zvěř, a to mimo jiné i ve spolupráci s myslivci.",
+		          "Podpoříme mnohem více agrární sektor a tradiční zemědělství. Budeme rozvíjet výstupy z Memoranda o spolupráce s Agrární komorou ČŘ",
+		          "Aktivní se budeme účastnit na podpoře nových směrů v odpadovém hospodářství.",
+		          "Podpoříme ochranu vody a jejího zadržování v krajině, včetně efektivního čištění odpadních vod.",
+		          "Zlepšíme ochranu vodárenských nádrží a jejich povodí. Uvědomujeme si podíl kraje na ceně vody. Proto podpoříme budování vodovodních a kanalizačních sítí pro veřejnou potřebu.",
+		          "Zvláštní pozornost budeme věnovat zvyšování kvality povrchové vody v řece Jihlavě a jejím povodí, včetně vodní nádrže Dalešice v souvislosti s možností dalšího rozvoje elektrárny Dukovany.",
+		          "Podpoříme další rozvoj jaderné energetiky.",
+		          "Přijdeme s novými programy propagace potravin vyrobených v regionu. Potřebujeme posílit spotřebu domácí produkce.",
+		          "Podpoříme mimo jiné včelaře, chovatele, zahrádkáře, myslivce a další spolky na našem venkově."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "S námi budete jezdit po silnicích bez výmolů a spoji bez zpoždění",
+		    "parts": [
+		      {
+		        "copy": "Snad každý si musel všimnout, že ČSSD dokázala protlačit obrovské investice na modernizaci a rekonstrukci silnic II. a III. třídy. Opravili jsme nejeden most, vybudovali důležité obchvaty měst a obcí, díky čemuž si mnozí lidé oddechli. Konečně se o integrovaném dopravním systému jen nemluví, ale realizuje se v praxi ve formě Veřejné dopravy Vysočiny."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Je nutné ještě zvýšit investice do modernizace a rekonstrukce silnic II. a III. tříd. K tomu zajistíme maximální využívání evropských dotací.",
+		          "Budeme investovat do zvýšení bezpečnosti silničního provozu.",
+		          "Důležité je vážení kamionů na silnicích a omezení transitní těžké nákladní dopravy na vybraných úsecích silnic II. a III. tříd, včetně mýtného na vybraných silnicích kraje.",
+		          "Podporujeme konceptu Smart City v oblasti dopravy, zavádění moderní telematiky a propojení s agendou Smart Region.",
+		          "Přidáme ve výstavbě obchvatů obcí enormně zatížených transitní dopravou.",
+		          "Budeme pokračovat v zavádění Veřejné dopravy Vysočiny. Cílem je zajištění kvalitní veřejné dopravy ve všech koutech kraje a optimalizace dopravní obslužnosti."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Budeme mít dobré školy a šikovné absolventy",
+		    "parts": [
+		      {
+		        "copy": "ČSSD si je dobře vědoma, že pro budoucnost našeho kraje je určující kvalitní školství. Základem jsou tak dobré školy a šikovní absolventi. Všimli jste si, že jsme se pustili do velké modernizace všech typů škol? Nejlepší žáci a studenti díky tomu získávají prospěchová stipendia. Cílíme na podporu technického vzdělávání. To zaručí absolventům uplatnění. Nechceme totiž fronty na úřadech práce."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Podpoříme technické a přírodovědné vzdělávání ve všech úrovních. Zajistíme funkční systém motivačních stipendií ve vybraných oborech.",
+		          "Více se zaměříme na tvořivost a zručnost v základních školách. Navážeme na jedinečný přístup kraje právě k těmto školám, které zřizují města a obce.",
+		          "Budeme pokračovat ve spolupráci s firmami. To přináší originální a atraktivní projekty v rámci studia.",
+		          "Přinesli jsme vysokou investiční podporu, z fondů EU. Na vybavení škol a výstavbu areálů je to přes 300 mil Kč. V tom stojí za to pokračovat.",
+		          "Skvělá je i mezinárodní spolupráce. Třeba výměnné stáže studentů i pedagogů v rámci partnerských regionů v Evropě, podpora sportu prostřednictvím krajských center talentované mládeže nebo další inovativní projekty.",
+		          "Přizpůsobíme kapacity středních škol počtu žáků a díky efektivnější koncentraci veřejných prostředků v odborných centrech budeme pružněji reagovat na poptávku po atraktivních oborech"
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Podpoříme kulturu a cestovní ruch",
+		    "parts": [
+		      {
+		        "copy": "Rozvoj cestovního ruchu, péče o kulturní památky, kulturní život - to jsou vizitky našeho kraje a života našich občanů. V posledních letech dokázala ČSSD zvýšit počet návštěvníků našeho kraje, zvelebila a opravila mnoho kulturních památek a podpořila kulturní akce v celém kraji."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Podpoříme dalšíprojekty financované z evropských fondů.",
+		          "Pomůžeme zájemcům o získání finančních prostředků z nových výzev FM EHP/Norsko.",
+		          "Připravíme aktualizaci koncepčních materiálů a metodických pokynů na úseku kultury, památkové péče a cestovního ruchu.",
+		          "Trváme na odpovědném a systémovém řízení příspěvkových organizací.",
+		          "Budeme zavádět nové technologie v příspěvkových organizacích na úseku kultury.",
+		          "Přidáme v úsilí o zachování bohatého kulturního dědictví.",
+		          "Podpoříme jeho obnovu i rozvoj regionální kultury.",
+		          "Rozjedeme nové dotační tituly na úseku kultury a památkové péče. Posílíme spolupráci s obcemi i soukromníky a organizacemi.",
+		          "Naší vizitkou je prezentace kulturních památek a jedinečného kulturního bohatství kraje v ČR i v zahraničí, například na veletrzích nebo při českých i zahraničních výstavních projektech.",
+		          "Podpoříme inovativní a originální projekty na podporu cestovního ruchu. Budeme atraktivně a vtipně prezentovat Kraj Vysočina na veletrzích cestovního ruchu.",
+		          "Zaměříme se i na podporu regionálních potravin, řemesel a specialit."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Fandíme městům, obcím, podnikání a lidské síle",
+		    "parts": [
+		      {
+		        "copy": "ČSSD vždy stála za venkovem, který neodmyslitelně patří k Vysočině. Život se tu daří rozvíjet například díky našemu úspěšnému čerpání evropských peněz. Na venkově se tak nejen staví a opravuje ve velkém, ale také se daří udržet služby. Funguje například krajský program na udržení prodejen potravin v menších obcích. Stěžejní pro budoucnost kraje je pak výstavba pátého bloku Jaderné elektrárny Dukovany, kterou dlouhodobě podporujeme."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Posílíme dotační politiku kraje. Zaměříme se na systematickou podporu měst a obcí v regionu. Každoročně podrobně a komplexně vyhodnotíme potřeby území. Chceme skutečně účinně podpořit zachování a rozvoj nebo i doplnění potřebných služeb.",
+		          "Navážeme na úspěšnou podporu Programu obnovy venkova, Fondu Vysočiny,",
+		          "Místních akčních skupin a místní Agendy 21",
+		          "Vyhodnotíme a dále zlepšíme systémové řízení nových nástrojů - Krajský akční plán,",
+		          "Místní akční plány, Pakt zaměstnanosti, Smart akcelerátor apod.",
+		          "Budeme pravidelně aktualizovat Regionálního akční plán pro území Kraje Vysočina.",
+		          "Využití mezinárodní vztahy, kontakty a naše mnohaleté zkušenosti.",
+		          "Zajistíme atraktivní a dobře zorganizované podnikatelské mise.",
+		          "Máme Regionální inovační strategii Kraje Vysočina. Ta zajistí tolik potřebnou podporu technologií s vysokou přidanou hodnotou. Víme jak pomoci modernizaci ekonomiky v našem kraji.",
+		          "Připravíme kraj na programovací období 2020+ s důrazem na regionální dimenzi",
+		          "Zajistíme naplnění územní energetické koncepce Kraje Vysočina a efektivní spolupráce s územními partnery (nestátní neziskový sektor, podnikatelský sektor, veřejná správa)."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Umíme řádně pečovat o veřejný majetek",
+		    "parts": [
+		      {
+		        "copy": "ČSSD každoročně investovala nemalé částky do majetku kraje. Prokoukly nemocnice, domovy důchodců, silnice a spoustu dalšího. Nerozhazovali jsme však bezhlavě. I přes finanční krizi, kdy bylo třeba mnohé zachránit díky krajským penězům, jsme za 12 let dokázali uspořit téměř 1,5 miliardy na další investice."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+		          "Zodpovědným rozpočtováním udržíme fond strategických rezerv naplněný dost na to, abychom mohli dále investovat. A to i bez podpory z EU.",
+		          "Maximálně využijeme různých možností dotačních projektů a programů mimo rozpočet kraje (stát, PPP projekty, EU, Norské fondy…)",
+		          "Zavedeme aplikaci pro střednědobé plánování investic. Zajistíme zodpovědný přístup k prioritám v oblasti péče o nemovitý majetek kraje a jeho další rozvoj.",
+		          "Každý ví, že nám záleží na kvalitní majetkoprávní přípravě dopravních staveb a investic do nemovitého majetku. Jen tak si můžeme být jisti, že s Vašimi penězi nakládáme skutečně odpovědně.",
+		          "Dokončení velké investice v oblasti zdravotnictví (nemocnice Třebíč, Pelhřimov, Nové Město na Moravě)",
+		          "Připravíme nové investice do efektivnějšího a úsporného provozu krajských budov - zateplování, pasivní domy.",
+		          "Budeme modernizovat školní budovy, zejména v centrech odborného vzdělávání. Zkvalitníme infrastrukturu krajských příspěvkových organizací v oblasti kultury a cestovního ruchu.",
+		          "Zaměříme se na kvalitní přípravu projektů do Integrovaného regionálního operačního programu II."
+		        ]
+		      }
+		    ]
+		  },
+		  {
+		    "headline": "Budeme pokračovat v modernizaci",
+		    "parts": [
+		      {
+		        "copy": "ČSSD dala zelenou technologiím. Fandili jsme a nadále fandíme elektronizaci. Daří se nám to například ve zdravotnictví. Je skvělé sledovat, jak to zlepšuje péči o pacienty. Sázíme přitom na zahraniční spolupráci a mnozí naši lidé se učí od těch nejlepších. Užitek z toho mají všichni. Vyřizování úředních věcí postupně přesouváme na internet, vytváříme mobilní aplikace, budujeme datové sklady."
+		      },
+		      {
+		        "headline": "Jak na to?",
+		        "list": [
+			        "Spolupracujeme s vyspělými zeměmi, kde nacházíme inspiraci",
+			        "Podpoříme rozvoj služeb. Zaměříme se na oblast eGovernmentu, na eParticipation a eInclusion.",
+			        "Zmodernizujeme technologické centrum a jeho služby. Budeme rozvíjetsíť Rowanet.",
+			        "Naší prioritou jsou znalostní systémy a podpora rozhodování - datové sklady a geoinformatika.",
+			        "Úspěch slaví elektronické služby ve zdravotnictví, kultuře a cestovním ruchu. Je však potřeba větší důraz na bezpečnost informačních akomunikačních technologií.",
+			        "Budeme pokračovat pv podpoře mobilních aplikací a mobilních ICT služeb veřejné správy. Zajistíme efektivní systémy řízení spotřeby energií.",
+			        "Obrovské příležitosti vidíme v rozvojových projektech IoT a eHealth."
+		        ]
+		      }
+		    ]
+		  }
+	  ]
+  },
   "links": [
     "http://kraj-vysocina.cssd.cz",
     "https://www.facebook.com/uspesnykraj/",
@@ -35,7 +284,28 @@
       "links": [
         "https://www.cssd.cz/nasi-lide/jiri-behounek",
         "https://www.facebook.com/behounek.jiri"
-      ]
+      ],
+      "photo": "jiri-behounek-7.jpg"
+    },
+    {
+	    "nameFull": ["Ing.", "Vladimír", "Novotný", ""],
+	    "sex": 1, "reg": 7,
+	    "photo": "vladimir-novotny-7.jpg"
+    },
+    {
+	    "nameFull": ["Ing.", "Tomáš", "Škaryd", ""],
+	    "sex": 1, "reg": 7,
+	    "photo": "tomas-skaryd-7.jpg"
+    },
+    {
+	    "nameFull": ["Ing. Bc.", "Martin", "Hyský", ""],
+	    "sex": 1, "reg": 7,
+	    "photo": "martin-hysky-7.jpg"
+    },
+    {
+	    "nameFull": ["Ing.", "Jana", "Fialová", "MBA"],
+	    "sex": 2, "reg": 7,
+	    "photo": "jana-fialova-7.jpg"
     }
   ],
   "name": "Česká strana sociálně demokratická",

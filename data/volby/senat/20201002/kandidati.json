@@ -123,7 +123,7 @@
       "links": [
         "vladimir@vdrapal.cz",
         "https://www.vdrapal.cz/",
-        "https://www.facebook.com/VladimirDrapalLouny/",
+        "https://m.facebook.com/DrapalDoSenatu/",
         "https://www.top09.cz/volby/2020-senat/vladimir-drapal-27465.html",
         "https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Dr%C3%A1pal_(galerista)",
         "https://www.youtube.com/channel/UCseX18ktPIKpXDJxkcp0GuA?view_as=subscriber"
@@ -375,7 +375,7 @@
       "member": 720,
       "nominee": 720,
       "color": "#000",
-      "photo": "michal-horak.jpg"
+      "photo": "michal-horak-2.jpg"
     },
     {
       "name": [
@@ -493,7 +493,7 @@
         "https://www.milan-stech.cz/",
         "https://www.senat.cz/senatori/index.php?par_3=15",
         "https://www.cssd.cz/nasi-lide/milan-stech/",
-        "https://cs-cz.facebook.com/stechmilan/",
+        "https://www.facebook.com/stechmilan/",
         "https://www.hlidacstatu.cz/osoba/milan-stech",
         "https://cs.wikipedia.org/wiki/Milan_%C5%A0t%C4%9Bch"
       ],
@@ -614,7 +614,7 @@
       "nominee": 720,
       "color": "#000",
       "photo": "simona-luftova.jpg",
-      "work": "politoložka a učitelka"
+      "work": "středoškolská učitelka a projektová manažerka"
     },
     {
       "name": [
@@ -853,7 +853,8 @@
       ],
       "reg": 24,
       "links": [
-        "eduard@stehlik.army",
+        "info@eduardstehlik.eu",
+        "https://www.eduardstehlik.eu/",
         "https://www.facebook.com/plk.stehlik/",
         "https://cs.wikipedia.org/wiki/Eduard_Stehl%C3%ADk"
       ],
@@ -866,7 +867,8 @@
       "member": 99,
       "nominee": 99,
       "color": "#fec92f",
-      "photo": "eduard-stehlik.jpg"
+      "photo": "eduard-stehlik.jpg",
+      "program": "https://eduardstehlik.eu/programove-priority/"
     },
     {
       "name": [
@@ -1273,7 +1275,8 @@
       "member": 1227,
       "nominee": 1227,
       "color": "#2b3acc",
-      "work": "docent ekonomie na ČVUT"
+      "work": "docent v oboru Technologie a management dopravy, vysokoškolský učitel",
+      "photo": "zdenek-riha.jpg"
     },
     {
       "name": [
@@ -1388,6 +1391,10 @@
       ],
       "reg": 36,
       "links": [
+	      "info@jirivosecky.cz",
+	      "https://www.jirivosecky.cz/",
+	      "https://www.facebook.com/senatorvosecky/",
+	      "https://www.instagram.com/jiri_vosecky/",
         "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Voseck%C3%BD"
       ],
       "support": [
@@ -1396,7 +1403,8 @@
       ],
       "color": "#1ebdb7",
       "photo": "jiri-vosecky.jpg",
-      "work": "úřadující senátor, zastupitel obce Okrouhlá, bývalý sklář"
+      "work": "úřadující senátor, zastupitel obce Okrouhlá, bývalý sklář",
+      "program": "https://www.jirivosecky.cz/me-priority"
     },
     {
       "name": [
@@ -1461,14 +1469,15 @@
       ],
       "reg": 39,
       "links": [
-				"http://www.jansobotka.cz",
+		"https://www.jansobotka.cz/",
         "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/sobotka-jan",
         "https://www.facebook.com/jansobotkavrchlabi",
         "https://cs.wikipedia.org/wiki/Jan_Sobotka_(sen%C3%A1tor)"
       ],
       "support": [
         166,
-				720
+		720,
+		721
       ],
       "color": "#1ebdb7",
       "photo": "jan-sobotka.jpg",
@@ -1813,8 +1822,8 @@
         716
       ],
       "color": "#2b3acc",
-      "work": "pořadatel motocyklistických akcí v regionu",
-      "photo": "petr-brabnik.jpg"
+      "work": "OSVČ v oblasti pojišťovnictví na pozici vedoucí obchodní skupiny",
+      "photo": "petr-brabnik-2.jpg"
     },
     {
       "name": [
@@ -2045,7 +2054,8 @@
         "mistostarosta@zdarns.cz",
         "https://josefklement.wordpress.com/",
         "https://www.zdarns.cz/samosprava/starosta-mistostarosta",
-        "https://www.facebook.com/ingjosefklement/"
+        "https://www.facebook.com/ingjosefklement/",
+        "https://www.kduvysocina.cz/index.php/kandidatem-ve-volebnim-obvodu-zdar-nad-sazavou-je-josef-klement"
       ],
       "photo": "josef-klement.jpg"
     },
@@ -2162,6 +2172,7 @@
       "support": [
         7
       ],
+      "member": 99,
       "color": "#f59231",
       "work": "zastupitel Jihomoravského kraje, starosta města Znojmo, podnikatel v oblasti gastronomie a služeb"
     },
@@ -2451,14 +2462,10 @@
       "reg": 60,
       "links": [],
       "support": [
-        1227,
-				{
-					"name": "Slušní lidé",
-					"logo": "obecne/strany/loga/x-slusnilide.jpg"
-				}
+        1227
       ],
       "color": "#2b3acc",
-			"motto": "Před nikým si klekat nebudu!"
+	  "motto": "Před nikým si klekat nebudu!"
     },
     {
       "name": [
@@ -2677,18 +2684,22 @@
       "reg": 66,
       "links": [
         "frantisek.john@post.cz",
+        "https://www.frantisekjohn.cz/senat.html",
         "https://frantisekjohn.webnode.cz/",
         "https://www.facebook.com/frantisek.john/",
         "https://twitter.com/johnyfrantisek",
         "https://www.instagram.com/frantisekjohn/"
       ],
       "support": [
-        1
+        1,
+        5,
+        721
       ],
       "work": "starosta města Zábřeh, ekolog a environmentalista",
       "member": 1,
       "nominee": 1,
-      "color": "#fec92f"
+      "color": "#fec92f",
+      "program": "https://www.frantisekjohn.cz/senat.html"
     },
     {
       "name": [
@@ -3156,22 +3167,29 @@
         ""
       ],
       "reg": 75,
-      "links": [
-				"cerninova@seznam.cz",
-        "https://www.facebook.com/CerninovaZdena/",
-        "https://www.facebook.com/profile.php?id=100014109816780",
-        "https://www.instagram.com/zdena3375/"
-      ],
       "support": [
         47
       ],
-      "work": "majitelka první soukromé pohřební služby v Karviné",
-      "member": 47,
+      "member": 99,
       "nominee": 47,
       "color": "#eb343f",
-			"photo": "zdena-cerninova.jpg",
-			"motto": "Karviná a okolí si zaslouží více pozornosti",
-			"program": "https://drive.google.com/file/d/1zSOcJ4VFIUhPMOwWwjrb4F_AIc1721f2/view?usp=sharing"
+      "photo": "zdena-cerninova-2.jpg",
+      "work": "podnikatelka",
+      "links": [
+	      "http://zdenacerninova.cz/"
+      ],
+		"del": {
+			"links": [
+				"cerninova@seznam.cz",
+				"https://www.facebook.com/CerninovaZdena/",
+				"https://www.facebook.com/profile.php?id=100014109816780",
+				"https://www.instagram.com/zdena3375/"
+			],
+			"photo_x": "zdena-cerninova.jpg",
+			"motto_x": "Karviná a okolí si zaslouží více pozornosti",
+			"program_x": "https://drive.google.com/file/d/1zSOcJ4VFIUhPMOwWwjrb4F_AIc1721f2/view?usp=sharing",
+			"work_x": "majitelka první soukromé pohřební služby v Karviné"
+		}
     },
     {
       "name": [
@@ -3409,7 +3427,8 @@
       "color": "#f59231",
       "work": "bývalý poslanec PČR a radní města Uherské Hradiště, letecký konstruktér a technik",
 			"motto": "loajalita nade vše kromě cti",
-			"photo": "antonin-seda.jpg"
+			"photo": "antonin-seda-2.jpg",
+			"program": "https://drive.google.com/file/d/1KegWBSdi8K5oc0xnTTiAYHXA7BEapta7/view?usp=sharing"
     },
     {
       "name": [
@@ -3516,7 +3535,7 @@
       "support": [
         768
       ],
-      "member": 768,
+      "member": 99,
       "work": "zastupitel Ústeckého kraje, radní města Děčín, ekonom",
 			"photo": "jiri-andel.jpg"
     },
@@ -3890,27 +3909,6 @@
     {
       "name": [
         "",
-        "Radek",
-        "Iwoniak",
-        ""
-      ],
-      "reg": 72,
-			"member": 99,
-      "links": [
-				"radek.iwoniak@penezowski.cz",
-				"https://www.penezowski.cz/volby.php",
-				"https://www.facebook.com/Radek-Iwoniak-109134884166387",
-				"https://www.facebook.com/radek.iwoniak.9",
-				"https://twitter.com/riwoniak",
-				"https://www.instagram.com/radekiwoniak/",
-				"https://www.youtube.com/channel/UClRLnuGanNYGlM81bAoD-1Q"
-			],
-      "support": [],
-			"program": "https://www.penezowski.cz/volby-senat-2020-program.php"
-    },
-    {
-      "name": [
-        "",
         "Radomír",
         "Prus",
         ""
@@ -3977,7 +3975,8 @@
 				"https://www.facebook.com/igor.indrak.9"
 			],
       "support": [],
-			"program": "https://www.igorindrak.cz/moje-sluzby/"
+			"program": "https://www.igorindrak.cz/moje-sluzby/",
+			"photo": "igor-indrak.jpg"
     },
     {
       "name": [
@@ -4335,8 +4334,12 @@
         ""
       ],
       "reg": 66,
-      "links": [],
-      "support": [1177]
+      "links": [
+	      "antonin.baudys@hnuticesta.cz",
+	      "https://www.antoninbaudys.cz/"
+      ],
+      "support": [1177],
+      "program": "https://www.antoninbaudys.cz/"
     },
     {
       "name": [
@@ -4416,6 +4419,243 @@
       "reg": 75,
       "links": [],
       "support": [1118]
+    },
+    {
+      "name": [
+        "",
+        "Jiří",
+        "Sedláček",
+        ""
+      ],
+      "reg": 3,
+      "links": [],
+      "support": [
+        1227
+      ],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Jan Michael",
+        "Kubín",
+        ""
+      ],
+      "reg": 21,
+      "links": [
+	      "jan.kubin@hnuticesta.cz",
+	      "https://www.janmichaelkubin.cz/"
+      ],
+      "support": [
+        1177
+      ],
+      "color": "#aaa",
+      "program": "https://www.janmichaelkubin.cz/"
+    },
+    {
+      "name": [
+        "",
+        "Jiří",
+        "Sedláček",
+        ""
+      ],
+      "reg": 3,
+      "links": [],
+      "support": [
+        1227
+      ],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Marel",
+        "Anděl",
+        ""
+      ],
+      "reg": 12,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Oldřich",
+        "Duchoň",
+        ""
+      ],
+      "reg": 60,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Lubomír",
+        "Kuzník",
+        ""
+      ],
+      "reg": 75,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Vladimír",
+        "Navara",
+        ""
+      ],
+      "reg": 33,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Michal",
+        "Oliva",
+        ""
+      ],
+      "reg": 60,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Ladislav",
+        "Pavlíček",
+        ""
+      ],
+      "reg": 24,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Daniel",
+        "Pítek",
+        ""
+      ],
+      "reg": 6,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Jaroslav",
+        "Pollák",
+        ""
+      ],
+      "reg": 63,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Jiří",
+        "Sapeta",
+        ""
+      ],
+      "reg": 72,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Petr",
+        "Skokan",
+        ""
+      ],
+      "reg": 36,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Miroslav",
+        "Šobr",
+        ""
+      ],
+      "reg": 60,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Radoslav",
+        "Štědroň",
+        ""
+      ],
+      "reg": 75,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Vladimíra",
+        "Vítová",
+        ""
+      ],
+      "reg": 24,
+      "links": [
+	      "https://www.facebook.com/Vladim%C3%ADra-V%C3%ADtov%C3%A1-kandid%C3%A1tka-do-Sen%C3%A1tu-Praha-9-2020-107004851119987/"
+      ],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Oldřich",
+        "Duchoň",
+        ""
+      ],
+      "reg": 60,
+      "member": 99,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
+    },
+    {
+      "name": [
+        "",
+        "Naděžda",
+        "Zímová",
+        ""
+      ],
+      "reg": 30,
+      "links": [],
+      "support": [],
+      "color": "#aaa"
     }
   ],
   "current": [
@@ -4574,7 +4814,7 @@
       "name": [
         "",
         "Jan",
-        "Sobotka",
+        "sovo",
         ""
       ],
       "member": 99,

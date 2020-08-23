@@ -1,7 +1,9 @@
 {
   "people": [
     {
-      "name": "Michal Červenka"
+      "name": "Michal Červenka",
+      "quote": "Nerad věci vzdávám a nesnáším slovní spojení, že něco nemá cenu. Rotava se stala odepsaným městem, které během deseti let přišlo o stovky obyvatel a špatná pověst ho předcházela. To se mění. To samé platí pro náš kraj. Nedoceněný. Kvůli velikosti a počtu obyvatel přehlížený. Se svými specifickými problémy a pocitem lidí, že nejsou důležití. Každý poctivý člověk, každá rodina, v našem kraji jsou důležití a já jsem připravený to dokázat.",
+      "about": "Pocházím z učitelské rodiny. Táta, maminka, babičky, děda, sestra. Ti všichni byli nebo jsou učiteli. Odmala jsem byl veden k tomu, abych ctil a udržoval vztah k místům a lidem, které potkávám na cestě životem. K rodné Rotavě, městu se třemi tisíci obyvatel, kde sami učili několik generací. Hlavní byl samozřejmě domov. A to nejenom rodina, ale i kraj. Být prospěšný druhým, to ti přinese největší radost, říkala babička. Od základní školy jsem se tak angažoval nejenom v žákovských samosprávách, a to mě provází celý život."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.346Z",
@@ -17,7 +19,10 @@
         ""
       ],
       "sex": 1,
-      "reg": 7
+      "reg": 7,
+      "links": [
+	      "https://www.cssd.cz/nasi-lide/michal-cervenka/"
+      ]
     }
   ],
   "name": "Česká strana sociálně demokratická",

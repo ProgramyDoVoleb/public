@@ -56,17 +56,17 @@
       "links": []
     },
     {
-      "name": "Luděk Beran",
-      "reg": 769,
-      "links": []
-    },
-    {
-      "name": "Miroslav Šůs",
+      "name": "Miroslav Ponert",
       "reg": 769,
       "links": []
     },
     {
       "name": "Věra Blechová",
+      "reg": 769,
+      "links": []
+    },
+    {
+      "name": "Luděk Beran",
       "reg": 769,
       "links": []
     }
@@ -95,7 +95,8 @@
         "https://www.facebook.com/profile.php?id=100010051891861",
         "https://twitter.com/JosefZickler",
         "https://www.instagram.com/josefzickler"
-      ]
+      ],
+      "photo": "josef-zickler-769.jpg"
     },
     {
       "nameFull": [
@@ -105,27 +106,19 @@
         ""
       ],
       "sex": 2,
-      "reg": 769
+      "reg": 99,
+      "photo": "radka-kvasnickova-769.jpg"
     },
     {
       "nameFull": [
-        "Ing.",
-        "Luděk",
-        "Beran",
-        ""
-      ],
-      "sex": 1,
-      "reg": 769
-    },
-    {
-      "nameFull": [
-        "Ing. Mgr.",
+        "",
         "Miroslav",
-        "Šůs",
+        "Ponert",
         ""
       ],
       "sex": 1,
-      "reg": 769
+      "reg": 99,
+      "photo": "miroslav-ponert-769.jpg"
     },
     {
       "nameFull": [
@@ -135,13 +128,25 @@
         ""
       ],
       "sex": 2,
-      "reg": 769
+      "reg": 99,
+      "photo": "vera-blechova-769.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
+        "Luděk",
+        "Beran",
+        ""
+      ],
+      "sex": 1,
+      "reg": 99,
+      "photo": "ludek-beran-769.jpg"
+    },
+    {
+      "nameFull": [
+        "Ing. Mgr.",
         "Miroslav",
-        "Ponert",
+        "Šůs",
         ""
       ],
       "sex": 1,
