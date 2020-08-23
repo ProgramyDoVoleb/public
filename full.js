@@ -5,12 +5,12 @@ var dir = "./data/volby/kv/2020/";
 
 var files = fs.readdirSync(dir + "strany/");
 
-console.log(1);
+// console.log(1);
 
 var json = {list: []};
 
 files.forEach((file, index) => {
-  console.log(2, file);
+  // console.log(2, file);
   var content = JSON.parse(fs.readFileSync(dir + "strany/" + file));
   json.list.push(content);
 })
