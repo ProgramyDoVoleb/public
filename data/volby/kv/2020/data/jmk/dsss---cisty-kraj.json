@@ -26,7 +26,150 @@
         "Křivánek",
         ""
       ],
-      "sex": 1
+      "age": 48,
+      "work": "zámečník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Martin",
+        "Nový",
+        ""
+      ],
+      "age": 50,
+      "work": "developer",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Kurdiovský",
+        ""
+      ],
+      "age": 71,
+      "work": "galerista",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel John",
+        "Holler",
+        ""
+      ],
+      "age": 24,
+      "work": "skladník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Romana",
+        "Škůrková",
+        ""
+      ],
+      "age": 54,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bronislav",
+        "Urbanec",
+        ""
+      ],
+      "age": 66,
+      "work": "kamenosochař",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Bártek",
+        ""
+      ],
+      "age": 29,
+      "work": "elektrotechnik",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Leoš",
+        "Bucký",
+        ""
+      ],
+      "age": 53,
+      "work": "invalidní důchodce",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#113a96"

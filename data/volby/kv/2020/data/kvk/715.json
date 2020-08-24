@@ -17,10 +17,112 @@
         "Havel",
         ""
       ],
-      "reg": 99,
-      "sex": 1,
+      "age": 63,
       "work": "úředník, vedoucí ubytovacího zařízení",
-      "age": 63
+      "home": "Stanovice",
+      "homeMeta": {
+        "num": 555550,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Labudíková",
+        ""
+      ],
+      "age": 50,
+      "work": "invalidní důchodce, ochránce zvířat",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Tyrková",
+        ""
+      ],
+      "age": 62,
+      "work": "pracovník v sociálních službách",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Jonášová",
+        ""
+      ],
+      "age": 65,
+      "work": "důchodkyně",
+      "home": "Otročín",
+      "homeMeta": {
+        "num": 555444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lucie",
+        "Vavříková",
+        ""
+      ],
+      "age": 45,
+      "work": "úřednice, podporovatelka Spolku Prales dětem",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Tereza",
+        "Cagáňová",
+        ""
+      ],
+      "age": 29,
+      "work": "úřednice odboru životního prostředí",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
     }
   ],
   "no": 5

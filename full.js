@@ -10,7 +10,7 @@ var files = fs.readdirSync(dir + "strany/");
 var json = {list: []};
 
 files.forEach((file, index) => {
-  // console.log(2, file);
+  console.log(2, file);
   var content = JSON.parse(fs.readFileSync(dir + "strany/" + file));
   json.list.push(content);
 })

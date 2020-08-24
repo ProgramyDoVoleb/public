@@ -4,5 +4,406 @@
   "hash": "zdravi-sport-prosperita",
   "short": "PRO Zdraví",
   "no": 34,
-  "data": "jmk/785"
+  "data": "jmk/785",
+  "list": [
+    {
+      "nameFull": [
+        "doc. MUDr.",
+        "Petr",
+        "Svoboda",
+        "CSc., FRCS(T)"
+      ],
+      "age": 70,
+      "work": "lékař",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "doc. MUDr.",
+        "Milan",
+        "Kozák",
+        "Ph.D."
+      ],
+      "age": 53,
+      "work": "lékař - zástupce přednosty kliniky pro školství",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Jiří",
+        "Petrželka",
+        ""
+      ],
+      "age": 47,
+      "work": "jednatel společnosti",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Andrea",
+        "Purić",
+        ""
+      ],
+      "age": 30,
+      "work": "HR manager, personalistka",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Sylva",
+        "Dvořáková",
+        ""
+      ],
+      "age": 53,
+      "work": "jednatelka společnosti",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Kulíšek",
+        ""
+      ],
+      "age": 39,
+      "work": "technik",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radana",
+        "Lišková",
+        ""
+      ],
+      "age": 45,
+      "work": "projektant",
+      "home": "Prušánky",
+      "homeMeta": {
+        "num": 586498,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Konopáč",
+        ""
+      ],
+      "age": 36,
+      "work": "mistr výroby",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Darina",
+        "Bučková",
+        ""
+      ],
+      "age": 36,
+      "work": "OSVČ, autodoprava",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Ivana",
+        "Svobodová",
+        ""
+      ],
+      "age": 70,
+      "work": "lékařka",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Hrabal",
+        ""
+      ],
+      "age": 42,
+      "work": "trenér mládeže",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Ortcikrová",
+        ""
+      ],
+      "age": 40,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcel",
+        "Ortcikr",
+        ""
+      ],
+      "age": 40,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Chlubný",
+        ""
+      ],
+      "age": 47,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Chabičovský",
+        ""
+      ],
+      "age": 51,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Osička",
+        ""
+      ],
+      "age": 46,
+      "work": "vinař",
+      "home": "Prušánky",
+      "homeMeta": {
+        "num": 586498,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Georgios",
+        "Mavrojanidis",
+        ""
+      ],
+      "age": 29,
+      "work": "asistent insolvenčního správce",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohumil",
+        "Klacl",
+        ""
+      ],
+      "age": 49,
+      "work": "OSVČ, trenér mládeže",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Pfeifer",
+        ""
+      ],
+      "age": 64,
+      "work": "bývalý reprezentant v cyklistice, důchodce",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Výška",
+        ""
+      ],
+      "age": 40,
+      "work": "OSVČ - instalatér",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Šulc",
+        ""
+      ],
+      "age": 44,
+      "work": "strojvedoucí",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 785,
+      "sex": 1,
+      "links": []
+    }
+  ]
 }

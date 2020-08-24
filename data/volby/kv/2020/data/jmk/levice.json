@@ -45,8 +45,16 @@
         "Bóna",
         ""
       ],
+      "age": 25,
+      "work": "marketér v neziskovém sektoru, spolupředs. Levice",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
       "sex": 1,
-      "phash": "levice",
       "links": [
         "https://www.facebook.com/andrej.bona.SDS/",
         "https://twitter.com/AndrejBona",
@@ -55,12 +63,22 @@
     },
     {
       "nameFull": [
-        "",
-        "Anna",
+        "Mgr.",
+        "Alena",
         "Mikulenková",
         ""
       ],
-      "sex": 2
+      "age": 38,
+      "work": "doktorandka filozofie",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -69,16 +87,36 @@
         "Malovaný",
         ""
       ],
-      "sex": 1
+      "age": 50,
+      "work": "živnostník, člen kontrol. výboru v měst. zastup.",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Martin",
         "Švec",
         ""
       ],
-      "sex": 1
+      "age": 31,
+      "work": "architekt zabývající se klimatic. infrastrukturou",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -87,7 +125,283 @@
         "Tománek",
         ""
       ],
-      "sex": 1
+      "age": 31,
+      "work": "pedagog a družstevník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Marek",
+        "Suchánek",
+        ""
+      ],
+      "age": 28,
+      "work": "editor technické dokumentace",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eliška",
+        "Muchová",
+        ""
+      ],
+      "age": 25,
+      "work": "pracovnice informačního centra",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Švecová",
+        ""
+      ],
+      "age": 52,
+      "work": "pracovnice v divadle",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Pavel",
+        "Zoubek",
+        ""
+      ],
+      "age": 31,
+      "work": "programátor",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Polák",
+        ""
+      ],
+      "age": 45,
+      "work": "autor technické dokumentace, student teologie",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Malovaný",
+        ""
+      ],
+      "age": 28,
+      "work": "prodavač",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Čermáková",
+        ""
+      ],
+      "age": 27,
+      "work": "lesník",
+      "home": "Šlapanice",
+      "homeMeta": {
+        "num": 583952,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kristýna",
+        "Kroková",
+        ""
+      ],
+      "age": 25,
+      "work": "mateřská dovolená",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Fujda",
+        ""
+      ],
+      "age": 42,
+      "work": "výzkumný pracovník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Matúš",
+        "Bóna",
+        ""
+      ],
+      "age": 50,
+      "work": "právník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Anna",
+        "Kučerová",
+        ""
+      ],
+      "age": 24,
+      "work": "překladatelka",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 74,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Čermák",
+        ""
+      ],
+      "age": 34,
+      "work": "lesník",
+      "home": "Pelhřimov",
+      "homeMeta": {
+        "num": 547492,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Cetl",
+        ""
+      ],
+      "age": 67,
+      "work": "OSVČ",
+      "home": "Bratčice",
+      "homeMeta": {
+        "num": 582883,
+        "gps": []
+      },
+      "reg": 74,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Mucha",
+        ""
+      ],
+      "age": 21,
+      "work": "student",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 74,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#aaa"

@@ -30,13 +30,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Luboš",
         "Zálom",
         ""
       ],
-      "sex": 1,
+      "age": 39,
+      "work": "programátor, zastupitel města, místopřed. strany",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
       "reg": 714,
+      "nominee": 714,
+      "sex": 1,
       "links": [
         "https://luboszalom.cz/",
         "https://www.facebook.com/luboszalom.politika/",
@@ -45,13 +53,22 @@
     },
     {
       "nameFull": [
-        "",
+        "PhDr. Mgr.",
         "Marek",
         "Hejduk",
-        ""
+        "LL.M., MBA"
       ],
+      "age": 32,
+      "work": "lektor, pedagog na VOŠ",
+      "home": "Jílové u Prahy",
+      "homeMeta": {
+        "num": 539333,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
       "sex": 1,
-      "reg": 714
+      "links": []
     },
     {
       "nameFull": [
@@ -60,8 +77,815 @@
         "Zavadil",
         ""
       ],
+      "age": 60,
+      "work": "živnostník, výroba a prodej reklamních předmětů",
+      "home": "Měšice",
+      "homeMeta": {
+        "num": 538477,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
       "sex": 1,
-      "reg": 714
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Karel",
+        "Beneš",
+        ""
+      ],
+      "age": 69,
+      "work": "lékař, cévní chirurg",
+      "home": "Příbram",
+      "homeMeta": {
+        "num": 539911,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jan",
+        "Pánek",
+        ""
+      ],
+      "age": 52,
+      "work": "informatik, městský zastupitel, člen Kontrol. výb.",
+      "home": "Slaný",
+      "homeMeta": {
+        "num": 532819,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Fedorovič",
+        ""
+      ],
+      "age": 35,
+      "work": "živnostník v IT",
+      "home": "Kutná Hora",
+      "homeMeta": {
+        "num": 533955,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Štolová",
+        ""
+      ],
+      "age": 56,
+      "work": "registrační specialistka",
+      "home": "Vraný",
+      "homeMeta": {
+        "num": 533068,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Morozovič",
+        ""
+      ],
+      "age": 56,
+      "work": "IT konzultant",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Melichar",
+        ""
+      ],
+      "age": 50,
+      "work": "městský radní v Milovicích, technik, badatel",
+      "home": "Milovice",
+      "homeMeta": {
+        "num": 537501,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Eva",
+        "Pelánová",
+        ""
+      ],
+      "age": 38,
+      "work": "učitelka",
+      "home": "Hořovice",
+      "homeMeta": {
+        "num": 531189,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Pospíšil",
+        ""
+      ],
+      "age": 48,
+      "work": "konstruktér, obecní zastupitel",
+      "home": "Záboří nad Labem",
+      "homeMeta": {
+        "num": 534595,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Oldřich",
+        "Duchoň",
+        ""
+      ],
+      "age": 54,
+      "work": "mistr OTV",
+      "home": "Tmaň",
+      "homeMeta": {
+        "num": 531855,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Hynek",
+        "Pangrác",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ",
+      "home": "Doksy",
+      "homeMeta": {
+        "num": 532223,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Vodička",
+        ""
+      ],
+      "age": 58,
+      "work": "inženýr chemie, zastupitel města Liteň",
+      "home": "Liteň",
+      "homeMeta": {
+        "num": 531456,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Urzová",
+        "Ph.D."
+      ],
+      "age": 49,
+      "work": "učitelka na VŠ a SŠ, odborná asistentka ČVUT",
+      "home": "Kladno",
+      "homeMeta": {
+        "num": 532053,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Aleš",
+        "Vykydal",
+        ""
+      ],
+      "age": 48,
+      "work": "obecní zastupitel v Doubku, výkonný ředitel",
+      "home": "Doubek",
+      "homeMeta": {
+        "num": 564885,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Milbach",
+        ""
+      ],
+      "age": 37,
+      "work": "IT specialista",
+      "home": "Milovice",
+      "homeMeta": {
+        "num": 537501,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martin",
+        "Kratochvíl",
+        ""
+      ],
+      "age": 38,
+      "work": "jednatel Altel s.r.o., zastupitel městyse Zlonice",
+      "home": "Zlonice",
+      "homeMeta": {
+        "num": 533114,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Klára",
+        "Zimová",
+        ""
+      ],
+      "age": 21,
+      "work": "studentka",
+      "home": "Stochov",
+      "homeMeta": {
+        "num": 532860,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Richard Georg",
+        "Bayer",
+        ""
+      ],
+      "age": 35,
+      "work": "informatik, podnikatel",
+      "home": "Brandýs nad Labem-Stará Boleslav",
+      "homeMeta": {
+        "num": 538094,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Míka",
+        ""
+      ],
+      "age": 56,
+      "work": "hospodský, městský zastupitel v Berouně",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martin",
+        "Goszler",
+        ""
+      ],
+      "age": 39,
+      "work": "manažer",
+      "home": "Slabce",
+      "homeMeta": {
+        "num": 542415,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Václav",
+        "Ptáčník",
+        ""
+      ],
+      "age": 38,
+      "work": "lékař, vysokoškolský pedagog",
+      "home": "Mělník",
+      "homeMeta": {
+        "num": 534676,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Hůla",
+        ""
+      ],
+      "age": 47,
+      "work": "jednatel společnosti Pivovar Antoš, zastupitel",
+      "home": "Slaný",
+      "homeMeta": {
+        "num": 532819,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Pelán",
+        ""
+      ],
+      "age": 40,
+      "work": "vývojový technik průmyslových brzdových systémů",
+      "home": "Hořovice",
+      "homeMeta": {
+        "num": 531189,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Filip",
+        "Souček",
+        ""
+      ],
+      "age": 28,
+      "work": "obchodní zástupce",
+      "home": "Kladno",
+      "homeMeta": {
+        "num": 532053,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Robert",
+        "Fuhrman",
+        ""
+      ],
+      "age": 53,
+      "work": "informatik, zastupitel v obci Radim",
+      "home": "Radim",
+      "homeMeta": {
+        "num": 533629,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Kadleček",
+        ""
+      ],
+      "age": 65,
+      "work": "zámečník",
+      "home": "Všenory",
+      "homeMeta": {
+        "num": 539856,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Machová",
+        ""
+      ],
+      "age": 44,
+      "work": "živnostnice",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Pavlis",
+        ""
+      ],
+      "age": 38,
+      "work": "specialista na kybernetickou bezpečnost",
+      "home": "Vlašim",
+      "homeMeta": {
+        "num": 530883,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Zima",
+        ""
+      ],
+      "age": 53,
+      "work": "IT specialista",
+      "home": "Stochov",
+      "homeMeta": {
+        "num": 532860,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rostislav",
+        "Sikora",
+        ""
+      ],
+      "age": 44,
+      "work": "programátor",
+      "home": "Vysoký Újezd",
+      "homeMeta": {
+        "num": 513482,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Forejt",
+        ""
+      ],
+      "age": 30,
+      "work": "obchodník",
+      "home": "Příbram",
+      "homeMeta": {
+        "num": 539911,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Vodička",
+        "CSc."
+      ],
+      "age": 71,
+      "work": "ekonom, soudní znalec",
+      "home": "Říčany",
+      "homeMeta": {
+        "num": 538728,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Láznička",
+        ""
+      ],
+      "age": 45,
+      "work": "živnostník",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Háša",
+        ""
+      ],
+      "age": 68,
+      "work": "strojní zámečník",
+      "home": "Milovice",
+      "homeMeta": {
+        "num": 537501,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ondřej",
+        "Lípa",
+        ""
+      ],
+      "age": 52,
+      "work": "živnostník",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dita",
+        "Vilhelm",
+        ""
+      ],
+      "age": 52,
+      "work": "živnostnice",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tesfaye Hailu",
+        "Dagne",
+        ""
+      ],
+      "age": 53,
+      "work": "stavební technik",
+      "home": "Milovice",
+      "homeMeta": {
+        "num": 537501,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Krňávek",
+        ""
+      ],
+      "age": 34,
+      "work": "správce klíčových účtů",
+      "home": "Hýskov",
+      "homeMeta": {
+        "num": 531243,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Šárka",
+        "Vaculíková",
+        ""
+      ],
+      "age": 44,
+      "work": "manažerka",
+      "home": "Králův Dvůr",
+      "homeMeta": {
+        "num": 533203,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Oukropec",
+        ""
+      ],
+      "age": 31,
+      "work": "ekonom",
+      "home": "Králův Dvůr",
+      "homeMeta": {
+        "num": 533203,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Sova",
+        ""
+      ],
+      "age": 35,
+      "work": "technik, manažer",
+      "home": "Kutná Hora",
+      "homeMeta": {
+        "num": 533955,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Žák",
+        ""
+      ],
+      "age": 41,
+      "work": "IT technik",
+      "home": "Beroun",
+      "homeMeta": {
+        "num": 531057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Marcel",
+        "Langr",
+        ""
+      ],
+      "age": 53,
+      "work": "IT specialista",
+      "home": "Sloveč",
+      "homeMeta": {
+        "num": 537802,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Svobodní",

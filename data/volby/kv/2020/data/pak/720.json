@@ -449,13 +449,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Daniel",
         "Lebduška",
         ""
       ],
-      "sex": 1,
+      "age": 31,
+      "work": "výk. řed. společnosti, zastup.města Chrudim,sládek",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://pardubicky.pirati.cz/lide/daniel-lebduska",
         "https://www.facebook.com/lebduska.daniel"
@@ -464,13 +472,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Filip",
         "Mezera",
-        ""
+        "Ph.D."
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "datový analytik, zast. města Sezemic, trenér",
+      "home": "Sezemice",
+      "homeMeta": {
+        "num": 575640,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://pardubicky.pirati.cz/lide/filip-mezera/"
       ],
@@ -483,8 +499,16 @@
         "Ramašeuski",
         ""
       ],
-      "sex": 1,
+      "age": 50,
+      "work": "syst.administr.,zastup.obce Radhošť,drob.chovatel",
+      "home": "Radhošť",
+      "homeMeta": {
+        "num": 575542,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://pardubicky.pirati.cz/lide/andrej-ramaseuski/"
       ],
@@ -492,13 +516,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Libuše",
         "Vévodová",
         ""
       ],
-      "sex": 2,
+      "age": 63,
+      "work": "střed. učitelka matemat., zastupit. města Svitavy",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 2,
       "links": [
         "https://pardubicky.pirati.cz/lide/libuse-vevodova/"
       ],
@@ -511,8 +543,16 @@
         "Ducháček",
         ""
       ],
-      "sex": 1,
+      "age": 51,
+      "work": "IT manažer, zastup. města Česká Třebová",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://pardubicky.pirati.cz/lide/jiri.duchacek/"
       ],
@@ -520,13 +560,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Lenka",
         "Španihelová",
         ""
       ],
+      "age": 36,
+      "work": "sociální pracovnice v chráněné dílně",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -535,28 +584,55 @@
         "Linhartová",
         ""
       ],
+      "age": 44,
+      "work": "metodička zdravotní pojišťovny",
+      "home": "Chrast",
+      "homeMeta": {
+        "num": 571539,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jaroslav",
         "Lainz",
-        ""
+        "DiS."
       ],
+      "age": 43,
+      "work": "spec. pedagog žáků s vých. problémy",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Matěj",
         "Karas",
         ""
       ],
+      "age": 31,
+      "work": "projektový pracovník na MPSV",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -565,18 +641,36 @@
         "Vácha",
         ""
       ],
+      "age": 40,
+      "work": "technolog, provozovatel soukromého muzea",
+      "home": "Mistrovice",
+      "homeMeta": {
+        "num": 580643,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "David",
         "Marhold",
         ""
       ],
+      "age": 23,
+      "work": "student práv, histor. a germanistiky, koordinátor",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -585,18 +679,36 @@
         "Krátký",
         ""
       ],
+      "age": 65,
+      "work": "penzista, kapitán plachetnice",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Lucie",
         "Procházková",
-        ""
+        "Ph.D."
       ],
+      "age": 35,
+      "work": "právnička, VŠ pedagožka, asistentka poslance",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -605,8 +717,17 @@
         "Bečka",
         ""
       ],
+      "age": 29,
+      "work": "manažer řízení rizik, zastupitel MO Pardubice I",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -615,8 +736,17 @@
         "Saifrt",
         ""
       ],
+      "age": 35,
+      "work": "pracovník v sociálních službách, moderátor v rádiu",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -625,18 +755,36 @@
         "Karas",
         ""
       ],
+      "age": 36,
+      "work": "vývojář v obl. automatizace, zastup. města Pard.",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Aleš",
         "Nunvář",
         ""
       ],
+      "age": 41,
+      "work": "místostarosta města Chrudim, jogín",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -645,8 +793,17 @@
         "Jansa",
         ""
       ],
+      "age": 35,
+      "work": "pojistný matematik",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -655,8 +812,17 @@
         "Češík",
         ""
       ],
+      "age": 35,
+      "work": "programátor automatizovaných výrobních linek",
+      "home": "Slatiňany",
+      "homeMeta": {
+        "num": 572268,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -665,8 +831,17 @@
         "Palatáš",
         ""
       ],
+      "age": 33,
+      "work": "vrchní ministerský rada na Ministerstvu vnitra",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -675,8 +850,17 @@
         "Zavřelová",
         ""
       ],
+      "age": 28,
+      "work": "operátorka klientské linky, včelařka",
+      "home": "Heřmanův Městec",
+      "homeMeta": {
+        "num": 571385,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -685,28 +869,55 @@
         "Kubala",
         ""
       ],
+      "age": 34,
+      "work": "softwarový inženýr",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "RNDr. Mgr.",
         "Emanuel",
         "Žďárský",
-        ""
+        "CSc."
       ],
+      "age": 63,
+      "work": "genetik, VŠ pedagog, ředitel neziskového spolku",
+      "home": "Hošťalovice",
+      "homeMeta": {
+        "num": 571482,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Hruška",
         ""
       ],
+      "age": 57,
+      "work": "OSVČ v pozici lektor, konzultant, mentor",
+      "home": "Němčice",
+      "homeMeta": {
+        "num": 572870,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -715,8 +926,17 @@
         "Moravec",
         ""
       ],
+      "age": 37,
+      "work": "dělník, člen osadního výboru místní části Kunčice",
+      "home": "Letohrad",
+      "homeMeta": {
+        "num": 580538,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -725,8 +945,17 @@
         "Sedlák",
         ""
       ],
+      "age": 42,
+      "work": "OSVČ, radní města Mor. Třebová, org. fest.",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -735,8 +964,17 @@
         "Herman",
         ""
       ],
+      "age": 38,
+      "work": "seřizovač lisu",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -745,8 +983,17 @@
         "Bednář",
         ""
       ],
+      "age": 27,
+      "work": "grafický designér",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -755,8 +1002,17 @@
         "Vodehnal",
         ""
       ],
+      "age": 33,
+      "work": "lesní adjunkt, ošetřovatel dravých ptáků",
+      "home": "Městečko Trnávka",
+      "homeMeta": {
+        "num": 578380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -765,8 +1021,17 @@
         "Brejša",
         ""
       ],
+      "age": 48,
+      "work": "programátor",
+      "home": "Lubník",
+      "homeMeta": {
+        "num": 580619,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -775,8 +1040,17 @@
         "Vít",
         ""
       ],
+      "age": 49,
+      "work": "učitel na ZUŠ, překladatel, hudebník",
+      "home": "Vyžice",
+      "homeMeta": {
+        "num": 547841,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -785,8 +1059,17 @@
         "Kohoutek",
         ""
       ],
+      "age": 30,
+      "work": "pracovník technické podpory",
+      "home": "Jedousov",
+      "homeMeta": {
+        "num": 575127,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -795,8 +1078,17 @@
         "Ruda",
         ""
       ],
+      "age": 38,
+      "work": "obchodní zástupce, zastupitel města Česká Třebová",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -805,8 +1097,17 @@
         "Klimeš",
         ""
       ],
+      "age": 59,
+      "work": "manaž. v obl. gastronom.,hotelnictví a cest. ruchu",
+      "home": "Jedlová",
+      "homeMeta": {
+        "num": 578185,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -815,18 +1116,36 @@
         "Pavlík",
         ""
       ],
+      "age": 66,
+      "work": "poradce v oblasti životního prostředí, penzista",
+      "home": "Hlinsko",
+      "homeMeta": {
+        "num": 571393,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Vít",
-        "Hořenovský",
+        "Hořeňovský",
         ""
       ],
+      "age": 26,
+      "work": "producent hudebního klubu, OSVČ",
+      "home": "Dašice",
+      "homeMeta": {
+        "num": 574899,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -835,18 +1154,36 @@
         "Kolomý",
         ""
       ],
+      "age": 45,
+      "work": "právník, zastupitel obce Rudoltice",
+      "home": "Rudoltice",
+      "homeMeta": {
+        "num": 580848,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Ondřej",
         "Hapala",
         ""
       ],
+      "age": 26,
+      "work": "referent odboru dopravy, zastupitel města Svitavy",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -855,18 +1192,36 @@
         "Sahula",
         ""
       ],
+      "age": 45,
+      "work": "administrativně technický pracovník, farmář",
+      "home": "Chrast",
+      "homeMeta": {
+        "num": 571539,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Anna",
-        "Vavřečková",
+        "Anna Gudrun",
+        "Vavrečková",
         ""
       ],
+      "age": 29,
+      "work": "knihkupkyně, programátorka",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -875,8 +1230,17 @@
         "Grosskopf",
         ""
       ],
+      "age": 38,
+      "work": "učitel na ZŠ, moderátor v rádiu",
+      "home": "Výprachtice",
+      "homeMeta": {
+        "num": 581178,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -885,18 +1249,36 @@
         "Horák",
         ""
       ],
+      "age": 34,
+      "work": "syst. specialista, místost. obce Lány u Dašic",
+      "home": "Lány u Dašic",
+      "homeMeta": {
+        "num": 572845,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Filip",
         "Vařecha",
         ""
       ],
+      "age": 34,
+      "work": "vývojář, zastupitel MO Pardubice V",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -905,8 +1287,17 @@
         "Sachs",
         ""
       ],
+      "age": 39,
+      "work": "prokurista v dopravní společnosti",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -915,38 +1306,74 @@
         "Macek",
         ""
       ],
+      "age": 39,
+      "work": "kuchař, promotér",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Hrubeš",
-        ""
+        "DiS."
       ],
+      "age": 25,
+      "work": "doktorand, hudebník, zastupitel města Pardubice",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Jitka",
         "Bidlová",
-        ""
+        "Ph.D."
       ],
+      "age": 42,
+      "work": "architektka, zastupitelka města Polička",
+      "home": "Polička",
+      "homeMeta": {
+        "num": 578576,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Ivana",
         "Böhmová",
         ""
       ],
+      "age": 33,
+      "work": "pedagožka, zastupitelka města Pardubice",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -955,18 +1382,36 @@
         "Štěpánek",
         ""
       ],
+      "age": 35,
+      "work": "OSVČ, volební manažer, místostarosta města Chrudim",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Stanislav",
         "Klát",
         ""
       ],
+      "age": 24,
+      "work": "student, environmentalista",
+      "home": "Nové Hrady",
+      "homeMeta": {
+        "num": 571920,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     }
   ],
   "name": "Česká pirátská strana",

@@ -423,17 +423,22 @@
         "Hrdina",
         ""
       ],
-      "reg": 99,
       "age": 32,
-      "sex": 1,
       "work": "odborník na bezpečnost železniční dopravy, člen výboru spolku Zastavme elektrárnu Chvaletic",
       "home": "Pardubice",
-      "photo": "robert-hrdina.jpg",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/stereoid",
         "https://twitter.com/robhrdina",
         "https://www.instagram.com/hrdinarobert/"
-      ]
+      ],
+      "photo": "robert-hrdina.jpg"
     },
     {
       "nameFull": [
@@ -442,28 +447,39 @@
         "Češková",
         ""
       ],
-      "reg": 99,
       "age": 36,
-      "sex": 1,
       "work": "projektantka zahradních a krajinářských úprav, arboristka, členka Stínové uhelné komise",
       "home": "Srch",
-      "photo": "jitka-ceskova.jpg",
+      "homeMeta": {
+        "num": 575682,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/jitka.novakova.3939"
-      ]
+      ],
+      "photo": "jitka-ceskova.jpg"
     },
     {
       "nameFull": [
-        "Ing.",
+        "",
         "Jiří",
         "Malík",
         ""
       ],
-      "reg": 5,
       "age": 48,
-      "sex": 1,
       "work": "podnikatel ve zdravé výživě, zastupitel obce",
       "home": "Rokytno",
+      "homeMeta": {
+        "num": 575577,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": [],
       "photo": "jiri-malik.jpg"
     },
     {
@@ -474,10 +490,16 @@
         ""
       ],
       "age": 24,
-      "sex": 1,
-      "home": "Česká Třebová",
-      "reg": 5,
       "work": "zastupitelka města, studentka, skladová referentka železničního dopravce",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": [],
       "photo": "tereza-hyblova.jpg"
     },
     {
@@ -488,14 +510,19 @@
         ""
       ],
       "age": 28,
-      "sex": 1,
-      "home": "Holice",
-      "reg": 5,
       "work": "student, vývojář a kontrolor v automobilce, člen spolku Zastavme elektrárnu Chvaletice",
-      "photo": "michal-kafonek.jpg",
+      "home": "Holice",
+      "homeMeta": {
+        "num": 574988,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/KafeE17"
-      ]
+      ],
+      "photo": "michal-kafonek.jpg"
     },
     {
       "nameFull": [
@@ -505,10 +532,16 @@
         ""
       ],
       "age": 28,
-      "sex": 2,
+      "work": "zastupitelka městského obvodu Pardubice II, studentka bioanalytiky, členka České společnosti ornitologické",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "zastupitelka městského obvodu Pardubice II, studentka bioanalytiky, členka České společnosti ornitologické"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -518,10 +551,16 @@
         ""
       ],
       "age": 23,
-      "sex": 1,
+      "work": "student, zaměstnanec filharmonie, esperantista, člen komise rady města",
       "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
       "reg": 5,
-      "work": "student, zaměstnanec filharmonie, esperantista, člen komise rady města"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -531,10 +570,16 @@
         ""
       ],
       "age": 37,
-      "sex": 2,
+      "work": "spolumajitelka bezobalového obchodu, členka spolku Podnikavé ženy z Pardubického kraje",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 5,
-      "work": "spolumajitelka bezobalového obchodu, členka spolku Podnikavé ženy z Pardubického kraje"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -544,10 +589,16 @@
         ""
       ],
       "age": 32,
-      "sex": 1,
-      "home": "zastupitel obce",
+      "work": "vedoucí právního oddělení ÚZSVM",
+      "home": "Spojil",
+      "homeMeta": {
+        "num": 574198,
+        "gps": []
+      },
       "reg": 99,
-      "work": "vedoucí právního oddělení ÚZSVM"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -557,10 +608,16 @@
         ""
       ],
       "age": 23,
-      "sex": 2,
+      "work": "studentka výchovné dramatiky",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "studentka výchovné dramatiky"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -570,10 +627,16 @@
         "Ph.D."
       ],
       "age": 41,
-      "sex": 1,
+      "work": "vědecký pracovník, vyučující a koordinátor výzkumného projektu na univerzitě, zastupitel městského obvodu Pardubice I",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 5,
-      "work": "vědecký pracovník, vyučující a koordinátor výzkumného projektu na univerzitě, zastupitel městského obvodu Pardubice I"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -583,10 +646,16 @@
         ""
       ],
       "age": 57,
-      "sex": 2,
+      "work": "etnografka",
       "home": "Trstěnice",
+      "homeMeta": {
+        "num": 578894,
+        "gps": []
+      },
       "reg": 99,
-      "work": "etnografka"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -596,10 +665,16 @@
         ""
       ],
       "age": 28,
-      "sex": 1,
+      "work": "referent Státního zemědělského intervenčního fondu",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 5,
-      "work": "referent Státního zemědělského intervenčního fondu"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -609,10 +684,16 @@
         ""
       ],
       "age": 33,
-      "sex": 2,
+      "work": "krajinářská architektka",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "krajinářská architektka"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -622,10 +703,16 @@
         ""
       ],
       "age": 40,
-      "sex": 1,
+      "work": "pracovník v logistice",
       "home": "Nekoř",
+      "homeMeta": {
+        "num": 580686,
+        "gps": []
+      },
       "reg": 5,
-      "work": "pracovník v logistice"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -635,10 +722,16 @@
         ""
       ],
       "age": 42,
-      "sex": 2,
+      "work": "matka na plný úvazek",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 5,
-      "work": "matka na plný úvazek"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -648,10 +741,16 @@
         ""
       ],
       "age": 36,
-      "sex": 1,
+      "work": "učitel, trenér, metodik prevence kriminality mládeže, zastupitel městského obvodu Pardubice II",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "učitel, trenér, metodik prevence kriminality mládeže, zastupitel městského obvodu Pardubice II"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -661,10 +760,16 @@
         "MSc."
       ],
       "age": 41,
-      "sex": 2,
+      "work": "asistentka pro chemickou legislativu",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "asistentka pro chemickou legislativu"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -674,10 +779,16 @@
         ""
       ],
       "age": 62,
-      "sex": 1,
+      "work": "technik elektro",
       "home": "Ostřešany",
+      "homeMeta": {
+        "num": 575437,
+        "gps": []
+      },
       "reg": 99,
-      "work": "technik elektro"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -687,10 +798,16 @@
         ""
       ],
       "age": 29,
-      "sex": 2,
+      "work": "sociální pracovnice orgánu sociálně-právní ochrany dětí na mateřské",
       "home": "Králíky",
+      "homeMeta": {
+        "num": 580481,
+        "gps": []
+      },
       "reg": 5,
-      "work": "sociální pracovnice orgánu sociálně-právní ochrany dětí na mateřské"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -700,10 +817,16 @@
         ""
       ],
       "age": 43,
-      "sex": 1,
+      "work": "dopravní kontrolor",
       "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
       "reg": 5,
-      "work": "dopravní kontrolor"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -713,10 +836,16 @@
         "DiS."
       ],
       "age": 32,
-      "sex": 2,
+      "work": "koordinátorka návratu stromů do krajiny a členka spolku Sázíme stromy, z.ú., referentka Úřadu městského obvodu Pardubice VI",
       "home": "Zaječice",
+      "homeMeta": {
+        "num": 572578,
+        "gps": []
+      },
       "reg": 99,
-      "work": "koordinátorka návratu stromů do krajiny a členka spolku Sázíme stromy, z.ú., referentka Úřadu městského obvodu Pardubice VI"
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -726,10 +855,16 @@
         ""
       ],
       "age": 52,
-      "sex": 1,
+      "work": "technický ředitel",
       "home": "Horní Bradlo",
+      "homeMeta": {
+        "num": 571474,
+        "gps": []
+      },
       "reg": 5,
-      "work": "technický ředitel"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -739,10 +874,16 @@
         ""
       ],
       "age": 46,
-      "sex": 1,
+      "work": "stavební historik, vysokoškolský pedagog",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "stavební historik, vysokoškolský pedagog"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -752,10 +893,16 @@
         ""
       ],
       "age": 34,
-      "sex": 1,
+      "work": "dopravní specialista, zastupitel města",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 5,
-      "work": "dopravní specialista, zastupitel města"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -765,10 +912,16 @@
         ""
       ],
       "age": 46,
-      "sex": 1,
+      "work": "technik počítačových sítí",
       "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 99,
-      "work": "technik počítačových sítí"
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     }
   ],
   "no": 13

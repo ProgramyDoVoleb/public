@@ -17,10 +17,36 @@
         "Sajdlová",
         ""
       ],
-      "reg": 99,
-      "sex": 2,
+      "age": 53,
       "work": "asistentka ředitele, ochránce zvířat",
-      "age": 53
+      "home": "Zásada",
+      "homeMeta": {
+        "num": 563854,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Palová",
+        ""
+      ],
+      "age": 55,
+      "work": "terapeut energetické psychologie, kouč, autopatie",
+      "home": "Držkov",
+      "homeMeta": {
+        "num": 563561,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 715,
+      "sex": 2,
+      "links": []
     }
   ],
   "no": 5

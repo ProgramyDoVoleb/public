@@ -9,6 +9,957 @@
   "hash": "strana-soukromniku-ceske-republiky",
   "logo": "/obecne/strany/loga/716-sscr-n.jpg",
   "color": "#e58b22",
-  "list": [],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Trnka",
+        ""
+      ],
+      "age": 54,
+      "work": "optik, VŠ pedagog",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Robert",
+        "Kaše",
+        ""
+      ],
+      "age": 52,
+      "work": "advokát",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Nejdl",
+        ""
+      ],
+      "age": 34,
+      "work": "svobodný sedlák",
+      "home": "Plánice",
+      "homeMeta": {
+        "num": 556955,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Krisl",
+        ""
+      ],
+      "age": 35,
+      "work": "stavitel",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Iveta",
+        "Churavá",
+        ""
+      ],
+      "age": 55,
+      "work": "majitelka farmářských obchodů",
+      "home": "Zruč-Senec",
+      "homeMeta": {
+        "num": 559679,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Roman",
+        "Sornas",
+        ""
+      ],
+      "age": 54,
+      "work": "OSVČ",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Patrik",
+        "Hein",
+        ""
+      ],
+      "age": 48,
+      "work": "jednatel společnosti",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Spousta",
+        ""
+      ],
+      "age": 54,
+      "work": "diplomovaný malíř",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Ledecká",
+        ""
+      ],
+      "age": 49,
+      "work": "podnikatelka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Lehečková",
+        "DiS."
+      ],
+      "age": 29,
+      "work": "personalista",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Beran",
+        ""
+      ],
+      "age": 57,
+      "work": "vinař",
+      "home": "Chrást",
+      "homeMeta": {
+        "num": 558966,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "František",
+        "Zeman",
+        ""
+      ],
+      "age": 55,
+      "work": "poradce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Polata",
+        ""
+      ],
+      "age": 52,
+      "work": "jednatel společnosti, hudebník",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Jirák",
+        ""
+      ],
+      "age": 34,
+      "work": "trenér koní",
+      "home": "Štěnovický Borek",
+      "homeMeta": {
+        "num": 539741,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Černý",
+        ""
+      ],
+      "age": 42,
+      "work": "OSVČ",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Beran",
+        ""
+      ],
+      "age": 43,
+      "work": "podnikatel",
+      "home": "Osek",
+      "homeMeta": {
+        "num": 560057,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Petr",
+        "Pohl",
+        ""
+      ],
+      "age": 56,
+      "work": "producent",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Švígler",
+        ""
+      ],
+      "age": 54,
+      "work": "jednatel společnosti",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jan",
+        "Svoboda",
+        ""
+      ],
+      "age": 43,
+      "work": "správce nemovitostí",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Linhartová",
+        ""
+      ],
+      "age": 52,
+      "work": "účetní",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Tirsch",
+        ""
+      ],
+      "age": 35,
+      "work": "obchodní zástupce",
+      "home": "Příšov",
+      "homeMeta": {
+        "num": 567086,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Vorál",
+        ""
+      ],
+      "age": 29,
+      "work": "účetní",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Vaigl",
+        ""
+      ],
+      "age": 44,
+      "work": "fotbalový trenér",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Barbora",
+        "Cavallari",
+        ""
+      ],
+      "age": 41,
+      "work": "poradce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Hostička",
+        ""
+      ],
+      "age": 48,
+      "work": "prodejce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Stránský",
+        ""
+      ],
+      "age": 55,
+      "work": "manažer",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Nováková",
+        ""
+      ],
+      "age": 70,
+      "work": "podnikatelka",
+      "home": "Bor",
+      "homeMeta": {
+        "num": 560758,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Kormunda",
+        ""
+      ],
+      "age": 51,
+      "work": "OSVČ",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Tirschová",
+        ""
+      ],
+      "age": 37,
+      "work": "účetní",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Barbara",
+        "Jiráková Tetzeli",
+        ""
+      ],
+      "age": 35,
+      "work": "ekologický zemědělec",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Motlík",
+        ""
+      ],
+      "age": 49,
+      "work": "podnikatel a sportovec",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Šnajdrová",
+        ""
+      ],
+      "age": 31,
+      "work": "lektorka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Heinová",
+        ""
+      ],
+      "age": 34,
+      "work": "logistka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohumila",
+        "Parisová",
+        ""
+      ],
+      "age": 60,
+      "work": "manažerka",
+      "home": "Blovice",
+      "homeMeta": {
+        "num": 557587,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Salzmann",
+        ""
+      ],
+      "age": 45,
+      "work": "sládek",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milada",
+        "Macourková",
+        ""
+      ],
+      "age": 47,
+      "work": "podnikatelka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ingrid",
+        "Ledecká",
+        ""
+      ],
+      "age": 25,
+      "work": "jednatelka společnosti",
+      "home": "Myslinka",
+      "homeMeta": {
+        "num": 566543,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Aneta",
+        "Macourková",
+        ""
+      ],
+      "age": 23,
+      "work": "studentka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jozef",
+        "Drobný",
+        ""
+      ],
+      "age": 54,
+      "work": "podnikatel",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Beranová",
+        ""
+      ],
+      "age": 26,
+      "work": "manažerka prodeje",
+      "home": "Chrást",
+      "homeMeta": {
+        "num": 558966,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Tetzeli",
+        ""
+      ],
+      "age": 75,
+      "work": "soukromý zemědělec",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Tyšer",
+        ""
+      ],
+      "age": 64,
+      "work": "důchodce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladislav",
+        "Ledecký",
+        ""
+      ],
+      "age": 55,
+      "work": "jednatel společnosti",
+      "home": "Myslinka",
+      "homeMeta": {
+        "num": 566543,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Škarda",
+        ""
+      ],
+      "age": 61,
+      "work": "řidič",
+      "home": "Blovice",
+      "homeMeta": {
+        "num": 557587,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Kaslová",
+        ""
+      ],
+      "age": 24,
+      "work": "ošetřovatelka",
+      "home": "Čižice",
+      "homeMeta": {
+        "num": 557641,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Hřebíková",
+        ""
+      ],
+      "age": 22,
+      "work": "studentka",
+      "home": "Štěnovický Borek",
+      "homeMeta": {
+        "num": 539741,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Kopta",
+        ""
+      ],
+      "age": 74,
+      "work": "důchodce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Obalilová",
+        ""
+      ],
+      "age": 21,
+      "work": "prodavačka",
+      "home": "Chudenín",
+      "homeMeta": {
+        "num": 556386,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Šmrha",
+        ""
+      ],
+      "age": 29,
+      "work": "ošetřovatel",
+      "home": "Zbůch",
+      "homeMeta": {
+        "num": 559661,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Daniela",
+        "Žiláková",
+        ""
+      ],
+      "age": 38,
+      "work": "lektorka IQ pohyb Academy",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    }
+  ],
   "no": 65
 }

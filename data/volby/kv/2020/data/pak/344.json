@@ -57,13 +57,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Roman",
         "Línek",
-        ""
+        "MBA"
       ],
-      "sex": 1,
+      "age": 56,
+      "work": "1. náměstek hejtmana Pardubického kraje",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
       "reg": 1,
+      "nominee": 1,
+      "sex": 1,
       "links": [
         "http://www.roman-linek.cz",
         "https://www.facebook.com/Roman-L%C3%ADnek-129667385500897/",
@@ -73,13 +81,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Bc.",
         "David",
         "Šimek",
-        ""
+        "MBA"
       ],
+      "age": 43,
+      "work": "starosta města Svitavy, krajský zastupitel",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 181,
+      "nominee": 181,
       "sex": 1,
-      "reg": 181
+      "links": []
     },
     {
       "nameFull": [
@@ -88,28 +105,55 @@
         "Živný",
         ""
       ],
+      "age": 46,
+      "work": "člen Rady Pard. kraje, předseda TJ Sokol Semín",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 129,
+      "nominee": 129,
       "sex": 1,
-      "reg": 129
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Šotola",
         ""
       ],
+      "age": 49,
+      "work": "člen Rady Pard. kraje, zastupitel města Hlinska",
+      "home": "Hlinsko",
+      "homeMeta": {
+        "num": 571393,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 1
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Magdaléna",
         "Peterková",
         ""
       ],
+      "age": 62,
+      "work": "starostka města Česká Třebová",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -118,18 +162,36 @@
         "Hájek",
         ""
       ],
+      "age": 53,
+      "work": "starosta města Ústí nad Orlicí",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 181,
+      "nominee": 181,
       "sex": 1,
-      "reg": 181
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MVDr.",
         "Ivan",
         "Jeník",
         ""
       ],
+      "age": 58,
+      "work": "starosta města Slatiňany, kr. zastupitel,veterinář",
+      "home": "Slatiňany",
+      "homeMeta": {
+        "num": 572268,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 1,
-      "reg": 129
+      "links": []
     },
     {
       "nameFull": [
@@ -138,78 +200,150 @@
         "Kašpar",
         ""
       ],
+      "age": 55,
+      "work": "místostarosta města Litomyšl, krajský zastupitel",
+      "home": "Litomyšl",
+      "homeMeta": {
+        "num": 578347,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 1
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "František",
         "Jiraský",
         ""
       ],
+      "age": 51,
+      "work": "starosta města Vysoké Mýto",
+      "home": "Vysoké Mýto",
+      "homeMeta": {
+        "num": 581186,
+        "gps": []
+      },
+      "reg": 181,
+      "nominee": 181,
       "sex": 1,
-      "reg": 181
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Petr",
         "Řezníček",
         ""
       ],
+      "age": 69,
+      "work": "bývalý starosta města Chrudim, krajský zastupitel",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 129,
+      "nominee": 129,
       "sex": 1,
-      "reg": 129
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ondřej",
         "Výborný",
         ""
       ],
+      "age": 40,
+      "work": "starosta města Holice",
+      "home": "Holice",
+      "homeMeta": {
+        "num": 574988,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Věra",
         "Uhlířová",
         ""
       ],
+      "age": 60,
+      "work": "lékařka, členka dozorčí rady Nemocnice Pard. kraje",
+      "home": "Choceň",
+      "homeMeta": {
+        "num": 580350,
+        "gps": []
+      },
+      "reg": 181,
+      "nominee": 181,
       "sex": 2,
-      "reg": 181
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Dušan",
         "Pávek",
-        ""
+        "dipl. um."
       ],
+      "age": 41,
+      "work": "starosta města Jevíčko",
+      "home": "Jevíčko",
+      "homeMeta": {
+        "num": 578193,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 1
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MDDr.",
         "Alena",
         "Jílková",
         ""
       ],
+      "age": 25,
+      "work": "zubní lékařka, bývalá skautská vedoucí",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 1
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Eva",
         "Šmeralová",
         ""
       ],
+      "age": 44,
+      "work": "starostka obce Rybitví,trenérka rep.dívek v kopané",
+      "home": "Rybitví",
+      "homeMeta": {
+        "num": 575593,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 2,
-      "reg": 129
+      "links": []
     },
     {
       "nameFull": [
@@ -218,8 +352,17 @@
         "Vetchý",
         ""
       ],
+      "age": 44,
+      "work": "starosta města Lanškroun, učitel",
+      "home": "Lanškroun",
+      "homeMeta": {
+        "num": 580511,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 181,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -228,8 +371,17 @@
         "Skalická",
         ""
       ],
+      "age": 60,
+      "work": "krajská zastupitelka, lektorka",
+      "home": "Letohrad",
+      "homeMeta": {
+        "num": 580538,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -238,8 +390,17 @@
         "Ludwig",
         "CSc."
       ],
+      "age": 64,
+      "work": "bývalý rektor, univerzitní profesor",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -248,8 +409,17 @@
         "Židek",
         "Ph.D."
       ],
+      "age": 39,
+      "work": "dirigent, zástupce ředitele Konzervatoře Pardubice",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -258,8 +428,17 @@
         "Pešinová",
         "MBA"
       ],
+      "age": 36,
+      "work": "starostka města Luže, porodní asistentka",
+      "home": "Luže",
+      "homeMeta": {
+        "num": 571776,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 181,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -268,8 +447,17 @@
         "Voleský",
         ""
       ],
+      "age": 29,
+      "work": "podnikatel, radní města Česká Třebová",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -278,8 +466,17 @@
         "Neudert",
         ""
       ],
+      "age": 46,
+      "work": "starosta města Bystré",
+      "home": "Bystré",
+      "homeMeta": {
+        "num": 577928,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -288,8 +485,17 @@
         "Šilar",
         ""
       ],
+      "age": 64,
+      "work": "senátor Parlamentu ČR, krajský zastupitel",
+      "home": "Horní Čermná",
+      "homeMeta": {
+        "num": 580279,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -298,8 +504,17 @@
         "Ulrych",
         ""
       ],
+      "age": 47,
+      "work": "lékař - onkolog, radní města Pardubice",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -308,8 +523,17 @@
         "Krebsová",
         ""
       ],
+      "age": 29,
+      "work": "starostka obce Barchov",
+      "home": "Barchov",
+      "homeMeta": {
+        "num": 574724,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -318,8 +542,17 @@
         "Šafář",
         ""
       ],
+      "age": 48,
+      "work": "zástupce ředitele ZŠ, zastupitel města Polička",
+      "home": "Polička",
+      "homeMeta": {
+        "num": 578576,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -328,8 +561,17 @@
         "Schejbal",
         ""
       ],
+      "age": 55,
+      "work": "starosta města Hrochův Týnec",
+      "home": "Hrochův Týnec",
+      "homeMeta": {
+        "num": 571491,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -338,8 +580,17 @@
         "Jirešová",
         ""
       ],
+      "age": 67,
+      "work": "lékařka, zastupitelka města Žamberk,býv.místostar.",
+      "home": "Žamberk",
+      "homeMeta": {
+        "num": 581259,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 181,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -348,18 +599,36 @@
         "Mikšovský",
         ""
       ],
+      "age": 37,
+      "work": "starosta obce Předhradí",
+      "home": "Předhradí",
+      "homeMeta": {
+        "num": 572101,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Pomikálek",
         ""
       ],
+      "age": 53,
+      "work": "starosta obce Nekoř",
+      "home": "Nekoř",
+      "homeMeta": {
+        "num": 580686,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -368,8 +637,17 @@
         "Kokulová",
         ""
       ],
+      "age": 52,
+      "work": "podnikatelka",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -378,8 +656,17 @@
         "Všetečková",
         ""
       ],
+      "age": 38,
+      "work": "projekt.manaž.Czechinvestu,předs.sp.Podnikavé ženy",
+      "home": "Srch",
+      "homeMeta": {
+        "num": 575682,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 181,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -388,8 +675,17 @@
         "Čada",
         ""
       ],
+      "age": 55,
+      "work": "asistent senátora",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -398,8 +694,17 @@
         "Beran",
         "dipl. um."
       ],
+      "age": 37,
+      "work": "učitel ZŠ a ZUŠ Holice, varhaník, sbormistr",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -408,8 +713,17 @@
         "Bezděk",
         ""
       ],
+      "age": 49,
+      "work": "starosta města Skuteč",
+      "home": "Skuteč",
+      "homeMeta": {
+        "num": 572241,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -418,8 +732,17 @@
         "Hubálková",
         ""
       ],
+      "age": 54,
+      "work": "ředitelka Oblastní charity Pardubice",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -428,8 +751,17 @@
         "Petr",
         ""
       ],
+      "age": 42,
+      "work": "učitel ISŠ Moravská Třebová, vysokoškolský učitel",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -438,8 +770,17 @@
         "Doležalová",
         ""
       ],
+      "age": 50,
+      "work": "místostarostka města Chrast",
+      "home": "Chrast",
+      "homeMeta": {
+        "num": 571539,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -448,18 +789,36 @@
         "Trunečková",
         "DiS."
       ],
+      "age": 50,
+      "work": "předs. MAS Chrudimsko, zastupitelka města Chrudim",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
         "Ing. Mgr.",
-        "Zdeňka",
+        "Zdenka",
         "Kumstýřová",
         ""
       ],
+      "age": 51,
+      "work": "ředitelka Charity Přelouč, radní města Přelouč",
+      "home": "Přelouč",
+      "homeMeta": {
+        "num": 575500,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -468,8 +827,17 @@
         "Ehmig",
         ""
       ],
+      "age": 47,
+      "work": "kazatel Českobratrské církve evangelické",
+      "home": "Dvakačovice",
+      "homeMeta": {
+        "num": 504955,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -478,8 +846,17 @@
         "Plavec",
         ""
       ],
+      "age": 68,
+      "work": "místostarosta města Heřmanův Městec, advokát",
+      "home": "Heřmanův Městec",
+      "homeMeta": {
+        "num": 571385,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -488,8 +865,17 @@
         "Moskvová",
         ""
       ],
+      "age": 45,
+      "work": "ředitelka ZŠ a MŠ Mistrovice",
+      "home": "Žamberk",
+      "homeMeta": {
+        "num": 581259,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -498,8 +884,17 @@
         "Gotthardová",
         "CSc."
       ],
+      "age": 56,
+      "work": "starostka obce Kladruby nad Labem",
+      "home": "Kladruby nad Labem",
+      "homeMeta": {
+        "num": 575178,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -508,8 +903,17 @@
         "Pelikán",
         ""
       ],
+      "age": 45,
+      "work": "řed.Doprav.podn.města Pardubic,radní města Pard.",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 129,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -518,8 +922,17 @@
         "Weisbauer",
         ""
       ],
+      "age": 57,
+      "work": "ved.údržby zeleně SÚS Pard.kraje,radní MO Pard.II",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -528,28 +941,55 @@
         "Hubálková",
         ""
       ],
+      "age": 53,
+      "work": "řed.org.Cesta pro rodinu v Žamberku,Žena regionu",
+      "home": "Lukavice",
+      "homeMeta": {
+        "num": 580627,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
         "Ing.",
         "Petr",
-        "Netolický ",
+        "Netolický",
         ""
       ],
+      "age": 38,
+      "work": "doprav. inženýr, trenér basketbalu,zast.MO Pard. V",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
-        "Ing.",
+        "",
         "Petr",
         "Krejcar",
         ""
       ],
+      "age": 57,
+      "work": "starosta obce Veliny, výpravčí vlaků",
+      "home": "Veliny",
+      "homeMeta": {
+        "num": 575941,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 181,
       "sex": 1,
-      "reg": 344
+      "links": []
     },
     {
       "nameFull": [
@@ -558,8 +998,17 @@
         "Parchanská",
         ""
       ],
+      "age": 40,
+      "work": "učitelka ZŠ Holice, tlumočnice, překladatelka",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 344
+      "links": []
     }
   ],
   "short": "KDU+SNKED+Nestr",

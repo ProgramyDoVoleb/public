@@ -24,13 +24,478 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Štěpánek",
         ""
       ],
+      "age": 48,
+      "work": "výkonný místopředseda DSSS",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
       "sex": 1,
-      "reg": 156
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Čermák",
+        ""
+      ],
+      "age": 56,
+      "work": "OSVČ",
+      "home": "Nýřany",
+      "homeMeta": {
+        "num": 559300,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zbyněk",
+        "Kratochvíl",
+        ""
+      ],
+      "age": 44,
+      "work": "školitel",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Weinfurter",
+        ""
+      ],
+      "age": 43,
+      "work": "projektový manažer",
+      "home": "Srby",
+      "homeMeta": {
+        "num": 540676,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Pošvář",
+        ""
+      ],
+      "age": 48,
+      "work": "výhybkář",
+      "home": "Nýřany",
+      "homeMeta": {
+        "num": 559300,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Chmelík",
+        ""
+      ],
+      "age": 55,
+      "work": "řidič MKD",
+      "home": "Nový Kramolín",
+      "homeMeta": {
+        "num": 554057,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Patrik",
+        "Čížek",
+        ""
+      ],
+      "age": 33,
+      "work": "operátor CNC strojů",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Fialová",
+        ""
+      ],
+      "age": 51,
+      "work": "operátorka výroby",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Zúbek",
+        ""
+      ],
+      "age": 41,
+      "work": "specialista odbytu",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Pavel",
+        ""
+      ],
+      "age": 52,
+      "work": "živnostník",
+      "home": "Břasy",
+      "homeMeta": {
+        "num": 559725,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Němeček",
+        ""
+      ],
+      "age": 36,
+      "work": "kovoobráběč",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Vítek",
+        ""
+      ],
+      "age": 62,
+      "work": "technik",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Rožeň",
+        ""
+      ],
+      "age": 36,
+      "work": "pokrývač",
+      "home": "Žihle",
+      "homeMeta": {
+        "num": 559695,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Mezera",
+        ""
+      ],
+      "age": 47,
+      "work": "dělník",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Bernášek",
+        ""
+      ],
+      "age": 43,
+      "work": "dělník",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Tíkal",
+        ""
+      ],
+      "age": 42,
+      "work": "živnostník",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Šubrtová",
+        ""
+      ],
+      "age": 46,
+      "work": "OSVČ",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Smrž",
+        ""
+      ],
+      "age": 52,
+      "work": "řidič MKD",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Šírková",
+        ""
+      ],
+      "age": 33,
+      "work": "pokladní",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Kratochvílová",
+        ""
+      ],
+      "age": 25,
+      "work": "barmanka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Vachtl",
+        ""
+      ],
+      "age": 50,
+      "work": "OSVČ",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Svátková",
+        ""
+      ],
+      "age": 40,
+      "work": "administrativní pracovnice",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Pospíšil",
+        ""
+      ],
+      "age": 47,
+      "work": "živnostník",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Gabriela",
+        "Houšková",
+        ""
+      ],
+      "age": 33,
+      "work": "teamleader",
+      "home": "Třemošná",
+      "homeMeta": {
+        "num": 559521,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Patrik",
+        "Kočí",
+        ""
+      ],
+      "age": 28,
+      "work": "dělník",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#113a96"

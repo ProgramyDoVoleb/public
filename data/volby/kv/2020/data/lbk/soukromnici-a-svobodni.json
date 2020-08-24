@@ -13,5 +13,880 @@
   "program": {},
   "people": [],
   "color": "#e58b22",
-  "list": []
+  "list": [
+    {
+      "nameFull": [
+        "RNDr.",
+        "Otto",
+        "Jarolímek",
+        "CSc."
+      ],
+      "age": 59,
+      "work": "VŠ pedagog a podnik. v oboru fyzikálních aplikací",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Forbelský",
+        ""
+      ],
+      "age": 48,
+      "work": "IT specialista",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Marek",
+        "Krčil",
+        ""
+      ],
+      "age": 47,
+      "work": "podnikatel v oboru finančních služeb",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Gottvald",
+        ""
+      ],
+      "age": 37,
+      "work": "galvanizér",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Klouzek",
+        ""
+      ],
+      "age": 61,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zbyněk",
+        "Hubínka",
+        ""
+      ],
+      "age": 44,
+      "work": "vysokoškolský pedagog a speleolog",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Fulín",
+        ""
+      ],
+      "age": 76,
+      "work": "včelař, myslivec a rybář",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Uchytil",
+        ""
+      ],
+      "age": 52,
+      "work": "strojník sklářského zařízení",
+      "home": "Radostná pod Kozákovem",
+      "homeMeta": {
+        "num": 577430,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Zelinka",
+        ""
+      ],
+      "age": 48,
+      "work": "podnikatel v oboru správa nemovitostí",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Michl",
+        ""
+      ],
+      "age": 53,
+      "work": "ekonom",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Aleš",
+        "Janoušek",
+        ""
+      ],
+      "age": 55,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Benek",
+        ""
+      ],
+      "age": 22,
+      "work": "obchodník",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Berčo",
+        ""
+      ],
+      "age": 44,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Darek",
+        "Sas",
+        ""
+      ],
+      "age": 29,
+      "work": "obchodní manažer a podnikatel",
+      "home": "Nová Ves",
+      "homeMeta": {
+        "num": 546593,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Július",
+        "Dóša",
+        ""
+      ],
+      "age": 62,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Martin",
+        "Vavruša",
+        ""
+      ],
+      "age": 38,
+      "work": "lékař",
+      "home": "Stráž nad Nisou",
+      "homeMeta": {
+        "num": 544477,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Hlubůček",
+        ""
+      ],
+      "age": 91,
+      "work": "sklář, čestný předseda Svazu výrobců skla a biž.",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Mádr",
+        ""
+      ],
+      "age": 36,
+      "work": "obchodní zástupce",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rudolf",
+        "Maštálko",
+        ""
+      ],
+      "age": 76,
+      "work": "podnikatel, technolog a instruktor svařování",
+      "home": "Rychnov u Jablonce nad Nisou",
+      "homeMeta": {
+        "num": 563790,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Pavlína",
+        "Novotná",
+        ""
+      ],
+      "age": 38,
+      "work": "lékař - chirurg",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alexandr",
+        "Adam",
+        ""
+      ],
+      "age": 23,
+      "work": "student strojního inženýrství",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ondřej",
+        "Špulka",
+        ""
+      ],
+      "age": 41,
+      "work": "personální ředitel",
+      "home": "Oldřichov v Hájích",
+      "homeMeta": {
+        "num": 564281,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Marek",
+        ""
+      ],
+      "age": 60,
+      "work": "podnikatel v oboru elektromontáží",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Slabý",
+        ""
+      ],
+      "age": 34,
+      "work": "obchodní zástupce",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Zelinková",
+        ""
+      ],
+      "age": 51,
+      "work": "účetní",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Šárka",
+        "Šebková",
+        ""
+      ],
+      "age": 50,
+      "work": "radiologická asistentka",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Marie",
+        "Šauerová",
+        ""
+      ],
+      "age": 72,
+      "work": "vedoucí reg. pracoviště Lékařské posud. služby",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Libuše",
+        "Vítová",
+        ""
+      ],
+      "age": 61,
+      "work": "učitelka",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Klacek",
+        ""
+      ],
+      "age": 55,
+      "work": "traťmistr",
+      "home": "Libštát",
+      "homeMeta": {
+        "num": 577294,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Forbelský",
+        ""
+      ],
+      "age": 20,
+      "work": "kuchař",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lubomír",
+        "Korbel",
+        ""
+      ],
+      "age": 61,
+      "work": "živnostník",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Nágl",
+        ""
+      ],
+      "age": 50,
+      "work": "podnikatel",
+      "home": "Kořenov",
+      "homeMeta": {
+        "num": 563668,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Helena",
+        "Veselá",
+        ""
+      ],
+      "age": 52,
+      "work": "úřednice finanční správy",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Přemysl",
+        "Tišer",
+        ""
+      ],
+      "age": 41,
+      "work": "učitel a podnikatel",
+      "home": "Oldřichov v Hájích",
+      "homeMeta": {
+        "num": 564281,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michael",
+        "Řezník",
+        ""
+      ],
+      "age": 27,
+      "work": "manažer logistiky",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Zikmund",
+        ""
+      ],
+      "age": 52,
+      "work": "designer",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Ouvín",
+        ""
+      ],
+      "age": 49,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Nicola",
+        "Forbelská",
+        ""
+      ],
+      "age": 24,
+      "work": "ekonomka",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Krčil",
+        ""
+      ],
+      "age": 26,
+      "work": "student jazykové školy",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Knopp",
+        ""
+      ],
+      "age": 62,
+      "work": "zlatník",
+      "home": "Mírová pod Kozákovem",
+      "homeMeta": {
+        "num": 577316,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Pelant",
+        ""
+      ],
+      "age": 20,
+      "work": "manipulant",
+      "home": "Stráž nad Nisou",
+      "homeMeta": {
+        "num": 544477,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Vančat",
+        ""
+      ],
+      "age": 34,
+      "work": "odborný servisní pracovník",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kristýna",
+        "Zelinková",
+        ""
+      ],
+      "age": 20,
+      "work": "studentka oboru nanotechnologie",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Pur",
+        ""
+      ],
+      "age": 31,
+      "work": "galvanizér",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 714,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Vandas",
+        ""
+      ],
+      "age": 27,
+      "work": "zedník",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Svatava",
+        "Krčilová",
+        ""
+      ],
+      "age": 84,
+      "work": "důchodkyně",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    }
+  ]
 }

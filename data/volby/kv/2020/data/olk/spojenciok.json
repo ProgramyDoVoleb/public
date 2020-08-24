@@ -154,11 +154,11 @@
     1039
   ],
   "logo": "obecne/strany/loga/x-spojenciok.png",
-    "reg": 1450,
-    "name": "Spojenci - Koalice pro Olomoucký kraj (KDU-ČSL, TOP 09, Strana zelených, ProOlomouc)",
-    "hash": "spojenci---koalice-pro-olomoucky-kraj-kdu-csl--top-09--strana-zelenych--proolomouc",
-    "short": "KDU+Z+TOP+ProOl",
-    "no": 64,
+  "reg": 1450,
+  "name": "Spojenci - Koalice pro Olomoucký kraj (KDU-ČSL, TOP 09, Strana zelených, ProOlomouc)",
+  "hash": "spojenci---koalice-pro-olomoucky-kraj-kdu-csl--top-09--strana-zelenych--proolomouc",
+  "short": "KDU+Z+TOP+ProOl",
+  "no": 64,
   "links": [
     "https://www.spojenciok.cz/",
     "https://www.facebook.com/SpojenciKoaliceProOlomouckyKraj/"
@@ -166,30 +166,40 @@
   "list": [
     {
       "nameFull": [
-        "",
-        "Marián",
+        "Ing.",
+        "Marian",
         "Jurečka",
         ""
       ],
-      "sex": 1,
+      "age": 39,
+      "work": "poslanec PČR, zemědělec, krajský zastupitel",
+      "home": "Rokytnice",
+      "homeMeta": {
+        "num": 517607,
+        "gps": []
+      },
       "reg": 1,
-      "links": [
-        "https://www.marianjurecka.cz",
-        "https://www.facebook.com/JureckaMarian/",
-        "https://twitter.com/MJureka",
-        "https://www.instagram.com/marianjurecka/"
-      ],
-      "photo": "marian-jurecka.jpg"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Bc.",
         "Zdeňka",
         "Blišťanová",
         ""
       ],
-      "sex": 2,
+      "age": 56,
+      "work": "starostka města, ředitelka školy",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
       "reg": 721,
+      "nominee": 721,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/jeseniksrdcem/"
       ],
@@ -197,13 +207,21 @@
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Marcela",
         "Škvařilová",
-        ""
+        "Ph.D."
       ],
-      "sex": 2,
+      "age": 66,
+      "work": "lék.,kardioložka,vysokošk.uč. na Univerz.Palackého",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
       "reg": 1039,
+      "nominee": 1039,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/profile.php?id=100008912567198"
       ],
@@ -211,13 +229,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing. Mgr.",
         "Hana",
         "Vacková",
         ""
       ],
-      "sex": 2,
+      "age": 66,
+      "work": "středoškolská učitelka",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
       "reg": 5,
+      "nominee": 5,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/HankaVackovaZeleni/"
       ],
@@ -225,11 +251,20 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ivo",
         "Slavotínek",
         ""
       ],
+      "age": 44,
+      "work": "místostarosta města, krajský zastupitel",
+      "home": "Velká Bystřice",
+      "homeMeta": {
+        "num": 505609,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 1,
       "links": [
         "https://www.facebook.com/ivo.slavotinek"
@@ -238,85 +273,174 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "František",
         "Horák",
         ""
       ],
-      "sex": 1
+      "age": 47,
+      "work": "starosta města, krajský zastupitel",
+      "home": "Kostelec na Hané",
+      "homeMeta": {
+        "num": 589632,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "RNDr.",
         "Aleš",
         "Jakubec",
-        ""
+        "Ph.D."
       ],
-      "sex": 1
+      "age": 44,
+      "work": "vysokoškolský učitel na Univerzitě Palackého",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Šafařík",
-        ""
+        "MBA"
       ],
-      "sex": 1
+      "age": 39,
+      "work": "marketingový manažer, krajský zastupitel",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Daniel",
         "Řezníček",
-        ""
+        "M.A."
       ],
-      "sex": 1
+      "age": 28,
+      "work": "obchodní zástupce IT firmy,překladatel a tlumočník",
+      "home": "Bouzov",
+      "homeMeta": {
+        "num": 500861,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
-        "Pavel",
-        "Grasse",
+        "Bc.",
+        "Jan",
+        "Žůrek",
         ""
       ],
-      "sex": 1
+      "age": 35,
+      "work": "kulturní hybatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1039,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Matouš",
         "Pelikán",
         ""
       ],
-      "sex": 1
+      "age": 38,
+      "work": "náměstek primátora statutárního města",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Ing.",
         "Aleš",
         "Matyášek",
         ""
       ],
-      "sex": 1
+      "age": 58,
+      "work": "zast. statut. města, trenér mlád., středošk.učitel",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "RNDr.",
         "Jitka",
         "Seitlová",
         ""
       ],
+      "age": 66,
+      "work": "senátorka PČR, krajská zastupitelka",
+      "home": "Lipník nad Bečvou",
+      "homeMeta": {
+        "num": 514705,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
       "sex": 2,
-      "reg": 1
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Ivo",
         "Čečman",
         ""
       ],
-      "sex": 1
+      "age": 45,
+      "work": "starosta městyse",
+      "home": "Dub nad Moravou",
+      "homeMeta": {
+        "num": 501794,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -325,7 +449,872 @@
         "Šulák",
         ""
       ],
-      "sex": 1
+      "age": 49,
+      "work": "starosta obce",
+      "home": "Veselíčko",
+      "homeMeta": {
+        "num": 520420,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr. Mgr.",
+        "František",
+        "John",
+        "Ph.D."
+      ],
+      "age": 42,
+      "work": "starosta města, krajský zastupitel",
+      "home": "Zábřeh",
+      "homeMeta": {
+        "num": 541354,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Roman",
+        "Šimek",
+        ""
+      ],
+      "age": 55,
+      "work": "předs.reg.Sdr. vlastn. obecních a soukr. lesů v ČR",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Michaela",
+        "Štefková",
+        ""
+      ],
+      "age": 44,
+      "work": "zaměstnankyně krajského úřadu",
+      "home": "Mohelnice",
+      "homeMeta": {
+        "num": 540471,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zlata",
+        "Ronzová Mádrová",
+        ""
+      ],
+      "age": 34,
+      "work": "farmářka na Zlaté farmě, zootechnička",
+      "home": "Vrbátky",
+      "homeMeta": {
+        "num": 590185,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Tomáš",
+        "Kobza",
+        ""
+      ],
+      "age": 42,
+      "work": "manažer",
+      "home": "Libina",
+      "homeMeta": {
+        "num": 539961,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Dvořák",
+        "dipl. um."
+      ],
+      "age": 51,
+      "work": "učitel ZUŠ",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdenek",
+        "Vahala",
+        ""
+      ],
+      "age": 50,
+      "work": "zemědělec, místostarosta městyse",
+      "home": "Hustopeče nad Bečvou",
+      "homeMeta": {
+        "num": 513768,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radka",
+        "Filipčíková",
+        "Ph.D., MBA, LL.M."
+      ],
+      "age": 43,
+      "work": "vědecká specialistka",
+      "home": "Hnojice",
+      "homeMeta": {
+        "num": 502405,
+        "gps": []
+      },
+      "reg": 1220,
+      "nominee": 721,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "prof. MUDr.",
+        "Pavel",
+        "Horák",
+        "CSc."
+      ],
+      "age": 54,
+      "work": "přednosta III. interní kliniky FN Olomouc, lékař",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Lumír",
+        "Kantor",
+        "Ph.D."
+      ],
+      "age": 58,
+      "work": "lékař, senátor PČR",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "prof. PhDr.",
+        "Pavel",
+        "Zatloukal",
+        ""
+      ],
+      "age": 71,
+      "work": "emeritní řed. Muzea umění Ol.,profesor dějin umění",
+      "home": "Velký Újezd",
+      "homeMeta": {
+        "num": 505668,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "akad. soch.",
+        "Martin",
+        "Lubič",
+        ""
+      ],
+      "age": 58,
+      "work": "architekt",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1039,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ladislav",
+        "Bílý",
+        ""
+      ],
+      "age": 29,
+      "work": "právník - Mikroregion Konicko",
+      "home": "Ochoz",
+      "homeMeta": {
+        "num": 589811,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Karel",
+        "Hošek",
+        ""
+      ],
+      "age": 35,
+      "work": "projekt.manaž., ved.Místní akční skup.Horní Pomor.",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tomáš",
+        "Spurný",
+        ""
+      ],
+      "age": 59,
+      "work": "starosta města",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. et Mgr.",
+        "Ondřej",
+        "Vlček",
+        ""
+      ],
+      "age": 30,
+      "work": "politolog, místostarosta města",
+      "home": "Lipník nad Bečvou",
+      "homeMeta": {
+        "num": 514705,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Zdeněk",
+        "Navrátil",
+        ""
+      ],
+      "age": 46,
+      "work": "ředitel ZŠ sv. Voršily v Olomouci",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Arnošt",
+        "Vogel",
+        ""
+      ],
+      "age": 52,
+      "work": "starosta obce",
+      "home": "Haňovice",
+      "homeMeta": {
+        "num": 552178,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Šmoldas",
+        "DiS."
+      ],
+      "age": 36,
+      "work": "odborný pracovník Ministerstva pro místní rozvoj",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1039,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Hájek",
+        "Ph.D."
+      ],
+      "age": 34,
+      "work": "hist.,knih.-katalogiz.,mpř.Spolku za st. Vrahovice",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jaroslav",
+        "Procházka",
+        ""
+      ],
+      "age": 60,
+      "work": "místostarosta města",
+      "home": "Konice",
+      "homeMeta": {
+        "num": 589624,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Otakar",
+        "Svoboda",
+        ""
+      ],
+      "age": 53,
+      "work": "podnikatel",
+      "home": "Plumlov",
+      "homeMeta": {
+        "num": 589896,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Pavlas",
+        "MBA"
+      ],
+      "age": 38,
+      "work": "místostarosta obce, ředitel ZŠ",
+      "home": "Písařov",
+      "homeMeta": {
+        "num": 540650,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Svoboda",
+        ""
+      ],
+      "age": 47,
+      "work": "starosta města",
+      "home": "Tovačov",
+      "homeMeta": {
+        "num": 519146,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Leo",
+        "Czabe",
+        ""
+      ],
+      "age": 51,
+      "work": "radní města, včelař",
+      "home": "Šternberk",
+      "homeMeta": {
+        "num": 505188,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Horák",
+        ""
+      ],
+      "age": 56,
+      "work": "manažer Místní akční skupiny Hanácké Království",
+      "home": "Grygov",
+      "homeMeta": {
+        "num": 501841,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radim",
+        "Zámec",
+        "Ph.D."
+      ],
+      "age": 40,
+      "work": "vysokošk. uč. na Univerzitě Palackého, překladatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Macek",
+        ""
+      ],
+      "age": 40,
+      "work": "zastupitel města Olomouce, IT konzultant",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1039,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Tomáš",
+        "Weber",
+        ""
+      ],
+      "age": 36,
+      "work": "referent krajského úřadu",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Zdeněk",
+        "Dokládal",
+        ""
+      ],
+      "age": 64,
+      "work": "lékař",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Václav",
+        "Hampl",
+        ""
+      ],
+      "age": 49,
+      "work": "starosta obce",
+      "home": "Dubicko",
+      "homeMeta": {
+        "num": 534927,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Helena",
+        "Paschkeová",
+        ""
+      ],
+      "age": 48,
+      "work": "ředitelka Charity Javorník",
+      "home": "Skorošice",
+      "homeMeta": {
+        "num": 553484,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Gabriela",
+        "Jančíková",
+        ""
+      ],
+      "age": 44,
+      "work": "starostka města, zdravotní sestra",
+      "home": "Plumlov",
+      "homeMeta": {
+        "num": 589896,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dominika",
+        "Kovaříková",
+        ""
+      ],
+      "age": 42,
+      "work": "advokátka",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lukáš",
+        "Morávek",
+        ""
+      ],
+      "age": 44,
+      "work": "radní města, muzikant",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rostislav",
+        "Klemeš",
+        ""
+      ],
+      "age": 64,
+      "work": "předseda Klubu českých turistů Olomouckého kraje",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Vodáková",
+        ""
+      ],
+      "age": 22,
+      "work": "studentka politologie",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Polcr",
+        ""
+      ],
+      "age": 46,
+      "work": "řed. Cyrilometodějského gymn.,ZŠ a MŠ v Prostějově",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Skřivánek",
+        "Ph.D."
+      ],
+      "age": 48,
+      "work": "starosta obce, soukromý zemědělec",
+      "home": "Branná",
+      "homeMeta": {
+        "num": 526169,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. arch.",
+        "Tomáš",
+        "Pejpek",
+        ""
+      ],
+      "age": 53,
+      "work": "architekt, urbanista",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1039,
+      "nominee": 1039,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Eva",
+        "Kubíčková",
+        ""
+      ],
+      "age": 45,
+      "work": "starostka obce",
+      "home": "Křtomil",
+      "homeMeta": {
+        "num": 552780,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Monika",
+        "Novotná",
+        ""
+      ],
+      "age": 48,
+      "work": "psycholožka",
+      "home": "Česká Ves",
+      "homeMeta": {
+        "num": 569356,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Humplík",
+        ""
+      ],
+      "age": 72,
+      "work": "důchodce",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MVDr.",
+        "Václav",
+        "Osička",
+        ""
+      ],
+      "age": 51,
+      "work": "veterinární lékař, zemědělec",
+      "home": "Červenka",
+      "homeMeta": {
+        "num": 552186,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniel",
+        "Tavlaridis",
+        ""
+      ],
+      "age": 29,
+      "work": "zastupitel obce, dispečer, fanoušek HC Olomouc",
+      "home": "Hlubočky",
+      "homeMeta": {
+        "num": 502146,
+        "gps": []
+      },
+      "reg": 1,
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#018180"

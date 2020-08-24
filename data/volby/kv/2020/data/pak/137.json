@@ -12,6 +12,938 @@
   "hash": "rozumni---petr-hannig---za-spravedlnost-a-zivotni-jistoty",
   "logo": "/obecne/strany/loga/137-rozumni.png",
   "color": "#a9e614",
-  "list": [],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Rozsypal",
+        ""
+      ],
+      "age": 48,
+      "work": "obsluha lisu na plasty",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 555134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radek",
+        "Dokoupil",
+        ""
+      ],
+      "age": 51,
+      "work": "technický ředitel podniku",
+      "home": "Lanškroun",
+      "homeMeta": {
+        "num": 580511,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Věra",
+        "Nevečeřalová",
+        ""
+      ],
+      "age": 65,
+      "work": "speciální pedagog",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Göblová",
+        ""
+      ],
+      "age": 36,
+      "work": "nákupčí",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Slavík",
+        ""
+      ],
+      "age": 46,
+      "work": "živnostník",
+      "home": "Sobětuchy",
+      "homeMeta": {
+        "num": 572276,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. arch.",
+        "Klára",
+        "Lazareva",
+        ""
+      ],
+      "age": 49,
+      "work": "architekt, členka Sboru dobrovolných hasičů",
+      "home": "Lázně Bohdaneč",
+      "homeMeta": {
+        "num": 574767,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Čejková",
+        ""
+      ],
+      "age": 52,
+      "work": "učitelka základní a střední školy",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 555134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alena",
+        "Abrahamová",
+        ""
+      ],
+      "age": 53,
+      "work": "vedoucí prodejny",
+      "home": "Choceň",
+      "homeMeta": {
+        "num": 580350,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Adolfová",
+        ""
+      ],
+      "age": 50,
+      "work": "učitelka mateřské školy",
+      "home": "Litomyšl",
+      "homeMeta": {
+        "num": 578347,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Marečková",
+        ""
+      ],
+      "age": 51,
+      "work": "referent personálního oddělení",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Fišerová",
+        ""
+      ],
+      "age": 44,
+      "work": "vedoucí poštovního úřadu",
+      "home": "Letohrad",
+      "homeMeta": {
+        "num": 580538,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Patřičná",
+        ""
+      ],
+      "age": 52,
+      "work": "fotografka, pěstounka",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 555134,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Klouzalová",
+        ""
+      ],
+      "age": 40,
+      "work": "úřednice",
+      "home": "Polička",
+      "homeMeta": {
+        "num": 578576,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Kolářová",
+        ""
+      ],
+      "age": 55,
+      "work": "učitelka mateřské školy",
+      "home": "Březová nad Svitavou",
+      "homeMeta": {
+        "num": 505145,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Hubená",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniela",
+        "Nožičková",
+        ""
+      ],
+      "age": 26,
+      "work": "studující VŠ",
+      "home": "Jablonné nad Orlicí",
+      "homeMeta": {
+        "num": 580376,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Chreno",
+        ""
+      ],
+      "age": 25,
+      "work": "OSVČ",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Hudecová",
+        ""
+      ],
+      "age": 66,
+      "work": "důchodkyně",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Novotná",
+        ""
+      ],
+      "age": 20,
+      "work": "studující",
+      "home": "Holice",
+      "homeMeta": {
+        "num": 574988,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Jungwirth Šléglová",
+        ""
+      ],
+      "age": 56,
+      "work": "podnikatelka",
+      "home": "Písečná",
+      "homeMeta": {
+        "num": 580775,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Anna",
+        "Ježková",
+        ""
+      ],
+      "age": 66,
+      "work": "živnostník",
+      "home": "Králíky",
+      "homeMeta": {
+        "num": 580481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Rychtařík",
+        ""
+      ],
+      "age": 35,
+      "work": "živnostník",
+      "home": "Horní Ředice",
+      "homeMeta": {
+        "num": 575011,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Barbora",
+        "Lásková",
+        ""
+      ],
+      "age": 40,
+      "work": "obchodní zástupce",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renata",
+        "Stará",
+        ""
+      ],
+      "age": 50,
+      "work": "pracovnice v textilní výrobě",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Oldřiška",
+        "Štursová",
+        ""
+      ],
+      "age": 57,
+      "work": "ekonom",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Horák",
+        ""
+      ],
+      "age": 29,
+      "work": "elektro projektant",
+      "home": "Horní Ředice",
+      "homeMeta": {
+        "num": 575011,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Taťána",
+        "Součková",
+        ""
+      ],
+      "age": 55,
+      "work": "prodavačka",
+      "home": "Choceň",
+      "homeMeta": {
+        "num": 580350,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Kejmarová",
+        ""
+      ],
+      "age": 29,
+      "work": "pokladní",
+      "home": "Vysoké Mýto",
+      "homeMeta": {
+        "num": 581186,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Prokopec",
+        ""
+      ],
+      "age": 60,
+      "work": "invalidní důchodce",
+      "home": "Dolní Dobrouč",
+      "homeMeta": {
+        "num": 580121,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alice",
+        "Jassová",
+        ""
+      ],
+      "age": 51,
+      "work": "vedoucí prodejny",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karolína",
+        "Krátká",
+        ""
+      ],
+      "age": 20,
+      "work": "kuchař, číšník",
+      "home": "Třebovice",
+      "homeMeta": {
+        "num": 581071,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Božena Ilza",
+        "Mitáčková",
+        ""
+      ],
+      "age": 67,
+      "work": "důchodkyně, archivářka ve výslužbě",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 555134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hejl",
+        ""
+      ],
+      "age": 39,
+      "work": "vrchní číšník",
+      "home": "Damníkov",
+      "homeMeta": {
+        "num": 580074,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Žaneta",
+        "Vadlejchová",
+        ""
+      ],
+      "age": 39,
+      "work": "obsluha čerpací stanice",
+      "home": "Česká Třebová",
+      "homeMeta": {
+        "num": 580031,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Naděžda",
+        "Fryaufová",
+        ""
+      ],
+      "age": 51,
+      "work": "aranžérka květin",
+      "home": "Litomyšl",
+      "homeMeta": {
+        "num": 578347,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ilona",
+        "Honová",
+        ""
+      ],
+      "age": 39,
+      "work": "elektrotechnik",
+      "home": "Jankovice",
+      "homeMeta": {
+        "num": 575101,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rudolf",
+        "Kárník",
+        ""
+      ],
+      "age": 78,
+      "work": "důchodce",
+      "home": "Kladruby nad Labem",
+      "homeMeta": {
+        "num": 575178,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kateřina",
+        "Havlíková",
+        ""
+      ],
+      "age": 23,
+      "work": "floristka",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 555134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislava",
+        "Slavíková",
+        ""
+      ],
+      "age": 45,
+      "work": "živnostník",
+      "home": "Sobětuchy",
+      "homeMeta": {
+        "num": 572276,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Svobodová",
+        ""
+      ],
+      "age": 47,
+      "work": "ekonom",
+      "home": "Žamberk",
+      "homeMeta": {
+        "num": 581259,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Markéta",
+        "Loukotová",
+        ""
+      ],
+      "age": 31,
+      "work": "baristka",
+      "home": "Brněnec",
+      "homeMeta": {
+        "num": 577863,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marta",
+        "Pokorná",
+        ""
+      ],
+      "age": 66,
+      "work": "důchodkyně",
+      "home": "Svitavy",
+      "homeMeta": {
+        "num": 577731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Valenta",
+        ""
+      ],
+      "age": 52,
+      "work": "zootechnik",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 578789,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Erika",
+        "Valentová",
+        ""
+      ],
+      "age": 48,
+      "work": "prodejce",
+      "home": "Jablonné nad Orlicí",
+      "homeMeta": {
+        "num": 580376,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Štěpánková",
+        ""
+      ],
+      "age": 58,
+      "work": "prodavačka",
+      "home": "Letohrad",
+      "homeMeta": {
+        "num": 580538,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavla",
+        "Jacklová",
+        ""
+      ],
+      "age": 44,
+      "work": "asistentka prodeje",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Tesařová",
+        ""
+      ],
+      "age": 56,
+      "work": "prodavačka",
+      "home": "Přelouč",
+      "homeMeta": {
+        "num": 575500,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Musil",
+        ""
+      ],
+      "age": 44,
+      "work": "řidič kamionu",
+      "home": "Písečná",
+      "homeMeta": {
+        "num": 580775,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Sechovec",
+        ""
+      ],
+      "age": 64,
+      "work": "chemik",
+      "home": "Chvaletice",
+      "homeMeta": {
+        "num": 575071,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    }
+  ],
   "no": 82
 }

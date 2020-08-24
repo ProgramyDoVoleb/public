@@ -47,18 +47,22 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Eva",
-        "Valjentová",
+        "Valjetová",
         ""
       ],
-      "sex": 2,
+      "age": 56,
+      "work": "referentka",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
       "reg": 47,
-      "links": [
-        "https://karlovyvary.kscm.cz/cs/nasi-lide/ing-eva-valjentova-2",
-        "https://www.facebook.com/profile.php?id=100009201264227",
-        "https://twitter.com/EvaValjentova"
-      ]
+      "nominee": 47,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -67,8 +71,17 @@
         "Zima",
         ""
       ],
+      "age": 57,
+      "work": "technik",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -77,8 +90,17 @@
         "Červenková",
         "DiS."
       ],
+      "age": 57,
+      "work": "ředitelka mateřské školy",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -87,8 +109,17 @@
         "Vojtová",
         ""
       ],
+      "age": 46,
+      "work": "odborná referentka",
+      "home": "Vojkovice",
+      "homeMeta": {
+        "num": 555738,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -97,8 +128,17 @@
         "Mareš",
         "DiS."
       ],
+      "age": 51,
+      "work": "finanční poradce",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -107,8 +147,17 @@
         "Hojda",
         ""
       ],
+      "age": 67,
+      "work": "poradce",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -117,8 +166,17 @@
         "Stránská",
         ""
       ],
+      "age": 62,
+      "work": "starostka obce Dolní Žandov",
+      "home": "Dolní Žandov",
+      "homeMeta": {
+        "num": 554502,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -127,8 +185,17 @@
         "Souhrada",
         ""
       ],
+      "age": 60,
+      "work": "lesní technik",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -137,8 +204,17 @@
         "Hermann",
         ""
       ],
+      "age": 46,
+      "work": "starosta města Teplá",
+      "home": "Teplá",
+      "homeMeta": {
+        "num": 555631,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -147,8 +223,17 @@
         "Borka",
         ""
       ],
+      "age": 67,
+      "work": "asistent poslance",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -157,8 +242,17 @@
         "Votruba",
         ""
       ],
+      "age": 66,
+      "work": "vedoucí střediska elektro",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -167,8 +261,17 @@
         "Kumberová",
         "DiS."
       ],
+      "age": 38,
+      "work": "sociální pracovnice",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -177,8 +280,17 @@
         "Bečvář",
         ""
       ],
+      "age": 52,
+      "work": "dispečer",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -187,8 +299,17 @@
         "Vykoukal",
         ""
       ],
+      "age": 38,
+      "work": "dělník",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -197,8 +318,17 @@
         "Bobková",
         ""
       ],
+      "age": 51,
+      "work": "mzdová účetní",
+      "home": "Březová",
+      "homeMeta": {
+        "num": 560294,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -207,8 +337,17 @@
         "Bartůňková",
         ""
       ],
+      "age": 60,
+      "work": "zastupitelka města Karlovy Vary",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -217,8 +356,17 @@
         "Mareš",
         ""
       ],
+      "age": 62,
+      "work": "tesař - truhlář",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -227,8 +375,17 @@
         "Kubíčko",
         ""
       ],
+      "age": 67,
+      "work": "jednatel společnosti",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -237,8 +394,17 @@
         "Sloup",
         ""
       ],
+      "age": 70,
+      "work": "předseda okresního výboru KSČM",
+      "home": "Tuřany",
+      "homeMeta": {
+        "num": 539619,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -247,8 +413,17 @@
         "Hajská",
         ""
       ],
+      "age": 65,
+      "work": "ekonomka - důchodkyně",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -257,8 +432,17 @@
         "Fišerová",
         ""
       ],
+      "age": 43,
+      "work": "osoba samostatně výdělečně činná",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -267,8 +451,17 @@
         "Bartůněk",
         ""
       ],
+      "age": 26,
+      "work": "řidič",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -277,8 +470,17 @@
         "Doskočil",
         ""
       ],
+      "age": 45,
+      "work": "společník firmy",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -287,8 +489,17 @@
         "Šneberková",
         ""
       ],
+      "age": 30,
+      "work": "finanční analytička",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -297,8 +508,17 @@
         "Švarcbek",
         ""
       ],
+      "age": 42,
+      "work": "strážník městské policie",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -307,8 +527,17 @@
         "Nikodém",
         ""
       ],
+      "age": 45,
+      "work": "správce obchodního centra",
+      "home": "Březová",
+      "homeMeta": {
+        "num": 560294,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -317,8 +546,17 @@
         "Honců",
         ""
       ],
+      "age": 54,
+      "work": "obráběč kovů",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -327,8 +565,17 @@
         "Křemenáková",
         ""
       ],
+      "age": 44,
+      "work": "invalidní důchodkyně",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -337,8 +584,17 @@
         "Kobrová",
         ""
       ],
+      "age": 59,
+      "work": "živnostnice v oboru dopravy",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -347,8 +603,17 @@
         "Dušek",
         ""
       ],
+      "age": 62,
+      "work": "jednatel společnosti",
+      "home": "Nebanice",
+      "homeMeta": {
+        "num": 554693,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -357,8 +622,17 @@
         "Tancibudek",
         ""
       ],
+      "age": 68,
+      "work": "zámečník",
+      "home": "Hroznětín",
+      "homeMeta": {
+        "num": 555185,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -367,8 +641,17 @@
         "Čepičková",
         ""
       ],
+      "age": 67,
+      "work": "důchodkyně, dříve pracovnice České spořitelny",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -377,8 +660,17 @@
         "Kalaš",
         ""
       ],
+      "age": 71,
+      "work": "předseda okresního výboru KSČM",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -387,8 +679,17 @@
         "Němec",
         ""
       ],
+      "age": 48,
+      "work": "dělník - řidič",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -397,8 +698,17 @@
         "Jarolím",
         ""
       ],
+      "age": 71,
+      "work": "právník",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -407,8 +717,17 @@
         "Premus",
         ""
       ],
+      "age": 57,
+      "work": "zahradník",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -417,8 +736,17 @@
         "Homolka",
         ""
       ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -427,8 +755,17 @@
         "Gossová",
         ""
       ],
+      "age": 66,
+      "work": "vychovatelka",
+      "home": "Svatava",
+      "homeMeta": {
+        "num": 538434,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -437,18 +774,36 @@
         "Strejček",
         ""
       ],
+      "age": 21,
+      "work": "skladník",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Jaroslav",
-        "Műhlberger",
+        "Mühlberger",
         ""
       ],
+      "age": 64,
+      "work": "důchodce, dříve policista",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -457,8 +812,17 @@
         "Soural",
         ""
       ],
+      "age": 68,
+      "work": "důchodce",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -467,8 +831,17 @@
         "Janurová",
         ""
       ],
+      "age": 66,
+      "work": "ředitelka agentury sociálních služeb",
+      "home": "Březová",
+      "homeMeta": {
+        "num": 560294,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -477,8 +850,17 @@
         "Janča",
         ""
       ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -487,18 +869,36 @@
         "Vrzalová",
         ""
       ],
+      "age": 57,
+      "work": "osoba samostatně výdělečně činná",
+      "home": "Dolní Rychnov",
+      "homeMeta": {
+        "num": 538591,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
-        "Mgr. PhDr.",
+        "PhDr. Mgr.",
         "Zdeněk",
         "Musil",
         ""
       ],
+      "age": 76,
+      "work": "středoškolský učitel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -507,8 +907,17 @@
         "Kalina",
         ""
       ],
+      "age": 65,
+      "work": "elektromontér",
+      "home": "Třebeň",
+      "homeMeta": {
+        "num": 539023,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -517,8 +926,17 @@
         "Brychta",
         ""
       ],
+      "age": 67,
+      "work": "komerční poradce",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -527,8 +945,17 @@
         "Medveď",
         ""
       ],
+      "age": 68,
+      "work": "důchodce",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -537,8 +964,17 @@
         "Jurčák",
         ""
       ],
+      "age": 72,
+      "work": "důchodce, bývalý starosta města Hranice",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 554553,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -547,8 +983,17 @@
         "Brož",
         ""
       ],
+      "age": 65,
+      "work": "důchodce",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     }
   ],
   "name": "Komunistická strana Čech a Moravy",

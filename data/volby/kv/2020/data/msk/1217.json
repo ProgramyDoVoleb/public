@@ -4,5 +4,26 @@
   "hash": "moravska-a-slezska-piratska-strana",
   "short": "MS Piráti",
   "no": 14,
-  "data": "msk/1217"
+  "data": "msk/1217",
+  "list": [
+    {
+      "nameFull": [
+        "Mgr. et Bc.",
+        "Karel",
+        "Světnička",
+        ""
+      ],
+      "age": 60,
+      "work": "právník a nezávislý publicista",
+      "home": "Havířov",
+      "homeMeta": {
+        "num": 555088,
+        "gps": []
+      },
+      "reg": 1217,
+      "nominee": 1217,
+      "sex": 1,
+      "links": []
+    }
+  ]
 }

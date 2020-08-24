@@ -37,13 +37,22 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jaroslav",
         "Staněk",
         ""
       ],
+      "age": 52,
+      "work": "gymnaziální učitel, zastupitel města Aš",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -52,8 +61,17 @@
         "Macháčková",
         ""
       ],
+      "age": 35,
+      "work": "učitelka, zastupitelka města Bochov",
+      "home": "Bochov",
+      "homeMeta": {
+        "num": 555029,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -62,8 +80,17 @@
         "Kubát",
         ""
       ],
+      "age": 55,
+      "work": "ekonom",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -72,8 +99,17 @@
         "Kopecká",
         ""
       ],
+      "age": 40,
+      "work": "učitelka",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -82,8 +118,17 @@
         "Vítek",
         ""
       ],
+      "age": 65,
+      "work": "vodohospodář, zastupitel města Nejdek",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -92,8 +137,17 @@
         "Flaška",
         ""
       ],
+      "age": 39,
+      "work": "středoškolský pedagog, zastupitel města Aš",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -102,8 +156,17 @@
         "Hýsková",
         ""
       ],
+      "age": 30,
+      "work": "kurátorka výstav v galerii umění",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -112,8 +175,17 @@
         "Formánek",
         ""
       ],
+      "age": 30,
+      "work": "pedagog, historik",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -122,18 +194,36 @@
         "Voráč",
         ""
       ],
+      "age": 59,
+      "work": "ředitel Khamoro o.p.s.",
+      "home": "Nové Sedlo",
+      "homeMeta": {
+        "num": 560570,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
         "Mgr.",
         "Pavel",
-        "Matala ",
+        "Matala",
         ""
       ],
+      "age": 41,
+      "work": "učitel",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -142,8 +232,17 @@
         "Zimová",
         ""
       ],
+      "age": 33,
+      "work": "skladová referentka",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -152,8 +251,17 @@
         "Němec",
         ""
       ],
+      "age": 65,
+      "work": "projektant",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -162,18 +270,36 @@
         "Gebouský",
         ""
       ],
+      "age": 62,
+      "work": "ředitel firmy",
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "Dr.-Ing.",
+        "Dr. Ing.",
         "Martin",
         "Kolouch",
-        ""
+        "Ph.D."
       ],
+      "age": 41,
+      "work": "vědecký pracovník",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -182,8 +308,17 @@
         "Mudrová",
         ""
       ],
+      "age": 70,
+      "work": "knihovnice",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -192,8 +327,17 @@
         "Pecher",
         ""
       ],
+      "age": 39,
+      "work": "stavební projektant",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -202,8 +346,17 @@
         "Böhm",
         ""
       ],
+      "age": 44,
+      "work": "lesník",
+      "home": "Nové Hamry",
+      "homeMeta": {
+        "num": 506494,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -212,8 +365,17 @@
         "Malotínová",
         ""
       ],
+      "age": 52,
+      "work": "učitelka",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -222,8 +384,17 @@
         "Škoda",
         ""
       ],
+      "age": 27,
+      "work": "učitel biologie",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -232,8 +403,17 @@
         "Křížek",
         ""
       ],
+      "age": 34,
+      "work": "referent Krajského ředitelství K. Vary, Lesy ČR",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -242,8 +422,17 @@
         "Kolouchová",
         ""
       ],
+      "age": 37,
+      "work": "učitelka",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -252,8 +441,17 @@
         "Košner",
         ""
       ],
+      "age": 52,
+      "work": "zahradník",
+      "home": "Vysoká Pec",
+      "homeMeta": {
+        "num": 578029,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -262,8 +460,17 @@
         "Novák",
         ""
       ],
+      "age": 42,
+      "work": "houslař - kytarář",
+      "home": "Františkovy Lázně",
+      "homeMeta": {
+        "num": 554529,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -272,8 +479,17 @@
         "Mika",
         ""
       ],
+      "age": 40,
+      "work": "strojvedoucí",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -282,8 +498,17 @@
         "Havlová",
         ""
       ],
+      "age": 51,
+      "work": "účetní",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -292,8 +517,17 @@
         "Zima",
         ""
       ],
+      "age": 56,
+      "work": "vedoucí hospodářské správy",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -302,18 +536,36 @@
         "Lukáš",
         ""
       ],
+      "age": 41,
+      "work": "analytik v laborat. hematologii",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Vadim",
         "Lavrivský",
-        ""
+        "LL.M."
       ],
+      "age": 39,
+      "work": "právník",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -322,8 +574,17 @@
         "Malá",
         ""
       ],
+      "age": 66,
+      "work": "veterinární technička",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -332,8 +593,17 @@
         "Havel",
         ""
       ],
+      "age": 41,
+      "work": "technik",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -342,18 +612,36 @@
         "Vítek",
         ""
       ],
+      "age": 35,
+      "work": "učitel",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Dagmar",
-        "KINKALOVÁ Paťhová",
+        "Kinkalová Paťhová",
         ""
       ],
+      "age": 37,
+      "work": "fotografka",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -362,8 +650,17 @@
         "Rambousek",
         ""
       ],
+      "age": 41,
+      "work": "učitel",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -372,8 +669,17 @@
         "Petrlík",
         ""
       ],
+      "age": 82,
+      "work": "chemik",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -382,8 +688,17 @@
         "Adamovičová",
         ""
       ],
+      "age": 24,
+      "work": "asistentka pedagoga",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -392,8 +707,17 @@
         "Pešek",
         ""
       ],
+      "age": 48,
+      "work": "elektrikář",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -402,8 +726,17 @@
         "Kárník",
         ""
       ],
+      "age": 53,
+      "work": "doručovatel",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 554553,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -412,8 +745,17 @@
         "Křížová",
         ""
       ],
+      "age": 57,
+      "work": "administrativní pracovnice",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
     },
     {
       "nameFull": [
@@ -422,8 +764,17 @@
         "Staněk",
         ""
       ],
+      "age": 48,
+      "work": "čajovník",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -432,8 +783,17 @@
         "Nováková",
         ""
       ],
+      "age": 68,
+      "work": "lékařka Karlovarské krajské nemocnice",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -442,8 +802,17 @@
         "Nekolná",
         ""
       ],
+      "age": 59,
+      "work": "pojišťovací poradkyně",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 2,
-      "reg": 99
+      "links": []
     }
   ],
   "name": "Strana zelených",

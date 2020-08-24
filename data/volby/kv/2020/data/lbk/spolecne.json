@@ -196,21 +196,27 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Klápště",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "vedoucí Správy CHKO Český ráj, krajinný inženýr, trenér basketbalové mládeže",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 721,
+      "nominee": 721,
+      "sex": 1,
       "links": [
         "https://spolecneprolibereckykraj.cz/kandidat/klapste-jiri",
         "https://www.facebook.com/jiri.klapste",
         "https://www.instagram.com/jiriklapste"
       ],
-      "photo": "jiri-klapste.jpg",
-    "work": "vedoucí Správy CHKO Český ráj, krajinný inženýr, trenér basketbalové mládeže",
-    "home": "Turnov"
+      "photo": "jiri-klapste.jpg"
     },
     {
       "nameFull": [
@@ -219,14 +225,20 @@
         "Matek",
         ""
       ],
-      "sex": 1,
+      "age": 33,
+      "work": "trenér plavání, zastupitel města Jablonec nad Nisou",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 1,
+      "nominee": 1,
+      "sex": 1,
       "links": [
         "https://www.spolecneprolibereckykraj.cz/kandidat/matek-stepan"
       ],
-      "photo": "stepan-matek.jpg",
-    "work": "trenér plavání, zastupitel města Jablonec nad Nisou",
-    "home": "Jablonec nad Nisou"
+      "photo": "stepan-matek.jpg"
     },
     {
       "nameFull": [
@@ -235,14 +247,20 @@
         "Šolc",
         ""
       ],
-      "sex": 1,
+      "age": 42,
+      "work": "náměstek primátora pro technickou správu města a informační technologie v Liberci",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 99,
+      "nominee": 721,
+      "sex": 1,
       "links": [
         "https://www.spolecneprolibereckykraj.cz/kandidat/solc-jiri"
       ],
-      "photo": "jiri-solc.jpg",
-    "work": "náměstek primátora pro technickou správu města a informační technologie v Liberci",
-    "home": "Liberec"
+      "photo": "jiri-solc.jpg"
     },
     {
       "nameFull": [
@@ -251,14 +269,20 @@
         "Šimůnek",
         ""
       ],
-      "sex": 1,
+      "age": 42,
+      "work": "finanční manažer",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 1,
+      "nominee": 1,
+      "sex": 1,
       "links": [
         "https://www.spolecneprolibereckykraj.cz/kandidat/simunek-josef"
       ],
-      "photo": "josef-simunek.jpg",
-    "work": "finanční manažer",
-    "home": "Česká Lípa"
+      "photo": "josef-simunek.jpg"
     },
     {
       "nameFull": [
@@ -267,14 +291,20 @@
         "Václav",
         ""
       ],
-      "sex": 1,
+      "age": 44,
+      "work": "soukromý podnikatel ve stavebnictví",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 721,
+      "nominee": 721,
+      "sex": 1,
       "links": [
         "https://www.spolecneprolibereckykraj.cz/kandidat/miloslav-vaclav"
       ],
-      "photo": "miloslav-vaclav.jpg",
-    "work": "soukromý podnikatel ve stavebnictví",
-    "home": "Česká Lípa"
+      "photo": "miloslav-vaclav.jpg"
     },
     {
       "nameFull": [
@@ -283,10 +313,17 @@
         "Procházková",
         ""
       ],
-      "sex": 1,
+      "age": 46,
+      "work": "zdravotní sestra, instrumentářka na operačním sále Krajské nemocnice Liberec, a.s.",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 1,
-    "work": "zdravotní sestra, instrumentářka na operačním sále Krajské nemocnice Liberec, a.s.",
-    "home": "Liberec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -295,22 +332,36 @@
         "Vondráček",
         ""
       ],
-      "sex": 1,
+      "age": 63,
+      "work": "ředitel jazykové školy",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 721,
-    "work": "ředitel jazykové školy",
-    "home": "Jablonec nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "MUDr.",
+        "MDDr.",
         "Daniela",
         "Šebestová",
         ""
       ],
-      "sex": 1,
+      "age": 34,
+      "work": "zubní lékařka, místostarostka města Tanvald",
+      "home": "Tanvald",
+      "homeMeta": {
+        "num": 563820,
+        "gps": []
+      },
       "reg": 99,
-    "work": "zubní lékařka, místostarostka města Tanvald",
-    "home": "Tanvald"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -319,10 +370,17 @@
         "Veber",
         ""
       ],
-      "sex": 1,
+      "age": 56,
+      "work": "konstruktér, programátor CNC",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 1,
-    "work": "konstruktér, programátor CNC",
-    "home": "Turnov"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -331,10 +389,17 @@
         "Šmejda",
         "MBA"
       ],
-      "sex": 1,
+      "age": 55,
+      "work": "ředitel školy",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 99,
-    "work": "ředitel školy",
-    "home": "Česká Lípa"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -343,10 +408,17 @@
         "Kozák",
         ""
       ],
-      "sex": 1,
+      "age": 40,
+      "work": "starosta obce Vyskeř",
+      "home": "Vyskeř",
+      "homeMeta": {
+        "num": 577685,
+        "gps": []
+      },
       "reg": 99,
-    "work": "starosta obce Vyskeř",
-    "home": "Vyskeř"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -355,10 +427,17 @@
         "Zemanová",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "operní zpěvačka a členka Divadla F.X.Šaldy Liberec, p.o., zastupitelka města Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 1,
-    "work": "operní zpěvačka a členka Divadla F.X.Šaldy Liberec, p.o., zastupitelka města Liberec",
-    "home": "Liberec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -367,10 +446,17 @@
         "Rejmont",
         ""
       ],
-      "sex": 1,
+      "age": 63,
+      "work": "lékař Nemocnice Jablonec nad Nisou, p.o., pověřený vedením screeningu nádorů prsů",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 721,
-    "work": "lékař Nemocnice Jablonec nad Nisou, p.o., pověřený vedením screeningu nádorů prsů",
-    "home": "Turnov"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -379,10 +465,17 @@
         "Rákosová",
         ""
       ],
-      "sex": 1,
+      "age": 69,
+      "work": "lékařka pro dospělé",
+      "home": "Železný Brod",
+      "homeMeta": {
+        "num": 563871,
+        "gps": []
+      },
       "reg": 1,
-    "work": "lékařka pro dospělé",
-    "home": "Železný Brod"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -391,10 +484,17 @@
         "Korselt",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "projektový manažer, zastupitel města Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 721,
-    "work": "projektový manažer, zastupitel města Liberec",
-    "home": "Liberec"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -403,10 +503,17 @@
         "Knížek",
         ""
       ],
-      "sex": 1,
+      "age": 63,
+      "work": "chemik",
+      "home": "Desná",
+      "homeMeta": {
+        "num": 563552,
+        "gps": []
+      },
       "reg": 1,
-    "work": "chemik",
-    "home": "Desná"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -415,10 +522,17 @@
         "Bašus",
         ""
       ],
-      "sex": 1,
+      "age": 43,
+      "work": "obchodní manažer",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 721,
-    "work": "obchodní manažer",
-    "home": "Jablonec nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -427,10 +541,17 @@
         "Kraus",
         ""
       ],
-      "sex": 1,
+      "age": 34,
+      "work": "všeobecný praktický lékař",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
       "reg": 99,
-    "work": "všeobecný praktický lékař",
-    "home": "Semily"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -439,10 +560,17 @@
         "Ševčík",
         "DiS."
       ],
-      "sex": 1,
+      "age": 31,
+      "work": "učitel a zástupce ředitele ZUŠ",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 721,
-    "work": "učitel a zástupce ředitele ZUŠ",
-    "home": "Česká Lípa"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -451,10 +579,17 @@
         "Novák",
         ""
       ],
-      "sex": 1,
+      "age": 66,
+      "work": "administrativní pracovník spediční firmy",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 1,
-    "work": "administrativní pracovník spediční firmy",
-    "home": "Liberec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -463,10 +598,17 @@
         "Loukota",
         ""
       ],
-      "sex": 1,
+      "age": 37,
+      "work": "ředitel školy, zastupitel města Turnov",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 721,
-    "work": "ředitel školy, zastupitel města Turnov",
-    "home": "Turnov"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -475,10 +617,17 @@
         "Malík",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "lékař",
+      "home": "Libštát",
+      "homeMeta": {
+        "num": 577294,
+        "gps": []
+      },
       "reg": 99,
-    "work": "lékař",
-    "home": "Libštát"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -487,16 +636,22 @@
         "Miler",
         ""
       ],
-      "sex": 1,
+      "age": 23,
+      "work": "student",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 721,
+      "nominee": 721,
+      "sex": 1,
       "links": [
         "https://www.top09.cz/regiony/liberecky-kraj/regionalni-organizace/liberec/mistni-organizace/mo-liberec/osobnostni-medailonek-vojtecha-milera-25745.html",
         "https://www.facebook.com/vojmil/",
         "https://www.facebook.com/VojMi",
         "https://instagram.com/vojtamiler"
-      ],
-    "work": "student",
-    "home": "Liberec"
+      ]
     },
     {
       "nameFull": [
@@ -505,10 +660,17 @@
         "Šnorbert",
         ""
       ],
-      "sex": 1,
+      "age": 25,
+      "work": "student",
+      "home": "Jilemnice",
+      "homeMeta": {
+        "num": 577197,
+        "gps": []
+      },
       "reg": 1,
-    "work": "student",
-    "home": "Jilemnice"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -517,10 +679,17 @@
         "Fiala",
         ""
       ],
-      "sex": 1,
+      "age": 54,
+      "work": "projektant - stavař",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 721,
-    "work": "projektant - stavař",
-    "home": "Jablonec nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -529,10 +698,17 @@
         "Valčík",
         ""
       ],
-      "sex": 1,
+      "age": 41,
+      "work": "IT aplikační specialista",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 1,
-    "work": "IT aplikační specialista",
-    "home": "Liberec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -541,10 +717,17 @@
         "May",
         "DiS."
       ],
-      "sex": 1,
+      "age": 31,
+      "work": "prodejce lustrů prácheňského typu",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 721,
-    "work": "prodejce lustrů prácheňského typu",
-    "home": "Česká Lípa"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -553,10 +736,17 @@
         "Zahrádka",
         "DiS."
       ],
-      "sex": 1,
+      "age": 40,
+      "work": "referent životního prostředí městského úřadu Lomnice nad Popelkou",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
       "reg": 1,
-    "work": "referent životního prostředí městského úřadu Lomnice nad Popelkou",
-    "home": "Semily"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -565,10 +755,17 @@
         "Havlík",
         ""
       ],
-      "sex": 1,
+      "age": 18,
+      "work": "student, organizátor akcí Milionu chvilek pro demokracii",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 99,
-    "work": "student, organizátor akcí Milionu chvilek pro demokracii",
-    "home": "Turnov"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -577,10 +774,17 @@
         "Kalousová",
         "MBA"
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "ředitelka divize cestovního ruchu",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 1,
-    "work": "ředitelka divize cestovního ruchu",
-    "home": "Česká Lípa"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -589,10 +793,17 @@
         "Faistauer",
         ""
       ],
-      "sex": 1,
+      "age": 56,
+      "work": "podnikatel ve finančním sektoru",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 721,
-    "work": "podnikatel ve finančním sektoru",
-    "home": "Liberec"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -601,10 +812,17 @@
         "Nosek",
         ""
       ],
-      "sex": 1,
+      "age": 69,
+      "work": "úředník, bývalý starosta",
+      "home": "Jablonec nad Jizerou",
+      "homeMeta": {
+        "num": 577162,
+        "gps": []
+      },
       "reg": 1,
-    "work": "úředník, bývalý starosta",
-    "home": "Jablonec nad Jizerou"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -613,10 +831,17 @@
         "Jiříček",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "technický správce budov Silnice LK a.s. a rybářský hospodář",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 99,
-    "work": "technický správce budov Silnice LK a.s. a rybářský hospodář",
-    "home": "Jablonec nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -625,10 +850,17 @@
         "Tesárková",
         ""
       ],
-      "sex": 1,
+      "age": 28,
+      "work": "asistentka, t.č. na mateřské dovolené",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 1,
-    "work": "asistentka, t.č. na mateřské dovolené",
-    "home": "Česká Lípa"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -637,10 +869,17 @@
         "Rejnart",
         ""
       ],
-      "sex": 1,
+      "age": 48,
+      "work": "hudebník, výtvarník - OSVČ",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 99,
-    "work": "hudebník, výtvarník - OSVČ",
-    "home": "Liberec"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -649,10 +888,17 @@
         "Matek",
         ""
       ],
-      "sex": 1,
+      "age": 60,
+      "work": "lékař, dětský neurolog",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 99,
-    "work": "lékař, dětský neurolog",
-    "home": "Jablonec nad Nisou"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -661,10 +907,17 @@
         "Krousová",
         ""
       ],
-      "sex": 1,
+      "age": 56,
+      "work": "referent praxí na Technické univerzitě v Liberci, fakultě textilní, radní města Mimoň",
+      "home": "Mimoň",
+      "homeMeta": {
+        "num": 561835,
+        "gps": []
+      },
       "reg": 99,
-    "work": "referent praxí na Technické univerzitě v Liberci, fakultě textilní, radní města Mimoň",
-    "home": "Mimoň"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -673,10 +926,17 @@
         "Ulrychová",
         ""
       ],
-      "sex": 1,
+      "age": 26,
+      "work": "učitelka odborných předmětů na Integrované střední škole",
+      "home": "Studenec",
+      "homeMeta": {
+        "num": 577553,
+        "gps": []
+      },
       "reg": 1,
-    "work": "učitelka odborných předmětů na Integrované střední škole",
-    "home": "Studenec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -685,10 +945,17 @@
         "Pekařová",
         ""
       ],
-      "sex": 1,
+      "age": 37,
+      "work": "učitelka, skautka",
+      "home": "Ohrazenice",
+      "homeMeta": {
+        "num": 577359,
+        "gps": []
+      },
       "reg": 99,
-    "work": "učitelka, skautka",
-    "home": "Ohrazenice"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -697,22 +964,36 @@
         "Zahradník",
         ""
       ],
-      "sex": 1,
+      "age": 46,
+      "work": "středoškolský učitel",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
       "reg": 99,
-    "work": "středoškolský učitel",
-    "home": "Semily"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Nguyenová",
         "Thi Hong Ngoc",
+        "Nguyenová",
         ""
       ],
-      "sex": 2,
+      "age": 21,
+      "work": "manažer vztahů s hosty hotelu",
+      "home": "Harrachov",
+      "homeMeta": {
+        "num": 577081,
+        "gps": []
+      },
       "reg": 721,
-    "work": "manažer vztahů s hosty hotelu",
-    "home": "Harrachov"
+      "nominee": 721,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -721,10 +1002,17 @@
         "Jiran",
         ""
       ],
-      "sex": 1,
+      "age": 63,
+      "work": "ředitel zemědělské firmy",
+      "home": "Studenec",
+      "homeMeta": {
+        "num": 577553,
+        "gps": []
+      },
       "reg": 1,
-    "work": "ředitel zemědělské firmy",
-    "home": "Studenec"
+      "nominee": 1,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -733,10 +1021,17 @@
         "Prokop",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "radní města Česká Lípa, soudní tlumočník a překladatel",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 721,
-    "work": "radní města Česká Lípa, soudní tlumočník a překladatel",
-    "home": "Česká Lípa"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -745,10 +1040,17 @@
         "Jíra",
         ""
       ],
-      "sex": 1,
+      "age": 47,
+      "work": "živnostník - stavař",
+      "home": "Rovensko pod Troskami",
+      "homeMeta": {
+        "num": 577472,
+        "gps": []
+      },
       "reg": 721,
-    "work": "živnostník - stavař",
-    "home": "Rovensko pod Troskami"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -757,10 +1059,17 @@
         "Mlejnek",
         ""
       ],
-      "sex": 1,
+      "age": 46,
+      "work": "učitel Gymnázia Turnov, zastupitel města Turnov",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 99,
-    "work": "učitel Gymnázia Turnov, zastupitel města Turnov",
-    "home": "Turnov"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -769,10 +1078,17 @@
         "Hendrych",
         ""
       ],
-      "sex": 1,
+      "age": 39,
+      "work": "učitel na ZŠ",
+      "home": "Stružnice",
+      "homeMeta": {
+        "num": 562106,
+        "gps": []
+      },
       "reg": 721,
-    "work": "učitel na ZŠ",
-    "home": "Stružnice"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -781,10 +1097,17 @@
         "Bürgerová",
         ""
       ],
-      "sex": 1,
+      "age": 54,
+      "work": "úřednice živnostenského úřadu, zastupitelka obce Janov nad Nisou",
+      "home": "Janov nad Nisou",
+      "homeMeta": {
+        "num": 563595,
+        "gps": []
+      },
       "reg": 721,
-    "work": "úřednice živnostenského úřadu, zastupitelka obce Janov nad Nisou",
-    "home": "Janov nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -793,10 +1116,17 @@
         "Nalezený",
         ""
       ],
-      "sex": 1,
+      "age": 41,
+      "work": "architekt",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 721,
-    "work": "architekt",
-    "home": "Jablonec nad Nisou"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -805,10 +1135,17 @@
         "Chmelík",
         ""
       ],
-      "sex": 1,
+      "age": 44,
+      "work": "majitel výrobní firmy, zastupitel města Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 721,
-    "work": "majitel výrobní firmy, zastupitel města Liberec",
-    "home": "Liberec"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -817,10 +1154,17 @@
         "Chroust",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "mediální konzultant",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
       "reg": 721,
-    "work": "mediální konzultant",
-    "home": "Liberec"
+      "nominee": 721,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#fec92f"

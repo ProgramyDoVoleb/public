@@ -437,8 +437,16 @@
         "Karika",
         ""
       ],
-      "sex": 1,
+      "age": 59,
+      "work": "Vedoucí domu svatého Materny, pracovník v charitě",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://ustecky.pirati.cz/lide/karel-karika",
         "https://www.facebook.com/karel.karika",
@@ -455,8 +463,16 @@
         "Stojanová",
         ""
       ],
-      "sex": 2,
+      "age": 22,
+      "work": "Studentka práv na Univerzitě Karlově",
+      "home": "Litoměřice",
+      "homeMeta": {
+        "num": 564567,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/kata.stojanova"
       ],
@@ -464,24 +480,41 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Vít",
         "Rous",
         ""
       ],
-      "sex": 1,
+      "age": 37,
+      "work": "Projektant - vodní hospodářství",
+      "home": "Dubí",
+      "homeMeta": {
+        "num": 567507,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": [],
       "photo": "vit-rous.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Ing. Mgr.",
         "Jiří",
         "Baudis",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "Systémový specialista",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/jbaudis"
       ],
@@ -489,13 +522,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Kranda",
         ""
       ],
-      "sex": 1,
+      "age": 46,
+      "work": "Učitel, hudebník",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/jan.kranda"
       ],
@@ -508,8 +549,17 @@
         "Vlach",
         ""
       ],
+      "age": 44,
+      "work": "IT technik, předseda spolku ŽOK",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -518,18 +568,36 @@
         "Ryšavý",
         ""
       ],
+      "age": 23,
+      "work": "Student územního plánování",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Hana",
         "Vodrážková",
         ""
       ],
+      "age": 48,
+      "work": "Ředitelka neziskové organizace",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -538,8 +606,17 @@
         "Beutelová",
         ""
       ],
+      "age": 32,
+      "work": "Operátorka technické podpory",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -548,8 +625,17 @@
         "Blažej",
         ""
       ],
+      "age": 24,
+      "work": "Zastupitel města Ústí nad Labem, student práv",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -558,8 +644,17 @@
         "Rýsler",
         ""
       ],
+      "age": 57,
+      "work": "OSVČ - restauratér",
+      "home": "Terezín",
+      "homeMeta": {
+        "num": 565717,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -568,8 +663,17 @@
         "Pelzmann Schwarzová",
         ""
       ],
+      "age": 34,
+      "work": "OSVČ",
+      "home": "Místo",
+      "homeMeta": {
+        "num": 563242,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -578,8 +682,17 @@
         "Konečný",
         ""
       ],
+      "age": 33,
+      "work": "Vedoucí skladu",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -588,108 +701,207 @@
         "Strnad",
         ""
       ],
+      "age": 44,
+      "work": "Expert na státní správu",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "František",
         "Navrkal",
         ""
       ],
+      "age": 28,
+      "work": "Poslanec Parlamentu ČR, datový inženýr",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jakub",
         "Přibyl",
         ""
       ],
+      "age": 38,
+      "work": "Hydroprognostik",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Miloslava",
         "Karfilátová",
         ""
       ],
+      "age": 54,
+      "work": "Personalistka",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Jan",
         "Mareš",
         ""
       ],
+      "age": 29,
+      "work": "Student",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Barbora",
         "Fuxová",
-        ""
+        "DiS."
       ],
+      "age": 31,
+      "work": "Pracovnice podpory vzdělávání",
+      "home": "Dobroměřice",
+      "homeMeta": {
+        "num": 546861,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Bartoníček",
         ""
       ],
+      "age": 40,
+      "work": "Ředitel, sociální pracovník",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Šmíd",
         ""
       ],
+      "age": 42,
+      "work": "Zastupitel města Děčín",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Adam",
         "Komenda",
         ""
       ],
+      "age": 29,
+      "work": "Zastupitel města Mostu",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Kateřina",
         "Stibalová",
         ""
       ],
+      "age": 43,
+      "work": "Sociální pracovnice, psychoterapeutka",
+      "home": "Litoměřice",
+      "homeMeta": {
+        "num": 564567,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Zdeněk",
         "Štěpánek",
         ""
       ],
+      "age": 37,
+      "work": "IT expert, člen ekozemědělského kibucu",
+      "home": "Varnsdorf",
+      "homeMeta": {
+        "num": 562882,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -698,28 +910,55 @@
         "Kunc",
         ""
       ],
+      "age": 21,
+      "work": "Inspektor kvality",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jana",
         "Hladová",
         ""
       ],
+      "age": 43,
+      "work": "Ekoložka",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jitka",
         "Gazdová",
         ""
       ],
+      "age": 38,
+      "work": "Stavební inženýrka",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -728,8 +967,17 @@
         "Robouský",
         ""
       ],
+      "age": 23,
+      "work": "Student",
+      "home": "Lovosice",
+      "homeMeta": {
+        "num": 565229,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -738,18 +986,36 @@
         "Berchinová",
         ""
       ],
+      "age": 21,
+      "work": "Studentka",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Nadolecki",
         ""
       ],
+      "age": 38,
+      "work": "Inženýr kvality",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -758,8 +1024,17 @@
         "Kindl",
         ""
       ],
+      "age": 67,
+      "work": "Důchodce",
+      "home": "Chomutov",
+      "homeMeta": {
+        "num": 562971,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -768,18 +1043,36 @@
         "Vaňková",
         ""
       ],
+      "age": 45,
+      "work": "Pracovnice NZDM",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Miltner",
         ""
       ],
+      "age": 39,
+      "work": "Geodet",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -788,8 +1081,17 @@
         "Kopač",
         ""
       ],
+      "age": 32,
+      "work": "Softwarový inženýr",
+      "home": "Benešov nad Ploučnicí",
+      "homeMeta": {
+        "num": 562351,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -798,108 +1100,207 @@
         "Najdenov",
         ""
       ],
+      "age": 44,
+      "work": "OSVČ",
+      "home": "Most",
+      "homeMeta": {
+        "num": 567027,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Petr",
         "Zdobinský",
         ""
       ],
+      "age": 67,
+      "work": "Podnikatel, zastupitel města Děčín",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Vítězslav",
         "Titl",
-        ""
+        "Ph.D. MSc."
       ],
+      "age": 30,
+      "work": "Ekonom",
+      "home": "Chomutov",
+      "homeMeta": {
+        "num": 562971,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Lukáš",
-        "William Šmíd",
+        "Lukáš William",
+        "Šmíd",
         ""
       ],
+      "age": 27,
+      "work": "Úředník a OSVČ",
+      "home": "Lovosice",
+      "homeMeta": {
+        "num": 565229,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jana",
         "Pazderková",
         ""
       ],
+      "age": 41,
+      "work": "Středoškolská učitelka",
+      "home": "Litoměřice",
+      "homeMeta": {
+        "num": 564567,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Albert",
         "Macas",
         ""
       ],
+      "age": 26,
+      "work": "Analytik, spolupracovník Google",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Martin",
         "Kolář",
-        ""
+        "Ph.D."
       ],
+      "age": 51,
+      "work": "Odborný asistent FUD UJEP",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Jakub",
         "Jaroš",
         ""
       ],
+      "age": 29,
+      "work": "Architekt",
+      "home": "Koštice",
+      "homeMeta": {
+        "num": 566284,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Stanislava",
         "Hamáková",
-        ""
+        "DiS."
       ],
+      "age": 37,
+      "work": "Koordinátorka dobrovolnického centra",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Kopica",
         ""
       ],
+      "age": 41,
+      "work": "Muzejník",
+      "home": "Kadaň",
+      "homeMeta": {
+        "num": 563102,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ondřej",
         "Marek",
         ""
       ],
+      "age": 29,
+      "work": "Sociální pracovník",
+      "home": "Litoměřice",
+      "homeMeta": {
+        "num": 564567,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -908,8 +1309,17 @@
         "Maixner",
         ""
       ],
+      "age": 36,
+      "work": "Výrobní chemik",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -918,18 +1328,36 @@
         "Brendl",
         ""
       ],
+      "age": 30,
+      "work": "Bankéř a zdravotník",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Radek",
         "Holodňák",
         ""
       ],
+      "age": 27,
+      "work": "Filosof a badatel na Univerzitě Karlově",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -938,18 +1366,36 @@
         "Pokorný",
         ""
       ],
+      "age": 71,
+      "work": "Manažer projektu Handycars",
+      "home": "Nová Ves v Horách",
+      "homeMeta": {
+        "num": 567329,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jakub",
         "Nevím",
         ""
       ],
+      "age": 29,
+      "work": "Stavbyvedoucí",
+      "home": "Veltěže",
+      "homeMeta": {
+        "num": 566896,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -958,8 +1404,17 @@
         "Haidler",
         ""
       ],
+      "age": 61,
+      "work": "Herec",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -968,8 +1423,17 @@
         "Brož",
         ""
       ],
+      "age": 41,
+      "work": "Sociální pracovník",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -978,18 +1442,36 @@
         "Přibylová Kočková",
         ""
       ],
+      "age": 38,
+      "work": "Pečovatelka v domě pro seniory",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ota",
         "Blail",
         ""
       ],
+      "age": 41,
+      "work": "Učitel, vedoucí komunitního klubu Budík",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -998,8 +1480,17 @@
         "Filípek",
         ""
       ],
+      "age": 29,
+      "work": "Reklamní stratég, PR manažer, grafik",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -1008,8 +1499,17 @@
         "Weidisch",
         ""
       ],
+      "age": 27,
+      "work": "Kyberbezpečnostní specialista",
+      "home": "Žatec",
+      "homeMeta": {
+        "num": 566985,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -1018,8 +1518,17 @@
         "Kulhánek",
         ""
       ],
+      "age": 37,
+      "work": "Manažer logistiky",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -1028,8 +1537,17 @@
         "Vorlíček",
         ""
       ],
+      "age": 23,
+      "work": "Student",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -1038,8 +1556,17 @@
         "Schönfeldová",
         ""
       ],
+      "age": 18,
+      "work": "Studentka",
+      "home": "Litvínov",
+      "homeMeta": {
+        "num": 567256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -1048,8 +1575,17 @@
         "Miličevič",
         ""
       ],
+      "age": 26,
+      "work": "Student, tiskař",
+      "home": "Louny",
+      "homeMeta": {
+        "num": 565971,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 99
+      "links": []
     }
   ],
   "name": "Česká pirátská strana",

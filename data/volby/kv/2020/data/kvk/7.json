@@ -18,11 +18,855 @@
         "Červenka",
         ""
       ],
-      "sex": 1,
+      "age": 32,
+      "work": "starosta města Rotavy",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
       "reg": 7,
+      "nominee": 7,
+      "sex": 1,
       "links": [
         "https://www.cssd.cz/nasi-lide/michal-cervenka/"
       ]
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Mleziva",
+        ""
+      ],
+      "age": 53,
+      "work": "ředitel výrobního podniku",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Fiala",
+        "CSc."
+      ],
+      "age": 64,
+      "work": "učitel VŠ",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Svoboda",
+        ""
+      ],
+      "age": 56,
+      "work": "starosta města Kynšperk nad Ohří",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Oto",
+        "Teuber",
+        ""
+      ],
+      "age": 47,
+      "work": "starosta města Nový Kostel",
+      "home": "Nový Kostel",
+      "homeMeta": {
+        "num": 554707,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Železný",
+        ""
+      ],
+      "age": 62,
+      "work": "zastupitel města Ostrov, jednatel společnosti",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Vlasta",
+        "Kaiserová",
+        ""
+      ],
+      "age": 57,
+      "work": "ředitelka MŠ",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Černík",
+        ""
+      ],
+      "age": 44,
+      "work": "jednatel společnosti",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Sýkora",
+        ""
+      ],
+      "age": 51,
+      "work": "jednatel společnosti",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Lorenc",
+        ""
+      ],
+      "age": 66,
+      "work": "zámečník",
+      "home": "Habartov",
+      "homeMeta": {
+        "num": 560359,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr. Mgr.",
+        "Marcel",
+        "Kučera",
+        ""
+      ],
+      "age": 51,
+      "work": "hudební pedagog, komunální zastupitel",
+      "home": "Velký Luh",
+      "homeMeta": {
+        "num": 578002,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Jordán",
+        ""
+      ],
+      "age": 35,
+      "work": "rozpočtář",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Rezek",
+        ""
+      ],
+      "age": 36,
+      "work": "hasič",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Věra",
+        "Vaňousová",
+        ""
+      ],
+      "age": 60,
+      "work": "učitelka",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Josef",
+        "Šesták",
+        ""
+      ],
+      "age": 37,
+      "work": "vodárenský technik, zastupitel města Nejdek",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Hrubý",
+        ""
+      ],
+      "age": 57,
+      "work": "právník a tiskový mluvčí, příležitostně i ředitel",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Horná",
+        ""
+      ],
+      "age": 54,
+      "work": "laborantka",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Soumar",
+        ""
+      ],
+      "age": 42,
+      "work": "řidič sanitky",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Alena",
+        "Červená",
+        ""
+      ],
+      "age": 64,
+      "work": "učitelka",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladimíra",
+        "Břeňová",
+        ""
+      ],
+      "age": 51,
+      "work": "pedagog",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Marek",
+        "Šír",
+        ""
+      ],
+      "age": 46,
+      "work": "učitel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Lebeda",
+        ""
+      ],
+      "age": 67,
+      "work": "technik",
+      "home": "Habartov",
+      "homeMeta": {
+        "num": 560359,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Kroupa",
+        ""
+      ],
+      "age": 47,
+      "work": "stavební inženýr",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Cingroš",
+        ""
+      ],
+      "age": 24,
+      "work": "technik IT",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Soňa",
+        "Tatarová",
+        ""
+      ],
+      "age": 45,
+      "work": "pečovatelka",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Krausová",
+        ""
+      ],
+      "age": 37,
+      "work": "místostarostka obce Velký Luh",
+      "home": "Velký Luh",
+      "homeMeta": {
+        "num": 578002,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Danuše",
+        "Považanová",
+        ""
+      ],
+      "age": 71,
+      "work": "středoškolská učitelka",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Prediger",
+        ""
+      ],
+      "age": 67,
+      "work": "důchodce",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Kohoutová",
+        ""
+      ],
+      "age": 54,
+      "work": "provozní technik",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiřina",
+        "Rottová",
+        "DiS."
+      ],
+      "age": 62,
+      "work": "učitelka ZUŠ",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Červený",
+        ""
+      ],
+      "age": 40,
+      "work": "OSVČ",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Oldřich",
+        "Orság",
+        ""
+      ],
+      "age": 48,
+      "work": "manažer",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Sandr",
+        ""
+      ],
+      "age": 60,
+      "work": "expedient",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Kuncl",
+        ""
+      ],
+      "age": 35,
+      "work": "logistický operátor",
+      "home": "Habartov",
+      "homeMeta": {
+        "num": 560359,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Kejmar",
+        ""
+      ],
+      "age": 34,
+      "work": "dělník",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Sušanin",
+        ""
+      ],
+      "age": 20,
+      "work": "student IT",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miloslav",
+        "Neubauer",
+        ""
+      ],
+      "age": 72,
+      "work": "důchodce",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Baďura",
+        ""
+      ],
+      "age": 41,
+      "work": "číšník",
+      "home": "Nový Kostel",
+      "homeMeta": {
+        "num": 554707,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Kolacia",
+        ""
+      ],
+      "age": 43,
+      "work": "kuchař",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Poul",
+        ""
+      ],
+      "age": 48,
+      "work": "elektromontér",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Běláč",
+        ""
+      ],
+      "age": 76,
+      "work": "důchodce",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Dietz",
+        ""
+      ],
+      "age": 54,
+      "work": "učitel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hrubý",
+        ""
+      ],
+      "age": 34,
+      "work": "referent",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vítězslav",
+        "Šváb",
+        ""
+      ],
+      "age": 48,
+      "work": "truhlář",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. et Mgr.",
+        "Radek",
+        "Karchňák",
+        ""
+      ],
+      "age": 50,
+      "work": "psycholog",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Česká strana sociálně demokratická",

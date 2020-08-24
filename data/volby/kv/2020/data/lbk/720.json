@@ -190,13 +190,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Zbyněk",
         "Miklík",
         ""
       ],
-      "sex": 1,
+      "age": 45,
+      "work": "poradce, školitel",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://liberecky.pirati.cz/lide/zbynek-miklik",
         "https://www.facebook.com/zbynek.miklik.10",
@@ -211,8 +219,16 @@
         "Židek",
         ""
       ],
-      "sex": 1,
+      "age": 40,
+      "work": "OSVČ, prokurista",
+      "home": "Jablonné v Podještědí",
+      "homeMeta": {
+        "num": 561631,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/vaclav.zidek"
       ],
@@ -220,13 +236,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jarmila",
         "Valešová",
-        ""
+        "FCCA"
       ],
-      "sex": 2,
+      "age": 37,
+      "work": "OSVČ",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/jarmila.valesova.33"
       ],
@@ -239,8 +263,16 @@
         "Tempel",
         ""
       ],
-      "sex": 1,
+      "age": 26,
+      "work": "IT specialista",
+      "home": "Železný Brod",
+      "homeMeta": {
+        "num": 563871,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/jan.tempel"
       ],
@@ -253,8 +285,16 @@
         "Weissová",
         ""
       ],
-      "sex": 2,
+      "age": 59,
+      "work": "OSVČ",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/daniela.weissova.9"
       ],
@@ -267,8 +307,17 @@
         "Förster",
         ""
       ],
+      "age": 44,
+      "work": "OSVČ, programátor",
+      "home": "Desná",
+      "homeMeta": {
+        "num": 563552,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -277,38 +326,55 @@
         "Víteček",
         ""
       ],
+      "age": 39,
+      "work": "IT specialista",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Ondřej",
         "Novosad",
         ""
       ],
+      "age": 37,
+      "work": "architekt",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
-        "Helena",
-        "Vondráková",
-        ""
-      ],
-      "sex": 2,
-      "reg": 720
-    },
-    {
-      "nameFull": [
-        "",
+        "Ing.",
         "Petr",
         "Vyhnal",
         ""
       ],
+      "age": 38,
+      "work": "IT specialista",
+      "home": "Smržovka",
+      "homeMeta": {
+        "num": 563811,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -317,8 +383,17 @@
         "Drobný",
         ""
       ],
+      "age": 21,
+      "work": "student",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -327,18 +402,36 @@
         "Vondrák",
         ""
       ],
+      "age": 42,
+      "work": "frézař, muzikant, otec",
+      "home": "Pulečný",
+      "homeMeta": {
+        "num": 546577,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Jan",
         "Lehký",
         ""
       ],
+      "age": 41,
+      "work": "inspektor ČIŽP",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -347,8 +440,17 @@
         "Schindler",
         ""
       ],
+      "age": 26,
+      "work": "supervizor zaměstnanců obsluhy vlaku",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -357,8 +459,17 @@
         "Rosáková",
         ""
       ],
+      "age": 22,
+      "work": "asistentka pedagoga",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -367,8 +478,17 @@
         "Kafka",
         ""
       ],
+      "age": 20,
+      "work": "student",
+      "home": "Železný Brod",
+      "homeMeta": {
+        "num": 563871,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -377,8 +497,17 @@
         "Vavřinová",
         ""
       ],
+      "age": 30,
+      "work": "telekomunikace, rodičovská dovolená",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -387,8 +516,17 @@
         "Jeník",
         ""
       ],
+      "age": 41,
+      "work": "účetní, IT specialista",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -397,8 +535,17 @@
         "Mastník",
         ""
       ],
+      "age": 35,
+      "work": "OSVČ - autodopravce",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -407,8 +554,17 @@
         "Felgr",
         ""
       ],
+      "age": 48,
+      "work": "IT správce",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -417,18 +573,36 @@
         "Váňa",
         ""
       ],
+      "age": 27,
+      "work": "pracovník v soc. službách",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Hruška",
         ""
       ],
+      "age": 34,
+      "work": "copywriter",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -437,8 +611,17 @@
         "Kadlec",
         ""
       ],
+      "age": 47,
+      "work": "invalidní důchodce",
+      "home": "Prysk",
+      "homeMeta": {
+        "num": 561991,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -447,8 +630,17 @@
         "Bukvic",
         ""
       ],
+      "age": 41,
+      "work": "stavební technik - rozpočtář",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -457,28 +649,36 @@
         "Havlíčková",
         ""
       ],
+      "age": 46,
+      "work": "asistent pedagoga",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Vojtěch",
         "Mečíř",
         ""
       ],
+      "age": 31,
+      "work": "nábytkář",
+      "home": "Mříčná",
+      "homeMeta": {
+        "num": 577332,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
-    },
-    {
-      "nameFull": [
-        "",
-        "Renata",
-        "Franclová",
-        ""
-      ],
-      "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -487,18 +687,36 @@
         "Munzar",
         ""
       ],
+      "age": 31,
+      "work": "project engineer",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Slavomír",
         "Říman",
         ""
       ],
+      "age": 81,
+      "work": "důchodce",
+      "home": "Vyskeř",
+      "homeMeta": {
+        "num": 577685,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -507,8 +725,17 @@
         "Wirnitzerová",
         ""
       ],
+      "age": 34,
+      "work": "OSVČ",
+      "home": "Hodkovice nad Mohelkou",
+      "homeMeta": {
+        "num": 564061,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -517,18 +744,36 @@
         "Balšánek",
         ""
       ],
+      "age": 43,
+      "work": "OSVČ",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Magdalena",
         "Mejzrová",
         ""
       ],
+      "age": 56,
+      "work": "tlumočnice",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -537,18 +782,36 @@
         "Marek",
         ""
       ],
+      "age": 49,
+      "work": "dispečer",
+      "home": "Stráž pod Ralskem",
+      "homeMeta": {
+        "num": 562092,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Karolína",
         "Gaislerová",
-        ""
+        "DiS."
       ],
+      "age": 23,
+      "work": "koordinátor Pirátů",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -557,28 +820,36 @@
         "Dlouhý",
         ""
       ],
+      "age": 40,
+      "work": "řidič",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Lucie",
         "Černohouzová",
-        ""
+        "DiS."
       ],
+      "age": 36,
+      "work": "sociální pracovník",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
-    },
-    {
-      "nameFull": [
-        "",
-        "Jan",
-        "Jůza",
-        ""
-      ],
-      "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -587,48 +858,93 @@
         "Kavan",
         ""
       ],
+      "age": 38,
+      "work": "IT specialista",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Kateřina",
         "Jínová",
         ""
       ],
+      "age": 37,
+      "work": "sklář, výtvarník",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 2,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Ondrej",
-        "Mojšl",
+        "Ondřej",
+        "Mojsl",
         ""
       ],
+      "age": 34,
+      "work": "OSVČ - stavebnictví",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Zbyněk",
         "Vlk",
         ""
       ],
+      "age": 48,
+      "work": "rolník, vedoucí skanzenu, učitel",
+      "home": "Jindřichovice pod Smrkem",
+      "homeMeta": {
+        "num": 564133,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "RNDr.",
         "Martin",
         "Rejman",
-        ""
+        "Ph.D."
       ],
+      "age": 37,
+      "work": "IT analytik, programátor, fyzik",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
@@ -637,28 +953,112 @@
         "Gajdács",
         ""
       ],
+      "age": 32,
+      "work": "zahradník",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Jan",
-        "Polák",
+        "Jaromír",
+        "Mach",
         ""
       ],
+      "age": 19,
+      "work": "student, pedagog, pokladní",
+      "home": "Železný Brod",
+      "homeMeta": {
+        "num": 563871,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Ondřej",
-        "Kolek",
+        "Sára",
+        "Horneková",
         ""
       ],
+      "age": 35,
+      "work": "mateřská dovolená",
+      "home": "Rovensko pod Troskami",
+      "homeMeta": {
+        "num": 577472,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jiří",
+        "Šťastný",
+        ""
+      ],
+      "age": 23,
+      "work": "pokladní, prodavač",
+      "home": "Železný Brod",
+      "homeMeta": {
+        "num": 563871,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
       "sex": 1,
-      "reg": 720
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Klápště",
+        ""
+      ],
+      "age": 37,
+      "work": "konzultant systém. infrastruktury",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Vondráček",
+        ""
+      ],
+      "age": 39,
+      "work": "PHP vývojář",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Česká pirátská strana",

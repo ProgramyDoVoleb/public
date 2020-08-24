@@ -13,13 +13,421 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr. Bc.",
         "Dušan",
         "Tejkal",
         ""
       ],
+      "age": 44,
+      "work": "místostarosta",
+      "home": "Bouzov",
+      "homeMeta": {
+        "num": 500861,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
       "sex": 1,
-      "reg": 83
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Mahel",
+        ""
+      ],
+      "age": 44,
+      "work": "pracovník chráněné dílny",
+      "home": "Malá Morava",
+      "homeMeta": {
+        "num": 540331,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kamp",
+        ""
+      ],
+      "age": 67,
+      "work": "starosta",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 541079,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alena",
+        "Windová",
+        ""
+      ],
+      "age": 60,
+      "work": "vedoucí na MÚ",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 541079,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Sova",
+        ""
+      ],
+      "age": 42,
+      "work": "úředník",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Danuše",
+        "Poprachová",
+        ""
+      ],
+      "age": 73,
+      "work": "lektorka",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr. Mgr.",
+        "Ctirad",
+        "Musil",
+        ""
+      ],
+      "age": 42,
+      "work": "lékař",
+      "home": "Dolní Nětčice",
+      "homeMeta": {
+        "num": 569259,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Brázdilík",
+        ""
+      ],
+      "age": 51,
+      "work": "nezaměstnaný",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Tomáš",
+        "Skoumal",
+        ""
+      ],
+      "age": 48,
+      "work": "učitel",
+      "home": "Bludov",
+      "homeMeta": {
+        "num": 525588,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Menšík",
+        ""
+      ],
+      "age": 55,
+      "work": "obchodní zástupce školního vydavatelství",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Smital",
+        ""
+      ],
+      "age": 68,
+      "work": "poradce",
+      "home": "Mohelnice",
+      "homeMeta": {
+        "num": 540471,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Miluše",
+        "Berková",
+        ""
+      ],
+      "age": 67,
+      "work": "redaktorka",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Leibner",
+        ""
+      ],
+      "age": 57,
+      "work": "technik",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Karel",
+        "Kolomazník",
+        ""
+      ],
+      "age": 69,
+      "work": "podnikatel",
+      "home": "Zábřeh",
+      "homeMeta": {
+        "num": 541354,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Kateřina",
+        "Šperková",
+        ""
+      ],
+      "age": 39,
+      "work": "advokát",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 541079,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Svatoslav",
+        "Dvořák",
+        ""
+      ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Richard",
+        "Kočí",
+        ""
+      ],
+      "age": 46,
+      "work": "provozovatel autoškoly",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dana",
+        "Čmakalová",
+        ""
+      ],
+      "age": 62,
+      "work": "poradce",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Škrabal",
+        ""
+      ],
+      "age": 45,
+      "work": "profesionální hasič",
+      "home": "Dubicko",
+      "homeMeta": {
+        "num": 534927,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Šebela",
+        ""
+      ],
+      "age": 46,
+      "work": "invalidní důchodce",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Nikola",
+        "Tejkalová",
+        "MBA"
+      ],
+      "age": 23,
+      "work": "pedagog volného času VN Olomouc",
+      "home": "Újezd",
+      "homeMeta": {
+        "num": 505501,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Procházka",
+        ""
+      ],
+      "age": 42,
+      "work": "učitel odborného výcviku",
+      "home": "Nový Malín",
+      "homeMeta": {
+        "num": 540501,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",

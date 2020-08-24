@@ -16,13 +16,877 @@
   "list": [
     {
       "nameFull": [
+        "Ing.",
+        "Josef",
+        "Pelikán",
+        ""
+      ],
+      "age": 44,
+      "work": "stavební projektant",
+      "home": "Přibyslav",
+      "homeMeta": {
+        "num": 569321,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Kružík",
+        ""
+      ],
+      "age": 65,
+      "work": "živnostník",
+      "home": "Brtnice",
+      "homeMeta": {
+        "num": 586943,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jana",
+        "Kouřilová",
+        ""
+      ],
+      "age": 59,
+      "work": "podnikatelka",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Jitka",
+        "Bejdáková",
+        ""
+      ],
+      "age": 52,
+      "work": "chirurg",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Oborný",
+        ""
+      ],
+      "age": 37,
+      "work": "člen zásahové jednotky",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kamil",
+        "Fiedler",
+        ""
+      ],
+      "age": 36,
+      "work": "OSVČ",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Obhlídal",
+        ""
+      ],
+      "age": 67,
+      "work": "manažer",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Irena",
+        "Podzimková",
+        ""
+      ],
+      "age": 45,
+      "work": "zdravotní sestra",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Anna",
+        "Zemanová",
+        ""
+      ],
+      "age": 25,
+      "work": "pracovnice v hotelnictví",
+      "home": "Pelhřimov",
+      "homeMeta": {
+        "num": 547492,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavlína",
+        "Širůčková",
+        ""
+      ],
+      "age": 51,
+      "work": "živnostník",
+      "home": "Kamenice nad Lipou",
+      "homeMeta": {
+        "num": 548111,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václava",
+        "Dubová",
+        ""
+      ],
+      "age": 47,
+      "work": "prodavačka",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Huboňová",
+        ""
+      ],
+      "age": 43,
+      "work": "samostatný pojišťovací zprostředkovatel",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dana",
+        "Havlátová",
+        ""
+      ],
+      "age": 53,
+      "work": "recepční",
+      "home": "Počátky",
+      "homeMeta": {
+        "num": 548561,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
         "",
         "Josef",
         "Pelikán",
         ""
       ],
+      "age": 71,
+      "work": "soudní znalec",
+      "home": "Přibyslav",
+      "homeMeta": {
+        "num": 569321,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
       "sex": 1,
-      "reg": 137
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Bartečková",
+        ""
+      ],
+      "age": 28,
+      "work": "recepční",
+      "home": "Kralice nad Oslavou",
+      "homeMeta": {
+        "num": 590941,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Věra",
+        "Havlová",
+        ""
+      ],
+      "age": 51,
+      "work": "umělecká knihařka",
+      "home": "Světlá nad Sázavou",
+      "homeMeta": {
+        "num": 569569,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vlasta",
+        "Hrindová",
+        ""
+      ],
+      "age": 48,
+      "work": "prodavačka",
+      "home": "Ledeč nad Sázavou",
+      "homeMeta": {
+        "num": 568988,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dana",
+        "Smrčková",
+        ""
+      ],
+      "age": 53,
+      "work": "fakturantka",
+      "home": "Telč",
+      "homeMeta": {
+        "num": 588024,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Bartoň",
+        ""
+      ],
+      "age": 66,
+      "work": "pracující důchodce",
+      "home": "Zbilidy",
+      "homeMeta": {
+        "num": 588211,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Kadlecová",
+        ""
+      ],
+      "age": 35,
+      "work": "živnostník",
+      "home": "Příseka",
+      "homeMeta": {
+        "num": 569348,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Irena",
+        "Masiarčinová",
+        ""
+      ],
+      "age": 49,
+      "work": "vedoucí prodejny",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Markéta",
+        "Culková",
+        ""
+      ],
+      "age": 37,
+      "work": "asistentka prodeje",
+      "home": "Světlá nad Sázavou",
+      "homeMeta": {
+        "num": 569569,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslava",
+        "Borkovcová",
+        ""
+      ],
+      "age": 59,
+      "work": "hlavní kuchařka směny",
+      "home": "Náměšť nad Oslavou",
+      "homeMeta": {
+        "num": 591211,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřiška",
+        "Vejvalková",
+        ""
+      ],
+      "age": 58,
+      "work": "vedoucí prodejny",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Blažena",
+        "Pospěchová",
+        ""
+      ],
+      "age": 55,
+      "work": "zástupce vedoucího prodejny",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslava",
+        "Lebedová",
+        ""
+      ],
+      "age": 60,
+      "work": "vedoucí prodejny, kvalitářka",
+      "home": "Ledeč nad Sázavou",
+      "homeMeta": {
+        "num": 568988,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renata",
+        "Trtíková",
+        ""
+      ],
+      "age": 48,
+      "work": "účetní",
+      "home": "Světlá nad Sázavou",
+      "homeMeta": {
+        "num": 569569,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jarmila",
+        "Nováková",
+        ""
+      ],
+      "age": 55,
+      "work": "prodavačka",
+      "home": "Okříšky",
+      "homeMeta": {
+        "num": 591301,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Iva",
+        "Zedníková",
+        ""
+      ],
+      "age": 34,
+      "work": "asistentka prodeje",
+      "home": "Kamenice nad Lipou",
+      "homeMeta": {
+        "num": 548111,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Blažena",
+        "Vacková",
+        ""
+      ],
+      "age": 74,
+      "work": "důchodkyně",
+      "home": "Nová Cerekev",
+      "homeMeta": {
+        "num": 548456,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Voborný",
+        ""
+      ],
+      "age": 26,
+      "work": "kuchař",
+      "home": "Náměšť nad Oslavou",
+      "homeMeta": {
+        "num": 591211,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Přibyl",
+        ""
+      ],
+      "age": 63,
+      "work": "obchodní zástupce",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petra",
+        "Nováková",
+        ""
+      ],
+      "age": 22,
+      "work": "studující",
+      "home": "Bystřice nad Pernštejnem",
+      "homeMeta": {
+        "num": 595411,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Kočař",
+        ""
+      ],
+      "age": 36,
+      "work": "živnostník",
+      "home": "Cejle",
+      "homeMeta": {
+        "num": 586978,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Iveta",
+        "Moravcová",
+        ""
+      ],
+      "age": 18,
+      "work": "studující",
+      "home": "Nové Město na Moravě",
+      "homeMeta": {
+        "num": 596230,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Šimek",
+        ""
+      ],
+      "age": 78,
+      "work": "důchodce",
+      "home": "Nadějov",
+      "homeMeta": {
+        "num": 587575,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Iveta",
+        "Krejčová",
+        ""
+      ],
+      "age": 25,
+      "work": "mateřská dovolená",
+      "home": "Velké Meziříčí",
+      "homeMeta": {
+        "num": 597007,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Fiala",
+        ""
+      ],
+      "age": 47,
+      "work": "OSVČ",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Polák",
+        ""
+      ],
+      "age": 31,
+      "work": "prodejce",
+      "home": "Dolní Libochová",
+      "homeMeta": {
+        "num": 595519,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Sabina",
+        "Dvořáková",
+        ""
+      ],
+      "age": 27,
+      "work": "vedoucí prodejny",
+      "home": "Skorotice",
+      "homeMeta": {
+        "num": 596752,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Beránek",
+        ""
+      ],
+      "age": 61,
+      "work": "cestář",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Irena",
+        "Matějková",
+        ""
+      ],
+      "age": 42,
+      "work": "dámská krejčová",
+      "home": "Vír",
+      "homeMeta": {
+        "num": 597074,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renáta",
+        "Halvová",
+        ""
+      ],
+      "age": 43,
+      "work": "pracovnice v oboru zdravotní výroby",
+      "home": "Jimramov",
+      "homeMeta": {
+        "num": 595772,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Kubů",
+        ""
+      ],
+      "age": 55,
+      "work": "obsluha čerpací stanice",
+      "home": "Humpolec",
+      "homeMeta": {
+        "num": 547999,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Věra",
+        "Rutschová",
+        ""
+      ],
+      "age": 55,
+      "work": "pracovnice v kabelové výrobě",
+      "home": "Šlapanov",
+      "homeMeta": {
+        "num": 569585,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vítězslav",
+        "Čejka",
+        ""
+      ],
+      "age": 61,
+      "work": "invalidní důchodce, programátor",
+      "home": "Přibyslav",
+      "homeMeta": {
+        "num": 569321,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "ROZUMNÍ - Petr Hannig - za spravedlnost a životní jistoty",

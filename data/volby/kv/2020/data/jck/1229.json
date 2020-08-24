@@ -28,13 +28,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Stanislav",
         "Mrvka",
         ""
       ],
-      "sex": 1,
+      "age": 67,
+      "work": "bývalý starosta a velitel záchranného útvaru",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
       "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/stanislav.mrvka.7"
       ],
@@ -43,16 +51,1072 @@
     {
       "nameFull": [
         "",
+        "Luboš",
+        "Hešík",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta Suchdola nad Lužnicí",
+      "home": "Suchdol nad Lužnicí",
+      "homeMeta": {
+        "num": 547280,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Jílek",
+        ""
+      ],
+      "age": 47,
+      "work": "starosta Jankova-Holašovic",
+      "home": "Jankov",
+      "homeMeta": {
+        "num": 544612,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladimír",
+        "Pešek",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta Netolic",
+      "home": "Netolice",
+      "homeMeta": {
+        "num": 550442,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Bohumil",
+        "Komínek",
+        ""
+      ],
+      "age": 47,
+      "work": "bývalý místostarosta a ambasador České spořitelny",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Žižka",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta jihočeských dobrovolných hasičů",
+      "home": "Trhové Sviny",
+      "homeMeta": {
+        "num": 545171,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Slepička",
+        ""
+      ],
+      "age": 45,
+      "work": "radní a ředitel městského kulturního centra",
+      "home": "Týn nad Vltavou",
+      "homeMeta": {
+        "num": 545201,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Martan",
+        ""
+      ],
+      "age": 62,
+      "work": "spisovatel a bojovník za zelenou Šumavu",
+      "home": "Čkyně",
+      "homeMeta": {
+        "num": 550167,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
         "Jiří",
         "Zimola",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "místostarosta Nové Bystřice a bývalý hejtman",
+      "home": "Nová Bystřice",
+      "homeMeta": {
+        "num": 546798,
+        "gps": []
+      },
       "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
       "links": [
         "https://jirizimola.cz/"
       ],
       "photo": "jiri-zimola.jpg"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Kupsa",
+        ""
+      ],
+      "age": 68,
+      "work": "předseda Městské rady seniorů Tábor",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luděk",
+        "Bína",
+        ""
+      ],
+      "age": 44,
+      "work": "starosta Petříkova",
+      "home": "Petříkov",
+      "homeMeta": {
+        "num": 535699,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Klesalová",
+        ""
+      ],
+      "age": 48,
+      "work": "starostka Lodhéřova",
+      "home": "Lodhéřov",
+      "homeMeta": {
+        "num": 546666,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Petr",
+        "Matouš",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta Putimi",
+      "home": "Putim",
+      "homeMeta": {
+        "num": 549801,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Dvořák",
+        ""
+      ],
+      "age": 58,
+      "work": "podnikatel",
+      "home": "Kaplice",
+      "homeMeta": {
+        "num": 545562,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Václav",
+        "Šauer",
+        ""
+      ],
+      "age": 61,
+      "work": "českokrumlovský lékař, chirurg",
+      "home": "Frymburk",
+      "homeMeta": {
+        "num": 545481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Lenka",
+        "Cvrčková",
+        ""
+      ],
+      "age": 64,
+      "work": "starostka Rapšachu",
+      "home": "Rapšach",
+      "homeMeta": {
+        "num": 547069,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaromír",
+        "Slíva",
+        ""
+      ],
+      "age": 50,
+      "work": "starosta Českých Velenic",
+      "home": "České Velenice",
+      "homeMeta": {
+        "num": 546089,
+        "gps": []
+      },
+      "reg": 1229,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Roman",
+        "Bílek",
+        ""
+      ],
+      "age": 58,
+      "work": "praktický lékař v Lomnici nad Lužnicí",
+      "home": "Lomnice nad Lužnicí",
+      "homeMeta": {
+        "num": 546674,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Karel",
+        "Šustr",
+        ""
+      ],
+      "age": 48,
+      "work": "českobudějovický lékař, chirurg",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Oldřich",
+        "Semrád",
+        ""
+      ],
+      "age": 57,
+      "work": "krizový manažer města Tábor",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Řezáč",
+        ""
+      ],
+      "age": 49,
+      "work": "jezný Povodí Vltavy",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Heinrich",
+        ""
+      ],
+      "age": 72,
+      "work": "starosta okresních dobrovolných hasičů v Písku",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radoslav",
+        "Virt",
+        ""
+      ],
+      "age": 47,
+      "work": "strážník Městské policie v Českých Budějovicích",
+      "home": "Veselí nad Lužnicí",
+      "homeMeta": {
+        "num": 553271,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Hánová",
+        ""
+      ],
+      "age": 55,
+      "work": "zdravotní sestra",
+      "home": "Soběslav",
+      "homeMeta": {
+        "num": 553131,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Anděl",
+        ""
+      ],
+      "age": 48,
+      "work": "ředitel elektrárny v Písku, kandidát na senátora",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Brušák",
+        ""
+      ],
+      "age": 51,
+      "work": "obchodní zástupce",
+      "home": "Čejetice",
+      "homeMeta": {
+        "num": 550922,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladimír",
+        "Drachovský",
+        ""
+      ],
+      "age": 59,
+      "work": "učitel na základní škole v Soběslavi",
+      "home": "Soběslav",
+      "homeMeta": {
+        "num": 553131,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. Bc.",
+        "Michal",
+        "Chmela",
+        ""
+      ],
+      "age": 34,
+      "work": "příslušník Policie ČR",
+      "home": "Týn nad Vltavou",
+      "homeMeta": {
+        "num": 545201,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Kašíková",
+        ""
+      ],
+      "age": 71,
+      "work": "trenérka sportovní gymnastiky",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Josef",
+        "Šlehober",
+        ""
+      ],
+      "age": 81,
+      "work": "právník",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Vít",
+        ""
+      ],
+      "age": 52,
+      "work": "trenér mládežnického hokeje, technik",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Paďourek",
+        ""
+      ],
+      "age": 81,
+      "work": "bývalý starosta Suchdola nad Lužnicí",
+      "home": "Suchdol nad Lužnicí",
+      "homeMeta": {
+        "num": 547280,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Mocek",
+        ""
+      ],
+      "age": 34,
+      "work": "podnikatel",
+      "home": "Kaplice",
+      "homeMeta": {
+        "num": 545562,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. Bc.",
+        "Miloš",
+        "Rak",
+        ""
+      ],
+      "age": 61,
+      "work": "učitel na základní škole v Sezimově Ústí",
+      "home": "Sezimovo Ústí",
+      "homeMeta": {
+        "num": 553069,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Zábrodský",
+        ""
+      ],
+      "age": 66,
+      "work": "sociální pracovník",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Kohout",
+        ""
+      ],
+      "age": 57,
+      "work": "podnikatel, majitel stavební firmy",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Žižka",
+        ""
+      ],
+      "age": 74,
+      "work": "emeritní starosta krajských dobrovolných hasičů",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Oldřich",
+        "Kučera",
+        ""
+      ],
+      "age": 55,
+      "work": "ředitel základní školy v Českých Velenicích",
+      "home": "Třeboň",
+      "homeMeta": {
+        "num": 547336,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Benešová",
+        ""
+      ],
+      "age": 49,
+      "work": "vychovatelka v domově mládeže",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Doubek",
+        ""
+      ],
+      "age": 60,
+      "work": "kulturní pracovník",
+      "home": "Planá nad Lužnicí",
+      "homeMeta": {
+        "num": 552828,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Halamová",
+        ""
+      ],
+      "age": 54,
+      "work": "starostka Strážkovic",
+      "home": "Strážkovice",
+      "homeMeta": {
+        "num": 545082,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Rošek",
+        ""
+      ],
+      "age": 44,
+      "work": "podnikatel",
+      "home": "Trhové Sviny",
+      "homeMeta": {
+        "num": 545171,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Kvitský",
+        ""
+      ],
+      "age": 56,
+      "work": "podnikatel",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Spatzierer",
+        ""
+      ],
+      "age": 40,
+      "work": "podnikatel",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Hrubec",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta Nové Včelnice",
+      "home": "Nová Včelnice",
+      "homeMeta": {
+        "num": 546801,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Stanislav",
+        "Mrvka",
+        ""
+      ],
+      "age": 45,
+      "work": "zubař z Jindřichova Hradce",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": [
+        "https://www.facebook.com/stanislav.mrvka.7"
+      ],
+      "photo": "stanislav-mrvka.jpg"
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Kvitská",
+        ""
+      ],
+      "age": 40,
+      "work": "učitelka na základní škole v Chlumu u Třeboně",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřiška",
+        "Maroušková",
+        ""
+      ],
+      "age": 51,
+      "work": "sociální pracovnice",
+      "home": "Přehořov",
+      "homeMeta": {
+        "num": 552895,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Král",
+        ""
+      ],
+      "age": 71,
+      "work": "rychtář sdružené obce baráčníků Týn nad Vltavou",
+      "home": "Týn nad Vltavou",
+      "homeMeta": {
+        "num": 545201,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohuslav",
+        "Veska",
+        ""
+      ],
+      "age": 53,
+      "work": "podnikatel",
+      "home": "Trhové Sviny",
+      "homeMeta": {
+        "num": 545171,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Berková",
+        ""
+      ],
+      "age": 59,
+      "work": "zaměstnankyně bezpečnostní služby",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jarmila",
+        "Kuchařová",
+        ""
+      ],
+      "age": 78,
+      "work": "členka Městské rady seniorů Tábor",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Adam",
+        "Sedlák",
+        ""
+      ],
+      "age": 23,
+      "work": "student",
+      "home": "Kájov",
+      "homeMeta": {
+        "num": 545554,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Andrea",
+        "Stropková",
+        ""
+      ],
+      "age": 22,
+      "work": "studentka",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Přívozníková",
+        ""
+      ],
+      "age": 40,
+      "work": "vedoucí v obchodním řetězci",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Dvořák",
+        ""
+      ],
+      "age": 26,
+      "work": "podnikatel",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Slepička",
+        ""
+      ],
+      "age": 49,
+      "work": "odborný prodejce Top Carp, rybářské potřeby",
+      "home": "Týn nad Vltavou",
+      "homeMeta": {
+        "num": 545201,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1229,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Změna 2020",

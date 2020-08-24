@@ -55,8 +55,16 @@
         "Okleštěk",
         ""
       ],
-      "sex": 1,
+      "age": 59,
+      "work": "hejtman Olomouckého kraje",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
       "reg": 768,
+      "nominee": 768,
+      "sex": 1,
       "links": [
         "https://www.ladislavoklestek.cz/",
         "https://www.facebook.com/OklestekLadislav/",
@@ -66,47 +74,1125 @@
     },
     {
       "nameFull": [
+        "Mgr.",
+        "Miroslava",
+        "Ferancová",
+        ""
+      ],
+      "age": 52,
+      "work": "právnička",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
         "",
         "Daniel",
-        "Vitonský",
+        "Vitonský",
         ""
       ],
-      "sex": 1,
+      "age": 43,
+      "work": "místostarosta města Hranice",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
       "reg": 768,
-      "photo": "daniel-vitonsky.jpg"
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Krmela",
+        ""
+      ],
+      "age": 40,
+      "work": "manažer",
+      "home": "Zábřeh",
+      "homeMeta": {
+        "num": 541354,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": [],
+      "photo": "petr-krmela.jpg"
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jaromíra",
+        "Lónová",
+        ""
+      ],
+      "age": 58,
+      "work": "ředitelka školy",
+      "home": "Uničov",
+      "homeMeta": {
+        "num": 505587,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Sieglinde",
+        "Mimrová",
+        ""
+      ],
+      "age": 60,
+      "work": "místostarostka města Javorník",
+      "home": "Javorník",
+      "homeMeta": {
+        "num": 536148,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "František",
+        "Jura",
+        ""
+      ],
+      "age": 51,
+      "work": "primátor statutárního města Prostějov",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Vrána",
+        ""
+      ],
+      "age": 45,
+      "work": "náměstek hejtmana Olomouckého kraje",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Radan",
+        "Volnohradský",
+        ""
+      ],
+      "age": 61,
+      "work": "lékař",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Zahradníček",
+        ""
+      ],
+      "age": 60,
+      "work": "náměstek hejtmana Olomouckého kraje",
+      "home": "Medlov",
+      "homeMeta": {
+        "num": 552372,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Jaromíra",
-        "Lónová",
+        "Irena",
+        "Blažková",
         ""
       ],
-      "sex": 1,
+      "age": 51,
+      "work": "starostka obce Vranovice-Kelčice",
+      "home": "Vranovice-Kelčice",
+      "homeMeta": {
+        "num": 590177,
+        "gps": []
+      },
       "reg": 768,
-      "photo": "jaromira-lonova.jpg"
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Miroslav",
+        "Žbánek",
+        "MPA"
+      ],
+      "age": 47,
+      "work": "primátor statutárního města Olomouc",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Vladimír",
+        "Lichnovský",
+        ""
+      ],
+      "age": 35,
+      "work": "právník",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Bohuslav",
+        "Hudec",
+        ""
+      ],
+      "age": 33,
+      "work": "starosta obce Rapotín, právník",
+      "home": "Rapotín",
+      "homeMeta": {
+        "num": 540862,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jana",
+        "Konvičková",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Monika",
+        "Hryzbilová",
+        ""
+      ],
+      "age": 34,
+      "work": "stavební inženýrka",
+      "home": "Hněvotín",
+      "homeMeta": {
+        "num": 502235,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Rostislav",
+        "Hrdiborský",
+        ""
+      ],
+      "age": 41,
+      "work": "jednatel společnosti",
+      "home": "Tovačov",
+      "homeMeta": {
+        "num": 519146,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Miroslava",
-        "Ferancová",
+        "Zdeněk",
+        "Šestořád",
         ""
       ],
-      "sex": 1,
+      "age": 57,
+      "work": "OSVČ",
+      "home": "Výšovice",
+      "homeMeta": {
+        "num": 590215,
+        "gps": []
+      },
       "reg": 768,
-      "photo": "miroslava-ferancova.jpg"
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Martin",
+        "Škurek",
+        "Ph.D."
+      ],
+      "age": 36,
+      "work": "VŠ pedagog",
+      "home": "Mohelnice",
+      "homeMeta": {
+        "num": 540471,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Tomáš",
+        "Sýkora",
+        ""
+      ],
+      "age": 52,
+      "work": "ekonom, rozhodce na evropské právo",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Župková",
+        ""
+      ],
+      "age": 46,
+      "work": "manažerka prodejny",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Navrátil",
+        ""
+      ],
+      "age": 38,
+      "work": "radní pro dopravu města Přerov",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Šindler",
+        ""
+      ],
+      "age": 48,
+      "work": "starosta města Štěpánov",
+      "home": "Štěpánov",
+      "homeMeta": {
+        "num": 505161,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Klimeš",
+        ""
+      ],
+      "age": 66,
+      "work": "náměstek hejtmana Olomouckého kraje",
+      "home": "Bludov",
+      "homeMeta": {
+        "num": 525588,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Prášil",
+        ""
+      ],
+      "age": 62,
+      "work": "OSVČ",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Konečný",
+        ""
+      ],
+      "age": 66,
+      "work": "podnikatel",
+      "home": "Smržice",
+      "homeMeta": {
+        "num": 590029,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Leoš",
+        "Ptáček",
+        ""
+      ],
+      "age": 27,
+      "work": "podnikatel",
+      "home": "Kojetín",
+      "homeMeta": {
+        "num": 514055,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Faltýnková",
+        ""
+      ],
+      "age": 53,
+      "work": "asistentka",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Filip",
+        "Červinka",
+        ""
+      ],
+      "age": 35,
+      "work": "obchodní ředitel",
+      "home": "Litovel",
+      "homeMeta": {
+        "num": 503444,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Raindl",
+        ""
+      ],
+      "age": 43,
+      "work": "OSVČ",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Macek",
+        "DiS."
+      ],
+      "age": 31,
+      "work": "hudební pedagog",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaromír",
+        "Hruban",
+        ""
+      ],
+      "age": 69,
+      "work": "technik",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Doc. PhDr.",
+        "Karel",
+        "Konečný",
+        "CSc."
+      ],
+      "age": 55,
+      "work": "náměstek primátora města Olomouc, VŠ pedagog",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Měřínský",
+        ""
+      ],
+      "age": 50,
+      "work": "primátor statutárního města Přerov",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Bank",
+        ""
+      ],
+      "age": 61,
+      "work": "jednatel společnosti",
+      "home": "Bludov",
+      "homeMeta": {
+        "num": 525588,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Juráš",
+        ""
+      ],
+      "age": 36,
+      "work": "ředitel příspěvkové organizace",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Kryl",
+        ""
+      ],
+      "age": 55,
+      "work": "jednatel společnosti",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alena",
+        "Pagáčová",
+        ""
+      ],
+      "age": 45,
+      "work": "pracovnice v sociálních službách",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Věra",
+        "Poštulková",
+        ""
+      ],
+      "age": 68,
+      "work": "daňová poradkyně",
+      "home": "Uničov",
+      "homeMeta": {
+        "num": 505587,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Hana",
+        "Mazochová",
+        ""
+      ],
+      "age": 64,
+      "work": "náměstek primátora města Přerov",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Martin",
+        "Budiš",
+        ""
+      ],
+      "age": 36,
+      "work": "výkonný ředitel společnosti",
+      "home": "Mohelnice",
+      "homeMeta": {
+        "num": 540471,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Kuchař",
+        ""
+      ],
+      "age": 64,
+      "work": "válečný veterán",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michal",
+        "Procházka",
+        ""
+      ],
+      "age": 54,
+      "work": "manažer",
+      "home": "Supíkovice",
+      "homeMeta": {
+        "num": 541117,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Rozehnal",
+        ""
+      ],
+      "age": 55,
+      "work": "náměstek primátora města Prostějov",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lada",
+        "Galová",
+        ""
+      ],
+      "age": 47,
+      "work": "vedoucí umělecké galerie",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hoždora",
+        ""
+      ],
+      "age": 42,
+      "work": "podnikatel",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Svatopluk",
+        "Binder",
+        "Ph.D."
+      ],
+      "age": 42,
+      "work": "VŠ pedagog",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Richard",
+        "Beneš",
+        ""
+      ],
+      "age": 68,
+      "work": "důchodce",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Rostislav",
+        "Šnajdr",
+        ""
+      ],
+      "age": 65,
+      "work": "OSVČ",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Alice",
+        "Kutálková",
+        ""
+      ],
+      "age": 53,
+      "work": "soudní znalkyně pro oblast chemie, OSVČ",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Vokurková",
+        ""
+      ],
+      "age": 56,
+      "work": "referentka zaměstnanosti",
+      "home": "Hanušovice",
+      "homeMeta": {
+        "num": 535532,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vendula",
+        "Sukupová",
+        ""
+      ],
+      "age": 42,
+      "work": "manažerka kontaktního centra",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Alena",
+        "Adamíková",
+        ""
+      ],
+      "age": 63,
+      "work": "středoškolská učitelka",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Holan",
+        ""
+      ],
+      "age": 76,
+      "work": "důchodce",
+      "home": "Přerov",
+      "homeMeta": {
+        "num": 511382,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Adam",
+        "Kalous",
+        ""
+      ],
+      "age": 40,
+      "work": "poslanec PSP ČR",
+      "home": "Jeseník",
+      "homeMeta": {
+        "num": 536385,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Petr",
-        "Krmela",
+        "Piska",
         ""
       ],
-      "sex": 1,
+      "age": 57,
+      "work": "technik",
+      "home": "Zábřeh",
+      "homeMeta": {
+        "num": 541354,
+        "gps": []
+      },
       "reg": 768,
-      "photo": "petr-krmela.jpg"
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Luděk",
+        "Tichý",
+        ""
+      ],
+      "age": 44,
+      "work": "starosta obce Horka nad Moravou",
+      "home": "Horka nad Moravou",
+      "homeMeta": {
+        "num": 502545,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Daniel",
+        ""
+      ],
+      "age": 40,
+      "work": "vedoucí střediska",
+      "home": "Javorník",
+      "homeMeta": {
+        "num": 536148,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Burda",
+        ""
+      ],
+      "age": 29,
+      "work": "manažer pro klíčové partnery",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Unzeitig",
+        ""
+      ],
+      "age": 49,
+      "work": "IT specialista",
+      "home": "Mohelnice",
+      "homeMeta": {
+        "num": 540471,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "ANO 2011",

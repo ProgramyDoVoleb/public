@@ -39,13 +39,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Josef",
         "Bernard",
         ""
       ],
-      "sex": 1,
+      "age": 55,
+      "work": "ekonom, hejtman Plzeňského kraje 2016-2020",
+      "home": "Štěnovický Borek",
+      "homeMeta": {
+        "num": 539741,
+        "gps": []
+      },
       "reg": 99,
+      "nominee": 166,
+      "sex": 1,
       "links": [
         "https://www.josefbernard.cz/",
         "https://www.facebook.com/BernardJosef2016",
@@ -55,13 +63,934 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Čížek",
         ""
       ],
+      "age": 56,
+      "work": "náměstek hejtmana pro obl. dopr., místostar. města",
+      "home": "Spálené Poříčí",
+      "homeMeta": {
+        "num": 558362,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
       "sex": 1,
-      "reg": 166
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michaela",
+        "Opltová",
+        ""
+      ],
+      "age": 35,
+      "work": "starostka obce, náměst. SDH Kozolupy, člen. RSMO",
+      "home": "Kozolupy",
+      "homeMeta": {
+        "num": 559059,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Uhlík",
+        "MBA"
+      ],
+      "age": 50,
+      "work": "místostarosta MO Plzeň 1",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1014,
+      "nominee": 1014,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Libor",
+        "Picka",
+        ""
+      ],
+      "age": 56,
+      "work": "starosta města, předs. Euroreg. Šumava-Bavor. les",
+      "home": "Bělá nad Radbuzou",
+      "homeMeta": {
+        "num": 553441,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jitka",
+        "Kylišová",
+        ""
+      ],
+      "age": 47,
+      "work": "sociální pracovnice",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Tichý",
+        ""
+      ],
+      "age": 47,
+      "work": "učitel VOŠ, 2010 - 2014 místostarosta MO Plzeň 1",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1014,
+      "nominee": 1014,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Vavřička",
+        ""
+      ],
+      "age": 64,
+      "work": "starosta obce Pačejov - Vesnice roku Plzeň. kraje",
+      "home": "Pačejov",
+      "homeMeta": {
+        "num": 556912,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Karel",
+        "Lukeš",
+        ""
+      ],
+      "age": 40,
+      "work": "místostarosta města, učitel",
+      "home": "Stříbro",
+      "homeMeta": {
+        "num": 561215,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Irena",
+        "Vítovcová",
+        ""
+      ],
+      "age": 46,
+      "work": "zakladat. a a ředit. Občan. sdružení ProCit, z. s.",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1014,
+      "nominee": 1014,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Kříž",
+        ""
+      ],
+      "age": 43,
+      "work": "místostarosta města",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Bohuslav",
+        "Ebermann",
+        ""
+      ],
+      "age": 72,
+      "work": "starosta obce, býv. hokej. reprezent., kraj. zast.",
+      "home": "Vochov",
+      "homeMeta": {
+        "num": 559601,
+        "gps": []
+      },
+      "reg": 1022,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Eva",
+        "Volfová",
+        ""
+      ],
+      "age": 41,
+      "work": "odborná konzultantka v oboru ochrany přírody",
+      "home": "Nebílovy",
+      "homeMeta": {
+        "num": 540340,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Kočí",
+        ""
+      ],
+      "age": 66,
+      "work": "starosta města",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Tomáš",
+        "Morávek",
+        ""
+      ],
+      "age": 29,
+      "work": "státní úředník, fotbalový trenér dětí a mládeže",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1014,
+      "nominee": 1014,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Kotora",
+        ""
+      ],
+      "age": 54,
+      "work": "ekonom, sportovní manažer",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1014,
+      "nominee": 1014,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Hana",
+        "Valachovičová",
+        ""
+      ],
+      "age": 54,
+      "work": "místostarostka města, sociální pracovnice",
+      "home": "Holýšov",
+      "homeMeta": {
+        "num": 553654,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václava",
+        "Jandečková",
+        ""
+      ],
+      "age": 46,
+      "work": "spisovatelka, publicistka, badatelka, místopředs.",
+      "home": "Kdyně",
+      "homeMeta": {
+        "num": 553786,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Myslivec",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta města, předseda Mikroregionu Borsko",
+      "home": "Bor",
+      "homeMeta": {
+        "num": 560758,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martina",
+        "Němečková",
+        ""
+      ],
+      "age": 53,
+      "work": "starostka města",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Princ",
+        ""
+      ],
+      "age": 52,
+      "work": "starosta městyse, učitel",
+      "home": "Kolinec",
+      "homeMeta": {
+        "num": 556467,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Lukáč",
+        ""
+      ],
+      "age": 54,
+      "work": "starosta obce",
+      "home": "Heřmanova Huť",
+      "homeMeta": {
+        "num": 558869,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Končel",
+        ""
+      ],
+      "age": 66,
+      "work": "starosta města",
+      "home": "Mýto",
+      "homeMeta": {
+        "num": 560014,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Pavel",
+        "Kroupa",
+        ""
+      ],
+      "age": 43,
+      "work": "památkář - stavební historik",
+      "home": "Nepomuk",
+      "homeMeta": {
+        "num": 558109,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Mach",
+        ""
+      ],
+      "age": 54,
+      "work": "stavební projektant, starosta města 2006-2018",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Altman",
+        ""
+      ],
+      "age": 52,
+      "work": "starosta města, předseda Mikroregionu Radnicko",
+      "home": "Radnice",
+      "homeMeta": {
+        "num": 560120,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tomáš",
+        "Chmelík",
+        ""
+      ],
+      "age": 30,
+      "work": "region. manažer agent. CzechInvest, skautský ved.",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Karel",
+        "Popel",
+        ""
+      ],
+      "age": 55,
+      "work": "starosta města, učitel",
+      "home": "Kralovice",
+      "homeMeta": {
+        "num": 559075,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michael",
+        "Forman",
+        ""
+      ],
+      "age": 57,
+      "work": "starosta města",
+      "home": "Horažďovice",
+      "homeMeta": {
+        "num": 556254,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Jindřich",
+        "Sitta",
+        ""
+      ],
+      "age": 65,
+      "work": "chirurg, pluk. AČR, zakl. a 1. velit. 6. pol. nem.",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Moulis",
+        "Ph.D."
+      ],
+      "age": 45,
+      "work": "farmář, vysokoškolský učitel",
+      "home": "Milínov",
+      "homeMeta": {
+        "num": 530140,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Bostl",
+        ""
+      ],
+      "age": 45,
+      "work": "starosta obce, IT konzultant",
+      "home": "Kvíčovice",
+      "homeMeta": {
+        "num": 553841,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Soňa",
+        "Hladíková",
+        ""
+      ],
+      "age": 36,
+      "work": "místostarostka města",
+      "home": "Nýrsko",
+      "homeMeta": {
+        "num": 556831,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ludmila",
+        "Marková",
+        ""
+      ],
+      "age": 48,
+      "work": "probační pracovnice",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Václav",
+        "Cinádr",
+        ""
+      ],
+      "age": 31,
+      "work": "krajský tajemník STAN, učitel",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Muravecký",
+        ""
+      ],
+      "age": 55,
+      "work": "starosta města, předseda Mikroregionu Zbirožsko",
+      "home": "Zbiroh",
+      "homeMeta": {
+        "num": 560260,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vlasta",
+        "Doláková",
+        ""
+      ],
+      "age": 61,
+      "work": "starostka města, předsedkyně Mikroregionu Radyně",
+      "home": "Starý Plzenec",
+      "homeMeta": {
+        "num": 558371,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Král",
+        ""
+      ],
+      "age": 62,
+      "work": "starosta obce",
+      "home": "Zruč-Senec",
+      "homeMeta": {
+        "num": 559679,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Věra",
+        "Marešová",
+        ""
+      ],
+      "age": 57,
+      "work": "staveb. technik, místostar. města 2010-2018, učit.",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Mothejzík",
+        ""
+      ],
+      "age": 54,
+      "work": "technik, starosta města 2014-2018",
+      "home": "Horšovský Týn",
+      "homeMeta": {
+        "num": 553671,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Matěj",
+        "Frouz",
+        ""
+      ],
+      "age": 21,
+      "work": "student",
+      "home": "Bor",
+      "homeMeta": {
+        "num": 560758,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslava",
+        "Balounová",
+        ""
+      ],
+      "age": 56,
+      "work": "invalidní důchodce, místostar. hasič. okrsku č. 9",
+      "home": "Kdyně",
+      "homeMeta": {
+        "num": 553786,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václav",
+        "Štětina",
+        ""
+      ],
+      "age": 68,
+      "work": "starosta obce",
+      "home": "Šťáhlavy",
+      "homeMeta": {
+        "num": 558427,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Křemenák",
+        ""
+      ],
+      "age": 62,
+      "work": "starosta obce",
+      "home": "Nečtiny",
+      "homeMeta": {
+        "num": 559261,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Pavlíček",
+        ""
+      ],
+      "age": 62,
+      "work": "starosta města, místopředseda MAS Pošumaví",
+      "home": "Plánice",
+      "homeMeta": {
+        "num": 556955,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Nový",
+        ""
+      ],
+      "age": 40,
+      "work": "manažer projektu Kačaba",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Brichzin",
+        ""
+      ],
+      "age": 52,
+      "work": "starosta obce, řidič",
+      "home": "Velký Malahov",
+      "homeMeta": {
+        "num": 554413,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Václav",
+        "Chaloupek",
+        ""
+      ],
+      "age": 71,
+      "work": "senátor, režisér, scénárista",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 1022,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MgA. Mgr.",
+        "Roman",
+        "Černík",
+        ""
+      ],
+      "age": 56,
+      "work": "VŠ pedagog, divadelník, ředitel centra pro kulturu",
+      "home": "Ves Touškov",
+      "homeMeta": {
+        "num": 558494,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Bernard",
+        ""
+      ],
+      "age": 44,
+      "work": "starosta městyse, mluvčí Česko-němec. občan. inic.",
+      "home": "Všeruby",
+      "homeMeta": {
+        "num": 554456,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#1ebdb7"

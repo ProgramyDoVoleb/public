@@ -134,36 +134,594 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Silvie",
         "Čermáková",
         ""
       ],
-      "sex": 2,
+      "age": 44,
+      "work": "čl. rady města Jihlavy pro obl. kultury, pedagožka",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
       "reg": 5,
+      "nominee": 5,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/silvie.cermakova.16"
       ]
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Václav",
         "Hlaváč",
         ""
       ],
+      "age": 59,
+      "work": "ekolog, ředitel Správy CHKO Žďárské Vrchy",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
       "sex": 1,
-      "reg": 5
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Anna",
+        "Gűmplová",
+        ""
+      ],
+      "age": 27,
+      "work": "místopředsedkyně Strany zelených, aktivistka",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Anna",
-        "Gümplová",
+        "Milan",
+        "Zeibert",
         ""
       ],
+      "age": 57,
+      "work": "člen rady města Třebíče, učitel",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jana",
+        "Kotoučková",
+        ""
+      ],
+      "age": 62,
+      "work": "zahradní architektka",
+      "home": "Cejle",
+      "homeMeta": {
+        "num": 586978,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
       "sex": 2,
-      "reg": 5
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Michal",
+        "Jakeš",
+        ""
+      ],
+      "age": 51,
+      "work": "zástupce řed. Gymnázia, člen rady města Chotěboře",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Kristina",
+        "Roubalová",
+        ""
+      ],
+      "age": 48,
+      "work": "lékařka",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Daniel",
+        "Novák",
+        ""
+      ],
+      "age": 43,
+      "work": "ředitel Oblastní galerie Vysočiny",
+      "home": "Chlum",
+      "homeMeta": {
+        "num": 590711,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Iva",
+        "Suchá",
+        ""
+      ],
+      "age": 60,
+      "work": "lektorka ekologické výchovy",
+      "home": "Okříšky",
+      "homeMeta": {
+        "num": 591301,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Hermann",
+        ""
+      ],
+      "age": 55,
+      "work": "jednatel Městského divadla a kina Ostrov",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lucie",
+        "Žáčková",
+        ""
+      ],
+      "age": 37,
+      "work": "projektová manažerka",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Hynek",
+        "Kadečka",
+        ""
+      ],
+      "age": 39,
+      "work": "operátor zdrav. oper. střediska ZZS Kraje Vysočina",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Houzarová",
+        ""
+      ],
+      "age": 59,
+      "work": "botanička, kurátorka botanické podsbírky",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MgA.",
+        "Matěj",
+        "Kolář",
+        ""
+      ],
+      "age": 41,
+      "work": "performer, hudebník, pedagog",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Marie",
+        "Hronová",
+        ""
+      ],
+      "age": 72,
+      "work": "důchodkyně",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Pokorný",
+        ""
+      ],
+      "age": 44,
+      "work": "příležitostný houbař a sběrač ovoce",
+      "home": "Nová Cerekev",
+      "homeMeta": {
+        "num": 548456,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavlína",
+        "Psohlavcová Palečková",
+        ""
+      ],
+      "age": 28,
+      "work": "advokátní koncipientka",
+      "home": "Velké Meziříčí",
+      "homeMeta": {
+        "num": 597007,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Jiří",
+        "Konrád",
+        ""
+      ],
+      "age": 62,
+      "work": "lékař",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Kamila",
+        "Hronová",
+        ""
+      ],
+      "age": 43,
+      "work": "psycholožka",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MVDr.",
+        "František",
+        "Prát",
+        ""
+      ],
+      "age": 86,
+      "work": "důchodce",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Rudolf",
+        "Kubíček",
+        ""
+      ],
+      "age": 50,
+      "work": "IT manager",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Klejzar",
+        ""
+      ],
+      "age": 51,
+      "work": "poradce v ekologickém zemědělství",
+      "home": "Telč",
+      "homeMeta": {
+        "num": 588024,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Kovačka",
+        ""
+      ],
+      "age": 42,
+      "work": "učitel",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Soňa",
+        "Dvořáková",
+        ""
+      ],
+      "age": 37,
+      "work": "provozovatelka bistra",
+      "home": "Chlístov",
+      "homeMeta": {
+        "num": 590703,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Novotný",
+        ""
+      ],
+      "age": 50,
+      "work": "technik",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jakub",
+        "Vaníček",
+        ""
+      ],
+      "age": 39,
+      "work": "redaktor, knihkupec",
+      "home": "Modlíkov",
+      "homeMeta": {
+        "num": 569127,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Řehák",
+        ""
+      ],
+      "age": 58,
+      "work": "pracovník reklamy",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Bohutínský",
+        ""
+      ],
+      "age": 57,
+      "work": "správce stadionu",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Doležal",
+        ""
+      ],
+      "age": 70,
+      "work": "důchodce",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Roman",
+        "Čapka",
+        ""
+      ],
+      "age": 39,
+      "work": "učitel ZŠ",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Patrik",
+        "Priesol",
+        "DiS."
+      ],
+      "age": 41,
+      "work": "učitel přípravné třídy",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Strana zelených",

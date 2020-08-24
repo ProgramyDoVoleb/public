@@ -5,11 +5,11 @@
     716,
     1173
   ],
-    "reg": 1460,
-    "name": "Soukromníci a ODA",
-    "hash": "soukromnici-a-oda",
-    "short": "Soukromníci+ODA",
-    "no": 66,
+  "reg": 1460,
+  "name": "Soukromníci a ODA",
+  "hash": "soukromnici-a-oda",
+  "short": "Soukromníci+ODA",
+  "no": 66,
   "program": {},
   "people": [
     {
@@ -20,12 +20,630 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Bohuslav",
         "Coufal",
         ""
       ],
-      "sex": 1
+      "age": 52,
+      "work": "soukromý podnikatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kudláček",
+        ""
+      ],
+      "age": 61,
+      "work": "starosta Hranic",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
+      "reg": 1173,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Erika",
+        "Malíková",
+        ""
+      ],
+      "age": 41,
+      "work": "ekonomka",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jan",
+        "Nykl",
+        ""
+      ],
+      "age": 56,
+      "work": "pedagog",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1173,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Petr",
+        "Žurek",
+        ""
+      ],
+      "age": 51,
+      "work": "soukromý podnikatel",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Čamborová",
+        ""
+      ],
+      "age": 53,
+      "work": "ředitelka SZŠ",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 513750,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Stojmenov",
+        ""
+      ],
+      "age": 55,
+      "work": "soukromý podnikatel",
+      "home": "Hlubočky",
+      "homeMeta": {
+        "num": 502146,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Ivo",
+        "Baláš",
+        ""
+      ],
+      "age": 46,
+      "work": "jednatel společnosti",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 1173,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Preiss",
+        ""
+      ],
+      "age": 44,
+      "work": "soukromý podnikatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PaedDr.",
+        "Hana",
+        "Sekaninová",
+        ""
+      ],
+      "age": 57,
+      "work": "archivář",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Malík",
+        ""
+      ],
+      "age": 45,
+      "work": "soukromý podnikatel",
+      "home": "Mrsklesy",
+      "homeMeta": {
+        "num": 554944,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Kuběna",
+        ""
+      ],
+      "age": 48,
+      "work": "ředitel společnosti",
+      "home": "Šumperk",
+      "homeMeta": {
+        "num": 523704,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Stojmenov",
+        ""
+      ],
+      "age": 47,
+      "work": "soukromý podnikatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Kochta",
+        ""
+      ],
+      "age": 26,
+      "work": "trenér fitness",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Monika",
+        "Pisaříková",
+        ""
+      ],
+      "age": 40,
+      "work": "OSVČ",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Simona",
+        "Paarová",
+        ""
+      ],
+      "age": 41,
+      "work": "OSVČ",
+      "home": "Prostějov",
+      "homeMeta": {
+        "num": 589250,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tomáš",
+        "Budín",
+        ""
+      ],
+      "age": 51,
+      "work": "jednatel společnosti",
+      "home": "Hněvotín",
+      "homeMeta": {
+        "num": 502235,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Mlčáková",
+        ""
+      ],
+      "age": 21,
+      "work": "studentka",
+      "home": "Velký Týnec",
+      "homeMeta": {
+        "num": 505650,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Leonard",
+        "Dvořák",
+        ""
+      ],
+      "age": 46,
+      "work": "mistr ve výrobě",
+      "home": "Křelov-Břuchotín",
+      "homeMeta": {
+        "num": 554901,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Slavíček",
+        ""
+      ],
+      "age": 32,
+      "work": "provozní hotelu",
+      "home": "Náklo",
+      "homeMeta": {
+        "num": 504441,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Kristýna",
+        "Šobrová",
+        ""
+      ],
+      "age": 22,
+      "work": "zdravotní sestra",
+      "home": "Senička",
+      "homeMeta": {
+        "num": 552267,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Matoušek",
+        ""
+      ],
+      "age": 60,
+      "work": "vedoucí výroby",
+      "home": "Šternberk",
+      "homeMeta": {
+        "num": 505188,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Matěj",
+        "Murla",
+        ""
+      ],
+      "age": 22,
+      "work": "student",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Pecina",
+        ""
+      ],
+      "age": 38,
+      "work": "jednatel společnosti",
+      "home": "Paseka",
+      "homeMeta": {
+        "num": 504785,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Štěpánek",
+        ""
+      ],
+      "age": 29,
+      "work": "OSVČ",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Baláš",
+        ""
+      ],
+      "age": 58,
+      "work": "ekonom",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Pisařík",
+        ""
+      ],
+      "age": 38,
+      "work": "vedoucí prodeje",
+      "home": "Rokytnice",
+      "homeMeta": {
+        "num": 517607,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renata",
+        "Koutná",
+        ""
+      ],
+      "age": 59,
+      "work": "pracovnice SŽDC",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Purová",
+        ""
+      ],
+      "age": 46,
+      "work": "kosmetický poradce",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Kratochvíl",
+        ""
+      ],
+      "age": 46,
+      "work": "technik",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Sedláček",
+        ""
+      ],
+      "age": 37,
+      "work": "technik",
+      "home": "Slatinice",
+      "homeMeta": {
+        "num": 505111,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Pavel",
+        "Foretník",
+        ""
+      ],
+      "age": 70,
+      "work": "soukromý podnikatel",
+      "home": "Olomouc",
+      "homeMeta": {
+        "num": 500496,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Dominik",
+        ""
+      ],
+      "age": 43,
+      "work": "jednatel společnosti",
+      "home": "Příkazy",
+      "homeMeta": {
+        "num": 505013,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1173,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#e58b22"

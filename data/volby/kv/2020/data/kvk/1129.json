@@ -186,25 +186,42 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Markéta",
         "Sinkulová Moravcová",
         ""
       ],
-      "sex": 2,
+      "age": 43,
+      "work": "starostka obce",
+      "home": "Velichov",
+      "homeMeta": {
+        "num": 555703,
+        "gps": []
+      },
       "reg": 1129,
+      "nominee": 1129,
+      "sex": 2,
       "links": [],
       "photo": "marketa-sinkulova-moravcova.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Jitka",
         "Pokorná",
         ""
       ],
+      "age": 57,
+      "work": "starostka města",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129,
+      "links": [],
       "photo": "jitka-pokorna.jpg"
     },
     {
@@ -214,8 +231,17 @@
         "Frisch",
         ""
       ],
-      "sex": 1,
+      "age": 57,
+      "work": "starosta obce, zkušební komisař zbraně a střelivo",
+      "home": "Sadov",
+      "homeMeta": {
+        "num": 555533,
+        "gps": []
+      },
       "reg": 1129,
+      "nominee": 1129,
+      "sex": 1,
+      "links": [],
       "photo": "eduard-frisch.jpg"
     },
     {
@@ -225,8 +251,17 @@
         "Hromádko",
         ""
       ],
-      "sex": 1,
+      "age": 43,
+      "work": "starosta obce",
+      "home": "Hájek",
+      "homeMeta": {
+        "num": 538159,
+        "gps": []
+      },
       "reg": 1129,
+      "nominee": 1129,
+      "sex": 1,
+      "links": [],
       "photo": "vit-hromadko.jpg"
     },
     {
@@ -236,8 +271,17 @@
         "Ludvík",
         ""
       ],
-      "sex": 1,
+      "age": 52,
+      "work": "místostarosta obce",
+      "home": "Sadov",
+      "homeMeta": {
+        "num": 555533,
+        "gps": []
+      },
       "reg": 1129,
+      "nominee": 1129,
+      "sex": 1,
+      "links": [],
       "photo": "ladislav-ludvik.jpg"
     },
     {
@@ -247,8 +291,17 @@
         "Kříž",
         "Ph.D."
       ],
+      "age": 37,
+      "work": "advokát, radní města",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -257,8 +310,17 @@
         "Strnadová",
         ""
       ],
+      "age": 63,
+      "work": "starostka obce",
+      "home": "Tři Sekery",
+      "homeMeta": {
+        "num": 554880,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -267,8 +329,17 @@
         "Benka",
         ""
       ],
+      "age": 47,
+      "work": "starosta obce",
+      "home": "Milíkov",
+      "homeMeta": {
+        "num": 538906,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -277,8 +348,17 @@
         "Labík",
         ""
       ],
+      "age": 48,
+      "work": "starosta obce",
+      "home": "Kyselka",
+      "homeMeta": {
+        "num": 555347,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -287,8 +367,17 @@
         "Kvasnička",
         ""
       ],
+      "age": 44,
+      "work": "starosta obce",
+      "home": "Verušičky",
+      "homeMeta": {
+        "num": 555711,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -297,8 +386,17 @@
         "Stropek",
         ""
       ],
+      "age": 59,
+      "work": "starosta obce",
+      "home": "Bukovany",
+      "homeMeta": {
+        "num": 560316,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -307,8 +405,17 @@
         "Ondra",
         ""
       ],
+      "age": 49,
+      "work": "starosta obce",
+      "home": "Potůčky",
+      "homeMeta": {
+        "num": 555479,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -317,8 +424,17 @@
         "Tůmová",
         ""
       ],
+      "age": 63,
+      "work": "starostka obce",
+      "home": "Pernink",
+      "homeMeta": {
+        "num": 555452,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -327,8 +443,17 @@
         "Repíková",
         ""
       ],
+      "age": 48,
+      "work": "starostka obce",
+      "home": "Trstěnice",
+      "homeMeta": {
+        "num": 554855,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -337,8 +462,17 @@
         "Garaj",
         ""
       ],
+      "age": 55,
+      "work": "starosta obce",
+      "home": "Vojkovice",
+      "homeMeta": {
+        "num": 555738,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -347,8 +481,17 @@
         "Karas",
         ""
       ],
+      "age": 46,
+      "work": "starosta obce, příslušník HZS Karlovarského kraje",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -357,8 +500,17 @@
         "Křenčil",
         ""
       ],
+      "age": 70,
+      "work": "starosta obce",
+      "home": "Mnichov",
+      "homeMeta": {
+        "num": 554677,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -367,8 +519,17 @@
         "Jandák",
         ""
       ],
+      "age": 55,
+      "work": "starosta obce",
+      "home": "Krásný Les",
+      "homeMeta": {
+        "num": 578045,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -377,8 +538,17 @@
         "Štikar",
         ""
       ],
+      "age": 64,
+      "work": "starosta obce",
+      "home": "Děpoltovice",
+      "homeMeta": {
+        "num": 538116,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -387,8 +557,17 @@
         "Machková",
         ""
       ],
+      "age": 52,
+      "work": "starostka obce",
+      "home": "Nové Hamry",
+      "homeMeta": {
+        "num": 506494,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -397,8 +576,17 @@
         "Procházková",
         ""
       ],
+      "age": 52,
+      "work": "starostka obce",
+      "home": "Stará Voda",
+      "homeMeta": {
+        "num": 539112,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -407,8 +595,17 @@
         "Gerát",
         ""
       ],
+      "age": 58,
+      "work": "starosta obce",
+      "home": "Merklín",
+      "homeMeta": {
+        "num": 555363,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -417,8 +614,17 @@
         "Viková",
         ""
       ],
+      "age": 32,
+      "work": "starostka obce",
+      "home": "Stráž nad Ohří",
+      "homeMeta": {
+        "num": 555584,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -427,8 +633,17 @@
         "Doubrava",
         ""
       ],
+      "age": 45,
+      "work": "místostarosta obce, příslušník HZS KVK",
+      "home": "Třebeň",
+      "homeMeta": {
+        "num": 539023,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -437,8 +652,17 @@
         "Holubcová",
         ""
       ],
+      "age": 36,
+      "work": "starostka obce",
+      "home": "Valeč",
+      "homeMeta": {
+        "num": 555690,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -447,8 +671,17 @@
         "Petro",
         ""
       ],
+      "age": 59,
+      "work": "starosta města",
+      "home": "Horní Blatná",
+      "homeMeta": {
+        "num": 555169,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -457,8 +690,17 @@
         "Ryba",
         ""
       ],
+      "age": 53,
+      "work": "starosta obce",
+      "home": "Poustka",
+      "homeMeta": {
+        "num": 577979,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -467,8 +709,17 @@
         "Zilvar",
         ""
       ],
+      "age": 58,
+      "work": "starosta obce",
+      "home": "Okrouhlá",
+      "homeMeta": {
+        "num": 538922,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -477,8 +728,17 @@
         "Majdáková",
         ""
       ],
+      "age": 41,
+      "work": "starostka obce",
+      "home": "Jindřichovice",
+      "homeMeta": {
+        "num": 560413,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -487,8 +747,17 @@
         "Stepanov",
         ""
       ],
+      "age": 26,
+      "work": "místostarosta obce",
+      "home": "Smolné Pece",
+      "homeMeta": {
+        "num": 538027,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -497,8 +766,17 @@
         "Jiskra",
         ""
       ],
+      "age": 55,
+      "work": "starosta obce",
+      "home": "Kolová",
+      "homeMeta": {
+        "num": 555258,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -507,8 +785,17 @@
         "Turnerová",
         ""
       ],
+      "age": 40,
+      "work": "starostka obce",
+      "home": "Dasnice",
+      "homeMeta": {
+        "num": 560332,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -517,8 +804,17 @@
         "Dorňák",
         ""
       ],
+      "age": 63,
+      "work": "starosta města",
+      "home": "Chyše",
+      "homeMeta": {
+        "num": 555207,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -527,8 +823,17 @@
         "Onak",
         ""
       ],
+      "age": 52,
+      "work": "starosta obce, příslušník HZS Karlovarského kraje",
+      "home": "Josefov",
+      "homeMeta": {
+        "num": 511587,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -537,8 +842,17 @@
         "Švecová",
         ""
       ],
+      "age": 53,
+      "work": "starostka obce, technik BOZP a PO",
+      "home": "Otovice",
+      "homeMeta": {
+        "num": 537969,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -547,8 +861,17 @@
         "Derahová",
         ""
       ],
+      "age": 55,
+      "work": "starostka obce",
+      "home": "Odrava",
+      "homeMeta": {
+        "num": 539554,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -557,8 +880,17 @@
         "Kubincová",
         ""
       ],
+      "age": 52,
+      "work": "místostarostka obce",
+      "home": "Šindelová",
+      "homeMeta": {
+        "num": 560677,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -567,8 +899,17 @@
         "Krouza",
         ""
       ],
+      "age": 55,
+      "work": "starosta obce",
+      "home": "Černava",
+      "homeMeta": {
+        "num": 538019,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -577,8 +918,17 @@
         "Janda",
         ""
       ],
+      "age": 56,
+      "work": "starosta obce",
+      "home": "Rovná",
+      "homeMeta": {
+        "num": 560618,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -587,8 +937,17 @@
         "Nesybová",
         ""
       ],
+      "age": 63,
+      "work": "lékařka, radní města",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -597,8 +956,17 @@
         "Krumphanzlová",
         ""
       ],
+      "age": 45,
+      "work": "manažerka dobrovolného svazku obcí",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -607,8 +975,17 @@
         "Lodr",
         ""
       ],
+      "age": 71,
+      "work": "soudní znalec",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -617,8 +994,17 @@
         "Kollár",
         ""
       ],
+      "age": 43,
+      "work": "advokát",
+      "home": "Dolní Rychnov",
+      "homeMeta": {
+        "num": 538591,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -627,8 +1013,17 @@
         "Zamazal",
         ""
       ],
+      "age": 54,
+      "work": "vedoucí technického oddělení",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -637,8 +1032,17 @@
         "Prudík",
         ""
       ],
+      "age": 72,
+      "work": "bývalý vedoucí odboru kultury, památkové péče KÚ",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1129,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -647,8 +1051,17 @@
         "Bendová",
         ""
       ],
+      "age": 45,
+      "work": "advokátka",
+      "home": "Jenišov",
+      "homeMeta": {
+        "num": 537926,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 2,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -657,8 +1070,17 @@
         "Novotný",
         ""
       ],
+      "age": 67,
+      "work": "technický dozor investora",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -667,8 +1089,17 @@
         "Fiala",
         ""
       ],
+      "age": 67,
+      "work": "odborný lesní hospodář",
+      "home": "Šemnice",
+      "homeMeta": {
+        "num": 555614,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -677,8 +1108,17 @@
         "Bartůšek",
         ""
       ],
+      "age": 66,
+      "work": "advokát",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     },
     {
       "nameFull": [
@@ -687,8 +1127,17 @@
         "Frisch",
         ""
       ],
+      "age": 35,
+      "work": "státní zaměstnanec, zkuš. komisař zbraně a střel.",
+      "home": "Sadov",
+      "homeMeta": {
+        "num": 555533,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1129,
       "sex": 1,
-      "reg": 1129
+      "links": []
     }
   ],
   "short": "SNK1",

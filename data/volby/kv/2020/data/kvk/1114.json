@@ -51,8 +51,16 @@
         "Maříková",
         ""
       ],
-      "sex": 2,
+      "age": 39,
+      "work": "poslankyně",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
       "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/Karla-Ma%C5%99%C3%ADkov%C3%A1-614434815422565/"
       ],
@@ -60,13 +68,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Motešický",
         ""
       ],
-      "sex": 1,
+      "age": 60,
+      "work": "vedoucí provozu",
+      "home": "Skalná",
+      "homeMeta": {
+        "num": 554812,
+        "gps": []
+      },
       "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": [],
       "photo": "petr-motesicky.jpg"
     },
     {
@@ -76,8 +93,17 @@
         "Šťovíček",
         ""
       ],
-      "sex": 1,
+      "age": 39,
+      "work": "živnostník, zastupitel Karlovarského kraje",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
       "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": [],
       "photo": "michal-stovicek.jpg"
     },
     {
@@ -87,8 +113,17 @@
         "Maříková",
         ""
       ],
-      "sex": 2,
+      "age": 57,
+      "work": "živnostník",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
       "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": [],
       "photo": "vera-marikova.jpg"
     },
     {
@@ -98,9 +133,873 @@
         "Nimrichter",
         ""
       ],
-      "sex": 1,
+      "age": 55,
+      "work": "jednatel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
       "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": [],
       "photo": "petr-nimrichter.jpg"
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Jirkovský",
+        ""
+      ],
+      "age": 75,
+      "work": "živnostník",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Parajňáková",
+        ""
+      ],
+      "age": 51,
+      "work": "učitelka na ZŠ",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jaroslav",
+        "Biskup",
+        ""
+      ],
+      "age": 74,
+      "work": "živnostník, středoškolský učitel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Řezníček",
+        ""
+      ],
+      "age": 42,
+      "work": "řidič MKD",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Eva",
+        "Plhová",
+        ""
+      ],
+      "age": 51,
+      "work": "učitelka",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Helena",
+        "Baxová",
+        ""
+      ],
+      "age": 58,
+      "work": "živnostník",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Kříž",
+        ""
+      ],
+      "age": 79,
+      "work": "důchodce",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Zima",
+        ""
+      ],
+      "age": 38,
+      "work": "obráběč kovů",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Radakovič",
+        ""
+      ],
+      "age": 54,
+      "work": "technik, zastupitel obce Velichov",
+      "home": "Velichov",
+      "homeMeta": {
+        "num": 555703,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Kišš",
+        ""
+      ],
+      "age": 40,
+      "work": "elektrotechnik",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Švec",
+        ""
+      ],
+      "age": 44,
+      "work": "řidič MKD",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Vítová",
+        ""
+      ],
+      "age": 51,
+      "work": "pracovnice infocentra",
+      "home": "Horní Blatná",
+      "homeMeta": {
+        "num": 555169,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Beneš",
+        ""
+      ],
+      "age": 43,
+      "work": "sportovní masér",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Helena",
+        "Neuberová",
+        ""
+      ],
+      "age": 56,
+      "work": "živnostník",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Koutný",
+        ""
+      ],
+      "age": 58,
+      "work": "starosta obce Žlutice",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dana",
+        "Špírková",
+        ""
+      ],
+      "age": 55,
+      "work": "hradlařka",
+      "home": "Habartov",
+      "homeMeta": {
+        "num": 560359,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Veselý",
+        ""
+      ],
+      "age": 70,
+      "work": "technik",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Hrachovina",
+        ""
+      ],
+      "age": 64,
+      "work": "hodinář",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Žaneta",
+        "Dubová",
+        ""
+      ],
+      "age": 39,
+      "work": "účetní",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Šťovíčková",
+        ""
+      ],
+      "age": 71,
+      "work": "pokladní",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavlína",
+        "Jankuliaková",
+        ""
+      ],
+      "age": 41,
+      "work": "vychovatelka",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Nimrichterová",
+        ""
+      ],
+      "age": 35,
+      "work": "účetní, řidička MKD",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Dvořák",
+        ""
+      ],
+      "age": 40,
+      "work": "zástupce vedoucího čerpací stanice",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Štěpán",
+        "Stráník",
+        ""
+      ],
+      "age": 44,
+      "work": "hudebník v symfonickém orchestru, učitel hudby",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Černý",
+        ""
+      ],
+      "age": 71,
+      "work": "živnostník",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marta",
+        "Pecková Gösslová",
+        ""
+      ],
+      "age": 56,
+      "work": "vedoucí pošty",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hrabě",
+        ""
+      ],
+      "age": 27,
+      "work": "živnostník",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Bolek",
+        ""
+      ],
+      "age": 67,
+      "work": "programátor",
+      "home": "Hroznětín",
+      "homeMeta": {
+        "num": 555185,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Pecka",
+        ""
+      ],
+      "age": 47,
+      "work": "řidič MKD",
+      "home": "Dolní Rychnov",
+      "homeMeta": {
+        "num": 538591,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Šťastný",
+        ""
+      ],
+      "age": 72,
+      "work": "živnostník",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petra",
+        "Telepovská",
+        ""
+      ],
+      "age": 24,
+      "work": "operátorka výroby",
+      "home": "Šabina",
+      "homeMeta": {
+        "num": 538396,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kamila",
+        "Kokolusová",
+        ""
+      ],
+      "age": 53,
+      "work": "asistentka prodeje",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kamil",
+        "Knotek",
+        ""
+      ],
+      "age": 51,
+      "work": "řidič MKD",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Mištová",
+        ""
+      ],
+      "age": 40,
+      "work": "invalidní důchodkyně",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Poliščuková",
+        ""
+      ],
+      "age": 62,
+      "work": "operátorka ve výrobě",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Vašíček",
+        ""
+      ],
+      "age": 70,
+      "work": "pracovník ostrahy",
+      "home": "Abertamy",
+      "homeMeta": {
+        "num": 554979,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Koutná",
+        ""
+      ],
+      "age": 55,
+      "work": "kuchařka",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Strejček",
+        ""
+      ],
+      "age": 59,
+      "work": "revizní technik",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Kemr",
+        ""
+      ],
+      "age": 63,
+      "work": "jednatel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Tyl",
+        ""
+      ],
+      "age": 70,
+      "work": "strojvedoucí",
+      "home": "Františkovy Lázně",
+      "homeMeta": {
+        "num": 554529,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Josef",
+        "Kvasnička",
+        ""
+      ],
+      "age": 70,
+      "work": "právník",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 1179,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Převrátil",
+        ""
+      ],
+      "age": 47,
+      "work": "mistr výroby",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Josef",
+        "Vaněk",
+        ""
+      ],
+      "age": 71,
+      "work": "právník, zastupitel obce Hazlov",
+      "home": "Hazlov",
+      "homeMeta": {
+        "num": 554545,
+        "gps": []
+      },
+      "reg": 1179,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vít",
+        "Borolič",
+        ""
+      ],
+      "age": 70,
+      "work": "řidič autobusové dopravy",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 1179,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Štefan",
+        "Liguš",
+        ""
+      ],
+      "age": 58,
+      "work": "vedoucí výroby",
+      "home": "Plesná",
+      "homeMeta": {
+        "num": 554740,
+        "gps": []
+      },
+      "reg": 1179,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Svoboda a přímá demokracie (SPD)",

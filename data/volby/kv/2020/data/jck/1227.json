@@ -454,13 +454,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Ivana",
         "Kerlesová",
         ""
       ],
-      "sex": 2,
+      "age": 42,
+      "work": "jednatelka PR agent., předs.spol.Pro dostavbu JETE",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
       "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
       "links": [
         "https://kerleska.cz/",
         "https://www.facebook.com/Kerlesova",
@@ -470,35 +478,1107 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Dalibor",
         "Uhlíř",
         ""
       ],
-      "sex": 1,
+      "age": 47,
+      "work": "ředitel firmy, sportovní trenér mládeže",
+      "home": "Lipí",
+      "homeMeta": {
+        "num": 544761,
+        "gps": []
+      },
       "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": [],
       "photo": "dalibor-uhlir.jpg"
+    },
+    {
+      "nameFull": [
+        "doc. MUDr.",
+        "Jaroslav",
+        "Zvěřina",
+        "CSc."
+      ],
+      "age": 77,
+      "work": "psychiatr, sexuolog, vysokoškolský pedagog",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": [],
+      "photo": "jaroslav-zverina.jpg"
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jiří",
+        "Černý",
+        ""
+      ],
+      "age": 47,
+      "work": "ředitel obchodní společnosti, včelař",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Ušatý",
+        ""
+      ],
+      "age": 54,
+      "work": "starosta obce Albrechtice nad Vltavou, ČMMJ",
+      "home": "Albrechtice nad Vltavou",
+      "homeMeta": {
+        "num": 549258,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "doc. Ing.",
+        "Radka",
+        "Váchalová",
+        "Ph.D."
+      ],
+      "age": 43,
+      "work": "docent na katedře agroekologie JČU ZF",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Ivo",
+        "Machálek",
+        ""
+      ],
+      "age": 55,
+      "work": "starosta města Týn nad Vltavou,ředitel polikliniky",
+      "home": "Týn nad Vltavou",
+      "homeMeta": {
+        "num": 545201,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Jaroslav",
-        "Zvěřina",
+        "Fical",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "místopředseda představenstva, geodet, sportovec",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
       "reg": 1227,
-      "photo": "jaroslav-zverina.jpg"
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Světlana",
+        "Procházková",
+        "MBA"
+      ],
+      "age": 57,
+      "work": "galeristka, soudní znalkyně, zastupitelka města",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. Bc.",
+        "Vladimír",
+        "Mareš",
+        ""
+      ],
+      "age": 60,
+      "work": "hasič, operační důstojník",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Jiří",
-        "Černý",
+        "Jan",
+        "Sommer",
         ""
       ],
+      "age": 41,
+      "work": "fotograf, kameraman, motorkář",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 1,
-      "reg": 1227
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Richard",
+        "Štengl",
+        "DiS."
+      ],
+      "age": 44,
+      "work": "místopředseda SBD Prachatice, lesník, myslivec",
+      "home": "Lhenice",
+      "homeMeta": {
+        "num": 550361,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Sedlák",
+        ""
+      ],
+      "age": 49,
+      "work": "starožitník, nájemce hradu",
+      "home": "Blatná",
+      "homeMeta": {
+        "num": 550850,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lucie",
+        "Zajícová",
+        ""
+      ],
+      "age": 38,
+      "work": "ředitelka Alzheimercentra České Budějovice",
+      "home": "Mahouš",
+      "homeMeta": {
+        "num": 537381,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Veronika",
+        "Plachá",
+        ""
+      ],
+      "age": 26,
+      "work": "manažerka, rybářka, dobrovolná hasička, zast. obce",
+      "home": "Jarošov nad Nežárkou",
+      "homeMeta": {
+        "num": 546500,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Hemza",
+        ""
+      ],
+      "age": 45,
+      "work": "konzultant, ekonom",
+      "home": "Sezimovo Ústí",
+      "homeMeta": {
+        "num": 553069,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Gabriela",
+        "Trnová",
+        ""
+      ],
+      "age": 35,
+      "work": "jednatelka, manažerka, motorkářka",
+      "home": "Hluboká nad Vltavou",
+      "homeMeta": {
+        "num": 544485,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Zajíček",
+        ""
+      ],
+      "age": 52,
+      "work": "podnikatel v zemědělství",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Matoušek",
+        "MBA"
+      ],
+      "age": 52,
+      "work": "ekonom, předseda mysliveckého spolku",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Lumír",
+        "Mraček",
+        ""
+      ],
+      "age": 68,
+      "work": "emeritní lékař záchranné služby České Budějovice",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MDDr.",
+        "Jindřich",
+        "Čítek",
+        ""
+      ],
+      "age": 32,
+      "work": "stomatolog",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Nebes",
+        ""
+      ],
+      "age": 38,
+      "work": "profes. hasič, instr. první pomoci a sebeobrany",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Urbánek",
+        ""
+      ],
+      "age": 53,
+      "work": "vedoucí ochrany ČZ Strakonice",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Štěpán",
+        "Tampír",
+        ""
+      ],
+      "age": 43,
+      "work": "ekonom",
+      "home": "Vrábče",
+      "homeMeta": {
+        "num": 545261,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Dvořák",
+        ""
+      ],
+      "age": 42,
+      "work": "regionální trenér hokeje ČSHL, restaurace KUKI",
+      "home": "Hluboká nad Vltavou",
+      "homeMeta": {
+        "num": 544485,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Vokroj",
+        ""
+      ],
+      "age": 33,
+      "work": "obchodní zástupce Mercedes Benz, sportovec",
+      "home": "Zliv",
+      "homeMeta": {
+        "num": 545341,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Staněk",
+        ""
+      ],
+      "age": 41,
+      "work": "technik údržby, dobrovolný hasič",
+      "home": "Lhenice",
+      "homeMeta": {
+        "num": 550361,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Padrta",
+        ""
+      ],
+      "age": 54,
+      "work": "živnostník, motorkář",
+      "home": "Třeboň",
+      "homeMeta": {
+        "num": 547336,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vít",
+        "Kolman",
+        ""
+      ],
+      "age": 33,
+      "work": "obchodně technický zástupce",
+      "home": "Dačice",
+      "homeMeta": {
+        "num": 546127,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. Bc.",
+        "Jan",
+        "Brabec",
+        "MBA"
+      ],
+      "age": 50,
+      "work": "pojišťovací makléř, trafikant",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Reindl",
+        ""
+      ],
+      "age": 68,
+      "work": "provozovatel čerpací stanice, fotbalový manažer",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Anna",
+        "Olahová",
+        ""
+      ],
+      "age": 60,
+      "work": "učitelka",
+      "home": "Prachatice",
+      "homeMeta": {
+        "num": 550094,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Šimek",
+        ""
+      ],
+      "age": 42,
+      "work": "ředitel jihočeské telekomunikační spol. NECOSS",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tibor",
+        "Varga",
+        ""
+      ],
+      "age": 52,
+      "work": "realitní makléř",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Patrik",
+        "Boháč",
+        ""
+      ],
+      "age": 36,
+      "work": "podnikatel",
+      "home": "Malšín",
+      "homeMeta": {
+        "num": 536296,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Nevrkla",
+        ""
+      ],
+      "age": 65,
+      "work": "strojní inženýr",
+      "home": "Dačice",
+      "homeMeta": {
+        "num": 546127,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Zajíček",
+        ""
+      ],
+      "age": 39,
+      "work": "obor automatizace, analýza a oprava strojů",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Strnad",
+        ""
+      ],
+      "age": 48,
+      "work": "správa nemovitostí, trenér bojových umění",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Milan",
+        "März",
+        ""
+      ],
+      "age": 54,
+      "work": "ředitel firmy, chalupář",
+      "home": "Třeboň",
+      "homeMeta": {
+        "num": 547336,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Patrik",
+        "Eliáš",
+        ""
+      ],
+      "age": 46,
+      "work": "podnikatel, zastoupení Land Rover",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Rosenkranz",
+        ""
+      ],
+      "age": 45,
+      "work": "starosta obce Cizkrajov",
+      "home": "Cizkrajov",
+      "homeMeta": {
+        "num": 546054,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Papežová",
+        ""
+      ],
+      "age": 21,
+      "work": "studentka VŠTE, lektorka pro příměstské tábory",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Kuliš",
+        ""
+      ],
+      "age": 65,
+      "work": "ekonom, obchodník",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Petrášek",
+        ""
+      ],
+      "age": 41,
+      "work": "jednatel společnosti, badatel",
+      "home": "Nové Hrady",
+      "homeMeta": {
+        "num": 544868,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Ján",
+        "Jesenský",
+        ""
+      ],
+      "age": 54,
+      "work": "IT administrátor, předs.oblast.vrcholové komise JČ",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vojtěch",
+        "Plzák",
+        ""
+      ],
+      "age": 28,
+      "work": "IT datový analytik",
+      "home": "Božetice",
+      "homeMeta": {
+        "num": 549291,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tereza",
+        "Maxová",
+        ""
+      ],
+      "age": 27,
+      "work": "student",
+      "home": "Chlum u Třeboně",
+      "homeMeta": {
+        "num": 546461,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Papula",
+        ""
+      ],
+      "age": 37,
+      "work": "pivovarník",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Škopek",
+        ""
+      ],
+      "age": 45,
+      "work": "majitel firmy, historik",
+      "home": "Zliv",
+      "homeMeta": {
+        "num": 545341,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Šimek",
+        ""
+      ],
+      "age": 46,
+      "work": "ekonom",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Záděra",
+        ""
+      ],
+      "age": 41,
+      "work": "majitel čerpací stanice, majitel hotelu",
+      "home": "Stožice",
+      "homeMeta": {
+        "num": 530034,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Vlastimil",
+        "Votřel",
+        ""
+      ],
+      "age": 63,
+      "work": "majitel restaurace Hospoda Na Louži",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Reindl",
+        ""
+      ],
+      "age": 43,
+      "work": "vedoucí čerpací stanice",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Jaromír",
+        "Procházka",
+        ""
+      ],
+      "age": 68,
+      "work": "historik umění, autor",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Korcová",
+        ""
+      ],
+      "age": 62,
+      "work": "účetní",
+      "home": "Blatná",
+      "homeMeta": {
+        "num": 550850,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Jirgl",
+        ""
+      ],
+      "age": 50,
+      "work": "obchodní zástupce",
+      "home": "Vrábče",
+      "homeMeta": {
+        "num": 545261,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Milaberský",
+        ""
+      ],
+      "age": 22,
+      "work": "projektant v TZB v atelieru M.A.A.T.",
+      "home": "Milevsko",
+      "homeMeta": {
+        "num": 549576,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Lexa",
+        ""
+      ],
+      "age": 47,
+      "work": "revizní technik elektro",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Komárek",
+        ""
+      ],
+      "age": 38,
+      "work": "majitel stavební firmy",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Trikolóra hnutí občanů",

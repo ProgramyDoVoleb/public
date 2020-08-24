@@ -215,572 +215,969 @@
     "https://www.instagram.com/pro_krajinu"
   ],
   "list": [
-      {
-        "nameFull": [
-          "prof.",
-          "Josef",
-          "Šedlbauer",
-          "Ph.D."
-        ],
-        "age": 51,
-        "reg": 5, "sex": 1,
-        "work": "vysokoškolský učitel, organizátor studia nanotechnologií na Technické univerzitě v Liberci, předseda správní rady Společnosti pro Jizerské hory, zastupitel Liberce a Libereckého kraje",
-        "links": [
-          "https://www.facebook.com/jsedlbauer",
-          "https://twitter.com/JSedlbauer",
-          "https://www.instagram.com/josef_sedlbauer"
-        ],
-        "photo": "josef-sedlbauer.jpg"
+    {
+      "nameFull": [
+        "prof. Ing.",
+        "Josef",
+        "Šedlbauer",
+        "Ph.D."
+      ],
+      "age": 51,
+      "work": "vysokoškolský učitel, organizátor studia nanotechnologií na Technické univerzitě v Liberci, předseda správní rady Společnosti pro Jizerské hory, zastupitel Liberce a Libereckého kraje",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "MUDr.",
-          "Anna",
-          "Kšírová",
-           ""
-        ],
-        "age": 36,
-        "reg": 5, "sex": 2,
-        "work": "lékařka, podnikatelka, zakladatelka a předsedkyně spolku Rodiče za klima Liberec, organizátorka Rady pro klima města Liberec, členka Lékařů za budoucnost",
-        "photo": "anna-ksirova.jpg"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": [
+        "https://www.facebook.com/jsedlbauer",
+        "https://twitter.com/JSedlbauer",
+        "https://www.instagram.com/josef_sedlbauer"
+      ],
+      "photo": "josef-sedlbauer.jpg"
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Anna",
+        "Kšírová",
+        ""
+      ],
+      "age": 36,
+      "work": "lékařka, podnikatelka, zakladatelka a předsedkyně spolku Rodiče za klima Liberec, organizátorka Rady pro klima města Liberec, členka Lékařů za budoucnost",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Jakub",
-          "Macek",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 1,
-        "work": "ekonom, kontrolor, zastupitel Jablonce nad Nisou, iniciátor a organizátor úspěšného jabloneckého referenda proti hazardu",
-        "photo": "jakub-macek.jpg",
-        "links": [
-          "https://facebook.com/IngJakubMacek"
-        ]
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": [],
+      "photo": "anna-ksirova.jpg"
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jakub",
+        "Macek",
+        ""
+      ],
+      "age": 34,
+      "work": "ekonom, kontrolor, zastupitel Jablonce nad Nisou, iniciátor a organizátor úspěšného jabloneckého referenda proti hazardu",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Martina",
-          "Vondrová",
-           ""
-        ],
-        "age": 48,
-        "reg": 99, "sex": 2,
-        "work": "podnikatelka, majitelka bezobalového obchodu, zakladatelka Rodičů za klima Semily",
-        "photo": "martina-vondrova.jpg"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": [
+        "https://facebook.com/IngJakubMacek"
+      ],
+      "photo": "jakub-macek.jpg"
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Vondrová",
+        ""
+      ],
+      "age": 48,
+      "work": "podnikatelka, majitelka bezobalového obchodu, zakladatelka Rodičů za klima Semily",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "PhDr.",
-          "Miroslav",
-          "Hudec",
-           ""
-        ],
-        "age": 68,
-        "reg": 5, "sex": 1,
-        "work": "dětský psycholog a rodinný poradce, publicista, zastupitel České Lípy, předseda regionální pobočky Společnosti pro trvale udržitelný život, člen krajského Výboru dopravy",
-        "photo": "miroslav-hudec.jpg"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": [],
+      "photo": "martina-vondrova.jpg"
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Miroslav",
+        "Hudec",
+        ""
+      ],
+      "age": 68,
+      "work": "dětský psycholog a rodinný poradce, publicista, zastupitel České Lípy, předseda regionální pobočky Společnosti pro trvale udržitelný život, člen krajského Výboru dopravy",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Lenka",
-          "Vitebská",
-           ""
-        ],
-        "age": 50,
-        "reg": 99, "sex": 2,
-        "work": "advokátka, členka jabloneckého Výboru pro hospodaření s majetkem města"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": [],
+      "photo": "miroslav-hudec.jpg"
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lenka",
+        "Vitebská",
+        ""
+      ],
+      "age": 50,
+      "work": "advokátka, členka jabloneckého Výboru pro hospodaření s majetkem města",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "MUDr.",
-          "Ondřej",
-          "Černý",
-           ""
-        ],
-        "age": 37,
-        "reg": 99, "sex": 1,
-        "work": "kardiolog, lékař na urgentním příjmu Krajské nemocnice Liberec a ve Zdravotnické záchranné službě Libereckého kraje"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr. Mgr.",
+        "Ondřej",
+        "Černý",
+        ""
+      ],
+      "age": 37,
+      "work": "kardiolog, lékař na urgentním příjmu Krajské nemocnice Liberec a ve Zdravotnické záchranné službě Libereckého kraje",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Bc.",
-          "Zuzana",
-          "Kocumová",
-           ""
-        ],
-        "age": 41,
-        "reg": 99, "sex": 2,
-        "work": "sportovkyně, několikanásobná mistryně světa a Evropy ve Spartan Race, účastnice Olympijských her v běhu na lyžích, sportovní spolukomentátorka ČT, zastupitelka Liberce a Libereckého kraje"
+      "reg": 99,
+      "nominee": 795,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Zuzana",
+        "Kocumová",
+        ""
+      ],
+      "age": 41,
+      "work": "sportovkyně, několikanásobná mistryně světa a Evropy ve Spartan Race, účastnice Olympijských her v běhu na lyžích, sportovní spolukomentátorka ČT, zastupitelka Liberce a Libereckého kraje",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "PhDr.",
-          "Jaromír",
-          "Baxa",
-          "Ph.D."
-        ],
-        "age": 38,
-        "reg": 5, "sex": 1,
-        "work": "ekonom, vysokoškolský učitel a vědecký pracovník Univerzity Karlovy, zastupitel Liberce a Libereckého kraje"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Jaromír",
+        "Baxa",
+        "Ph.D."
+      ],
+      "age": 38,
+      "work": "ekonom, vysokoškolský učitel a vědecký pracovník Univerzity Karlovy, zastupitel Liberce a Libereckého kraje",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Anna",
-          "Hudská",
-           ""
-        ],
-        "age": 45,
-        "reg": 99, "sex": 2,
-        "work": "majitelka Farmy Klokočí a Půjčovny lodí a koloběžek Klokočí, zakladatelka spolku ZAzemí Turnov, zastupitelka obce Klokočí"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Anna",
+        "Hudská",
+        ""
+      ],
+      "age": 45,
+      "work": "majitelka Farmy Klokočí a Půjčovny lodí a koloběžek Klokočí, zakladatelka spolku ZAzemí Turnov, zastupitelka obce Klokočí",
+      "home": "Klokočí",
+      "homeMeta": {
+        "num": 577227,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Jindřich",
-          "Felcman",
-          "Ph.D."
-        ],
-        "age": 36,
-        "reg": 5, "sex": 1,
-        "work": "právník, specialista na územní plánování, zastupitel Liberce, člen krajského Výboru hospodářského a regionálního rozvoje",
-        "links": [
-          "https://www.facebook.com/jindrich.felcman/"
-        ]
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jindřich",
+        "Felcman",
+        "Ph.D."
+      ],
+      "age": 36,
+      "work": "právník, specialista na územní plánování, zastupitel Liberce, člen krajského Výboru hospodářského a regionálního rozvoje",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Jiřina",
-          "Kučerová",
-           ""
-        ],
-        "age": 50,
-        "reg": 5, "sex": 2,
-        "work": "ekonomka, pracovnice městského úřadu, členka Finančního výboru České Lípy"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": [
+        "https://www.facebook.com/jindrich.felcman/"
+      ]
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiřina",
+        "Kučerová",
+        ""
+      ],
+      "age": 50,
+      "work": "ekonomka, pracovnice městského úřadu, členka Finančního výboru České Lípy",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Jakub",
-          "Varvařovský",
-           ""
-        ],
-        "age": 32,
-        "reg": 99, "sex": 1,
-        "work": "expert na komunikaci a protikorupční opatření, finalista mezinárodní vědecko-technické soutěže Falling Walls s projektem na zavlažování suchých oblastí, zakladatel MNOHA SVĚTŮ v Jilemnici"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jakub",
+        "Varvařovský",
+        ""
+      ],
+      "age": 32,
+      "work": "expert na komunikaci a protikorupční opatření, finalista mezinárodní vědecko-technické soutěže Falling Walls s projektem na zavlažování suchých oblastí, zakladatel MNOHA SVĚTŮ v Jilemnici",
+      "home": "Jilemnice",
+      "homeMeta": {
+        "num": 577197,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Dana",
-          "Navrátilová Fainová",
-           ""
-        ],
-        "age": 41,
-        "reg": 99, "sex": 2,
-        "work": "designérka, cukrářka, spoluzakladatelka hejnické iniciativy Zachraňte mokřad"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dana",
+        "Navrátilová Fainová",
+        ""
+      ],
+      "age": 41,
+      "work": "designérka, cukrářka, spoluzakladatelka hejnické iniciativy Zachraňte mokřad",
+      "home": "Hejnice",
+      "homeMeta": {
+        "num": 564044,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Martin",
-          "Rosenbaum",
-           ""
-        ],
-        "age": 44,
-        "reg": 99, "sex": 1,
-        "work": "soukromý zemědělec - majitel Farmy Lukava a zakladatel výukové Farmy Koniklec"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Rosenbaum",
+        ""
+      ],
+      "age": 44,
+      "work": "soukromý zemědělec - majitel Farmy Lukava a zakladatel výukové Farmy Koniklec",
+      "home": "Jindřichovice pod Smrkem",
+      "homeMeta": {
+        "num": 564133,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "MgA.",
-          "Eliška",
-          "Šídová",
-           ""
-        ],
-        "age": 41,
-        "reg": 99, "sex": 2,
-        "work": "architektka, majitelka La Kavárny v Jablonci nad Nisou, zakladatelka designérské skupiny DoMoDo, organizátorka Jizerské 50 padesátkrát jinak"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MgA.",
+        "Eliška",
+        "Šídová",
+        ""
+      ],
+      "age": 41,
+      "work": "architektka, majitelka La Kavárny v Jablonci nad Nisou, zakladatelka designérské skupiny DoMoDo, organizátorka Jizerské 50 padesátkrát jinak",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Jiří",
-          "Louda",
-          "Ph.D."
-        ],
-        "age": 36,
-        "reg": 99, "sex": 1,
-        "work": "vědecký pracovník a projektový manažer v oblasti životního prostředí"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Louda",
+        "Ph.D."
+      ],
+      "age": 36,
+      "work": "vědecký pracovník a projektový manažer v oblasti životního prostředí",
+      "home": "Janov nad Nisou",
+      "homeMeta": {
+        "num": 563595,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Radka",
-          "Benešová",
-           ""
-        ],
-        "age": 44,
-        "reg": 5, "sex": 2,
-        "work": "učitelka a překladatelka z angličtiny a portugalštiny, členka libereckého Kontrolního výboru"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radka",
+        "Benešová",
+        ""
+      ],
+      "age": 44,
+      "work": "učitelka a překladatelka z angličtiny a portugalštiny, členka libereckého Kontrolního výboru",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Jiří",
-          "Šťastný",
-           ""
-        ],
-        "age": 55,
-        "reg": 99, "sex": 1,
-        "work": "podnikatel, správce a kastelán hradu Vranov - Pantheon na Malé Skále, horolezec s přezdívkou Šťáva"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Šťastný",
+        ""
+      ],
+      "age": 55,
+      "work": "podnikatel, správce a kastelán hradu Vranov - Pantheon na Malé Skále, horolezec s přezdívkou Šťáva",
+      "home": "Malá Skála",
+      "homeMeta": {
+        "num": 563706,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Ludmila",
-          "Karková",
-           ""
-        ],
-        "age": 19,
-        "reg": 99, "sex": 2,
-        "work": "studentka užité malby, členka Fridays for Future"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Karková",
+        ""
+      ],
+      "age": 19,
+      "work": "studentka užité malby, členka Fridays for Future",
+      "home": "Cvikov",
+      "homeMeta": {
+        "num": 561479,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Patrik",
-          "Fikera",
-           ""
-        ],
-        "age": 44,
-        "reg": 5, "sex": 1,
-        "work": "podnikatel ve sportovním stavebnictví, předseda basketbalového klubu USK Slavia Liberec"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Patrik",
+        "Fikera",
+        ""
+      ],
+      "age": 44,
+      "work": "podnikatel ve sportovním stavebnictví, předseda basketbalového klubu USK Slavia Liberec",
+      "home": "Dlouhý Most",
+      "homeMeta": {
+        "num": 530468,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Kateřina",
-          "Čechová",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 2,
-        "work": "učitelka češtiny a angličtiny, lektorka, zakladatelka spolku Rodiče za klima Liberec, dobrovolnice"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Kateřina",
+        "Čechová",
+        ""
+      ],
+      "age": 34,
+      "work": "učitelka češtiny a angličtiny, lektorka, zakladatelka spolku Rodiče za klima Liberec, dobrovolnice",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Radek",
-          "Patrný",
-           ""
-        ],
-        "age": 43,
-        "reg": 99, "sex": 1,
-        "work": "koordinátor Labské stezky v ČR"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radek",
+        "Patrný",
+        ""
+      ],
+      "age": 43,
+      "work": "koordinátor Labské stezky v ČR",
+      "home": "Volfartice",
+      "homeMeta": {
+        "num": 562220,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Vladěna",
-          "Drábková",
-           ""
-        ],
-        "age": 36,
-        "reg": 99, "sex": 2,
-        "work": "lektorka a tlumočnice španělštiny, průvodkyně, členka Trash Hero - dobrovolnický sběr odpadků ve městě, dramaturgyně festivalu Jeden svět v Jablonci nad Nisou"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladěna",
+        "Drábková",
+        ""
+      ],
+      "age": 36,
+      "work": "lektorka a tlumočnice španělštiny, průvodkyně, členka Trash Hero - dobrovolnický sběr odpadků ve městě, dramaturgyně festivalu Jeden svět v Jablonci nad Nisou",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Jan",
-          "Stárek",
-           ""
-        ],
-        "age": 38,
-        "reg": 99, "sex": 1,
-        "work": "ekonom, člen libereckého Finančního výboru, amatérský hudebník"
+      "reg": 99,
+      "nominee": 795,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Stárek",
+        ""
+      ],
+      "age": 38,
+      "work": "ekonom, člen libereckého Finančního výboru, amatérský hudebník",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Kristýna",
-          "Šťastná",
-           ""
-        ],
-        "age": 21,
-        "reg": 99, "sex": 2,
-        "work": "studentka Mezinárodních rozvojových studií, absolventka EduChange, autorka projektu Změna srážek v Libereckém kraji"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kristýna",
+        "Šťastná",
+        ""
+      ],
+      "age": 21,
+      "work": "studentka Mezinárodních rozvojových studií, absolventka EduChange, autorka projektu Změna srážek v Libereckém kraji",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Milan",
-          "Přívratský",
-           ""
-        ],
-        "age": 62,
-        "reg": 5, "sex": 1,
-        "work": "ředitel společnosti Teplo Nový Bor"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Přívratský",
+        ""
+      ],
+      "age": 62,
+      "work": "ředitel společnosti Teplo Nový Bor",
+      "home": "Nový Bor",
+      "homeMeta": {
+        "num": 561860,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Kamila",
-          "Lubasová",
-           ""
-        ],
-        "age": 47,
-        "reg": 99, "sex": 2,
-        "work": "daňová poradkyně, účetní, členka krajského Finančního výboru, aktivní členka neziskových organizací v oblasti volnočasových aktivit dětí a mládeže"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kamila",
+        "Lubasová",
+        ""
+      ],
+      "age": 47,
+      "work": "daňová poradkyně, účetní, členka krajského Finančního výboru, aktivní členka neziskových organizací v oblasti volnočasových aktivit dětí a mládeže",
+      "home": "Nová Ves nad Nisou",
+      "homeMeta": {
+        "num": 563731,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Bc.",
-          "Tomáš",
-          "Neděla",
-           ""
-        ],
-        "age": 31,
-        "reg": 99, "sex": 1,
-        "work": "osobní asistent v chráněném bydlení, zakladatel Trash Hero Liberec - dobrovolnický sběr odpadků ve městě, dobrovolník v hospicu sv. Zdislavy, lektor DDM Větrník"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Tomáš",
+        "Neděla",
+        ""
+      ],
+      "age": 31,
+      "work": "osobní asistent v chráněném bydlení, zakladatel Trash Hero Liberec - dobrovolnický sběr odpadků ve městě, dobrovolník v hospicu sv. Zdislavy, lektor DDM Větrník",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Barbora",
-          "Junková",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 2,
-        "work": "manažerka, učitelka němčiny, zakladatelka spolku Rodiče za klima Liberec, členka libereckého Výboru pro vzdělávání"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Barbora",
+        "Junková",
+        ""
+      ],
+      "age": 34,
+      "work": "manažerka, učitelka němčiny, zakladatelka spolku Rodiče za klima Liberec, členka libereckého Výboru pro vzdělávání",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Aleš",
-          "Bělohradský",
-          "MSc."
-        ],
-        "age": 31,
-        "reg": 5, "sex": 1,
-        "work": "ekonom, analytik, vědecký pracovník Univerzity Karlovy, skautský instruktor, člen Komise pro nakládání s nemovitým majetkem kraje"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Aleš",
+        "Bělohradský",
+        "MSc."
+      ],
+      "age": 31,
+      "work": "ekonom, analytik, vědecký pracovník Univerzity Karlovy, skautský instruktor, člen Komise pro nakládání s nemovitým majetkem kraje",
+      "home": "Hodkovice nad Mohelkou",
+      "homeMeta": {
+        "num": 564061,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Kateřina",
-          "Bednářová",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 2,
-        "work": "ředitelka Společnosti pro Jizerské hory, o.p.s."
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Kateřina",
+        "Bednářová",
+        ""
+      ],
+      "age": 34,
+      "work": "ředitelka Společnosti pro Jizerské hory, o.p.s.",
+      "home": "Pulečný",
+      "homeMeta": {
+        "num": 546577,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Bc.",
-          "Pavel",
-          "Perlík",
-           ""
-        ],
-        "age": 33,
-        "reg": 5, "sex": 1,
-        "work": "IT programátor"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Pavel",
+        "Perlík",
+        ""
+      ],
+      "age": 33,
+      "work": "IT programátor",
+      "home": "Zákupy",
+      "homeMeta": {
+        "num": 562262,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Magdaléna",
-          "Halamová",
-           ""
-        ],
-        "age": 40,
-        "reg": 99, "sex": 2,
-        "work": "instruktorka jógy, lektorka volnočasových aktivit pro děti, členka spolku Za živou Lužickou Nisu, který zatím zabránil výstavbě průmyslové haly u pramene Lužické Nisy"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Magdaléna",
+        "Halamová",
+        ""
+      ],
+      "age": 40,
+      "work": "instruktorka jógy, lektorka volnočasových aktivit pro děti, členka spolku Za živou Lužickou Nisu, který zatím zabránil výstavbě průmyslové haly u pramene Lužické Nisy",
+      "home": "Smržovka",
+      "homeMeta": {
+        "num": 563811,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Bc.",
-          "Jan",
-          "Peldřimovský",
-           ""
-        ],
-        "age": 31,
-        "reg": 99, "sex": 1,
-        "work": "IT vývojář a datový analytik, člen komunity IT profesionálů Česko.Digital pomáhající státu a nestátním organizacím, dobrovolník spolku Rodiče za klima a organizace Člověk v tísni"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jan",
+        "Peldřimovský",
+        ""
+      ],
+      "age": 31,
+      "work": "IT vývojář a datový analytik, člen komunity IT profesionálů Česko.Digital pomáhající státu a nestátním organizacím, dobrovolník spolku Rodiče za klima a organizace Člověk v tísni",
+      "home": "Lučany nad Nisou",
+      "homeMeta": {
+        "num": 563692,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Simona",
-          "Zlatníková",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 2,
-        "work": "autorizovaná projektantka vodohospodářských staveb, vykonává technický dozor investora u staveb pro energetiku"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Simona",
+        "Zlatníková",
+        ""
+      ],
+      "age": 34,
+      "work": "autorizovaná projektantka vodohospodářských staveb, vykonává technický dozor investora u staveb pro energetiku",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Miloslav",
-          "Lomič",
-           ""
-        ],
-        "age": 55,
-        "reg": 99, "sex": 1,
-        "work": "dramaturg, správce a promítač v kině Máj Doksy, angažuje se proti obnovení těžby na Tlustci"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloslav",
+        "Lomič",
+        ""
+      ],
+      "age": 55,
+      "work": "dramaturg, správce a promítač v kině Máj Doksy, angažuje se proti obnovení těžby na Tlustci",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Olga",
-          "Žáková",
-           ""
-        ],
-        "age": 51,
-        "reg": 99, "sex": 2,
-        "work": "vedoucí komunitní školy Volavec, spoluzakladatelka lukostřeleckého oddílu, včelařka"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Olga",
+        "Žáková",
+        ""
+      ],
+      "age": 51,
+      "work": "vedoucí komunitní školy Volavec, spoluzakladatelka lukostřeleckého oddílu, včelařka",
+      "home": "Kacanovy",
+      "homeMeta": {
+        "num": 577201,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Vladimír",
-          "Vrabec",
-           ""
-        ],
-        "age": 41,
-        "reg": 5, "sex": 1,
-        "work": "památkář, hudebník, organizátor festivalu Ještědská Odysea, člen libereckého Výboru pro sport"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladimír",
+        "Vrabec",
+        ""
+      ],
+      "age": 41,
+      "work": "památkář, hudebník, organizátor festivalu Ještědská Odysea, člen libereckého Výboru pro sport",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Simona",
-          "Bůžková",
-           ""
-        ],
-        "age": 51,
-        "reg": 5, "sex": 2,
-        "work": "knihovnice, členka Společnosti pro trvale udržitelný život, členka Výboru pro životní prostředí České Lípy"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Simona",
+        "Bůžková",
+        ""
+      ],
+      "age": 51,
+      "work": "knihovnice, členka Společnosti pro trvale udržitelný život, členka Výboru pro životní prostředí České Lípy",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Jan",
-          "Kubeš",
-           ""
-        ],
-        "age": 40,
-        "reg": 99, "sex": 1,
-        "work": "projektový manažer, organizátor sportovních akcí"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Jan",
+        "Kubeš",
+        ""
+      ],
+      "age": 40,
+      "work": "projektový manažer, organizátor sportovních akcí",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "MUDr.",
-          "Zuzana",
-          "Nosková",
-           ""
-        ],
-        "age": 56,
-        "reg": 99, "sex": 2,
-        "work": "medicínská poradkyně, členka jablonecké Komise pro ochranu zvířat a životního prostředí, členka Osadního výboru Mšeno nad Nisou"
+      "reg": 99,
+      "nominee": 795,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Zuzana",
+        "Nosková",
+        ""
+      ],
+      "age": 56,
+      "work": "medicínská poradkyně, členka jablonecké Komise pro ochranu zvířat a životního prostředí, členka Osadního výboru Mšeno nad Nisou",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "PaedDr.",
-          "Milan",
-          "Kubát",
-           ""
-        ],
-        "age": 70,
-        "reg": 5, "sex": 1,
-        "work": "středoškolský učitel, skaut"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PaedDr.",
+        "Milan",
+        "Kubát",
+        ""
+      ],
+      "age": 70,
+      "work": "středoškolský učitel, skaut",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Tereza",
-          "Nalezená",
-           ""
-        ],
-        "age": 34,
-        "reg": 99, "sex": 2,
-        "work": "architektka, urbanistka, členka Osadního výboru Mšeno nad Nisou"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. arch.",
+        "Tereza",
+        "Nalezená",
+        ""
+      ],
+      "age": 34,
+      "work": "architektka, urbanistka, členka Osadního výboru Mšeno nad Nisou",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Jan",
-          "Plesník",
-           ""
-        ],
-        "age": 20,
-        "reg": 99, "sex": 1,
-        "work": "student ČVUT a konstruktér elektroformulí, organizátor MNOHO SVĚTŮ v Jilemnici, juniorský mistr ČR ve frisbee"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Plesník",
+        ""
+      ],
+      "age": 20,
+      "work": "student ČVUT a konstruktér elektroformulí, organizátor MNOHO SVĚTŮ v Jilemnici, juniorský mistr ČR ve frisbee",
+      "home": "Jilemnice",
+      "homeMeta": {
+        "num": 577197,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Mgr.",
-          "Renata",
-          "Loudová",
-           ""
-        ],
-        "age": 36,
-        "reg": 99, "sex": 2,
-        "work": "dula a laktační poradkyně"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Renata",
+        "Loudová",
+        ""
+      ],
+      "age": 36,
+      "work": "dula a laktační poradkyně",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Bc.",
-          "Radim",
-          "Vácha",
-           ""
-        ],
-        "age": 49,
-        "reg": 99, "sex": 1,
-        "work": "památkář, předseda Občanského spolku Sonow - obnova a údržba památek a kultivace veřejného prostoru, rytec skla"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Radim",
+        "Vácha",
+        ""
+      ],
+      "age": 49,
+      "work": "památkář, předseda Občanského spolku Sonow - obnova a údržba památek a kultivace veřejného prostoru, rytec skla",
+      "home": "Kamenický Šenov",
+      "homeMeta": {
+        "num": 561681,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Vladimíra",
-          "Šumová",
-           ""
-        ],
-        "age": 73,
-        "reg": 5, "sex": 2,
-        "work": "seniorka, ekonomka, členka Klubu českých turistů"
+      "reg": 99,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimíra",
+        "Šumová",
+        ""
+      ],
+      "age": 73,
+      "work": "seniorka, ekonomka, členka Klubu českých turistů",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-           "",
-          "Daniel",
-          "Schiffner",
-           ""
-        ],
-        "age": 29,
-        "reg": 5, "sex": 1,
-        "work": "pedagog volného času"
+      "reg": 5,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniel",
+        "Schiffner",
+        ""
+      ],
+      "age": 29,
+      "work": "pedagog volného času",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
       },
-      {
-        "nameFull": [
-          "Ing.",
-          "Julie",
-          "Macháčková",
-           ""
-        ],
-        "age": 41,
-        "reg": 99, "sex": 2,
-        "work": "ekologická zemědělkyně, publicistka, projektová konzultantka v oblasti dopravy a IT"
-      }
-    ],
+      "reg": 5,
+      "nominee": 5,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Julie",
+        "Macháčková",
+        ""
+      ],
+      "age": 41,
+      "work": "ekologická zemědělkyně, publicistka, projektová konzultantka v oblasti dopravy a IT",
+      "home": "Skuhrov",
+      "homeMeta": {
+        "num": 563803,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 5,
+      "sex": 2,
+      "links": []
+    }
+  ],
   "color": "#60b44c"
 }

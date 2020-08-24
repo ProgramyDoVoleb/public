@@ -38,27 +38,777 @@
         "Svoboda",
         ""
       ],
-      "sex": 1,
+      "age": 35,
+      "work": "radní města Duchcov a revizní technik",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
       "reg": 156,
+      "nominee": 156,
+      "sex": 1,
       "links": []
     },
     {
       "nameFull": [
         "",
         "Jana",
-        "Brambaški",
+        "Maršálková Brambaški",
         ""
       ],
-      "sex": 1
+      "age": 43,
+      "work": "zdravotní sestra",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Opl",
+        ""
+      ],
+      "age": 49,
+      "work": "Policejní rada v.v., Ředitelství služby a ÚHOZ",
+      "home": "Varnsdorf",
+      "homeMeta": {
+        "num": 562882,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Andrea",
+        "Altmanová",
+        ""
+      ],
+      "age": 47,
+      "work": "podnikatelka",
+      "home": "Vejprty",
+      "homeMeta": {
+        "num": 563404,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jakub",
+        "Vršovský",
+        ""
+      ],
+      "age": 31,
+      "work": "řidič",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Bc.",
+        "Petr",
+        "Křížek",
+        ""
+      ],
+      "age": 49,
+      "work": "sociální pracovník",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Šárka",
+        "Pohlová",
+        ""
+      ],
+      "age": 51,
+      "work": "pečovatelka",
+      "home": "Teplice",
+      "homeMeta": {
+        "num": 567442,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Moravec",
+        ""
+      ],
+      "age": 63,
+      "work": "živnostník",
+      "home": "Varnsdorf",
+      "homeMeta": {
+        "num": 562882,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Novák",
+        ""
+      ],
+      "age": 40,
+      "work": "kuchař",
+      "home": "Děčín",
+      "homeMeta": {
+        "num": 562335,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Růžičková",
+        ""
+      ],
+      "age": 48,
+      "work": "laborantka",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Štefan",
+        ""
+      ],
+      "age": 65,
+      "work": "rentiér",
+      "home": "Varnsdorf",
+      "homeMeta": {
+        "num": 562882,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Gutzer",
+        ""
+      ],
+      "age": 53,
+      "work": "živnostník",
+      "home": "Podbořany",
+      "homeMeta": {
+        "num": 566616,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Loskot",
+        ""
+      ],
+      "age": 31,
+      "work": "strojvůdce",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "André",
+        ""
+      ],
+      "age": 51,
+      "work": "invalidní důchodce",
+      "home": "Krupka",
+      "homeMeta": {
+        "num": 567639,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Smékal",
+        ""
+      ],
+      "age": 44,
+      "work": "bezpečnostní pracovník",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Svatoňová",
+        ""
+      ],
+      "age": 37,
+      "work": "servírka",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Hánl",
+        ""
+      ],
+      "age": 60,
+      "work": "dělník",
+      "home": "Varnsdorf",
+      "homeMeta": {
+        "num": 562882,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Venyercsan",
+        ""
+      ],
+      "age": 31,
+      "work": "OSVČ",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Šabart",
+        ""
+      ],
+      "age": 46,
+      "work": "vlakvedoucí",
+      "home": "Teplice",
+      "homeMeta": {
+        "num": 567442,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Jordánová",
+        "DiS."
+      ],
+      "age": 26,
+      "work": "sociální pracovnice",
+      "home": "Teplice",
+      "homeMeta": {
+        "num": 567442,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marta",
+        "Žitková",
+        ""
+      ],
+      "age": 48,
+      "work": "laborantka",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Bim",
+        ""
+      ],
+      "age": 56,
+      "work": "pokrývač",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Sklenář",
+        ""
+      ],
+      "age": 19,
+      "work": "elektrikář",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Vaverka",
+        ""
+      ],
+      "age": 42,
+      "work": "sanitář",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Tichý",
+        ""
+      ],
+      "age": 36,
+      "work": "OSVČ",
+      "home": "Zabrušany",
+      "homeMeta": {
+        "num": 567868,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Zemančík",
+        ""
+      ],
+      "age": 41,
+      "work": "vedoucí prodeje",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dominika",
+        "Jelínková",
+        ""
+      ],
+      "age": 25,
+      "work": "sociální pracovnice",
+      "home": "Dubí",
+      "homeMeta": {
+        "num": 567507,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Venyercsan",
+        ""
+      ],
+      "age": 56,
+      "work": "OSVČ",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Kabátová",
+        "DiS."
+      ],
+      "age": 26,
+      "work": "sociální pracovnice",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Slivka",
+        ""
+      ],
+      "age": 42,
+      "work": "pokrývač",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Věra",
+        "Tesárková",
+        ""
+      ],
+      "age": 65,
+      "work": "důchodkyně",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Sklenář",
+        ""
+      ],
+      "age": 19,
+      "work": "IT specialista",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Havliš",
+        ""
+      ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alena",
+        "Kiezlerová",
+        ""
+      ],
+      "age": 47,
+      "work": "uklízečka",
+      "home": "Teplice",
+      "homeMeta": {
+        "num": 567442,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiřina",
+        "Gutzerová",
+        ""
+      ],
+      "age": 44,
+      "work": "sanitářka",
+      "home": "Podbořany",
+      "homeMeta": {
+        "num": 566616,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Bureš",
+        ""
+      ],
+      "age": 33,
+      "work": "pokrývač",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miluše",
+        "Janoušková",
+        ""
+      ],
+      "age": 61,
+      "work": "OSVČ",
+      "home": "Duchcov",
+      "homeMeta": {
+        "num": 567515,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Mráz",
+        ""
+      ],
+      "age": 59,
+      "work": "pokrývač",
+      "home": "Hrobčice",
+      "homeMeta": {
+        "num": 567566,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Novák",
+        ""
+      ],
+      "age": 45,
+      "work": "pokrývač",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Sochor",
+        ""
+      ],
+      "age": 71,
+      "work": "důchodce",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1021,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Jindřich",
-        "Svoboda",
+        "Novák",
         ""
       ],
-      "sex": 1
+      "age": 44,
+      "work": "střechař",
+      "home": "Ústí nad Labem",
+      "homeMeta": {
+        "num": 554804,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#113a96"

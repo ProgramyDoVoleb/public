@@ -292,41 +292,51 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Josef",
         "Janů",
         ""
       ],
-      "sex": 1,
+      "age": 51,
+      "work": "krajský radní pro regionální rozvoj, IT a projektové řízení, stavební inženýr",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://karlovarsky.pirati.cz/lide/josef-janu",
         "https://www.facebook.com/pepik.janu",
         "https://twitter.com/JosefJanu",
         "https://www.instagram.com/pepikjanu/"
       ],
-      "age": 51,
-      "work": "krajský radní pro regionální rozvoj, IT a projektové řízení, stavební inženýr",
-      "home": "Karlovy Vary",
       "photo": "josef-janu.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Vojtěch",
         "Franta",
         ""
       ],
-      "sex": 1,
+      "age": 35,
+      "work": "krajský zastupitel pro oblast lázeňství a cestovního ruchu, první Pirátský starosta, architekt a spoluzakladatel Šviháka",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://karlovarsky.pirati.cz/lide/vojtech-fanta/",
         "https://www.facebook.com/vojtafranta"
       ],
-      "photo": "vojtech-franta-2.jpg",
-      "age": 35,
-      "work": "krajský zastupitel pro oblast lázeňství a cestovního ruchu, první Pirátský starosta, architekt a spoluzakladatel Šviháka",
-      "home": "Mariánské Lázně"
+      "photo": "vojtech-franta-2.jpg"
     },
     {
       "nameFull": [
@@ -335,18 +345,23 @@
         "Monsportová",
         ""
       ],
-      "sex": 2,
+      "age": 48,
+      "work": "vedoucí cestovní kanceláře, manažerka, kulturní aktivistka a zastupitelka Karlovarského kraje",
+      "home": "Velká Hleďsebe",
+      "homeMeta": {
+        "num": 539279,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 2,
       "links": [
         "https://monsportova.cz/",
         "https://twitter.com/MMonsportova",
         "https://www.instagram.com/marketamonsportova/",
         "https://karlovarsky.pirati.cz/lide/marketa-monsportova/"
       ],
-      "photo": "marketa-monsportova-2.jpg",
-      "age": 48,
-      "work": "vedoucí cestovní kanceláře, manažerka, kulturní aktivistka a zastupitelka Karlovarského kraje",
-      "home": "Velká Hleďsebe"
+      "photo": "marketa-monsportova-2.jpg"
     },
     {
       "nameFull": [
@@ -355,16 +370,21 @@
         "Zykán",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "OSVČ, property manager, hudebník",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/maitai.saytoo",
         "https://karlovarsky.pirati.cz/lide/lukas-zykan/"
       ],
-      "photo": "lukas-zykan-2.jpg",
-      "age": 38,
-      "work": "OSVČ, property manager, hudebník",
-      "home": "Sokolov"
+      "photo": "lukas-zykan-2.jpg"
     },
     {
       "nameFull": [
@@ -373,83 +393,118 @@
         "Čermák",
         ""
       ],
-      "sex": 1,
+      "age": 38,
+      "work": "politický analytik, zastupitel města Karlovy Vary, psavec",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
       "reg": 720,
+      "nominee": 720,
+      "sex": 1,
       "links": [
         "https://karlovarsky.pirati.cz/lide/jindrich-cermak/",
         "https://www.facebook.com/jincer",
         "https://twitter.com/jincer",
         "https://www.instagram.com/jincermak/"
       ],
-      "age": 38,
-      "work": "politický analytik, zastupitel města Karlovy Vary, psavec",
-      "home": "Karlovy Vary",
       "photo": "jindrich-cermak-2.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Martin",
         "Kalina",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 36,
       "work": "starosta města Mariánské Lázně",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. Mgr.",
         "Petr",
         "Adamec",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 39,
       "work": "starosta města Lokte",
-      "home": "Loket"
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Ondřej",
         "Topinka",
-        ""
+        "DiS."
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 26,
       "work": "sociální pracovník, pracovník městského úřadu, sportovní nadšenec/analytik",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Vítězslav",
         "Adamec",
-        ""
+        "DiS."
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 29,
       "work": "památkář, hudebník, učitel houslí na ZUŠ Kynšperk, zastupitel města Lokte, slamer",
-      "home": "Loket"
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Nikola",
         "Indrová",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 32,
       "work": "regionální koordinátorka výzkumného projektu, ekologická zemědělkyně",
-      "home": "Valeč"
+      "home": "Valeč",
+      "homeMeta": {
+        "num": 555690,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -458,102 +513,150 @@
         "Trčková",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 37,
       "work": "manažerka v tiskárně, markeťačka, produkční, koordinátorka Pirátů KvK",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Sušanin",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 36,
       "work": "projektant vzduchotechniky, zastupitel města Karlovy Vary",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc. et Bc.",
         "Karolina",
         "Vejmělková",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 29,
       "work": "sociální pracovník, radní města Mariánské Lázně",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Lada",
-        "Baranek Lapinová",
+        "Baranek",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 48,
-      "work": "podniková ekonomka, zastupitelka města Jáchymov, číselný mág v Nadaci St. Joachim",
-      "home": "Jáchymov"
+      "work": "podniková ekonomka, zastupitelka města Jáchymov",
+      "home": "Jáchymov",
+      "homeMeta": {
+        "num": 555215,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Zdeněk",
         "Třešňák",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 64,
       "work": "zeměměřič",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Josef",
         "Pavlovic",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 36,
       "work": "OSVČ, radní města Mariánské Lázně, fotograf, marketér",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Bc.",
         "Ondřej",
         "Špendlíček",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 36,
       "work": "vedoucí sociálních služeb, radní města Cheb",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Antotín",
+        "Antonín",
         "Šimkanin",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 19,
       "work": "renesanční ajťák",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -562,11 +665,17 @@
         "Jadlovský",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 35,
       "work": "OSVČ, zastupitel města Mariánské Lázně, technologický geek",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -575,11 +684,17 @@
         "Bílá",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 50,
       "work": "technik, alchymistka, občanská aktivistka",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -588,11 +703,17 @@
         "Beitl",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
-      "age": 26,
+      "age": 25,
       "work": "podnikatel, volební manažer a koordinátor Pirátů KvK",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -601,51 +722,74 @@
         "Pudilová",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
-      "links": [],
       "age": 30,
       "work": "zdravotní sestra na mateřské dovolené",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. et Mgr.",
         "Jan",
         "Havel",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 34,
       "work": "gymnaziální učitel",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Bohdan",
         "Vaněk",
-        ""
+        "M.A."
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 46,
       "work": "ekonomický analytik a manažer rozvojových projektů",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Jana",
         "Jandová",
-        ""
+        "DiS."
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 66,
       "work": "asistentka praktické lékařky, předsedkyně spolku",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -654,11 +798,17 @@
         "Náměstek",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 45,
       "work": "vedoucí depa",
-      "home": "Rotava"
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -667,11 +817,17 @@
         "Kopš",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 28,
       "work": "programátor",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -680,63 +836,93 @@
         "Erbenová",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 19,
       "work": "cukrářka, pracovnice v pohostinství",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Tereza",
         "Zykánová",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 33,
       "work": "manager domácnosti, zastupitelka města Sokolov",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Zdeněk",
         "Hess",
-        ""
+        "Ph.D."
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 47,
       "work": "lékař",
-      "home": "Drmoul"
+      "home": "Drmoul",
+      "homeMeta": {
+        "num": 554511,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Tadeáš",
         "Král",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 29,
       "work": "spisovatel, pedagog, performer, markeťák a montér",
-      "home": "Loket"
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Stehlík",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 37,
       "work": "chaos engineer",
-      "home": "Valeč"
+      "home": "Valeč",
+      "homeMeta": {
+        "num": 555690,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -745,11 +931,17 @@
         "Tuček",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 44,
       "work": "svářeč",
-      "home": "Rotava"
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -758,11 +950,17 @@
         "Farkas",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 24,
       "work": "Linux administrator",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -771,11 +969,17 @@
         "Veselka",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 48,
       "work": "OSVČ - reklama, fotografie",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -784,24 +988,36 @@
         "Trčka",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 32,
       "work": "tiskař, grafik",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Simona",
         "Marková",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 37,
       "work": "historička umění",
-      "home": "Loket"
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -810,11 +1026,17 @@
         "Prýmek",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 42,
       "work": "velínář",
-      "home": "Rotava"
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -823,11 +1045,17 @@
         "Zemek",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 33,
       "work": "elektrikář",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -836,24 +1064,36 @@
         "Prachař",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 28,
       "work": "ochotnický herec, obsluha parkoviště",
-      "home": "Cheb"
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Petra",
         "Zámečníková",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 32,
       "work": "účetní",
-      "home": "Sokolov"
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -862,24 +1102,36 @@
         "Tučková",
         ""
       ],
-      "sex": 2,
-      "reg": 720,
       "age": 70,
       "work": "OSVČ",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Slach",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 55,
       "work": "recepční, promotér, občanský aktivista, ekonom",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -888,37 +1140,55 @@
         "Hulý",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 37,
       "work": "dispečer kamionové dopravy",
-      "home": "Velká Hleďsebe"
+      "home": "Velká Hleďsebe",
+      "homeMeta": {
+        "num": 539279,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Nedvěd",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 44,
       "work": "kurátor sbírkových fondů, historik, občanský aktivista",
-      "home": "Karlovy Vary"
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Karel",
         "Nykles",
         ""
       ],
-      "sex": 1,
-      "reg": 720,
       "age": 36,
       "work": "EMEA Cyber Security Manager, zastupitel města Mariánské Lázně",
-      "home": "Mariánské Lázně"
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 720,
+      "nominee": 720,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Česká pirátská strana",

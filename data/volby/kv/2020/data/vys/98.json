@@ -9,6 +9,45 @@
   "hash": "volte-pravy-blok-stranu-za-odvolat-polit--nizke-dane-vyrovn-rozp--min-byrokr--sprav-just--primou-demokr--www-cibulka-net",
   "logo": "obecne/strany/loga/98-pravy-blok.jpg",
   "color": "#aaa",
-  "list": [],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Kočík",
+        ""
+      ],
+      "age": 65,
+      "work": "léčitel, angažovaný občan v důchodu",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 98,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bronislava",
+        "Zigová",
+        ""
+      ],
+      "age": 61,
+      "work": "angažovaný občan v důchodu",
+      "home": "Nové Město na Moravě",
+      "homeMeta": {
+        "num": 596230,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 98,
+      "sex": 2,
+      "links": []
+    }
+  ],
   "no": 67
 }

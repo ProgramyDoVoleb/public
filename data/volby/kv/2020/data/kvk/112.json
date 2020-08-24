@@ -33,13 +33,952 @@
         "Pizinger",
         ""
       ],
-      "sex": 1,
+      "age": 45,
+      "work": "starosta",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
       "reg": 112,
+      "nominee": 112,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/Patrik-Pizinger-starosta-970070833183850",
         "https://twitter.com/PatrikPizinger",
         "https://www.instagram.com/patrikpizinger"
       ]
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dalibor",
+        "Blažek",
+        ""
+      ],
+      "age": 60,
+      "work": "starosta",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Egert",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta",
+      "home": "Bochov",
+      "homeMeta": {
+        "num": 555029,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Bráborec",
+        "MBA"
+      ],
+      "age": 59,
+      "work": "speciální pedagog",
+      "home": "Mírová",
+      "homeMeta": {
+        "num": 537934,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Pavel",
+        "Čekan",
+        ""
+      ],
+      "age": 59,
+      "work": "vedoucí pracovník",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Hana",
+        "Hnyková",
+        ""
+      ],
+      "age": 56,
+      "work": "lékařka",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alexandr",
+        "Terek",
+        ""
+      ],
+      "age": 40,
+      "work": "starosta",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alexandr",
+        "Žák",
+        ""
+      ],
+      "age": 50,
+      "work": "starosta",
+      "home": "Toužim",
+      "homeMeta": {
+        "num": 555657,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Vít",
+        "Baloun",
+        ""
+      ],
+      "age": 53,
+      "work": "lékař",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Pokorný",
+        ""
+      ],
+      "age": 43,
+      "work": "starosta",
+      "home": "Krásná",
+      "homeMeta": {
+        "num": 538795,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lenka",
+        "Straková",
+        ""
+      ],
+      "age": 56,
+      "work": "starostka",
+      "home": "Útvina",
+      "homeMeta": {
+        "num": 555681,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Marcel",
+        "Vlasák",
+        ""
+      ],
+      "age": 48,
+      "work": "ředitel městské policie",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Věra",
+        "Baumanová",
+        ""
+      ],
+      "age": 60,
+      "work": "starostka",
+      "home": "Nové Sedlo",
+      "homeMeta": {
+        "num": 560570,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Růžek",
+        ""
+      ],
+      "age": 53,
+      "work": "podnikatel",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Hora",
+        ""
+      ],
+      "age": 71,
+      "work": "předseda vodohospodářského sdružení, hasič",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavlína",
+        "Lišková",
+        ""
+      ],
+      "age": 45,
+      "work": "manažerka sociálních služeb v KV kraji",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Horník",
+        "DiS."
+      ],
+      "age": 49,
+      "work": "hasič",
+      "home": "Toužim",
+      "homeMeta": {
+        "num": 555657,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Dvořáková",
+        ""
+      ],
+      "age": 53,
+      "work": "starostka",
+      "home": "Hazlov",
+      "homeMeta": {
+        "num": 554545,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloslav",
+        "Zítka",
+        ""
+      ],
+      "age": 57,
+      "work": "technik",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vlastimil",
+        "Poláček",
+        ""
+      ],
+      "age": 52,
+      "work": "podnikatel",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Vrchlavský",
+        ""
+      ],
+      "age": 47,
+      "work": "technik",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MVDr.",
+        "Lenka",
+        "Müllerová",
+        ""
+      ],
+      "age": 49,
+      "work": "místní veterinární lékařka",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Kasal",
+        "DiS."
+      ],
+      "age": 42,
+      "work": "hasič",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václav",
+        "Kellner",
+        ""
+      ],
+      "age": 70,
+      "work": "geodet",
+      "home": "Kolová",
+      "homeMeta": {
+        "num": 555258,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Nepraš",
+        ""
+      ],
+      "age": 47,
+      "work": "starosta",
+      "home": "Bečov nad Teplou",
+      "homeMeta": {
+        "num": 554995,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Svobodová",
+        ""
+      ],
+      "age": 38,
+      "work": "pracovnice krizového řízení, hasička",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Kotilínek",
+        ""
+      ],
+      "age": 49,
+      "work": "starosta",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Daniel",
+        "Mašlár",
+        ""
+      ],
+      "age": 31,
+      "work": "starosta",
+      "home": "Hranice",
+      "homeMeta": {
+        "num": 554553,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Petr",
+        "Rojík",
+        "Ph.D."
+      ],
+      "age": 63,
+      "work": "geolog",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Luděk",
+        "Soukup",
+        ""
+      ],
+      "age": 41,
+      "work": "místostarosta",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Vodička",
+        ""
+      ],
+      "age": 38,
+      "work": "hasič",
+      "home": "Bochov",
+      "homeMeta": {
+        "num": 555029,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Bělohlávková",
+        ""
+      ],
+      "age": 73,
+      "work": "zdravotní laborantka",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Pánek",
+        ""
+      ],
+      "age": 45,
+      "work": "starosta",
+      "home": "Štědrá",
+      "homeMeta": {
+        "num": 555622,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Tureček",
+        ""
+      ],
+      "age": 48,
+      "work": "technik",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Choc",
+        ""
+      ],
+      "age": 45,
+      "work": "starosta",
+      "home": "Vintířov",
+      "homeMeta": {
+        "num": 560685,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloš",
+        "Kameš",
+        ""
+      ],
+      "age": 56,
+      "work": "starosta",
+      "home": "Božičany",
+      "homeMeta": {
+        "num": 555045,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Vojta",
+        ""
+      ],
+      "age": 54,
+      "work": "vodohospodářský technik",
+      "home": "Žlutice",
+      "homeMeta": {
+        "num": 555762,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Květa",
+        "Teturová",
+        ""
+      ],
+      "age": 46,
+      "work": "učitelka hudby",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Mlateček",
+        ""
+      ],
+      "age": 37,
+      "work": "technik",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Miloš",
+        "Bělohlávek",
+        ""
+      ],
+      "age": 30,
+      "work": "městský historik",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslava",
+        "Novotná Petříková",
+        "DiS."
+      ],
+      "age": 40,
+      "work": "úřednice",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Kiss",
+        ""
+      ],
+      "age": 45,
+      "work": "vedoucí městského záchranného systému, hasič",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Holý",
+        ""
+      ],
+      "age": 48,
+      "work": "místostarosta",
+      "home": "Jáchymov",
+      "homeMeta": {
+        "num": 555215,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Ladislav",
+        "Zapf",
+        "DiS."
+      ],
+      "age": 53,
+      "work": "pracovník záchranné služby, hasič",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Cikaník",
+        "DiS."
+      ],
+      "age": 52,
+      "work": "místostarosta",
+      "home": "Dalovice",
+      "homeMeta": {
+        "num": 537918,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Zvěřina",
+        ""
+      ],
+      "age": 58,
+      "work": "ředitel",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Smolka",
+        ""
+      ],
+      "age": 71,
+      "work": "předseda odborové organizace",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Pavel",
+        "Hadžega",
+        ""
+      ],
+      "age": 54,
+      "work": "hasič",
+      "home": "Horní Slavkov",
+      "homeMeta": {
+        "num": 560367,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Miloš",
+        "Volek",
+        ""
+      ],
+      "age": 59,
+      "work": "učitel",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 112,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Kužvart",
+        ""
+      ],
+      "age": 59,
+      "work": "místostarosta",
+      "home": "Bečov nad Teplou",
+      "homeMeta": {
+        "num": 554995,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 112,
+      "sex": 1,
+      "links": []
     }
   ],
   "short": "HNHRM",

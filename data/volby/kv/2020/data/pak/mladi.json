@@ -190,13 +190,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Milan",
         "Sýs",
-        ""
+        "Ph.D."
       ],
+      "age": 34,
+      "work": "vědec, radní města Luže, vysokoškolský pedagog",
+      "home": "Luže",
+      "homeMeta": {
+        "num": 571776,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj",
       "links": [
         "https://www.facebook.com/ingmilanek.sys.3"
       ],
@@ -204,13 +212,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Petr",
         "Žampach",
         ""
       ],
+      "age": 24,
+      "work": "pracovník bezpeč. letového provozu, předseda hnutí",
+      "home": "Žumberk",
+      "homeMeta": {
+        "num": 572641,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj",
       "links": [
         "https://www.facebook.com/petr.chapmaz.5"
       ],
@@ -223,8 +239,16 @@
         "Ročková",
         ""
       ],
+      "age": 20,
+      "work": "lektorka kroužků pro děti, studentka UHK",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 2,
-      "phash": "mladi-pro-pardubicky-kraj",
       "links": [
         "https://www.facebook.com/majka.rockova"
       ],
@@ -237,8 +261,16 @@
         "Prokeš",
         ""
       ],
+      "age": 30,
+      "work": "podnikatel, zastupitel městysu Žumberk",
+      "home": "Žumberk",
+      "homeMeta": {
+        "num": 572641,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-zumberaci",
       "links": [
         "https://www.facebook.com/jan.prokes.779"
       ],
@@ -251,8 +283,16 @@
         "Ročeň",
         ""
       ],
+      "age": 24,
+      "work": "stavební technik, student VUT v Brně",
+      "home": "Miřetice",
+      "homeMeta": {
+        "num": 571831,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj",
       "links": [
         "https://www.facebook.com/josef.rocen.6"
       ],
@@ -260,13 +300,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr. et Mgr.",
         "Jakub",
         "Cach",
         ""
       ],
+      "age": 33,
+      "work": "analytik, živnostník",
+      "home": "Kameničky",
+      "homeMeta": {
+        "num": 571571,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -275,18 +324,36 @@
         "Hrdina",
         ""
       ],
+      "age": 32,
+      "work": "rozpočtový specialista, dobrovolný hasič",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 2,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 2
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Kateřina",
         "Mašková",
         ""
       ],
+      "age": 28,
+      "work": "odborný pracovník cytodiagnostické laboratoře",
+      "home": "Vysoké Mýto",
+      "homeMeta": {
+        "num": 581186,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -295,28 +362,55 @@
         "Sochor",
         ""
       ],
+      "age": 24,
+      "work": "fotbalový trenér",
+      "home": "Hlinsko",
+      "homeMeta": {
+        "num": 571393,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Nikol",
         "Kopecká",
         ""
       ],
+      "age": 23,
+      "work": "studentka Univerzity Pardubice",
+      "home": "Chrast",
+      "homeMeta": {
+        "num": 571539,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Špaček",
         ""
       ],
+      "age": 29,
+      "work": "cestovatel",
+      "home": "Oldřiš",
+      "homeMeta": {
+        "num": 578479,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
@@ -325,8 +419,17 @@
         "Žoudlík",
         ""
       ],
+      "age": 20,
+      "work": "policista",
+      "home": "Skuteč",
+      "homeMeta": {
+        "num": 572241,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -335,8 +438,17 @@
         "Sekerová",
         ""
       ],
+      "age": 35,
+      "work": "pracovnice sociálních služeb",
+      "home": "Luže",
+      "homeMeta": {
+        "num": 571776,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -345,8 +457,17 @@
         "Myška",
         ""
       ],
+      "age": 21,
+      "work": "vlakvedoucí vlaků osobní přepravy",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
@@ -355,8 +476,17 @@
         "Frišová",
         ""
       ],
+      "age": 18,
+      "work": "studentka gymnázia",
+      "home": "Skuteč",
+      "homeMeta": {
+        "num": 572241,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -365,8 +495,17 @@
         "Dostál",
         ""
       ],
+      "age": 32,
+      "work": "projektový manažer",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -375,8 +514,17 @@
         "Baťová",
         ""
       ],
+      "age": 18,
+      "work": "fotbal. trenérka, studentka veřejnospráv. čin.",
+      "home": "Luže",
+      "homeMeta": {
+        "num": 571776,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 2,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
@@ -385,18 +533,36 @@
         "Kopecký",
         ""
       ],
+      "age": 31,
+      "work": "pracovník pojišťovny",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Jaroslav",
         "Hantl",
-        ""
+        "DiS."
       ],
+      "age": 40,
+      "work": "plavčík",
+      "home": "Morašice",
+      "homeMeta": {
+        "num": 578428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -405,8 +571,17 @@
         "Dvořák",
         ""
       ],
+      "age": 29,
+      "work": "elektromechanik kolejových vozidel",
+      "home": "Ústí nad Orlicí",
+      "homeMeta": {
+        "num": 579891,
+        "gps": []
+      },
+      "reg": 2,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 2
+      "links": []
     },
     {
       "nameFull": [
@@ -415,8 +590,17 @@
         "Odehnalová",
         ""
       ],
+      "age": 34,
+      "work": "malířka, ilustrátorka, designérka",
+      "home": "Skuteč",
+      "homeMeta": {
+        "num": 572241,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -425,8 +609,17 @@
         "Jurák",
         ""
       ],
+      "age": 24,
+      "work": "projektový manažer",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -435,18 +628,36 @@
         "Švadlenka",
         ""
       ],
+      "age": 32,
+      "work": "podnikatel, marketingový expert",
+      "home": "Slatiňany",
+      "homeMeta": {
+        "num": 572268,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Kristýna",
         "Prokešová",
         ""
       ],
+      "age": 29,
+      "work": "personální asistentka",
+      "home": "Žumberk",
+      "homeMeta": {
+        "num": 572641,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -455,18 +666,36 @@
         "Sedlák",
         ""
       ],
+      "age": 20,
+      "work": "autoelektrikář",
+      "home": "Prosetín",
+      "homeMeta": {
+        "num": 572098,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 1,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Lucie",
         "Brabencová",
-        ""
+        "DiS."
       ],
+      "age": 24,
+      "work": "zdravotní sestra",
+      "home": "Hlinsko",
+      "homeMeta": {
+        "num": 571393,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -475,8 +704,17 @@
         "Vacková",
         ""
       ],
+      "age": 21,
+      "work": "operátorka výroby",
+      "home": "Chrudim",
+      "homeMeta": {
+        "num": 571164,
+        "gps": []
+      },
+      "reg": 1234,
+      "nominee": 1234,
       "sex": 2,
-      "phash": "mladi-pro-pardubicky-kraj"
+      "links": []
     },
     {
       "nameFull": [
@@ -485,18 +723,36 @@
         "Sedlák",
         ""
       ],
+      "age": 18,
+      "work": "autoelektrikář",
+      "home": "Chrast",
+      "homeMeta": {
+        "num": 571539,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Hana",
-        "Matelková",
+        "Metelková",
         ""
       ],
+      "age": 42,
+      "work": "vychovatelka na základní škole",
+      "home": "Pardubice",
+      "homeMeta": {
+        "num": 6,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -505,8 +761,17 @@
         "Wagner",
         ""
       ],
+      "age": 28,
+      "work": "podnikatel",
+      "home": "Vysoké Mýto",
+      "homeMeta": {
+        "num": 581186,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1234,
       "sex": 1,
-      "reg": 99
+      "links": []
     }
   ],
   "color": "#aaa"

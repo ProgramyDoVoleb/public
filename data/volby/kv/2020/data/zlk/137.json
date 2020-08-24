@@ -16,13 +16,383 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Zdeněk",
         "Cekota",
         ""
       ],
+      "age": 66,
+      "work": "OSVČ, soudní znalec",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
       "sex": 1,
-      "reg": 137
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Svatava",
+        "Cekotová",
+        ""
+      ],
+      "age": 57,
+      "work": "sociální pedagog",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Polášková",
+        ""
+      ],
+      "age": 30,
+      "work": "administrativní pracovnice",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 550752,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Barbora",
+        "Klímková",
+        ""
+      ],
+      "age": 46,
+      "work": "jednatelka společnosti",
+      "home": "Vsetín",
+      "homeMeta": {
+        "num": 541630,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Jaša",
+        ""
+      ],
+      "age": 65,
+      "work": "strojař",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Ulrychová",
+        ""
+      ],
+      "age": 48,
+      "work": "recepční",
+      "home": "Uherské Hradiště",
+      "homeMeta": {
+        "num": 592005,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vlasta",
+        "Hráčková",
+        ""
+      ],
+      "age": 52,
+      "work": "živnostník",
+      "home": "Kunovice",
+      "homeMeta": {
+        "num": 550744,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alexandr",
+        "Balla",
+        ""
+      ],
+      "age": 36,
+      "work": "OSVČ, vinárník, konstruktér",
+      "home": "Hulín",
+      "homeMeta": {
+        "num": 588491,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Němcová",
+        ""
+      ],
+      "age": 52,
+      "work": "živnostník",
+      "home": "Rožnov pod Radhoštěm",
+      "homeMeta": {
+        "num": 544841,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Ruszó",
+        ""
+      ],
+      "age": 57,
+      "work": "pracovník ostrahy",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Polášková",
+        ""
+      ],
+      "age": 28,
+      "work": "mechanička",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 550752,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Hastíková",
+        ""
+      ],
+      "age": 56,
+      "work": "vinařka",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 550752,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Anna",
+        "Josieková",
+        ""
+      ],
+      "age": 52,
+      "work": "laborantka v chemickém průmyslu",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 550752,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Flam",
+        ""
+      ],
+      "age": 22,
+      "work": "automechanik",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alena",
+        "Hausknechtová",
+        ""
+      ],
+      "age": 59,
+      "work": "obsluha čerpací stanice",
+      "home": "Ludslavice",
+      "homeMeta": {
+        "num": 588725,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Šárka",
+        "Pořízková",
+        ""
+      ],
+      "age": 40,
+      "work": "rodičovská dovolená",
+      "home": "Kyselovice",
+      "homeMeta": {
+        "num": 588652,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tereza",
+        "Vincencová",
+        ""
+      ],
+      "age": 20,
+      "work": "pracovnice logistiky",
+      "home": "Rataje",
+      "homeMeta": {
+        "num": 588938,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Molnár",
+        ""
+      ],
+      "age": 52,
+      "work": "venkovní obsluha čerpací stanice",
+      "home": "Bystřička",
+      "homeMeta": {
+        "num": 541711,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dalibor",
+        "Šarman",
+        ""
+      ],
+      "age": 57,
+      "work": "OSVČ, kapelník souboru",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Šarmanová",
+        ""
+      ],
+      "age": 67,
+      "work": "důchodkyně, členka Dua Damasar",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
     }
   ],
   "name": "ROZUMNÍ - Petr Hannig - za spravedlnost a životní jistoty",

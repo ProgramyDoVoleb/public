@@ -40,13 +40,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Bohumil",
         "Šimek",
         ""
       ],
-      "sex": 1,
+      "age": 61,
+      "work": "hejtman Jihomoravského kraje",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
       "reg": 99,
+      "nominee": 768,
+      "sex": 1,
       "links": [
         "http://www.bohumilsimek.cz/",
         "https://www.facebook.com/bohsimek/"
@@ -57,40 +65,1311 @@
         "",
         "Milan",
         "Vojta",
-        ""
+        "MBA, M.A."
       ],
+      "age": 37,
+      "work": "radní Jihomoravského kraje pro oblast zdravot.",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Nečas",
         ""
       ],
+      "age": 50,
+      "work": "provozní dispečer, zastupitel Jihomoravského kraje",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Bc.",
         "Karin",
         "Šulcová",
         ""
       ],
+      "age": 53,
+      "work": "1. místostarostka města Vyškova",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 2,
-      "reg": 768
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Hýbler",
+        ""
+      ],
+      "age": 42,
+      "work": "náměstek hejtmana Jihomoravského kraje",
+      "home": "Hrušovany u Brna",
+      "homeMeta": {
+        "num": 583081,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Daniel",
+        "Struž",
+        "MBA"
+      ],
+      "age": 51,
+      "work": "manažer zahraničního obchodu",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Petr",
+        "Souček",
+        ""
+      ],
+      "age": 39,
+      "work": "OSVČ, místostarosta MČ Brno-Královo Pole",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Patrik",
+        "Pařil",
+        ""
+      ],
+      "age": 32,
+      "work": "1. místostarosta města Pohořelice",
+      "home": "Pohořelice",
+      "homeMeta": {
+        "num": 584801,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Bořivoj",
+        "Ziegler",
+        ""
+      ],
+      "age": 58,
+      "work": "pedagogický pracovník",
+      "home": "Moravský Krumlov",
+      "homeMeta": {
+        "num": 594482,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Novotný",
+        "Ph.D."
+      ],
+      "age": 35,
+      "work": "vědecký pracovník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Petr",
+        "Ženožička",
+        ""
+      ],
+      "age": 40,
+      "work": "technik BOZP a PO, zastupitel Jihomoravského kraje",
+      "home": "Rosice",
+      "homeMeta": {
+        "num": 583782,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lukáš",
+        "Holík",
+        ""
+      ],
+      "age": 34,
+      "work": "místostarosta města Boskovice",
+      "home": "Boskovice",
+      "homeMeta": {
+        "num": 581372,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Kmenta",
+        ""
+      ],
+      "age": 40,
+      "work": "obchodní manažer",
+      "home": "Rousínov",
+      "homeMeta": {
+        "num": 593559,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Miroslav",
+        "Kubásek",
+        "Ph.D."
+      ],
+      "age": 46,
+      "work": "ekolog, VŠ učitel, zastupitel Jihomoravského kraje",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. arch.",
+        "Jana",
+        "Kochová",
+        ""
+      ],
+      "age": 35,
+      "work": "stavební architektka, zastupitelka Jihomor. kraje",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Svatopluk",
+        "Pěček",
+        ""
+      ],
+      "age": 64,
+      "work": "starosta města Břeclavi",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Knechtová",
+        ""
+      ],
+      "age": 45,
+      "work": "OSVČ",
+      "home": "Tišnov",
+      "homeMeta": {
+        "num": 584002,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Jana",
+        "Pejchalová",
+        ""
+      ],
+      "age": 61,
+      "work": "radní Jm kraje pro oblast školství a sportu",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "František",
+        "Pokorný",
+        ""
+      ],
+      "age": 59,
+      "work": "dopravní inženýr",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Šulc",
+        ""
+      ],
+      "age": 54,
+      "work": "specialista v obl. bezpeč. informací a spis.služby",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Petr",
-        "Hýbler",
+        "Rybecký",
         ""
       ],
+      "age": 48,
+      "work": "OSVČ",
+      "home": "Pohořelice",
+      "homeMeta": {
+        "num": 584801,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Mazura",
+        ""
+      ],
+      "age": 59,
+      "work": "manažer kvality",
+      "home": "Velké Opatovice",
+      "homeMeta": {
+        "num": 582646,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Chromý",
+        ""
+      ],
+      "age": 49,
+      "work": "vedoucí provozu pohřební služby",
+      "home": "Mikulov",
+      "homeMeta": {
+        "num": 584649,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Bauer",
+        ""
+      ],
+      "age": 42,
+      "work": "stavební dozor",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dalibor",
+        "Kott",
+        ""
+      ],
+      "age": 50,
+      "work": "ředitel gymnázia",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michal",
+        "Hort",
+        ""
+      ],
+      "age": 58,
+      "work": "ředitel společnosti",
+      "home": "Slavkov u Brna",
+      "homeMeta": {
+        "num": 593583,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Šťastník",
+        ""
+      ],
+      "age": 29,
+      "work": "předseda TJ Znojmo, správce sportovního areálu",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Kyjovský",
+        ""
+      ],
+      "age": 49,
+      "work": "obchodní manažer, zastupitel Jihomoravského kraje",
+      "home": "Kyjov",
+      "homeMeta": {
+        "num": 586307,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Petr",
+        "Janáček",
+        ""
+      ],
+      "age": 35,
+      "work": "OSVČ",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Vlček",
+        "MSc."
+      ],
+      "age": 33,
+      "work": "manažer regionálního marketingu v bankovnictví",
+      "home": "Kuřim",
+      "homeMeta": {
+        "num": 583251,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Soňa",
+        "Bychlerová",
+        ""
+      ],
+      "age": 54,
+      "work": "finanční poradce",
+      "home": "Adamov",
+      "homeMeta": {
+        "num": 581291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Schejbal",
+        ""
+      ],
+      "age": 38,
+      "work": "produktový manažer",
+      "home": "Hustopeče",
+      "homeMeta": {
+        "num": 584495,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Zuzana",
+        "Spurná",
+        "Ph.D."
+      ],
+      "age": 52,
+      "work": "klinický psycholog",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Šarman",
+        ""
+      ],
+      "age": 53,
+      "work": "OSVČ",
+      "home": "Bučovice",
+      "homeMeta": {
+        "num": 592943,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Gerstner",
+        ""
+      ],
+      "age": 25,
+      "work": "technik jaderné elektrárny",
+      "home": "Moravský Krumlov",
+      "homeMeta": {
+        "num": 594482,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Salajka",
+        ""
+      ],
+      "age": 59,
+      "work": "dělník energetických zařízení",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Kříž",
+        "Ph.D."
+      ],
+      "age": 55,
+      "work": "projektant",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Horák",
+        ""
+      ],
+      "age": 61,
+      "work": "technicko-hospodářský náměstek",
+      "home": "Ivančice",
+      "homeMeta": {
+        "num": 583120,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "František",
+        "Pernica",
+        ""
+      ],
+      "age": 71,
+      "work": "ekonom, právník",
+      "home": "Ostrov u Macochy",
+      "homeMeta": {
+        "num": 582182,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Alena",
+        "Gruberová",
+        ""
+      ],
+      "age": 63,
+      "work": "praktická lékařka",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Šeneklová",
+        ""
+      ],
+      "age": 60,
+      "work": "mzdová účetní",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Chomoucký",
+        ""
+      ],
+      "age": 46,
+      "work": "ředitel společnosti, radní města Vyškova",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jan",
+        "Blaha",
+        ""
+      ],
+      "age": 63,
+      "work": "místostarosta města Znojma",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bronislav",
+        "Štefánek",
+        ""
+      ],
+      "age": 49,
+      "work": "OSVČ",
+      "home": "Velká nad Veličkou",
+      "homeMeta": {
+        "num": 586714,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Vystrčilová",
+        ""
+      ],
+      "age": 40,
+      "work": "asistentka ředitele",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milada",
+        "Kadlecová",
+        ""
+      ],
+      "age": 67,
+      "work": "ekonom, ředitelka společnosti",
+      "home": "Kuřim",
+      "homeMeta": {
+        "num": 583251,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Lenka",
+        "Šebelová",
+        "DiS."
+      ],
+      "age": 39,
+      "work": "předsedkyně mateřského centra",
+      "home": "Jedovnice",
+      "homeMeta": {
+        "num": 581682,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Frýdek",
+        ""
+      ],
+      "age": 45,
+      "work": "provozní ředitel",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Pfléger",
+        ""
+      ],
+      "age": 67,
+      "work": "radní městské části Brno-sever",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vlastimil",
+        "Smékal",
+        ""
+      ],
+      "age": 35,
+      "work": "starosta obce Pustiměř",
+      "home": "Pustiměř",
+      "homeMeta": {
+        "num": 593508,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Petr",
+        "Vodička",
+        ""
+      ],
+      "age": 43,
+      "work": "OSVČ, radní města Znojma",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Šavara",
+        ""
+      ],
+      "age": 43,
+      "work": "podnikatel ve stavebnictví",
+      "home": "Veselí nad Moravou",
+      "homeMeta": {
+        "num": 586722,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dáša",
+        "Třetinová",
+        ""
+      ],
+      "age": 55,
+      "work": "úřednice sociálního odboru MMB",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jan",
+        "Jagoš",
+        ""
+      ],
+      "age": 78,
+      "work": "důchodce",
+      "home": "Velká nad Veličkou",
+      "homeMeta": {
+        "num": 586714,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Axman",
+        "Ph.D."
+      ],
+      "age": 42,
+      "work": "engineering manager",
+      "home": "Boskovice",
+      "homeMeta": {
+        "num": 581372,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Marták",
+        ""
+      ],
+      "age": 43,
+      "work": "jednatel společnosti",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Machů",
+        ""
+      ],
+      "age": 43,
+      "work": "vývojový pracovník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Živníčková",
+        ""
+      ],
+      "age": 43,
+      "work": "účetní, předsedkyně komunitního centra",
+      "home": "Slavkov u Brna",
+      "homeMeta": {
+        "num": 593583,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Oldřich",
+        "Staněk",
+        ""
+      ],
+      "age": 46,
+      "work": "obchodní zástupce",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radim",
+        "Tomečka",
+        ""
+      ],
+      "age": 27,
+      "work": "právník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Makovec",
+        ""
+      ],
+      "age": 42,
+      "work": "moderátor",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Libor",
+        "Jendřejas",
+        ""
+      ],
+      "age": 56,
+      "work": "vedoucí lomu",
+      "home": "Velké Opatovice",
+      "homeMeta": {
+        "num": 582646,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Dlouhý",
+        ""
+      ],
+      "age": 38,
+      "work": "ředitel muzea",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Karel",
+        "Kalivoda",
+        ""
+      ],
+      "age": 54,
+      "work": "1. místostarosta městské části Brno-Kohoutovice",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Makovický",
+        ""
+      ],
+      "age": 42,
+      "work": "vedoucí renovačního střediska",
+      "home": "Moravský Krumlov",
+      "homeMeta": {
+        "num": 594482,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vít",
+        "Prýgl",
+        ""
+      ],
+      "age": 60,
+      "work": "vedoucí odboru DPMB",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Turčan",
+        "MBA"
+      ],
+      "age": 53,
+      "work": "manažer v oblasti BOZP",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Dobrovičová",
+        ""
+      ],
+      "age": 33,
+      "work": "referentka správy majetku",
+      "home": "Valtice",
+      "homeMeta": {
+        "num": 584975,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Míšenský",
+        ""
+      ],
+      "age": 68,
+      "work": "obchodní manager",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Horáček",
+        ""
+      ],
+      "age": 47,
+      "work": "provozně-technický náměstek nemocnice Vyškov",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "ANO 2011",

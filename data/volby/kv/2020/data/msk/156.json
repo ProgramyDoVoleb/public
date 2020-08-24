@@ -14,12 +14,458 @@
     {
       "nameFull": [
         "",
-        "Jan",
+        "Ján",
         "Tomeš",
         ""
       ],
+      "age": 56,
+      "work": "podnikatel",
+      "home": "Karviná",
+      "homeMeta": {
+        "num": 598917,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
       "sex": 1,
-      "reg": 156
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Poledno",
+        ""
+      ],
+      "age": 73,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vilém",
+        "Fronček",
+        ""
+      ],
+      "age": 57,
+      "work": "podnikatel",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jaroslav",
+        "Chalupa",
+        ""
+      ],
+      "age": 67,
+      "work": "pedagog",
+      "home": "Krnov",
+      "homeMeta": {
+        "num": 597520,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Borna",
+        ""
+      ],
+      "age": 52,
+      "work": "podnikatel",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Biolek",
+        ""
+      ],
+      "age": 45,
+      "work": "prodejce stavebního materiálu",
+      "home": "Kravaře",
+      "homeMeta": {
+        "num": 507580,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Janka",
+        "Frončková",
+        ""
+      ],
+      "age": 56,
+      "work": "zaměstnanec",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kaleta",
+        ""
+      ],
+      "age": 26,
+      "work": "kuchař",
+      "home": "Karviná",
+      "homeMeta": {
+        "num": 598917,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Rudl",
+        ""
+      ],
+      "age": 29,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Tulis",
+        ""
+      ],
+      "age": 56,
+      "work": "zaměstnanec",
+      "home": "Havířov",
+      "homeMeta": {
+        "num": 555088,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Machálek",
+        ""
+      ],
+      "age": 70,
+      "work": "důchodce",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Filip",
+        "Tomeš",
+        ""
+      ],
+      "age": 31,
+      "work": "obchodník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniel",
+        "Pokorný",
+        ""
+      ],
+      "age": 44,
+      "work": "řidič",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Vasilik",
+        ""
+      ],
+      "age": 49,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Adamus",
+        ""
+      ],
+      "age": 73,
+      "work": "důchodce",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 156,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Mikuš",
+        ""
+      ],
+      "age": 35,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Pápay",
+        ""
+      ],
+      "age": 52,
+      "work": "mistr",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Skýpala",
+        ""
+      ],
+      "age": 44,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Adámek",
+        ""
+      ],
+      "age": 51,
+      "work": "zaměstnanec",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Skupien",
+        ""
+      ],
+      "age": 52,
+      "work": "hornický důchodce",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Kouřil",
+        ""
+      ],
+      "age": 39,
+      "work": "zaměstnanec",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Řezáč",
+        ""
+      ],
+      "age": 53,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Štěpán",
+        ""
+      ],
+      "age": 59,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rudolf",
+        "Schindler",
+        ""
+      ],
+      "age": 63,
+      "work": "dělník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 156,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Dělnická strana sociální spravedlnosti",

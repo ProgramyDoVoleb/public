@@ -357,13 +357,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "František",
         "Lukl",
-        ""
+        "MPA"
       ],
+      "age": 42,
+      "work": "starosta Kyjova, předseda Svazu měst a obcí ČR",
+      "home": "Kyjov",
+      "homeMeta": {
+        "num": 586307,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
       "sex": 1,
-      "reg": 166,
       "links": [
         "https://www.facebook.com/frantisek.lukl",
         "https://twitter.com/Frantisek_Lukl"
@@ -372,12 +380,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Martin",
         "Maleček",
         ""
       ],
-      "sex": 1
+      "age": 51,
+      "work": "starosta MČ Brno-sever, náměstek hejtmana pro ÚP",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 1031,
+      "nominee": 1031,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -386,7 +404,1290 @@
         "Pavlíček",
         ""
       ],
-      "sex": 1
+      "age": 59,
+      "work": "starosta Železného, předs.výb. pro reg. rozvoj JMK",
+      "home": "Železné",
+      "homeMeta": {
+        "num": 584274,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Drago",
+        "Sukalovský",
+        ""
+      ],
+      "age": 58,
+      "work": "starosta Kuřimi, krajský zastupitel",
+      "home": "Kuřim",
+      "homeMeta": {
+        "num": 583251,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Boháček",
+        ""
+      ],
+      "age": 44,
+      "work": "starosta Bílovic nad Svitavou",
+      "home": "Bílovice nad Svitavou",
+      "homeMeta": {
+        "num": 582824,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Michal",
+        "Marek",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta MČ Brno-Medlánky, právník",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Novotný",
+        ""
+      ],
+      "age": 66,
+      "work": "starosta Křtin, předs. kom. pro rozvoj venkova JMK",
+      "home": "Křtiny",
+      "homeMeta": {
+        "num": 581828,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Kachlík",
+        ""
+      ],
+      "age": 61,
+      "work": "místostarosta Vyškova",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ondřej",
+        "Ďuriš",
+        ""
+      ],
+      "age": 37,
+      "work": "ředitel právního oddělení, radní Břeclavi",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Střecha",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta Hodonína",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 1203,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Čada",
+        ""
+      ],
+      "age": 44,
+      "work": "místostarosta Božic",
+      "home": "Božice",
+      "homeMeta": {
+        "num": 593826,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Buček",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta Ivančic, podnikatel v autodopravě",
+      "home": "Ivančice",
+      "homeMeta": {
+        "num": 583120,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Lukášek",
+        ""
+      ],
+      "age": 60,
+      "work": "starosta Rousínova, krajský zastupitel",
+      "home": "Rousínov",
+      "homeMeta": {
+        "num": 593559,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Petra",
+        "Quittová",
+        ""
+      ],
+      "age": 48,
+      "work": "ved. odboru vnitř. věcí úřadu MČ, starostka Sokola",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Zoubek",
+        ""
+      ],
+      "age": 58,
+      "work": "starosta Svitávky",
+      "home": "Svitávka",
+      "homeMeta": {
+        "num": 582441,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Michaela",
+        "Trněná",
+        ""
+      ],
+      "age": 54,
+      "work": "starostka Šlapanic",
+      "home": "Šlapanice",
+      "homeMeta": {
+        "num": 583952,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Antonín",
+        "Okénka",
+        "MBA"
+      ],
+      "age": 40,
+      "work": "starosta Nové Lhoty, předs. mikroregionu Horňácko",
+      "home": "Nová Lhota",
+      "homeMeta": {
+        "num": 586455,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Vlková",
+        ""
+      ],
+      "age": 62,
+      "work": "předs. představenstva svozové společ. Hantály a.s.",
+      "home": "Velké Bílovice",
+      "homeMeta": {
+        "num": 584983,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Málek",
+        ""
+      ],
+      "age": 42,
+      "work": "starosta Jevišovic, právník",
+      "home": "Jevišovice",
+      "homeMeta": {
+        "num": 594202,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Lacina",
+        ""
+      ],
+      "age": 30,
+      "work": "starosta Kuřimské Nové Vsi, poradce ve veř. zakáz.",
+      "home": "Kuřimská Nová Ves",
+      "homeMeta": {
+        "num": 595985,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Karel",
+        "Aujeský",
+        ""
+      ],
+      "age": 64,
+      "work": "výkonný ředitel",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Karel",
+        "Zitterbart",
+        "Ph.D."
+      ],
+      "age": 41,
+      "work": "dětský lékař",
+      "home": "Mokrá-Horákov",
+      "homeMeta": {
+        "num": 583405,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "doc. PhDr.",
+        "Mikuláš",
+        "Bek",
+        "Ph.D."
+      ],
+      "age": 56,
+      "work": "vysokoškolský učitel, senátor",
+      "home": "Hajany",
+      "homeMeta": {
+        "num": 582999,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Šinkora",
+        ""
+      ],
+      "age": 50,
+      "work": "OSVČ, radní Blanska",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Musil",
+        ""
+      ],
+      "age": 49,
+      "work": "ředitel ZUŠ Vyškov, sbormistr Motýlku a Re-canta",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vlasta",
+        "Mokrá",
+        ""
+      ],
+      "age": 58,
+      "work": "starostka Násedlovic, předs. mikroregionu Ždánicko",
+      "home": "Násedlovice",
+      "homeMeta": {
+        "num": 586421,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Risto",
+        "Ljasovský",
+        ""
+      ],
+      "age": 59,
+      "work": "ředitel školy",
+      "home": "Strážnice",
+      "homeMeta": {
+        "num": 586587,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Josef",
+        "Osička",
+        ""
+      ],
+      "age": 45,
+      "work": "starosta Morav. Žižkova, mpř. DSO Regionu Podluží",
+      "home": "Moravský Žižkov",
+      "homeMeta": {
+        "num": 584673,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Šárka",
+        "Ježková",
+        ""
+      ],
+      "age": 53,
+      "work": "starostka Blížkovic",
+      "home": "Blížkovice",
+      "homeMeta": {
+        "num": 593770,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radomír",
+        "Vondra",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta MČ Brno-Tuřany",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Volánek",
+        ""
+      ],
+      "age": 46,
+      "work": "místostarosta Rosic, pivovarník",
+      "home": "Rosice",
+      "homeMeta": {
+        "num": 583782,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Helena",
+        "Kadlečíková",
+        ""
+      ],
+      "age": 37,
+      "work": "starostka Moravan",
+      "home": "Moravany",
+      "homeMeta": {
+        "num": 583413,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radek",
+        "Mazáč",
+        ""
+      ],
+      "age": 48,
+      "work": "místostarosta Boskovic, ekonom",
+      "home": "Boskovice",
+      "homeMeta": {
+        "num": 581372,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Radovan",
+        "Válek",
+        ""
+      ],
+      "age": 48,
+      "work": "lékař, radní Bučovic",
+      "home": "Bučovice",
+      "homeMeta": {
+        "num": 592943,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martina",
+        "Bílová",
+        ""
+      ],
+      "age": 44,
+      "work": "starostka Tvarožné Lhoty",
+      "home": "Tvarožná Lhota",
+      "homeMeta": {
+        "num": 586684,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Brigita",
+        "Petrášová",
+        ""
+      ],
+      "age": 51,
+      "work": "starostka Morkůvek",
+      "home": "Morkůvky",
+      "homeMeta": {
+        "num": 584681,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Jenšovský",
+        ""
+      ],
+      "age": 61,
+      "work": "starosta Dobšic",
+      "home": "Dobšice",
+      "homeMeta": {
+        "num": 546941,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Cibula",
+        ""
+      ],
+      "age": 41,
+      "work": "informatik, místostarosta MČ Brno-sever",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 1031,
+      "nominee": 1031,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Konečný",
+        ""
+      ],
+      "age": 38,
+      "work": "starosta Nedvědice, předs. mikroreg. Pernštejn",
+      "home": "Nedvědice",
+      "homeMeta": {
+        "num": 596175,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Blahák",
+        ""
+      ],
+      "age": 50,
+      "work": "starosta Kovalovic",
+      "home": "Kovalovice",
+      "homeMeta": {
+        "num": 583227,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Olga",
+        "Dočkalová",
+        ""
+      ],
+      "age": 50,
+      "work": "starostka Sudic, jednatelka Tech. služeb Malá Haná",
+      "home": "Sudice",
+      "homeMeta": {
+        "num": 582395,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kauf",
+        ""
+      ],
+      "age": 41,
+      "work": "starosta Hrušek, předs. Mikroreg. Ždánický les",
+      "home": "Hrušky",
+      "homeMeta": {
+        "num": 593079,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Hájek",
+        ""
+      ],
+      "age": 50,
+      "work": "starosta Radějova",
+      "home": "Radějov",
+      "homeMeta": {
+        "num": 586501,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Rostislav",
+        "Souchop",
+        ""
+      ],
+      "age": 50,
+      "work": "ředitel ZŠ Valtická Mikulov",
+      "home": "Mikulov",
+      "homeMeta": {
+        "num": 584649,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lubomír",
+        "Vedra",
+        ""
+      ],
+      "age": 60,
+      "work": "starosta Vranova nad Dyjí, předseda sdružení",
+      "home": "Vranov nad Dyjí",
+      "homeMeta": {
+        "num": 595098,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Suchý",
+        ""
+      ],
+      "age": 54,
+      "work": "ředitel domova mládeže, zastupitel Brna-Bystrce",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Grünwald",
+        ""
+      ],
+      "age": 55,
+      "work": "starosta Malhostovic",
+      "home": "Malhostovice",
+      "homeMeta": {
+        "num": 583341,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Eva",
+        "Drochytková",
+        ""
+      ],
+      "age": 38,
+      "work": "starostka Ochoze u Brna, právnička",
+      "home": "Ochoz u Brna",
+      "homeMeta": {
+        "num": 583537,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jakub",
+        "Hlubinka",
+        ""
+      ],
+      "age": 29,
+      "work": "starosta Suchého, strojní inženýr",
+      "home": "Suchý",
+      "homeMeta": {
+        "num": 582409,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Vinklárek",
+        ""
+      ],
+      "age": 41,
+      "work": "ekonom, zastupitel Ivanovic na Hané",
+      "home": "Ivanovice na Hané",
+      "homeMeta": {
+        "num": 593117,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Repík",
+        ""
+      ],
+      "age": 62,
+      "work": "starosta Vracova",
+      "home": "Vracov",
+      "homeMeta": {
+        "num": 586765,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Hasilíková",
+        ""
+      ],
+      "age": 60,
+      "work": "starostka Zaječí",
+      "home": "Zaječí",
+      "homeMeta": {
+        "num": 585050,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Kříž",
+        ""
+      ],
+      "age": 44,
+      "work": "starosta Mikulovic, předs. SO Sever Znojemska",
+      "home": "Mikulovice",
+      "homeMeta": {
+        "num": 594431,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Irena",
+        "Matonohová",
+        ""
+      ],
+      "age": 47,
+      "work": "právnička, radní MČ Brno-Maloměřice a Obřany",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Habáň",
+        ""
+      ],
+      "age": 38,
+      "work": "starosta Březiny",
+      "home": "Březina",
+      "homeMeta": {
+        "num": 581429,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Mikulášek",
+        ""
+      ],
+      "age": 43,
+      "work": "starosta Sloupu",
+      "home": "Sloup",
+      "homeMeta": {
+        "num": 582352,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lubomír",
+        "Šebesta",
+        ""
+      ],
+      "age": 58,
+      "work": "starosta obce Prusy-Boškůvky",
+      "home": "Prusy-Boškůvky",
+      "homeMeta": {
+        "num": 593494,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jakub",
+        "Matuška",
+        ""
+      ],
+      "age": 35,
+      "work": "místostarosta Břeclavi, podnikatel",
+      "home": "Břeclav",
+      "homeMeta": {
+        "num": 584291,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Josef",
+        "Flek",
+        ""
+      ],
+      "age": 32,
+      "work": "OSVČ ve zdravotnictví",
+      "home": "Tišnov",
+      "homeMeta": {
+        "num": 584002,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Eliška",
+        "Nohavicová",
+        ""
+      ],
+      "age": 37,
+      "work": "zastupitelka Miroslavi",
+      "home": "Miroslav",
+      "homeMeta": {
+        "num": 594458,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Eduard",
+        "Levý",
+        ""
+      ],
+      "age": 38,
+      "work": "starosta Babic nad Svitavou, lesník, předs. DSO",
+      "home": "Babice nad Svitavou",
+      "homeMeta": {
+        "num": 582794,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Toul",
+        ""
+      ],
+      "age": 60,
+      "work": "starosta Borotína, elektrotechnik",
+      "home": "Borotín",
+      "homeMeta": {
+        "num": 581356,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jana",
+        "Krutáková",
+        ""
+      ],
+      "age": 58,
+      "work": "poslankyně, členka zemědělského výboru",
+      "home": "Moravská Nová Ves",
+      "homeMeta": {
+        "num": 584665,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Bronislav",
+        "Prudký",
+        ""
+      ],
+      "age": 57,
+      "work": "starosta Velkého Karlova, předseda mikroregionu",
+      "home": "Velký Karlov",
+      "homeMeta": {
+        "num": 545325,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Žalkovský",
+        "DiS."
+      ],
+      "age": 58,
+      "work": "starosta Zbýšova",
+      "home": "Zbýšov",
+      "homeMeta": {
+        "num": 593699,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Melkes",
+        ""
+      ],
+      "age": 68,
+      "work": "důchodce",
+      "home": "Tišnov",
+      "homeMeta": {
+        "num": 584002,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Libor",
+        "Orság",
+        "DiS."
+      ],
+      "age": 40,
+      "work": "starosta Hýsel, jednatel Mikroreg. Moštěnka",
+      "home": "Hýsly",
+      "homeMeta": {
+        "num": 586200,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martin",
+        "Leščinský",
+        ""
+      ],
+      "age": 43,
+      "work": "senior konzultant, zastupitel Zbýšova",
+      "home": "Zbýšov",
+      "homeMeta": {
+        "num": 584223,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radek",
+        "Valenta",
+        ""
+      ],
+      "age": 50,
+      "work": "starosta Borkovan",
+      "home": "Borkovany",
+      "homeMeta": {
+        "num": 584339,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jakub",
+        "Krainer",
+        ""
+      ],
+      "age": 32,
+      "work": "tajemník STAN, zastupitel Znojma",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 166,
+      "nominee": 166,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#1ebdb7"

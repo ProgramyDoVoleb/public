@@ -16,13 +16,478 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Luděk",
         "Petráň",
         ""
       ],
+      "age": 53,
+      "work": "učitel ZŠ",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
       "sex": 1,
-      "reg": 137
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcela",
+        "Kopetová",
+        ""
+      ],
+      "age": 53,
+      "work": "OSVČ",
+      "home": "Abertamy",
+      "homeMeta": {
+        "num": 554979,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jiří",
+        "Vepřek",
+        ""
+      ],
+      "age": 54,
+      "work": "OSVČ, realitní makléř",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marie",
+        "Dytrychová",
+        ""
+      ],
+      "age": 71,
+      "work": "živnostník",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Sylva",
+        "Vaishaitlová",
+        ""
+      ],
+      "age": 43,
+      "work": "manažerka",
+      "home": "Nejdek",
+      "homeMeta": {
+        "num": 555380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Kopečná",
+        ""
+      ],
+      "age": 51,
+      "work": "skladová účetní",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeňka",
+        "Bačová",
+        ""
+      ],
+      "age": 58,
+      "work": "živnostník",
+      "home": "Františkovy Lázně",
+      "homeMeta": {
+        "num": 554529,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Halanda",
+        ""
+      ],
+      "age": 62,
+      "work": "obsluha parkoviště",
+      "home": "Jáchymov",
+      "homeMeta": {
+        "num": 555215,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Blanka",
+        "Holečková",
+        ""
+      ],
+      "age": 51,
+      "work": "zdravotní sestra",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Chlumský",
+        ""
+      ],
+      "age": 60,
+      "work": "prodejce nábytku",
+      "home": "Františkovy Lázně",
+      "homeMeta": {
+        "num": 554529,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Soňa",
+        "Dvořáková",
+        ""
+      ],
+      "age": 50,
+      "work": "OSVČ, hoteliérka",
+      "home": "Křižovatka",
+      "homeMeta": {
+        "num": 554596,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Danielka",
+        ""
+      ],
+      "age": 65,
+      "work": "trafikant",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Šatalíková",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ",
+      "home": "Merklín",
+      "homeMeta": {
+        "num": 555363,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ilona",
+        "Hradecká",
+        ""
+      ],
+      "age": 62,
+      "work": "podnikatelka",
+      "home": "Aš",
+      "homeMeta": {
+        "num": 554499,
+        "gps": []
+      },
+      "reg": 137,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jakub",
+        "Foltýn",
+        ""
+      ],
+      "age": 36,
+      "work": "řidič z povolání",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lucie",
+        "Kyjevská",
+        ""
+      ],
+      "age": 33,
+      "work": "OSVČ",
+      "home": "Hájek",
+      "homeMeta": {
+        "num": 538159,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Chvojsíková",
+        ""
+      ],
+      "age": 44,
+      "work": "obsluha čerpací stanice",
+      "home": "Nová Role",
+      "homeMeta": {
+        "num": 555398,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Broulík",
+        ""
+      ],
+      "age": 46,
+      "work": "zaměstnanec pohřební služby",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavlína",
+        "Čonková",
+        ""
+      ],
+      "age": 46,
+      "work": "prodavačka",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rudolf",
+        "Klepáček",
+        ""
+      ],
+      "age": 51,
+      "work": "mechanik, opravář zemědělských strojů",
+      "home": "Františkovy Lázně",
+      "homeMeta": {
+        "num": 554529,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Olena",
+        "Havlová",
+        ""
+      ],
+      "age": 46,
+      "work": "prodavačka",
+      "home": "Hazlov",
+      "homeMeta": {
+        "num": 554545,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Šárka",
+        "Maděrová",
+        ""
+      ],
+      "age": 52,
+      "work": "prodejce",
+      "home": "Chodov",
+      "homeMeta": {
+        "num": 560383,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Drkulová",
+        ""
+      ],
+      "age": 43,
+      "work": "obsluha čerpací stanice",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kateřina",
+        "Nádvorníková",
+        ""
+      ],
+      "age": 44,
+      "work": "prodavačka",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Květa",
+        "Horká",
+        ""
+      ],
+      "age": 65,
+      "work": "důchodkyně",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 137,
+      "sex": 2,
+      "links": []
     }
   ],
   "name": "ROZUMNÍ - Petr Hannig - za spravedlnost a životní jistoty",

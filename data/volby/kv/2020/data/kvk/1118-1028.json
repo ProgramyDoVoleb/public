@@ -238,13 +238,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Josef",
         "März",
         ""
       ],
-      "sex": 1,
+      "age": 46,
+      "work": "lékař, předseda hnutí Karlovaráci, radní města KV",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
       "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
       "links": [
         "http://www.karlovaraci.cz/index.php/team/josef-marz",
         "https://www.facebook.com/profile.php?id=100008186927999",
@@ -258,7 +266,17 @@
         "Picka",
         ""
       ],
-      "sex": 1
+      "age": 54,
+      "work": "místostarosta města Sokolov, zastupitel KVK",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -267,7 +285,17 @@
         "Švajgl",
         ""
       ],
-      "sex": 1
+      "age": 48,
+      "work": "starosta obce Drmoul, Mariánskolázeňsko DSO",
+      "home": "Drmoul",
+      "homeMeta": {
+        "num": 554511,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -276,7 +304,17 @@
         "Starý",
         ""
       ],
-      "sex": 1
+      "age": 49,
+      "work": "lékař, zastupitel obce Hájek",
+      "home": "Hájek",
+      "homeMeta": {
+        "num": 538159,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -285,7 +323,17 @@
         "Maleček",
         ""
       ],
-      "sex": 1
+      "age": 48,
+      "work": "starosta města Hroznětín, dobrovolný hasič",
+      "home": "Hroznětín",
+      "homeMeta": {
+        "num": 555185,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -294,7 +342,17 @@
         "Skuhravý",
         ""
       ],
-      "sex": 1
+      "age": 41,
+      "work": "profesionální sportovec, radní města Karlovy Vary",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -303,7 +361,17 @@
         "Brdlík",
         ""
       ],
-      "sex": 1
+      "age": 63,
+      "work": "lékař, zastupitel města Karlovy Vary a KVK",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -312,7 +380,17 @@
         "Vinš",
         ""
       ],
-      "sex": 1
+      "age": 42,
+      "work": "projektový manažer, environmentalista",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -321,7 +399,17 @@
         "Chlad",
         ""
       ],
-      "sex": 1
+      "age": 72,
+      "work": "emeritní náčelník Horské služby, záchranář",
+      "home": "Boží Dar",
+      "homeMeta": {
+        "num": 506486,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -330,7 +418,17 @@
         "Pagáč",
         ""
       ],
-      "sex": 1
+      "age": 45,
+      "work": "radní města Cheb, dobrovolný hasič",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -339,7 +437,17 @@
         "Stůj",
         ""
       ],
-      "sex": 1
+      "age": 69,
+      "work": "ředitel ZUŠ Kraslice, zastupitel města Kraslice",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -348,7 +456,17 @@
         "Novotný",
         ""
       ],
-      "sex": 1
+      "age": 41,
+      "work": "president VK Karlovarsko, zastupitel města KV",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -357,7 +475,17 @@
         "Steinová",
         ""
       ],
-      "sex": 2
+      "age": 40,
+      "work": "pedagožka, učitelka zpěvu",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -366,7 +494,17 @@
         "Hrůza",
         ""
       ],
-      "sex": 1
+      "age": 69,
+      "work": "jednatel ROTAS STROJÍRNY spol. s r. o.",
+      "home": "Rotava",
+      "homeMeta": {
+        "num": 560600,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -375,7 +513,17 @@
         "Botlíková",
         ""
       ],
-      "sex": 2
+      "age": 48,
+      "work": "ředitelka Městského kulturního centra Kraslice",
+      "home": "Šabina",
+      "homeMeta": {
+        "num": 538396,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -384,7 +532,17 @@
         "Mikuláš",
         ""
       ],
-      "sex": 1
+      "age": 36,
+      "work": "starosta města Oloví",
+      "home": "Oloví",
+      "homeMeta": {
+        "num": 560588,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -393,7 +551,17 @@
         "Očenášek",
         ""
       ],
-      "sex": 1
+      "age": 46,
+      "work": "ekonom, středoškolský učitel",
+      "home": "Horní Blatná",
+      "homeMeta": {
+        "num": 555169,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -402,7 +570,17 @@
         "Tůša",
         ""
       ],
-      "sex": 1
+      "age": 41,
+      "work": "realitní makléř",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -411,7 +589,17 @@
         "Šustr",
         ""
       ],
-      "sex": 1
+      "age": 53,
+      "work": "jednatel obchodní společnosti Braun Kabel s.r.o.",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -420,7 +608,17 @@
         "Přibáň",
         ""
       ],
-      "sex": 1
+      "age": 71,
+      "work": "místopředseda Českého atletického svazu",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -429,7 +627,17 @@
         "Zakreničná",
         ""
       ],
-      "sex": 2
+      "age": 40,
+      "work": "advokátka, zastupitelka města Karlovy Vary",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -438,7 +646,17 @@
         "Mensator",
         ""
       ],
-      "sex": 1
+      "age": 36,
+      "work": "trenér brankářů reprezentace ČR do 17 let",
+      "home": "Andělská Hora",
+      "homeMeta": {
+        "num": 538001,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -447,7 +665,17 @@
         "Rieger",
         ""
       ],
-      "sex": 1
+      "age": 52,
+      "work": "obchodní manažer Plzeňského Prazdroje",
+      "home": "Loket",
+      "homeMeta": {
+        "num": 560537,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -456,7 +684,17 @@
         "Grulich",
         ""
       ],
-      "sex": 1
+      "age": 64,
+      "work": "starosta města Jáchymov",
+      "home": "Jáchymov",
+      "homeMeta": {
+        "num": 555215,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -465,7 +703,17 @@
         "Beer",
         ""
       ],
-      "sex": 1
+      "age": 53,
+      "work": "obchodní zástupce",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -474,7 +722,17 @@
         "Kocábová",
         ""
       ],
-      "sex": 2
+      "age": 52,
+      "work": "nezávislý finanční poradce",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -483,7 +741,17 @@
         "Svoboda",
         ""
       ],
-      "sex": 1
+      "age": 30,
+      "work": "technik",
+      "home": "Kynšperk nad Ohří",
+      "homeMeta": {
+        "num": 560499,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -492,7 +760,17 @@
         "Černý",
         ""
       ],
-      "sex": 1
+      "age": 65,
+      "work": "lékař, primář gynekologicko-porodnického oddělení",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -501,7 +779,17 @@
         "Vrána",
         ""
       ],
-      "sex": 1
+      "age": 49,
+      "work": "manažer",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -510,16 +798,36 @@
         "Lokvencová",
         ""
       ],
-      "sex": 2
+      "age": 51,
+      "work": "podnikatelka, místropředs. krasobrusl. klubu",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
-        "Ing. Arch.",
+        "Ing. arch.",
         "Miroslav",
         "Míka",
         ""
       ],
-      "sex": 1
+      "age": 57,
+      "work": "architekt",
+      "home": "Mariánské Lázně",
+      "homeMeta": {
+        "num": 554642,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -528,7 +836,17 @@
         "Dřížďal",
         ""
       ],
-      "sex": 1
+      "age": 42,
+      "work": "místopředseda klubu FC Slavia Karlovy Vary",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -537,7 +855,17 @@
         "Suchan",
         ""
       ],
-      "sex": 1
+      "age": 55,
+      "work": "promotér VLNY AGENCY s.r.o.",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -546,7 +874,17 @@
         "Skočil",
         ""
       ],
-      "sex": 1
+      "age": 49,
+      "work": "učitel odborného výcviku, dobrovolný hasič",
+      "home": "Cheb",
+      "homeMeta": {
+        "num": 554481,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -555,7 +893,17 @@
         "Havel",
         ""
       ],
-      "sex": 1
+      "age": 64,
+      "work": "podnikatel, předseda FK Buldoci, zastup. města KV",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -564,7 +912,17 @@
         "Píša",
         ""
       ],
-      "sex": 1
+      "age": 50,
+      "work": "předseda Karlovarského hokeje ČSLH",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -573,7 +931,17 @@
         "Rojovská",
         ""
       ],
-      "sex": 2
+      "age": 63,
+      "work": "starosta města Abertamy",
+      "home": "Abertamy",
+      "homeMeta": {
+        "num": 554979,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -582,7 +950,17 @@
         "Šípek",
         ""
       ],
-      "sex": 1
+      "age": 57,
+      "work": "geotechnik, Sokolovská uhelná, p.n., a. s.",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -591,7 +969,17 @@
         "Vrána",
         ""
       ],
-      "sex": 1
+      "age": 55,
+      "work": "inspektor plynárenského zařízení",
+      "home": "Toužim",
+      "homeMeta": {
+        "num": 555657,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -600,7 +988,17 @@
         "Zemanová",
         ""
       ],
-      "sex": 2
+      "age": 45,
+      "work": "licenční cvičitelka, jezdecká stáj Boučí, OSVČ",
+      "home": "Sokolov",
+      "homeMeta": {
+        "num": 560286,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 2,
+      "links": []
     },
     {
       "nameFull": [
@@ -609,7 +1007,17 @@
         "Souhrada",
         ""
       ],
-      "sex": 1
+      "age": 38,
+      "work": "policista",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -618,7 +1026,17 @@
         "Lídl",
         ""
       ],
-      "sex": 1
+      "age": 48,
+      "work": "místostarosta obce Lomnice",
+      "home": "Lomnice",
+      "homeMeta": {
+        "num": 560545,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -627,7 +1045,17 @@
         "Pečenka",
         ""
       ],
-      "sex": 1
+      "age": 59,
+      "work": "ředitel SŠ, MŠ a ZŠ Kraslice",
+      "home": "Kraslice",
+      "homeMeta": {
+        "num": 560472,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -636,7 +1064,17 @@
         "Kopfstein",
         ""
       ],
-      "sex": 1
+      "age": 73,
+      "work": "náměstek primátorky města Karlovy Vary",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -645,7 +1083,112 @@
         "Soukup",
         ""
       ],
-      "sex": 1
+      "age": 72,
+      "work": "podnikatel, předseda hnutí VOK - Volba pro kraj",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1118,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Koenigstein",
+        ""
+      ],
+      "age": 77,
+      "work": "zastupitel města Nové Sedlo, ekonom, důchodce",
+      "home": "Nové Sedlo",
+      "homeMeta": {
+        "num": 560570,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ilona",
+        "Šmejkalová",
+        ""
+      ],
+      "age": 67,
+      "work": "vedoucí městského zařízení sociálních služeb",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1028,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Robert",
+        "Bozděch",
+        ""
+      ],
+      "age": 46,
+      "work": "řidič",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 1028,
+      "nominee": 1028,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Forejt",
+        ""
+      ],
+      "age": 39,
+      "work": "účetní",
+      "home": "Ostrov",
+      "homeMeta": {
+        "num": 555428,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michaela",
+        "Stará",
+        ""
+      ],
+      "age": 50,
+      "work": "asistentka",
+      "home": "Karlovy Vary",
+      "homeMeta": {
+        "num": 554961,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1118,
+      "sex": 2,
+      "links": []
     }
   ],
   "color": "#f9ae2e"

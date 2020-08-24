@@ -5,11 +5,11 @@
     1227,
     716
   ],
-    "reg": 1446,
-    "name": "TRIKOLÓRA - SOUKROMNÍCI",
-    "hash": "trikolora---soukromnici",
-    "short": "Trikol+Soukrom",
-    "no": 31,
+  "reg": 1446,
+  "name": "TRIKOLÓRA - SOUKROMNÍCI",
+  "hash": "trikolora---soukromnici",
+  "short": "Trikol+Soukrom",
+  "no": 31,
   "program": {},
   "people": [
     {
@@ -29,8 +29,948 @@
         "Tesař",
         ""
       ],
+      "age": 42,
+      "work": "obchodník s kávou a kávovary, míst. hn. Trikolóra",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 1,
-      "reg": 1227
+      "links": []
+    },
+    {
+      "nameFull": [
+        "RNDr.",
+        "Milan",
+        "Váňa",
+        "Ph.D."
+      ],
+      "age": 65,
+      "work": "manažer výzkumné infrastruktury, přírodovědec",
+      "home": "Pelhřimov",
+      "homeMeta": {
+        "num": 547492,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Simona",
+        "Kafoňková",
+        ""
+      ],
+      "age": 51,
+      "work": "tajemnice České lékařské komory v Třebíči",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Nedvěd",
+        ""
+      ],
+      "age": 58,
+      "work": "podnikatel, starosta obce Markvartice",
+      "home": "Markvartice",
+      "homeMeta": {
+        "num": 591114,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jiří",
+        "Augustin",
+        "DiS."
+      ],
+      "age": 32,
+      "work": "optik v rodinné firmě, vinař",
+      "home": "Bystřice nad Pernštejnem",
+      "homeMeta": {
+        "num": 595411,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Stanislav",
+        "Šíp",
+        ""
+      ],
+      "age": 43,
+      "work": "ředitel v rodinné firmě",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Vacek",
+        ""
+      ],
+      "age": 53,
+      "work": "dokumentarista, kameraman, muzikant",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Horáková",
+        ""
+      ],
+      "age": 31,
+      "work": "pracovník obchodního a ekonomického úseku",
+      "home": "Ledeč nad Sázavou",
+      "homeMeta": {
+        "num": 568988,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Poslušný",
+        ""
+      ],
+      "age": 24,
+      "work": "hypoteční specialista, sportovec",
+      "home": "Kamenice nad Lipou",
+      "homeMeta": {
+        "num": 548111,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Sysel",
+        ""
+      ],
+      "age": 59,
+      "work": "podnikatel v oboru elektro",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Rubín",
+        ""
+      ],
+      "age": 33,
+      "work": "kuchař, propagátor české kuchyně a lokál. surovin",
+      "home": "Lískovice",
+      "homeMeta": {
+        "num": 573086,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Paulát",
+        ""
+      ],
+      "age": 63,
+      "work": "realitní investor, mořeplavec a cestovatel",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Martinec",
+        ""
+      ],
+      "age": 42,
+      "work": "učitel na gymnáziu, neuv. místostarosta obce Věžná",
+      "home": "Věžná",
+      "homeMeta": {
+        "num": 549061,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Stehno",
+        ""
+      ],
+      "age": 67,
+      "work": "předseda krajské organizace Strany soukromníků ČR",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 716,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kopic",
+        ""
+      ],
+      "age": 56,
+      "work": "specialista BOZP a PO",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Laube",
+        ""
+      ],
+      "age": 59,
+      "work": "pracovník stavebního úřadu, podplukovník v záloze",
+      "home": "Havlíčkův Brod",
+      "homeMeta": {
+        "num": 568414,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Luděk",
+        "Růžička",
+        ""
+      ],
+      "age": 48,
+      "work": "advokát, soukromý zemědělec",
+      "home": "Jaroměřice nad Rokytnou",
+      "homeMeta": {
+        "num": 590754,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radomír",
+        "Fiksa",
+        ""
+      ],
+      "age": 39,
+      "work": "tatér, autor knih o tetování",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavla",
+        "Davidová",
+        "DiS."
+      ],
+      "age": 40,
+      "work": "koordinátorka sociálních sl., por. v obl. výživy",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Beneš",
+        ""
+      ],
+      "age": 26,
+      "work": "učitel na ZŠ, biolog a amatérský zoolog",
+      "home": "Pelhřimov",
+      "homeMeta": {
+        "num": 547492,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zida",
+        "Kůsová",
+        ""
+      ],
+      "age": 39,
+      "work": "mateřská dovolená, inženýrka ve stavebnictví",
+      "home": "Bystřice nad Pernštejnem",
+      "homeMeta": {
+        "num": 595411,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ilona",
+        "Krátká",
+        ""
+      ],
+      "age": 38,
+      "work": "učitelka na ZŠ",
+      "home": "Bransouze",
+      "homeMeta": {
+        "num": 590363,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Frolík",
+        ""
+      ],
+      "age": 46,
+      "work": "obchodní ředitel, myslivec, zakl. obecně pros. sp.",
+      "home": "Ledeč nad Sázavou",
+      "homeMeta": {
+        "num": 568988,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Nani",
+        ""
+      ],
+      "age": 35,
+      "work": "servisní a revizní technik, fotograf, dobr. hasič",
+      "home": "Bory",
+      "homeMeta": {
+        "num": 595641,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Rostislav",
+        "Zikmund",
+        "MBA"
+      ],
+      "age": 49,
+      "work": "speciální pedagog - vychovatel zař. pro resoc. ml.",
+      "home": "Litohoř",
+      "homeMeta": {
+        "num": 550507,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "František",
+        "Krupička",
+        ""
+      ],
+      "age": 48,
+      "work": "soukromý zemědělec, agronom",
+      "home": "Jiřice",
+      "homeMeta": {
+        "num": 548081,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 716,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Turna",
+        ""
+      ],
+      "age": 29,
+      "work": "obchodní zástupce, prodejce nápojové techniky",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Slánský",
+        ""
+      ],
+      "age": 51,
+      "work": "úředník Krajského úřadu Kraje Vysočina - odb. maj.",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Zelenka",
+        ""
+      ],
+      "age": 32,
+      "work": "mistr lisovny, spolumajitel svatebního salonu",
+      "home": "Stonařov",
+      "homeMeta": {
+        "num": 587931,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Marie",
+        "Tesařová",
+        ""
+      ],
+      "age": 39,
+      "work": "učitelka na 1. stupni ZŠ",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Bořek",
+        "Linhart",
+        ""
+      ],
+      "age": 47,
+      "work": "OSVČ - správa komerčních nemovitostí, pilot v zál.",
+      "home": "Náměšť nad Oslavou",
+      "homeMeta": {
+        "num": 591211,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Kroulíková",
+        ""
+      ],
+      "age": 64,
+      "work": "učitelka na 2. stupni ZŠ, ochránkyně přírody",
+      "home": "Podmoky",
+      "homeMeta": {
+        "num": 548251,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Andrea",
+        "Komancová",
+        ""
+      ],
+      "age": 65,
+      "work": "oční lékařka",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Stehno",
+        ""
+      ],
+      "age": 65,
+      "work": "jednatel polikliniky v Chotěboři, muzikant",
+      "home": "Chotěboř",
+      "homeMeta": {
+        "num": 568759,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dorian",
+        "Mládek",
+        ""
+      ],
+      "age": 43,
+      "work": "operátor - tiskař",
+      "home": "Třebíč",
+      "homeMeta": {
+        "num": 590266,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Blažková",
+        "DiS."
+      ],
+      "age": 50,
+      "work": "dlouhodobá pěstounka, projektantka dok. zd. požárů",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislava",
+        "Chalupová",
+        ""
+      ],
+      "age": 59,
+      "work": "ekonom rozpočtář",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lubomír",
+        "Hron",
+        ""
+      ],
+      "age": 62,
+      "work": "asistent pedagoga, myslivec",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miloslav",
+        "Popelka",
+        ""
+      ],
+      "age": 63,
+      "work": "jednatel společnosti, místostarosta obce Přešovice",
+      "home": "Přešovice",
+      "homeMeta": {
+        "num": 591441,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Fendrych",
+        ""
+      ],
+      "age": 49,
+      "work": "jednatel společnosti",
+      "home": "Horní Rožínka",
+      "homeMeta": {
+        "num": 595683,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Radomír",
+        "Pleskač",
+        ""
+      ],
+      "age": 28,
+      "work": "OSVČ v počítačových sítích, sportovní střelec",
+      "home": "Ledeč nad Sázavou",
+      "homeMeta": {
+        "num": 568988,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Halásek",
+        ""
+      ],
+      "age": 33,
+      "work": "nástrojař, muzikant",
+      "home": "Kněžice",
+      "homeMeta": {
+        "num": 590843,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Zdeněk",
+        "Trnka",
+        ""
+      ],
+      "age": 48,
+      "work": "majitel STK, organizátor Rally Vysočina",
+      "home": "Heraltice",
+      "homeMeta": {
+        "num": 590592,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Slavíček",
+        ""
+      ],
+      "age": 44,
+      "work": "elektroprojektant, sportovec hokejista",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Ryšavý",
+        ""
+      ],
+      "age": 40,
+      "work": "podnikatel, provozovatel autoservisu",
+      "home": "Stonařov",
+      "homeMeta": {
+        "num": 587931,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Šudoma",
+        ""
+      ],
+      "age": 75,
+      "work": "důchodce, pořadatel Malého svrateckého maratonu",
+      "home": "Vír",
+      "homeMeta": {
+        "num": 597074,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Peca",
+        ""
+      ],
+      "age": 50,
+      "work": "dozorčí u ČD Cargo, chovatel akvarijních ryb",
+      "home": "Jihlava",
+      "homeMeta": {
+        "num": 586846,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Vaněk",
+        ""
+      ],
+      "age": 52,
+      "work": "OSVČ, předseda jezdeckého oddílu JK Jakubov o.s.",
+      "home": "Jakubov u Moravských Budějovic",
+      "homeMeta": {
+        "num": 590746,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václav",
+        "Rod",
+        ""
+      ],
+      "age": 68,
+      "work": "důchodce, lesní topograf",
+      "home": "Třešť",
+      "homeMeta": {
+        "num": 588032,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Rostislav",
+        "Rakšány",
+        ""
+      ],
+      "age": 66,
+      "work": "pracující důchodce - řidič, sportovec",
+      "home": "Žďár nad Sázavou",
+      "homeMeta": {
+        "num": 595209,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     }
   ],
   "color": "#2b3acc"

@@ -35,8 +35,16 @@
         "Viktorýn",
         ""
       ],
-      "sex": 1,
+      "age": 49,
+      "work": "analytik, konzultant",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
       "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/viktoryn",
         "https://twitter.com/PViktoryn",
@@ -45,13 +53,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Xenie",
         "Šustalová",
         ""
       ],
+      "age": 46,
+      "work": "středoškolský učitel",
+      "home": "Kopřivnice",
+      "homeMeta": {
+        "num": 599565,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 2,
-      "reg": 1227
+      "links": []
     },
     {
       "nameFull": [
@@ -60,8 +77,1290 @@
         "Hřivnáč",
         ""
       ],
+      "age": 60,
+      "work": "galerista, developer",
+      "home": "Holasovice",
+      "homeMeta": {
+        "num": 507113,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 1,
-      "reg": 1227
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Iveta",
+        "Kubica-Magnusková",
+        ""
+      ],
+      "age": 37,
+      "work": "advokátka",
+      "home": "Čeladná",
+      "homeMeta": {
+        "num": 598071,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Határ",
+        ""
+      ],
+      "age": 38,
+      "work": "manažer komunikace",
+      "home": "Petřvald",
+      "homeMeta": {
+        "num": 599085,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dušan",
+        "Šula",
+        ""
+      ],
+      "age": 36,
+      "work": "IT developer",
+      "home": "Krnov",
+      "homeMeta": {
+        "num": 597520,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Alfréd",
+        "Šrámek",
+        ""
+      ],
+      "age": 43,
+      "work": "advokát",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Owczarzy",
+        ""
+      ],
+      "age": 52,
+      "work": "dispečer, radní města Orlová",
+      "home": "Orlová",
+      "homeMeta": {
+        "num": 599069,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Hájek",
+        ""
+      ],
+      "age": 41,
+      "work": "projektový inženýr",
+      "home": "Staříč",
+      "homeMeta": {
+        "num": 552569,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marek",
+        "Podzemný",
+        ""
+      ],
+      "age": 51,
+      "work": "výrobní ředitel",
+      "home": "Havířov",
+      "homeMeta": {
+        "num": 555088,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jan",
+        "Mužík",
+        ""
+      ],
+      "age": 63,
+      "work": "ředitel školy",
+      "home": "Kopřivnice",
+      "homeMeta": {
+        "num": 599565,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Górny",
+        ""
+      ],
+      "age": 34,
+      "work": "operátor oddělení materiálů",
+      "home": "Fryčovice",
+      "homeMeta": {
+        "num": 598135,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Glonka",
+        ""
+      ],
+      "age": 43,
+      "work": "OSVČ",
+      "home": "Hlučín",
+      "homeMeta": {
+        "num": 507016,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jarmila",
+        "Siudová",
+        ""
+      ],
+      "age": 62,
+      "work": "pojišťovací poradce",
+      "home": "Krnov",
+      "homeMeta": {
+        "num": 597520,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Kocurek",
+        ""
+      ],
+      "age": 43,
+      "work": "stavbyvedoucí",
+      "home": "Vratimov",
+      "homeMeta": {
+        "num": 598879,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Werner",
+        ""
+      ],
+      "age": 38,
+      "work": "referent",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Bartošík",
+        ""
+      ],
+      "age": 55,
+      "work": "technik",
+      "home": "Šenov u Nového Jičína",
+      "homeMeta": {
+        "num": 554171,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Ester",
+        "Stračánková",
+        ""
+      ],
+      "age": 43,
+      "work": "asistentka",
+      "home": "Karviná",
+      "homeMeta": {
+        "num": 598917,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Špuk",
+        ""
+      ],
+      "age": 52,
+      "work": "podnikatel",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Buroň",
+        ""
+      ],
+      "age": 47,
+      "work": "oblastní supervizor prodeje",
+      "home": "Hrabyně",
+      "homeMeta": {
+        "num": 507261,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Ludmila",
+        "Bystroňová",
+        ""
+      ],
+      "age": 64,
+      "work": "lékařka",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Vrabka",
+        ""
+      ],
+      "age": 39,
+      "work": "operátor expedice",
+      "home": "Rýmařov",
+      "homeMeta": {
+        "num": 597783,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Filip",
+        "Čmiel",
+        "Ph.D."
+      ],
+      "age": 46,
+      "work": "vysokoškolský učitel, místostarosta měst.obv.",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renáta",
+        "Žáčková",
+        ""
+      ],
+      "age": 45,
+      "work": "OSVČ - realitní makléřka",
+      "home": "Vratimov",
+      "homeMeta": {
+        "num": 598879,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Vlk",
+        ""
+      ],
+      "age": 50,
+      "work": "pilot, technik",
+      "home": "Dolní Lutyně",
+      "homeMeta": {
+        "num": 598968,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michal",
+        "Štěrba",
+        ""
+      ],
+      "age": 30,
+      "work": "OSVČ - poradce",
+      "home": "Orlová",
+      "homeMeta": {
+        "num": 599069,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Břetislav",
+        "Vala",
+        ""
+      ],
+      "age": 36,
+      "work": "regionální manažer",
+      "home": "Třinec",
+      "homeMeta": {
+        "num": 598810,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Pančiak",
+        ""
+      ],
+      "age": 46,
+      "work": "pracovník MÚ Vítkov",
+      "home": "Vítkov",
+      "homeMeta": {
+        "num": 511021,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Renáta",
+        "Fialová",
+        ""
+      ],
+      "age": 50,
+      "work": "ředitelka školy",
+      "home": "Bílovec",
+      "homeMeta": {
+        "num": 599247,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Valerián",
+        ""
+      ],
+      "age": 56,
+      "work": "operátor expedice",
+      "home": "Rýmařov",
+      "homeMeta": {
+        "num": 597783,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Pientka",
+        ""
+      ],
+      "age": 35,
+      "work": "technik ICT",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Bittner",
+        ""
+      ],
+      "age": 57,
+      "work": "živnostník",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Sýkora",
+        ""
+      ],
+      "age": 55,
+      "work": "obchodní zástupce",
+      "home": "Bohumín",
+      "homeMeta": {
+        "num": 599051,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Natalie",
+        "Klusová",
+        ""
+      ],
+      "age": 37,
+      "work": "rodičovská dovolená",
+      "home": "Český Těšín",
+      "homeMeta": {
+        "num": 598933,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Jan",
+        "Rohel",
+        ""
+      ],
+      "age": 38,
+      "work": "zubní lékař",
+      "home": "Frýdek-Místek",
+      "homeMeta": {
+        "num": 598003,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Luzar",
+        ""
+      ],
+      "age": 33,
+      "work": "obchodní zástupce a rezident engineer",
+      "home": "Opava",
+      "homeMeta": {
+        "num": 505927,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Jeřábek",
+        ""
+      ],
+      "age": 36,
+      "work": "týmový vedoucí",
+      "home": "Kopřivnice",
+      "homeMeta": {
+        "num": 599565,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jaroslava",
+        "Toporská",
+        ""
+      ],
+      "age": 51,
+      "work": "koordinátor sociální služby",
+      "home": "Krnov",
+      "homeMeta": {
+        "num": 597520,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Veverka",
+        ""
+      ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jelena",
+        "Trávníčková",
+        ""
+      ],
+      "age": 48,
+      "work": "projektový manažer",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marián",
+        "Wožnica",
+        ""
+      ],
+      "age": 50,
+      "work": "ředitel společnosti",
+      "home": "Havířov",
+      "homeMeta": {
+        "num": 555088,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Václav",
+        "Brožík",
+        ""
+      ],
+      "age": 56,
+      "work": "bezpečnostní technik HBZS Ostrava",
+      "home": "Dětmarovice",
+      "homeMeta": {
+        "num": 598941,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Vašíček",
+        "MBA"
+      ],
+      "age": 42,
+      "work": "středoškolský učitel",
+      "home": "Paskov",
+      "homeMeta": {
+        "num": 598569,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lukáš",
+        "Machura",
+        ""
+      ],
+      "age": 41,
+      "work": "správce IT nemocnice Opava",
+      "home": "Hradec nad Moravicí",
+      "homeMeta": {
+        "num": 507270,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Koudela",
+        ""
+      ],
+      "age": 45,
+      "work": "technik",
+      "home": "Kopřivnice",
+      "homeMeta": {
+        "num": 599565,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radovan",
+        "Koňařík",
+        ""
+      ],
+      "age": 44,
+      "work": "vedoucí uhelného skladu",
+      "home": "Rýmařov",
+      "homeMeta": {
+        "num": 597783,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Hudeček",
+        ""
+      ],
+      "age": 53,
+      "work": "podnikatel",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Naděžda",
+        "Kaletová",
+        ""
+      ],
+      "age": 50,
+      "work": "ekonom, manažer",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Novak",
+        ""
+      ],
+      "age": 48,
+      "work": "horník",
+      "home": "Český Těšín",
+      "homeMeta": {
+        "num": 598933,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Elíz",
+        ""
+      ],
+      "age": 59,
+      "work": "prodavač - skladník",
+      "home": "Orlová",
+      "homeMeta": {
+        "num": 599069,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vratislav",
+        "Němec",
+        ""
+      ],
+      "age": 61,
+      "work": "předseda představenstva SBD, jednatel spol.",
+      "home": "Frýdek-Místek",
+      "homeMeta": {
+        "num": 598003,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Jurczyk",
+        ""
+      ],
+      "age": 51,
+      "work": "OSVČ, provozovatel auto a pneuservisu",
+      "home": "Kravaře",
+      "homeMeta": {
+        "num": 507580,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaromír",
+        "Valeš",
+        ""
+      ],
+      "age": 34,
+      "work": "programový vedoucí",
+      "home": "Nový Jičín",
+      "homeMeta": {
+        "num": 599191,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Svoboda",
+        ""
+      ],
+      "age": 26,
+      "work": "OSVČ",
+      "home": "Frenštát pod Radhoštěm",
+      "homeMeta": {
+        "num": 599344,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. et Mgr.",
+        "Alexandra",
+        "Potoková",
+        "DiS."
+      ],
+      "age": 50,
+      "work": "speciální pedagog",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Závada",
+        ""
+      ],
+      "age": 57,
+      "work": "zaměstnanec obecního úřadu",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kotek",
+        ""
+      ],
+      "age": 22,
+      "work": "student",
+      "home": "Havířov",
+      "homeMeta": {
+        "num": 555088,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dan",
+        "Hroník",
+        "DiS."
+      ],
+      "age": 33,
+      "work": "vedoucí výrobních linek",
+      "home": "Karviná",
+      "homeMeta": {
+        "num": 598917,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Rajski",
+        ""
+      ],
+      "age": 34,
+      "work": "vedoucí oddělení IT",
+      "home": "Třinec",
+      "homeMeta": {
+        "num": 598810,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Bajger",
+        ""
+      ],
+      "age": 43,
+      "work": "programátor",
+      "home": "Hlučín",
+      "homeMeta": {
+        "num": 507016,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Marcel",
+        "Šimíček",
+        ""
+      ],
+      "age": 48,
+      "work": "OSVČ",
+      "home": "Nový Jičín",
+      "homeMeta": {
+        "num": 599191,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Holuša",
+        ""
+      ],
+      "age": 39,
+      "work": "podnikatel",
+      "home": "Opava",
+      "homeMeta": {
+        "num": 505927,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radan",
+        "Ustrnul",
+        ""
+      ],
+      "age": 54,
+      "work": "vedoucí střediska",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Roman",
+        "Pekala",
+        ""
+      ],
+      "age": 54,
+      "work": "auditor",
+      "home": "Ostrava",
+      "homeMeta": {
+        "num": 4,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Erlebach",
+        ""
+      ],
+      "age": 51,
+      "work": "hudebník, učitel",
+      "home": "Horní Bludovice",
+      "homeMeta": {
+        "num": 598178,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vangelis",
+        "Simu",
+        ""
+      ],
+      "age": 50,
+      "work": "jednatel společnosti",
+      "home": "Kopřivnice",
+      "homeMeta": {
+        "num": 599565,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Bojko",
+        ""
+      ],
+      "age": 38,
+      "work": "zastupitel města Karviná, sociální služby",
+      "home": "Karviná",
+      "homeMeta": {
+        "num": 598917,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jakub",
+        "Hečko",
+        "DiS."
+      ],
+      "age": 31,
+      "work": "kontrolor materiálů",
+      "home": "Frýdek-Místek",
+      "homeMeta": {
+        "num": 598003,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Lidia Monika",
+        "Kopťáková",
+        ""
+      ],
+      "age": 52,
+      "work": "inspektor ČOI",
+      "home": "Opava",
+      "homeMeta": {
+        "num": 505927,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Křehlík",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ",
+      "home": "Orlová",
+      "homeMeta": {
+        "num": 599069,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Trikolóra hnutí občanů",

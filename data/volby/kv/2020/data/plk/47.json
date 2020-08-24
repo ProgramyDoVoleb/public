@@ -47,13 +47,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "PhDr. Ing. Mgr. et Mgr.",
         "Jiří",
         "Valenta",
-        ""
+        "DBA"
       ],
-      "sex": 1,
+      "age": 54,
+      "work": "poslanec Parlamentu České republiky",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
       "reg": 47,
+      "nominee": 47,
+      "sex": 1,
       "links": [
         "https://www.kscm.cz/cs/nasi-lide/phdr-ing-jiri-valenta",
         "https://valenta.estranky.cz/",
@@ -71,8 +79,17 @@
         "Bozděch",
         "Ph.D."
       ],
+      "age": 34,
+      "work": "starosta městyse Klenčí pod Čerchovem",
+      "home": "Klenčí pod Čerchovem",
+      "homeMeta": {
+        "num": 553794,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -81,8 +98,17 @@
         "Podlipský",
         ""
       ],
+      "age": 70,
+      "work": "právník",
+      "home": "Bor",
+      "homeMeta": {
+        "num": 560758,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -91,8 +117,17 @@
         "Hubka",
         ""
       ],
+      "age": 56,
+      "work": "ředitel zemědělského podniku",
+      "home": "Kralovice",
+      "homeMeta": {
+        "num": 559075,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -101,8 +136,17 @@
         "Rehák",
         ""
       ],
+      "age": 46,
+      "work": "podnikatel",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -111,8 +155,17 @@
         "Frouz",
         ""
       ],
+      "age": 63,
+      "work": "živnostník",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -121,8 +174,17 @@
         "Rejfek",
         ""
       ],
+      "age": 67,
+      "work": "referent",
+      "home": "Dešenice",
+      "homeMeta": {
+        "num": 556041,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -131,8 +193,17 @@
         "Štekl",
         ""
       ],
+      "age": 44,
+      "work": "učitel, předseda Kontrol. výboru Zastupitelstva PK",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -141,8 +212,17 @@
         "Obdržálková",
         ""
       ],
+      "age": 45,
+      "work": "učitelka",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -151,8 +231,17 @@
         "Lišková",
         ""
       ],
+      "age": 66,
+      "work": "advokátka",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -161,8 +250,17 @@
         "Šulc",
         ""
       ],
+      "age": 30,
+      "work": "jednatel společnosti",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -171,8 +269,17 @@
         "Merhoutová",
         ""
       ],
+      "age": 63,
+      "work": "dělnice",
+      "home": "Líně",
+      "homeMeta": {
+        "num": 559164,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -181,8 +288,17 @@
         "Žáček",
         ""
       ],
+      "age": 58,
+      "work": "technik - logistik",
+      "home": "Kdyně",
+      "homeMeta": {
+        "num": 553786,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -191,8 +307,17 @@
         "Hemzáčková",
         ""
       ],
+      "age": 35,
+      "work": "rodičovská dovolená",
+      "home": "Starý Plzenec",
+      "homeMeta": {
+        "num": 558371,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -201,8 +326,17 @@
         "Štěpán",
         ""
       ],
+      "age": 47,
+      "work": "obsluha čerpací stanice",
+      "home": "Nýrsko",
+      "homeMeta": {
+        "num": 556831,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -211,8 +345,17 @@
         "Šefl",
         ""
       ],
+      "age": 63,
+      "work": "vedoucí provozu - vodohospodářství",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -221,8 +364,17 @@
         "Hlásek",
         ""
       ],
+      "age": 61,
+      "work": "jednatel",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -231,8 +383,17 @@
         "Vild",
         ""
       ],
+      "age": 68,
+      "work": "místostarosta obce Holoubkov",
+      "home": "Holoubkov",
+      "homeMeta": {
+        "num": 559814,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -241,8 +402,17 @@
         "Švarcbek",
         ""
       ],
+      "age": 65,
+      "work": "revizní technik",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -251,18 +421,36 @@
         "Porvich",
         ""
       ],
+      "age": 58,
+      "work": "zemědělský technik",
+      "home": "Horšovský Týn",
+      "homeMeta": {
+        "num": 553671,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Iveta",
-        "Kindelmanová",
+        "Kindlmanová",
         ""
       ],
+      "age": 40,
+      "work": "prodavačka",
+      "home": "Dešenice",
+      "homeMeta": {
+        "num": 556041,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -271,8 +459,17 @@
         "Hrubeš",
         ""
       ],
+      "age": 68,
+      "work": "důchodce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -281,8 +478,17 @@
         "Jelínek",
         ""
       ],
+      "age": 74,
+      "work": "osoba samostatně výdělečně činná",
+      "home": "Skomelno",
+      "homeMeta": {
+        "num": 566845,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -291,8 +497,17 @@
         "Sítková",
         ""
       ],
+      "age": 64,
+      "work": "zdravotní sestra",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -301,18 +516,36 @@
         "Bartoníček",
         ""
       ],
+      "age": 61,
+      "work": "ekonom",
+      "home": "Holýšov",
+      "homeMeta": {
+        "num": 553654,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Petr",
-        "Nikodém",
+        "Nikodem",
         ""
       ],
+      "age": 53,
+      "work": "dělník",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -321,8 +554,17 @@
         "Tuma",
         ""
       ],
+      "age": 38,
+      "work": "řidič - strojník",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -331,8 +573,17 @@
         "Heřman",
         ""
       ],
+      "age": 46,
+      "work": "servisní technik",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -341,8 +592,17 @@
         "Bažant",
         ""
       ],
+      "age": 43,
+      "work": "strojní technik",
+      "home": "Tlučná",
+      "homeMeta": {
+        "num": 559491,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -351,8 +611,17 @@
         "Zajíček",
         ""
       ],
+      "age": 67,
+      "work": "podnikatel",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -361,8 +630,17 @@
         "Kvasnička",
         ""
       ],
+      "age": 60,
+      "work": "daňový poradce",
+      "home": "Kladruby",
+      "homeMeta": {
+        "num": 560928,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -371,8 +649,17 @@
         "Pflugová Růžičková",
         ""
       ],
+      "age": 66,
+      "work": "lékařka",
+      "home": "Ždánov",
+      "homeMeta": {
+        "num": 554472,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -381,8 +668,17 @@
         "Šidlo",
         ""
       ],
+      "age": 62,
+      "work": "vedoucí pracovník organizační jednotky ČD",
+      "home": "Bezděkov",
+      "homeMeta": {
+        "num": 555801,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -391,8 +687,17 @@
         "Turková",
         ""
       ],
+      "age": 58,
+      "work": "ošetřovatelka",
+      "home": "Soběkury",
+      "homeMeta": {
+        "num": 558346,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 2,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -401,8 +706,17 @@
         "Kvit",
         ""
       ],
+      "age": 69,
+      "work": "předseda Městského výboru KSČM Plzeň",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -411,8 +725,17 @@
         "Cink",
         ""
       ],
+      "age": 72,
+      "work": "důchodce",
+      "home": "Nýřany",
+      "homeMeta": {
+        "num": 559300,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -421,8 +744,17 @@
         "Tomášek",
         ""
       ],
+      "age": 46,
+      "work": "řidič záchranné služby",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -431,8 +763,17 @@
         "Váchalová",
         ""
       ],
+      "age": 54,
+      "work": "asistentka - kalkulátorka",
+      "home": "Postřekov",
+      "homeMeta": {
+        "num": 554138,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -441,8 +782,17 @@
         "Buček",
         ""
       ],
+      "age": 45,
+      "work": "řidič",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -451,8 +801,17 @@
         "Mareš",
         ""
       ],
+      "age": 43,
+      "work": "dělník",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -461,8 +820,17 @@
         "Beneš",
         ""
       ],
+      "age": 35,
+      "work": "projektant dopravních staveb",
+      "home": "Ledce",
+      "homeMeta": {
+        "num": 559148,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -471,8 +839,17 @@
         "Volka",
         ""
       ],
+      "age": 52,
+      "work": "velitel jednotky sboru dobrovolných hasičů",
+      "home": "Tachov",
+      "homeMeta": {
+        "num": 560715,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -481,8 +858,17 @@
         "Macnerová",
         ""
       ],
+      "age": 53,
+      "work": "učitelka",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -491,8 +877,17 @@
         "Godža",
         ""
       ],
+      "age": 32,
+      "work": "lektor, tvůrce zábavných kroužků",
+      "home": "Nýrsko",
+      "homeMeta": {
+        "num": 556831,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -501,8 +896,17 @@
         "Prančl",
         ""
       ],
+      "age": 63,
+      "work": "důchodce",
+      "home": "Chudenín",
+      "homeMeta": {
+        "num": 556386,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -511,8 +915,17 @@
         "Hulinský",
         ""
       ],
+      "age": 52,
+      "work": "technik",
+      "home": "Nýřany",
+      "homeMeta": {
+        "num": 559300,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -521,18 +934,36 @@
         "Lifka",
         ""
       ],
+      "age": 70,
+      "work": "důchodce",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Monika",
-        "Magdalena Štefanová",
+        "Monika Magdalena",
+        "Štefanová",
         ""
       ],
+      "age": 51,
+      "work": "regionální ředitelka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -541,8 +972,17 @@
         "Vaňourek",
         ""
       ],
+      "age": 37,
+      "work": "technický kontrolor",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 47,
+      "nominee": 47,
       "sex": 1,
-      "reg": 47
+      "links": []
     },
     {
       "nameFull": [
@@ -551,8 +991,17 @@
         "Smihrodský",
         ""
       ],
+      "age": 44,
+      "work": "osoba samostatně výdělečně činná",
+      "home": "Tachov",
+      "homeMeta": {
+        "num": 560715,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 47,
       "sex": 1,
-      "reg": 99
+      "links": []
     }
   ],
   "name": "Komunistická strana Čech a Moravy",

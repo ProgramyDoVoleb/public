@@ -61,41 +61,19 @@
         "Hroch",
         ""
       ],
-      "sex": 1,
+      "age": 57,
+      "work": "náměstek hejtmanky, starosta obce",
+      "home": "Kovářov",
+      "homeMeta": {
+        "num": 549517,
+        "gps": []
+      },
       "reg": 766,
+      "nominee": 766,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/pavel.hroch.370"
       ]
-    },
-    {
-      "nameFull": [
-        "",
-        "Jan",
-        "Kubeš",
-        ""
-      ],
-      "sex": 1,
-      "reg": 766
-    },
-    {
-      "nameFull": [
-        "",
-        "Pavel",
-        "Pavel",
-        ""
-      ],
-      "sex": 1,
-      "reg": 766
-    },
-    {
-      "nameFull": [
-        "",
-        "Juraj",
-        "Thoma",
-        ""
-      ],
-      "sex": 1,
-      "reg": 753
     },
     {
       "nameFull": [
@@ -104,68 +82,245 @@
         "Moravec",
         ""
       ],
+      "age": 56,
+      "work": "náměstek primátora",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
       "sex": 1,
-      "reg": 753
+      "links": []
     },
     {
       "nameFull": [
-        "",
-        "Martin",
-        "Malý",
-        ""
-      ],
-      "sex": 1,
-      "reg": 766
-    },
-    {
-      "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Fišer",
         ""
       ],
+      "age": 67,
+      "work": "projektant - vodohospodář, býv. starosta Tábora",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 136,
+      "nominee": 766,
       "sex": 1,
-      "reg": 136
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Eva",
         "Vanžurová",
         ""
       ],
+      "age": 67,
+      "work": "starostka města",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
       "sex": 2,
-      "reg": 766
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. Ing.",
         "Martin",
         "Doležal",
         ""
       ],
+      "age": 50,
+      "work": "starosta města",
+      "home": "Sezimovo Ústí",
+      "homeMeta": {
+        "num": 553069,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
       "sex": 1,
-      "reg": 766
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Jindřich",
-        "Bláha",
+        "Juraj",
+        "Thoma",
         ""
       ],
+      "age": 51,
+      "work": "náměstek primátora",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
       "sex": 1,
-      "reg": 766
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Vladislav",
+        "Burian",
+        ""
+      ],
+      "age": 55,
+      "work": "historik, archeolog",
+      "home": "Jindřichův Hradec",
+      "homeMeta": {
+        "num": 545881,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Malý",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta města",
+      "home": "Prachatice",
+      "homeMeta": {
+        "num": 550094,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
-        "Ivan",
-        "Radosta",
+        "Jan",
+        "Kubeš",
         ""
       ],
+      "age": 44,
+      "work": "zástupce ředitele střední školy, hudebník",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
       "sex": 1,
-      "reg": 766
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Pavel",
+        ""
+      ],
+      "age": 63,
+      "work": "cestovatel, experimentální archeolog",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Doktor",
+        ""
+      ],
+      "age": 53,
+      "work": "ekonom",
+      "home": "Lišov",
+      "homeMeta": {
+        "num": 544779,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Lintner",
+        ""
+      ],
+      "age": 52,
+      "work": "místostarosta města",
+      "home": "Soběslav",
+      "homeMeta": {
+        "num": 553131,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Tomáš",
+        "Chovanec",
+        ""
+      ],
+      "age": 41,
+      "work": "projektový manažer",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Filip",
+        "Mencl",
+        ""
+      ],
+      "age": 57,
+      "work": "starosta obce",
+      "home": "Novosedly nad Nežárkou",
+      "homeMeta": {
+        "num": 546844,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -174,18 +329,815 @@
         "Pavlík",
         ""
       ],
+      "age": 49,
+      "work": "starosta města",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 136,
+      "nominee": 766,
       "sex": 1,
-      "reg": 136
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Ing.",
+        "Pavel",
+        "Vondrys",
+        ""
+      ],
+      "age": 56,
+      "work": "tajemník městského úřadu",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivan",
+        "Radosta",
+        ""
+      ],
+      "age": 53,
+      "work": "starosta města",
+      "home": "Milevsko",
+      "homeMeta": {
+        "num": 549576,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Maleček",
+        ""
+      ],
+      "age": 56,
+      "work": "podnikatel",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Anna",
+        "Píchová",
+        ""
+      ],
+      "age": 42,
+      "work": "starostka obce",
+      "home": "Lipovice",
+      "homeMeta": {
+        "num": 537071,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Věra",
+        "Korčaková",
+        ""
+      ],
+      "age": 48,
+      "work": "starostka města",
+      "home": "Trhové Sviny",
+      "homeMeta": {
+        "num": 545171,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vít",
+        "Rada",
+        ""
+      ],
+      "age": 48,
+      "work": "starosta města",
+      "home": "Veselí nad Lužnicí",
+      "homeMeta": {
+        "num": 553271,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Kopúnová",
+        ""
+      ],
+      "age": 37,
+      "work": "středoškolská učitelka",
+      "home": "Kaplice",
+      "homeMeta": {
+        "num": 545562,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "Luboš",
+        "Průša",
+        ""
+      ],
+      "age": 54,
+      "work": "advokát",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Martin",
+        "Maršík",
+        "Ph.D."
+      ],
+      "age": 54,
+      "work": "ředitel Biskupského gymnázia J. N. Neumanna",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jan",
+        "Zeman",
+        ""
+      ],
+      "age": 58,
+      "work": "starosta obce",
+      "home": "Boršov nad Vltavou",
+      "homeMeta": {
+        "num": 544299,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Kropáčková",
+        ""
+      ],
+      "age": 54,
+      "work": "starostka obce",
+      "home": "Roudná",
+      "homeMeta": {
+        "num": 553018,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Troup",
+        ""
+      ],
+      "age": 56,
+      "work": "starosta městyse",
+      "home": "Křemže",
+      "homeMeta": {
+        "num": 545571,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hana",
+        "Mrázová",
+        ""
+      ],
+      "age": 60,
+      "work": "ředitelka knihovny",
+      "home": "Prachatice",
+      "homeMeta": {
+        "num": 550094,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Hák",
+        ""
+      ],
+      "age": 52,
+      "work": "místostarosta města",
+      "home": "Český Krumlov",
+      "homeMeta": {
+        "num": 545392,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Pavel",
-        "Vondrys",
+        "Kašpárek",
         ""
       ],
+      "age": 64,
+      "work": "starosta obce",
+      "home": "Úsilné",
+      "homeMeta": {
+        "num": 535494,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
       "sex": 1,
-      "reg": 766
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Marie",
+        "Buzková",
+        ""
+      ],
+      "age": 57,
+      "work": "projektantka, vedoucí stavebního úřadu",
+      "home": "Kunžak",
+      "homeMeta": {
+        "num": 546615,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Hynek",
+        "Látal",
+        "Ph.D."
+      ],
+      "age": 42,
+      "work": "vysokoškolský pedagog",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Miroslava",
+        "Zralá",
+        ""
+      ],
+      "age": 48,
+      "work": "příprava investic",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Havránek",
+        ""
+      ],
+      "age": 55,
+      "work": "podnikatel",
+      "home": "Tábor",
+      "homeMeta": {
+        "num": 552046,
+        "gps": []
+      },
+      "reg": 136,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Novák",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta obce",
+      "home": "Borek",
+      "homeMeta": {
+        "num": 544272,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Lang",
+        ""
+      ],
+      "age": 57,
+      "work": "ředitel katastrálního úřadu",
+      "home": "Prachatice",
+      "homeMeta": {
+        "num": 550094,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Štindl",
+        ""
+      ],
+      "age": 46,
+      "work": "starosta obce",
+      "home": "Zlatá Koruna",
+      "homeMeta": {
+        "num": 545864,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Žejdl",
+        ""
+      ],
+      "age": 51,
+      "work": "starosta obce",
+      "home": "Čestice",
+      "homeMeta": {
+        "num": 550957,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Krupička",
+        ""
+      ],
+      "age": 59,
+      "work": "starosta města",
+      "home": "Stráž nad Nežárkou",
+      "homeMeta": {
+        "num": 547221,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladislav",
+        "Hadáček",
+        ""
+      ],
+      "age": 53,
+      "work": "odborný rada",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radek",
+        "Pileček",
+        ""
+      ],
+      "age": 24,
+      "work": "student, politický geograf",
+      "home": "Bernartice",
+      "homeMeta": {
+        "num": 549266,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Veronika",
+        "Macková",
+        ""
+      ],
+      "age": 36,
+      "work": "ekonomka",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bohumil",
+        "Rod",
+        ""
+      ],
+      "age": 55,
+      "work": "starosta obce",
+      "home": "Jarošov nad Nežárkou",
+      "homeMeta": {
+        "num": 546500,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Franců",
+        ""
+      ],
+      "age": 71,
+      "work": "projektant",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Sosna",
+        ""
+      ],
+      "age": 50,
+      "work": "učitel, trenér",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Kolín",
+        ""
+      ],
+      "age": 40,
+      "work": "jednatel společnosti",
+      "home": "Prachatice",
+      "homeMeta": {
+        "num": 550094,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Radek",
+        "Kněžínek",
+        ""
+      ],
+      "age": 47,
+      "work": "starosta obce",
+      "home": "Číměř",
+      "homeMeta": {
+        "num": 546101,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Tichý",
+        ""
+      ],
+      "age": 47,
+      "work": "místostarosta města",
+      "home": "Studená",
+      "homeMeta": {
+        "num": 547263,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Homolka",
+        ""
+      ],
+      "age": 36,
+      "work": "starosta obce",
+      "home": "Mojné",
+      "homeMeta": {
+        "num": 598623,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vladimír",
+        "Vítek",
+        ""
+      ],
+      "age": 59,
+      "work": "mechanik transportního chlazení",
+      "home": "Lišov",
+      "homeMeta": {
+        "num": 544779,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vojtěch",
+        "Blažek",
+        ""
+      ],
+      "age": 33,
+      "work": "vysokoškolský učitel",
+      "home": "Písek",
+      "homeMeta": {
+        "num": 549240,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Bambásková",
+        ""
+      ],
+      "age": 56,
+      "work": "finanční specialista",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lukáš",
+        "Bajt",
+        ""
+      ],
+      "age": 32,
+      "work": "obchodní manažer, cyklokoordinátor",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 753,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Burda",
+        ""
+      ],
+      "age": 68,
+      "work": "fotograf",
+      "home": "Vodňany",
+      "homeMeta": {
+        "num": 551953,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Janota",
+        ""
+      ],
+      "age": 41,
+      "work": "sociální pracovník",
+      "home": "Kaplice",
+      "homeMeta": {
+        "num": 545562,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Rabová",
+        ""
+      ],
+      "age": 82,
+      "work": "důchodkyně",
+      "home": "Strakonice",
+      "homeMeta": {
+        "num": 550787,
+        "gps": []
+      },
+      "reg": 766,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislava",
+        "Krejčová",
+        ""
+      ],
+      "age": 53,
+      "work": "referent",
+      "home": "České Budějovice",
+      "homeMeta": {
+        "num": 544256,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 766,
+      "sex": 2,
+      "links": []
     }
   ],
   "color": "#004d39"

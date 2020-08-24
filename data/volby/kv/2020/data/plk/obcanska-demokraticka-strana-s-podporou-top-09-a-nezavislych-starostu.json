@@ -68,13 +68,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "doc. PaedDr.",
         "Ilona",
         "Mauritzová",
-        ""
+        "Ph.D."
       ],
-      "sex": 2,
+      "age": 60,
+      "work": "poslankyně PS PČR, emeritní rektorka ZČU v Plzni",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 2,
       "links": [
         "https://www.ods.cz/region.plzensky/profil/ilona-mauritzova",
         "https://www.facebook.com/ilonamauritzova"
@@ -83,13 +91,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Rudolf",
         "Salvetr",
         ""
       ],
-      "sex": 1,
+      "age": 56,
+      "work": "starosta města Klatovy, předseda SMO Plzeň. kraje",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/region.plzensky/volby2020/krajske/kandidati/923-rudolf-salvetr"
       ],
@@ -97,13 +113,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Radka",
         "Trylčová",
         ""
       ],
-      "sex": 2,
+      "age": 45,
+      "work": "radní PK pro oblast živ. prostř. a zem., řed. KHS",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 2,
       "links": [
         "https://www.radkatrylcova.cz/"
       ],
@@ -111,13 +135,21 @@
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Richard",
         "Pikner",
-        ""
+        "Ph.D."
       ],
-      "sex": 1,
+      "age": 48,
+      "work": "primář klatovské nemocnice, VŠ učitel LF UK a ZČU",
+      "home": "Chválenice",
+      "homeMeta": {
+        "num": 557846,
+        "gps": []
+      },
       "reg": 721,
+      "nominee": 721,
+      "sex": 1,
       "links": [
         "https://www.top09.cz/volby/2020-krajska-zastupitelstva/richard-pikner-27353.html"
       ],
@@ -125,13 +157,21 @@
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Marcela",
         "Krejsová",
         ""
       ],
-      "sex": 2,
+      "age": 62,
+      "work": "náměstkyně vykonávající funkci hejtmana PK",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 2,
       "links": [
         "https://www.ods.cz/region.plzensky/volby2020/krajske/kandidati/536-marcela-krejsova"
       ],
@@ -139,13 +179,22 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jan",
         "Šašek",
         ""
       ],
+      "age": 36,
+      "work": "místostarosta města Rokycany",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -154,18 +203,36 @@
         "Trůková",
         ""
       ],
+      "age": 47,
+      "work": "místostarostka MO Plzeň 2 Slovany",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "PhDr.",
         "Marek",
         "Ženíšek",
-        ""
+        "Ph.D."
       ],
+      "age": 41,
+      "work": "výkonný ředitel think-tanku TOPAZ, politolog",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
@@ -174,38 +241,74 @@
         "Šašek",
         ""
       ],
+      "age": 41,
+      "work": "výkonný ředitel festivalu Juniorfest",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. Mgr.",
         "Pavel",
         "Karpíšek",
         ""
       ],
+      "age": 51,
+      "work": "starosta obce Vejprnice, senátor PČR",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Vladislav",
         "Vilímec",
         ""
       ],
+      "age": 57,
+      "work": "senátor PČR",
+      "home": "Kdyně",
+      "homeMeta": {
+        "num": 553786,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Karel",
         "Naxera",
         ""
       ],
+      "age": 48,
+      "work": "starosta města Přeštice",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
@@ -214,78 +317,150 @@
         "Hlačík",
         ""
       ],
+      "age": 44,
+      "work": "starosta městyse Chodová Planá",
+      "home": "Chodová Planá",
+      "homeMeta": {
+        "num": 560901,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Zdeněk",
         "Mádr",
         ""
       ],
+      "age": 63,
+      "work": "místostarosta MO Plzeň 4",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Václav",
         "Chroust",
         ""
       ],
+      "age": 57,
+      "work": "místostarosta města Klatovy",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Martin",
         "Baxa",
         ""
       ],
+      "age": 45,
+      "work": "primátor města Plzně, poslanec PS PČR, učitel",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Josef",
         "Holeček",
         ""
       ],
+      "age": 61,
+      "work": "starosta města Horšovský Týn",
+      "home": "Horšovský Týn",
+      "homeMeta": {
+        "num": 553671,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "doc. MUDr.",
         "Jiří",
         "Dort",
-        ""
+        "Ph.D."
       ],
+      "age": 68,
+      "work": "primář Neonatologického odd. Fakultní nem. v Plzni",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Marcela",
         "Sobotková",
         ""
       ],
+      "age": 58,
+      "work": "starostka města Hrádek",
+      "home": "Hrádek",
+      "homeMeta": {
+        "num": 559822,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Lukáš",
         "Janko",
         ""
       ],
+      "age": 38,
+      "work": "místostarosta města Kralovice, zeměděl. podnikatel",
+      "home": "Kralovice",
+      "homeMeta": {
+        "num": 559075,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -294,38 +469,74 @@
         "Poduška",
         ""
       ],
+      "age": 71,
+      "work": "bývalý starosta města Blovice",
+      "home": "Blovice",
+      "homeMeta": {
+        "num": 557587,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Helena",
         "Řežábová",
         ""
       ],
+      "age": 60,
+      "work": "starostka MO Plzeň 1",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Ilona",
         "Jehličková",
         ""
       ],
+      "age": 56,
+      "work": "místostarostka MO Plzeň 1",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 2,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Michal",
         "Šnebergr",
         ""
       ],
+      "age": 62,
+      "work": "živnostník",
+      "home": "Železná Ruda",
+      "homeMeta": {
+        "num": 557528,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -334,48 +545,93 @@
         "Dusil",
         ""
       ],
+      "age": 45,
+      "work": "OSVČ - ředitel finanční skupiny",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Miroslav",
         "Jaroš",
         ""
       ],
+      "age": 58,
+      "work": "jednatel společ., projektant, býv. krajský radní",
+      "home": "Radnice",
+      "homeMeta": {
+        "num": 560120,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Pavel",
         "Faschingbauer",
         ""
       ],
+      "age": 47,
+      "work": "ekonom",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Miroslav",
         "Pelán",
         ""
       ],
+      "age": 50,
+      "work": "pedagog, radní města Planá",
+      "home": "Planá",
+      "homeMeta": {
+        "num": 561134,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Šneberger",
         ""
       ],
+      "age": 60,
+      "work": "bývalý primátor města Plzně",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -384,78 +640,150 @@
         "Trávníček",
         ""
       ],
+      "age": 62,
+      "work": "zastupitel obce Zruč-Senec",
+      "home": "Zruč-Senec",
+      "homeMeta": {
+        "num": 559679,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Petr",
         "Fornouz",
         ""
       ],
+      "age": 52,
+      "work": "ředitel školy",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Lukáš",
         "Kopecký",
         ""
       ],
+      "age": 34,
+      "work": "učitel",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jaroslav",
         "Mráz",
         ""
       ],
+      "age": 58,
+      "work": "technik",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Tomáš",
         "Rousek",
         ""
       ],
+      "age": 33,
+      "work": "místostarosta města Hrádek, ved. projektů a vývoje",
+      "home": "Hrádek",
+      "homeMeta": {
+        "num": 559822,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Davídek",
         ""
       ],
+      "age": 62,
+      "work": "starosta města Nýřany",
+      "home": "Nýřany",
+      "homeMeta": {
+        "num": 559300,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 53,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Petr",
         "Baloun",
         ""
       ],
+      "age": 43,
+      "work": "1. místostarosta MO Plzeň 3",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Richard",
         "Brümmer",
         ""
       ],
+      "age": 49,
+      "work": "ředitel Schmelzer CZ",
+      "home": "Chodová Planá",
+      "homeMeta": {
+        "num": 560901,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -464,8 +792,17 @@
         "Kropík",
         ""
       ],
+      "age": 31,
+      "work": "místostarosta obce Nové Mitrovice",
+      "home": "Nové Mitrovice",
+      "homeMeta": {
+        "num": 558176,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
@@ -474,78 +811,150 @@
         "Zeithaml",
         ""
       ],
+      "age": 71,
+      "work": "starosta města Třemošná",
+      "home": "Třemošná",
+      "homeMeta": {
+        "num": 559521,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 53,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Petr",
         "Mottl",
         ""
       ],
+      "age": 52,
+      "work": "starosta města Sušice",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Václav",
         "Netušil",
         ""
       ],
+      "age": 49,
+      "work": "ředitel KANALIZACE A VODOVODY Starý Plzenec, a.s.",
+      "home": "Nepomuk",
+      "homeMeta": {
+        "num": 558109,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Michal",
         "Vozobule",
         ""
       ],
+      "age": 39,
+      "work": "náměstek primátora města Plzně pro dopravu a ŽP",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Eva",
         "Nosková",
         ""
       ],
+      "age": 51,
+      "work": "manažer projektu",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Roman",
         "Sviták",
-        ""
+        "Ph.D., MBA"
       ],
+      "age": 57,
+      "work": "lékař",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Roman",
         "Soukup",
-        ""
+        "MBA"
       ],
+      "age": 55,
+      "work": "strojní inženýr",
+      "home": "Částkov",
+      "homeMeta": {
+        "num": 560804,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr. Ing.",
         "Veronika",
         "Jilichová Nová",
         ""
       ],
+      "age": 43,
+      "work": "dětská lékařka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -554,18 +963,36 @@
         "Burianová",
         ""
       ],
+      "age": 47,
+      "work": "místostarostka města Holýšov",
+      "home": "Holýšov",
+      "homeMeta": {
+        "num": 553654,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 53,
       "sex": 2,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. Mgr.",
         "Miroslav",
         "Kroc",
         ""
       ],
+      "age": 53,
+      "work": "starosta obce Břasy",
+      "home": "Břasy",
+      "homeMeta": {
+        "num": 559725,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 53,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
@@ -574,18 +1001,36 @@
         "Kopecký",
         ""
       ],
+      "age": 35,
+      "work": "starosta města Poběžovice",
+      "home": "Poběžovice",
+      "homeMeta": {
+        "num": 554111,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 53,
       "sex": 1,
-      "reg": 99
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Miroslav",
         "Hlaváč",
         ""
       ],
+      "age": 29,
+      "work": "zástupce tiskového mluvčího TOP 09",
+      "home": "Starý Plzenec",
+      "homeMeta": {
+        "num": 558371,
+        "gps": []
+      },
+      "reg": 721,
+      "nominee": 721,
       "sex": 1,
-      "reg": 721
+      "links": []
     }
   ],
   "color": "#194392"

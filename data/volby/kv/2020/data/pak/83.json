@@ -4,5 +4,64 @@
   "hash": "moravane--pro-zachovani-moravy-se-pri-scitani-lidu-2021-opet-prihlasme-k-moravske-narodnosti",
   "short": "Moravané",
   "no": 22,
-  "data": "pak/83"
+  "data": "pak/83",
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Měcháček",
+        ""
+      ],
+      "age": 46,
+      "work": "dělník",
+      "home": "Staré Město",
+      "homeMeta": {
+        "num": 578789,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Smítal",
+        ""
+      ],
+      "age": 49,
+      "work": "kuchař",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Drtílek",
+        ""
+      ],
+      "age": 71,
+      "work": "OSVČ",
+      "home": "Moravská Třebová",
+      "homeMeta": {
+        "num": 578444,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    }
+  ]
 }

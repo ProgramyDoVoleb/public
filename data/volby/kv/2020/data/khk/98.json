@@ -4,5 +4,45 @@
   "hash": "volte-pravy-blok-stranu-za-odvolat-polit--nizke-dane-vyrovn-rozp--min-byrokr--sprav-just--primou-demokr--www-cibulka-net",
   "short": "PB",
   "no": 67,
-  "data": "khk/98"
+  "data": "khk/98",
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Grund",
+        ""
+      ],
+      "age": 63,
+      "work": "živnostník",
+      "home": "Rokytnice v Orlických horách",
+      "homeMeta": {
+        "num": 576701,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 98,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Heršálek",
+        ""
+      ],
+      "age": 67,
+      "work": "důchodce",
+      "home": "Střevač",
+      "homeMeta": {
+        "num": 573540,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 98,
+      "sex": 1,
+      "links": []
+    }
+  ]
 }

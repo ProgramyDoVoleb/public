@@ -9,6 +9,672 @@
   "hash": "moravane--pro-zachovani-moravy-se-pri-scitani-lidu-2021-opet-prihlasme-k-moravske-narodnosti",
   "logo": "/obecne/strany/loga/83-moravane.png",
   "color": "#a4ad17",
-  "list": [],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Bystřický",
+        ""
+      ],
+      "age": 42,
+      "work": "technik kvality",
+      "home": "Salaš",
+      "homeMeta": {
+        "num": 592561,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Dohnal",
+        ""
+      ],
+      "age": 59,
+      "work": "jednatel společnosti, čestný předseda strany",
+      "home": "Hluk",
+      "homeMeta": {
+        "num": 592170,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Kramoliš",
+        ""
+      ],
+      "age": 66,
+      "work": "majitel cestovní kanceláře",
+      "home": "Dolní Bečva",
+      "homeMeta": {
+        "num": 541800,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimír",
+        "Vaculík",
+        ""
+      ],
+      "age": 53,
+      "work": "znalec, stavební inženýr",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eliška",
+        "Plačková",
+        ""
+      ],
+      "age": 23,
+      "work": "studentka PF MU",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ladislav",
+        "Bobek",
+        ""
+      ],
+      "age": 65,
+      "work": "autodopravce",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Gál",
+        ""
+      ],
+      "age": 44,
+      "work": "technický pracovník",
+      "home": "Zlín",
+      "homeMeta": {
+        "num": 585068,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Ivana",
+        "Šilhánková",
+        ""
+      ],
+      "age": 47,
+      "work": "učitelka",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Mazánek",
+        "Dis."
+      ],
+      "age": 27,
+      "work": "instruktor plavání dětí a kojenců",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jana",
+        "Špičáková",
+        ""
+      ],
+      "age": 35,
+      "work": "všeobecná sestra",
+      "home": "Salaš",
+      "homeMeta": {
+        "num": 592561,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Fajtl",
+        ""
+      ],
+      "age": 34,
+      "work": "učitel, historik",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radim",
+        "Křižka",
+        ""
+      ],
+      "age": 42,
+      "work": "zámečník",
+      "home": "Uherské Hradiště",
+      "homeMeta": {
+        "num": 592005,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Bílek",
+        ""
+      ],
+      "age": 32,
+      "work": "technik IT",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Lukáš",
+        ""
+      ],
+      "age": 73,
+      "work": "badatel dějin Slovácka",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Anežka",
+        "Valigurská",
+        "Dis."
+      ],
+      "age": 23,
+      "work": "studentka",
+      "home": "Morkovice-Slížany",
+      "homeMeta": {
+        "num": 588768,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Aleš",
+        "Bardoň",
+        ""
+      ],
+      "age": 73,
+      "work": "sklář",
+      "home": "Rožnov pod Radhoštěm",
+      "homeMeta": {
+        "num": 544841,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Filip",
+        "Solař",
+        ""
+      ],
+      "age": 39,
+      "work": "řidič",
+      "home": "Martinice",
+      "homeMeta": {
+        "num": 588741,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Kašpárek",
+        ""
+      ],
+      "age": 65,
+      "work": "stavební inženýr",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Kadlčík",
+        ""
+      ],
+      "age": 69,
+      "work": "předseda představenstva",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Hana",
+        "Bystřická",
+        ""
+      ],
+      "age": 36,
+      "work": "mateřská dovolená",
+      "home": "Salaš",
+      "homeMeta": {
+        "num": 592561,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Valenta",
+        ""
+      ],
+      "age": 30,
+      "work": "podnikatel",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivo",
+        "Rozsypálek",
+        ""
+      ],
+      "age": 29,
+      "work": "podnikatel",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Ludvík",
+        "Kochaníček",
+        ""
+      ],
+      "age": 48,
+      "work": "učitel",
+      "home": "Zdounky",
+      "homeMeta": {
+        "num": 589195,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Zaoral",
+        ""
+      ],
+      "age": 39,
+      "work": "technik",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Bernard",
+        "Franta",
+        ""
+      ],
+      "age": 44,
+      "work": "podnikatel",
+      "home": "Boršice",
+      "homeMeta": {
+        "num": 592064,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Juřička",
+        ""
+      ],
+      "age": 74,
+      "work": "dělník",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Kroupa",
+        ""
+      ],
+      "age": 62,
+      "work": "technik",
+      "home": "Velká Lhota",
+      "homeMeta": {
+        "num": 545147,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Fiala",
+        ""
+      ],
+      "age": 39,
+      "work": "dělník",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Šišák",
+        ""
+      ],
+      "age": 68,
+      "work": "sladovník pivovaru",
+      "home": "Uherský Brod",
+      "homeMeta": {
+        "num": 592731,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Borkovec",
+        ""
+      ],
+      "age": 66,
+      "work": "technik",
+      "home": "Rožnov pod Radhoštěm",
+      "homeMeta": {
+        "num": 544841,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Topolánek",
+        ""
+      ],
+      "age": 82,
+      "work": "technik",
+      "home": "Rožnov pod Radhoštěm",
+      "homeMeta": {
+        "num": 544841,
+        "gps": []
+      },
+      "reg": 83,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "David",
+        "Crhák",
+        "Ph.D."
+      ],
+      "age": 41,
+      "work": "mistr železničních staveb",
+      "home": "Chropyně",
+      "homeMeta": {
+        "num": 588512,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Irena",
+        "Štorová",
+        ""
+      ],
+      "age": 31,
+      "work": "mateřská dovolená",
+      "home": "Soběsuky",
+      "homeMeta": {
+        "num": 589004,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Fojtík",
+        ""
+      ],
+      "age": 26,
+      "work": "kurýr GLS",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Odstrčilík",
+        ""
+      ],
+      "age": 82,
+      "work": "důchodce",
+      "home": "Kroměříž",
+      "homeMeta": {
+        "num": 588296,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 83,
+      "sex": 1,
+      "links": []
+    }
+  ],
   "no": 22
 }

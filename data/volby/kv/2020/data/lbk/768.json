@@ -39,34 +39,61 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jitka",
         "Volfová",
         ""
       ],
-      "sex": 2,
+      "age": 51,
+      "work": "starostka města Č. Lípa, st. náměstkyně hejtmana",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
       "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": [],
       "photo": "jitka-volfova.jpg"
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jaroslav",
         "Knížek",
         ""
       ],
+      "age": 54,
+      "work": "generální ředitel, zastupitel města Turnov",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Šárka",
         "Prachařová",
         ""
       ],
+      "age": 58,
+      "work": "pedagog, metodik dalšího vzdělávání, členka rady",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
       "sex": 2,
-      "reg": 768
+      "links": []
     },
     {
       "nameFull": [
@@ -75,18 +102,891 @@
         "Brož",
         ""
       ],
+      "age": 44,
+      "work": "místostarosta města Česká Lípa, zastupitel LK",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Stanislav",
         "Říha",
         ""
       ],
+      "age": 37,
+      "work": "vodáren.specialista, člen rady statut. m. J. n. N.",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
       "sex": 1,
-      "reg": 768
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Chuchlík",
+        ""
+      ],
+      "age": 51,
+      "work": "předseda představenstva DS Holding a.s.",
+      "home": "Libštát",
+      "homeMeta": {
+        "num": 577294,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Roman",
+        "Baran",
+        ""
+      ],
+      "age": 55,
+      "work": "obchodní manažer, zastupitel Libereckého kraje",
+      "home": "Nová Ves",
+      "homeMeta": {
+        "num": 546593,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miloslav",
+        "Tůma",
+        ""
+      ],
+      "age": 28,
+      "work": "starosta města Ralsko",
+      "home": "Ralsko",
+      "homeMeta": {
+        "num": 562017,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Hejna",
+        ""
+      ],
+      "age": 57,
+      "work": "obchodní ředitel, zastupitel města Česká Lípa",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Michal",
+        "Kříž",
+        ""
+      ],
+      "age": 39,
+      "work": "člen rady kraje-řízení rez. hosp. a reg. rozvoje",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "David",
+        "Mánek",
+        ""
+      ],
+      "age": 37,
+      "work": "statut. náměstek primátora stat. města Jabl. n. N.",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Daniela",
+        "Kysilková",
+        ""
+      ],
+      "age": 52,
+      "work": "starostka obce Stráž nad Nisou",
+      "home": "Stráž nad Nisou",
+      "homeMeta": {
+        "num": 544477,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslava",
+        "Bizoňová",
+        ""
+      ],
+      "age": 50,
+      "work": "místostarostka města Mimoň",
+      "home": "Mimoň",
+      "homeMeta": {
+        "num": 561835,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radka",
+        "Loučková Kotasová",
+        ""
+      ],
+      "age": 54,
+      "work": "náměstkyně primátora statut. města Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Petr",
+        "Rozmajzl",
+        ""
+      ],
+      "age": 32,
+      "work": "projektový manažer, zastupitel města Chrastava",
+      "home": "Chrastava",
+      "homeMeta": {
+        "num": 564117,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martina",
+        "Teplá",
+        ""
+      ],
+      "age": 44,
+      "work": "sociální pracovník, zastupitelka stat. m. Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Baláková",
+        ""
+      ],
+      "age": 50,
+      "work": "jednatelka JSB Bijoux s.r.o., zastupitelka",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Motejlek",
+        ""
+      ],
+      "age": 45,
+      "work": "policista - vedoucí odd. kriminalistické techniky",
+      "home": "Lomnice nad Popelkou",
+      "homeMeta": {
+        "num": 577308,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Král",
+        ""
+      ],
+      "age": 41,
+      "work": "starosta města Mimoň, předseda kynol. sdružení",
+      "home": "Mimoň",
+      "homeMeta": {
+        "num": 561835,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Martin",
+        "Smolík",
+        ""
+      ],
+      "age": 42,
+      "work": "starosta obce Pertoltice pod Ralskem",
+      "home": "Pertoltice pod Ralskem",
+      "homeMeta": {
+        "num": 514276,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing. Bc.",
+        "Zuzana",
+        "Wudyová",
+        ""
+      ],
+      "age": 44,
+      "work": "referentka státní správy život. prostředí a zem.",
+      "home": "Frýdlant",
+      "homeMeta": {
+        "num": 564028,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Věra",
+        "Patková",
+        ""
+      ],
+      "age": 58,
+      "work": "vedoucí oddělení finančního odboru města N. Bor",
+      "home": "Doksy",
+      "homeMeta": {
+        "num": 561495,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Přemysl",
+        "Šulc",
+        ""
+      ],
+      "age": 49,
+      "work": "ekonom, místostarosta obce Stružinec, dobr. hasič",
+      "home": "Stružinec",
+      "homeMeta": {
+        "num": 577545,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Kouřil",
+        ""
+      ],
+      "age": 51,
+      "work": "náměstek primátora statut. města Jablonec n. N.",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Čech",
+        ""
+      ],
+      "age": 62,
+      "work": "starosta města Harrachov, včelař",
+      "home": "Harrachov",
+      "homeMeta": {
+        "num": 577081,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Šimoník",
+        ""
+      ],
+      "age": 60,
+      "work": "výkonný ředitel",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Zvolánek",
+        ""
+      ],
+      "age": 41,
+      "work": "obchodní zástupce, zastupitel obce Stráž n. N.",
+      "home": "Stráž nad Nisou",
+      "homeMeta": {
+        "num": 544477,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "René",
+        "Nesvadba",
+        ""
+      ],
+      "age": 49,
+      "work": "vedoucí městské policie",
+      "home": "Ralsko",
+      "homeMeta": {
+        "num": 562017,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Kratochvíl",
+        ""
+      ],
+      "age": 58,
+      "work": "produktový manažer",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Hejtmánek",
+        ""
+      ],
+      "age": 33,
+      "work": "IT specialista",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaromír",
+        "Zajíček",
+        "MPA"
+      ],
+      "age": 69,
+      "work": "vedoucí úřadu Magistrátu města Děčín",
+      "home": "Nový Bor",
+      "homeMeta": {
+        "num": 561860,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Sas",
+        ""
+      ],
+      "age": 59,
+      "work": "projektový manažer",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Vítězslav",
+        "Kvapil",
+        ""
+      ],
+      "age": 73,
+      "work": "živnostník, zastupitel statut. města Liberec",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jaroslav",
+        "Mikš",
+        ""
+      ],
+      "age": 65,
+      "work": "živnostník, zastupitel města Tanvald",
+      "home": "Tanvald",
+      "homeMeta": {
+        "num": 563820,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Binderová",
+        ""
+      ],
+      "age": 48,
+      "work": "pracovnice v soc. službách, jednatelka spolku",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Puhal",
+        ""
+      ],
+      "age": 70,
+      "work": "podnikatel v elektrotechnice",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Reichl",
+        ""
+      ],
+      "age": 54,
+      "work": "vedoucí sportovního areálu",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Boreš",
+        ""
+      ],
+      "age": 48,
+      "work": "živnostník",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Urbánková",
+        ""
+      ],
+      "age": 55,
+      "work": "porodní asistentka",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Viktor",
+        "Portele",
+        ""
+      ],
+      "age": 64,
+      "work": "živnostník",
+      "home": "Nová Ves",
+      "homeMeta": {
+        "num": 546593,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Korňuta",
+        ""
+      ],
+      "age": 44,
+      "work": "podnikatel v nemovitostech, logistik aut. průmyslu",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miloš",
+        "Lank",
+        ""
+      ],
+      "age": 58,
+      "work": "produktový inženýr",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Martin",
+        "Jahoda",
+        ""
+      ],
+      "age": 34,
+      "work": "učitel základní školy",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "David",
+        "Pražák",
+        ""
+      ],
+      "age": 41,
+      "work": "poslanec PS PČR, zastupitel města Semily, podnik.",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jana",
+        "Pastuchová",
+        ""
+      ],
+      "age": 55,
+      "work": "poslankyně PS PČR, zastupitelka st. m. Jabl. n. N.",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Seidl",
+        ""
+      ],
+      "age": 51,
+      "work": "aktivní vozíčkář, stavař",
+      "home": "Rokytnice nad Jizerou",
+      "homeMeta": {
+        "num": 577456,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Pelikán",
+        ""
+      ],
+      "age": 70,
+      "work": "živnostník",
+      "home": "Nový Bor",
+      "homeMeta": {
+        "num": 561860,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Vávra",
+        ""
+      ],
+      "age": 69,
+      "work": "poradce",
+      "home": "Tanvald",
+      "homeMeta": {
+        "num": 563820,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Krejčí",
+        ""
+      ],
+      "age": 48,
+      "work": "živnostník",
+      "home": "Všeň",
+      "homeMeta": {
+        "num": 577677,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Libor",
+        "Housa",
+        ""
+      ],
+      "age": 37,
+      "work": "soukromý zemědělec",
+      "home": "Semily",
+      "homeMeta": {
+        "num": 576964,
+        "gps": []
+      },
+      "reg": 768,
+      "nominee": 768,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "ANO 2011",

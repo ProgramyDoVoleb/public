@@ -65,13 +65,21 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Nantl",
-        ""
+        "LL.M."
       ],
-      "sex": 1,
+      "age": 41,
+      "work": "ředitel výzkumného institutu CEITEC na MU",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/profil/20377-jiri-nantl",
         "https://www.facebook.com/jirinantl",
@@ -82,13 +90,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Crha",
         ""
       ],
-      "sex": 1,
+      "age": 60,
+      "work": "starosta města Blanska",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/region.jihomoravsky/volby2020/krajske/kandidati/1913-jiri-crha"
       ],
@@ -96,13 +112,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Vladimír",
         "Šmerda",
         ""
       ],
-      "sex": 1,
+      "age": 61,
+      "work": "starosta obce Žabčice",
+      "home": "Žabčice",
+      "homeMeta": {
+        "num": 584231,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/region.jihomoravsky/volby2020/krajske/kandidati/617-vladimir-smerda"
       ],
@@ -115,8 +139,16 @@
         "Jurka",
         ""
       ],
-      "sex": 1,
+      "age": 47,
+      "work": "starosta města Vyškova",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/region.jihomoravsky/volby2020/krajske/kandidati/714-karel-jurka"
       ],
@@ -124,13 +156,21 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Kasala",
-        ""
+        "MBA"
       ],
-      "sex": 1,
+      "age": 33,
+      "work": "podnikatel",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
       "reg": 53,
+      "nominee": 53,
+      "sex": 1,
       "links": [
         "https://www.ods.cz/region.jihomoravsky/volby2020/krajske/kandidati/1251-jiri-kasala"
       ],
@@ -138,133 +178,250 @@
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Karel",
         "Podzimek",
         ""
       ],
+      "age": 39,
+      "work": "místostarosta města Znojmo",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Pavel",
         "Kašník",
         ""
       ],
+      "age": 56,
+      "work": "právník, podnikatel",
+      "home": "Hlohovec",
+      "homeMeta": {
+        "num": 584452,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Šárka",
         "Cechová",
         ""
       ],
+      "age": 39,
+      "work": "právnička",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Oldřich",
         "Vachala",
         ""
       ],
+      "age": 30,
+      "work": "vinař, ekonom",
+      "home": "Hustopeče",
+      "homeMeta": {
+        "num": 584495,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jaroslav",
         "Dohnálek",
         ""
       ],
+      "age": 56,
+      "work": "starosta města Boskovice",
+      "home": "Boskovice",
+      "homeMeta": {
+        "num": 581372,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jana",
         "Bačíková",
-        ""
+        "MBA"
       ],
+      "age": 51,
+      "work": "starostka obce Vacenovice",
+      "home": "Vacenovice",
+      "homeMeta": {
+        "num": 586706,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Zdeněk",
         "Černý",
         ""
       ],
+      "age": 64,
+      "work": "OSVČ",
+      "home": "Blučina",
+      "homeMeta": {
+        "num": 582859,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Zbyněk",
         "Šolc",
         ""
       ],
+      "age": 38,
+      "work": "1. místostarosta MČ Brno-Královo Pole",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Miroslav",
         "Novák",
-        ""
+        "DiS."
       ],
+      "age": 41,
+      "work": "starosta města Pohořelice",
+      "home": "Pohořelice",
+      "homeMeta": {
+        "num": 584801,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Hynek",
         "Julínek",
         ""
       ],
+      "age": 46,
+      "work": "vedoucí Centra inf. a komunik. technologií ESF MU",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Marek",
         "Šoška",
         ""
       ],
+      "age": 22,
+      "work": "právník, komunální zastupitel",
+      "home": "Ladná",
+      "homeMeta": {
+        "num": 558443,
+        "gps": []
+      },
+      "reg": 714,
+      "nominee": 714,
       "sex": 1,
-      "reg": 714
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Libor",
         "Šťasta",
         ""
       ],
+      "age": 42,
+      "work": "elektroinženýr",
+      "home": "Znojmo",
+      "homeMeta": {
+        "num": 593711,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Roman",
         "Kosek",
         ""
       ],
+      "age": 34,
+      "work": "OSVČ, dopravní inženýr",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -273,68 +430,131 @@
         "Totková",
         ""
       ],
+      "age": 53,
+      "work": "účetní",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Josef",
         "Šiška",
         ""
       ],
+      "age": 53,
+      "work": "starosta města Modřice",
+      "home": "Modřice",
+      "homeMeta": {
+        "num": 583391,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Zuzana",
         "Hermanová",
         ""
       ],
+      "age": 56,
+      "work": "starostka obce Drnovice",
+      "home": "Drnovice",
+      "homeMeta": {
+        "num": 593001,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Libor",
         "Hoppe",
         ""
       ],
+      "age": 57,
+      "work": "jednatel společnosti",
+      "home": "Lipůvka",
+      "homeMeta": {
+        "num": 581968,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Tichý",
         ""
       ],
+      "age": 39,
+      "work": "právník",
+      "home": "Mikulov",
+      "homeMeta": {
+        "num": 584649,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Petr",
         "Punčochář",
         ""
       ],
+      "age": 50,
+      "work": "ředitel ZŠ, místostarosta MČ Brno-Nový Lískovec",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Jana",
         "Novotná",
         ""
       ],
+      "age": 54,
+      "work": "primářka rehabilitace Nemocnice Blansko",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -343,18 +563,36 @@
         "Bouda",
         ""
       ],
+      "age": 65,
+      "work": "místostarosta města Veselí nad Moravou",
+      "home": "Veselí nad Moravou",
+      "homeMeta": {
+        "num": 586722,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Zdeněk",
         "Mahovský",
         ""
       ],
+      "age": 54,
+      "work": "starosta obce Přísnotice",
+      "home": "Přísnotice",
+      "homeMeta": {
+        "num": 583731,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -363,38 +601,74 @@
         "Švábenský",
         ""
       ],
+      "age": 42,
+      "work": "jednatel společnosti",
+      "home": "Holubice",
+      "homeMeta": {
+        "num": 550825,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "JUDr.",
         "Igor",
         "Brukner",
         ""
       ],
+      "age": 40,
+      "work": "OSVČ, property manager",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jana",
         "Králová",
         ""
       ],
+      "age": 55,
+      "work": "ředitelka školy",
+      "home": "Židlochovice",
+      "homeMeta": {
+        "num": 584282,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Vladimíra",
         "Danihelková",
-        ""
+        "MBA"
       ],
+      "age": 52,
+      "work": "ředitelka Nemocnice Blansko",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -403,28 +677,55 @@
         "Horák",
         ""
       ],
+      "age": 19,
+      "work": "student",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Kateřina",
         "Jetelinová",
         ""
       ],
+      "age": 57,
+      "work": "starostka obce Vranov",
+      "home": "Vranov",
+      "homeMeta": {
+        "num": 584151,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Petr",
         "Gazárek",
         ""
       ],
+      "age": 34,
+      "work": "obchodní referent",
+      "home": "Strážnice",
+      "homeMeta": {
+        "num": 586587,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -433,28 +734,55 @@
         "Kaláb",
         ""
       ],
+      "age": 34,
+      "work": "informatik",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Radek",
         "Peloušek",
         ""
       ],
+      "age": 57,
+      "work": "správce nemovitostí",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Marie",
         "Gregorová",
         ""
       ],
+      "age": 49,
+      "work": "účetní městyse Lukov",
+      "home": "Únanov",
+      "homeMeta": {
+        "num": 595021,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -463,28 +791,55 @@
         "Šimek",
         ""
       ],
+      "age": 39,
+      "work": "starosta obce Habrůvka",
+      "home": "Habrůvka",
+      "homeMeta": {
+        "num": 581569,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jindřich",
         "Svoboda",
         ""
       ],
+      "age": 47,
+      "work": "středoškolský učitel",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Evelína",
         "Jochová",
         ""
       ],
+      "age": 47,
+      "work": "právnička",
+      "home": "Veselí nad Moravou",
+      "homeMeta": {
+        "num": 586722,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -493,18 +848,36 @@
         "Lukáč",
         ""
       ],
+      "age": 56,
+      "work": "fotograf",
+      "home": "Vyškov",
+      "homeMeta": {
+        "num": 592889,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. arch.",
         "Vojtěch",
         "Mencl",
         ""
       ],
+      "age": 50,
+      "work": "urbanista, starosta MČ Brno-střed",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -513,48 +886,93 @@
         "Hrabálek",
         ""
       ],
+      "age": 20,
+      "work": "předseda Mladých konzervativců Brno",
+      "home": "Veverské Knínice",
+      "homeMeta": {
+        "num": 584118,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "MUDr.",
         "Lubor",
         "Šimeček",
         ""
       ],
+      "age": 61,
+      "work": "lékař",
+      "home": "Hodonín",
+      "homeMeta": {
+        "num": 586021,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jindřich",
         "Vobořil",
         ""
       ],
+      "age": 54,
+      "work": "ředitel Společnosti Podané ruce o.p.s.",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Alena",
         "Řezníčková",
-        ""
+        "MBA"
       ],
+      "age": 56,
+      "work": "manažerka v IT",
+      "home": "Šlapanice",
+      "homeMeta": {
+        "num": 583952,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Miroslav",
         "Daniel",
         ""
       ],
+      "age": 56,
+      "work": "jednatel společnosti",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -563,18 +981,36 @@
         "Brtník",
         ""
       ],
+      "age": 37,
+      "work": "podnikatel",
+      "home": "Rousínov",
+      "homeMeta": {
+        "num": 593559,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr. et Mgr.",
         "Michael",
         "Brázda",
         ""
       ],
+      "age": 44,
+      "work": "advokát, pedagog, místostar. MČ Brno-Nový Lískovec",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -583,58 +1019,112 @@
         "Tesař",
         ""
       ],
+      "age": 19,
+      "work": "student",
+      "home": "Šlapanice",
+      "homeMeta": {
+        "num": 583952,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Leona",
         "Havířová",
         ""
       ],
+      "age": 44,
+      "work": "učitelka",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Vítězslav",
         "Dostál",
-        ""
+        "MBA"
       ],
+      "age": 57,
+      "work": "finanční a obchodní ředitel",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Eva",
         "Kostihová",
         ""
       ],
+      "age": 51,
+      "work": "učitelka",
+      "home": "Kyjov",
+      "homeMeta": {
+        "num": 586307,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jiří",
         "Proch",
         ""
       ],
+      "age": 54,
+      "work": "pracovník sportovního svazu",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Jan",
         "Růžička",
         ""
       ],
+      "age": 47,
+      "work": "manažer pro registrace, legislativu a vývoj",
+      "home": "Drnovice",
+      "homeMeta": {
+        "num": 581551,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -643,88 +1133,169 @@
         "Špaček",
         ""
       ],
+      "age": 22,
+      "work": "student práv",
+      "home": "Tišnov",
+      "homeMeta": {
+        "num": 584002,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Marie",
         "Navrátilová",
         ""
       ],
+      "age": 59,
+      "work": "správce nemovitostí",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing. Bc.",
         "Jan",
         "Kyněra",
         ""
       ],
+      "age": 28,
+      "work": "finanční analytik",
+      "home": "Kyjov",
+      "homeMeta": {
+        "num": 586307,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Tomáš",
         "Krčmař",
         ""
       ],
+      "age": 23,
+      "work": "student",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Mgr.",
         "Jiří",
         "Pospíšil",
         ""
       ],
+      "age": 51,
+      "work": "daňový poradce",
+      "home": "Troubsko",
+      "homeMeta": {
+        "num": 584029,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Antonín",
         "Kopřiva",
         ""
       ],
+      "age": 32,
+      "work": "bankéř, klientský pracovník",
+      "home": "Hlubočany",
+      "homeMeta": {
+        "num": 593036,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Jakub",
         "Dvořák",
         ""
       ],
+      "age": 23,
+      "work": "student",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Lukáš",
         "Němec",
         ""
       ],
+      "age": 41,
+      "work": "podnikatel",
+      "home": "Blansko",
+      "homeMeta": {
+        "num": 581283,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Matyáš",
         "Charvát",
         ""
       ],
+      "age": 32,
+      "work": "legislativní a finanční expert",
+      "home": "Mokrá-Horákov",
+      "homeMeta": {
+        "num": 583405,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -733,8 +1304,17 @@
         "Solak",
         ""
       ],
+      "age": 23,
+      "work": "student Právnické fakulty Masarykovy univerzity",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -743,28 +1323,55 @@
         "Kšica",
         ""
       ],
+      "age": 34,
+      "work": "odborník pro zahraniční obchod a logistiku",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
         "",
         "Zuzana",
         "Tomanová",
-        ""
+        "DiS."
       ],
+      "age": 33,
+      "work": "asistentka",
+      "home": "Strážnice",
+      "homeMeta": {
+        "num": 586587,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 2,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Michal",
         "Lepka",
         ""
       ],
+      "age": 51,
+      "work": "jednatel společnosti",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -773,8 +1380,17 @@
         "Ryba",
         ""
       ],
+      "age": 69,
+      "work": "důchodce",
+      "home": "Troubsko",
+      "homeMeta": {
+        "num": 584029,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     },
     {
       "nameFull": [
@@ -783,8 +1399,17 @@
         "Tesař",
         ""
       ],
+      "age": 27,
+      "work": "privátní bankéř",
+      "home": "Brno",
+      "homeMeta": {
+        "num": 3,
+        "gps": []
+      },
+      "reg": 53,
+      "nominee": 53,
       "sex": 1,
-      "reg": 53
+      "links": []
     }
   ],
   "color": "#194392"

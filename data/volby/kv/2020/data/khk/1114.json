@@ -21,18 +21,948 @@
         "Podal",
         ""
       ],
+      "age": 67,
+      "work": "poslanec",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
       "sex": 1,
-      "reg": 1114
+      "links": []
     },
     {
       "nameFull": [
         "",
+        "Andrea",
+        "Pajgerová",
+        ""
+      ],
+      "age": 54,
+      "work": "živnostnice v oblasti účetnictví a daňového porad.",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
         "Markéta",
         "Pakandlová",
         ""
       ],
+      "age": 59,
+      "work": "advokátka",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
       "sex": 2,
-      "reg": 1114
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ivana",
+        "Schubert Dickfeld",
+        ""
+      ],
+      "age": 48,
+      "work": "spisovatelka",
+      "home": "Trutnov",
+      "homeMeta": {
+        "num": 579025,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Kotyzová",
+        ""
+      ],
+      "age": 48,
+      "work": "pedagožka v mateřské škole",
+      "home": "Jičín",
+      "homeMeta": {
+        "num": 572659,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vladimíra",
+        "Lesenská",
+        ""
+      ],
+      "age": 56,
+      "work": "ředitelka kontaktního pracoviště Úřadu práce",
+      "home": "Týniště nad Orlicí",
+      "homeMeta": {
+        "num": 576859,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Janiga",
+        ""
+      ],
+      "age": 61,
+      "work": "strojník",
+      "home": "Batňovice",
+      "homeMeta": {
+        "num": 579041,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jaroslav",
+        "Zajíc",
+        ""
+      ],
+      "age": 51,
+      "work": "technik plynových zařízení",
+      "home": "Miletín",
+      "homeMeta": {
+        "num": 573175,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Roman",
+        "Abraham",
+        ""
+      ],
+      "age": 65,
+      "work": "lesní taxátor",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Radek",
+        "Cvrček",
+        ""
+      ],
+      "age": 44,
+      "work": "praktický lékař",
+      "home": "Vernéřovice",
+      "homeMeta": {
+        "num": 547743,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Slavka",
+        ""
+      ],
+      "age": 47,
+      "work": "nástrojař",
+      "home": "Trutnov",
+      "homeMeta": {
+        "num": 579025,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "René",
+        "Salay",
+        ""
+      ],
+      "age": 52,
+      "work": "servisní technik",
+      "home": "Česká Skalice",
+      "homeMeta": {
+        "num": 573990,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Motyčka",
+        ""
+      ],
+      "age": 43,
+      "work": "vedoucí provozu odpadového hospodářství",
+      "home": "Nová Ves",
+      "homeMeta": {
+        "num": 576549,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Daneš",
+        "Marinica",
+        ""
+      ],
+      "age": 54,
+      "work": "obchodní manažer",
+      "home": "Nové Město nad Metují",
+      "homeMeta": {
+        "num": 574279,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Horák",
+        ""
+      ],
+      "age": 48,
+      "work": "manažer obchodní společnosti",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jaroslava",
+        "Matoušová",
+        ""
+      ],
+      "age": 63,
+      "work": "vedoucí pracovnice Celní správy ČR",
+      "home": "Dvůr Králové nad Labem",
+      "homeMeta": {
+        "num": 579203,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Norbert",
+        "Pelc",
+        ""
+      ],
+      "age": 51,
+      "work": "řidič",
+      "home": "Malé Svatoňovice",
+      "homeMeta": {
+        "num": 579513,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Grygarová",
+        ""
+      ],
+      "age": 64,
+      "work": "učitelka",
+      "home": "Vrchlabí",
+      "homeMeta": {
+        "num": 579858,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "František",
+        "Homolka",
+        ""
+      ],
+      "age": 35,
+      "work": "skladník",
+      "home": "Rychnovek",
+      "homeMeta": {
+        "num": 574406,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zografia",
+        "Drahuská",
+        ""
+      ],
+      "age": 60,
+      "work": "pracovnice sociálních služeb",
+      "home": "Trutnov",
+      "homeMeta": {
+        "num": 579025,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Čapek",
+        ""
+      ],
+      "age": 39,
+      "work": "manažer prodeje",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jindřich",
+        "Pisch",
+        ""
+      ],
+      "age": 61,
+      "work": "truhlář",
+      "home": "Jaroměř",
+      "homeMeta": {
+        "num": 574121,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Bartoň",
+        ""
+      ],
+      "age": 53,
+      "work": "svářeč",
+      "home": "Česká Skalice",
+      "homeMeta": {
+        "num": 573990,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Prokop",
+        ""
+      ],
+      "age": 53,
+      "work": "technik strojírenství",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Alžběta",
+        "Sálová",
+        ""
+      ],
+      "age": 32,
+      "work": "manažerka lidských zdrojů",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Irena",
+        "Němcová",
+        ""
+      ],
+      "age": 37,
+      "work": "asistentka pedagoga",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Hreňo",
+        ""
+      ],
+      "age": 62,
+      "work": "řidič",
+      "home": "Slatina nad Úpou",
+      "homeMeta": {
+        "num": 574422,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Hemrlík",
+        ""
+      ],
+      "age": 66,
+      "work": "řidič",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Voňka",
+        ""
+      ],
+      "age": 51,
+      "work": "pracovník výživy v ZOO",
+      "home": "Vilantice",
+      "homeMeta": {
+        "num": 574597,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Nývlt",
+        ""
+      ],
+      "age": 48,
+      "work": "zástupce vedoucího výkupu surovin",
+      "home": "Česká Skalice",
+      "homeMeta": {
+        "num": 573990,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Alžběta",
+        "Šitavanc",
+        ""
+      ],
+      "age": 50,
+      "work": "operátorka výroby",
+      "home": "Nové Město nad Metují",
+      "homeMeta": {
+        "num": 574279,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Filip",
+        "Rychtera",
+        ""
+      ],
+      "age": 24,
+      "work": "grafik",
+      "home": "Jaroměř",
+      "homeMeta": {
+        "num": 574121,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Vítek",
+        ""
+      ],
+      "age": 73,
+      "work": "strojník",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Monika",
+        "Baselová",
+        ""
+      ],
+      "age": 48,
+      "work": "operátorka",
+      "home": "Stěžery",
+      "homeMeta": {
+        "num": 570931,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavla",
+        "Fialová Vašatová",
+        ""
+      ],
+      "age": 44,
+      "work": "administrativní pracovnice v obchodě",
+      "home": "Jaroměř",
+      "homeMeta": {
+        "num": 574121,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Tuček",
+        ""
+      ],
+      "age": 41,
+      "work": "automechanik",
+      "home": "Náchod",
+      "homeMeta": {
+        "num": 573868,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Riedl",
+        ""
+      ],
+      "age": 44,
+      "work": "tesař",
+      "home": "Úpice",
+      "homeMeta": {
+        "num": 579777,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva",
+        "Nová",
+        ""
+      ],
+      "age": 76,
+      "work": "učitelka",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Michal",
+        "Stoklásek",
+        ""
+      ],
+      "age": 41,
+      "work": "vedoucí skladu",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Iveta",
+        "Bryndzová",
+        ""
+      ],
+      "age": 34,
+      "work": "operátorka výroby",
+      "home": "Rychnovek",
+      "homeMeta": {
+        "num": 574406,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Eva Karolína",
+        "Pavlová",
+        ""
+      ],
+      "age": 69,
+      "work": "úřednice ve státní správě",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "David",
+        ""
+      ],
+      "age": 69,
+      "work": "ekonom",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Roman",
+        "Dudis",
+        ""
+      ],
+      "age": 60,
+      "work": "operátor výroby",
+      "home": "Trutnov",
+      "homeMeta": {
+        "num": 579025,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Šitavanc",
+        ""
+      ],
+      "age": 55,
+      "work": "operátor výroby",
+      "home": "Nové Město nad Metují",
+      "homeMeta": {
+        "num": 574279,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martina",
+        "Schejbalová",
+        ""
+      ],
+      "age": 31,
+      "work": "prodavačka",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Klikar",
+        ""
+      ],
+      "age": 49,
+      "work": "operátor výroby",
+      "home": "Trutnov",
+      "homeMeta": {
+        "num": 579025,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jitka",
+        "Rýdlová Jiříková",
+        ""
+      ],
+      "age": 53,
+      "work": "živnostnice",
+      "home": "Velký Vřešťov",
+      "homeMeta": {
+        "num": 579793,
+        "gps": []
+      },
+      "reg": 1114,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Jančula",
+        ""
+      ],
+      "age": 48,
+      "work": "operátor výroby",
+      "home": "Lánov",
+      "homeMeta": {
+        "num": 579432,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kalous",
+        ""
+      ],
+      "age": 31,
+      "work": "operátor výroby",
+      "home": "Nové Město nad Metují",
+      "homeMeta": {
+        "num": 574279,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ludmila",
+        "Kovaříková",
+        ""
+      ],
+      "age": 79,
+      "work": "veterinární laborantka",
+      "home": "Hradec Králové",
+      "homeMeta": {
+        "num": 569810,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1114,
+      "sex": 2,
+      "links": []
     }
   ],
   "name": "Svoboda a přímá demokracie (SPD)",

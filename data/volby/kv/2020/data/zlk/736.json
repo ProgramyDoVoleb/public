@@ -9,6 +9,83 @@
   "hash": "sdruzeni-pro-republiku---republikanska-strana-cech--moravy-a-slezska",
   "logo": "obecne/strany/loga/1125-spr-rsc.jpg",
   "color": "#aaa",
-  "list": [],
+  "list": [
+    {
+      "nameFull": [
+        "",
+        "Josef",
+        "Bazel",
+        ""
+      ],
+      "age": 76,
+      "work": "důchodce",
+      "home": "Rožnov pod Radhoštěm",
+      "homeMeta": {
+        "num": 544841,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 736,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Novotný",
+        ""
+      ],
+      "age": 46,
+      "work": "elektrikář",
+      "home": "Halenkov",
+      "homeMeta": {
+        "num": 542679,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 736,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Petr",
+        "Hekele",
+        ""
+      ],
+      "age": 41,
+      "work": "obkladač",
+      "home": "Vsetín",
+      "homeMeta": {
+        "num": 541630,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 736,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Basler",
+        ""
+      ],
+      "age": 38,
+      "work": "pracovník ve stavebnictví",
+      "home": "Vsetín",
+      "homeMeta": {
+        "num": 541630,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 736,
+      "sex": 1,
+      "links": []
+    }
+  ],
   "no": 40
 }

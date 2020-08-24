@@ -292,18 +292,20 @@
       "nameFull": [
         "",
         "Ivo",
-        "Grüner",
+        "Grűner",
         ""
       ],
-      "sex": 1,
+      "age": 50,
+      "work": "náměstek hejtmana Plzeňského kraje",
+      "home": "Žihle",
+      "homeMeta": {
+        "num": 559695,
+        "gps": []
+      },
       "reg": 7,
-      "links": [
-        "https://www.ivo-gruner.cz",
-        "https://www.facebook.com/Ivo.Gruner1969",
-        "https://twitter.com/IvoGruner",
-        "https://www.instagram.com/ivo.gruner"
-      ],
-      "photo": "ivo-gruner.jpg"
+      "nominee": 7,
+      "sex": 1,
+      "links": []
     },
     {
       "nameFull": [
@@ -312,8 +314,17 @@
         "Šobr",
         ""
       ],
-      "sex": 1,
+      "age": 60,
+      "work": "učitel, předseda výboru pro školství Zastupit. PK",
+      "home": "Staňkov",
+      "homeMeta": {
+        "num": 554294,
+        "gps": []
+      },
       "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": [],
       "photo": "jaroslav-sobr.jpg"
     },
     {
@@ -323,19 +334,36 @@
         "Struček",
         ""
       ],
-      "sex": 1,
+      "age": 53,
+      "work": "předseda výboru pro sport a cest. ruch Zastup. PK",
+      "home": "Tachov",
+      "homeMeta": {
+        "num": 560715,
+        "gps": []
+      },
       "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": [],
       "photo": "jiri-strucek.jpg"
     },
     {
       "nameFull": [
-        "Doc. MUDr.",
+        "doc. MUDr.",
         "Milada",
         "Emmerová",
         "CSc."
       ],
-      "sex": 2,
+      "age": 75,
+      "work": "lékařka ve FN Plzeň, docentka na LF UK v Plzni",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
       "reg": 7,
+      "nominee": 7,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/milada.emmerova"
       ],
@@ -348,8 +376,17 @@
         "Černý",
         ""
       ],
+      "age": 44,
+      "work": "starosta obce Volduchy",
+      "home": "Volduchy",
+      "homeMeta": {
+        "num": 560251,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
     },
     {
       "nameFull": [
@@ -358,8 +395,16 @@
         "Stárková",
         ""
       ],
-      "sex": 2,
+      "age": 58,
+      "work": "radní pro zdravotnictví Plzeňského kraje",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
       "reg": 7,
+      "nominee": 7,
+      "sex": 2,
       "links": [
         "https://www.facebook.com/milena.starkova.9"
       ],
@@ -372,8 +417,17 @@
         "Hofrajter",
         ""
       ],
+      "age": 27,
+      "work": "učitel na 2. stupni základní školy",
+      "home": "Blovice",
+      "homeMeta": {
+        "num": 557587,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
     },
     {
       "nameFull": [
@@ -382,8 +436,17 @@
         "Chalupný",
         ""
       ],
+      "age": 51,
+      "work": "2010-2018 starosta Městského obvodu Plzeň 4",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
     },
     {
       "nameFull": [
@@ -392,8 +455,17 @@
         "Látka",
         ""
       ],
+      "age": 66,
+      "work": "předseda finančního výboru Zastupitelstva PK",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
     },
     {
       "nameFull": [
@@ -402,8 +474,17 @@
         "Šimánek",
         "Ph.D."
       ],
+      "age": 50,
+      "work": "ředitel Fakultní nemocnice Plzeň",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
     },
     {
       "nameFull": [
@@ -412,8 +493,758 @@
         "Hanzlíček",
         ""
       ],
+      "age": 60,
+      "work": "starosta města Plasy",
+      "home": "Plasy",
+      "homeMeta": {
+        "num": 559351,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
       "sex": 1,
-      "reg": 7
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jan",
+        "Souček",
+        "MBA"
+      ],
+      "age": 49,
+      "work": "zaměstnanec samosprávy",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Věra",
+        "Šlajsová",
+        ""
+      ],
+      "age": 58,
+      "work": "učitelka",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Pavel",
+        "Herbst",
+        ""
+      ],
+      "age": 53,
+      "work": "učitel na střední škole",
+      "home": "Stříbro",
+      "homeMeta": {
+        "num": 561215,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Vlastimil",
+        "Lokajíček",
+        ""
+      ],
+      "age": 40,
+      "work": "zaměstnanec samosprávy",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Štefan",
+        "Vilcsek",
+        ""
+      ],
+      "age": 43,
+      "work": "odpovědný svářečský dozor",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Václav",
+        "Sladký",
+        ""
+      ],
+      "age": 50,
+      "work": "jednatel",
+      "home": "Tlumačov",
+      "homeMeta": {
+        "num": 554341,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jiří",
+        "Horník",
+        ""
+      ],
+      "age": 42,
+      "work": "ředitel Domova pro osoby se zdr. postiž. H. Bříza",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Šnebergr",
+        ""
+      ],
+      "age": 46,
+      "work": "asistent výroby",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Stanislav",
+        "Suda",
+        ""
+      ],
+      "age": 57,
+      "work": "lesní inženýr, jednatel společnosti",
+      "home": "Rokycany",
+      "homeMeta": {
+        "num": 559717,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Stanislav",
+        "Motejzík",
+        ""
+      ],
+      "age": 60,
+      "work": "technolog",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Božena",
+        "Vaňková",
+        ""
+      ],
+      "age": 52,
+      "work": "ředitelka městského kulturního střediska",
+      "home": "Tachov",
+      "homeMeta": {
+        "num": 560715,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Michal",
+        "Bogner",
+        ""
+      ],
+      "age": 36,
+      "work": "projektant",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Miroslav",
+        "Lávička",
+        ""
+      ],
+      "age": 43,
+      "work": "učitel na střední škole",
+      "home": "Horažďovice",
+      "homeMeta": {
+        "num": 556254,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Radek",
+        "Andrle",
+        ""
+      ],
+      "age": 54,
+      "work": "řidič zdravotnické záchranné služby",
+      "home": "Koloveč",
+      "homeMeta": {
+        "num": 553816,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Andrea",
+        "Skalníková",
+        ""
+      ],
+      "age": 43,
+      "work": "ekonomka",
+      "home": "Kralovice",
+      "homeMeta": {
+        "num": 559075,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Majer",
+        ""
+      ],
+      "age": 55,
+      "work": "předseda představenstva bytového družstva",
+      "home": "Přeštice",
+      "homeMeta": {
+        "num": 558249,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Tomáš",
+        "Prokop",
+        ""
+      ],
+      "age": 42,
+      "work": "technik - konstruktér",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr. Ing.",
+        "Robin",
+        "Šín",
+        "MBA"
+      ],
+      "age": 38,
+      "work": "lékař a vysokoškolský učitel",
+      "home": "Stříbro",
+      "homeMeta": {
+        "num": 561215,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Luboš",
+        "Čapek",
+        ""
+      ],
+      "age": 61,
+      "work": "referent veřejných zakázek",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Vítězslav",
+        "Brody",
+        ""
+      ],
+      "age": 47,
+      "work": "konstruktér",
+      "home": "Domažlice",
+      "homeMeta": {
+        "num": 553425,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dagmar",
+        "Stenzelová",
+        ""
+      ],
+      "age": 48,
+      "work": "státní zaměstnanec",
+      "home": "Těně",
+      "homeMeta": {
+        "num": 560189,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Milan",
+        "Janíček",
+        ""
+      ],
+      "age": 54,
+      "work": "projektant",
+      "home": "Kozolupy",
+      "homeMeta": {
+        "num": 559059,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "JUDr.",
+        "David",
+        "Sedláček",
+        ""
+      ],
+      "age": 39,
+      "work": "advokát",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Petra",
+        "Klímová",
+        ""
+      ],
+      "age": 59,
+      "work": "učitelka na základní škole",
+      "home": "Sušice",
+      "homeMeta": {
+        "num": 557153,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Dagmar",
+        "Terelmešová",
+        ""
+      ],
+      "age": 50,
+      "work": "ředitelka CPTS Zbůch",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jaroslav",
+        "Klíma",
+        ""
+      ],
+      "age": 66,
+      "work": "velitel požární stanice ve výslužbě",
+      "home": "Tachov",
+      "homeMeta": {
+        "num": 560715,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Kotas",
+        ""
+      ],
+      "age": 39,
+      "work": "náměstek ředitele společnosti",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zdeněk",
+        "Rýdl",
+        ""
+      ],
+      "age": 56,
+      "work": "bezpečnostní pracovník",
+      "home": "Holýšov",
+      "homeMeta": {
+        "num": 553654,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "Jiří",
+        "Horník",
+        "Ph.D."
+      ],
+      "age": 71,
+      "work": "OSVČ",
+      "home": "Vejprnice",
+      "homeMeta": {
+        "num": 559580,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Malý",
+        ""
+      ],
+      "age": 63,
+      "work": "stavební inženýr",
+      "home": "Dobřany",
+      "homeMeta": {
+        "num": 557676,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Soňa",
+        "Vokáčová",
+        "DiS."
+      ],
+      "age": 47,
+      "work": "zdravotní záchranářka",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Šefl",
+        ""
+      ],
+      "age": 43,
+      "work": "instruktor plavání",
+      "home": "Klatovy",
+      "homeMeta": {
+        "num": 555771,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Stanislav",
+        "Smolík",
+        ""
+      ],
+      "age": 44,
+      "work": "zaměstnanec Západočeského muzea v Plzni",
+      "home": "Stříbro",
+      "homeMeta": {
+        "num": 561215,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Kugler",
+        ""
+      ],
+      "age": 53,
+      "work": "strojvedoucí",
+      "home": "Břasy",
+      "homeMeta": {
+        "num": 559725,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Miroslav",
+        "Kesl",
+        ""
+      ],
+      "age": 55,
+      "work": "technik",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jan",
+        "Janda",
+        ""
+      ],
+      "age": 46,
+      "work": "firemní bankovní poradce",
+      "home": "Kdyně",
+      "homeMeta": {
+        "num": 553786,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Divíšek",
+        ""
+      ],
+      "age": 55,
+      "work": "OSVČ, elektromontér",
+      "home": "Město Touškov",
+      "homeMeta": {
+        "num": 559211,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lada",
+        "Nejedlá",
+        ""
+      ],
+      "age": 64,
+      "work": "důchodce",
+      "home": "Janovice nad Úhlavou",
+      "homeMeta": {
+        "num": 556394,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Antonín",
+        "Mařík",
+        ""
+      ],
+      "age": 73,
+      "work": "OSVČ, trenér ledního hokeje",
+      "home": "Plzeň",
+      "homeMeta": {
+        "num": 2,
+        "gps": []
+      },
+      "reg": 7,
+      "nominee": 7,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Česká strana sociálně demokratická",

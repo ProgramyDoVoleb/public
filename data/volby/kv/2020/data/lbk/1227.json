@@ -45,46 +45,80 @@
   "list": [
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Tomáš",
         "Rakouš",
         ""
       ],
-      "sex": 1,
+      "age": 54,
+      "work": "státní zaměstnanec",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
       "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/tomas.rakous.39"
       ]
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Zuzana",
         "Spudichová",
         ""
       ],
+      "age": 44,
+      "work": "spolupracující s OSVČ",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 2,
-      "reg": 1227
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Ing.",
         "Kamila",
         "Švejdová",
         ""
       ],
+      "age": 49,
+      "work": "ekonom divize",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 2,
-      "reg": 1227
+      "links": []
     },
     {
       "nameFull": [
-        "",
+        "Bc.",
         "Roman",
         "Jech",
         ""
       ],
-      "sex": 1,
+      "age": 53,
+      "work": "státní zaměstnanec",
+      "home": "Raspenava",
+      "homeMeta": {
+        "num": 564371,
+        "gps": []
+      },
       "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
       "links": [
         "https://www.facebook.com/Roman-Jech-101534291655625",
         "https://www.linkedin.com/in/roman-jech-27648aaa/"
@@ -97,8 +131,872 @@
         "Kuchař",
         ""
       ],
+      "age": 51,
+      "work": "elektrotechnik ČEZ",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
       "sex": 1,
-      "reg": 1227
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Štěrba",
+        ""
+      ],
+      "age": 64,
+      "work": "starosta Provodína",
+      "home": "Provodín",
+      "homeMeta": {
+        "num": 561983,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Radek",
+        "Čermák",
+        ""
+      ],
+      "age": 46,
+      "work": "generální manažer mezinárodní společnosti",
+      "home": "Rychnov u Jablonce nad Nisou",
+      "homeMeta": {
+        "num": 563790,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jakub",
+        "Reček",
+        "DiS."
+      ],
+      "age": 29,
+      "work": "zdravotnický záchranář",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Škubal",
+        ""
+      ],
+      "age": 38,
+      "work": "referent",
+      "home": "Mimoň",
+      "homeMeta": {
+        "num": 561835,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Sivok",
+        ""
+      ],
+      "age": 26,
+      "work": "pracovník v logistice",
+      "home": "Velké Hamry",
+      "homeMeta": {
+        "num": 563838,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "MUDr.",
+        "Michael",
+        "Vraný",
+        ""
+      ],
+      "age": 67,
+      "work": "primář chirurgického oddělení nemocnice",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Jakub",
+        "Beránek",
+        ""
+      ],
+      "age": 29,
+      "work": "advokát",
+      "home": "Provodín",
+      "homeMeta": {
+        "num": 561983,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jan",
+        "Mitlener",
+        ""
+      ],
+      "age": 48,
+      "work": "státní zaměstnanec",
+      "home": "Turnov",
+      "homeMeta": {
+        "num": 577626,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Bc.",
+        "Jan",
+        "Kopal",
+        ""
+      ],
+      "age": 42,
+      "work": "státní zaměstnanec, historik, novinář",
+      "home": "Maršovice",
+      "homeMeta": {
+        "num": 563714,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Jiří",
+        "Javůrek",
+        ""
+      ],
+      "age": 48,
+      "work": "pracovník řízení a kontroly obal. toku ŠKODA  AUTO",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Mázl",
+        ""
+      ],
+      "age": 29,
+      "work": "referent kvality",
+      "home": "Mimoň",
+      "homeMeta": {
+        "num": 561835,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Lenka",
+        "Kousalová",
+        ""
+      ],
+      "age": 43,
+      "work": "manažerka společnosti",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luděk",
+        "Jung",
+        "DiS."
+      ],
+      "age": 52,
+      "work": "státní zaměstnanec",
+      "home": "Chrastava",
+      "homeMeta": {
+        "num": 564117,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Pavel",
+        "Horák",
+        ""
+      ],
+      "age": 49,
+      "work": "IT specialista",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "David",
+        "Holec",
+        ""
+      ],
+      "age": 44,
+      "work": "OSVČ",
+      "home": "Albrechtice v Jizerských horách",
+      "homeMeta": {
+        "num": 563528,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "František",
+        "Petrík",
+        ""
+      ],
+      "age": 59,
+      "work": "obchodní referent",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "PhDr.",
+        "František",
+        "Dlouhý",
+        "MBA"
+      ],
+      "age": 56,
+      "work": "OSVČ",
+      "home": "Rychnov u Jablonce nad Nisou",
+      "homeMeta": {
+        "num": 563790,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Jiří",
+        "Holoubek",
+        ""
+      ],
+      "age": 35,
+      "work": "obchodní manažer",
+      "home": "Kamenický Šenov",
+      "homeMeta": {
+        "num": 561681,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Černý",
+        ""
+      ],
+      "age": 32,
+      "work": "OSVČ",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Milan",
+        "Rada",
+        ""
+      ],
+      "age": 67,
+      "work": "důchodce",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Ondřej",
+        "Reichl",
+        ""
+      ],
+      "age": 20,
+      "work": "student práv",
+      "home": "Horní Libchava",
+      "homeMeta": {
+        "num": 561592,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Masák",
+        ""
+      ],
+      "age": 57,
+      "work": "servisní technik",
+      "home": "Tanvald",
+      "homeMeta": {
+        "num": 563820,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Dominik",
+        "Jeřábek",
+        ""
+      ],
+      "age": 23,
+      "work": "elektrikář",
+      "home": "Frýdlant",
+      "homeMeta": {
+        "num": 564028,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Šťastný",
+        ""
+      ],
+      "age": 57,
+      "work": "referent majetkové správy",
+      "home": "Ralsko",
+      "homeMeta": {
+        "num": 562017,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Pavel",
+        "Aron",
+        ""
+      ],
+      "age": 65,
+      "work": "OSVČ",
+      "home": "Josefův Důl",
+      "homeMeta": {
+        "num": 563633,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Zdeňka",
+        "Meixnerová",
+        ""
+      ],
+      "age": 75,
+      "work": "středoškolská pedagožka v důchodu",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Luboš",
+        "Matějíček",
+        ""
+      ],
+      "age": 49,
+      "work": "OSVČ",
+      "home": "Česká Lípa",
+      "homeMeta": {
+        "num": 561380,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr.",
+        "Přemysl",
+        "Lankaš",
+        ""
+      ],
+      "age": 42,
+      "work": "pedagog",
+      "home": "Smržovka",
+      "homeMeta": {
+        "num": 563811,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "doc. Dr. Ing.",
+        "Ivan",
+        "Mašín",
+        ""
+      ],
+      "age": 58,
+      "work": "vědecký pracovník, pedagog, OSVČ",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Hradecký",
+        ""
+      ],
+      "age": 76,
+      "work": "OSVČ",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Bc.",
+        "Soňa",
+        "Tůmová",
+        ""
+      ],
+      "age": 51,
+      "work": "ředitelka MŠ",
+      "home": "Velké Hamry",
+      "homeMeta": {
+        "num": 563838,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Tomáš",
+        "Holub",
+        ""
+      ],
+      "age": 43,
+      "work": "obráběč kovů",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Josef",
+        "Ježek",
+        ""
+      ],
+      "age": 74,
+      "work": "stavební inženýr",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Hrunek",
+        ""
+      ],
+      "age": 52,
+      "work": "dělník",
+      "home": "Jiřetín pod Bukovou",
+      "homeMeta": {
+        "num": 546585,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Filip",
+        "Těhník",
+        ""
+      ],
+      "age": 43,
+      "work": "mistr skladu",
+      "home": "Frýdlant",
+      "homeMeta": {
+        "num": 564028,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Kryštof",
+        "Lubas",
+        ""
+      ],
+      "age": 20,
+      "work": "student",
+      "home": "Malá Skála",
+      "homeMeta": {
+        "num": 563706,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Karel",
+        "Klouček",
+        ""
+      ],
+      "age": 54,
+      "work": "OSVČ",
+      "home": "Hejnice",
+      "homeMeta": {
+        "num": 564044,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Ing.",
+        "Jiří",
+        "Bernat",
+        ""
+      ],
+      "age": 50,
+      "work": "OSVČ",
+      "home": "Hejnice",
+      "homeMeta": {
+        "num": 564044,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Sajdl",
+        ""
+      ],
+      "age": 30,
+      "work": "skladník VZV",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "Mgr. Bc.",
+        "Ludmila",
+        "Křivánková",
+        ""
+      ],
+      "age": 49,
+      "work": "vedoucí stravování",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Lenka",
+        "Sivoková",
+        ""
+      ],
+      "age": 60,
+      "work": "invalidní důchodce",
+      "home": "Velké Hamry",
+      "homeMeta": {
+        "num": 563838,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Martin",
+        "Křivánek",
+        ""
+      ],
+      "age": 53,
+      "work": "obchodní zástupce",
+      "home": "Jablonec nad Nisou",
+      "homeMeta": {
+        "num": 563510,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Antonín",
+        "Sivok",
+        ""
+      ],
+      "age": 61,
+      "work": "mechanik kol",
+      "home": "Janov nad Nisou",
+      "homeMeta": {
+        "num": 563595,
+        "gps": []
+      },
+      "reg": 99,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "",
+        "Zuzana",
+        "Spudichová",
+        ""
+      ],
+      "age": 24,
+      "work": "studentka",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 2,
+      "links": []
+    },
+    {
+      "nameFull": [
+        "BcA.",
+        "Jiří",
+        "Javůrek",
+        ""
+      ],
+      "age": 28,
+      "work": "směnový kontrolor",
+      "home": "Liberec",
+      "homeMeta": {
+        "num": 7,
+        "gps": []
+      },
+      "reg": 1227,
+      "nominee": 1227,
+      "sex": 1,
+      "links": []
     }
   ],
   "name": "Trikolóra hnutí občanů",
