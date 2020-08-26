@@ -7,11 +7,21 @@
   ],
   "reg": 81,
   "links": [
+    "https://mudrpetrsladek.cz/",
+    "https://www.facebook.com/MUDr.PetrSladek/",
     "https://www.ods.cz/region.zlinsky/volby2020/senatni/kandidati/35308-petr-sladek"
   ],
   "support": [
     53,
-    720
+    720,
+    {
+      "name": "KRUH",
+      "logo": "obecne/strany/loga/x-kruh.png"
+    },
+    {
+      "name": "ZVUK21",
+      "logo": "obecne/strany/loga/x-zvuk21.png"
+    }
   ],
   "work": "ředitel Uherskohradišťské nemocnice, otorhinolaryngolog",
   "member": 99,
@@ -26,5 +36,6 @@
   "age": 52,
   "home": "Uherské Hradiště",
   "homeID": 592005,
-  "sex": 1
+  "sex": 1,
+  "program": "https://mudrpetrsladek.cz/#priority"
 }

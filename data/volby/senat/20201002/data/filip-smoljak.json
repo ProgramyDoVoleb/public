@@ -6,7 +6,11 @@
     ""
   ],
   "reg": 24,
-  "links": [],
+  "links": [
+    "https://www.filipsmoljak.cz/",
+    "https://www.facebook.com/filip.smoljak",
+    "https://twitter.com/FilipSmoljak"
+  ],
   "support": [
     {
       "name": "Zdraví Sport Prosperita",
@@ -24,5 +28,6 @@
   "homeID": 1,
   "member": 99,
   "nominee": 785,
-  "sex": 1
+  "sex": 1,
+  "photo": "filip-smoljak.jpg"
 }
