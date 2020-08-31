@@ -6,7 +6,11 @@
     ""
   ],
   "reg": 9,
-  "links": [],
+  "links": [
+    "http://www.senatorproplzen.cz/",
+    "https://www.facebook.com/Jindrich.Sitta.STAN/",
+    "https://twitter.com/SittaJindrich"
+  ],
   "support": [
     166
   ],
@@ -23,5 +27,6 @@
   "homeID": 2,
   "member": 99,
   "nominee": 166,
-  "sex": 1
+  "sex": 1,
+  "program": "http://www.senatorproplzen.cz/"
 }
