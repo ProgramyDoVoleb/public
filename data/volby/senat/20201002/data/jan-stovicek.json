@@ -7,7 +7,12 @@
   ],
   "reg": 78,
   "member": 99,
-  "links": [],
+  "links": [
+    "http://www.stovicekdosenatu.cz/",
+    "https://www.facebook.com/stovicekdosenatu",
+    "https://twitter.com/StovicekJan",
+    "https://www.instagram.com/jan_stovicek/"
+  ],
   "support": [
     1190
   ],
@@ -21,5 +26,6 @@
   "home": "Praha 5",
   "homeID": 500143,
   "nominee": 1190,
-  "sex": 1
+  "sex": 1,
+  "program": "https://www.stovicekdosenatu.cz/"
 }
