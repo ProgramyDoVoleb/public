@@ -6,7 +6,10 @@
     ""
   ],
   "reg": 6,
-  "links": [],
+  "links": [
+    "http://ivotresl.cz/",
+    "https://www.facebook.com/IvoTresldoSenatu/"
+  ],
   "support": [
     166
   ],
@@ -24,5 +27,6 @@
   "homeID": 541656,
   "member": 166,
   "nominee": 166,
-  "sex": 1
+  "sex": 1,
+  "program": "http://ivotresl.cz/program/"
 }
