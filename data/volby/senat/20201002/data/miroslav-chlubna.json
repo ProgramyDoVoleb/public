@@ -6,7 +6,13 @@
     ""
   ],
   "reg": 75,
-  "links": [],
+  "links": [
+	  "volby@chlubnadosenatu.cz",
+	  "http://chlubnadosenatu.cz/",
+	  "https://www.facebook.com/chlubnadosenatu/",
+	  "https://twitter.com/chlubnadosenatu",
+	  "https://www.instagram.com/chlubnadosenatu/"
+  ],
   "support": [
     88
   ],
@@ -21,5 +27,6 @@
   "homeID": 599069,
   "member": 88,
   "nominee": 88,
-  "sex": 1
+  "sex": 1,
+  "program": "http://chlubnadosenatu.cz/sample-page/"
 }

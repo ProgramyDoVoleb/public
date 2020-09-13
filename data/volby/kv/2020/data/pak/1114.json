@@ -2,14 +2,31 @@
   "people": [
     {
       "name": "Tomáš Fadrný",
-      "links": [],
-      "reg": 1114
+      "about": "Volebním lídrem SPD v Pardubickém kraji a naším kandidátem na hejtmana do podzimních krajských voleb je devětačtyřicetiletý JUDr. Mgr. Tomáš Fadrný, který za naše hnutí kandiduje jako nestraník. Tomáš Fadrný více než polovinu svého profesního života působil na různých pozicích v rámci Policie České republiky, včetně služby u kriminální policie a útvaru pro odhalování organizovaného zločinu. Jeho posledním policejním působištěm byla funkce zástupce ředitele okresního ředitelství Policie Ćeské republiky ve Svitavách, a to v hodnosti podplukovníka. V téže době pracoval i jako člen Komise prevence kriminality ve Svitavách. Ochrana životů, zdraví a majetku občanů je jeho celoživotní prioritou."
+    },
+    {
+	    "name": "Jiří Kohoutek",
+	    "about": "Dvojkou na kandidátce je Jiří Kohoutek, který hájí program SPD. Je jedním ze zakládajících členů a dlouhodobým, opakovaně zvoleným předsedou Regionálního klubu hnutí Svoboda a přímá demokracie (SPD) Pardubického kraje. Hlavním okruhem jeho politického zájmu je především podpora tradičních hodnot naší společnosti, jejíž základ tvoří tradiční rodina, muž, žena a děti a celkové zlepšení sociálních podmínek pro pracující rodiny s dětmi. A také celková bezpečnost společnosti. Jednou z jeho priorit v sociální politice je podpořit obce a města v péči o seniory."
+    },
+    {
+	    "name": "Martin Kroužek",
+	    "about": "Trojkou na kandidátce je Martin Kroužek, který pracuje jako technik. Hlavním okruhem jeho zájmu je prosazování programové priority nulové tolerance nezákonné migrace a podpora prevence kriminality."
+    },
+    {
+	    "name": "Marek Kočí",
+	    "about": "Čtyřkou na kandidátce je Marek Kočí z Chrudimi, je majitelem firmy zabývající se elektromontáží a telekomunikační činností. Při svých dlouhodobých pobytech v islámských i různých zemích po celém světě, je okruhem jeho politického zájmu podpora slušného a pracujícího člověka a odmítání zvýhodňování nepřízpusobivých menšin. Jedním z jeho velkých cílů, je zamezení vlivu politických neziskovek ve školství."
+    },
+    {
+	    "name": "Jiří Langr",
+	    "about": "Pětkou na kandidátce je Jiří Langr, téměř 30 let pracuje jako živnostník. Při svých každodenních cestách po Pardubickém kraji by rád zlepšil dopravní obslužnost, zaměřil se na opravy komunikací II. a III. tříd a odvedení tranzitní dopravy z měst. Rád by se také zaměřil na kulturu a zachování kulturních tradic."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.416Z",
   "data": "pak/1114",
   "reg": 1114,
-  "program": {},
+  "program": {
+	  "source": "https://drive.google.com/file/d/1fqfrTJm8CXNCjjCZgHQoMjQOGnNmUCgO/view?usp=sharing"
+  },
   "links": [
     "https://www.facebook.com/SPDpardubicky"
   ],
@@ -34,7 +51,8 @@
       "reg": 99,
       "nominee": 1114,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "tomas-fadrny-1114.jpg"
     },
     {
       "nameFull": [
@@ -56,7 +74,10 @@
       "reg": 1114,
       "nominee": 1114,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/jiri.kohoutek.585"
+      ],
+      "photo": "jiri-kohoutek-1114.jpg"
     },
     {
       "nameFull": [
@@ -78,7 +99,8 @@
       "reg": 1114,
       "nominee": 1114,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "martin-krouzek-1114.jpg"
     },
     {
       "nameFull": [
@@ -103,7 +125,8 @@
       "links": [
         "https://www.facebook.com/marek.koci.98",
         "https://www.facebook.com/mara.koci.56"
-      ]
+      ],
+      "photo": "marek-koci-1114.jpg"
     },
     {
       "nameFull": [
@@ -125,7 +148,8 @@
       "reg": 1114,
       "nominee": 1114,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "jiri-langr-1114.jpg"
     },
     {
       "nameFull": [

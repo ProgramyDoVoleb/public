@@ -2,23 +2,28 @@
   "people": [
     {
       "name": "Ivana Bartošová",
-      "reg": 1,
-      "links": [
-        {
-          "url": "https://www.facebook.com/profile.php?id=100007295835833",
-          "label": "FB profil"
-        }
-      ]
+      "about": "Školství se věnuji celý život, a proto mohu kvalifikovaně řešit celé řady problémů a zkvalitňovat podmínky pro rozvoj materiálních a personálních podmínek škol v Plzeňském kraji. Jsem členkou celostátního výboru a celostátní konference, členkou komise pro školství a finančního výboru KDU-ČSL. Jsem zastupitelkou obvodu Plzeň 3.",
+      "quote": "I nadále se chci aktivně spolupodílet na rozvoji kvality školství v Plzeňském kraji – jde mi o to, aby v kraji byly moderní školy, které žákům nabízejí atraktivní cestu ke vzdělanosti. V oblasti cestovního ruchu chci ukazovat krásy Plzeňského kraje novým návštěvníkům. V neposlední řadě se budu zasazovat o efektivní chod městského obvodu Plzeň 3."
     },
     {
       "name": "Pavel Šrámek",
-      "links": [],
-      "reg": 1119
+      "about": "Kromě životního prostředí a zemědělství se věnuji také zahraniční politice a ekonomii. Ve sněmovně jsem působil jako místopředseda zahraničního výboru. Česká republika je malý stát uprostřed Evropy a její dějiny vždy závisely na mezinárodní politice. Rád bych se jí věnoval i na krajské úrovni i v oblasti vztahů s našimi partnerskými městy v zahraničí, s našimi sousedy v Bavorsku, Rakousku i jinde.",
+      "quote": "Chci, aby odbor životního prostředí a zemědělství byl plnohodnotnou součástí krajské samosprávy, a aby do této oblasti kraj investoval daleko více. Otázka vody, sucha, kůrovce, nedostatek organické hmoty v půdě, to jsou všechno věci, na kterých závisí a stále více bude záviset náš život a jejich důležitost bude stoupat. Chci tuto oblast na krajské úrovni pozvednout na úroveň nejvyšších priorit.  "
     },
     {
       "name": "Tomáš Rada",
-      "links": [],
-      "reg": 181
+      "about": "Věnuji se oblasti financí a nemohu a nechci se smířit s neúčelným vynakládáním finančních prostředků. Mimo to se věnuji sociální problematice, protože jsem zastáncem mezigenerační solidarity. A v neposlední řadě také kultuře. Rozvoj místní kultury přispívá k vytvoření lepšího prostředí pro život.",
+      "quote": "Chci dosáhnout zdravého financování kraje a zabránit jeho neúčelnému zadlužení. Budu usilovat o podporu rozvoje organizací zajišťující péči o seniory, zachování sítě nemocnic v kraji a zajištění dostupnosti lékařské péče pro všechny občany i v odlejších částech kraje."
+    },
+    {
+      "name": "Petr Náhlík",
+      "about": "Od roku 1990 se věnuji komunální politice v Plzni. Soustředil jsem se vždy na to, co bylonejvíce třeba – od bytové politiky, přes cyklostezky a životní prostředí až po dopravu. V poslední době se zaměřuji právě na veřejnou dopravu a zlepšení spolupráce státu, kraje a obcí v dopravní oblasti.",
+      "quote": "Budu usilovat o lepší dopravní obslužnost obcí. Chci začít koordinovat investice státu, kraje a obcí do silničních komunikací a koordinovat údržbu a rekonstrukci železničních tratí s výstavbou autobusových terminálů u železničních stanic."
+    },
+    {
+      "name": "Václav Bulín",
+      "about": "Celý svůj profesní život se věnuji zemědělství a nedokážu si představit, že bych dělal cokoliv jiného. Od roku 1993 jsem předsedou Zemědělského družstva vlastníků Štichovice. Do roku 2006 jsem také působil v obecním zastupitelstvu. Na krajské úrovni chci změnit celkový přístup k zemědělství, především vnímání právnických osob nás zemědělců širokou veřejností.",
+      "quote": "Chci dosáhnout toho, aby se Plzeňský kraj věnoval zemědělství podstatně víc než dosud a spravedlivě posuzoval všechny formy hospodaření. Veřejnosti je třeba nabídnout pravdivý obraz o přírodě, krajině a výrobě potravin."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.328Z",
@@ -33,7 +38,10 @@
   "hash": "kdu-csl--ads-a-nestranici---koalice-pro-plzensky-kraj",
   "short": "KDU+ADS+Nestr.",
   "no": 9,
-  "program": {},
+  "program": {
+	  "motto": "Víme, čím žijete",
+	  "source": "https://drive.google.com/file/d/1iQiQP-flMW42Lu4sNon-wVIMaiCAWOmy/view?usp=sharing"
+  },
   "links": [
     "https://koaliceproplzenskykraj.cz/",
     "https://www.facebook.com/koaliceppk"
@@ -61,7 +69,8 @@
       "sex": 2,
       "links": [
         "https://www.facebook.com/profile.php?id=100007295835833"
-      ]
+      ],
+      "photo": "ivana-bartosova-kplk.jpg"
     },
     {
       "nameFull": [
@@ -83,7 +92,8 @@
       "reg": 1119,
       "nominee": 1119,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "pavel-sramek-kplk.jpg"
     },
     {
       "nameFull": [
@@ -105,7 +115,8 @@
       "reg": 99,
       "nominee": 181,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "tomas-rada-kplk.jpg"
     },
     {
       "nameFull": [
@@ -127,7 +138,10 @@
       "reg": 1,
       "nominee": 1,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/petr.nahlik"
+      ],
+      "photo": "petr-nahlik-kplk.jpg"
     },
     {
       "nameFull": [
@@ -149,7 +163,8 @@
       "reg": 99,
       "nominee": 1119,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "vaclav-bulin-kplk.jpg"
     },
     {
       "nameFull": [

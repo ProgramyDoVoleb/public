@@ -56,8 +56,11 @@
   "hash": "obcanska-demokraticka-strana-s-podporou-top-09-a-nezavislych-starostu",
   "short": "ODS+TOP 09",
   "no": 74,
-  "program": {},
+  "program": {
+	  "source": "https://www.top09.cz/files/soubory/volebni-program-ods-a-top-09-pro-plzensky-kraj-2020_1945.pdf"
+  },
   "links": [
+	  "https://pravespojeni.cz/",
     "https://www.ods.cz/region.plzensky/volby2020/krajske",
     "https://www.facebook.com/regionplzensky",
     "https://www.top09.cz/regiony/plzensky-kraj",

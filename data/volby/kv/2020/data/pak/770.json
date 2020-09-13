@@ -2,7 +2,9 @@
   "lastUpdate": "2020-08-06T08:10:45.419Z",
   "data": "pak/770",
   "reg": 770,
-  "program": {},
+  "program": {
+	  "source": "https://vychodocesi.cz/krajske-volby-2020/pardubicky-kraj/volebni-program/"
+  },
   "people": [],
   "links": [
     "http://www.vychodocesi.cz/",
@@ -13,6 +15,26 @@
   "hash": "vychodocesi",
   "logo": "/obecne/strany/loga/770-vychodocesi.png",
   "color": "#212759",
+  "support2": [
+	{
+		"name": "27 statečných - Česká Třebová"
+	},  
+	{
+		"name": "Česká strana regionů"
+	},  
+	{
+		"name": "Mladí za Skuteč"
+	},  
+	{
+		"name": "Heřmani"
+	},  
+	{
+		"name": "Srdcem Třebováci"
+	}, 
+	{
+		"name": "Pardubáci"
+	}
+  ],
   "list": [
     {
       "nameFull": [
@@ -34,7 +56,8 @@
       "reg": 756,
       "nominee": 770,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "frantisek-brendl-770.jpg"
     },
     {
       "nameFull": [
@@ -56,7 +79,8 @@
       "reg": 770,
       "nominee": 770,
       "sex": 2,
-      "links": []
+      "links": [],
+      "photo": "martina-lacmanova-770.jpg"
     },
     {
       "nameFull": [
@@ -78,7 +102,8 @@
       "reg": 99,
       "nominee": 770,
       "sex": 2,
-      "links": []
+      "links": [],
+      "photo": "daniela-maixnerova-770.jpg"
     },
     {
       "nameFull": [
@@ -100,7 +125,8 @@
       "reg": 99,
       "nominee": 770,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "pavel-svoboda-770.jpg"
     },
     {
       "nameFull": [
@@ -122,7 +148,8 @@
       "reg": 99,
       "nominee": 770,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "jiri-lejhanec-770.jpg"
     },
     {
       "nameFull": [

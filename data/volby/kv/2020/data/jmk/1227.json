@@ -1,13 +1,23 @@
 {
   "people": [
     {
-      "name": "Pavel Nezval",
-      "reg": 1227,
-      "links": [
-        {
-          "url": "https://www.facebook.com/pavel.nezval.315"
-        }
-      ]
+      "name": "Pavel Nezval"
+    },
+    {
+	    "name": "Jaroslav Dittrich",
+	    "about": "Dobrý den, jsem Jaroslav Dittrich. Pracuji jako státní zaměstnanec v oboru železničních staveb. Železnice je má práce i moje velká záliba. Mezi mé další záliby patří historie, příroda a horská turistika. S velkými dopravními stavbami se setkávám dnes a denně již několik let. V zastupitelstvu se chci zaměřit na zlepšení dopravy v našem kraji. "
+    },
+    {
+	    "name": "Andrea Řičicová",
+	    "about": "Dobrý den, jsem Andrea Řičicová. Pracuji v Přístavišti U jezu Hodonín u řeky Moravy více jak 20 let. Řeka Morava a celá jižní Morava přináší spoustu dobrých zážitků. Vím, že práce v cestovním ruchu není jednoduchá, ale mě stále baví. Náš kraj je krásné místo a myslím, že si zaslouží daleko větší podporu."
+    },
+    {
+	    "name": "Richard Novák",
+	    "about": "Dobrý den, jmenuji se Richard Novák a jsem advokát. Zastávám zásadu, že před zákonem jsme si všichni rovni a že v naší zemi musí platit české zákony. Jsem ženatý otec tří dětí. Kromě rodiny je mou vášní příroda a myslivost. V zastupitelstvu se zaměřím na dořešení právních problémů dostavby dálnice do Vídně. Chci pomoci všude tam, kde je to třeba, aby se nám na jižní Moravě dobře žilo."
+    },
+    {
+	    "name": "Michal Klaška",
+	    "about": "Dobrý den, jsem Michal Klaška. Jsem místostarostou města Šlapanice. Předtím jsem byl učitelem a později ředitelem na zdejší základní škole. Mezi mé záliby patří především sport, turistika a fotografování. Školství se věnuji jak profesně, tak i nyní jako zástupce zřizovatele místních škol. V zastupitelstvu kraje chci prosazovat rozvoj středních škol včetně technických oborů."
     }
   ],
   "lastUpdate": "2020-08-06T08:10:45.446Z",
@@ -43,7 +53,8 @@
       "sex": 1,
       "links": [
         "https://www.facebook.com/pavel.nezval.315"
-      ]
+      ],
+      "photo": "pavel-nezval-1227.jpg"
     },
     {
       "nameFull": [
@@ -65,7 +76,10 @@
       "reg": 1227,
       "nominee": 1227,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/jaroslav.dittrich"
+      ],
+      "photo": "jaroslav-dittrich-1227.jpg"
     },
     {
       "nameFull": [
@@ -87,7 +101,8 @@
       "reg": 1227,
       "nominee": 1227,
       "sex": 2,
-      "links": []
+      "links": [],
+      "photo": "andrea-ricicova-1227.jpg"
     },
     {
       "nameFull": [
@@ -109,7 +124,8 @@
       "reg": 1227,
       "nominee": 1227,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "richard-novak-1227.jpg"
     },
     {
       "nameFull": [
@@ -131,7 +147,8 @@
       "reg": 1227,
       "nominee": 1227,
       "sex": 1,
-      "links": []
+      "links": [],
+      "photo": "michal-klaska-1227.jpg"
     },
     {
       "nameFull": [

@@ -40,8 +40,11 @@
   "hash": "spojenci-pro-stredocesky-kraj---top-09--hlas--zeleni",
   "short": "TOP+Hlas+Zelení",
   "no": 48,
-  "program": {},
+  "program": {
+	  "source": "https://stredocestispojenci.cz/program.pdf"
+  },
   "links": [
+	  "https://stredocestispojenci.cz/",
     "https://www.top09.cz/regiony/stredocesky-kraj/",
     "http://stredocesky.zeleni.cz/",
     "https://www.hnutihlas.cz/regiony/stredocesky-kraj/",
@@ -101,7 +104,9 @@
       "reg": 1220,
       "nominee": 1220,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://twitter.com/Telicka"
+      ]
     },
     {
       "nameFull": [
@@ -123,7 +128,9 @@
       "reg": 5,
       "nominee": 5,
       "sex": 2,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/Jana-Krumpholcov%C3%A1-436437856700706/"
+      ]
     },
     {
       "nameFull": [
@@ -981,7 +988,10 @@
       "reg": 5,
       "nominee": 5,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/Chmee2/",
+	      "https://twitter.com/Chmee2"
+      ]
     },
     {
       "nameFull": [
@@ -1267,7 +1277,9 @@
       "reg": 5,
       "nominee": 5,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/jan.stachura.92"
+      ]
     },
     {
       "nameFull": [
@@ -1399,7 +1411,9 @@
       "reg": 5,
       "nominee": 5,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/david.hynek1"
+      ]
     },
     {
       "nameFull": [
@@ -1599,7 +1613,10 @@
       "reg": 5,
       "nominee": 5,
       "sex": 1,
-      "links": []
+      "links": [
+	      "https://www.facebook.com/magdalena.zofkovadavis",
+	      "https://twitter.com/ZelenaDavis"
+      ]
     }
   ],
   "color": "#531a92"
