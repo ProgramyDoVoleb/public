@@ -1,0 +1,172 @@
+{
+  "times": {
+    "main": "30. září 2020 v době od 7:00 do 15:00 hod",
+    "extra": "7. října 2020 v době od 7:00 do 15:00 hod"
+  },
+  "regions": [
+    {
+	  "id": "pha",
+	  "name": "Praha (pouze senátní volby)",
+	  "places": [
+	     {"21 - Praha 5": {"about": "parkoviště na Letné", "gps": [0, 0]}},
+	     {"24 - Praha 9": {"about": "parkoviště za Poliklinikou Prosek", "gps": [0, 0]}},
+	     {"27 - Praha 1": {"about": "parkoviště na Letné", "gps": [0, 0]}}
+	  ],
+	  "source": "https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/lide_v_karantene_a_v_izolaci_mohou_volit.html"
+    },
+    {
+      "id": "stk",
+      "places": [
+        {"Benešov": {"about": "Táborská 57, areál bývalých Táborských kasáren, příjezd ul. Táborská", "gps": [0, 0]}},
+        {"Beroun": {"about": "Na Ostrově 83, parkoviště u zimního stadionu", "gps": [0, 0]}},
+        {"Kladno": {"about": "ul. Železničářů, parkoviště u zimního stadionu", "gps": [0, 0]}},
+        {"Kolín": {"about": "Sokolská 545, areál zámku, Kolín II, vjezd a výjezd jednosměrná ul.", "gps": [0, 0]}},
+        {"Kutná Hora": {"about": "ul. Čáslavská, parkoviště před plaveckým bazénem", "gps": [0, 0]}},
+        {"Mělník": {"about": "Karolíny Světlé 595, areál Centra prevence kriminality a dopravní výchovy", "gps": [0, 0]}},
+        {"Mladá Boleslav": {"about": "Regnerova 1306, u letiště, otočka autobusu, poblíž muzeum Metoděje Vlacha", "gps": [0, 0]}},
+        {"Nymburk": {"about": "ul. Velké Valy, parkoviště u Obecního domu, příjezd po silnici II. třídy č. 330", "gps": [0, 0]}},
+        {"Brandýs nad Labem – Stará Boleslav": {"about": "Kralupská 1710, v sídle hasičské zbrojnice", "gps": [0, 0]}},
+        {"Hostivice": {"about": "Husovo náměstí 59", "gps": [0, 0]}},
+        {"Příbram": {"about": "ul. Podbrdská, parkoviště u budov areálu II Oblastní nemocnice Příbram", "gps": [0, 0]}},
+        {"Rakovník": {"about": "nábř. T. G. Masaryka, příjezdová plocha před městským fotbalovým stadionem", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kr-stredocesky.cz/web/volby/volby-do-zastupitelstva-stredoceskeho-kraje"
+    },
+    {
+      "id": "jhč",
+      "places": [
+        {"České Budějovice": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod České Budějovice, Nemanická 2133/10. Hlasovací stanoviště se nachází na okraji parkoviště za administrativní budovou.", "gps": [0, 0]}},
+        {"Český Krumlov": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Český Krumlov, Domoradice 127. Hlasovací stanoviště se nachází v areálu, vlevo za bílou budovou vrátnice.", "gps": [0, 0]}},
+        {"Jindřichův Hradec": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Jindřichův Hradec, Jarošovská 1126. Hlasovací místo se nachází po pravé straně za vjezdem do areálu, u přístřešků pro parkování automobilů. Vjezd je z ulice U Dolního Skrýchova, v blízkosti křižovatky ulic Jarošovská a U Dolního Skrýchova.", "gps": [0, 0]}},
+        {"Písek": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Písek, Vrcovická 2148. Hlasovací místo se nachází po levé straně za vjezdem do areálu, u přístřešku pro parkování automobilů.", "gps": [0, 0]}},
+        {"Prachatice": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Prachatice, Žernovická 916. Hlasovací místo se nachází v areálu, u přístřešků pro parkování vozidel údržby. Žádáme Vás, abyste pro příjezd využili bránu blíže městu Prachatice, výjezd bude zajištěn bránou u čerpací stanice pohonných hmot (tj. provoz bude organizován jednosměrně).", "gps": [0, 0]}},
+        {"Strakonice": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Strakonice, U Řepické zastávky 1294. Hlasovací místo se nachází v areálu, cca 50 m naproti vjezdu.", "gps": [0, 0]}},
+        {"Tábor": {"about": "Areál Správy a údržby silnic Jihočeského kraje, závod Tábor, Vožická 2107. Hlasovací místo se nachází na parkovišti před administrativní budovou.", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kraj-jihocesky.cz/seznam-obci-pro-covid-volby"
+    },
+    {
+      "id": "plk",
+      "places": [
+        {"Plzeň-město": {"about": "Parkoviště, DEPO 2015, Presslova ul. Plzeň", "gps": [0, 0]}},
+        {"Plzeň-jih": {"about": "Správa a údržba silnic Plzeňského kraje, Nepomucká 1139, Přeštice", "gps": [0, 0]}},
+        {"Plzeň-sever": {"about": "Dětské dopravní hřiště, Školní ul. (vedle bowlingu), Třemošná", "gps": [0, 0]}},
+        {"Domažlice": {"about": "Správa a údržba silnic Plzeňského kraje, Sadová 635, Domažlice", "gps": [0, 0]}},
+        {"Klatovy": {"about": "Správa a údržba silnic Plzeňského kraje, Za Kasárny 324, Klatovy", "gps": [0, 0]}},
+        {"Rokycany": {"about": "Správa a údržba silnic Plzeňského kraje, Roháčova 773, Rokycany", "gps": [0, 0]}},
+        {"Tachov": {"about": "Správa a údržba silnic Plzeňského kraje, Soběslavova 1264, Stříbro", "gps": [0, 0]}}
+      ],
+      "source": "http://www.plzensky-kraj.cz/Framework/Document.ashx?ID=149647"
+    },
+    {
+      "id": "kvk",
+      "places": [
+        {"Cheb": {"about": "areál Nemocnice Cheb, K Nemocnici 1204/17, Cheb", "gps": [0, 0]}},
+        {"Sokolov": {"about": "areál Krajské správy a údržby silnic Karlovarského kraje, p.o., Chebská 282, Sokolov", "gps": [0, 0]}},
+        {"Karlovy Vary": {"about": "areál Krajského úřadu Karlovarského kraje, Závodní 353/88, 360 06, Karlovy Vary", "gps": [0, 0]}}
+      ],
+      "source": "http://www.kr-karlovarsky.cz/SiteAssets/Stranky/Default/Informace_o_umisteni_volebniho_stanoviste.pdf"
+    },
+    {
+      "id": "ulk",
+      "places": [
+        {"Děčín": {"about": "Parkoviště u Městské knihovny", "gps": [0, 0]}},
+        {"Chomutov": {"about": "Parkoviště u zimního stadionu", "gps": [0, 0]}},
+        {"Litoměřice": {"about": "Prostory Zahrady Čech", "gps": [0, 0]}},
+        {"Louny": {"about": "Komunikace na výstavišti v Lounech (Masarykovy sady)", "gps": [0, 0]}},
+        {"Most": {"about": "Parkoviště u Hořanské cesty", "gps": [0, 0]}},
+        {"Teplice": {"about": "Prostor u fotbalového stadionu FK Teplice, tzv. starých pokladen", "gps": [0, 0]}},
+        {"Ústí nad Labem": {"about": "Parkoviště u zimního a fotbalového stadionu", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kr-ustecky.cz/volebni-stanoviste-drive-in-v-usteckem-kraji/ds-100645/archiv=0&p1=204668"
+    },
+    {
+      "id": "lbk",
+      "places": [
+        {"Česká Lípa": {"about": "Česká Lípa, prostor v areálu v Poříční ul. 1918", "gps": [0, 0]}},
+        {"Liberec": {"about": "Liberec, parkoviště v Pastýřské ul. (za budovou Policie)", "gps": [0, 0]}},
+        {"Jablonec nad Nisou": {"about": "Jablonec nad Nisou, parkoviště u Městské haly, ul. U Přehrady 4747/20", "gps": [0, 0]}},
+        {"Semily": {"about": "Semily, parkoviště u Sportovního centra, ul. 3. května 327", "gps": [0, 0]}}
+      ],
+      "source": "https://spravni-odbor.kraj-lbc.cz/getFile/case:show/id:1082945/2020-09-14%2016:07:16.000000"
+    },
+    {
+      "id": "hkk",
+      "places": [
+        {"Hradec Králové": {"about": "dvůr Magistrátu města Hradec Králové, Československé armády 408/51, Hradec Králové", "gps": [0, 0]}},
+        {"Jičín": {"about": "budova bývalých kasáren, Československé armády 162, Jičín", "gps": [0, 0]}},
+        {"Náchod": {"about": "budova Celního úřadu, Kladská 272, Náchod", "gps": [0, 0]}},
+        {"Rychnov nad Kněžnou": {"about": "areál fotbalového stadionu, U Stadionu 1430, Rychnov nad Kněžnou", "gps": [0, 0]}},
+        {"Trutnov": {"about": "budova hasičské zbrojnice, Dlouhá 752, Trutnov – Horní Staré Město", "gps": [0, 0]}}
+      ],
+      "source": "http://www.kr-kralovehradecky.cz/scripts/detail.php?id=318451"
+    },
+    {
+      "id": "pak",
+      "places": [
+      	{"Pardubice": {"about": "parkoviště v areálu ENTERIA ARENY, Sukova třída 1735, Pardubice", "gps": [0, 0]}},
+      	{"Chrudim": {"about": "parkoviště v areálu civilního letiště Chrudim, Sečská 25, Chrudim", "gps": [0, 0]}},
+      	{"Svitavy": {"about": "parkoviště u sportovního stadionu, ul. U Stadionu, Svitavy", "gps": [0, 0]}},
+      	{"Ústí nad Orlicí": {"about": "parkoviště Aquaparku - letního koupaliště, ul. V Lukách, Ústí nad Orlicí", "gps": [0, 0]}}
+      ],
+      "source": "https://www.pardubickykraj.cz/viewDocument.aspx?document=58631"
+    },
+    {
+      "id": "vys",
+      "places": [
+        {"Havlíčkův Brod": {"about": "parkovací plocha u koupaliště na ulici Chotěbořská v Havlíčkově Brodě", "gps": [0, 0]}},
+        {"Jihlava": {"about": "P+R parkoviště v ulici Žižkova v Jihlavě", "gps": [0, 0]}},
+        {"Pelhřimov": {"about": "parkovací plocha u zimního stadionu v Pelhřimově (příjezd z ulice Křemešnická)", "gps": [0, 0]}},
+        {"Třebíč": {"about": "parkoviště u tělocvičny Obchodní akademie Dr. Albína Bráfa na ulici Otmarova v Třebíči", "gps": [0, 0]}},
+        {"Ždár nad Sázavou": {"about": "rychlobruslařský ovál na ulici Jungmannova ve Ždáru nad Sázavou", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kr-vysocina.cz/krajske-volby-krajsky-urad-pripravuje-hlasovani-z-auta/d-4103082/p1=1013"
+    },
+    {
+      "id": "jhm",
+      "places": [
+        {"Brno-město": {"about": "Lokalita před hlavním vstupem do areálu Brněnského výstaviště, Výstaviště 405/1, 603 00 Brno", "gps": [0, 0]}},
+        {"Brno-venkov": {"about": "Lokalita před hlavním vstupem do areálu Brněnského výstaviště, Výstaviště 405/1, 603 00 Brno", "gps": [0, 0]}},
+        {"Blansko": {"about": "Blansko, parkoviště na Sportovním ostrově Ludvíka Daňka na konci ulice Mlýnská, za mostem vpravo, směrem k basebalovému hřišti.", "gps": [0, 0]}},
+        {"Břeclav": {"about": "Parkoviště před Zimním stadionem Břeclav č.p. 2881", "gps": [0, 0]}},
+        {"Hodonín": {"about": "Parkoviště u městského hřbitova, ul. Purkyňova, Hodonín", "gps": [0, 0]}},
+        {"Vyškov": {"about": "Vyškov, parkoviště nám. Čsl. armády u pivovaru (vedle Rotundy), vjezd a výjezd z ulice Československé armády proti bráně pivovaru.", "gps": [0, 0]}},
+        {"Znojmo": {"about": "Znojmo, parkoviště u areálu Policie ČR, příjezd z ul. Pražská (u objektu Zdravotnické záchranné služby, Pražská 3872/59a, Znojmo)", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kr-jihomoravsky.cz/Default.aspx?PubID=422950&TypeID=7"
+    },
+    {
+      "id": "olk",
+      "places": [
+        {"Jeseník": {"about": "Jeseník, Parkoviště za Podjezdem (50.2203464N, 17.1893869E - parc.číslo 1313/149)", "gps": [0, 0]}},
+        {"Olomouc": {"about": "Olomouc, Lipenská 753/120 (SSOK)", "gps": [0, 0]}},
+        {"Prostějov": {"about": "Prostějov, místní část Vrahovice, ul. Mikoláše Alše, parkoviště u koupaliště", "gps": [0, 0]}},
+        {"Přerov": {"about": "parkoviště před letištěm Bochoř (příjezd od Bochoře směr Včelín)", "gps": [0, 0]}},
+        {"Šumperk": {"about": "Vikýřovice, Ztracená 684 (SSOK)", "gps": [0, 0]}}
+      ],
+      "source": "https://www.olkraj.cz/informace-pro-volice-v-karantene-izolaci-z-duvodu-onemocneni-covid-19-aktuality-10013.html"
+    },
+    {
+      "id": "zlk",
+      "places": [
+        {"Kroměříž": {"about": "Kroměříž, Hanácké náměstí, příjezd z ulice Velehradská", "gps": [0, 0]}},
+        {"Uherské Hradiště": {"about": "Uherské Hradiště, parkoviště ČD-Sever, ul. Na Stavidle", "gps": [0, 0]}},
+        {"Vsetín": {"about": "Vsetín, parkoviště na ul. U Bečvy, za hotelem Sport", "gps": [0, 0]}},
+        {"Zlín": {"about": "Zlín, parkoviště (větší) – východní část areálu Krajské nemocnice Tomáše Bati, a.s., Peroutkovo nábřeží, za budovou Zdravotnické záchranné služby Zlínského kraje (u heliportu)", "gps": [0, 0]}}
+      ],
+      "source": "https://www.kr-zlinsky.cz/docs/clanky/dokumenty/14930/zlinsky-kraj-seznam-volebnich-stanovist.pdf"
+    },
+    {
+      "id": "msk",
+      "places": [
+        {"Bruntál": {"about": "areál Sdruženého zdravotnického zařízení Krnov, p.o, I. P. Pavlova 552/9, Pod Bezručovým vrchem, Krnov", "gps": [0, 0]}},
+        {"Frýdek-Místek": {"about": "areál Nemocnice ve Frýdku-Místku, p.o., El. Krásnohorské 321, Frýdek, Frýdek-Místek", "gps": [0, 0]}},
+        {"Karviná": {"about": "areál Nemocnice s poliklinikou Karviná-Ráj, p.o., Vydmuchov 399/5, Karviná-Ráj", "gps": [0, 0]}},
+        {"Nový Jičín": {"about": "vjezd do areálu bývalého Telecomu, Hoblíkova 592/3, Nový Jičín", "gps": [0, 0]}},
+        {"Opava": {"about": "areál Slezské nemocnice v Opavě, p.o., Olomoucká 470/86, Předměstí, Opava", "gps": [0, 0]}},
+        {"Ostrava-Město": {"about": "parkoviště naproti Hlavního nádraží v Ostravě-Přívoze, Wattova 797/17, Ostrava", "gps": [0, 0]}}
+      ],
+      "source": "https://www.msk.cz/cz/vnitro/volby-2020---zrizeni-volebnich-stanovist--150982/"
+    }
+  ]
+}

@@ -165,7 +165,7 @@ list.forEach((d, i) => {
 */
 
 // https://volby.cz/pls/kv2018/kv12?xjazyk=CZ&xid=10
-scrape('kv2018/kv12?xjazyk=CZ&xid=11', 'kv2018/11-prehled', true, 'kv2018', 11);
+scrape('kv2018/kv12?xjazyk=CZ&xid=12', 'kv2018/12-prehled', true, 'kv2018', 11);
 
 setTimeout(() => {
 
