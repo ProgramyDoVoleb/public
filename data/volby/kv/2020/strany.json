@@ -655,11 +655,22 @@
         "global": [],
         "regional": []
       },
-      "logo": "/obecne/strany/loga/1179-hnuti-bos.png",
-      "color": "#ce0706",
+      "color": "#aaa",
       "active": [
         2
       ]
+    },
+    {
+      "reg": 1179,
+      "name": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA",
+      "hash": "bos",
+      "short": "BOS",
+      "links": {
+        "global": [],
+        "regional": []
+      },
+      "logo": "/obecne/strany/loga/1179-hnuti-bos.png",
+      "color": "#ce0706"
     },
     {
       "reg": 119,
@@ -730,16 +741,20 @@
       ]
     },
     {
-      "reg": 1217,
-      "name": "Moravská a Slezská pirátská strana",
-      "hash": "ms-pirati",
-      "short": "MS Piráti",
-      "links": {
-        "global": [],
-        "regional": []
-      },
-      "color": "#be44a6"
-    },
+	  "reg": 1217,
+	  "name": "Moravská a Slezská pirátská strana",
+	  "hash": "ms-pirati",
+	  "short": "MS Piráti",
+	  "no": 14,
+	  "links": {
+	    "global": [],
+	    "regional": []
+	  },
+	  "color": "#aaa",
+	  "active": [
+	    12
+	  ]
+	},
     {
       "reg": 1220,
       "name": "HLAS",
@@ -3040,15 +3055,27 @@
     },
     {
       "reg": 747,
-      "name": "ZaRegion",
+      "name": "Za Region",
       "hash": "zaregion",
       "short": "ZaRegion",
       "no": 75,
+      "color": "#3ab867",
+      "logo": "obecne/strany/loga/x-za-region.png",
       "links": {
-        "global": [],
-        "regional": []
+        "global": [
+          "http://www.zaregion.info/",
+          "https://www.facebook.com/zaregion/"
+        ],
+        "regional": [
+          {
+            "region": 4,
+            "links": [
+              "http://www.zaregion.info/",
+              "https://www.facebook.com/zaregion/"
+            ]
+          }
+        ]
       },
-      "color": "#aaa",
       "active": [
         4
       ]

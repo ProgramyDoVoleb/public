@@ -1,7 +1,7 @@
 var fs = require('fs'),
     util = require('util');
 
-var electionList = [2000, 2004, 2008, 2012, 2016];
+var electionList = [2020];
 var electionPath = '../data/volby/kv/';
 var electionKey = 'kraje';
 
