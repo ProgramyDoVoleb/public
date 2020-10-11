@@ -77,7 +77,7 @@ list.forEach((dir, i) => {
           var winner = td[0].children[0].data.split('*').length > 1;
           var second = td[0].children[0].data.split('+').length > 1;
 
-          var person = candidates.list.find(p => p.reg === id && p.id === candID);
+          var person = candidates.list.find(p => p.reg === id && (p.no ? p.no : p.id) === candID);
 
           if (person && ((index > 2 && candID != 1) || (index === 2 && candID === 1))) {
             if (winner) {
@@ -126,7 +126,7 @@ list.forEach((dir, i) => {
       obj.areas.push(data);
     });
 
-    fs.writeFile(targetDIR + dir + '/vysledky.json', JSON.stringify(obj), () => {});
+    fs.writeFile(targetDIR + dir + '/vysledky.json', JSON.stringify(obj, null, 2), () => {});
 
     console.log(dir, 'done');
   }, 100 * i);

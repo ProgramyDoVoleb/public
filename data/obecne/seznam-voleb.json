@@ -74,6 +74,34 @@
 			"extra":true,
 			"list":[
 				{
+					"id":20201002,
+					"label": 2020,
+					"date":[
+						20201002,
+						20201009
+					],
+					"type":"regular",
+					"path":"volby/senat/20201002",
+					"csu":{
+						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20201002",
+						"open-data":"https://volby.cz/opendata/se2020/se2020_opendata.htm"
+					},
+					"files":[
+						{
+							"type":"all-results",
+							"path":"/vysledky.json"
+						},
+						{
+							"type":"candidates",
+							"path":"/kandidati.json"
+						}
+					],
+					"timestamps":[
+						15544656,
+						15550704
+					]
+				},
+				{
 					"id":20200605,
 					"label":"2020/VI",
 					"date":[
@@ -81,7 +109,7 @@
 						20200612
 					],
 					"type":"extra",
-					"reason": "rezignace Zuzany Baudyšové",
+					"reason": "úmrtí senátora Jaroslava Kubery",
 					"path":"volby/senat/20200605",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20200605",

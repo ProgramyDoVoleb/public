@@ -1,0 +1,5229 @@
+{
+  "created": 1602366372398,
+  "date": 20201002,
+  "regular": true,
+  "areas": [
+    {
+      "id": 12,
+      "name": "Strakonice",
+      "winner": {
+        "name": [
+          "MUDr. Bc.",
+          "Tomáš",
+          "Fiala",
+          "MBA"
+        ],
+        "reg": 12,
+        "links": [
+          "fiala@tomasfiala.cz",
+          "http://tomasfiala.cz/",
+          "https://www.ods.cz/region.jihocesky/volby2020/senatni/kandidati/35224-tomas-fiala",
+          "https://www.facebook.com/tomasfialaSenat/",
+          "https://www.instagram.com/tomas_fiala_st/"
+        ],
+        "support": [
+          53
+        ],
+        "member": 99,
+        "color": "#194392",
+        "photo": "tomas-fiala.jpg",
+        "work": "ředitel Nemocnice Strakonice, lékař",
+        "no": 8,
+        "party": {
+          "reg": 53,
+          "name": "Občanská demokratická strana"
+        },
+        "age": 63,
+        "home": "Strakonice",
+        "homeID": 550787,
+        "nominee": 53,
+        "sex": 1,
+        "program": "http://tomasfiala.cz/index.php/program",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 10538,
+            "pct": 27.84
+          },
+          "round2": {
+            "votes": 8238,
+            "pct": 50.13
+          }
+        }
+      },
+      "round1": {
+        "voters": 110072,
+        "votes": 37844,
+        "attended": 39010,
+        "pct": 35.44,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Marek",
+              "Anděl",
+              ""
+            ],
+            "votes": 1898,
+            "pct": 5.01,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Pavel",
+              "Štětina",
+              ""
+            ],
+            "votes": 1661,
+            "pct": 4.38,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Petr",
+              "Kalina",
+              ""
+            ],
+            "votes": 5357,
+            "pct": 14.15,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Michal",
+              "Horák",
+              ""
+            ],
+            "votes": 3410,
+            "pct": 9.01,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Ivana",
+              "Zelenková",
+              ""
+            ],
+            "votes": 1664,
+            "pct": 4.39,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Mgr.",
+              "Petra",
+              "Kurschová",
+              ""
+            ],
+            "votes": 1314,
+            "pct": 3.47,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Karel",
+              "Kratochvíle",
+              ""
+            ],
+            "votes": 3395,
+            "pct": 8.97,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "MUDr. Bc.",
+              "Tomáš",
+              "Fiala",
+              "MBA"
+            ],
+            "votes": 10538,
+            "pct": 27.84,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "Ing.",
+              "Miroslav",
+              "Ušatý",
+              ""
+            ],
+            "votes": 1432,
+            "pct": 3.78,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "Miroslav",
+              "Šobr",
+              ""
+            ],
+            "votes": 1494,
+            "pct": 3.94,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "Ing.",
+              "Luboš",
+              "Peterka",
+              ""
+            ],
+            "votes": 5681,
+            "pct": 15.01,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 110074,
+        "votes": 16431,
+        "attended": 16508,
+        "pct": 15,
+        "candidates": [
+          {
+            "id": 8,
+            "name": [
+              "MUDr. Bc.",
+              "Tomáš",
+              "Fiala",
+              "MBA"
+            ],
+            "votes": 8238,
+            "pct": 50.13,
+            "progress": true
+          },
+          {
+            "id": 11,
+            "name": [
+              "Ing.",
+              "Luboš",
+              "Peterka",
+              ""
+            ],
+            "votes": 8193,
+            "pct": 49.86,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "name": "Pelhřimov",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Jaroslav",
+          "Chalupský",
+          ""
+        ],
+        "reg": 15,
+        "links": [
+          "jarda.chalupsky@chalupsky.cz",
+          "https://www.chalupsky.cz/",
+          "https://www.hradecsrdcemarozumem.cz/senat/",
+          "https://www.facebook.com/chalupsky.cz/",
+          "https://www.facebook.com/jarda.chalupsky"
+        ],
+        "member": 99,
+        "color": "#159582",
+        "support": [
+          714
+        ],
+        "photo": "jaroslav-chalupsky.png",
+        "no": 4,
+        "party": {
+          "reg": 714,
+          "name": "Svobodní"
+        },
+        "age": 46,
+        "work": "manažer kvality, radní města, ekonom a podnikatel",
+        "home": "Jindřichův Hradec",
+        "homeID": 545881,
+        "nominee": 714,
+        "sex": 1,
+        "program": "https://www.hradecsrdcemarozumem.cz/wp-content/uploads/2020/09/abc.jpg",
+        "stats": {
+          "round1": {
+            "votes": 8731,
+            "pct": 23.54
+          },
+          "round2": {
+            "votes": 8433,
+            "pct": 52.43
+          }
+        }
+      },
+      "round1": {
+        "voters": 108470,
+        "votes": 37088,
+        "attended": 39232,
+        "pct": 36.17,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Milan",
+              "Štěch",
+              ""
+            ],
+            "votes": 11581,
+            "pct": 31.22,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "Ing.",
+              "Stanislav",
+              "Mrvka",
+              ""
+            ],
+            "votes": 7056,
+            "pct": 19.02,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Vítězslav",
+              "Jandák",
+              ""
+            ],
+            "votes": 4486,
+            "pct": 12.09,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Jaroslav",
+              "Chalupský",
+              ""
+            ],
+            "votes": 8731,
+            "pct": 23.54,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "doc. PhDr. Mgr.",
+              "Lubomír",
+              "Pána",
+              "Ph.D., dr. h. c."
+            ],
+            "votes": 2561,
+            "pct": 6.9,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Pavel",
+              "Hodáč",
+              ""
+            ],
+            "votes": 2673,
+            "pct": 7.2,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 108392,
+        "votes": 16082,
+        "attended": 16161,
+        "pct": 14.91,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Milan",
+              "Štěch",
+              ""
+            ],
+            "votes": 7649,
+            "pct": 47.56,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Jaroslav",
+              "Chalupský",
+              ""
+            ],
+            "votes": 8433,
+            "pct": 52.43,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "name": "Příbram",
+      "winner": {
+        "name": [
+          "",
+          "Petr",
+          "Štěpánek",
+          ""
+        ],
+        "reg": 18,
+        "links": [
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/stepanek-petr",
+          "https://www.facebook.com/pstepanekSTAN",
+          "https://cs.wikipedia.org/wiki/Petr_%C5%A0t%C4%9Bp%C3%A1nek_(politik_STAN)"
+        ],
+        "support": [
+          166
+        ],
+        "color": "#1ebdb7",
+        "photo": "petr-stepanek.jpg",
+        "work": "zastupitel Středočeského kraje, starosta obce Petrovice",
+        "no": 6,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 56,
+        "home": "Petrovice",
+        "homeID": 541044,
+        "member": 166,
+        "nominee": 166,
+        "sex": 1,
+        "program": "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/stepanek-petr",
+        "motto": "Rozum do hrsti.",
+        "stats": {
+          "round1": {
+            "votes": 9646,
+            "pct": 21.98
+          },
+          "round2": {
+            "votes": 11372,
+            "pct": 70.18
+          }
+        }
+      },
+      "round1": {
+        "voters": 118811,
+        "votes": 43885,
+        "attended": 45895,
+        "pct": 38.63,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "MUDr.",
+              "Stanislav",
+              "Holobrada",
+              ""
+            ],
+            "votes": 7083,
+            "pct": 16.13,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "PhDr.",
+              "Jiřina",
+              "Rosáková",
+              " "
+            ],
+            "votes": 1999,
+            "pct": 4.55,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Simona",
+              "Luftová",
+              ""
+            ],
+            "votes": 6763,
+            "pct": 15.41,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr.",
+              "Jindřich",
+              "Havelka",
+              "DiS."
+            ],
+            "votes": 3337,
+            "pct": 7.6,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Bc.",
+              "Jiří",
+              "Novotný",
+              ""
+            ],
+            "votes": 2770,
+            "pct": 6.31,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Petr",
+              "Štěpánek",
+              ""
+            ],
+            "votes": 9646,
+            "pct": 21.98,
+            "progress": true
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Václav",
+              "Švenda",
+              ""
+            ],
+            "votes": 5178,
+            "pct": 11.79,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Burian",
+              ""
+            ],
+            "votes": 7109,
+            "pct": 16.19,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 118927,
+        "votes": 16203,
+        "attended": 16286,
+        "pct": 13.69,
+        "candidates": [
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Petr",
+              "Štěpánek",
+              ""
+            ],
+            "votes": 11372,
+            "pct": 70.18,
+            "progress": true
+          },
+          {
+            "id": 8,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Burian",
+              ""
+            ],
+            "votes": 4831,
+            "pct": 29.81,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "Praha 5",
+      "winner": {
+        "name": [
+          "Mgr.",
+          "Václav",
+          "Láska",
+          ""
+        ],
+        "reg": 21,
+        "links": [
+          "vaclav.laska@vaclavlaska.cz",
+          "http://www.vaclavlaska.cz/",
+          "https://www.facebook.com/pravoslaskou",
+          "https://twitter.com/VaclavLaska",
+          "https://www.instagram.com/vaclavlaska/",
+          "https://cs.wikipedia.org/wiki/V%C3%A1clav_L%C3%A1ska_(advok%C3%A1t)"
+        ],
+        "support": [
+          1187,
+          720,
+          5,
+          1,
+          795
+        ],
+        "member": 1187,
+        "nominee": 1187,
+        "color": "#460a0d",
+        "photo": "vaclav-laska.jpg",
+        "work": "úřadující senátor, předseda hnutí Senátor 21, právník a bývalý předseda správní rady Transparency International",
+        "no": 7,
+        "party": {
+          "reg": 1187,
+          "name": "SENÁTOR 21"
+        },
+        "age": 46,
+        "home": "Praha",
+        "homeID": 1,
+        "sex": 1,
+        "program": "http://www.vaclavlaska.cz/priority",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 15047,
+            "pct": 37.44
+          },
+          "round2": {
+            "votes": 14333,
+            "pct": 54.37
+          }
+        }
+      },
+      "round1": {
+        "voters": 103885,
+        "votes": 40188,
+        "attended": 40395,
+        "pct": 38.88,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "JUDr. Ing.",
+              "Miloslav",
+              "Ludvík",
+              "MBA"
+            ],
+            "votes": 5425,
+            "pct": 13.49,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "Mgr.",
+              "Michael",
+              "Žantovský",
+              ""
+            ],
+            "votes": 15929,
+            "pct": 39.63,
+            "progress": true
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Jan Michael",
+              "Kubín",
+              ""
+            ],
+            "votes": 365,
+            "pct": 0.9,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Milan",
+              "Wünsche",
+              ""
+            ],
+            "votes": 1328,
+            "pct": 3.3,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "prof. Ing.",
+              "Mansoor",
+              "Maitah",
+              "Ph.D. et Ph.D."
+            ],
+            "votes": 1408,
+            "pct": 3.5,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Roman",
+              "Blaško",
+              ""
+            ],
+            "votes": 686,
+            "pct": 1.7,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Václav",
+              "Láska",
+              ""
+            ],
+            "votes": 15047,
+            "pct": 37.44,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 103867,
+        "votes": 26361,
+        "attended": 26463,
+        "pct": 25.48,
+        "candidates": [
+          {
+            "id": 2,
+            "name": [
+              "Mgr.",
+              "Michael",
+              "Žantovský",
+              ""
+            ],
+            "votes": 12028,
+            "pct": 45.62,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Václav",
+              "Láska",
+              ""
+            ],
+            "votes": 14333,
+            "pct": 54.37,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "name": "Praha 9",
+      "winner": {
+        "name": [
+          "",
+          "David",
+          "Smoljak",
+          ""
+        ],
+        "reg": 24,
+        "links": [
+          "http://www.davidsmoljak.cz",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/www.davidsmoljak.cz",
+          "https://www.facebook.com/smoljakdavid",
+          "https://twitter.com/DavidSmoljak",
+          "https://cs.wikipedia.org/wiki/David_Smoljak"
+        ],
+        "support": [
+          166,
+          721,
+          720,
+          1219,
+          5
+        ],
+        "work": "úřadující senátor, radní městské části Praha-Vinoř, scénárista a publicista",
+        "member": 166,
+        "nominee": 166,
+        "color": "#1ebdb7",
+        "photo": "david-smoljak.jpg",
+        "no": 10,
+        "party": {
+          "reg": 1472,
+          "name": "David Smoljak, koalice STAN + Piráti + TOP 09"
+        },
+        "age": 61,
+        "home": "Praha-Vinoř",
+        "homeID": 539007,
+        "sex": 1,
+        "program": "https://www.davidsmoljak.cz/program",
+        "motto": "Politika je často dost tvrdá a nevybíravá, plná nelehkých kompromisů, ale ze své podstaty není špinavá. Když se na ni ale všichni vykašleme a přenecháme ji napospas těm, co ji chtějí dělat jenom proto, aby nad námi měli moc, tak taková zaručeně bude!",
+        "stats": {
+          "round1": {
+            "votes": 14893,
+            "pct": 42.87
+          },
+          "round2": {
+            "votes": 11136,
+            "pct": 54.85
+          }
+        }
+      },
+      "round1": {
+        "voters": 104334,
+        "votes": 34737,
+        "attended": 34910,
+        "pct": 33.46,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Bc.",
+              "Filip",
+              "Smoljak",
+              ""
+            ],
+            "votes": 1249,
+            "pct": 3.59,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Vítězslav",
+              "Novák",
+              ""
+            ],
+            "votes": 1526,
+            "pct": 4.39,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "plk. gšt. v záloze PhDr.",
+              "Eduard",
+              "Stehlík",
+              "Ph.D., MBA"
+            ],
+            "votes": 10489,
+            "pct": 30.19,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Lucie Frederika",
+              "Groene Odkolek",
+              ""
+            ],
+            "votes": 508,
+            "pct": 1.46,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Ladislav",
+              "Pavlíček",
+              ""
+            ],
+            "votes": 150,
+            "pct": 0.43,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Pavel",
+              "Franěk",
+              ""
+            ],
+            "votes": 843,
+            "pct": 2.42,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "PhDr.",
+              "David",
+              "Pavlát",
+              "Ph.D."
+            ],
+            "votes": 1684,
+            "pct": 4.84,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "RNDr. PhDr.",
+              "Zdeněk",
+              "Hostomský",
+              "CSc."
+            ],
+            "votes": 1091,
+            "pct": 3.14,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "PhDr.",
+              "Vladimíra",
+              "Vítová",
+              "Ph.D."
+            ],
+            "votes": 257,
+            "pct": 0.73,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "David",
+              "Smoljak",
+              ""
+            ],
+            "votes": 14893,
+            "pct": 42.87,
+            "progress": true
+          },
+          {
+            "id": 11,
+            "name": [
+              "Mgr.",
+              "Václav",
+              "Krása",
+              ""
+            ],
+            "votes": 2047,
+            "pct": 5.89,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 104316,
+        "votes": 20300,
+        "attended": 20388,
+        "pct": 19.54,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "plk. gšt. v záloze PhDr.",
+              "Eduard",
+              "Stehlík",
+              "Ph.D., MBA"
+            ],
+            "votes": 9164,
+            "pct": 45.14,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "David",
+              "Smoljak",
+              ""
+            ],
+            "votes": 11136,
+            "pct": 54.85,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "Praha 1",
+      "winner": {
+        "name": [
+          "",
+          "Miroslava",
+          "Němcová",
+          ""
+        ],
+        "reg": 27,
+        "links": [
+          "nemcovam@psp.cz",
+          "https://www.miroslavanemcova.cz/",
+          "https://www.facebook.com/miroslava.nemcova/",
+          "https://twitter.com/Nemcova_Mirka",
+          "https://www.top09.cz/volby/2020-senat/miroslava-nemcova-27430.html",
+          "https://cs.wikipedia.org/wiki/Miroslava_N%C4%9Bmcov%C3%A1"
+        ],
+        "support": [
+          53,
+          721,
+          166,
+          795
+        ],
+        "work": "poslankyně PČR, bývalá předsedkyně Poslanecké sněmovny PČR",
+        "member": 53,
+        "nominee": 53,
+        "color": "#194392",
+        "photo": "miroslava-nemcova-2.jpg",
+        "no": 8,
+        "party": {
+          "reg": 1329,
+          "name": "Koalice ODS, TOP 09 a STAN s podporou LES"
+        },
+        "age": 67,
+        "home": "Žďár nad Sázavou",
+        "homeID": 595209,
+        "sex": 2,
+        "program": "https://miroslavanemcova.cz/",
+        "stats": {
+          "round1": {
+            "votes": 15593,
+            "pct": 48.56
+          },
+          "round2": {
+            "votes": 13279,
+            "pct": 63.96
+          }
+        }
+      },
+      "round1": {
+        "voters": 83534,
+        "votes": 32106,
+        "attended": 32228,
+        "pct": 38.58,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Robert",
+              "Veverka",
+              ""
+            ],
+            "votes": 2949,
+            "pct": 9.18,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "prof. RNDr.",
+              "Ivo",
+              "Budil",
+              "Ph.D., DSc."
+            ],
+            "votes": 1324,
+            "pct": 4.12,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Václav",
+              "Fischer",
+              ""
+            ],
+            "votes": 725,
+            "pct": 2.25,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "prof. RNDr.",
+              "Václav",
+              "Hampl",
+              "DrSc."
+            ],
+            "votes": 6579,
+            "pct": 20.49,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "PhDr.",
+              "Petr",
+              "Fejk",
+              ""
+            ],
+            "votes": 2827,
+            "pct": 8.8,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Dr.- Ing.",
+              "Milan",
+              "Urban",
+              ""
+            ],
+            "votes": 1068,
+            "pct": 3.32,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Jakub",
+              "Štědroň",
+              "Ph.D."
+            ],
+            "votes": 1041,
+            "pct": 3.24,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Miroslava",
+              "Němcová",
+              ""
+            ],
+            "votes": 15593,
+            "pct": 48.56,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 83503,
+        "votes": 20760,
+        "attended": 20829,
+        "pct": 24.94,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "prof. RNDr.",
+              "Václav",
+              "Hampl",
+              "DrSc."
+            ],
+            "votes": 7481,
+            "pct": 36.03,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Miroslava",
+              "Němcová",
+              ""
+            ],
+            "votes": 13279,
+            "pct": 63.96,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cheb",
+      "winner": {
+        "name": [
+          "",
+          "Miroslav",
+          "Plevný",
+          ""
+        ],
+        "reg": 3,
+        "links": [
+          "http://www.starostove-nezavisli.cz/volby/senatni-volby-2020",
+          "https://www.starostove-nezavisli.cz/volby/archiv/parlamentni-volby-2017/karlovarsky-kraj/plevny-miroslav",
+          "https://www.facebook.com/profile.php?id=100008195647052",
+          "https://cs.wikipedia.org/wiki/Miroslav_Plevn%C3%BD"
+        ],
+        "support": [
+          166
+        ],
+        "member": 99,
+        "color": "#1ebdb7",
+        "photo": "miroslav-plevny.jpg",
+        "work": "místostarosta města Cheb, bývalý děkan Fakulty ekonomické ZČU",
+        "no": 5,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 54,
+        "home": "Cheb",
+        "homeID": 554481,
+        "nominee": 166,
+        "sex": 1,
+        "program": "https://www.starostove-nezavisli.cz/volby/archiv/parlamentni-volby-2017/karlovarsky-kraj/plevny-miroslav",
+        "motto": "Chci prosperující pohraničí, kde budou lidé chtít žít.",
+        "stats": {
+          "round1": {
+            "votes": 7840,
+            "pct": 27.43
+          },
+          "round2": {
+            "votes": 7323,
+            "pct": 70.31
+          }
+        }
+      },
+      "round1": {
+        "voters": 97183,
+        "votes": 28576,
+        "attended": 29821,
+        "pct": 30.69,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Sedláček",
+              ""
+            ],
+            "votes": 1613,
+            "pct": 5.64,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Markéta",
+              "Monsportová",
+              ""
+            ],
+            "votes": 3960,
+            "pct": 13.85,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Jaroslava",
+              "Brožová Lampertová",
+              ""
+            ],
+            "votes": 4927,
+            "pct": 17.24,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "RSDr.",
+              "Josef",
+              "Švarcbek",
+              ""
+            ],
+            "votes": 2506,
+            "pct": 8.76,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Miroslav",
+              "Plevný",
+              ""
+            ],
+            "votes": 7840,
+            "pct": 27.43,
+            "progress": true
+          },
+          {
+            "id": 6,
+            "name": [
+              "Mgr.",
+              "Svatava",
+              "Štěrbová",
+              ""
+            ],
+            "votes": 1379,
+            "pct": 4.82,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "",
+              "Martin",
+              "Lojda",
+              ""
+            ],
+            "votes": 119,
+            "pct": 0.41,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "Mgr.",
+              "Miroslav",
+              "Nenutil",
+              ""
+            ],
+            "votes": 4142,
+            "pct": 14.49,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "JUDr.",
+              "Josef",
+              "Kvasnička",
+              ""
+            ],
+            "votes": 2090,
+            "pct": 7.31,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 97156,
+        "votes": 10414,
+        "attended": 10467,
+        "pct": 10.77,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Jaroslava",
+              "Brožová Lampertová",
+              ""
+            ],
+            "votes": 3091,
+            "pct": 29.68,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Miroslav",
+              "Plevný",
+              ""
+            ],
+            "votes": 7323,
+            "pct": 70.31,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "Kladno",
+      "winner": {
+        "name": [
+          "Mgr.",
+          "Adéla",
+          "Šípová",
+          ""
+        ],
+        "reg": 30,
+        "links": [
+          "adela.sipova@pirati.cz",
+          "https://www.adelasipova.cz/",
+          "https://www.facebook.com/adeladosenatu2020/",
+          "https://twitter.com/adela_sipova",
+          "https://www.instagram.com/adela_sipka/",
+          "https://www.linkedin.com/in/adelasipova/",
+          "https://cs.wikipedia.org/wiki/Ad%C3%A9la_%C5%A0%C3%ADpov%C3%A1"
+        ],
+        "support": [
+          720
+        ],
+        "work": "advokátka",
+        "member": 99,
+        "nominee": 720,
+        "color": "#000",
+        "photo": "adela-sipova.jpg",
+        "no": 6,
+        "party": {
+          "reg": 720,
+          "name": "Česká pirátská strana"
+        },
+        "age": 40,
+        "home": "Doksy",
+        "homeID": 532223,
+        "sex": 2,
+        "program": "https://www.adelasipova.cz/moje-priority/",
+        "stats": {
+          "round1": {
+            "votes": 7680,
+            "pct": 17.8
+          },
+          "round2": {
+            "votes": 13031,
+            "pct": 67.13
+          }
+        }
+      },
+      "round1": {
+        "voters": 116921,
+        "votes": 43137,
+        "attended": 44275,
+        "pct": 37.87,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Petr",
+              "Bendl",
+              ""
+            ],
+            "votes": 6086,
+            "pct": 14.1,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "Ing.",
+              "Naděžda",
+              "Zímová",
+              ""
+            ],
+            "votes": 236,
+            "pct": 0.54,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Milan",
+              "Volf",
+              ""
+            ],
+            "votes": 5227,
+            "pct": 12.11,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Michal",
+              "Oliva",
+              ""
+            ],
+            "votes": 172,
+            "pct": 0.39,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Markéta",
+              "Fröhlichová",
+              ""
+            ],
+            "votes": 3553,
+            "pct": 8.23,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Mgr.",
+              "Adéla",
+              "Šípová",
+              ""
+            ],
+            "votes": 7680,
+            "pct": 17.8,
+            "progress": true
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Jiří",
+              "Dienstbier",
+              ""
+            ],
+            "votes": 3799,
+            "pct": 8.8,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "Ing. Bc.",
+              "Miloslava",
+              "Vostrá",
+              ""
+            ],
+            "votes": 2588,
+            "pct": 5.99,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "Mgr.",
+              "Václav",
+              "Bošek",
+              "MBA"
+            ],
+            "votes": 1865,
+            "pct": 4.32,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "MUDr.",
+              "Jiří",
+              "Landa",
+              ""
+            ],
+            "votes": 1800,
+            "pct": 4.17,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "",
+              "David",
+              "Bohbot",
+              ""
+            ],
+            "votes": 566,
+            "pct": 1.31,
+            "progress": false
+          },
+          {
+            "id": 12,
+            "name": [
+              "Ing.",
+              "Michaela",
+              "Vojtová",
+              ""
+            ],
+            "votes": 5026,
+            "pct": 11.65,
+            "progress": false
+          },
+          {
+            "id": 13,
+            "name": [
+              "JUDr.",
+              "Ondřej",
+              "Závodský",
+              "Ph.D."
+            ],
+            "votes": 4539,
+            "pct": 10.52,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 116813,
+        "votes": 19409,
+        "attended": 19579,
+        "pct": 16.76,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Petr",
+              "Bendl",
+              ""
+            ],
+            "votes": 6378,
+            "pct": 32.86,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Mgr.",
+              "Adéla",
+              "Šípová",
+              ""
+            ],
+            "votes": 13031,
+            "pct": 67.13,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "name": "Děčín",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Zbyněk",
+          "Linhart",
+          ""
+        ],
+        "reg": 33,
+        "links": [
+          "http://zbyneklinhart.cz/",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/linhart-zbynek",
+          "https://www.facebook.com/linhart.krasnalipa",
+          "https://twitter.com/zbynlinhart",
+          "https://cs.wikipedia.org/wiki/Zbyn%C4%9Bk_Linhart"
+        ],
+        "support": [
+          166,
+          53,
+          1,
+          {
+            "name": "Volba pro Děčín",
+            "logo": "obecne/strany/loga/x-volba-pro-decin.png"
+          }
+        ],
+        "work": "úřadující senátor, 2. místostarosta města Krásná Lípa, předseda České Švýcarsko o. p. s.",
+        "member": 99,
+        "nominee": 166,
+        "color": "#1ebdb7",
+        "photo": "zbynek-linhart.jpg",
+        "no": 1,
+        "party": {
+          "reg": 1164,
+          "name": "Senátor Českého Švýcarska za starosty"
+        },
+        "age": 51,
+        "home": "Krásná Lípa",
+        "homeID": 562611,
+        "sex": 1,
+        "program": "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/linhart-zbynek",
+        "stats": {
+          "round1": {
+            "votes": 15787,
+            "pct": 52.77
+          }
+        }
+      },
+      "round1": {
+        "voters": 103214,
+        "votes": 29916,
+        "attended": 31258,
+        "pct": 30.28,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Zbyněk",
+              "Linhart",
+              ""
+            ],
+            "votes": 15787,
+            "pct": 52.77,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "Mgr.",
+              "Vladimír",
+              "Navara",
+              ""
+            ],
+            "votes": 288,
+            "pct": 0.96,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "PhDr.Mgr.",
+              "Leoš",
+              "Moravec",
+              "MSc."
+            ],
+            "votes": 3365,
+            "pct": 11.24,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Doc.Dr.",
+              "Václav",
+              "Šenkýř",
+              "CSc."
+            ],
+            "votes": 1171,
+            "pct": 3.91,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Mgr.",
+              "Šárka",
+              "Štruplová Růžičková",
+              "MBA"
+            ],
+            "votes": 1318,
+            "pct": 4.4,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Anděl",
+              "CSc."
+            ],
+            "votes": 5728,
+            "pct": 19.14,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "",
+              "Zdeněk",
+              "Říha",
+              ""
+            ],
+            "votes": 2259,
+            "pct": 7.55,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 103214,
+        "votes": 29916,
+        "attended": 31258,
+        "pct": 30.28,
+        "candidates": []
+      }
+    },
+    {
+      "id": 36,
+      "name": "Česká Lípa",
+      "winner": {
+        "name": [
+          "",
+          "Jiří",
+          "Vosecký",
+          ""
+        ],
+        "reg": 36,
+        "links": [
+          "info@jirivosecky.cz",
+          "https://www.jirivosecky.cz/",
+          "https://www.facebook.com/senatorvosecky/",
+          "https://www.instagram.com/jiri_vosecky/",
+          "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Voseck%C3%BD"
+        ],
+        "support": [
+          166,
+          703
+        ],
+        "color": "#1ebdb7",
+        "photo": "jiri-vosecky.jpg",
+        "work": "úřadující senátor, zastupitel obce Okrouhlá, bývalý sklář",
+        "no": 8,
+        "party": {
+          "reg": 1164,
+          "name": "Starostové"
+        },
+        "age": 69,
+        "home": "Okrouhlá",
+        "homeID": 561894,
+        "member": 703,
+        "nominee": 703,
+        "sex": 1,
+        "program": "https://www.jirivosecky.cz/me-priority",
+        "stats": {
+          "round1": {
+            "votes": 10418,
+            "pct": 29.59
+          },
+          "round2": {
+            "votes": 6988,
+            "pct": 52.87
+          }
+        }
+      },
+      "round1": {
+        "voters": 116786,
+        "votes": 35201,
+        "attended": 37027,
+        "pct": 31.7,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Petr",
+              "Skokan",
+              ""
+            ],
+            "votes": 2547,
+            "pct": 7.23,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "JUDr.",
+              "Jan",
+              "Riedl",
+              ""
+            ],
+            "votes": 3056,
+            "pct": 8.68,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Petr",
+              "Jeník",
+              ""
+            ],
+            "votes": 3568,
+            "pct": 10.13,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Vít",
+              "Vomáčka",
+              "MBA"
+            ],
+            "votes": 5381,
+            "pct": 15.28,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "Ing.",
+              "Miloš",
+              "Tita",
+              ""
+            ],
+            "votes": 2310,
+            "pct": 6.56,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Jiří",
+              "Štěrba",
+              ""
+            ],
+            "votes": 1243,
+            "pct": 3.53,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr. et Mgr.",
+              "Libor",
+              "Šmejda",
+              "MBA"
+            ],
+            "votes": 2221,
+            "pct": 6.3,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Jiří",
+              "Vosecký",
+              ""
+            ],
+            "votes": 10418,
+            "pct": 29.59,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "",
+              "Jaroslav",
+              "Křupala",
+              ""
+            ],
+            "votes": 1775,
+            "pct": 5.04,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "Libor",
+              "Křenek",
+              ""
+            ],
+            "votes": 2682,
+            "pct": 7.61,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 116702,
+        "votes": 13216,
+        "attended": 13306,
+        "pct": 11.4,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Vít",
+              "Vomáčka",
+              "MBA"
+            ],
+            "votes": 6228,
+            "pct": 47.12,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Jiří",
+              "Vosecký",
+              ""
+            ],
+            "votes": 6988,
+            "pct": 52.87,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "name": "Trutnov",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Jan",
+          "Sobotka",
+          ""
+        ],
+        "reg": 39,
+        "links": [
+          "https://www.jansobotka.cz/",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/sobotka-jan",
+          "https://www.facebook.com/jansobotkavrchlabi",
+          "https://cs.wikipedia.org/wiki/Jan_Sobotka_(sen%C3%A1tor)"
+        ],
+        "support": [
+          166,
+          720,
+          721
+        ],
+        "color": "#1ebdb7",
+        "photo": "jan-sobotka.jpg",
+        "work": "úřadující senátor, zastupitel Královéhradeckého kraje, starosta města Vrchlabí",
+        "no": 1,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 59,
+        "home": "Vrchlabí",
+        "homeID": 579858,
+        "member": 99,
+        "nominee": 166,
+        "sex": 1,
+        "program": "starostove-nezavisli.cz/volby/senatni-volby-2020/sobotka-jan ",
+        "motto": "Jsem senátor, který nezapomněl na starosti starosty.",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 14839,
+            "pct": 41.71
+          },
+          "round2": {
+            "votes": 12140,
+            "pct": 74.58
+          }
+        }
+      },
+      "round1": {
+        "voters": 99156,
+        "votes": 35576,
+        "attended": 36817,
+        "pct": 37.13,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Sobotka",
+              ""
+            ],
+            "votes": 14839,
+            "pct": 41.71,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Michal",
+              "Slavka",
+              ""
+            ],
+            "votes": 3250,
+            "pct": 9.13,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Klára",
+              "Sovová",
+              ""
+            ],
+            "votes": 8142,
+            "pct": 22.88,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Jarolím",
+              ""
+            ],
+            "votes": 9345,
+            "pct": 26.26,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 99048,
+        "votes": 16277,
+        "attended": 16331,
+        "pct": 16.49,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Sobotka",
+              ""
+            ],
+            "votes": 12140,
+            "pct": 74.58,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Jarolím",
+              ""
+            ],
+            "votes": 4137,
+            "pct": 25.41,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "name": "Kolín",
+      "winner": {
+        "name": [
+          "Mgr.",
+          "Pavel",
+          "Kárník",
+          ""
+        ],
+        "reg": 42,
+        "links": [
+          "pavel.karnik@stan.cz",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/karnik-pavel",
+          "https://www.facebook.com/mgr.pavel.karnik/",
+          "https://www.instagram.com/karnikpavel/"
+        ],
+        "support": [
+          166
+        ],
+        "color": "#1ebdb7",
+        "photo": "pavel-karnik.jpg",
+        "work": "ředitel Městské knihovny Kolín",
+        "no": 11,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 60,
+        "home": "Kolín",
+        "homeID": 533165,
+        "member": 99,
+        "nominee": 166,
+        "sex": 1,
+        "program": "https://www.facebook.com/mgr.pavel.karnik/videos/1066715850433935/",
+        "stats": {
+          "round1": {
+            "votes": 8971,
+            "pct": 20.05
+          },
+          "round2": {
+            "votes": 15197,
+            "pct": 79.48
+          }
+        }
+      },
+      "round1": {
+        "voters": 118167,
+        "votes": 44737,
+        "attended": 46385,
+        "pct": 39.25,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Michal",
+              "Zapletal",
+              ""
+            ],
+            "votes": 6451,
+            "pct": 14.41,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Emilie",
+              "Třísková",
+              ""
+            ],
+            "votes": 5295,
+            "pct": 11.83,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Martin",
+              "Škorpík",
+              ""
+            ],
+            "votes": 2186,
+            "pct": 4.88,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Otta",
+              ""
+            ],
+            "votes": 1091,
+            "pct": 2.43,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Mgr.",
+              "Cyril",
+              "Koky",
+              "MPA"
+            ],
+            "votes": 4173,
+            "pct": 9.32,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Karel",
+              "Otava",
+              ""
+            ],
+            "votes": 1195,
+            "pct": 2.67,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Tomáš",
+              "Klinecký",
+              ""
+            ],
+            "votes": 4603,
+            "pct": 10.28,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "MUDr.",
+              "Igor",
+              "Karen",
+              ""
+            ],
+            "votes": 6627,
+            "pct": 14.81,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "PhDr.",
+              "Ivanka",
+              "Kohoutová",
+              "Ph.D."
+            ],
+            "votes": 1630,
+            "pct": 3.64,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "doc. Mgr.",
+              "Petr",
+              "Žantovský",
+              "Ph.D."
+            ],
+            "votes": 2515,
+            "pct": 5.62,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "Mgr.",
+              "Pavel",
+              "Kárník",
+              ""
+            ],
+            "votes": 8971,
+            "pct": 20.05,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 118159,
+        "votes": 19120,
+        "attended": 19187,
+        "pct": 16.24,
+        "candidates": [
+          {
+            "id": 8,
+            "name": [
+              "MUDr.",
+              "Igor",
+              "Karen",
+              ""
+            ],
+            "votes": 3923,
+            "pct": 20.51,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "Mgr.",
+              "Pavel",
+              "Kárník",
+              ""
+            ],
+            "votes": 15197,
+            "pct": 79.48,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "name": "Hradec Králové",
+      "winner": {
+        "name": [
+          "JUDr.",
+          "Jan",
+          "Holásek",
+          "LL.M."
+        ],
+        "reg": 45,
+        "links": [
+          "jh@janholasek.cz",
+          "http://www.janholasek.cz",
+          "https://www.facebook.com/JHolasek/",
+          "https://www.instagram.com/holasek_jan/",
+          "https://cs.wikipedia.org/wiki/Jan_Hol%C3%A1sek",
+          "https://www.youtube.com/channel/UCPJutdbIvA2noEHk_iSgqsg/featured"
+        ],
+        "support": [
+          1049,
+          1187,
+          721,
+          795,
+          5,
+          {
+            "name": "Změna pro Hradec",
+            "logo": "obecne/strany/loga/x-zmena-pro-hradec.jpg"
+          },
+          113
+        ],
+        "work": "zastupitel města Hradec Králové, advokát a filantrop",
+        "member": 99,
+        "nominee": 1049,
+        "color": "#4f689a",
+        "photo": "jan-holasek.jpg",
+        "no": 3,
+        "party": {
+          "reg": 1463,
+          "name": "Jan Holásek - společný kandidát"
+        },
+        "age": 47,
+        "home": "Hradec Králové",
+        "homeID": 569810,
+        "sex": 1,
+        "program": "http://www.janholasek.cz/kandidatura",
+        "motto": "Za HRADECKO s týmem do Senátu",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 7445,
+            "pct": 16.91
+          },
+          "round2": {
+            "votes": 15138,
+            "pct": 70.23
+          }
+        }
+      },
+      "round1": {
+        "voters": 106429,
+        "votes": 44005,
+        "attended": 45293,
+        "pct": 42.56,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "JUDr.",
+              "Pavel",
+              "Staněk",
+              ""
+            ],
+            "votes": 5993,
+            "pct": 13.61,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Petr",
+              "Brábník",
+              ""
+            ],
+            "votes": 1463,
+            "pct": 3.32,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "JUDr.",
+              "Jan",
+              "Holásek",
+              "LL.M."
+            ],
+            "votes": 7445,
+            "pct": 16.91,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "MUDr.",
+              "Vladimír",
+              "Dryml",
+              ""
+            ],
+            "votes": 517,
+            "pct": 1.17,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "prof. MUDr.",
+              "Jan",
+              "Čáp",
+              "CSc."
+            ],
+            "votes": 4075,
+            "pct": 9.26,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "JUDr.",
+              "Markéta",
+              "Pakandlová",
+              ""
+            ],
+            "votes": 2194,
+            "pct": 4.98,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Lubomír",
+              "Štěpán",
+              ""
+            ],
+            "votes": 1996,
+            "pct": 4.53,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "doc. PhDr.",
+              "Pavel",
+              "Vacek",
+              "Ph.D."
+            ],
+            "votes": 6033,
+            "pct": 13.7,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "prof. MUDr.",
+              "Jaroslav",
+              "Malý",
+              "CSc."
+            ],
+            "votes": 4342,
+            "pct": 9.86,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "MUDr.",
+              "Jiří",
+              "Mašek",
+              ""
+            ],
+            "votes": 8587,
+            "pct": 19.51,
+            "progress": true
+          },
+          {
+            "id": 11,
+            "name": [
+              "",
+              "Igor",
+              "Indrák",
+              ""
+            ],
+            "votes": 1360,
+            "pct": 3.09,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 106410,
+        "votes": 21552,
+        "attended": 21614,
+        "pct": 20.31,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "JUDr.",
+              "Jan",
+              "Holásek",
+              "LL.M."
+            ],
+            "votes": 15138,
+            "pct": 70.23,
+            "progress": true
+          },
+          {
+            "id": 10,
+            "name": [
+              "MUDr.",
+              "Jiří",
+              "Mašek",
+              ""
+            ],
+            "votes": 6414,
+            "pct": 29.76,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "name": "Rychnov nad Kněžnou",
+      "winner": {
+        "name": [
+          "Mgr.",
+          "Jan",
+          "Grulich",
+          ""
+        ],
+        "reg": 48,
+        "links": [
+          "Jan.Grulich@top09.cz",
+          "https://www.top09.cz/volby/2020-senat/mgr-jan-grulich-26982.html",
+          "https://www.facebook.com/honzadosenatu/",
+          "https://twitter.com/grulich_jan",
+          "https://cs.wikipedia.org/wiki/Jan_Grulich"
+        ],
+        "support": [
+          721,
+          720,
+          166,
+          1,
+          795
+        ],
+        "color": "#531a92",
+        "photo": "jan-grulich.jpg",
+        "work": "zastupitel Královéhradeckého kraje, ředitel ZŠ a MŠ Trivium Plus v Dobřanech",
+        "no": 5,
+        "party": {
+          "reg": 1431,
+          "name": "Jan Grulich - senátor z hor"
+        },
+        "age": 45,
+        "home": "Sedloňov",
+        "homeID": 576743,
+        "member": 721,
+        "nominee": 721,
+        "sex": 1,
+        "program": "https://drive.google.com/file/d/19OTIavbLSx8LnN8Az5jKtXdiCmZOWwLS/view?usp=sharing",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 9472,
+            "pct": 24.37
+          },
+          "round2": {
+            "votes": 11432,
+            "pct": 59.65
+          }
+        }
+      },
+      "round1": {
+        "voters": 104446,
+        "votes": 38858,
+        "attended": 40570,
+        "pct": 38.84,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Jiří",
+              "Matoušek",
+              "MPA"
+            ],
+            "votes": 1629,
+            "pct": 4.19,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "PaedDr.",
+              "Josef",
+              "Lukášek",
+              ""
+            ],
+            "votes": 2491,
+            "pct": 6.41,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Drahoslav",
+              "Chudoba",
+              ""
+            ],
+            "votes": 2686,
+            "pct": 6.91,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "brig. gen. Ing.",
+              "František",
+              "Mencl",
+              ""
+            ],
+            "votes": 2500,
+            "pct": 6.43,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Mgr.",
+              "Jan",
+              "Grulich",
+              ""
+            ],
+            "votes": 9472,
+            "pct": 24.37,
+            "progress": true
+          },
+          {
+            "id": 6,
+            "name": [
+              "JUDr.",
+              "Miroslav",
+              "Antl",
+              ""
+            ],
+            "votes": 10275,
+            "pct": 26.44,
+            "progress": true
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Jana",
+              "Drejslová",
+              ""
+            ],
+            "votes": 7369,
+            "pct": 18.96,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "Ing.",
+              "Vladimíra",
+              "Lesenská",
+              ""
+            ],
+            "votes": 2436,
+            "pct": 6.26,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 104423,
+        "votes": 19165,
+        "attended": 19208,
+        "pct": 18.39,
+        "candidates": [
+          {
+            "id": 5,
+            "name": [
+              "Mgr.",
+              "Jan",
+              "Grulich",
+              ""
+            ],
+            "votes": 11432,
+            "pct": 59.65,
+            "progress": true
+          },
+          {
+            "id": 6,
+            "name": [
+              "JUDr.",
+              "Miroslav",
+              "Antl",
+              ""
+            ],
+            "votes": 7733,
+            "pct": 40.34,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "name": "Žďár nad Sázavou",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Josef",
+          "Klement",
+          ""
+        ],
+        "reg": 51,
+        "support": [
+          1,
+          53,
+          166,
+          721
+        ],
+        "member": 99,
+        "color": "#fec92f",
+        "work": "místostarosta města Žďár nad Sázavou, manažer v automobilovém průmyslu",
+        "links": [
+          "mistostarosta@zdarns.cz",
+          "https://josefklement.wordpress.com/",
+          "https://www.zdarns.cz/samosprava/starosta-mistostarosta",
+          "https://www.facebook.com/ingjosefklement/",
+          "https://www.kduvysocina.cz/index.php/kandidatem-ve-volebnim-obvodu-zdar-nad-sazavou-je-josef-klement"
+        ],
+        "photo": "josef-klement.jpg",
+        "no": 6,
+        "party": {
+          "reg": 1,
+          "name": "KDU-ČSL"
+        },
+        "age": 49,
+        "home": "Žďár nad Sázavou",
+        "homeID": 595209,
+        "nominee": 1,
+        "sex": 1,
+        "program": "https://www.facebook.com/ingjosefklement/photos/a.103350867949075/171984664419028",
+        "stats": {
+          "round1": {
+            "votes": 10660,
+            "pct": 31.01
+          },
+          "round2": {
+            "votes": 10713,
+            "pct": 59.81
+          }
+        }
+      },
+      "round1": {
+        "voters": 94772,
+        "votes": 34369,
+        "attended": 35831,
+        "pct": 37.81,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Prof. Ing. ",
+              "Bohumil",
+              "Kasal",
+              "PhD"
+            ],
+            "votes": 1644,
+            "pct": 4.78,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "JUDr.",
+              "Libor",
+              "Černý",
+              ""
+            ],
+            "votes": 5018,
+            "pct": 14.6,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr. Bc.",
+              "Zdeněk",
+              "Střítecký",
+              ""
+            ],
+            "votes": 1503,
+            "pct": 4.37,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Michal",
+              "Šmarda",
+              ""
+            ],
+            "votes": 8691,
+            "pct": 25.28,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "Ing. Bc.",
+              "Ivana",
+              "Horká",
+              ""
+            ],
+            "votes": 6853,
+            "pct": 19.93,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Josef",
+              "Klement",
+              ""
+            ],
+            "votes": 10660,
+            "pct": 31.01,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 94726,
+        "votes": 17911,
+        "attended": 18007,
+        "pct": 19.01,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Michal",
+              "Šmarda",
+              ""
+            ],
+            "votes": 7198,
+            "pct": 40.18,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Josef",
+              "Klement",
+              ""
+            ],
+            "votes": 10713,
+            "pct": 59.81,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "name": "Znojmo",
+      "winner": {
+        "name": [
+          "Mgr.",
+          "Tomáš",
+          "Třetina",
+          ""
+        ],
+        "reg": 54,
+        "links": [
+          "https://www.tomastretina.cz/",
+          "https://www.top09.cz/volby/2020-senat/mgr-tomas-tretina-26984.html",
+          "https://www.facebook.com/starosta.tretina",
+          "https://twitter.com/tomas_tretina",
+          "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_T%C5%99etina"
+        ],
+        "support": [
+          721,
+          53,
+          166,
+          720,
+          1,
+          1220,
+          714
+        ],
+        "member": 721,
+        "nominee": 721,
+        "color": "#531a92",
+        "photo": "tomas-tretina.jpg",
+        "work": "starosta města Moravský Krumlov, učitel na I. stupni a bývalý ředitel základní školy",
+        "no": 4,
+        "party": {
+          "reg": 1329,
+          "name": "Společně pro Znojemsko"
+        },
+        "age": 48,
+        "home": "Moravský Krumlov",
+        "homeID": 594482,
+        "sex": 1,
+        "program": "https://www.tomastretina.cz/program/",
+        "stats": {
+          "round1": {
+            "votes": 9172,
+            "pct": 30.37
+          },
+          "round2": {
+            "votes": 10478,
+            "pct": 54.57
+          }
+        }
+      },
+      "round1": {
+        "voters": 93564,
+        "votes": 30197,
+        "attended": 31268,
+        "pct": 33.42,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Bohumila",
+              "Beranová",
+              ""
+            ],
+            "votes": 1778,
+            "pct": 5.88,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "MUDr.",
+              "Martin",
+              "Pavlík",
+              "Ph.D., EDIC, DESA"
+            ],
+            "votes": 6094,
+            "pct": 20.18,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Jan",
+              "Grois",
+              ""
+            ],
+            "votes": 7778,
+            "pct": 25.75,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr.",
+              "Tomáš",
+              "Třetina",
+              ""
+            ],
+            "votes": 9172,
+            "pct": 30.37,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "Mgr.",
+              "Růžena",
+              "Šalomonová",
+              ""
+            ],
+            "votes": 2226,
+            "pct": 7.37,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "PhDr.",
+              "Vladimír",
+              "Železný",
+              ""
+            ],
+            "votes": 868,
+            "pct": 2.87,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Pavel",
+              "Kováčik",
+              ""
+            ],
+            "votes": 2281,
+            "pct": 7.55,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 93547,
+        "votes": 19201,
+        "attended": 19332,
+        "pct": 20.67,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Jan",
+              "Grois",
+              ""
+            ],
+            "votes": 8723,
+            "pct": 45.42,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr.",
+              "Tomáš",
+              "Třetina",
+              ""
+            ],
+            "votes": 10478,
+            "pct": 54.57,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "name": "Vyškov",
+      "winner": {
+        "name": [
+          "MUDr.",
+          "Karel",
+          "Zitterbart",
+          "Ph.D."
+        ],
+        "reg": 57,
+        "links": [
+          "https://www.kareldosenatu.cz/",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/zitterbart-karel",
+          "https://www.facebook.com/kareldosenatu/",
+          "https://www.instagram.com/karelzitterbart/"
+        ],
+        "support": [
+          166,
+          720
+        ],
+        "member": 99,
+        "color": "#1ebdb7",
+        "photo": "karel-zitterbart.jpg",
+        "work": "praktický dětský lékař, odborný asistent na Klinice dětské onkologie LF MU a FN Brno",
+        "no": 5,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 41,
+        "home": "Mokrá-Horákov",
+        "homeID": 583405,
+        "nominee": 166,
+        "sex": 1,
+        "program": "https://www.kareldosenatu.cz/",
+        "motto": "Správná diagnóza, moudré řešení, obecný prospěch",
+        "stats": {
+          "round1": {
+            "votes": 11727,
+            "pct": 27.15
+          },
+          "round2": {
+            "votes": 8231,
+            "pct": 50.08
+          }
+        }
+      },
+      "round1": {
+        "voters": 114602,
+        "votes": 43191,
+        "attended": 45271,
+        "pct": 39.5,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Ivo",
+              "Bárek",
+              ""
+            ],
+            "votes": 9579,
+            "pct": 22.17,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "Ing. arch.",
+              "Jaroslav",
+              "Klaška",
+              ""
+            ],
+            "votes": 11955,
+            "pct": 27.67,
+            "progress": true
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Libor",
+              "Bláha",
+              "MBA"
+            ],
+            "votes": 3589,
+            "pct": 8.3,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr. Ing.",
+              "Lubomír",
+              "Wenzl",
+              ""
+            ],
+            "votes": 6341,
+            "pct": 14.68,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "MUDr.",
+              "Karel",
+              "Zitterbart",
+              "Ph.D."
+            ],
+            "votes": 11727,
+            "pct": 27.15,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 114585,
+        "votes": 16435,
+        "attended": 16531,
+        "pct": 14.43,
+        "candidates": [
+          {
+            "id": 2,
+            "name": [
+              "Ing. arch.",
+              "Jaroslav",
+              "Klaška",
+              ""
+            ],
+            "votes": 8204,
+            "pct": 49.91,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "MUDr.",
+              "Karel",
+              "Zitterbart",
+              "Ph.D."
+            ],
+            "votes": 8231,
+            "pct": 50.08,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Louny",
+      "winner": {
+        "name": [
+          "MUDr.",
+          "Ivo",
+          "Trešl",
+          ""
+        ],
+        "reg": 6,
+        "links": [
+          "http://ivotresl.cz/",
+          "https://www.facebook.com/IvoTresldoSenatu/"
+        ],
+        "support": [
+          166
+        ],
+        "color": "#1ebdb7",
+        "photo": "ivo-tresl.jpg",
+        "work": "radní města Rakovník, traumatolog v Masarykově nemocnici Rakovník",
+        "no": 8,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 48,
+        "home": "Rakovník",
+        "homeID": 541656,
+        "member": 166,
+        "nominee": 166,
+        "sex": 1,
+        "program": "http://ivotresl.cz/program/",
+        "motto": "Poctivě, s pokorou a s rozumem",
+        "stats": {
+          "round1": {
+            "votes": 7995,
+            "pct": 20.92
+          },
+          "round2": {
+            "votes": 10179,
+            "pct": 58.39
+          }
+        }
+      },
+      "round1": {
+        "voters": 117020,
+        "votes": 38215,
+        "attended": 39911,
+        "pct": 34.11,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Vladimír",
+              "Drápal",
+              ""
+            ],
+            "votes": 7884,
+            "pct": 20.63,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Daniel",
+              "Pitek",
+              ""
+            ],
+            "votes": 3352,
+            "pct": 8.77,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Zdeňka",
+              "Hamousová",
+              ""
+            ],
+            "votes": 3910,
+            "pct": 10.23,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Dominik",
+              "Hanko",
+              ""
+            ],
+            "votes": 2201,
+            "pct": 5.75,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Václav",
+              "Beneš",
+              ""
+            ],
+            "votes": 2462,
+            "pct": 6.44,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Jaroslav",
+              "Veselý",
+              ""
+            ],
+            "votes": 1153,
+            "pct": 3.01,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Mgr.",
+              "Zdeněk",
+              "Pištora",
+              ""
+            ],
+            "votes": 1590,
+            "pct": 4.16,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "MUDr.",
+              "Ivo",
+              "Trešl",
+              ""
+            ],
+            "votes": 7995,
+            "pct": 20.92,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "Mgr. et. Bc.",
+              "Milan",
+              "Rychtařík",
+              ""
+            ],
+            "votes": 7341,
+            "pct": 19.2,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "Ing.",
+              "Rostislav",
+              "Domorák",
+              ""
+            ],
+            "votes": 327,
+            "pct": 0.85,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 116980,
+        "votes": 17431,
+        "attended": 17520,
+        "pct": 14.98,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Vladimír",
+              "Drápal",
+              ""
+            ],
+            "votes": 7252,
+            "pct": 41.6,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "MUDr.",
+              "Ivo",
+              "Trešl",
+              ""
+            ],
+            "votes": 10179,
+            "pct": 58.39,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "name": "Brno-město",
+      "winner": {
+        "name": [
+          "MUDr.",
+          "Roman",
+          "Kraus",
+          "MBA"
+        ],
+        "reg": 60,
+        "links": [
+          "info@romankraus.cz",
+          "https://romankraus.cz/",
+          "https://www.ods.cz/region.jihomoravsky/volby2020/senatni/kandidati/8767-roman-kraus",
+          "https://www.facebook.com/romankraussenat/",
+          "https://twitter.com/RomanKraus2020"
+        ],
+        "support": [
+          721,
+          53,
+          714
+        ],
+        "nominee": 53,
+        "color": "#531a92",
+        "work": "bývalý ředitel Fakultní nemocnice Brno a FNUSA v Brně, anesteziolog",
+        "no": 11,
+        "party": {
+          "reg": 687,
+          "name": "Koalice ODS a TOP 09"
+        },
+        "age": 64,
+        "home": "Brno",
+        "homeID": 3,
+        "member": 53,
+        "sex": 1,
+        "program": "https://www.romankraus.cz/#me-nazory",
+        "photo": "roman-kraus.jpg",
+        "stats": {
+          "round1": {
+            "votes": 9661,
+            "pct": 21.84
+          },
+          "round2": {
+            "votes": 11036,
+            "pct": 57.71
+          }
+        }
+      },
+      "round1": {
+        "voters": 97039,
+        "votes": 44224,
+        "attended": 45801,
+        "pct": 47.2,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Anna",
+              "Šabatová",
+              "Ph.D."
+            ],
+            "votes": 7937,
+            "pct": 17.94,
+            "progress": true
+          },
+          {
+            "id": 2,
+            "name": [
+              "Ing.",
+              "Bohuslav",
+              "Chalupa",
+              ""
+            ],
+            "votes": 423,
+            "pct": 0.95,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Oldřich",
+              "Duchoň",
+              ""
+            ],
+            "votes": 209,
+            "pct": 0.47,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr. Bc.",
+              "Tomáš",
+              "Anderle",
+              "MBA, LL.M."
+            ],
+            "votes": 2786,
+            "pct": 6.29,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Pavel",
+              "Trčala",
+              ""
+            ],
+            "votes": 1391,
+            "pct": 3.14,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Kadeřávek",
+              ""
+            ],
+            "votes": 6505,
+            "pct": 14.7,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "prof. Ing.",
+              "Karel",
+              "Rais",
+              "CSc., MBA"
+            ],
+            "votes": 7047,
+            "pct": 15.93,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "MgA.",
+              "Lukáš",
+              "Berta",
+              ""
+            ],
+            "votes": 916,
+            "pct": 2.07,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "MUDr.",
+              "Tomáš",
+              "Tomáš",
+              "Ph.D."
+            ],
+            "votes": 5920,
+            "pct": 13.38,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "JUDr.",
+              "Richard",
+              "Novák",
+              ""
+            ],
+            "votes": 1429,
+            "pct": 3.23,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "MUDr.",
+              "Roman",
+              "Kraus",
+              "MBA"
+            ],
+            "votes": 9661,
+            "pct": 21.84,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 97001,
+        "votes": 19121,
+        "attended": 19180,
+        "pct": 19.77,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Anna",
+              "Šabatová",
+              "Ph.D."
+            ],
+            "votes": 8085,
+            "pct": 42.28,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "MUDr.",
+              "Roman",
+              "Kraus",
+              "MBA"
+            ],
+            "votes": 11036,
+            "pct": 57.71,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "name": "Přerov",
+      "winner": {
+        "name": [
+          "RNDr.",
+          "Jitka",
+          "Seitlová",
+          ""
+        ],
+        "reg": 63,
+        "links": [
+          "seitlovaj@senat.cz",
+          "http://www.seitlova.cz/",
+          "https://www.facebook.com/senatorkaJitkaSeitlova/",
+          "https://cs.wikipedia.org/wiki/Jitka_Seitlov%C3%A1"
+        ],
+        "support": [
+          1,
+          5,
+          721,
+          166
+        ],
+        "work": "senátorka, zastupitelka Olomouckého kraje, doktorka přírodních věd, zapsaná mediátorka, dříve zástupkyně veřejného ochránce práv",
+        "member": 1,
+        "nominee": 1,
+        "color": "#fec92f",
+        "photo": "jitka-seitlova-2.jpg",
+        "no": 8,
+        "party": {
+          "reg": 1,
+          "name": "KDU-ČSL"
+        },
+        "age": 66,
+        "home": "Lipník nad Bečvou",
+        "homeID": 514705,
+        "sex": 2,
+        "program": "https://seitlova.cz/volebni-program.php",
+        "stats": {
+          "round1": {
+            "votes": 9566,
+            "pct": 26.81
+          },
+          "round2": {
+            "votes": 10859,
+            "pct": 55.9
+          }
+        }
+      },
+      "round1": {
+        "voters": 105542,
+        "votes": 35678,
+        "attended": 36866,
+        "pct": 34.93,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "",
+              "Dan",
+              "Chromec",
+              ""
+            ],
+            "votes": 2762,
+            "pct": 7.74,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "JUDr.",
+              "Jaroslav",
+              "Pollák",
+              ""
+            ],
+            "votes": 68,
+            "pct": 0.19,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Petr",
+              "Vrána",
+              ""
+            ],
+            "votes": 7371,
+            "pct": 20.65,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "MUDr. Mgr.",
+              "Tomáš",
+              "Kocourek",
+              "MBA"
+            ],
+            "votes": 4549,
+            "pct": 12.75,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Lajtoch",
+              "PhD."
+            ],
+            "votes": 1145,
+            "pct": 3.2,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Mgr.",
+              "Miroslav",
+              "Raindl",
+              ""
+            ],
+            "votes": 1847,
+            "pct": 5.17,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Antonín",
+              "Prachař",
+              ""
+            ],
+            "votes": 2533,
+            "pct": 7.09,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "RNDr.",
+              "Jitka",
+              "Seitlová",
+              ""
+            ],
+            "votes": 9566,
+            "pct": 26.81,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "generálmajor v. v. Ing.",
+              "Jiří",
+              "Kubala",
+              ""
+            ],
+            "votes": 636,
+            "pct": 1.78,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "Jiří",
+              "Kudláček",
+              ""
+            ],
+            "votes": 2058,
+            "pct": 5.76,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "",
+              "Pavel",
+              "Ondrůj",
+              ""
+            ],
+            "votes": 3143,
+            "pct": 8.8,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 105503,
+        "votes": 19425,
+        "attended": 19507,
+        "pct": 18.49,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Petr",
+              "Vrána",
+              ""
+            ],
+            "votes": 8566,
+            "pct": 44.09,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "RNDr.",
+              "Jitka",
+              "Seitlová",
+              ""
+            ],
+            "votes": 10859,
+            "pct": 55.9,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "name": "Olomouc",
+      "winner": {
+        "name": [
+          "",
+          "Marek",
+          "Ošťádal",
+          ""
+        ],
+        "reg": 66,
+        "links": [
+          "https://www.marekostadal.cz/",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/ostadal-marek",
+          "https://www.facebook.com/MOstadal",
+          "https://instagram.com/m_ostadal",
+          "https://cs.wikipedia.org/wiki/Marek_O%C5%A1%C5%A5%C3%A1dal"
+        ],
+        "support": [
+          166
+        ],
+        "work": "starosta obce Náklo, člen hudební skupiny Stracené Ráj a autor fiktivní postavy Pepin z Hané",
+        "member": 166,
+        "nominee": 166,
+        "color": "#1ebdb7",
+        "photo": "marek-ostadal.jpg",
+        "no": 3,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 47,
+        "home": "Náklo",
+        "homeID": 504441,
+        "sex": 1,
+        "program": "https://www.marekostadal.cz/",
+        "motto": "Selské rozom do hrsti!",
+        "stats": {
+          "round1": {
+            "votes": 10222,
+            "pct": 26.6
+          },
+          "round2": {
+            "votes": 14006,
+            "pct": 68.76
+          }
+        }
+      },
+      "round1": {
+        "voters": 110620,
+        "votes": 38416,
+        "attended": 40053,
+        "pct": 36.21,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Stanislav",
+              "Kaláb",
+              ""
+            ],
+            "votes": 2206,
+            "pct": 5.74,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "Mgr.",
+              "Radek",
+              "Vincour",
+              ""
+            ],
+            "votes": 6875,
+            "pct": 17.89,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Marek",
+              "Ošťádal",
+              ""
+            ],
+            "votes": 10222,
+            "pct": 26.6,
+            "progress": true
+          },
+          {
+            "id": 4,
+            "name": [
+              "RNDr. Mgr.",
+              "František",
+              "John",
+              "Ph.D."
+            ],
+            "votes": 7101,
+            "pct": 18.48,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "Bc.",
+              "Antonín",
+              "Baudyš",
+              ""
+            ],
+            "votes": 742,
+            "pct": 1.93,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Zahradníček",
+              ""
+            ],
+            "votes": 8622,
+            "pct": 22.44,
+            "progress": true
+          },
+          {
+            "id": 7,
+            "name": [
+              "doc. MUDr.",
+              "Jaroslav",
+              "Vomáčka",
+              "Ph.D., MBA"
+            ],
+            "votes": 2648,
+            "pct": 6.89,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 110566,
+        "votes": 20368,
+        "attended": 20448,
+        "pct": 18.49,
+        "candidates": [
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Marek",
+              "Ošťádal",
+              ""
+            ],
+            "votes": 14006,
+            "pct": 68.76,
+            "progress": true
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Jan",
+              "Zahradníček",
+              ""
+            ],
+            "votes": 6362,
+            "pct": 31.23,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "name": "Frýdek-Místek",
+      "winner": {
+        "name": [
+          "RNDr.",
+          "Helena",
+          "Pešatová",
+          ""
+        ],
+        "reg": 69,
+        "links": [
+          "http://jenslovanestaci.cz/",
+          "https://www.facebook.com/helenapesatova.dosenatu/",
+          "https://www.starostove-nezavisli.cz/volby/senatni-volby-2020/pesatova-helena",
+          "https://cs.wikipedia.org/wiki/Helena_Pe%C5%A1atov%C3%A1"
+        ],
+        "support": [
+          166
+        ],
+        "work": "starostka města Frýdlant nad Ostravicí, učitelka matematiky a chemie na frýdlantském gymnáziu",
+        "member": 99,
+        "nominee": 166,
+        "color": "#1ebdb7",
+        "photo": "helena-pesatova.jpg",
+        "no": 4,
+        "party": {
+          "reg": 166,
+          "name": "STAROSTOVÉ A NEZÁVISLÍ"
+        },
+        "age": 61,
+        "home": "Frýdlant nad Ostravicí",
+        "homeID": 598143,
+        "sex": 2,
+        "program": "http://jenslovanestaci.cz/#cilesenat",
+        "motto": "Žiju v této zemi a hodlám pro ni i nadále pracovat.",
+        "stats": {
+          "round1": {
+            "votes": 7422,
+            "pct": 20.71
+          },
+          "round2": {
+            "votes": 7966,
+            "pct": 54.03
+          }
+        }
+      },
+      "round1": {
+        "voters": 102840,
+        "votes": 35822,
+        "attended": 37142,
+        "pct": 36.12,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "RNDr.",
+              "Pavel",
+              "Olšovský",
+              "Ph.D."
+            ],
+            "votes": 1528,
+            "pct": 4.26,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "MUDr.",
+              "Jaroslav",
+              "Matýs",
+              ""
+            ],
+            "votes": 1318,
+            "pct": 3.67,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "",
+              "Pavol",
+              "Lukša",
+              ""
+            ],
+            "votes": 2576,
+            "pct": 7.19,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "RNDr.",
+              "Helena",
+              "Pešatová",
+              ""
+            ],
+            "votes": 7422,
+            "pct": 20.71,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Karel",
+              "Deutscher",
+              ""
+            ],
+            "votes": 2380,
+            "pct": 6.64,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Bc.",
+              "Radim",
+              "Mamula",
+              ""
+            ],
+            "votes": 4686,
+            "pct": 13.08,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Bc.",
+              "Daniel",
+              "Pawlas",
+              ""
+            ],
+            "votes": 1449,
+            "pct": 4.04,
+            "progress": false
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Radim",
+              "Bača",
+              ""
+            ],
+            "votes": 4733,
+            "pct": 13.21,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Carbol",
+              ""
+            ],
+            "votes": 7770,
+            "pct": 21.69,
+            "progress": true
+          },
+          {
+            "id": 10,
+            "name": [
+              "",
+              "Radomil",
+              "Bodzsar",
+              ""
+            ],
+            "votes": 1960,
+            "pct": 5.47,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 102819,
+        "votes": 14741,
+        "attended": 14814,
+        "pct": 14.41,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "RNDr.",
+              "Helena",
+              "Pešatová",
+              ""
+            ],
+            "votes": 7966,
+            "pct": 54.03,
+            "progress": true
+          },
+          {
+            "id": 9,
+            "name": [
+              "Ing.",
+              "Jiří",
+              "Carbol",
+              ""
+            ],
+            "votes": 6775,
+            "pct": 45.96,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "name": "Ostrava-město",
+      "winner": {
+        "name": [
+          "doc. MUDr.",
+          "Ondřej",
+          "Šimetka",
+          "Ph.D., MBA"
+        ],
+        "reg": 72,
+        "links": [
+          "senat@ondrejsimetka.cz",
+          "https://ondrejsimetka.cz/",
+          "https://www.facebook.com/simetkadosenatu/"
+        ],
+        "support": [
+          53
+        ],
+        "color": "#194392",
+        "work": "přednosta Gynekologicko-porodnické kliniky FN Ostrava",
+        "no": 4,
+        "party": {
+          "reg": 53,
+          "name": "Občanská demokratická strana"
+        },
+        "age": 50,
+        "home": "Opava",
+        "homeID": 8,
+        "member": 99,
+        "nominee": 53,
+        "sex": 1,
+        "program": "https://ondrejsimetka.cz/nazory",
+        "photo": "ondrej-simetka-35285.jpg",
+        "stats": {
+          "round1": {
+            "votes": 6688,
+            "pct": 21.68
+          },
+          "round2": {
+            "votes": 7546,
+            "pct": 67.89
+          }
+        }
+      },
+      "round1": {
+        "voters": 92363,
+        "votes": 30840,
+        "attended": 32073,
+        "pct": 34.72,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing. Mgr.",
+              "Pynelopi",
+              "Cimprichová",
+              ""
+            ],
+            "votes": 564,
+            "pct": 1.82,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "MUDr.",
+              "Rostislav",
+              "Gromnica",
+              "Ph.D."
+            ],
+            "votes": 946,
+            "pct": 3.06,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Mgr.",
+              "Andrea",
+              "Wlochová",
+              "Ph.D."
+            ],
+            "votes": 1307,
+            "pct": 4.23,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "doc. MUDr.",
+              "Ondřej",
+              "Šimetka",
+              "Ph.D., MBA"
+            ],
+            "votes": 6688,
+            "pct": 21.68,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "Ing.",
+              "Radim",
+              "Smetana",
+              ""
+            ],
+            "votes": 2548,
+            "pct": 8.26,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "MUDr.",
+              "Jan",
+              "Síla",
+              ""
+            ],
+            "votes": 1830,
+            "pct": 5.93,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Zdeněk",
+              "Jiříček",
+              ""
+            ],
+            "votes": 6747,
+            "pct": 21.87,
+            "progress": true
+          },
+          {
+            "id": 8,
+            "name": [
+              "",
+              "Petr",
+              "Gajdáček",
+              ""
+            ],
+            "votes": 1264,
+            "pct": 4.09,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "Ing. arch.",
+              "Liana",
+              "Janáčková",
+              ""
+            ],
+            "votes": 3782,
+            "pct": 12.26,
+            "progress": false
+          },
+          {
+            "id": 11,
+            "name": [
+              "",
+              "Jiří",
+              "Sapeta",
+              ""
+            ],
+            "votes": 164,
+            "pct": 0.53,
+            "progress": false
+          },
+          {
+            "id": 12,
+            "name": [
+              "Mgr.",
+              "Miroslava",
+              "Škaldová",
+              ""
+            ],
+            "votes": 259,
+            "pct": 0.83,
+            "progress": false
+          },
+          {
+            "id": 13,
+            "name": [
+              "doc. MUDr.",
+              "Peter",
+              "Koliba",
+              "CSc."
+            ],
+            "votes": 825,
+            "pct": 2.67,
+            "progress": false
+          },
+          {
+            "id": 14,
+            "name": [
+              "Mgr.",
+              "Martin",
+              "Tomášek",
+              "Ph.D."
+            ],
+            "votes": 3916,
+            "pct": 12.69,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 92620,
+        "votes": 11114,
+        "attended": 11156,
+        "pct": 12.04,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "doc. MUDr.",
+              "Ondřej",
+              "Šimetka",
+              "Ph.D., MBA"
+            ],
+            "votes": 7546,
+            "pct": 67.89,
+            "progress": true
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Zdeněk",
+              "Jiříček",
+              ""
+            ],
+            "votes": 3568,
+            "pct": 32.1,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "name": "Karviná",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Ondřej",
+          "Feber",
+          ""
+        ],
+        "reg": 75,
+        "links": [
+          "feber@feber.cz",
+          "https://feber.cz/",
+          "https://www.facebook.com/Ondrejfebersenat/",
+          "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Feber"
+        ],
+        "support": [
+          768
+        ],
+        "work": "starosta obce Stonava, bývalý senátor za Karvinsko, důlní technik",
+        "member": 768,
+        "nominee": 768,
+        "color": "#2f2f65",
+        "photo": "ondrej-feber.jpg",
+        "no": 7,
+        "party": {
+          "reg": 768,
+          "name": "ANO 2011"
+        },
+        "age": 68,
+        "home": "Stonava",
+        "homeID": 599140,
+        "sex": 1,
+        "program": "https://feber.cz/prosazuji/",
+        "motto": "Budu bojovat za celé Karvinsko.",
+        "stats": {
+          "round1": {
+            "votes": 5852,
+            "pct": 26.12
+          },
+          "round2": {
+            "votes": 3412,
+            "pct": 50.62
+          }
+        }
+      },
+      "round1": {
+        "voters": 87967,
+        "votes": 22399,
+        "attended": 23257,
+        "pct": 26.44,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Mgr.",
+              "Radim",
+              "Kravčík",
+              ""
+            ],
+            "votes": 2451,
+            "pct": 10.94,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Zdena",
+              "Černínová",
+              ""
+            ],
+            "votes": 1943,
+            "pct": 8.67,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "MUDr.",
+              "Naděžda",
+              "Franková",
+              ""
+            ],
+            "votes": 1648,
+            "pct": 7.35,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "MUDr.",
+              "Daniel",
+              "Placzek",
+              ""
+            ],
+            "votes": 821,
+            "pct": 3.66,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "RNDr.",
+              "Radoslav",
+              "Štědroň",
+              ""
+            ],
+            "votes": 75,
+            "pct": 0.33,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Ondřej",
+              "Feber",
+              ""
+            ],
+            "votes": 5852,
+            "pct": 26.12,
+            "progress": true
+          },
+          {
+            "id": 8,
+            "name": [
+              "Mgr. Bc.",
+              "Karel",
+              "Světnička",
+              ""
+            ],
+            "votes": 236,
+            "pct": 1.05,
+            "progress": false
+          },
+          {
+            "id": 9,
+            "name": [
+              "MUDr.",
+              "Eliška",
+              "Lazarová",
+              ""
+            ],
+            "votes": 343,
+            "pct": 1.53,
+            "progress": false
+          },
+          {
+            "id": 10,
+            "name": [
+              "MUDr.",
+              "Radek",
+              "Sušil",
+              ""
+            ],
+            "votes": 3335,
+            "pct": 14.88,
+            "progress": true
+          },
+          {
+            "id": 11,
+            "name": [
+              "Mgr.",
+              "Miroslav",
+              "Chlubna",
+              ""
+            ],
+            "votes": 2184,
+            "pct": 9.75,
+            "progress": false
+          },
+          {
+            "id": 12,
+            "name": [
+              "doc. Ing.",
+              "Marian",
+              "Lebiedzik",
+              "Ph.D."
+            ],
+            "votes": 1684,
+            "pct": 7.51,
+            "progress": false
+          },
+          {
+            "id": 13,
+            "name": [
+              "",
+              "Radomír",
+              "Prus",
+              ""
+            ],
+            "votes": 1170,
+            "pct": 5.22,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 87940,
+        "votes": 6740,
+        "attended": 6789,
+        "pct": 7.72,
+        "candidates": [
+          {
+            "id": 7,
+            "name": [
+              "Ing.",
+              "Ondřej",
+              "Feber",
+              ""
+            ],
+            "votes": 3412,
+            "pct": 50.62,
+            "progress": true
+          },
+          {
+            "id": 10,
+            "name": [
+              "MUDr.",
+              "Radek",
+              "Sušil",
+              ""
+            ],
+            "votes": 3328,
+            "pct": 49.37,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "name": "Zlín",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Tomáš",
+          "Goláň",
+          ""
+        ],
+        "reg": 78,
+        "links": [
+          "tgolan@tomasgolan.cz",
+          "http://www.tomasgolan.cz/",
+          "https://www.facebook.com/golan.tomas",
+          "https://twitter.com/golan_tomas",
+          "https://www.instagram.com/tomasgolansenator/",
+          "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Gol%C3%A1%C5%88"
+        ],
+        "support": [
+          1187,
+          53,
+          720
+        ],
+        "member": 99,
+        "color": "#460a0d",
+        "photo": "tomas-golan.jpg",
+        "work": "úřadující senátor, ekonom a daňový poradce",
+        "no": 4,
+        "party": {
+          "reg": 1187,
+          "name": "SENÁTOR 21"
+        },
+        "age": 51,
+        "home": "Zlín",
+        "homeID": 585068,
+        "nominee": 1187,
+        "sex": 1,
+        "program": "http://www.tomasgolan.cz",
+        "motto": "Pracuji pro lidi, ne pro strany",
+        "answers": 1,
+        "stats": {
+          "round1": {
+            "votes": 14485,
+            "pct": 32.53
+          },
+          "round2": {
+            "votes": 10738,
+            "pct": 58.94
+          }
+        }
+      },
+      "round1": {
+        "voters": 106962,
+        "votes": 44520,
+        "attended": 46666,
+        "pct": 43.63,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "MgA.",
+              "Petr",
+              "Michálek",
+              ""
+            ],
+            "votes": 6637,
+            "pct": 14.9,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "MUDr.",
+              "Pavel",
+              "Stodůlka",
+              "Ph.D."
+            ],
+            "votes": 10642,
+            "pct": 23.9,
+            "progress": true
+          },
+          {
+            "id": 3,
+            "name": [
+              "JUDr.",
+              "Jan",
+              "Šťovíček",
+              "Ph.D."
+            ],
+            "votes": 1579,
+            "pct": 3.54,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Tomáš",
+              "Goláň",
+              ""
+            ],
+            "votes": 14485,
+            "pct": 32.53,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "Ing.",
+              "Radek",
+              "Henner",
+              ""
+            ],
+            "votes": 3519,
+            "pct": 7.9,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "",
+              "Jan",
+              "Doleček",
+              ""
+            ],
+            "votes": 2027,
+            "pct": 4.55,
+            "progress": false
+          },
+          {
+            "id": 7,
+            "name": [
+              "",
+              "Michaela",
+              "Blahová",
+              ""
+            ],
+            "votes": 5631,
+            "pct": 12.64,
+            "progress": false
+          }
+        ]
+      },
+      "round2": {
+        "voters": 106915,
+        "votes": 18217,
+        "attended": 18263,
+        "pct": 17.08,
+        "candidates": [
+          {
+            "id": 2,
+            "name": [
+              "MUDr.",
+              "Pavel",
+              "Stodůlka",
+              "Ph.D."
+            ],
+            "votes": 7479,
+            "pct": 41.05,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Ing.",
+              "Tomáš",
+              "Goláň",
+              ""
+            ],
+            "votes": 10738,
+            "pct": 58.94,
+            "progress": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "name": "Uherské Hradiště",
+      "winner": {
+        "name": [
+          "",
+          "Josef",
+          "Bazala",
+          ""
+        ],
+        "reg": 81,
+        "links": [
+          "bazala@staremesto.uh.cz",
+          "http://www.bazaladosenatu.cz/",
+          "https://www.facebook.com/BazalaJosef/",
+          "http://www.youtube.com/channel/UCwyJrKBSWVc9QMqj8jYLDNw",
+          "https://cs.wikipedia.org/wiki/Josef_Bazala_(starosta)"
+        ],
+        "support": [
+          1,
+          721,
+          166
+        ],
+        "work": "zastupitel Zlínského kraje, starosta města Staré Město, folklorista",
+        "member": 1,
+        "nominee": 1,
+        "color": "#fec92f",
+        "photo": "josef-bazala.jpg",
+        "no": 2,
+        "party": {
+          "reg": 1,
+          "name": "KDU-ČSL"
+        },
+        "age": 60,
+        "home": "Staré Město",
+        "homeID": 550752,
+        "sex": 1,
+        "program": "http://www.bazaladosenatu.cz/o-nas/proc-kandiduji",
+        "stats": {
+          "round1": {
+            "votes": 11107,
+            "pct": 30.94
+          },
+          "round2": {
+            "votes": 13172,
+            "pct": 60.78
+          }
+        }
+      },
+      "round1": {
+        "voters": 99491,
+        "votes": 35897,
+        "attended": 37498,
+        "pct": 37.69,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "Ing.",
+              "Antonín",
+              "Seďa",
+              ""
+            ],
+            "votes": 3393,
+            "pct": 9.45,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Josef",
+              "Bazala",
+              ""
+            ],
+            "votes": 11107,
+            "pct": 30.94,
+            "progress": true
+          },
+          {
+            "id": 3,
+            "name": [
+              "MUDr.",
+              "Petr",
+              "Sládek",
+              ""
+            ],
+            "votes": 8334,
+            "pct": 23.21,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "",
+              "Jarmila",
+              "Blažková",
+              ""
+            ],
+            "votes": 1850,
+            "pct": 5.15,
+            "progress": false
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Ivo",
+              "Valenta",
+              ""
+            ],
+            "votes": 11213,
+            "pct": 31.23,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 99473,
+        "votes": 21671,
+        "attended": 21736,
+        "pct": 21.85,
+        "candidates": [
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Josef",
+              "Bazala",
+              ""
+            ],
+            "votes": 13172,
+            "pct": 60.78,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "",
+              "Ivo",
+              "Valenta",
+              ""
+            ],
+            "votes": 8499,
+            "pct": 39.21,
+            "progress": false
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Plzeň-město",
+      "winner": {
+        "name": [
+          "Ing.",
+          "Lumír",
+          "Aschenbrenner",
+          ""
+        ],
+        "reg": 9,
+        "links": [
+          "aschenbrenner@plzen.eu",
+          "https://www.lasch.cz/",
+          "https://www.ods.cz/region.plzensky/volby2020/senatni/kandidati/2134-lumir-aschenbrenner",
+          "https://facebook.com/lumir.asch",
+          "https://twitter.com/Lem_Aschenbrenn",
+          "https://cs.wikipedia.org/wiki/Lum%C3%ADr_Aschenbrenner"
+        ],
+        "support": [
+          53,
+          721,
+          1,
+          1119,
+          55,
+          714
+        ],
+        "member": 53,
+        "nominee": 53,
+        "color": "#194392",
+        "photo": "lumir-aschenbrenner-2.jpg",
+        "work": "úřadující senátor, zastupitel města Plzeň, starosta městského obvodu Plzeň 2-Slovany",
+        "no": 6,
+        "party": {
+          "reg": 1462,
+          "name": "Koalice pro Plzeň"
+        },
+        "age": 60,
+        "home": "Plzeň",
+        "homeID": 2,
+        "sex": 1,
+        "program": "https://www.lasch.cz/lumir-aschenbrenner/#services",
+        "stats": {
+          "round1": {
+            "votes": 13151,
+            "pct": 34.93
+          },
+          "round2": {
+            "votes": 8425,
+            "pct": 59.33
+          }
+        }
+      },
+      "round1": {
+        "voters": 101637,
+        "votes": 37639,
+        "attended": 39716,
+        "pct": 39.08,
+        "candidates": [
+          {
+            "id": 1,
+            "name": [
+              "MUDr.",
+              "Jindřich",
+              "Sitta",
+              ""
+            ],
+            "votes": 6175,
+            "pct": 16.4,
+            "progress": false
+          },
+          {
+            "id": 2,
+            "name": [
+              "",
+              "Václav",
+              "Heřman",
+              ""
+            ],
+            "votes": 3034,
+            "pct": 8.06,
+            "progress": false
+          },
+          {
+            "id": 3,
+            "name": [
+              "Ing.",
+              "Oldrich",
+              "Fencl",
+              ""
+            ],
+            "votes": 3481,
+            "pct": 9.24,
+            "progress": false
+          },
+          {
+            "id": 4,
+            "name": [
+              "Mgr.",
+              "Daniel",
+              "Kůs",
+              ""
+            ],
+            "votes": 8032,
+            "pct": 21.33,
+            "progress": true
+          },
+          {
+            "id": 5,
+            "name": [
+              "MUDr.",
+              "Jiří",
+              "Liška",
+              "CSc."
+            ],
+            "votes": 3766,
+            "pct": 10,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Lumír",
+              "Aschenbrenner",
+              ""
+            ],
+            "votes": 13151,
+            "pct": 34.93,
+            "progress": true
+          }
+        ]
+      },
+      "round2": {
+        "voters": 101491,
+        "votes": 14198,
+        "attended": 14245,
+        "pct": 14.04,
+        "candidates": [
+          {
+            "id": 4,
+            "name": [
+              "Mgr.",
+              "Daniel",
+              "Kůs",
+              ""
+            ],
+            "votes": 5773,
+            "pct": 40.66,
+            "progress": false
+          },
+          {
+            "id": 6,
+            "name": [
+              "Ing.",
+              "Lumír",
+              "Aschenbrenner",
+              ""
+            ],
+            "votes": 8425,
+            "pct": 59.33,
+            "progress": true
+          }
+        ]
+      }
+    }
+  ]
+}

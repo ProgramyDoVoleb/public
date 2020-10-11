@@ -18,7 +18,7 @@ async function uploadResults() {
         var c = [];
 
         Object.keys(structure.list).forEach((key, index) => {
-          if (Number(key.split('CZ')[1]) < 724) return;
+          if (Number(key.split('CZ')[1]) < 525 || ['CZ020A', 'CZ020B', 'CZ020C'].indexOf(key) > -1) return;
 
           structure.list[key].forEach((town, i2) => {
             var name = key + '/' + town[0];

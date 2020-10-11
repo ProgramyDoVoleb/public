@@ -1,9 +1,9 @@
 var fs = require('fs');
 const $ = require('cheerio');
 
-var list2 = [19961116, 19981114, 19990828, 20001112, 20021025, 20031107, 20031031, 20041105, 20041008, 20061020, 20070413, 20070427, 20081017, 20101015, 20110318, 20121012, 20140110, 20140919, 20141010, 20161007, 20170127, 20180105, 20180518, 20181005, 20190405];
+var list2 = [19961116, 19981114, 19990828, 20001112, 20021025, 20031107, 20031031, 20041105, 20041008, 20061020, 20070413, 20070427, 20081017, 20101015, 20110318, 20121012, 20140110, 20140919, 20141010, 20161007, 20170127, 20180105, 20180518, 20181005, 20190405, 20200605];
 
-var list = [20200605];
+var list = [20201002];
 
 const sourceDIR = '../zdroje/volby/senat/';
 const targetDIR = '../data/volby/senat/';
@@ -26,14 +26,14 @@ var summary = [];
 // process election
 
 list.forEach((dir, i) => {
-  setTimeout(() => {
+  // setTimeout(() => {
     var candidates = JSON.parse(fs.readFileSync(targetDIR + dir + '/kandidati.json'));
     var towns = fs.readdirSync(sourceDIR + dir + '/obce');
 
     console.log(dir, towns.length);
 
     towns.forEach((town, index2) => {
-      setTimeout(() => {
+      // setTimeout(() => {
 
         if (town.split('.html').length != 2) return;
 
@@ -52,6 +52,8 @@ list.forEach((dir, i) => {
           console.log("not found", link);
           return;
         }
+
+        if (town === 539414) return;
 
         var townData = JSON.parse(fs.readFileSync(link));
         var html = fs.readFileSync(sourceDIR + dir + '/obce/' + town).toString();
@@ -103,27 +105,39 @@ list.forEach((dir, i) => {
           var results = $('tr', tables[1]);
           var passed = false;
 
+
+
           Object.keys(results).forEach((result, index) => {
             var td = $('td', results[result]);
 
             if (td.length && td.length > 0) {
-              var candID = td[0].children[0].data.split('+');
-                  candID = candID[candID.length - 1].split('*');
-                  candID = Number(candID[candID.length - 1]);
+              try {
+                var candID = td[0].children[0].data.split('+');
+                    candID = candID[candID.length - 1].split('*');
+                    candID = Number(candID[candID.length - 1]);
+              } catch (e) {
+                console.log(townData.nuts, townData.id, townData.name);
+                return;
+              }
 
               var winner = td[0].children[0].data.split('*').length > 1;
               var second = td[0].children[0].data.split('+').length > 1;
 
-              var person = candidates.list.find(p => p.reg === id && p.id === candID);
+              var person = candidates.list.find(p => p.reg === id && p.no === candID);
 
               if (person && ((index > 2 && candID != 1) || (index === 2 && candID === 1))) {
                 if (winner) {
                   data.winner = person;
-                  data.winner.stats = {
-                    round1: {
-                      votes: Number(td[5].children[0].data.split(' ').join('')),
-                      pct: Number(td[7].children[0].data.split(',').join('.'))
+                  try {
+                    data.winner.stats = {
+                      round1: {
+                        votes: Number(td[5].children[0].data.split(' ').join('')),
+                        pct: Number(td[7].children[0].data.split(',').join('.'))
+                      }
                     }
+                  } catch (e) {
+                    console.log(townData.nuts, townData.id, townData.name);
+                    return;
                   }
 
                   if (rndIndex > 2) {
@@ -134,21 +148,31 @@ list.forEach((dir, i) => {
                   }
                 }
 
-                if (rndIndex > 2 && (winner || second)) {
-                  data.round2.candidates.push({
+                try {
+                  if (rndIndex > 2 && (winner || second)) {
+                    data.round2.candidates.push({
+                      id: candID,
+                      name: person.name,
+                      votes: Number(td[6].children[0].data.split(' ').join('')),
+                      pct: Number(td[8].children[0].data.split(',').join('.'))
+                    });
+                  }
+                } catch (e) {
+                  console.log(townData.nuts, townData.id, townData.name);
+                  return;
+                }
+                
+                try {
+                  data.round1.candidates.push({
                     id: candID,
                     name: person.name,
-                    votes: Number(td[6].children[0].data.split(' ').join('')),
-                    pct: Number(td[8].children[0].data.split(',').join('.'))
+                    votes: Number(td[5].children[0].data.split(' ').join('')),
+                    pct: Number(td[7].children[0].data.split(',').join('.'))
                   });
+                } catch (e) {
+                  console.log(townData.nuts, townData.id, townData.name);
+                  return;
                 }
-
-                data.round1.candidates.push({
-                  id: candID,
-                  name: person.name,
-                  votes: Number(td[5].children[0].data.split(' ').join('')),
-                  pct: Number(td[7].children[0].data.split(',').join('.'))
-                });
 
                 passed = true;
               }
@@ -156,16 +180,27 @@ list.forEach((dir, i) => {
             }
           });
 
-          fs.writeFile(link, JSON.stringify(townData), () => {});
+          // if (jsonstring.length > 0) {
+            fs.writeFileSync(link, JSON.stringify(townData), () => {});
+          // } else {
+            // console.log("--- no data");
+          // }
 
-          var sum = {
-            num,
-            name: townData.name,
-            round1: data.round1.candidates,
-            round2: data.round2.candidates
+
+
+          if (data.round1) {
+
+            var sum = {
+              num,
+              name: townData.name,
+              round1: data.round1.candidates,
+              round2: data.round2.candidates
+            }
+
+            summary.push(sum);
+          } else {
+            console.log("--- no summary");
           }
-
-          summary.push(sum);
 
           // console.log(dir, id, num, 'done');
 
@@ -175,14 +210,14 @@ list.forEach((dir, i) => {
 
         }
 
-      }, 10 * index2);
+      // }, 10 * index2);
     });
-  }, 90000 * i);
+  // }, 90000 * i);
 });
 
 setTimeout(() => {
 
   summary.sort((a, b) => a.name.localeCompare(b.name, 'cs'));
 
-  fs.writeFile(targetDIR + list[0] + '/summary.json', JSON.stringify(summary), () => {});
+  fs.writeFileSync(targetDIR + list[0] + '/summary.json', JSON.stringify(summary), () => {});
 }, 1000);
