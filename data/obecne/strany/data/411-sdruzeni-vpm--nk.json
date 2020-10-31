@@ -1,1 +1,329 @@
-{"reg":411,"name":"Sdružení VPM, NK","hash":"sdruzeni-vpm--nk","short":"Sdružení VPM, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":579351,"townName":"Janské Lázně","reg":411,"pct":43.84,"elected":7},{"num":576883,"townName":"Vamberk","reg":411,"pct":35.56,"elected":6},{"num":574082,"townName":"Hronov","reg":411,"pct":31.97,"elected":7},{"num":574279,"townName":"Nové Město nad Metují","reg":411,"pct":24.28,"elected":6},{"num":556891,"townName":"Liberec-Vratislavice nad Nisou","reg":411,"pct":9.89,"elected":1},{"num":500097,"townName":"Praha 3","reg":411,"pct":3.4,"elected":0}],"elected":27},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":18,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":579351,"townName":"Janské Lázně","reg":411,"pct":39.61,"elected":6},{"num":576883,"townName":"Vamberk","reg":411,"pct":38.7,"elected":6},{"num":574279,"townName":"Nové Město nad Metují","reg":411,"pct":35.34,"elected":8},{"num":529303,"townName":"Benešov","reg":411,"pct":24.42,"elected":7},{"num":574082,"townName":"Hronov","reg":411,"pct":15.2,"elected":3},{"num":576964,"townName":"Semily","reg":411,"pct":14.01,"elected":3},{"num":592889,"townName":"Vyškov","reg":411,"pct":12.56,"elected":4},{"num":553671,"townName":"Horšovský Týn","reg":411,"pct":12.51,"elected":2},{"num":567639,"townName":"Krupka","reg":411,"pct":11.56,"elected":3},{"num":584631,"townName":"Lednice","reg":411,"pct":10.47,"elected":1}],"elected":49},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":18,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":574279,"townName":"Nové Město nad Metují","reg":411,"pct":32.19,"elected":7},{"num":529303,"townName":"Benešov","reg":411,"pct":30.73,"elected":10},{"num":553913,"townName":"Meclov","reg":411,"pct":20.48,"elected":3},{"num":574082,"townName":"Hronov","reg":411,"pct":19.26,"elected":4},{"num":553671,"townName":"Horšovský Týn","reg":411,"pct":19.12,"elected":3},{"num":551287,"townName":"Brno-Líšeň","reg":411,"pct":18.5,"elected":6},{"num":572926,"townName":"Hořice","reg":411,"pct":17.51,"elected":4},{"num":579351,"townName":"Janské Lázně","reg":411,"pct":16.05,"elected":2},{"num":576182,"townName":"Častolovice","reg":411,"pct":15.97,"elected":3},{"num":567639,"townName":"Krupka","reg":411,"pct":10.6,"elected":2}],"elected":53},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":17,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":533238,"townName":"Býchory","reg":411,"pct":76.53,"elected":7},{"num":563510,"townName":"Jablonec nad Nisou","reg":411,"pct":27.75,"elected":10},{"num":576182,"townName":"Častolovice","reg":411,"pct":25.5,"elected":4},{"num":579351,"townName":"Janské Lázně","reg":411,"pct":24.54,"elected":4},{"num":574082,"townName":"Hronov","reg":411,"pct":20.92,"elected":5},{"num":551287,"townName":"Brno-Líšeň","reg":411,"pct":18.52,"elected":5},{"num":572926,"townName":"Hořice","reg":411,"pct":16.98,"elected":4},{"num":553671,"townName":"Horšovský Týn","reg":411,"pct":12.49,"elected":2},{"num":567639,"townName":"Krupka","reg":411,"pct":9.98,"elected":2},{"num":534676,"townName":"Mělník","reg":411,"pct":9.78,"elected":2}],"elected":52}]},"coalition":[80,113]}
+{
+  "reg": 411,
+  "name": "Sdružení VPM, NK",
+  "hash": "sdruzeni-vpm--nk",
+  "short": "Sdružení VPM, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 579351,
+            "townName": "Janské Lázně",
+            "reg": 411,
+            "pct": 43.84,
+            "elected": 7
+          },
+          {
+            "num": 576883,
+            "townName": "Vamberk",
+            "reg": 411,
+            "pct": 35.56,
+            "elected": 6
+          },
+          {
+            "num": 574082,
+            "townName": "Hronov",
+            "reg": 411,
+            "pct": 31.97,
+            "elected": 7
+          },
+          {
+            "num": 574279,
+            "townName": "Nové Město nad Metují",
+            "reg": 411,
+            "pct": 24.28,
+            "elected": 6
+          },
+          {
+            "num": 556891,
+            "townName": "Liberec-Vratislavice nad Nisou",
+            "reg": 411,
+            "pct": 9.89,
+            "elected": 1
+          },
+          {
+            "num": 500097,
+            "townName": "Praha 3",
+            "reg": 411,
+            "pct": 3.4,
+            "elected": 0
+          }
+        ],
+        "elected": 27
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 18,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 579351,
+            "townName": "Janské Lázně",
+            "reg": 411,
+            "pct": 39.61,
+            "elected": 6
+          },
+          {
+            "num": 576883,
+            "townName": "Vamberk",
+            "reg": 411,
+            "pct": 38.7,
+            "elected": 6
+          },
+          {
+            "num": 574279,
+            "townName": "Nové Město nad Metují",
+            "reg": 411,
+            "pct": 35.34,
+            "elected": 8
+          },
+          {
+            "num": 529303,
+            "townName": "Benešov",
+            "reg": 411,
+            "pct": 24.42,
+            "elected": 7
+          },
+          {
+            "num": 574082,
+            "townName": "Hronov",
+            "reg": 411,
+            "pct": 15.2,
+            "elected": 3
+          },
+          {
+            "num": 576964,
+            "townName": "Semily",
+            "reg": 411,
+            "pct": 14.01,
+            "elected": 3
+          },
+          {
+            "num": 592889,
+            "townName": "Vyškov",
+            "reg": 411,
+            "pct": 12.56,
+            "elected": 4
+          },
+          {
+            "num": 553671,
+            "townName": "Horšovský Týn",
+            "reg": 411,
+            "pct": 12.51,
+            "elected": 2
+          },
+          {
+            "num": 567639,
+            "townName": "Krupka",
+            "reg": 411,
+            "pct": 11.56,
+            "elected": 3
+          },
+          {
+            "num": 584631,
+            "townName": "Lednice",
+            "reg": 411,
+            "pct": 10.47,
+            "elected": 1
+          }
+        ],
+        "elected": 49
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 18,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 574279,
+            "townName": "Nové Město nad Metují",
+            "reg": 411,
+            "pct": 32.19,
+            "elected": 7
+          },
+          {
+            "num": 529303,
+            "townName": "Benešov",
+            "reg": 411,
+            "pct": 30.73,
+            "elected": 10
+          },
+          {
+            "num": 553913,
+            "townName": "Meclov",
+            "reg": 411,
+            "pct": 20.48,
+            "elected": 3
+          },
+          {
+            "num": 574082,
+            "townName": "Hronov",
+            "reg": 411,
+            "pct": 19.26,
+            "elected": 4
+          },
+          {
+            "num": 553671,
+            "townName": "Horšovský Týn",
+            "reg": 411,
+            "pct": 19.12,
+            "elected": 3
+          },
+          {
+            "num": 551287,
+            "townName": "Brno-Líšeň",
+            "reg": 411,
+            "pct": 18.5,
+            "elected": 6
+          },
+          {
+            "num": 572926,
+            "townName": "Hořice",
+            "reg": 411,
+            "pct": 17.51,
+            "elected": 4
+          },
+          {
+            "num": 579351,
+            "townName": "Janské Lázně",
+            "reg": 411,
+            "pct": 16.05,
+            "elected": 2
+          },
+          {
+            "num": 576182,
+            "townName": "Častolovice",
+            "reg": 411,
+            "pct": 15.97,
+            "elected": 3
+          },
+          {
+            "num": 567639,
+            "townName": "Krupka",
+            "reg": 411,
+            "pct": 10.6,
+            "elected": 2
+          }
+        ],
+        "elected": 53
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 17,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 533238,
+            "townName": "Býchory",
+            "reg": 411,
+            "pct": 76.53,
+            "elected": 7
+          },
+          {
+            "num": 563510,
+            "townName": "Jablonec nad Nisou",
+            "reg": 411,
+            "pct": 27.75,
+            "elected": 10
+          },
+          {
+            "num": 576182,
+            "townName": "Častolovice",
+            "reg": 411,
+            "pct": 25.5,
+            "elected": 4
+          },
+          {
+            "num": 579351,
+            "townName": "Janské Lázně",
+            "reg": 411,
+            "pct": 24.54,
+            "elected": 4
+          },
+          {
+            "num": 574082,
+            "townName": "Hronov",
+            "reg": 411,
+            "pct": 20.92,
+            "elected": 5
+          },
+          {
+            "num": 551287,
+            "townName": "Brno-Líšeň",
+            "reg": 411,
+            "pct": 18.52,
+            "elected": 5
+          },
+          {
+            "num": 572926,
+            "townName": "Hořice",
+            "reg": 411,
+            "pct": 16.98,
+            "elected": 4
+          },
+          {
+            "num": 553671,
+            "townName": "Horšovský Týn",
+            "reg": 411,
+            "pct": 12.49,
+            "elected": 2
+          },
+          {
+            "num": 567639,
+            "townName": "Krupka",
+            "reg": 411,
+            "pct": 9.98,
+            "elected": 2
+          },
+          {
+            "num": 534676,
+            "townName": "Mělník",
+            "reg": 411,
+            "pct": 9.78,
+            "elected": 2
+          }
+        ],
+        "elected": 52
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    113
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

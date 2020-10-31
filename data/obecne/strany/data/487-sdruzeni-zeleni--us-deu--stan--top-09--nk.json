@@ -1,0 +1,45 @@
+{
+  "reg": 487,
+  "name": "Sdružení Zelení, US-DEU, STAN, TOP 09, NK",
+  "hash": "sdruzeni-zeleni--us-deu--stan--top-09--nk",
+  "short": "Sdružení Zelení, US-DEU, STAN, TOP 09, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 588458,
+            "townName": "Holešov",
+            "reg": 487,
+            "pct": 14.03,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "coalition": [
+    5,
+    80,
+    102,
+    166,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

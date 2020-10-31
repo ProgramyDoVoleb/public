@@ -1,1 +1,42 @@
-{"reg":668,"name":"Koalice KDU-ČSL, HNHRM","hash":"koalice-kdu-csl--hnhrm","short":"Koalice KDU-ČSL, HNHRM","coalition":[1,112],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":562882,"townName":"Varnsdorf","reg":668,"pct":12.6,"elected":3}],"elected":3}]}}
+{
+  "reg": 668,
+  "name": "Koalice KDU-ČSL, HNHRM",
+  "hash": "koalice-kdu-csl--hnhrm",
+  "short": "Koalice KDU-ČSL, HNHRM",
+  "coalition": [
+    1,
+    112
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 562882,
+            "townName": "Varnsdorf",
+            "reg": 668,
+            "pct": 12.6,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

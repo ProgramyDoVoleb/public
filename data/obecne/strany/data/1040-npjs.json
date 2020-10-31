@@ -1,1 +1,102 @@
-{"reg":1040,"name":"NOVÁ PLZEŇ s Jiřím Strobachem","hash":"npjs","short":"NPJS","links":{"global":[],"regional":[]},"color":"#736111","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[{"num":554791,"townName":"Plzeň","reg":1040,"pct":2.75,"elected":0}],"top10":[{"num":554731,"townName":"Plzeň 5-Křimice","reg":1040,"pct":9.58,"elected":1},{"num":546003,"townName":"Plzeň 3","reg":1040,"pct":6.18,"elected":2},{"num":554791,"townName":"Plzeň","reg":1040,"pct":2.75,"elected":0},{"num":546208,"townName":"Plzeň 4","reg":1040,"pct":1.81,"elected":0},{"num":545970,"townName":"Plzeň 1","reg":1040,"pct":1.67,"elected":0},{"num":545988,"townName":"Plzeň 2-Slovany","reg":1040,"pct":1.32,"elected":0}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":546003,"townName":"Plzeň 3","reg":1040,"pct":15.07,"elected":6}],"elected":6}]}}
+{
+  "reg": 1040,
+  "name": "NOVÁ PLZEŇ s Jiřím Strobachem",
+  "hash": "npjs",
+  "short": "NPJS",
+  "color": "#736111",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 1040,
+            "pct": 2.75,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554731,
+            "townName": "Plzeň 5-Křimice",
+            "reg": 1040,
+            "pct": 9.58,
+            "elected": 1
+          },
+          {
+            "num": 546003,
+            "townName": "Plzeň 3",
+            "reg": 1040,
+            "pct": 6.18,
+            "elected": 2
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 1040,
+            "pct": 2.75,
+            "elected": 0
+          },
+          {
+            "num": 546208,
+            "townName": "Plzeň 4",
+            "reg": 1040,
+            "pct": 1.81,
+            "elected": 0
+          },
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 1040,
+            "pct": 1.67,
+            "elected": 0
+          },
+          {
+            "num": 545988,
+            "townName": "Plzeň 2-Slovany",
+            "reg": 1040,
+            "pct": 1.32,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 546003,
+            "townName": "Plzeň 3",
+            "reg": 1040,
+            "pct": 15.07,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

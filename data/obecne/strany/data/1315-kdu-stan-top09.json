@@ -1,1 +1,86 @@
-{"reg":1315,"name":"Koalice KDU-ČSL, STAN a TOP 09","hash":"kdu-stan-top09","short":"KDU+STAN+TOP09","coalition":[1,166,721],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[{"num":554804,"townName":"Ústí nad Labem","reg":1315,"pct":3.64,"elected":0}],"top10":[{"num":547361,"townName":"Praha 14","reg":1315,"pct":29.44,"elected":11},{"num":532053,"townName":"Kladno","reg":1315,"pct":13.67,"elected":5},{"num":501298,"townName":"Ústí nad Labem-Severní Terasa","reg":1315,"pct":4.39,"elected":0},{"num":554804,"townName":"Ústí nad Labem","reg":1315,"pct":3.64,"elected":0},{"num":502316,"townName":"Ústí nad Labem-Střekov","reg":1315,"pct":3.2,"elected":0},{"num":502081,"townName":"Ústí nad Labem-Neštěmice","reg":1315,"pct":2.31,"elected":0}],"elected":16}]}}
+{
+  "reg": 1315,
+  "name": "Koalice KDU-ČSL, STAN a TOP 09",
+  "hash": "kdu+stan+top09",
+  "short": "KDU+STAN+TOP09",
+  "coalition": [
+    1,
+    166,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 1315,
+            "pct": 3.64,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 547361,
+            "townName": "Praha 14",
+            "reg": 1315,
+            "pct": 29.44,
+            "elected": 11
+          },
+          {
+            "num": 532053,
+            "townName": "Kladno",
+            "reg": 1315,
+            "pct": 13.67,
+            "elected": 5
+          },
+          {
+            "num": 501298,
+            "townName": "Ústí nad Labem-Severní Terasa",
+            "reg": 1315,
+            "pct": 4.39,
+            "elected": 0
+          },
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 1315,
+            "pct": 3.64,
+            "elected": 0
+          },
+          {
+            "num": 502316,
+            "townName": "Ústí nad Labem-Střekov",
+            "reg": 1315,
+            "pct": 3.2,
+            "elected": 0
+          },
+          {
+            "num": 502081,
+            "townName": "Ústí nad Labem-Neštěmice",
+            "reg": 1315,
+            "pct": 2.31,
+            "elected": 0
+          }
+        ],
+        "elected": 16
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

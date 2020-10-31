@@ -1,1 +1,36 @@
-{"reg":777,"name":"Strana Češi","hash":"cesi","short":"Češi","links":{"global":[],"regional":[]},"color":"#ea999e","usualCoalitionWith":[{"count":1,"reg":724}],"memberOf":[582],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":1,"reg":582,"name":"Koalice SPOZ a Češi","coalition":[724,777],"elected":0}]}]}}
+{
+  "reg": 777,
+  "name": "Strana Češi",
+  "hash": "cesi",
+  "short": "Češi",
+  "color": "#ea999e",
+  "memberOf": [
+    582
+  ],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 1,
+            "reg": 582,
+            "name": "Koalice SPOZ a Češi",
+            "coalition": [
+              724,
+              777
+            ],
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,21 @@
-{"reg":474,"name":"Sdružení ČSSD, KSČM, NK","hash":"sdruzeni-cssd--kscm--nk","short":"Sdružení ČSSD, KSČM, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[7,47,80]}
+{
+  "reg": 474,
+  "name": "Sdružení ČSSD, KSČM, NK",
+  "hash": "sdruzeni-cssd--kscm--nk",
+  "short": "Sdružení ČSSD, KSČM, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    7,
+    47,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

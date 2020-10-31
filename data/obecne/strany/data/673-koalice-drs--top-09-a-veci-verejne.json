@@ -1,0 +1,43 @@
+{
+  "reg": 673,
+  "name": "Koalice DRS, TOP 09 a Věci veřejné",
+  "hash": "koalice-drs--top-09-a-veci-verejne",
+  "short": "Koalice DRS, TOP 09 a Věci veřejné",
+  "coalition": [
+    110,
+    144,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 564061,
+            "townName": "Hodkovice nad Mohelkou",
+            "reg": 673,
+            "pct": 31.26,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,326 @@
-{"reg":1227,"name":"Trikolóra hnutí občanů","hash":"trikolora","short":"Trikolóra","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1227,
+  "name": "Trikolóra hnutí občanů",
+  "hash": "trikolora",
+  "short": "Trikolóra",
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#2b3acc",
+  "usualCoalitionWith": [],
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 21,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "prof. Ing.",
+              "Mansoor",
+              "Maitah",
+              "Ph.D. et Ph.D."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.5,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "Mgr.",
+              "Václav",
+              "Krása",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "prof. RNDr.",
+              "Ivo",
+              "Budil",
+              "Ph.D., DSc."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.12,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Landa",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.17,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Říha",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "",
+              "Jiří",
+              "Štěrba",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "",
+              "Petr",
+              "Brábník",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.32,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "Matoušek",
+              "MPA"
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.19,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "Mgr.",
+              "Zdeněk",
+              "Pištora",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "JUDr.",
+              "Richard",
+              "Novák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "Mgr.",
+              "Andrea",
+              "Wlochová",
+              "Ph.D."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.23,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 1,
+            "reg": 1227,
+            "pct": 3.25,
+            "elected": 0
+          },
+          {
+            "area": 2,
+            "reg": 1227,
+            "pct": 3.49,
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 1227,
+            "pct": 2.47,
+            "elected": 0
+          },
+          {
+            "area": 4,
+            "reg": 1227,
+            "pct": 3.09,
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 1227,
+            "pct": 3.3,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 1227,
+            "pct": 2.42,
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 1227,
+            "pct": 3.09,
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 1446,
+            "name": "Koalice Trikolóra a Soukromníci",
+            "coalition": [
+              716,
+              1227
+            ],
+            "pct": 2.68,
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 1446,
+            "name": "Koalice Trikolóra a Soukromníci",
+            "coalition": [
+              716,
+              1227
+            ],
+            "pct": 2.79,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 1227,
+            "pct": 2.64,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 1227,
+            "pct": 4.3,
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 1458,
+            "name": "Koalice Trikolóra, Soukromníci a NEZ",
+            "coalition": [
+              88,
+              716,
+              1227
+            ],
+            "pct": 5.99,
+            "elected": 3
+          },
+          {
+            "area": 13,
+            "reg": 1227,
+            "pct": 2.77,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20200605,
+        "date": 20200605,
+        "list": [
+          {
+            "area": 32,
+            "reg": 1227,
+            "nominee": 1227,
+            "candidate": [
+              "Ing. Mgr.",
+              "Zdeněk",
+              "Pešek",
+              "MBA"
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.51,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/1227-trikolora.png"
+}

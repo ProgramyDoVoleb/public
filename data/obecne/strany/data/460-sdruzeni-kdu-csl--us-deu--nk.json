@@ -1,1 +1,43 @@
-{"reg":460,"name":"Sdružení KDU-ČSL, US-DEU, NK","coalition":[1,80,102],"color":"#aaa","hash":"sdruzeni-kdu-csl--us-deu--nk","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551066,"townName":"Brno-Černovice","reg":460,"pct":16.75,"elected":4}],"elected":4}]}}
+{
+  "reg": 460,
+  "name": "Sdružení KDU-ČSL, US-DEU, NK",
+  "coalition": [
+    1,
+    80,
+    102
+  ],
+  "color": "#aaa",
+  "hash": "sdruzeni-kdu-csl--us-deu--nk",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551066,
+            "townName": "Brno-Černovice",
+            "reg": 460,
+            "pct": 16.75,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "short": "Sdružení KDU-ČSL, US-DEU, NK",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

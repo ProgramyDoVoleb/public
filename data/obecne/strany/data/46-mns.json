@@ -1,1 +1,146 @@
-{"reg":46,"name":"Moravská národní strana","hash":"mns","short":"MNS","links":{"global":[],"regional":[]},"color":"#eede2c","usualCoalitionWith":[{"count":1,"reg":32},{"count":1,"reg":83}],"memberOf":[345],"activity":{"last":19961116,"list":[{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":59,"reg":46,"nominee":80,"candidate":["PhDr.","Petr","Němec",""],"elected":false,"round1":{"pct":1.64,"progress":false}},{"area":65,"reg":46,"nominee":80,"candidate":["PhDr.","Jiří","Kvapil",""],"elected":false,"round1":{"pct":2.73,"progress":false}},{"area":67,"reg":46,"nominee":80,"candidate":["","Antonín","Hrňa",""],"elected":false,"round1":{"pct":1.89,"progress":false}},{"area":76,"reg":46,"nominee":80,"candidate":["Ing.","Ivan","Dřímal",""],"elected":false,"round1":{"pct":2.94,"progress":false}},{"area":77,"reg":46,"nominee":80,"candidate":["","Jiří","Kozák",""],"elected":false,"round1":{"pct":1.1,"progress":false}},{"area":78,"reg":46,"nominee":80,"candidate":["","Alexander","Gola",""],"elected":false,"round1":{"pct":1.94,"progress":false}},{"area":80,"reg":46,"nominee":80,"candidate":["Ing.","František","Janků",""],"elected":false,"round1":{"pct":4.45,"progress":false}}]},{"type":"snemovni-volby","id":1996,"date":19960531,"reg":46,"pct":0.27,"elected":0}]}}
+{
+  "reg": 46,
+  "name": "Moravská národní strana",
+  "hash": "mns",
+  "short": "MNS",
+  "color": "#eede2c",
+  "memberOf": [
+    345
+  ],
+  "activity": {
+    "last": 19961116,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 59,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "PhDr.",
+              "Petr",
+              "Němec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.64,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "PhDr.",
+              "Jiří",
+              "Kvapil",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.73,
+              "progress": false
+            }
+          },
+          {
+            "area": 67,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Antonín",
+              "Hrňa",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 76,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Dřímal",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 77,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Jiří",
+              "Kozák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Alexander",
+              "Gola",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 80,
+            "reg": 46,
+            "nominee": 80,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Janků",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.45,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 1996,
+        "date": 19960531,
+        "reg": 46,
+        "pct": 0.27,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

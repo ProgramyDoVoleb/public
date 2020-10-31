@@ -1,1 +1,20 @@
-{"reg":418,"name":"Sdružení RMS, NK","hash":"sdruzeni-rms--nk","short":"Sdružení RMS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[80,127]}
+{
+  "reg": 418,
+  "name": "Sdružení RMS, NK",
+  "hash": "sdruzeni-rms--nk",
+  "short": "Sdružení RMS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    80,
+    127
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

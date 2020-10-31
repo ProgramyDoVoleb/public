@@ -1,1 +1,50 @@
-{"reg":1050,"name":"Koalice KDU-ČSL a Z21","hash":"kdu-csl-z21","short":"KDU-ČSL+Z21","coalition":[1,797],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":585068,"townName":"Zlín","reg":1050,"pct":11.51,"elected":6}],"top10":[{"num":585068,"townName":"Zlín","reg":1050,"pct":11.51,"elected":6}],"elected":6}]}}
+{
+  "reg": 1050,
+  "name": "Koalice KDU-ČSL a Z21",
+  "hash": "kdu-csl+z21",
+  "short": "KDU-ČSL+Z21",
+  "coalition": [
+    1,
+    797
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 1050,
+            "pct": 11.51,
+            "elected": 6
+          }
+        ],
+        "top10": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 1050,
+            "pct": 11.51,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

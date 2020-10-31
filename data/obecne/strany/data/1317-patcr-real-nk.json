@@ -1,1 +1,43 @@
-{"reg":1317,"name":"Sdružení Patrioti ČR, REAL, NK","hash":"patcr-real-nk","short":"PatČR+REAL+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":500208,"townName":"Praha 8","reg":1317,"pct":5.63,"elected":3}],"elected":3}]},"coalition":[80,100,117]}
+{
+  "reg": 1317,
+  "name": "Sdružení Patrioti ČR, REAL, NK",
+  "hash": "patcr+real+nk",
+  "short": "PatČR+REAL+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500208,
+            "townName": "Praha 8",
+            "reg": 1317,
+            "pct": 5.63,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    100,
+    117
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

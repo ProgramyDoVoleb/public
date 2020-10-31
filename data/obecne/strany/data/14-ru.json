@@ -1,1 +1,36 @@
-{"reg":14,"name":"Republikánská unie","hash":"ru","short":"RU","links":{"global":[],"regional":[]},"color":"#bb55dd","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":3,"reg":14,"pct":0.07,"elected":0},{"area":6,"reg":14,"pct":0.09,"elected":0}]}]}}
+{
+  "reg": 14,
+  "name": "Republikánská unie",
+  "hash": "ru",
+  "short": "RU",
+  "color": "#bb55dd",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 3,
+            "reg": 14,
+            "pct": 0.07,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 14,
+            "pct": 0.09,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

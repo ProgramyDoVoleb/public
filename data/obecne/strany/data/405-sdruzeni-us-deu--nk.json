@@ -1,1 +1,112 @@
-{"reg":405,"name":"Sdružení US-DEU, NK","hash":"sdruzeni-us-deu--nk","short":"Sdružení US-DEU, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":5,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":585254,"townName":"Hostišová","reg":405,"pct":44.63,"elected":3},{"num":576590,"townName":"Opočno","reg":405,"pct":36.75,"elected":7},{"num":540765,"townName":"Mníšek pod Brdy","reg":405,"pct":14.34,"elected":2},{"num":583782,"townName":"Rosice","reg":405,"pct":7.64,"elected":1},{"num":505927,"townName":"Opava","reg":405,"pct":2.27,"elected":0}],"elected":13},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":577995,"townName":"Dolní Újezd","reg":405,"pct":18.85,"elected":3},{"num":583782,"townName":"Rosice","reg":405,"pct":8.62,"elected":2},{"num":505927,"townName":"Opava","reg":405,"pct":5.4,"elected":2},{"num":583952,"townName":"Šlapanice","reg":405,"pct":4.98,"elected":0}],"elected":7}]},"coalition":[80,102]}
+{
+  "reg": 405,
+  "name": "Sdružení US-DEU, NK",
+  "hash": "sdruzeni-us-deu--nk",
+  "short": "Sdružení US-DEU, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 585254,
+            "townName": "Hostišová",
+            "reg": 405,
+            "pct": 44.63,
+            "elected": 3
+          },
+          {
+            "num": 576590,
+            "townName": "Opočno",
+            "reg": 405,
+            "pct": 36.75,
+            "elected": 7
+          },
+          {
+            "num": 540765,
+            "townName": "Mníšek pod Brdy",
+            "reg": 405,
+            "pct": 14.34,
+            "elected": 2
+          },
+          {
+            "num": 583782,
+            "townName": "Rosice",
+            "reg": 405,
+            "pct": 7.64,
+            "elected": 1
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 405,
+            "pct": 2.27,
+            "elected": 0
+          }
+        ],
+        "elected": 13
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 577995,
+            "townName": "Dolní Újezd",
+            "reg": 405,
+            "pct": 18.85,
+            "elected": 3
+          },
+          {
+            "num": 583782,
+            "townName": "Rosice",
+            "reg": 405,
+            "pct": 8.62,
+            "elected": 2
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 405,
+            "pct": 5.4,
+            "elected": 2
+          },
+          {
+            "num": 583952,
+            "townName": "Šlapanice",
+            "reg": 405,
+            "pct": 4.98,
+            "elected": 0
+          }
+        ],
+        "elected": 7
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    102
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

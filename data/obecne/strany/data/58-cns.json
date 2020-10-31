@@ -1,1 +1,16 @@
-{"reg":58,"name":"Česká národní strana","hash":"cns","short":"ČNS","links":{"global":[],"regional":[]},"color":"#b43ae0","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 58,
+  "name": "Česká národní strana",
+  "hash": "cns",
+  "short": "ČNS",
+  "color": "#b43ae0",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,136 @@
-{"reg":737,"name":"ČESKÁ NEZÁVISLÁ","hash":"cnez","short":"\"ČNEZ\"","links":{"global":[],"regional":[]},"color":"#4b6f07","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":563021,"townName":"Černovice","reg":737,"pct":49.91,"elected":4},{"num":563242,"townName":"Místo","reg":737,"pct":46.68,"elected":5},{"num":563269,"townName":"Okounov","reg":737,"pct":10.46,"elected":1},{"num":567621,"townName":"Košťany","reg":737,"pct":5.91,"elected":1}],"elected":11},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":9,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":563021,"townName":"Černovice","reg":737,"pct":91.27,"elected":7},{"num":567621,"townName":"Košťany","reg":737,"pct":33.67,"elected":6},{"num":563242,"townName":"Místo","reg":737,"pct":28.03,"elected":3},{"num":577197,"townName":"Jilemnice","reg":737,"pct":11.05,"elected":2},{"num":562858,"townName":"Šluknov","reg":737,"pct":8.14,"elected":1},{"num":563099,"townName":"Jirkov","reg":737,"pct":5.98,"elected":1},{"num":545830,"townName":"Větřní","reg":737,"pct":3.58,"elected":0},{"num":567477,"townName":"Bystřany","reg":737,"pct":3.12,"elected":0},{"num":563129,"townName":"Klášterec nad Ohří","reg":737,"pct":2.33,"elected":0}],"elected":20}]}}
+{
+  "reg": 737,
+  "name": "ČESKÁ NEZÁVISLÁ",
+  "hash": "\"cnez\"",
+  "short": "\"ČNEZ\"",
+  "color": "#4b6f07",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 563021,
+            "townName": "Černovice",
+            "reg": 737,
+            "pct": 49.91,
+            "elected": 4
+          },
+          {
+            "num": 563242,
+            "townName": "Místo",
+            "reg": 737,
+            "pct": 46.68,
+            "elected": 5
+          },
+          {
+            "num": 563269,
+            "townName": "Okounov",
+            "reg": 737,
+            "pct": 10.46,
+            "elected": 1
+          },
+          {
+            "num": 567621,
+            "townName": "Košťany",
+            "reg": 737,
+            "pct": 5.91,
+            "elected": 1
+          }
+        ],
+        "elected": 11
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 9,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 563021,
+            "townName": "Černovice",
+            "reg": 737,
+            "pct": 91.27,
+            "elected": 7
+          },
+          {
+            "num": 567621,
+            "townName": "Košťany",
+            "reg": 737,
+            "pct": 33.67,
+            "elected": 6
+          },
+          {
+            "num": 563242,
+            "townName": "Místo",
+            "reg": 737,
+            "pct": 28.03,
+            "elected": 3
+          },
+          {
+            "num": 577197,
+            "townName": "Jilemnice",
+            "reg": 737,
+            "pct": 11.05,
+            "elected": 2
+          },
+          {
+            "num": 562858,
+            "townName": "Šluknov",
+            "reg": 737,
+            "pct": 8.14,
+            "elected": 1
+          },
+          {
+            "num": 563099,
+            "townName": "Jirkov",
+            "reg": 737,
+            "pct": 5.98,
+            "elected": 1
+          },
+          {
+            "num": 545830,
+            "townName": "Větřní",
+            "reg": 737,
+            "pct": 3.58,
+            "elected": 0
+          },
+          {
+            "num": 567477,
+            "townName": "Bystřany",
+            "reg": 737,
+            "pct": 3.12,
+            "elected": 0
+          },
+          {
+            "num": 563129,
+            "townName": "Klášterec nad Ohří",
+            "reg": 737,
+            "pct": 2.33,
+            "elected": 0
+          }
+        ],
+        "elected": 20
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

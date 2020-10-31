@@ -1,1 +1,38 @@
-{"reg":1063,"name":"Moderní společnost","hash":"modes","short":"MODES","links":{"global":[],"regional":[]},"color":"#3e9076","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":597180,"townName":"Bruntál","reg":1063,"pct":1.6,"elected":0}],"elected":0}]}}
+{
+  "reg": 1063,
+  "name": "Moderní společnost",
+  "hash": "modes",
+  "short": "MODES",
+  "color": "#3e9076",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 597180,
+            "townName": "Bruntál",
+            "reg": 1063,
+            "pct": 1.6,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

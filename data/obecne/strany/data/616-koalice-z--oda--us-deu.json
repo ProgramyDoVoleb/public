@@ -1,1 +1,51 @@
-{"reg":616,"name":"Koalice Z, ODA, US-DEU","hash":"koalice-z--oda--us-deu","short":"Koalice Z, ODA, US-DEU","coalition":[13,102,177],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554821,"townName":"Ostrava","reg":616,"pct":0.45,"elected":0}],"top10":[{"num":554821,"townName":"Ostrava","reg":616,"pct":0.45,"elected":0}],"elected":0}]}}
+{
+  "reg": 616,
+  "name": "Koalice Z, ODA, US-DEU",
+  "hash": "koalice-z--oda--us-deu",
+  "short": "Koalice Z, ODA, US-DEU",
+  "coalition": [
+    13,
+    102,
+    177
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 616,
+            "pct": 0.45,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 616,
+            "pct": 0.45,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

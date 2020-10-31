@@ -1,1 +1,81 @@
-{"reg":1202,"name":"Sdružení pro Místní Správu","hash":"sms","short":"SMS","links":{"global":[],"regional":[]},"color":"#c70df2","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1202,
+  "name": "Sdružení pro Místní Správu",
+  "hash": "sms",
+  "short": "SMS",
+  "color": "#c70df2",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 2
+        },
+        "coalitions": [
+          1416,
+          1405
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1405,
+            "name": "Koalice KONS, KAN, KČ, SNK ED, evropani a SMS",
+            "coalition": [
+              24,
+              40,
+              55,
+              129,
+              1005,
+              1202
+            ],
+            "pct": 0.36,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 538175,
+            "townName": "Praha-Dolní Počernice",
+            "reg": 1416,
+            "name": "Koalice KONS, KČ, SNK ED a SMS",
+            "coalition": [
+              24,
+              55,
+              129,
+              1202
+            ],
+            "pct": 27.64,
+            "elected": 4
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1405,
+            "name": "Koalice KONS, KAN, KČ, SNK ED, evropani a SMS",
+            "coalition": [
+              24,
+              40,
+              55,
+              129,
+              1005,
+              1202
+            ],
+            "pct": 0.36,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

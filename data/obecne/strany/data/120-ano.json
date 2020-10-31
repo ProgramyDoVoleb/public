@@ -1,1 +1,78 @@
-{"reg":120,"name":"Aliance nezávislých občanů","hash":"ano","short":"ANO","links":{"global":[],"regional":[]},"color":"#a96663","usualCoalitionWith":[{"count":3,"reg":80},{"count":3,"reg":24},{"count":2,"reg":55},{"count":2,"reg":129},{"count":1,"reg":166},{"count":1,"reg":40},{"count":1,"reg":100}],"memberOf":[1316,1356,1357,1405,1416,1434],"activity":{"last":20190405,"list":[{"type":"senatni-volby","id":20190405,"date":20190405,"list":[{"area":24,"reg":120,"nominee":120,"candidate":["Mgr.","Martin","Hrubčík",""],"elected":false,"round1":{"pct":12.46,"progress":false}}]},{"type":"senatni-volby","id":20181005,"date":20181005,"list":[{"area":11,"reg":120,"nominee":120,"candidate":["JUDr.","Miroslav","Vokáč",""],"elected":false,"round1":{"pct":14.65,"progress":false}},{"area":17,"reg":120,"nominee":120,"candidate":["Ing.","Ivan","Pilný",""],"elected":false,"round1":{"pct":12.51,"progress":false}},{"area":2,"reg":120,"nominee":120,"candidate":["","Renata","Oulehlová",""],"elected":false,"round1":{"pct":25.72,"progress":true},"round2":{"pct":40.52,"progress":false}},{"area":26,"reg":120,"nominee":120,"candidate":["MUDr.","Roman","Kerekeš",""],"elected":false,"round1":{"pct":8.6,"progress":false}},{"area":29,"reg":120,"nominee":120,"candidate":["MUDr.","Ondřej","Štěrba",""],"elected":false,"round1":{"pct":19.53,"progress":true},"round2":{"pct":43.59,"progress":false}},{"area":38,"reg":120,"nominee":120,"candidate":["","Jiří","Müller",""],"elected":false,"round1":{"pct":17.9,"progress":true},"round2":{"pct":38.03,"progress":false}},{"area":41,"reg":120,"nominee":120,"candidate":["Ing.","Jiří","Švadlena",""],"elected":false,"round1":{"pct":14.2,"progress":false}},{"area":47,"reg":120,"nominee":120,"candidate":["","Petr","Koleta",""],"elected":false,"round1":{"pct":22.47,"progress":false}},{"area":62,"reg":120,"nominee":120,"candidate":["","Irena","Blažková",""],"elected":false,"round1":{"pct":12.67,"progress":false}},{"area":68,"reg":120,"nominee":120,"candidate":["Mgr.","Simona","Horáková",""],"elected":false,"round1":{"pct":21.54,"progress":true},"round2":{"pct":31.49,"progress":false}}]},{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":6},"coalitions":[1316,1416,1405,1434,1356,1357],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1405,"name":"Koalice KONS, KAN, KČ, SNK ED, evropani a SMS","coalition":[24,40,55,129,100,120],"pct":0.36,"elected":0}],"top10":[{"num":538175,"townName":"Praha-Dolní Počernice","reg":1416,"name":"Koalice KONS, KČ, SNK ED a SMS","coalition":[24,55,129,120],"pct":27.64,"elected":4},{"num":500208,"townName":"Praha 8","reg":1316,"name":"Sdružení SMS, NK","coalition":[80,120],"pct":14.7,"elected":8},{"num":551082,"townName":"Brno-Bohunice","reg":1357,"name":"Sdružení Brno+, NK","coalition":[80,120],"pct":14.13,"elected":3},{"num":551074,"townName":"Brno-jih","reg":1356,"name":"Koalice KONS, STAN a Brno+","coalition":[24,166,120],"pct":7.49,"elected":1},{"num":551058,"townName":"Brno-Židenice","reg":1434,"name":"Sdružení \"ŠMČ\", NK","coalition":[80,120],"pct":5.45,"elected":1},{"num":554782,"townName":"Hlavní město Praha","reg":1405,"name":"Koalice KONS, KAN, KČ, SNK ED, evropani a SMS","coalition":[24,40,55,129,100,120],"pct":0.36,"elected":0}],"elected":17},{"type":"senatni-volby","id":20170127,"date":20170127,"list":[{"area":4,"reg":120,"nominee":120,"candidate":["Mgr.","Roman","Ziegler",""],"elected":false,"round1":{"pct":6.69,"progress":false}}]},{"type":"senatni-volby","id":20161007,"date":20161007,"list":[{"area":16,"reg":120,"nominee":120,"candidate":["","Bohumil","Stibal",""],"elected":false,"round1":{"pct":16.78,"progress":true},"round2":{"pct":36.85,"progress":false}},{"area":19,"reg":120,"nominee":120,"candidate":["prof.","Helena","Válková",""],"elected":false,"round1":{"pct":19.23,"progress":true},"round2":{"pct":44.1,"progress":false}},{"area":37,"reg":120,"nominee":120,"candidate":["JUDr.","Jan","Malý",""],"elected":false,"round1":{"pct":25.11,"progress":true},"round2":{"pct":40.86,"progress":false}},{"area":40,"reg":120,"nominee":120,"candidate":["Prof.","Julius","Špičák",""],"elected":false,"round1":{"pct":17.54,"progress":false}},{"area":43,"reg":120,"nominee":120,"candidate":["Ing.","Jaroslav","Menšík",""],"elected":false,"round1":{"pct":15.57,"progress":true},"round2":{"pct":29.7,"progress":false}},{"area":49,"reg":120,"nominee":120,"candidate":["Ing.","Jiří","Míšenský",""],"elected":false,"round1":{"pct":11.03,"progress":false}},{"area":52,"reg":120,"nominee":120,"candidate":["MUDr.","Zdeněk","Faltus",""],"elected":false,"round1":{"pct":15.34,"progress":false}},{"area":55,"reg":120,"nominee":120,"candidate":["Ing.","Pavel","Staněk",""],"elected":false,"round1":{"pct":19.65,"progress":true},"round2":{"pct":47.36,"progress":false}},{"area":61,"reg":120,"nominee":120,"candidate":["MUDr.","Milan","Brázdil",""],"elected":false,"round1":{"pct":33.18,"progress":true},"round2":{"pct":47.55,"progress":false}},{"area":67,"reg":120,"nominee":120,"candidate":["","Jiří","Strýček",""],"elected":false,"round1":{"pct":18.9,"progress":false}},{"area":7,"reg":120,"nominee":120,"candidate":["Mgr.","Miloslava","Rutová",""],"elected":false,"round1":{"pct":16.79,"progress":false}},{"area":70,"reg":120,"nominee":120,"candidate":["Mgr.","Radim","Babinec",""],"elected":false,"round1":{"pct":14.39,"progress":false}}]},{"type":"senatni-volby","id":20141010,"date":20141010,"list":[{"area":12,"reg":120,"nominee":120,"candidate":["","Mario","Vlček",""],"elected":false,"round1":{"pct":9.46,"progress":false}},{"area":3,"reg":120,"nominee":120,"candidate":["Ing.","Jiří","Dufka",""],"elected":false,"round1":{"pct":21.86,"progress":true},"round2":{"pct":44.64,"progress":false}},{"area":30,"reg":120,"nominee":120,"candidate":["MUDr.","Jiří","LANDA",""],"elected":false,"round1":{"pct":14.89,"progress":false}},{"area":33,"reg":120,"nominee":120,"candidate":["Bc.","Marcela","Dvořáčková",""],"elected":false,"round1":{"pct":14.95,"progress":false}},{"area":36,"reg":120,"nominee":120,"candidate":["Bc.","Milan","Adamec",""],"elected":false,"round1":{"pct":15.49,"progress":false}},{"area":42,"reg":120,"nominee":120,"candidate":["Ing.","Regina","Davídková",""],"elected":false,"round1":{"pct":15.93,"progress":false}},{"area":48,"reg":120,"nominee":120,"candidate":["","Petr","Sadovský",""],"elected":false,"round1":{"pct":13.72,"progress":false}},{"area":57,"reg":120,"nominee":120,"candidate":["Ing.","Pavel","Zůna",""],"elected":false,"round1":{"pct":20.28,"progress":false}},{"area":60,"reg":120,"nominee":120,"candidate":["doc.Ing.arch.PhDr.","Karel","Schmeidler",""],"elected":false,"round1":{"pct":14.88,"progress":false}},{"area":63,"reg":120,"nominee":120,"candidate":["Ing.","Antonín","Prachař",""],"elected":false,"round1":{"pct":30.17,"progress":true},"round2":{"pct":45.73,"progress":false}},{"area":9,"reg":120,"nominee":120,"candidate":["Mgr.","Miloslava","Rutová",""],"elected":false,"round1":{"pct":19.09,"progress":false}}]},{"type":"senatni-volby","id":20121012,"date":20121012,"list":[{"area":23,"reg":120,"nominee":120,"candidate":["Bc.","Petr","Binder",""],"elected":false,"round1":{"pct":4.92,"progress":false}}]}]}}
+{
+  "reg": 120,
+  "name": "Aliance nezávislých občanů",
+  "hash": "ano",
+  "short": "ANO",
+  "color": "#a96663",
+  "memberOf": [
+    1316,
+    1356,
+    1357,
+    1405,
+    1416,
+    1434
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 3
+        },
+        "coalitions": [
+          1316,
+          1434,
+          1357
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 500208,
+            "townName": "Praha 8",
+            "reg": 1316,
+            "name": "Sdružení SMS, NK",
+            "coalition": [
+              80,
+              120
+            ],
+            "pct": 14.7,
+            "elected": 8
+          },
+          {
+            "num": 551082,
+            "townName": "Brno-Bohunice",
+            "reg": 1357,
+            "name": "Sdružení Brno+, NK",
+            "coalition": [
+              80,
+              120
+            ],
+            "pct": 14.13,
+            "elected": 3
+          },
+          {
+            "num": 551058,
+            "townName": "Brno-Židenice",
+            "reg": 1434,
+            "name": "Sdružení \"ŠMČ\", NK",
+            "coalition": [
+              80,
+              120
+            ],
+            "pct": 5.45,
+            "elected": 1
+          }
+        ],
+        "elected": 12
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

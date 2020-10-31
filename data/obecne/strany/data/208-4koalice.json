@@ -1,1 +1,108 @@
-{"reg":208,"name":"Čtyřkoalice","hash":"4koalice","short":"4KOALICE","coalition":[1,13,81,102],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":1,"reg":208,"pct":21.3,"elected":16},{"area":2,"reg":208,"pct":22.52,"elected":13},{"area":3,"reg":208,"pct":16.69,"elected":8},{"area":4,"reg":208,"pct":19.1,"elected":10},{"area":5,"reg":208,"pct":13.73,"elected":9},{"area":6,"reg":208,"pct":14.79,"elected":8},{"area":7,"reg":208,"pct":26.23,"elected":14},{"area":8,"reg":208,"pct":29.37,"elected":15},{"area":9,"reg":208,"pct":25.46,"elected":13},{"area":10,"reg":208,"pct":31.64,"elected":23},{"area":11,"reg":208,"pct":24.19,"elected":15},{"area":12,"reg":208,"pct":31.36,"elected":15},{"area":13,"reg":208,"pct":16.77,"elected":12}]}]}}
+{
+  "reg": 208,
+  "name": "Čtyřkoalice",
+  "hash": "4koalice",
+  "short": "4KOALICE",
+  "coalition": [
+    1,
+    13,
+    81,
+    102
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 1,
+            "reg": 208,
+            "pct": 21.3,
+            "elected": 16
+          },
+          {
+            "area": 2,
+            "reg": 208,
+            "pct": 22.52,
+            "elected": 13
+          },
+          {
+            "area": 3,
+            "reg": 208,
+            "pct": 16.69,
+            "elected": 8
+          },
+          {
+            "area": 4,
+            "reg": 208,
+            "pct": 19.1,
+            "elected": 10
+          },
+          {
+            "area": 5,
+            "reg": 208,
+            "pct": 13.73,
+            "elected": 9
+          },
+          {
+            "area": 6,
+            "reg": 208,
+            "pct": 14.79,
+            "elected": 8
+          },
+          {
+            "area": 7,
+            "reg": 208,
+            "pct": 26.23,
+            "elected": 14
+          },
+          {
+            "area": 8,
+            "reg": 208,
+            "pct": 29.37,
+            "elected": 15
+          },
+          {
+            "area": 9,
+            "reg": 208,
+            "pct": 25.46,
+            "elected": 13
+          },
+          {
+            "area": 10,
+            "reg": 208,
+            "pct": 31.64,
+            "elected": 23
+          },
+          {
+            "area": 11,
+            "reg": 208,
+            "pct": 24.19,
+            "elected": 15
+          },
+          {
+            "area": 12,
+            "reg": 208,
+            "pct": 31.36,
+            "elected": 15
+          },
+          {
+            "area": 13,
+            "reg": 208,
+            "pct": 16.77,
+            "elected": 12
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

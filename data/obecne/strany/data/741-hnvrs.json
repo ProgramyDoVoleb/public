@@ -1,1 +1,80 @@
-{"reg":741,"name":"Hnutí nezávislých za všestranný rozvoj Slatiny","hash":"hnvrs","short":"HNVRS","links":{"global":[],"regional":[]},"color":"#9cf030","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551295,"townName":"Brno-Slatina","reg":741,"pct":6.74,"elected":1}],"elected":1},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551295,"townName":"Brno-Slatina","reg":741,"pct":8.7,"elected":2}],"elected":2},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551295,"townName":"Brno-Slatina","reg":741,"pct":12.5,"elected":3}],"elected":3}]}}
+{
+  "reg": 741,
+  "name": "Hnutí nezávislých za všestranný rozvoj Slatiny",
+  "hash": "hnvrs",
+  "short": "HNVRS",
+  "color": "#9cf030",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551295,
+            "townName": "Brno-Slatina",
+            "reg": 741,
+            "pct": 6.74,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551295,
+            "townName": "Brno-Slatina",
+            "reg": 741,
+            "pct": 8.7,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551295,
+            "townName": "Brno-Slatina",
+            "reg": 741,
+            "pct": 12.5,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

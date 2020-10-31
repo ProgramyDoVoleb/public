@@ -1,1 +1,20 @@
-{"reg":1164,"name":"Koalice STAN, SLK","hash":"stan-slk","short":"STAN+SLK","coalition":[166,703],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1164,
+  "name": "Koalice STAN, SLK",
+  "hash": "stan+slk",
+  "short": "STAN+SLK",
+  "coalition": [
+    166,
+    703
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

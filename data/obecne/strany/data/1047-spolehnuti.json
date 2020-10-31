@@ -1,1 +1,61 @@
-{"reg":1047,"name":"SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ","hash":"spolehnuti","short":"SPOLEHNUTÍ","links":{"global":[],"regional":[]},"color":"#cf8e06","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":561380,"townName":"Česká Lípa","reg":1047,"pct":5.46,"elected":1}],"elected":1}]}}
+{
+  "reg": 1047,
+  "name": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
+  "hash": "spolehnuti",
+  "short": "SPOLEHNUTÍ",
+  "color": "#cf8e06",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 36,
+            "reg": 1047,
+            "nominee": 1047,
+            "candidate": [
+              "",
+              "Petr",
+              "Skokan",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.23,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 561380,
+            "townName": "Česká Lípa",
+            "reg": 1047,
+            "pct": 5.46,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

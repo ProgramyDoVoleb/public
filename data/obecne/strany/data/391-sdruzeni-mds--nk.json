@@ -1,1 +1,42 @@
-{"reg":391,"name":"Sdružení MDS, NK","hash":"sdruzeni-mds--nk","short":"Sdružení MDS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":511382,"townName":"Přerov","reg":391,"pct":2.93,"elected":0}],"elected":0}]},"coalition":[68,80]}
+{
+  "reg": 391,
+  "name": "Sdružení MDS, NK",
+  "hash": "sdruzeni-mds--nk",
+  "short": "Sdružení MDS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 511382,
+            "townName": "Přerov",
+            "reg": 391,
+            "pct": 2.93,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "coalition": [
+    68,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

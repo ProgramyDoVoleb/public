@@ -7,5 +7,37 @@
     "global": [],
     "regional": []
   },
-  "color": "#aaa"
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 48,
+            "reg": 1235,
+            "nominee": 1235,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Antl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 26.44,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.34,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

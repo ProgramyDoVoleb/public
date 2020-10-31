@@ -1,0 +1,34 @@
+{
+  "reg": 1445,
+  "name": "Koalice ODS, Svobodní a SOM",
+  "hash": "ods+svobod-+som",
+  "short": "ODS+Svobod.+SOM",
+  "coalition": [
+    53,
+    158,
+    714
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 10,
+            "reg": 1445,
+            "pct": 12.77,
+            "elected": 9
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,49 @@
-{"reg":1349,"name":"Sdružení JIH 12, NK","hash":"jih-12-nk","short":"JIH 12+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":547263,"townName":"Studená","reg":1349,"pct":14.05,"elected":2},{"num":545473,"townName":"Dolní Třebonín","reg":1349,"pct":13.15,"elected":2}],"elected":4}]},"coalition":[80,766]}
+{
+  "reg": 1349,
+  "name": "Sdružení JIH 12, NK",
+  "hash": "jih-12+nk",
+  "short": "JIH 12+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547263,
+            "townName": "Studená",
+            "reg": 1349,
+            "pct": 14.05,
+            "elected": 2
+          },
+          {
+            "num": 545473,
+            "townName": "Dolní Třebonín",
+            "reg": 1349,
+            "pct": 13.15,
+            "elected": 2
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    766
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

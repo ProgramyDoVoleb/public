@@ -97,8 +97,8 @@
 						}
 					],
 					"timestamps":[
-						15544656,
-						15550704
+						16016400,
+						16022448
 					]
 				},
 				{
@@ -109,7 +109,7 @@
 						20200612
 					],
 					"type":"extra",
-					"reason": "úmrtí senátora Jaroslava Kubery",
+					"reason": "rezignace Zuzany Baudyšové",
 					"path":"volby/senat/20200605",
 					"csu":{
 						"link":"https://volby.cz/pls/senat/se?xjazyk=CZ&xdatum=20200605",
@@ -827,6 +827,32 @@
 			"color":"#00dd00",
 			"older":true,
 			"list":[
+				{
+					"id":2020,
+					"label":2020,
+					"date":[
+						20201002
+					],
+					"type":"regular",
+					"path":"volby/kv/2020",
+					"csu":{
+						"link":"https://volby.cz/pls/kz2020/kz?xjazyk=CZ",
+						"open-data":"https://volby.cz/opendata/kz2020/kz2020_opendata.htm"
+					},
+					"files":[
+						{
+							"type":"all-results",
+							"path":"/vysledky.json"
+						},
+						{
+							"type":"parties",
+							"path":"/strany.json"
+						}
+					],
+					"timestamps":[
+						16016400
+					]
+				},
 				{
 					"id":2016,
 					"label":2016,

@@ -1,1 +1,113 @@
-{"reg":1017,"name":"NOVÝ SEVER","hash":"ns","short":"NS","links":{"global":[],"regional":[]},"color":"#324e99","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":563269,"townName":"Okounov","reg":1017,"pct":61.32,"elected":6},{"num":563242,"townName":"Místo","reg":1017,"pct":22.38,"elected":2},{"num":562971,"townName":"Chomutov","reg":1017,"pct":17.09,"elected":7},{"num":563099,"townName":"Jirkov","reg":1017,"pct":5.59,"elected":2}],"elected":17},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":5,"reg":1017,"elected":0}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":563242,"townName":"Místo","reg":1017,"pct":18.07,"elected":1},{"num":563269,"townName":"Okounov","reg":1017,"pct":16.29,"elected":1},{"num":562971,"townName":"Chomutov","reg":1017,"pct":11.99,"elected":5},{"num":563099,"townName":"Jirkov","reg":1017,"pct":5.14,"elected":1}],"elected":8}]}}
+{
+  "reg": 1017,
+  "name": "NOVÝ SEVER",
+  "hash": "ns",
+  "short": "NS",
+  "color": "#324e99",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 563269,
+            "townName": "Okounov",
+            "reg": 1017,
+            "pct": 61.32,
+            "elected": 6
+          },
+          {
+            "num": 563242,
+            "townName": "Místo",
+            "reg": 1017,
+            "pct": 22.38,
+            "elected": 2
+          },
+          {
+            "num": 562971,
+            "townName": "Chomutov",
+            "reg": 1017,
+            "pct": 17.09,
+            "elected": 7
+          },
+          {
+            "num": 563099,
+            "townName": "Jirkov",
+            "reg": 1017,
+            "pct": 5.59,
+            "elected": 2
+          }
+        ],
+        "elected": 17
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 5,
+            "reg": 1017,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 563242,
+            "townName": "Místo",
+            "reg": 1017,
+            "pct": 18.07,
+            "elected": 1
+          },
+          {
+            "num": 563269,
+            "townName": "Okounov",
+            "reg": 1017,
+            "pct": 16.29,
+            "elected": 1
+          },
+          {
+            "num": 562971,
+            "townName": "Chomutov",
+            "reg": 1017,
+            "pct": 11.99,
+            "elected": 5
+          },
+          {
+            "num": 563099,
+            "townName": "Jirkov",
+            "reg": 1017,
+            "pct": 5.14,
+            "elected": 1
+          }
+        ],
+        "elected": 8
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

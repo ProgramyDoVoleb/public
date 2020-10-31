@@ -1,1 +1,69 @@
-{"reg":744,"name":"Pražané za svá práva","hash":"pp","short":"PP","links":{"global":[],"regional":[]},"color":"#5a5cb2","usualCoalitionWith":[{"count":1,"reg":155}],"memberOf":[666],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":1},"coalitions":[666],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":744,"pct":0.72,"elected":0}],"top10":[{"num":500208,"townName":"Praha 8","reg":666,"name":"Koalice BPI a PP","coalition":[155,744],"pct":6.03,"elected":2},{"num":547034,"townName":"Praha 11","reg":744,"pct":5.15,"elected":2},{"num":554782,"townName":"Hlavní město Praha","reg":744,"pct":0.72,"elected":0}],"elected":4}]}}
+{
+  "reg": 744,
+  "name": "Pražané za svá práva",
+  "hash": "pp",
+  "short": "PP",
+  "color": "#5a5cb2",
+  "memberOf": [
+    666
+  ],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 1
+        },
+        "coalitions": [
+          666
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 744,
+            "pct": 0.72,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 500208,
+            "townName": "Praha 8",
+            "reg": 666,
+            "name": "Koalice BPI a PP",
+            "coalition": [
+              155,
+              744
+            ],
+            "pct": 6.03,
+            "elected": 2
+          },
+          {
+            "num": 547034,
+            "townName": "Praha 11",
+            "reg": 744,
+            "pct": 5.15,
+            "elected": 2
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 744,
+            "pct": 0.72,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

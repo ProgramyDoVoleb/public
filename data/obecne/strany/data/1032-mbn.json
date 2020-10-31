@@ -1,1 +1,38 @@
-{"reg":1032,"name":"Mladoboleslavské hnutí nezávislých","hash":"mbn","short":"MBN","links":{"global":[],"regional":[]},"color":"#d43cb0","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":535419,"townName":"Mladá Boleslav","reg":1032,"pct":2.42,"elected":0}],"elected":0}]}}
+{
+  "reg": 1032,
+  "name": "Mladoboleslavské hnutí nezávislých",
+  "hash": "mbn",
+  "short": "MBN",
+  "color": "#d43cb0",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 535419,
+            "townName": "Mladá Boleslav",
+            "reg": 1032,
+            "pct": 2.42,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

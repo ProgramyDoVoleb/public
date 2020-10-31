@@ -1,1 +1,45 @@
-{"reg":1187,"name":"SENÁTOR 21","hash":"sen-21","short":"SEN 21","links":{"global":[],"regional":[]},"color":"#460a0d","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1187,
+  "name": "SENÁTOR 21",
+  "hash": "sen-21",
+  "short": "SEN 21",
+  "color": "#00a3ad",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 21,
+            "reg": 1187,
+            "nominee": 1187,
+            "candidate": [
+              "Mgr.",
+              "Václav",
+              "Láska",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 37.44,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.37,
+              "progress": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/1187-sen-21.png",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

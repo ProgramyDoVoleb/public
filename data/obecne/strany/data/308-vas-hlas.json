@@ -1,1 +1,34 @@
-{"reg":308,"name":"Váš hlas...plat našich senátorů půjde na zdravotn.","coalition":[128,134],"short":"Váš hlas","color":"#aaa","hash":"vas-hlas","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20041105,"list":[{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":3,"reg":308,"pct":1.38,"elected":0}]}]}}
+{
+  "reg": 308,
+  "name": "Váš hlas nebude podporovat plané řeči ve zbytečném Senátu, ale celý plat našich senátorů půjde na zdravotnictví obvodu",
+  "coalition": [
+    128,
+    134
+  ],
+  "short": "Váš hlas",
+  "color": "#aaa",
+  "hash": "vas-hlas",
+  "memberOf": [],
+  "activity": {
+    "last": 20041105,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 3,
+            "reg": 308,
+            "pct": 1.38,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

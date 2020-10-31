@@ -1,0 +1,51 @@
+{
+  "reg": 1330,
+  "name": "Sdružení KDU-ČSL, STAN, TOP 09, NK",
+  "hash": "sdruzeni-kdu-csl--stan--top-09--nk",
+  "short": "Sdružení KDU-ČSL, STAN, TOP 09, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 531057,
+            "townName": "Beroun",
+            "reg": 1330,
+            "pct": 20.14,
+            "elected": 4
+          },
+          {
+            "num": 567892,
+            "townName": "Ústí nad Labem-město",
+            "reg": 1330,
+            "pct": 4.82,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    80,
+    166,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

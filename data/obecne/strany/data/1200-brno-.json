@@ -1,0 +1,77 @@
+{
+  "reg": 1200,
+  "name": "Brno Plus",
+  "hash": "brno+",
+  "short": "Brno+",
+  "logo": "/obecne/strany/loga/1200-vedci-pro-cr.png",
+  "color": "#013c76",
+  "memberOf": [],
+  "activity": {
+    "last": 20190524,
+    "list": [
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1200,
+        "pct": 0.82,
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 1
+        },
+        "coalitions": [
+          1356
+        ],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1200,
+            "pct": 2.65,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 551112,
+            "townName": "Brno-Nový Lískovec",
+            "reg": 1200,
+            "pct": 8.51,
+            "elected": 2
+          },
+          {
+            "num": 551074,
+            "townName": "Brno-jih",
+            "reg": 1356,
+            "name": "Koalice KONS, STAN a Brno+",
+            "coalition": [
+              24,
+              166,
+              1200
+            ],
+            "pct": 7.49,
+            "elected": 1
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1200,
+            "pct": 2.65,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

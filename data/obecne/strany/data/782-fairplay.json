@@ -1,1 +1,235 @@
-{"reg":782,"name":"Hnutí FAIR PLAY","hash":"fairplay","short":"FairPlay","links":{"global":[],"regional":[]},"color":"#aa87d8","usualCoalitionWith":[{"count":1,"reg":80},{"count":1,"reg":104}],"memberOf":[537,1166],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":5},"coalitions":[537,537,537,537,537],"list":[{"num":555134,"townName":"Pardubice","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":4.93,"elected":0}],"top10":[{"num":555100,"townName":"Pardubice VI","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":8.7,"elected":1},{"num":574716,"townName":"Pardubice I","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":8.62,"elected":1},{"num":557064,"townName":"Pardubice III","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":7.89,"elected":1},{"num":555134,"townName":"Pardubice","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":4.93,"elected":0},{"num":557072,"townName":"Pardubice V","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":3.56,"elected":0}],"elected":3},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":8,"reg":1166,"name":"Naše Pardubice","coalition":[782,104],"elected":0}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":0,"coalition":5},"coalitions":[537,537,537,537,537],"list":[{"num":555134,"townName":"Pardubice","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":2.9,"elected":0}],"top10":[{"num":574716,"townName":"Pardubice I","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":6.5,"elected":1},{"num":557064,"townName":"Pardubice III","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":3.65,"elected":0},{"num":555134,"townName":"Pardubice","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":2.9,"elected":0},{"num":557072,"townName":"Pardubice V","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":1.97,"elected":0},{"num":555126,"townName":"Pardubice II","reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","coalition":[80,782],"pct":1.39,"elected":0}],"elected":1},{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":8,"reg":782,"elected":0}]}]}}
+{
+  "reg": 782,
+  "name": "Hnutí FAIR PLAY",
+  "hash": "fairplay",
+  "short": "FairPlay",
+  "color": "#aa87d8",
+  "memberOf": [
+    537,
+    1166
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 5
+        },
+        "coalitions": [
+          537,
+          537,
+          537,
+          537,
+          537
+        ],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 4.93,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 555100,
+            "townName": "Pardubice VI",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 8.7,
+            "elected": 1
+          },
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 8.62,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 7.89,
+            "elected": 1
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 4.93,
+            "elected": 0
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 3.56,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 8,
+            "reg": 1166,
+            "name": "Naše Pardubice",
+            "coalition": [
+              782,
+              1041
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 0,
+          "coalition": 5
+        },
+        "coalitions": [
+          537,
+          537,
+          537,
+          537,
+          537
+        ],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 2.9,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 6.5,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 3.65,
+            "elected": 0
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 2.9,
+            "elected": 0
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 1.97,
+            "elected": 0
+          },
+          {
+            "num": 555126,
+            "townName": "Pardubice II",
+            "reg": 537,
+            "name": "Sdružení HnutiFairPlay.cz, NK",
+            "coalition": [
+              80,
+              782
+            ],
+            "pct": 1.39,
+            "elected": 0
+          }
+        ],
+        "elected": 1
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 8,
+            "reg": 782,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,51 @@
-{"reg":620,"name":"Koalice SOS, SNK ED, Z","hash":"koalice-sos--snk-ed--z","short":"Koalice SOS, SNK ED, Z","coalition":[103,129,177],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":500496,"townName":"Olomouc","reg":620,"pct":5.8,"elected":0}],"top10":[{"num":500496,"townName":"Olomouc","reg":620,"pct":5.8,"elected":0}],"elected":0}]}}
+{
+  "reg": 620,
+  "name": "Koalice SOS, SNK ED, Z",
+  "hash": "koalice-sos--snk-ed--z",
+  "short": "Koalice SOS, SNK ED, Z",
+  "coalition": [
+    103,
+    129,
+    177
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 620,
+            "pct": 5.8,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 620,
+            "pct": 5.8,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

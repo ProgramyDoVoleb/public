@@ -1,1 +1,28 @@
-{"reg":1438,"name":"Koalice ND a Rozumní","hash":"nd-rozumni","short":"ND+Rozumní","coalition":[79,137],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20190524,"list":[{"type":"evropske-volby","id":2019,"date":20190524,"reg":1438,"pct":0.78,"elected":0}]}}
+{
+  "reg": 1438,
+  "name": "Koalice ND a Rozumní",
+  "hash": "nd+rozumni",
+  "short": "ND+Rozumní",
+  "coalition": [
+    79,
+    137
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20190524,
+    "list": [
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1438,
+        "pct": 0.78,
+        "elected": 0
+      }
+    ]
+  }
+}

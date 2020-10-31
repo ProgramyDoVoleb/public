@@ -1,1 +1,100 @@
-{"reg":128,"name":"\"Akce za skutečnou demokracii\"","hash":"azsd","short":"AZSD","links":{"global":[],"regional":[]},"color":"#7ca604","usualCoalitionWith":[{"count":4,"reg":134},{"count":1,"reg":137}],"memberOf":[273,308,332,337,622],"activity":{"last":20061020,"list":[{"type":"senatni-volby","id":20061020,"date":20061020,"list":[{"area":8,"reg":128,"nominee":128,"candidate":["MUDr.","František","Pillmann",""],"elected":false,"round1":{"pct":6.77,"progress":false}}]},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":3,"reg":308,"name":"Váš hlas...plat našich senátorů půjde na zdravotn.","coalition":[128,134],"pct":1.38,"elected":0}]},{"type":"senatni-volby","id":20001112,"date":20001112,"list":[{"area":8,"reg":128,"nominee":128,"candidate":["MUDr.","František","Pillmann",""],"elected":false,"round1":{"pct":12.3,"progress":false}}]},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":3,"reg":128,"pct":3.98,"elected":0}]}]}}
+{
+  "reg": 128,
+  "name": "\"Akce za skutečnou demokracii\"",
+  "hash": "azsd",
+  "short": "AZSD",
+  "color": "#7ca604",
+  "memberOf": [
+    273,
+    308,
+    332,
+    337,
+    622
+  ],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 8,
+            "reg": 128,
+            "nominee": 128,
+            "candidate": [
+              "MUDr.",
+              "František",
+              "Pillmann",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.77,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 3,
+            "reg": 308,
+            "name": "Váš hlas nebude podporovat plané řeči ve zbytečném Senátu, ale celý plat našich senátorů půjde na zdravotnictví obvodu",
+            "coalition": [
+              128,
+              134
+            ],
+            "pct": 1.38,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 8,
+            "reg": 128,
+            "nominee": 128,
+            "candidate": [
+              "MUDr.",
+              "František",
+              "Pillmann",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.3,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 3,
+            "reg": 128,
+            "pct": 3.98,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

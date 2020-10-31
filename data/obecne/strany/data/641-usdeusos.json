@@ -1,1 +1,20 @@
-{"reg":641,"name":"Koalice US-DEU a SOS","hash":"usdeusos","short":"USDEUSOS","coalition":[102,103],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 641,
+  "name": "Koalice US-DEU a SOS",
+  "hash": "usdeusos",
+  "short": "USDEUSOS",
+  "coalition": [
+    102,
+    103
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,54 @@
-{"reg":168,"name":"Občanské demokratické hnutí","hash":"odh","short":"ODH","links":{"global":[],"regional":[]},"color":"#7c5c93","usualCoalitionWith":[{"count":1,"reg":129}],"memberOf":[618],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":1},"coalitions":[618],"list":[],"top10":[{"num":538574,"townName":"Odolena Voda","reg":618,"name":"Koalice ODH, SNK ED","coalition":[129,168],"pct":8.74,"elected":1},{"num":562882,"townName":"Varnsdorf","reg":168,"pct":7.01,"elected":1}],"elected":2}]}}
+{
+  "reg": 168,
+  "name": "Občanské demokratické hnutí",
+  "hash": "odh",
+  "short": "ODH",
+  "color": "#7c5c93",
+  "memberOf": [
+    618
+  ],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 1
+        },
+        "coalitions": [
+          618
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 538574,
+            "townName": "Odolena Voda",
+            "reg": 618,
+            "name": "Koalice ODH, SNK ED",
+            "coalition": [
+              129,
+              168
+            ],
+            "pct": 8.74,
+            "elected": 1
+          },
+          {
+            "num": 562882,
+            "townName": "Varnsdorf",
+            "reg": 168,
+            "pct": 7.01,
+            "elected": 1
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

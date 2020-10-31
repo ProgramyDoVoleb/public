@@ -1,1 +1,45 @@
-{"reg":1189,"name":"Národní obroda","hash":"nob","short":"NOB","links":{"global":[],"regional":[]},"color":"#5b8cba","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1189,
+  "name": "Národní obroda",
+  "hash": "nob",
+  "short": "NOB",
+  "color": "#5b8cba",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 1
+        },
+        "coalitions": [
+          1420
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1420,
+            "name": "Koalice ČSNS 2005 a NOB",
+            "coalition": [
+              175,
+              1189
+            ],
+            "pct": 0.04,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

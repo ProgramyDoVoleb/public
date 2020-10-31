@@ -1,1 +1,43 @@
-{"reg":692,"name":"Koalice SONOB, S.O.S. PRAHA a Občané","hash":"sonob-sos-obcan","short":"SONOB+SOS+Občan","coalition":[148,176,718],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":500054,"townName":"Praha 1","reg":692,"pct":3.21,"elected":0}],"elected":0}]}}
+{
+  "reg": 692,
+  "name": "Koalice SONOB, S.O.S. PRAHA a Občané",
+  "hash": "sonob+sos+obcan",
+  "short": "SONOB+SOS+Občan",
+  "coalition": [
+    148,
+    176,
+    718
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500054,
+            "townName": "Praha 1",
+            "reg": 692,
+            "pct": 3.21,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

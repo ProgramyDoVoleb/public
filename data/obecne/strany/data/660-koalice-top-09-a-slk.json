@@ -1,1 +1,42 @@
-{"reg":660,"name":"Koalice TOP 09 a SLK","hash":"koalice-top-09-a-slk","short":"Koalice TOP 09 a SLK","coalition":[703,721],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":561860,"townName":"Nový Bor","reg":660,"pct":14.9,"elected":4}],"elected":4}]}}
+{
+  "reg": 660,
+  "name": "Koalice TOP 09 a SLK",
+  "hash": "koalice-top-09-a-slk",
+  "short": "Koalice TOP 09 a SLK",
+  "coalition": [
+    703,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 561860,
+            "townName": "Nový Bor",
+            "reg": 660,
+            "pct": 14.9,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

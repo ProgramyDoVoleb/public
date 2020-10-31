@@ -1,1 +1,43 @@
-{"reg":500,"name":"Sdružení KSČM, FiS, NK","hash":"sdruzeni-kscm--fis--nk","short":"Sdružení KSČM, FiS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551171,"townName":"Brno-Jundrov","reg":500,"pct":6.61,"elected":1}],"elected":1}]},"coalition":[47,80,169]}
+{
+  "reg": 500,
+  "name": "Sdružení KSČM, FiS, NK",
+  "hash": "sdruzeni-kscm--fis--nk",
+  "short": "Sdružení KSČM, FiS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551171,
+            "townName": "Brno-Jundrov",
+            "reg": 500,
+            "pct": 6.61,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    47,
+    80,
+    169
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

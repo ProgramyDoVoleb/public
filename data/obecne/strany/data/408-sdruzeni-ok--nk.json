@@ -1,1 +1,20 @@
-{"reg":408,"name":"Sdružení OK, NK","hash":"sdruzeni-ok--nk","short":"Sdružení OK, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[80,104]}
+{
+  "reg": 408,
+  "name": "Sdružení OK, NK",
+  "hash": "sdruzeni-ok--nk",
+  "short": "Sdružení OK, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    80,
+    104
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

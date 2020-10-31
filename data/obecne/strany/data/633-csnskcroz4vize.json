@@ -1,1 +1,35 @@
-{"reg":633,"name":"Koalice ČSNS, KČ, Rozumní a 4 VIZE","hash":"csnskcroz4vize","short":"ČSNSKČRoz4VIZE","coalition":[2,55,137,178],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":2,"reg":633,"elected":0}]}]}}
+{
+  "reg": 633,
+  "name": "Koalice ČSNS, KČ, Rozumní a 4 VIZE",
+  "hash": "csnskcroz4vize",
+  "short": "ČSNSKČRoz4VIZE",
+  "coalition": [
+    2,
+    55,
+    137,
+    178
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 2,
+            "reg": 633,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,43 @@
-{"reg":1413,"name":"Sdružení COEX, TOP 09, NK","hash":"coex-top-09-nk","short":"COEX+TOP 09+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":598810,"townName":"Třinec","reg":1413,"pct":3.99,"elected":0}],"elected":0}]},"coalition":[72,80,721]}
+{
+  "reg": 1413,
+  "name": "Sdružení COEX, TOP 09, NK",
+  "hash": "coex+top-09+nk",
+  "short": "COEX+TOP 09+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 598810,
+            "townName": "Třinec",
+            "reg": 1413,
+            "pct": 3.99,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "coalition": [
+    72,
+    80,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

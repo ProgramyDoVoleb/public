@@ -1,1 +1,135 @@
-{"reg":537,"name":"Sdružení HnutiFairPlay.cz, NK","hash":"fairplay-cz-nk","short":"FairPlay.cz+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":555134,"townName":"Pardubice","reg":537,"pct":4.93,"elected":0}],"top10":[{"num":555100,"townName":"Pardubice VI","reg":537,"pct":8.7,"elected":1},{"num":574716,"townName":"Pardubice I","reg":537,"pct":8.62,"elected":1},{"num":557064,"townName":"Pardubice III","reg":537,"pct":7.89,"elected":1},{"num":555134,"townName":"Pardubice","reg":537,"pct":4.93,"elected":0},{"num":557072,"townName":"Pardubice V","reg":537,"pct":3.56,"elected":0}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":555134,"townName":"Pardubice","reg":537,"pct":2.9,"elected":0}],"top10":[{"num":574716,"townName":"Pardubice I","reg":537,"pct":6.5,"elected":1},{"num":557064,"townName":"Pardubice III","reg":537,"pct":3.65,"elected":0},{"num":555134,"townName":"Pardubice","reg":537,"pct":2.9,"elected":0},{"num":557072,"townName":"Pardubice V","reg":537,"pct":1.97,"elected":0},{"num":555126,"townName":"Pardubice II","reg":537,"pct":1.39,"elected":0}],"elected":1}]},"coalition":[80,782]}
+{
+  "reg": 537,
+  "name": "Sdružení HnutiFairPlay.cz, NK",
+  "hash": "fairplay-cz+nk",
+  "short": "FairPlay.cz+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "pct": 4.93,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 555100,
+            "townName": "Pardubice VI",
+            "reg": 537,
+            "pct": 8.7,
+            "elected": 1
+          },
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 537,
+            "pct": 8.62,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 537,
+            "pct": 7.89,
+            "elected": 1
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "pct": 4.93,
+            "elected": 0
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 537,
+            "pct": 3.56,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "pct": 2.9,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 537,
+            "pct": 6.5,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 537,
+            "pct": 3.65,
+            "elected": 0
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 537,
+            "pct": 2.9,
+            "elected": 0
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 537,
+            "pct": 1.97,
+            "elected": 0
+          },
+          {
+            "num": 555126,
+            "townName": "Pardubice II",
+            "reg": 537,
+            "pct": 1.39,
+            "elected": 0
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    782
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

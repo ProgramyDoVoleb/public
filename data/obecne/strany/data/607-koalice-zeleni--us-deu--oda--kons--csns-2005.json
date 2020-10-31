@@ -1,0 +1,45 @@
+{
+  "reg": 607,
+  "name": "Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005",
+  "hash": "koalice-zeleni--us-deu--oda--kons--csns-2005",
+  "short": "Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005",
+  "coalition": [
+    5,
+    13,
+    24,
+    102,
+    175
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 577626,
+            "townName": "Turnov",
+            "reg": 607,
+            "pct": 14.89,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

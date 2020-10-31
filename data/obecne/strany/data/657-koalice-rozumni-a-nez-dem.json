@@ -1,1 +1,113 @@
-{"reg":657,"name":"Koalice Rozumní a NEZ/DEM","hash":"koalice-rozumni-a-nez-dem","short":"Koalice Rozumní a NEZ/DEM","coalition":[137,172],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":12,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":657,"pct":1.68,"elected":0}],"top10":[{"num":593516,"townName":"Račice-Pístovice","reg":657,"pct":19.4,"elected":3},{"num":592919,"townName":"Bošovice","reg":657,"pct":8.96,"elected":1},{"num":551325,"townName":"Brno-Bosonohy","reg":657,"pct":4.64,"elected":0},{"num":582239,"townName":"Rájec-Jestřebí","reg":657,"pct":3.66,"elected":0},{"num":551074,"townName":"Brno-jih","reg":657,"pct":2.11,"elected":0},{"num":551082,"townName":"Brno-Bohunice","reg":657,"pct":2.01,"elected":0},{"num":550973,"townName":"Brno-střed","reg":657,"pct":1.83,"elected":0},{"num":551244,"townName":"Brno-Řečkovice a Mokrá Hora","reg":657,"pct":1.7,"elected":0},{"num":582786,"townName":"Brno","reg":657,"pct":1.68,"elected":0},{"num":550990,"townName":"Brno-Žabovřesky","reg":657,"pct":1.65,"elected":0}],"elected":4}]}}
+{
+  "reg": 657,
+  "name": "Koalice Rozumní a NEZ/DEM",
+  "hash": "koalice-rozumni-a-nez/dem",
+  "short": "Koalice Rozumní a NEZ/DEM",
+  "coalition": [
+    137,
+    172
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 12,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 657,
+            "pct": 1.68,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 593516,
+            "townName": "Račice-Pístovice",
+            "reg": 657,
+            "pct": 19.4,
+            "elected": 3
+          },
+          {
+            "num": 592919,
+            "townName": "Bošovice",
+            "reg": 657,
+            "pct": 8.96,
+            "elected": 1
+          },
+          {
+            "num": 551325,
+            "townName": "Brno-Bosonohy",
+            "reg": 657,
+            "pct": 4.64,
+            "elected": 0
+          },
+          {
+            "num": 582239,
+            "townName": "Rájec-Jestřebí",
+            "reg": 657,
+            "pct": 3.66,
+            "elected": 0
+          },
+          {
+            "num": 551074,
+            "townName": "Brno-jih",
+            "reg": 657,
+            "pct": 2.11,
+            "elected": 0
+          },
+          {
+            "num": 551082,
+            "townName": "Brno-Bohunice",
+            "reg": 657,
+            "pct": 2.01,
+            "elected": 0
+          },
+          {
+            "num": 550973,
+            "townName": "Brno-střed",
+            "reg": 657,
+            "pct": 1.83,
+            "elected": 0
+          },
+          {
+            "num": 551244,
+            "townName": "Brno-Řečkovice a Mokrá Hora",
+            "reg": 657,
+            "pct": 1.7,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 657,
+            "pct": 1.68,
+            "elected": 0
+          },
+          {
+            "num": 550990,
+            "townName": "Brno-Žabovřesky",
+            "reg": 657,
+            "pct": 1.65,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

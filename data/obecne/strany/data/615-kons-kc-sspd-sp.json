@@ -1,1 +1,51 @@
-{"reg":615,"name":"Koalice KONS, KČ a SSPD-SP","hash":"kons-kc-sspd-sp","short":"KONS+KČ+SSPD-SP","coalition":[24,55,159],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554821,"townName":"Ostrava","reg":615,"pct":0.19,"elected":0}],"top10":[{"num":554821,"townName":"Ostrava","reg":615,"pct":0.19,"elected":0}],"elected":0}]}}
+{
+  "reg": 615,
+  "name": "Koalice KONS, KČ a SSPD-SP",
+  "hash": "kons+kc+sspd-sp",
+  "short": "KONS+KČ+SSPD-SP",
+  "coalition": [
+    24,
+    55,
+    159
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 615,
+            "pct": 0.19,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 615,
+            "pct": 0.19,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

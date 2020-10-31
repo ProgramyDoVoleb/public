@@ -1,1 +1,20 @@
-{"reg":255,"name":"Koalice DEU, US","hash":"koalice-deu--us","short":"Koalice DEU, US","coalition":[81,102],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 255,
+  "name": "Koalice DEU, US",
+  "hash": "koalice-deu--us",
+  "short": "Koalice DEU, US",
+  "coalition": [
+    81,
+    102
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

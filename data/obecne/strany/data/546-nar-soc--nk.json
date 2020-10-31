@@ -1,1 +1,78 @@
-{"reg":546,"name":"Sdružení NÁR.SOC., NK","hash":"nar-soc--nk","short":"NÁR.SOC.+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":554791,"townName":"Plzeň","reg":546,"pct":0.88,"elected":0}],"top10":[{"num":545970,"townName":"Plzeň 1","reg":546,"pct":3.59,"elected":0},{"num":554791,"townName":"Plzeň","reg":546,"pct":0.88,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":539252,"townName":"Hradištko","reg":546,"pct":7.74,"elected":1}],"elected":1}]},"coalition":[80,764]}
+{
+  "reg": 546,
+  "name": "Sdružení NÁR.SOC., NK",
+  "hash": "nar-soc-+nk",
+  "short": "NÁR.SOC.+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 546,
+            "pct": 0.88,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 546,
+            "pct": 3.59,
+            "elected": 0
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 546,
+            "pct": 0.88,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 539252,
+            "townName": "Hradištko",
+            "reg": 546,
+            "pct": 7.74,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    764
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

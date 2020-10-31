@@ -1,1 +1,53 @@
-{"reg":1217,"name":"Moravská a Slezská pirátská strana","hash":"ms-pirati","short":"MS Piráti","links":{"global":[],"regional":[]},"color":"#be44a6","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1217,
+  "name": "Moravská a Slezská pirátská strana",
+  "hash": "ms-pirati",
+  "short": "MS Piráti",
+  "color": "#be44a6",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 75,
+            "reg": 1217,
+            "nominee": 1217,
+            "candidate": [
+              "Mgr. Bc.",
+              "Karel",
+              "Světnička",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.05,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 13,
+            "reg": 1217,
+            "pct": 0.56,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

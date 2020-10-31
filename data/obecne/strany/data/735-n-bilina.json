@@ -1,1 +1,59 @@
-{"reg":735,"name":"Nezávislí pro Bílinu","hash":"n-bilina","short":"N-BÍLINA","links":{"global":[],"regional":[]},"color":"#6c735f","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567451,"townName":"Bílina","reg":735,"pct":6.23,"elected":2}],"elected":2},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567451,"townName":"Bílina","reg":735,"pct":17.55,"elected":6}],"elected":6}]}}
+{
+  "reg": 735,
+  "name": "Nezávislí pro Bílinu",
+  "hash": "n-bilina",
+  "short": "N-BÍLINA",
+  "color": "#6c735f",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567451,
+            "townName": "Bílina",
+            "reg": 735,
+            "pct": 6.23,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567451,
+            "townName": "Bílina",
+            "reg": 735,
+            "pct": 17.55,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,195 @@
-{"reg":82,"name":"Moravská demokratická strana","hash":"mods","short":"MoDS","links":{"global":[],"regional":[]},"color":"#49397a","usualCoalitionWith":[{"count":10,"reg":83},{"count":6,"reg":80},{"count":4,"reg":20},{"count":2,"reg":5},{"count":1,"reg":11},{"count":1,"reg":79},{"count":1,"reg":81}],"memberOf":[237,254,256,262,272,277,312,326,329,366,398,399,422,432,438],"activity":{"last":20041105,"list":[{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":9,"reg":82,"pct":0.74,"elected":0},{"area":10,"reg":82,"pct":0.7,"elected":0},{"area":11,"reg":82,"pct":0.49,"elected":0},{"area":12,"reg":329,"name":"Za prosperitu a jistoty východní Moravy","coalition":[20,82,83],"pct":0.69,"elected":0},{"area":13,"reg":312,"name":"Za zájmy Moravy ve sjednocené Evropě","coalition":[82,83],"pct":0.41,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":312,"name":"Za zájmy Moravy ve sjednocené Evropě","coalition":[82,83],"pct":0.39,"elected":0},{"type":"senatni-volby","id":20021025,"date":20021025,"list":[{"area":69,"reg":82,"nominee":82,"candidate":["","Dagmar","Lahnerová",""],"elected":false,"round1":{"pct":2.01,"progress":false}}]},{"type":"snemovni-volby","id":2002,"date":20020614,"reg":82,"pct":0.27,"elected":0},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":9,"reg":262,"name":"PROSPERITA VYSOČINY","coalition":[82,83],"pct":1.9,"elected":0},{"area":10,"reg":256,"name":"MORAVSKÁ KOALICE","coalition":[82,83],"pct":2.16,"elected":0},{"area":11,"reg":256,"name":"MORAVSKÁ KOALICE","coalition":[82,83],"pct":2.01,"elected":0},{"area":12,"reg":256,"name":"MORAVSKÁ KOALICE","coalition":[82,83],"pct":2.51,"elected":0},{"area":13,"reg":272,"name":"Moravskoslezská koalice","coalition":[82,83],"pct":1.8,"elected":0}]},{"type":"snemovni-volby","id":1998,"date":19980619,"reg":82,"pct":0.37,"elected":0}]}}
+{
+  "reg": 82,
+  "name": "Moravská demokratická strana",
+  "hash": "mods",
+  "short": "MoDS",
+  "color": "#49397a",
+  "memberOf": [
+    237,
+    254,
+    256,
+    262,
+    272,
+    277,
+    312,
+    326,
+    329,
+    366,
+    398,
+    399,
+    422,
+    432,
+    438
+  ],
+  "activity": {
+    "last": 20041105,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 9,
+            "reg": 82,
+            "pct": 0.74,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 82,
+            "pct": 0.7,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 82,
+            "pct": 0.49,
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 329,
+            "name": "Za prosperitu a jistoty východní Moravy",
+            "coalition": [
+              20,
+              82,
+              83
+            ],
+            "pct": 0.69,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 312,
+            "name": "Za zájmy Moravy ve sjednocené Evropě",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 0.41,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 312,
+        "name": "Za zájmy Moravy ve sjednocené Evropě",
+        "coalition": [
+          82,
+          83
+        ],
+        "pct": 0.39,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 69,
+            "reg": 82,
+            "nominee": 82,
+            "candidate": [
+              "",
+              "Dagmar",
+              "Lahnerová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.01,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2002,
+        "date": 20020614,
+        "reg": 82,
+        "pct": 0.27,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 9,
+            "reg": 262,
+            "name": "PROSPERITA VYSOČINY",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 1.9,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 256,
+            "name": "MORAVSKÁ KOALICE",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 2.16,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 256,
+            "name": "MORAVSKÁ KOALICE",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 2.01,
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 256,
+            "name": "MORAVSKÁ KOALICE",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 2.51,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 272,
+            "name": "Moravskoslezská koalice",
+            "coalition": [
+              82,
+              83
+            ],
+            "pct": 1.8,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 1998,
+        "date": 19980619,
+        "reg": 82,
+        "pct": 0.37,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,73 @@
-{"reg":186,"name":"Hnutí za lepší bydlení","hash":"hzlb","short":"HZLB","links":{"global":[],"regional":[]},"color":"#acf767","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":6,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":586722,"townName":"Veselí nad Moravou","reg":186,"pct":4.04,"elected":0},{"num":599069,"townName":"Orlová","reg":186,"pct":3.64,"elected":0},{"num":599565,"townName":"Kopřivnice","reg":186,"pct":1.94,"elected":0},{"num":598003,"townName":"Frýdek-Místek","reg":186,"pct":1.16,"elected":0},{"num":598933,"townName":"Český Těšín","reg":186,"pct":1.16,"elected":0},{"num":545252,"townName":"Zubří","reg":186,"pct":0.57,"elected":0}],"elected":0}]}}
+{
+  "reg": 186,
+  "name": "Hnutí za lepší bydlení",
+  "hash": "hzlb",
+  "short": "HZLB",
+  "color": "#acf767",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 586722,
+            "townName": "Veselí nad Moravou",
+            "reg": 186,
+            "pct": 4.04,
+            "elected": 0
+          },
+          {
+            "num": 599069,
+            "townName": "Orlová",
+            "reg": 186,
+            "pct": 3.64,
+            "elected": 0
+          },
+          {
+            "num": 599565,
+            "townName": "Kopřivnice",
+            "reg": 186,
+            "pct": 1.94,
+            "elected": 0
+          },
+          {
+            "num": 598003,
+            "townName": "Frýdek-Místek",
+            "reg": 186,
+            "pct": 1.16,
+            "elected": 0
+          },
+          {
+            "num": 598933,
+            "townName": "Český Těšín",
+            "reg": 186,
+            "pct": 1.16,
+            "elected": 0
+          },
+          {
+            "num": 545252,
+            "townName": "Zubří",
+            "reg": 186,
+            "pct": 0.57,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,183 @@
-{"reg":479,"name":"Sdružení KDU-ČSL, Zelení, NK","hash":"kducsl-zel--nk","short":"KDUČSL+Zel.+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":5,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":540765,"townName":"Mníšek pod Brdy","reg":479,"pct":29.73,"elected":5},{"num":565971,"townName":"Louny","reg":479,"pct":14.32,"elected":4},{"num":538949,"townName":"Praha 21","reg":479,"pct":7.15,"elected":1},{"num":500208,"townName":"Praha 8","reg":479,"pct":6.06,"elected":3},{"num":500216,"townName":"Praha 9","reg":479,"pct":4.96,"elected":0}],"elected":13},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":8,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567442,"townName":"Teplice","reg":479,"pct":20.4,"elected":6},{"num":547387,"townName":"Praha 15","reg":479,"pct":13.71,"elected":5},{"num":540765,"townName":"Mníšek pod Brdy","reg":479,"pct":13.51,"elected":2},{"num":500216,"townName":"Praha 9","reg":479,"pct":10.99,"elected":1},{"num":579203,"townName":"Dvůr Králové nad Labem","reg":479,"pct":9.78,"elected":2},{"num":554481,"townName":"Cheb","reg":479,"pct":9.18,"elected":3},{"num":532819,"townName":"Slaný","reg":479,"pct":8.06,"elected":2},{"num":547310,"townName":"Praha-Čakovice","reg":479,"pct":7.96,"elected":1}],"elected":22},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":554995,"townName":"Bečov nad Teplou","reg":479,"pct":30.2,"elected":5},{"num":500097,"townName":"Praha 3","reg":479,"pct":20.35,"elected":8},{"num":567256,"townName":"Litvínov","reg":479,"pct":3.1,"elected":0},{"num":567027,"townName":"Most","reg":479,"pct":2.41,"elected":0}],"elected":13}]},"coalition":[1,5,80]}
+{
+  "reg": 479,
+  "name": "Sdružení KDU-ČSL, Zelení, NK",
+  "hash": "kducsl+zel-+nk",
+  "short": "KDUČSL+Zel.+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 540765,
+            "townName": "Mníšek pod Brdy",
+            "reg": 479,
+            "pct": 29.73,
+            "elected": 5
+          },
+          {
+            "num": 565971,
+            "townName": "Louny",
+            "reg": 479,
+            "pct": 14.32,
+            "elected": 4
+          },
+          {
+            "num": 538949,
+            "townName": "Praha 21",
+            "reg": 479,
+            "pct": 7.15,
+            "elected": 1
+          },
+          {
+            "num": 500208,
+            "townName": "Praha 8",
+            "reg": 479,
+            "pct": 6.06,
+            "elected": 3
+          },
+          {
+            "num": 500216,
+            "townName": "Praha 9",
+            "reg": 479,
+            "pct": 4.96,
+            "elected": 0
+          }
+        ],
+        "elected": 13
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 8,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567442,
+            "townName": "Teplice",
+            "reg": 479,
+            "pct": 20.4,
+            "elected": 6
+          },
+          {
+            "num": 547387,
+            "townName": "Praha 15",
+            "reg": 479,
+            "pct": 13.71,
+            "elected": 5
+          },
+          {
+            "num": 540765,
+            "townName": "Mníšek pod Brdy",
+            "reg": 479,
+            "pct": 13.51,
+            "elected": 2
+          },
+          {
+            "num": 500216,
+            "townName": "Praha 9",
+            "reg": 479,
+            "pct": 10.99,
+            "elected": 1
+          },
+          {
+            "num": 579203,
+            "townName": "Dvůr Králové nad Labem",
+            "reg": 479,
+            "pct": 9.78,
+            "elected": 2
+          },
+          {
+            "num": 554481,
+            "townName": "Cheb",
+            "reg": 479,
+            "pct": 9.18,
+            "elected": 3
+          },
+          {
+            "num": 532819,
+            "townName": "Slaný",
+            "reg": 479,
+            "pct": 8.06,
+            "elected": 2
+          },
+          {
+            "num": 547310,
+            "townName": "Praha-Čakovice",
+            "reg": 479,
+            "pct": 7.96,
+            "elected": 1
+          }
+        ],
+        "elected": 22
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 554995,
+            "townName": "Bečov nad Teplou",
+            "reg": 479,
+            "pct": 30.2,
+            "elected": 5
+          },
+          {
+            "num": 500097,
+            "townName": "Praha 3",
+            "reg": 479,
+            "pct": 20.35,
+            "elected": 8
+          },
+          {
+            "num": 567256,
+            "townName": "Litvínov",
+            "reg": 479,
+            "pct": 3.1,
+            "elected": 0
+          },
+          {
+            "num": 567027,
+            "townName": "Most",
+            "reg": 479,
+            "pct": 2.41,
+            "elected": 0
+          }
+        ],
+        "elected": 13
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    5,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

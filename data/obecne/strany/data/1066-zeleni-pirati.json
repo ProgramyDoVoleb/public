@@ -1,1 +1,210 @@
-{"reg":1066,"name":"Koalice Zelení a Piráti","hash":"zeleni-pirati","short":"Zelení+Piráti","coalition":[5,720],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":547107,"townName":"Praha 12","reg":1066,"pct":25.69,"elected":10},{"num":539635,"townName":"Praha-Řeporyje","reg":1066,"pct":25.33,"elected":3},{"num":539694,"townName":"Praha 13","reg":1066,"pct":25.14,"elected":11},{"num":554499,"townName":"Aš","reg":1066,"pct":11.81,"elected":3},{"num":564567,"townName":"Litoměřice","reg":1066,"pct":11.1,"elected":4},{"num":567027,"townName":"Most","reg":1066,"pct":8.88,"elected":4}],"elected":35},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":5,"reg":1066,"elected":0},{"area":7,"reg":1066,"elected":2},{"area":10,"reg":1066,"elected":3},{"area":12,"reg":1066,"elected":0}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":12,"coalition":0},"coalitions":[],"list":[{"num":586846,"townName":"Jihlava","reg":1066,"pct":4.91,"elected":0},{"num":585068,"townName":"Zlín","reg":1066,"pct":3.72,"elected":0},{"num":554821,"townName":"Ostrava","reg":1066,"pct":3.04,"elected":0}],"top10":[{"num":539694,"townName":"Praha 13","reg":1066,"pct":11.19,"elected":5},{"num":554499,"townName":"Aš","reg":1066,"pct":9.93,"elected":2},{"num":547361,"townName":"Praha 14","reg":1066,"pct":9.31,"elected":3},{"num":534951,"townName":"Kralupy nad Vltavou","reg":1066,"pct":5.54,"elected":1},{"num":545911,"townName":"Moravská Ostrava a Přívoz","reg":1066,"pct":4.99,"elected":0},{"num":586846,"townName":"Jihlava","reg":1066,"pct":4.91,"elected":0},{"num":585068,"townName":"Zlín","reg":1066,"pct":3.72,"elected":0},{"num":546224,"townName":"Poruba","reg":1066,"pct":3.36,"elected":0},{"num":555088,"townName":"Havířov","reg":1066,"pct":3.32,"elected":0},{"num":546135,"townName":"Ostrava-Jih","reg":1066,"pct":3.12,"elected":0}],"elected":11}]}}
+{
+  "reg": 1066,
+  "name": "Koalice Zelení a Piráti",
+  "hash": "zeleni+pirati",
+  "short": "Zelení+Piráti",
+  "coalition": [
+    5,
+    720
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547107,
+            "townName": "Praha 12",
+            "reg": 1066,
+            "pct": 25.69,
+            "elected": 10
+          },
+          {
+            "num": 539635,
+            "townName": "Praha-Řeporyje",
+            "reg": 1066,
+            "pct": 25.33,
+            "elected": 3
+          },
+          {
+            "num": 539694,
+            "townName": "Praha 13",
+            "reg": 1066,
+            "pct": 25.14,
+            "elected": 11
+          },
+          {
+            "num": 554499,
+            "townName": "Aš",
+            "reg": 1066,
+            "pct": 11.81,
+            "elected": 3
+          },
+          {
+            "num": 564567,
+            "townName": "Litoměřice",
+            "reg": 1066,
+            "pct": 11.1,
+            "elected": 4
+          },
+          {
+            "num": 567027,
+            "townName": "Most",
+            "reg": 1066,
+            "pct": 8.88,
+            "elected": 4
+          }
+        ],
+        "elected": 35
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 5,
+            "reg": 1066,
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 1066,
+            "elected": 2
+          },
+          {
+            "area": 10,
+            "reg": 1066,
+            "elected": 3
+          },
+          {
+            "area": 12,
+            "reg": 1066,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 12,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 1066,
+            "pct": 4.91,
+            "elected": 0
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 1066,
+            "pct": 3.72,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 1066,
+            "pct": 3.04,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 539694,
+            "townName": "Praha 13",
+            "reg": 1066,
+            "pct": 11.19,
+            "elected": 5
+          },
+          {
+            "num": 554499,
+            "townName": "Aš",
+            "reg": 1066,
+            "pct": 9.93,
+            "elected": 2
+          },
+          {
+            "num": 547361,
+            "townName": "Praha 14",
+            "reg": 1066,
+            "pct": 9.31,
+            "elected": 3
+          },
+          {
+            "num": 534951,
+            "townName": "Kralupy nad Vltavou",
+            "reg": 1066,
+            "pct": 5.54,
+            "elected": 1
+          },
+          {
+            "num": 545911,
+            "townName": "Moravská Ostrava a Přívoz",
+            "reg": 1066,
+            "pct": 4.99,
+            "elected": 0
+          },
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 1066,
+            "pct": 4.91,
+            "elected": 0
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 1066,
+            "pct": 3.72,
+            "elected": 0
+          },
+          {
+            "num": 546224,
+            "townName": "Poruba",
+            "reg": 1066,
+            "pct": 3.36,
+            "elected": 0
+          },
+          {
+            "num": 555088,
+            "townName": "Havířov",
+            "reg": 1066,
+            "pct": 3.32,
+            "elected": 0
+          },
+          {
+            "num": 546135,
+            "townName": "Ostrava-Jih",
+            "reg": 1066,
+            "pct": 3.12,
+            "elected": 0
+          }
+        ],
+        "elected": 11
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

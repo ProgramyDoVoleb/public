@@ -1,1 +1,289 @@
-{"reg":427,"name":"Sdružení SD-SN, NK","hash":"sdruzeni-sd-sn--nk","short":"Sdružení SD-SN, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":28,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":427,"pct":0.46,"elected":0}],"top10":[{"num":565946,"townName":"Žalhostice","reg":427,"pct":49.11,"elected":4},{"num":529648,"townName":"Dolní Kralovice","reg":427,"pct":47.48,"elected":7},{"num":592641,"townName":"Suchá Loz","reg":427,"pct":30.94,"elected":3},{"num":553441,"townName":"Bělá nad Radbuzou","reg":427,"pct":26.61,"elected":4},{"num":571784,"townName":"Libiš","reg":427,"pct":24.21,"elected":4},{"num":551767,"townName":"Staré Město","reg":427,"pct":23,"elected":1},{"num":534676,"townName":"Mělník","reg":427,"pct":19.52,"elected":4},{"num":585955,"townName":"Vlachovice","reg":427,"pct":18.75,"elected":3},{"num":534951,"townName":"Kralupy nad Vltavou","reg":427,"pct":18.18,"elected":4},{"num":537683,"townName":"Poděbrady","reg":427,"pct":17.84,"elected":5}],"elected":58},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":27,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":585432,"townName":"Loučka","reg":427,"pct":41.69,"elected":3},{"num":558915,"townName":"Hromnice","reg":427,"pct":38.68,"elected":6},{"num":592641,"townName":"Suchá Loz","reg":427,"pct":34.39,"elected":3},{"num":573108,"townName":"Libáň","reg":427,"pct":24.75,"elected":2},{"num":531723,"townName":"Rudná","reg":427,"pct":21.84,"elected":3},{"num":545511,"townName":"Horní Planá","reg":427,"pct":19.7,"elected":3},{"num":538744,"townName":"Březnice","reg":427,"pct":19.39,"elected":3},{"num":554511,"townName":"Drmoul","reg":427,"pct":16.74,"elected":1},{"num":547212,"townName":"Staré Město pod Landštejnem","reg":427,"pct":15.44,"elected":1},{"num":553441,"townName":"Bělá nad Radbuzou","reg":427,"pct":14.63,"elected":2}],"elected":44},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":12,"coalition":0},"coalitions":[],"list":[{"num":585068,"townName":"Zlín","reg":427,"pct":15.69,"elected":7}],"top10":[{"num":592641,"townName":"Suchá Loz","reg":427,"pct":30.82,"elected":3},{"num":585432,"townName":"Loučka","reg":427,"pct":27.95,"elected":2},{"num":592382,"townName":"Mistřice","reg":427,"pct":21.09,"elected":3},{"num":585190,"townName":"Drnovice","reg":427,"pct":20.69,"elected":2},{"num":531103,"townName":"Bubovice","reg":427,"pct":17.32,"elected":1},{"num":585068,"townName":"Zlín","reg":427,"pct":15.69,"elected":7},{"num":538744,"townName":"Březnice","reg":427,"pct":15.11,"elected":2},{"num":545511,"townName":"Horní Planá","reg":427,"pct":13.56,"elected":2},{"num":574287,"townName":"Nový Hrádek","reg":427,"pct":13.05,"elected":1},{"num":547441,"townName":"Volfířov","reg":427,"pct":9.53,"elected":1}],"elected":25}]},"coalition":[80,143]}
+{
+  "reg": 427,
+  "name": "Sdružení SD-SN, NK",
+  "hash": "sdruzeni-sd-sn--nk",
+  "short": "Sdružení SD-SN, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 28,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 427,
+            "pct": 0.46,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 565946,
+            "townName": "Žalhostice",
+            "reg": 427,
+            "pct": 49.11,
+            "elected": 4
+          },
+          {
+            "num": 529648,
+            "townName": "Dolní Kralovice",
+            "reg": 427,
+            "pct": 47.48,
+            "elected": 7
+          },
+          {
+            "num": 592641,
+            "townName": "Suchá Loz",
+            "reg": 427,
+            "pct": 30.94,
+            "elected": 3
+          },
+          {
+            "num": 553441,
+            "townName": "Bělá nad Radbuzou",
+            "reg": 427,
+            "pct": 26.61,
+            "elected": 4
+          },
+          {
+            "num": 571784,
+            "townName": "Libiš",
+            "reg": 427,
+            "pct": 24.21,
+            "elected": 4
+          },
+          {
+            "num": 551767,
+            "townName": "Staré Město",
+            "reg": 427,
+            "pct": 23,
+            "elected": 1
+          },
+          {
+            "num": 534676,
+            "townName": "Mělník",
+            "reg": 427,
+            "pct": 19.52,
+            "elected": 4
+          },
+          {
+            "num": 585955,
+            "townName": "Vlachovice",
+            "reg": 427,
+            "pct": 18.75,
+            "elected": 3
+          },
+          {
+            "num": 534951,
+            "townName": "Kralupy nad Vltavou",
+            "reg": 427,
+            "pct": 18.18,
+            "elected": 4
+          },
+          {
+            "num": 537683,
+            "townName": "Poděbrady",
+            "reg": 427,
+            "pct": 17.84,
+            "elected": 5
+          }
+        ],
+        "elected": 58
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 27,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 585432,
+            "townName": "Loučka",
+            "reg": 427,
+            "pct": 41.69,
+            "elected": 3
+          },
+          {
+            "num": 558915,
+            "townName": "Hromnice",
+            "reg": 427,
+            "pct": 38.68,
+            "elected": 6
+          },
+          {
+            "num": 592641,
+            "townName": "Suchá Loz",
+            "reg": 427,
+            "pct": 34.39,
+            "elected": 3
+          },
+          {
+            "num": 573108,
+            "townName": "Libáň",
+            "reg": 427,
+            "pct": 24.75,
+            "elected": 2
+          },
+          {
+            "num": 531723,
+            "townName": "Rudná",
+            "reg": 427,
+            "pct": 21.84,
+            "elected": 3
+          },
+          {
+            "num": 545511,
+            "townName": "Horní Planá",
+            "reg": 427,
+            "pct": 19.7,
+            "elected": 3
+          },
+          {
+            "num": 538744,
+            "townName": "Březnice",
+            "reg": 427,
+            "pct": 19.39,
+            "elected": 3
+          },
+          {
+            "num": 554511,
+            "townName": "Drmoul",
+            "reg": 427,
+            "pct": 16.74,
+            "elected": 1
+          },
+          {
+            "num": 547212,
+            "townName": "Staré Město pod Landštejnem",
+            "reg": 427,
+            "pct": 15.44,
+            "elected": 1
+          },
+          {
+            "num": 553441,
+            "townName": "Bělá nad Radbuzou",
+            "reg": 427,
+            "pct": 14.63,
+            "elected": 2
+          }
+        ],
+        "elected": 44
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 12,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 427,
+            "pct": 15.69,
+            "elected": 7
+          }
+        ],
+        "top10": [
+          {
+            "num": 592641,
+            "townName": "Suchá Loz",
+            "reg": 427,
+            "pct": 30.82,
+            "elected": 3
+          },
+          {
+            "num": 585432,
+            "townName": "Loučka",
+            "reg": 427,
+            "pct": 27.95,
+            "elected": 2
+          },
+          {
+            "num": 592382,
+            "townName": "Mistřice",
+            "reg": 427,
+            "pct": 21.09,
+            "elected": 3
+          },
+          {
+            "num": 585190,
+            "townName": "Drnovice",
+            "reg": 427,
+            "pct": 20.69,
+            "elected": 2
+          },
+          {
+            "num": 531103,
+            "townName": "Bubovice",
+            "reg": 427,
+            "pct": 17.32,
+            "elected": 1
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 427,
+            "pct": 15.69,
+            "elected": 7
+          },
+          {
+            "num": 538744,
+            "townName": "Březnice",
+            "reg": 427,
+            "pct": 15.11,
+            "elected": 2
+          },
+          {
+            "num": 545511,
+            "townName": "Horní Planá",
+            "reg": 427,
+            "pct": 13.56,
+            "elected": 2
+          },
+          {
+            "num": 574287,
+            "townName": "Nový Hrádek",
+            "reg": 427,
+            "pct": 13.05,
+            "elected": 1
+          },
+          {
+            "num": 547441,
+            "townName": "Volfířov",
+            "reg": 427,
+            "pct": 9.53,
+            "elected": 1
+          }
+        ],
+        "elected": 25
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    143
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

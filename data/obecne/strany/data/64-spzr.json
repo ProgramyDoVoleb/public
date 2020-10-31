@@ -1,1 +1,40 @@
-{"reg":64,"name":"Strana podnikatelů, živnostníků a rolníků České republiky","hash":"spzr","short":"SPŽR","links":{"global":[],"regional":[]},"color":"#417e44","usualCoalitionWith":[],"memberOf":[],"activity":{"last":19961116,"list":[{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":5,"reg":64,"nominee":64,"candidate":["","Jiří","Cmár",""],"elected":false,"round1":{"pct":1.6,"progress":false}}]}]}}
+{
+  "reg": 64,
+  "name": "Strana podnikatelů, živnostníků a rolníků České republiky",
+  "hash": "spzr",
+  "short": "SPŽR",
+  "color": "#417e44",
+  "memberOf": [],
+  "activity": {
+    "last": 19961116,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 5,
+            "reg": 64,
+            "nominee": 64,
+            "candidate": [
+              "",
+              "Jiří",
+              "Cmár",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.6,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,40 @@
-{"reg":134,"name":"\"Sebeobrana voličů-Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu\"","hash":"sevo","short":"SeVo","links":{"global":[],"regional":[]},"color":"#72a0cf","usualCoalitionWith":[{"count":4,"reg":128}],"memberOf":[273,308,337,622],"activity":{"last":20041105,"list":[{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":3,"reg":308,"name":"Váš hlas...plat našich senátorů půjde na zdravotn.","coalition":[128,134],"pct":1.38,"elected":0}]}]}}
+{
+  "reg": 134,
+  "name": "\"Sebeobrana voličů-Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu\"",
+  "hash": "sevo",
+  "short": "SeVo",
+  "color": "#72a0cf",
+  "memberOf": [
+    273,
+    308,
+    337,
+    622
+  ],
+  "activity": {
+    "last": 20041105,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 3,
+            "reg": 308,
+            "name": "Váš hlas nebude podporovat plané řeči ve zbytečném Senátu, ale celý plat našich senátorů půjde na zdravotnictví obvodu",
+            "coalition": [
+              128,
+              134
+            ],
+            "pct": 1.38,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,20 @@
-{"reg":252,"name":"Koalice ODS, DEU","hash":"koalice-ods--deu","short":"Koalice ODS, DEU","coalition":[53,81],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 252,
+  "name": "Koalice ODS, DEU",
+  "hash": "koalice-ods--deu",
+  "short": "Koalice ODS, DEU",
+  "coalition": [
+    53,
+    81
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

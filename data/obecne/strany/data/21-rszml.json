@@ -1,1 +1,141 @@
-{"reg":21,"name":"Republikánská strana zemědělského a malorolnického lidu","hash":"rszml","short":"RSZML","links":{"global":[],"regional":[]},"color":"#ca3df0","usualCoalitionWith":[{"count":1,"reg":24},{"count":1,"reg":55},{"count":1,"reg":79}],"memberOf":[635],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":1,"reg":635,"name":"Konzervativní koalice","coalition":[21,24,55,79],"elected":0},{"area":5,"reg":635,"name":"Konzervativní koalice","coalition":[21,24,55,79],"elected":0},{"area":8,"reg":635,"name":"Konzervativní koalice","coalition":[21,24,55,79],"elected":0},{"area":9,"reg":635,"name":"Konzervativní koalice","coalition":[21,24,55,79],"elected":0},{"area":10,"reg":635,"name":"Konzervativní koalice","coalition":[21,24,55,79],"elected":0}]},{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":16,"reg":21,"nominee":21,"candidate":["","Jan","Broj",""],"elected":false,"round1":{"pct":1.22,"progress":false}},{"area":38,"reg":21,"nominee":21,"candidate":["","Václav","Svárovský",""],"elected":false,"round1":{"pct":0.65,"progress":false}},{"area":42,"reg":21,"nominee":21,"candidate":["Ing.","Jiří","Dušek",""],"elected":false,"round1":{"pct":1.24,"progress":false}}]}]}}
+{
+  "reg": 21,
+  "name": "Republikánská strana zemědělského a malorolnického lidu",
+  "hash": "rszml",
+  "short": "RSZML",
+  "color": "#ca3df0",
+  "memberOf": [
+    635
+  ],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 635,
+            "name": "Konzervativní koalice",
+            "coalition": [
+              21,
+              24,
+              55,
+              79
+            ],
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 635,
+            "name": "Konzervativní koalice",
+            "coalition": [
+              21,
+              24,
+              55,
+              79
+            ],
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 635,
+            "name": "Konzervativní koalice",
+            "coalition": [
+              21,
+              24,
+              55,
+              79
+            ],
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 635,
+            "name": "Konzervativní koalice",
+            "coalition": [
+              21,
+              24,
+              55,
+              79
+            ],
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 635,
+            "name": "Konzervativní koalice",
+            "coalition": [
+              21,
+              24,
+              55,
+              79
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 16,
+            "reg": 21,
+            "nominee": 21,
+            "candidate": [
+              "",
+              "Jan",
+              "Broj",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.22,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 21,
+            "nominee": 21,
+            "candidate": [
+              "",
+              "Václav",
+              "Svárovský",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.65,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 21,
+            "nominee": 21,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Dušek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.24,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

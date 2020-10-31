@@ -1,1 +1,44 @@
-{"reg":1396,"name":"Sdružení Zelení, STAN, TOP 09, NK","hash":"zel-stan-top-nk","short":"Zel+STAN+TOP+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":588458,"townName":"Holešov","reg":1396,"pct":33.08,"elected":8}],"elected":8}]},"coalition":[5,80,166,721]}
+{
+  "reg": 1396,
+  "name": "Sdružení Zelení, STAN, TOP 09, NK",
+  "hash": "zel+stan+top+nk",
+  "short": "Zel+STAN+TOP+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 588458,
+            "townName": "Holešov",
+            "reg": 1396,
+            "pct": 33.08,
+            "elected": 8
+          }
+        ],
+        "elected": 8
+      }
+    ]
+  },
+  "coalition": [
+    5,
+    80,
+    166,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

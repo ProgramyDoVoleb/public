@@ -1,1 +1,50 @@
-{"reg":677,"name":"Koalice Moravané, ČSNS 2005","hash":"morav--csns2005","short":"Morav.+ČSNS2005","coalition":[83,175],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":677,"pct":0.55,"elected":0}],"top10":[{"num":582786,"townName":"Brno","reg":677,"pct":0.55,"elected":0}],"elected":0}]}}
+{
+  "reg": 677,
+  "name": "Koalice Moravané, ČSNS 2005",
+  "hash": "morav-+csns2005",
+  "short": "Morav.+ČSNS2005",
+  "coalition": [
+    83,
+    175
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 677,
+            "pct": 0.55,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 677,
+            "pct": 0.55,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

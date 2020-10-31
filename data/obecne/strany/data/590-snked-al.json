@@ -1,1 +1,33 @@
-{"reg":590,"name":"Koalice SNK ED a ALTERNATIVA","hash":"snked-al","short":"SNKED+AL","coalition":[129,702],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":3,"reg":590,"elected":0}]}]}}
+{
+  "reg": 590,
+  "name": "Koalice SNK ED a ALTERNATIVA",
+  "hash": "snked+al",
+  "short": "SNKED+AL",
+  "coalition": [
+    129,
+    702
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 3,
+            "reg": 590,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

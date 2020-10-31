@@ -1,1 +1,40 @@
-{"reg":263,"name":"KOALICE NEPARLAMENTNÍCH STRAN","coalition":[5,20],"short":"NEPARLAM","color":"#aaa","hash":"neparlam","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":12,"reg":263,"pct":1.3,"elected":0},{"area":13,"reg":263,"pct":1.01,"elected":0}]}]}}
+{
+  "reg": 263,
+  "name": "KOALICE NEPARLAMENTNÍCH STRAN",
+  "coalition": [
+    5,
+    20
+  ],
+  "short": "NEPARLAM",
+  "color": "#aaa",
+  "hash": "neparlam",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 12,
+            "reg": 263,
+            "pct": 1.3,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 263,
+            "pct": 1.01,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

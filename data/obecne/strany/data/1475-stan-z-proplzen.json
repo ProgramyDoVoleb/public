@@ -1,0 +1,34 @@
+{
+  "reg": 1475,
+  "name": "Koalice STAN, Zelení a PRO PLZEŇ",
+  "hash": "stan+z+proplzen",
+  "short": "STAN+Z+PROPLZEŇ",
+  "coalition": [
+    5,
+    166,
+    1014
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1475,
+            "pct": 14.9,
+            "elected": 7
+          }
+        ]
+      }
+    ]
+  }
+}

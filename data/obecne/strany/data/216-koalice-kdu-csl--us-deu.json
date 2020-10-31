@@ -1,1 +1,29 @@
-{"reg":216,"name":"Koalice KDU-ČSL, US-DEU","hash":"koalice-kdu-csl--us-deu","short":"Koalice KDU-ČSL, US-DEU","coalition":[1,102],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20020614,"list":[{"type":"snemovni-volby","id":2002,"date":20020614,"reg":216,"pct":14.27,"elected":31}]}}
+{
+  "reg": 216,
+  "name": "Koalice KDU-ČSL, US-DEU",
+  "hash": "koalice-kdu-csl--us-deu",
+  "short": "Koalice KDU-ČSL, US-DEU",
+  "coalition": [
+    1,
+    102
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20020614,
+    "list": [
+      {
+        "type": "snemovni-volby",
+        "id": 2002,
+        "date": 20020614,
+        "reg": 216,
+        "pct": 14.27,
+        "elected": 31
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

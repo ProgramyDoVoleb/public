@@ -1,1 +1,70 @@
-{"reg":511,"name":"Sdružení ZVUK 12, NK","hash":"sdruzeni-zvuk-12--nk","short":"Sdružení ZVUK 12, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":592005,"townName":"Uherské Hradiště","reg":511,"pct":10.19,"elected":3}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":592471,"townName":"Osvětimany","reg":511,"pct":16.65,"elected":2},{"num":592005,"townName":"Uherské Hradiště","reg":511,"pct":10.7,"elected":3}],"elected":5}]},"coalition":[80,775]}
+{
+  "reg": 511,
+  "name": "Sdružení ZVUK 12, NK",
+  "hash": "sdruzeni-zvuk-12--nk",
+  "short": "Sdružení ZVUK 12, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 592005,
+            "townName": "Uherské Hradiště",
+            "reg": 511,
+            "pct": 10.19,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 592471,
+            "townName": "Osvětimany",
+            "reg": 511,
+            "pct": 16.65,
+            "elected": 2
+          },
+          {
+            "num": 592005,
+            "townName": "Uherské Hradiště",
+            "reg": 511,
+            "pct": 10.7,
+            "elected": 3
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    775
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "reg": 488,
+  "name": "Sdružení Věci veřejné, NK",
+  "hash": "sdruzeni-veci-verejne--nk",
+  "short": "Sdružení Věci veřejné, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551635,
+            "townName": "Předslavice",
+            "reg": 488,
+            "pct": 38.88,
+            "elected": 3
+          },
+          {
+            "num": 559661,
+            "townName": "Zbůch",
+            "reg": 488,
+            "pct": 29.42,
+            "elected": 5
+          },
+          {
+            "num": 551066,
+            "townName": "Brno-Černovice",
+            "reg": 488,
+            "pct": 12.97,
+            "elected": 3
+          },
+          {
+            "num": 541354,
+            "townName": "Zábřeh",
+            "reg": 488,
+            "pct": 4.51,
+            "elected": 0
+          }
+        ],
+        "elected": 11
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 577057,
+            "townName": "Čistá u Horek",
+            "reg": 488,
+            "pct": 22.75,
+            "elected": 1
+          },
+          {
+            "num": 564567,
+            "townName": "Litoměřice",
+            "reg": 488,
+            "pct": 6.9,
+            "elected": 2
+          },
+          {
+            "num": 547336,
+            "townName": "Třeboň",
+            "reg": 488,
+            "pct": 4.57,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    144
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,91 @@
-{"reg":471,"name":"Sdružení ZHN, NK","hash":"sdruzeni-zhn--nk","short":"Sdružení ZHN, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":585343,"townName":"Kašava","reg":471,"pct":13.63,"elected":2},{"num":592048,"townName":"Bojkovice","reg":471,"pct":4.08,"elected":0}],"elected":2},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":592480,"townName":"Pašovice","reg":471,"pct":68.74,"elected":6},{"num":585343,"townName":"Kašava","reg":471,"pct":40.59,"elected":5},{"num":549649,"townName":"Tečovice","reg":471,"pct":15,"elected":2},{"num":592048,"townName":"Bojkovice","reg":471,"pct":9.3,"elected":2}],"elected":15}]},"coalition":[80,109]}
+{
+  "reg": 471,
+  "name": "Sdružení ZHN, NK",
+  "hash": "sdruzeni-zhn--nk",
+  "short": "Sdružení ZHN, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 585343,
+            "townName": "Kašava",
+            "reg": 471,
+            "pct": 13.63,
+            "elected": 2
+          },
+          {
+            "num": 592048,
+            "townName": "Bojkovice",
+            "reg": 471,
+            "pct": 4.08,
+            "elected": 0
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 592480,
+            "townName": "Pašovice",
+            "reg": 471,
+            "pct": 68.74,
+            "elected": 6
+          },
+          {
+            "num": 585343,
+            "townName": "Kašava",
+            "reg": 471,
+            "pct": 40.59,
+            "elected": 5
+          },
+          {
+            "num": 549649,
+            "townName": "Tečovice",
+            "reg": 471,
+            "pct": 15,
+            "elected": 2
+          },
+          {
+            "num": 592048,
+            "townName": "Bojkovice",
+            "reg": 471,
+            "pct": 9.3,
+            "elected": 2
+          }
+        ],
+        "elected": 15
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    109
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

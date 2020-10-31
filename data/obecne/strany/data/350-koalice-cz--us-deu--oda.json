@@ -1,1 +1,50 @@
-{"reg":350,"name":"Koalice CZ, US-DEU, ODA","hash":"koalice-cz--us-deu--oda","short":"Koalice CZ, US-DEU, ODA","coalition":[13,102,133],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":500097,"townName":"Praha 3","reg":350,"pct":1.84,"elected":0},{"num":500089,"townName":"Praha 2","reg":350,"pct":1.4,"elected":0}],"elected":0}]}}
+{
+  "reg": 350,
+  "name": "Koalice CZ, US-DEU, ODA",
+  "hash": "koalice-cz--us-deu--oda",
+  "short": "Koalice CZ, US-DEU, ODA",
+  "coalition": [
+    13,
+    102,
+    133
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500097,
+            "townName": "Praha 3",
+            "reg": 350,
+            "pct": 1.84,
+            "elected": 0
+          },
+          {
+            "num": 500089,
+            "townName": "Praha 2",
+            "reg": 350,
+            "pct": 1.4,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

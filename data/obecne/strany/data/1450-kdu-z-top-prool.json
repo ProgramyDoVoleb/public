@@ -1,0 +1,35 @@
+{
+  "reg": 1450,
+  "name": "Koalice KDU-ČSL, Zelení, TOP 09 a ProOl",
+  "hash": "kdu+z+top+prool",
+  "short": "KDU+Z+TOP+ProOl",
+  "coalition": [
+    1,
+    5,
+    721,
+    1039
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 11,
+            "reg": 1450,
+            "pct": 18.43,
+            "elected": 12
+          }
+        ]
+      }
+    ]
+  }
+}

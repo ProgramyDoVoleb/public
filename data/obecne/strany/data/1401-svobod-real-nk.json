@@ -1,1 +1,51 @@
-{"reg":1401,"name":"Sdružení Svobodní, REAL, NK","hash":"svobod-real-nk","short":"Svobod+REAL+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":586846,"townName":"Jihlava","reg":1401,"pct":4.14,"elected":0}],"top10":[{"num":586846,"townName":"Jihlava","reg":1401,"pct":4.14,"elected":0}],"elected":0}]},"coalition":[80,714,117]}
+{
+  "reg": 1401,
+  "name": "Sdružení Svobodní, REAL, NK",
+  "hash": "svobod+real+nk",
+  "short": "Svobod+REAL+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 1401,
+            "pct": 4.14,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 1401,
+            "pct": 4.14,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    714,
+    117
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

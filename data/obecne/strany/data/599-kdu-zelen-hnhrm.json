@@ -1,1 +1,34 @@
-{"reg":599,"name":"Koalice KDU-ČSL, Zelení a HNHRM","hash":"kdu-zelen-hnhrm","short":"KDU+Zelen+HNHRM","coalition":[1,5,112],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":5,"reg":599,"elected":6}]}]}}
+{
+  "reg": 599,
+  "name": "Koalice KDU-ČSL, Zelení a HNHRM",
+  "hash": "kdu+zelen+hnhrm",
+  "short": "KDU+Zelen+HNHRM",
+  "coalition": [
+    1,
+    5,
+    112
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 5,
+            "reg": 599,
+            "elected": 6
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

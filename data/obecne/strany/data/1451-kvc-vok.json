@@ -1,0 +1,33 @@
+{
+  "reg": 1451,
+  "name": "Koalice KVC a VOK",
+  "hash": "kvc+vok",
+  "short": "KVC+VOK",
+  "coalition": [
+    1028,
+    1118
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 4,
+            "reg": 1451,
+            "pct": 6.51,
+            "elected": 3
+          }
+        ]
+      }
+    ]
+  }
+}

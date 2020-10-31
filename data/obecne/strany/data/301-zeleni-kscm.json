@@ -1,1 +1,20 @@
-{"reg":301,"name":"Koalice Zelení a KSČM","hash":"zeleni-kscm","short":"Zelení+KSČM","coalition":[5,47],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 301,
+  "name": "Koalice Zelení a KSČM",
+  "hash": "zeleni+kscm",
+  "short": "Zelení+KSČM",
+  "coalition": [
+    5,
+    47
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

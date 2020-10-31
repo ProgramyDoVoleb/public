@@ -1,0 +1,44 @@
+{
+  "reg": 498,
+  "name": "Sdružení SNK ED, Soukromníci, TOP 09, NK",
+  "hash": "sdruzeni-snk-ed--soukromnici--top-09--nk",
+  "short": "Sdružení SNK ED, Soukromníci, TOP 09, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 558249,
+            "townName": "Přeštice",
+            "reg": 498,
+            "pct": 27.66,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    129,
+    716,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

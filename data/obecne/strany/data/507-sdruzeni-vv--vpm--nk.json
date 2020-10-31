@@ -1,1 +1,43 @@
-{"reg":507,"name":"Sdružení VV, VPM, NK","hash":"sdruzeni-vv--vpm--nk","short":"Sdružení VV, VPM, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":534676,"townName":"Mělník","reg":507,"pct":9.46,"elected":2}],"elected":2}]},"coalition":[80,113,144]}
+{
+  "reg": 507,
+  "name": "Sdružení VV, VPM, NK",
+  "hash": "sdruzeni-vv--vpm--nk",
+  "short": "Sdružení VV, VPM, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 534676,
+            "townName": "Mělník",
+            "reg": 507,
+            "pct": 9.46,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    113,
+    144
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,34 @@
-{"reg":1146,"name":"Starostové ProOlomoucký kraj","hash":"stan-prool","short":"STAN+ProOl","coalition":[166,103],"links":{"global":[{"url":"https://www.koaliceok.cz/"},{"url":"https://www.facebook.com/KoaliceProOlomouckyKraj/","icon":"fb"}],"regional":[]},"color":"#aaa","logo":"/obecne/strany/loga/1146-stan-prool.png","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20161007,"list":[{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":11,"reg":1146,"elected":6}]}]}}
+{
+  "reg": 1146,
+  "name": "Starostové ProOlomoucký kraj",
+  "hash": "stan+prool",
+  "short": "STAN+ProOl",
+  "coalition": [
+    166,
+    1039
+  ],
+  "color": "#0f4e95",
+  "logo": "/obecne/strany/loga/1146-stan-prool.png",
+  "memberOf": [],
+  "activity": {
+    "last": 20161007,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 11,
+            "reg": 1146,
+            "elected": 6
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

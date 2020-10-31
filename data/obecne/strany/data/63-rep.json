@@ -1,1 +1,25 @@
-{"reg":63,"name":"Republikáni","hash":"rep","short":"REP","links":{"global":[],"regional":[]},"color":"#7ea958","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20020614,"list":[{"type":"snemovni-volby","id":2002,"date":20020614,"reg":63,"pct":0.14,"elected":0}]}}
+{
+  "reg": 63,
+  "name": "Republikáni",
+  "hash": "rep",
+  "short": "REP",
+  "color": "#7ea958",
+  "memberOf": [],
+  "activity": {
+    "last": 20020614,
+    "list": [
+      {
+        "type": "snemovni-volby",
+        "id": 2002,
+        "date": 20020614,
+        "reg": 63,
+        "pct": 0.14,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

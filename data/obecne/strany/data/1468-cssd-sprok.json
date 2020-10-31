@@ -1,0 +1,33 @@
+{
+  "reg": 1468,
+  "name": "Koalice ČSSD a SproK",
+  "hash": "cssd+sprok",
+  "short": "ČSSD+SproK",
+  "coalition": [
+    7,
+    1228
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 8,
+            "reg": 1468,
+            "pct": 14.76,
+            "elected": 8
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,206 @@
-{"reg":152,"name":"Národní strana","hash":"ns","short":"NS","links":{"global":[],"regional":[]},"color":"#2c62f0","usualCoalitionWith":[{"count":1,"reg":2},{"count":1,"reg":153}],"memberOf":[310,328],"activity":{"last":20090605,"list":[{"type":"evropske-volby","id":2009,"date":20090605,"reg":152,"pct":0.26,"elected":0},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":1,"reg":152,"elected":0},{"area":13,"reg":152,"elected":0}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":30,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":152,"pct":0.03,"elected":0},{"num":554821,"townName":"Ostrava","reg":152,"pct":0.39,"elected":0}],"top10":[{"num":597911,"townName":"Třemešná","reg":152,"pct":32.88,"elected":5},{"num":564028,"townName":"Frýdlant","reg":152,"pct":7.12,"elected":2},{"num":597961,"townName":"Vrbno pod Pradědem","reg":152,"pct":4.53,"elected":0},{"num":554405,"townName":"Úsilov","reg":152,"pct":4.38,"elected":0},{"num":554227,"townName":"Vítkovice","reg":152,"pct":1.96,"elected":0},{"num":546046,"townName":"Slezská Ostrava","reg":152,"pct":1.32,"elected":0},{"num":535419,"townName":"Mladá Boleslav","reg":152,"pct":1.2,"elected":0},{"num":567256,"townName":"Litvínov","reg":152,"pct":1.07,"elected":0},{"num":563714,"townName":"Maršovice","reg":152,"pct":1.04,"elected":0},{"num":554286,"townName":"Mariánské Hory a Hulváky","reg":152,"pct":0.68,"elected":0}],"elected":7},{"type":"snemovni-volby","id":2006,"date":20060603,"reg":152,"pct":0.17,"elected":0},{"type":"senatni-volby","id":20041105,"date":20041105,"list":[{"area":16,"reg":152,"nominee":152,"candidate":["","Dušan","Kučera",""],"elected":false,"round1":{"pct":0.86,"progress":false}}]},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":1,"reg":328,"name":"Koalice Dělnické a Národní strany","coalition":[152,153],"pct":0.11,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":310,"name":"Národní koalice","coalition":[2,152],"pct":0.12,"elected":0}]}}
+{
+  "reg": 152,
+  "name": "Národní strana",
+  "hash": "ns",
+  "short": "NS",
+  "color": "#2c62f0",
+  "memberOf": [
+    310,
+    328
+  ],
+  "activity": {
+    "last": 20090605,
+    "list": [
+      {
+        "type": "evropske-volby",
+        "id": 2009,
+        "date": 20090605,
+        "reg": 152,
+        "pct": 0.26,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 152,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 152,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 30,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 152,
+            "pct": 0.03,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 152,
+            "pct": 0.39,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 597911,
+            "townName": "Třemešná",
+            "reg": 152,
+            "pct": 32.88,
+            "elected": 5
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 152,
+            "pct": 7.12,
+            "elected": 2
+          },
+          {
+            "num": 597961,
+            "townName": "Vrbno pod Pradědem",
+            "reg": 152,
+            "pct": 4.53,
+            "elected": 0
+          },
+          {
+            "num": 554405,
+            "townName": "Úsilov",
+            "reg": 152,
+            "pct": 4.38,
+            "elected": 0
+          },
+          {
+            "num": 554227,
+            "townName": "Vítkovice",
+            "reg": 152,
+            "pct": 1.96,
+            "elected": 0
+          },
+          {
+            "num": 546046,
+            "townName": "Slezská Ostrava",
+            "reg": 152,
+            "pct": 1.32,
+            "elected": 0
+          },
+          {
+            "num": 535419,
+            "townName": "Mladá Boleslav",
+            "reg": 152,
+            "pct": 1.2,
+            "elected": 0
+          },
+          {
+            "num": 567256,
+            "townName": "Litvínov",
+            "reg": 152,
+            "pct": 1.07,
+            "elected": 0
+          },
+          {
+            "num": 563714,
+            "townName": "Maršovice",
+            "reg": 152,
+            "pct": 1.04,
+            "elected": 0
+          },
+          {
+            "num": 554286,
+            "townName": "Mariánské Hory a Hulváky",
+            "reg": 152,
+            "pct": 0.68,
+            "elected": 0
+          }
+        ],
+        "elected": 7
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2006,
+        "date": 20060603,
+        "reg": 152,
+        "pct": 0.17,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 16,
+            "reg": 152,
+            "nominee": 152,
+            "candidate": [
+              "",
+              "Dušan",
+              "Kučera",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.86,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 328,
+            "name": "Koalice Dělnické a Národní strany",
+            "coalition": [
+              152,
+              153
+            ],
+            "pct": 0.11,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 310,
+        "name": "Národní koalice",
+        "coalition": [
+          2,
+          152
+        ],
+        "pct": 0.12,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

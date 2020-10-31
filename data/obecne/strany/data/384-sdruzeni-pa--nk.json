@@ -1,1 +1,20 @@
-{"reg":384,"name":"Sdružení PA, NK","hash":"sdruzeni-pa--nk","short":"Sdružení PA, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[43,80]}
+{
+  "reg": 384,
+  "name": "Sdružení PA, NK",
+  "hash": "sdruzeni-pa--nk",
+  "short": "Sdružení PA, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    43,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,948 @@
-{"reg":103,"name":"Strana pro otevřenou společnost","hash":"sos","short":"SOS","links":{"global":[],"regional":[]},"color":"#e5b0e2","usualCoalitionWith":[{"count":11,"reg":80},{"count":10,"reg":5},{"count":10,"reg":102},{"count":7,"reg":129},{"count":6,"reg":113},{"count":2,"reg":68},{"count":2,"reg":143},{"count":2,"reg":138},{"count":2,"reg":2},{"count":2,"reg":1},{"count":2,"reg":166},{"count":1,"reg":20},{"count":1,"reg":112},{"count":1,"reg":133},{"count":1,"reg":137},{"count":1,"reg":175},{"count":1,"reg":13},{"count":1,"reg":702},{"count":1,"reg":177},{"count":1,"reg":136},{"count":1,"reg":40},{"count":1,"reg":55}],"memberOf":[217,245,265,266,268,283,292,295,322,324,327,334,367,380,407,412,423,445,455,462,468,472,490,620,621,634,639,640,641,644,648,651,658,1146,1361],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":3},"coalitions":[1361,407,407],"list":[],"top10":[{"num":597686,"townName":"Norberčany","reg":103,"pct":43.61,"elected":3},{"num":552186,"townName":"Červenka","reg":103,"pct":28.48,"elected":4},{"num":597678,"townName":"Moravský Beroun","reg":103,"pct":24.26,"elected":4},{"num":597317,"townName":"Dvorce","reg":103,"pct":19.72,"elected":2},{"num":541656,"townName":"Rakovník","reg":1361,"name":"Koalice STAN a MPV","coalition":[166,103],"pct":13.98,"elected":3},{"num":561835,"townName":"Mimoň","reg":103,"pct":12.02,"elected":2},{"num":592731,"townName":"Uherský Brod","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":11.18,"elected":3},{"num":564028,"townName":"Frýdlant","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":10.49,"elected":3},{"num":551031,"townName":"Brno-sever","reg":103,"pct":0.62,"elected":0}],"elected":24},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":11,"reg":1146,"name":"Starostové ProOlomoucký kraj","coalition":[166,103],"elected":6}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":11,"coalition":5},"coalitions":[407,407,407,407,407],"list":[{"num":563889,"townName":"Liberec","reg":103,"pct":0.58,"elected":0}],"top10":[{"num":561541,"townName":"Dubnice","reg":103,"pct":69.47,"elected":7},{"num":501476,"townName":"Dlouhá Loučka","reg":103,"pct":21.54,"elected":3},{"num":597317,"townName":"Dvorce","reg":103,"pct":16.5,"elected":1},{"num":561835,"townName":"Mimoň","reg":103,"pct":15.77,"elected":3},{"num":564265,"townName":"Nové Město pod Smrkem","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":15.44,"elected":3},{"num":564028,"townName":"Frýdlant","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":13.57,"elected":3},{"num":597678,"townName":"Moravský Beroun","reg":103,"pct":12,"elected":2},{"num":552186,"townName":"Červenka","reg":103,"pct":11.03,"elected":1},{"num":592731,"townName":"Uherský Brod","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":8.16,"elected":2},{"num":570508,"townName":"Nový Bydžov","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":8.06,"elected":2}],"elected":27},{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":6,"reg":103,"elected":0}]},{"type":"senatni-volby","id":20101015,"date":20101015,"list":[{"area":34,"reg":103,"nominee":103,"candidate":["","Leoš","Škoda",""],"elected":false,"round1":{"pct":2.74,"progress":false}}]},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":20,"coalition":25},"coalitions":[407,407,658,367,407,490,490,490,490,490,490,407,407,407,407,407,407,407,407,407,407,407,407,407,407],"list":[{"num":554791,"townName":"Plzeň","reg":490,"name":"Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK","coalition":[55,80,102,103,129,702],"pct":4.51,"elected":0},{"num":563889,"townName":"Liberec","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":3.57,"elected":0},{"num":582786,"townName":"Brno","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":3.14,"elected":0}],"top10":[{"num":561541,"townName":"Dubnice","reg":103,"pct":74.53,"elected":8},{"num":546593,"townName":"Nová Ves","reg":103,"pct":56.78,"elected":6},{"num":547018,"townName":"Střeň","reg":103,"pct":40.04,"elected":3},{"num":553654,"townName":"Holýšov","reg":103,"pct":38.54,"elected":6},{"num":506753,"townName":"Háj ve Slezsku","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":36.75,"elected":8},{"num":597317,"townName":"Dvorce","reg":103,"pct":29.87,"elected":3},{"num":505927,"townName":"Opava","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":28.21,"elected":17},{"num":500861,"townName":"Bouzov","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":27.2,"elected":4},{"num":564265,"townName":"Nové Město pod Smrkem","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":24.76,"elected":5},{"num":554731,"townName":"Plzeň 5-Křimice","reg":490,"name":"Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK","coalition":[55,80,102,103,129,702],"pct":23.85,"elected":2}],"elected":105},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":1,"reg":640,"name":"STŘEDOČEŠI","coalition":[40,102,103],"elected":0},{"area":3,"reg":103,"elected":0},{"area":6,"reg":103,"elected":3},{"area":7,"reg":648,"name":"Volba pro kraj","coalition":[103,113],"elected":0},{"area":8,"reg":651,"name":"S.O.S. pro kraj","coalition":[102,103],"elected":0},{"area":10,"reg":634,"name":"Alternativa 2008","coalition":[102,103,138],"elected":0},{"area":11,"reg":639,"name":"Šance pro náš kraj","coalition":[102,103,129],"elected":0}]},{"type":"senatni-volby","id":20081017,"date":20081017,"list":[{"area":33,"reg":103,"nominee":103,"candidate":["","Miroslava","Švubová",""],"elected":false,"round1":{"pct":2.08,"progress":false}},{"area":36,"reg":103,"nominee":103,"candidate":["","Jaromír","Dvořák",""],"elected":false,"round1":{"pct":9.13,"progress":false}}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":30,"coalition":42},"coalitions":[407,407,407,407,407,292,462,462,462,462,462,462,407,407,407,407,407,407,407,407,407,407,472,407,407,407,455,407,407,407,407,367,621,407,620,407,407,468,407,407,407,407],"list":[{"num":554791,"townName":"Plzeň","reg":462,"name":"Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK","coalition":[5,80,102,103,129,143],"pct":7.58,"elected":3},{"num":563889,"townName":"Liberec","reg":455,"name":"Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní, NK","coalition":[1,80,102,103,113,133,137],"pct":20.98,"elected":9},{"num":569810,"townName":"Hradec Králové","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":7.72,"elected":3},{"num":582786,"townName":"Brno","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":8.91,"elected":5},{"num":500496,"townName":"Olomouc","reg":620,"name":"Koalice SOS, SNK ED, Z","coalition":[103,129,177],"pct":5.8,"elected":0}],"top10":[{"num":562106,"townName":"Stružnice","reg":103,"pct":100,"elected":9},{"num":548961,"townName":"Sedliště","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":100,"elected":7},{"num":531472,"townName":"Lochovice","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":81.4,"elected":9},{"num":560057,"townName":"Osek","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":62.89,"elected":7},{"num":551759,"townName":"Sousedovice","reg":103,"pct":57.66,"elected":4},{"num":554766,"townName":"Plzeň 7-Radčice","reg":462,"name":"Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK","coalition":[5,80,102,103,129,143],"pct":57.6,"elected":5},{"num":558605,"townName":"Ždírec","reg":407,"name":"Sdružení SOS, NK","coalition":[80,103],"pct":52.69,"elected":5},{"num":561541,"townName":"Dubnice","reg":103,"pct":51.29,"elected":5},{"num":579050,"townName":"Bernartice","reg":103,"pct":46.83,"elected":7},{"num":553654,"townName":"Holýšov","reg":103,"pct":41.56,"elected":7}],"elected":225},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":1,"reg":327,"name":"Koal. Str.zelených a Str.pro otevřenou společnost","coalition":[5,103],"pct":2.05,"elected":0},{"area":3,"reg":327,"name":"Koal. Str.zelených a Str.pro otevřenou společnost","coalition":[5,103],"pct":2.67,"elected":0},{"area":5,"reg":334,"name":"Strana pro otevřenou společnost a Hnutí nezávislých za harmonický rozvoj obcí a měst","coalition":[103,112],"pct":0.53,"elected":0},{"area":6,"reg":103,"pct":12.62,"elected":7},{"area":11,"reg":103,"pct":2.35,"elected":0},{"area":13,"reg":103,"pct":0.07,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":103,"pct":0.23,"elected":0},{"type":"senatni-volby","id":20021025,"date":20021025,"list":[{"area":66,"reg":103,"nominee":103,"candidate":["RNDr.","Pavel","Nováček",""],"elected":false,"round1":{"pct":11.65,"progress":false}}]},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":3,"reg":103,"pct":1.66,"elected":0},{"area":6,"reg":103,"pct":9.23,"elected":5},{"area":8,"reg":265,"name":"Sdružení pro Pardubický kraj","coalition":[5,103],"pct":5.6,"elected":2},{"area":11,"reg":266,"name":"Náš kraj 21","coalition":[5,103],"pct":2.57,"elected":0}]}]}}
+{
+  "reg": 103,
+  "name": "Strana pro otevřenou společnost",
+  "hash": "sos",
+  "short": "SOS",
+  "color": "#e5b0e2",
+  "memberOf": [
+    217,
+    245,
+    265,
+    266,
+    268,
+    283,
+    292,
+    295,
+    322,
+    324,
+    327,
+    334,
+    367,
+    380,
+    407,
+    412,
+    423,
+    445,
+    455,
+    462,
+    468,
+    472,
+    490,
+    620,
+    621,
+    634,
+    639,
+    640,
+    641,
+    644,
+    648,
+    651,
+    658,
+    1146,
+    1361
+  ],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 103,
+            "pct": 0.39,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 2
+        },
+        "coalitions": [
+          407,
+          407
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 597686,
+            "townName": "Norberčany",
+            "reg": 103,
+            "pct": 43.61,
+            "elected": 3
+          },
+          {
+            "num": 552186,
+            "townName": "Červenka",
+            "reg": 103,
+            "pct": 28.48,
+            "elected": 4
+          },
+          {
+            "num": 597678,
+            "townName": "Moravský Beroun",
+            "reg": 103,
+            "pct": 24.26,
+            "elected": 4
+          },
+          {
+            "num": 597317,
+            "townName": "Dvorce",
+            "reg": 103,
+            "pct": 19.72,
+            "elected": 2
+          },
+          {
+            "num": 561835,
+            "townName": "Mimoň",
+            "reg": 103,
+            "pct": 12.02,
+            "elected": 2
+          },
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 11.18,
+            "elected": 3
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 10.49,
+            "elected": 3
+          },
+          {
+            "num": 551031,
+            "townName": "Brno-sever",
+            "reg": 103,
+            "pct": 0.62,
+            "elected": 0
+          }
+        ],
+        "elected": 21
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 11,
+          "coalition": 5
+        },
+        "coalitions": [
+          407,
+          407,
+          407,
+          407,
+          407
+        ],
+        "list": [
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 103,
+            "pct": 0.58,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 561541,
+            "townName": "Dubnice",
+            "reg": 103,
+            "pct": 69.47,
+            "elected": 7
+          },
+          {
+            "num": 501476,
+            "townName": "Dlouhá Loučka",
+            "reg": 103,
+            "pct": 21.54,
+            "elected": 3
+          },
+          {
+            "num": 597317,
+            "townName": "Dvorce",
+            "reg": 103,
+            "pct": 16.5,
+            "elected": 1
+          },
+          {
+            "num": 561835,
+            "townName": "Mimoň",
+            "reg": 103,
+            "pct": 15.77,
+            "elected": 3
+          },
+          {
+            "num": 564265,
+            "townName": "Nové Město pod Smrkem",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 15.44,
+            "elected": 3
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 13.57,
+            "elected": 3
+          },
+          {
+            "num": 597678,
+            "townName": "Moravský Beroun",
+            "reg": 103,
+            "pct": 12,
+            "elected": 2
+          },
+          {
+            "num": 552186,
+            "townName": "Červenka",
+            "reg": 103,
+            "pct": 11.03,
+            "elected": 1
+          },
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 8.16,
+            "elected": 2
+          },
+          {
+            "num": 570508,
+            "townName": "Nový Bydžov",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 8.06,
+            "elected": 2
+          }
+        ],
+        "elected": 27
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 6,
+            "reg": 103,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 34,
+            "reg": 103,
+            "nominee": 103,
+            "candidate": [
+              "",
+              "Leoš",
+              "Škoda",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.74,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 20,
+          "coalition": 25
+        },
+        "coalitions": [
+          407,
+          407,
+          658,
+          367,
+          407,
+          490,
+          490,
+          490,
+          490,
+          490,
+          490,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407
+        ],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 490,
+            "name": "Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK",
+            "coalition": [
+              55,
+              80,
+              102,
+              103,
+              129,
+              702
+            ],
+            "pct": 4.51,
+            "elected": 0
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 3.57,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 3.14,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 561541,
+            "townName": "Dubnice",
+            "reg": 103,
+            "pct": 74.53,
+            "elected": 8
+          },
+          {
+            "num": 546593,
+            "townName": "Nová Ves",
+            "reg": 103,
+            "pct": 56.78,
+            "elected": 6
+          },
+          {
+            "num": 547018,
+            "townName": "Střeň",
+            "reg": 103,
+            "pct": 40.04,
+            "elected": 3
+          },
+          {
+            "num": 553654,
+            "townName": "Holýšov",
+            "reg": 103,
+            "pct": 38.54,
+            "elected": 6
+          },
+          {
+            "num": 506753,
+            "townName": "Háj ve Slezsku",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 36.75,
+            "elected": 8
+          },
+          {
+            "num": 597317,
+            "townName": "Dvorce",
+            "reg": 103,
+            "pct": 29.87,
+            "elected": 3
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 28.21,
+            "elected": 17
+          },
+          {
+            "num": 500861,
+            "townName": "Bouzov",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 27.2,
+            "elected": 4
+          },
+          {
+            "num": 564265,
+            "townName": "Nové Město pod Smrkem",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 24.76,
+            "elected": 5
+          },
+          {
+            "num": 554731,
+            "townName": "Plzeň 5-Křimice",
+            "reg": 490,
+            "name": "Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK",
+            "coalition": [
+              55,
+              80,
+              102,
+              103,
+              129,
+              702
+            ],
+            "pct": 23.85,
+            "elected": 2
+          }
+        ],
+        "elected": 105
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 640,
+            "name": "STŘEDOČEŠI",
+            "coalition": [
+              40,
+              102,
+              103
+            ],
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 103,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 103,
+            "elected": 3
+          },
+          {
+            "area": 7,
+            "reg": 648,
+            "name": "Volba pro kraj",
+            "coalition": [
+              103,
+              113
+            ],
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 651,
+            "name": "S.O.S. pro kraj",
+            "coalition": [
+              102,
+              103
+            ],
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 634,
+            "name": "Alternativa 2008",
+            "coalition": [
+              102,
+              103,
+              138
+            ],
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 639,
+            "name": "Šance pro náš kraj",
+            "coalition": [
+              102,
+              103,
+              129
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 33,
+            "reg": 103,
+            "nominee": 103,
+            "candidate": [
+              "",
+              "Miroslava",
+              "Švubová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.08,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 103,
+            "nominee": 103,
+            "candidate": [
+              "",
+              "Jaromír",
+              "Dvořák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.13,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 30,
+          "coalition": 42
+        },
+        "coalitions": [
+          407,
+          407,
+          407,
+          407,
+          407,
+          292,
+          462,
+          462,
+          462,
+          462,
+          462,
+          462,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          407,
+          472,
+          407,
+          407,
+          407,
+          455,
+          407,
+          407,
+          407,
+          407,
+          367,
+          621,
+          407,
+          620,
+          407,
+          407,
+          468,
+          407,
+          407,
+          407,
+          407
+        ],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 462,
+            "name": "Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK",
+            "coalition": [
+              5,
+              80,
+              102,
+              103,
+              129,
+              143
+            ],
+            "pct": 7.58,
+            "elected": 3
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 455,
+            "name": "Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní, NK",
+            "coalition": [
+              1,
+              80,
+              102,
+              103,
+              113,
+              133,
+              137
+            ],
+            "pct": 20.98,
+            "elected": 9
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 7.72,
+            "elected": 3
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 8.91,
+            "elected": 5
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 620,
+            "name": "Koalice SOS, SNK ED, Z",
+            "coalition": [
+              103,
+              129,
+              177
+            ],
+            "pct": 5.8,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 562106,
+            "townName": "Stružnice",
+            "reg": 103,
+            "pct": 100,
+            "elected": 9
+          },
+          {
+            "num": 548961,
+            "townName": "Sedliště",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 531472,
+            "townName": "Lochovice",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 81.4,
+            "elected": 9
+          },
+          {
+            "num": 560057,
+            "townName": "Osek",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 62.89,
+            "elected": 7
+          },
+          {
+            "num": 551759,
+            "townName": "Sousedovice",
+            "reg": 103,
+            "pct": 57.66,
+            "elected": 4
+          },
+          {
+            "num": 554766,
+            "townName": "Plzeň 7-Radčice",
+            "reg": 462,
+            "name": "Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK",
+            "coalition": [
+              5,
+              80,
+              102,
+              103,
+              129,
+              143
+            ],
+            "pct": 57.6,
+            "elected": 5
+          },
+          {
+            "num": 558605,
+            "townName": "Ždírec",
+            "reg": 407,
+            "name": "Sdružení SOS, NK",
+            "coalition": [
+              80,
+              103
+            ],
+            "pct": 52.69,
+            "elected": 5
+          },
+          {
+            "num": 561541,
+            "townName": "Dubnice",
+            "reg": 103,
+            "pct": 51.29,
+            "elected": 5
+          },
+          {
+            "num": 579050,
+            "townName": "Bernartice",
+            "reg": 103,
+            "pct": 46.83,
+            "elected": 7
+          },
+          {
+            "num": 553654,
+            "townName": "Holýšov",
+            "reg": 103,
+            "pct": 41.56,
+            "elected": 7
+          }
+        ],
+        "elected": 225
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 327,
+            "name": "Koalice Strany zelených a Strany pro otevřenou společnost",
+            "coalition": [
+              5,
+              103
+            ],
+            "pct": 2.05,
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 327,
+            "name": "Koalice Strany zelených a Strany pro otevřenou společnost",
+            "coalition": [
+              5,
+              103
+            ],
+            "pct": 2.67,
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 334,
+            "name": "Strana pro otevřenou společnost a Hnutí nezávislých za harmonický rozvoj obcí a měst",
+            "coalition": [
+              103,
+              112
+            ],
+            "pct": 0.53,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 103,
+            "pct": 12.62,
+            "elected": 7
+          },
+          {
+            "area": 11,
+            "reg": 103,
+            "pct": 2.35,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 103,
+            "pct": 0.07,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 103,
+        "pct": 0.23,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 66,
+            "reg": 103,
+            "nominee": 103,
+            "candidate": [
+              "RNDr.",
+              "Pavel",
+              "Nováček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.65,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 3,
+            "reg": 103,
+            "pct": 1.66,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 103,
+            "pct": 9.23,
+            "elected": 5
+          },
+          {
+            "area": 8,
+            "reg": 265,
+            "name": "Sdružení pro Pardubický kraj",
+            "coalition": [
+              5,
+              103
+            ],
+            "pct": 5.6,
+            "elected": 2
+          },
+          {
+            "area": 11,
+            "reg": 266,
+            "name": "Náš kraj 21",
+            "coalition": [
+              5,
+              103
+            ],
+            "pct": 2.57,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

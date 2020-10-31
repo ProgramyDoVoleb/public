@@ -1,0 +1,49 @@
+{
+  "reg": 674,
+  "name": "Koalice TOP 09 a Věci veřejné",
+  "hash": "koalice-top-09-a-veci-verejne",
+  "short": "Koalice TOP 09 a Věci veřejné",
+  "coalition": [
+    144,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500852,
+            "townName": "Bohuňovice",
+            "reg": 674,
+            "pct": 28.25,
+            "elected": 4
+          },
+          {
+            "num": 574279,
+            "townName": "Nové Město nad Metují",
+            "reg": 674,
+            "pct": 9.06,
+            "elected": 2
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

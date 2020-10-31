@@ -1,1 +1,89 @@
-{"reg":728,"name":"Pro Třebíč","hash":"protr","short":"ProTR","links":{"global":[],"regional":[]},"color":"#5add15","usualCoalitionWith":[{"count":1,"reg":166}],"memberOf":[1300],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":1},"coalitions":[1300],"list":[],"top10":[{"num":590266,"townName":"Třebíč","reg":1300,"name":"Koalice STAN a ProTR","coalition":[166,728],"pct":10.59,"elected":3}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":590266,"townName":"Třebíč","reg":728,"pct":9.72,"elected":3}],"elected":3},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":590266,"townName":"Třebíč","reg":728,"pct":10.2,"elected":3}],"elected":3}]}}
+{
+  "reg": 728,
+  "name": "Pro Třebíč",
+  "hash": "protr",
+  "short": "ProTR",
+  "color": "#5add15",
+  "memberOf": [
+    1300
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 1
+        },
+        "coalitions": [
+          1300
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 1300,
+            "name": "Koalice STAN a ProTR",
+            "coalition": [
+              166,
+              728
+            ],
+            "pct": 10.59,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 728,
+            "pct": 9.72,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 728,
+            "pct": 10.2,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

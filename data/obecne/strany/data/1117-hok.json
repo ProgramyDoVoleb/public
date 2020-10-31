@@ -1,1 +1,35 @@
-{"reg":1117,"name":"HNUTÍ OBČANŮ KRAJE","hash":"hok","short":"HOK","links":{"global":[],"regional":[]},"color":"#e360d5","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1117,
+  "name": "HNUTÍ OBČANŮ KRAJE",
+  "hash": "hok",
+  "short": "HOK",
+  "color": "#e360d5",
+  "memberOf": [],
+  "activity": {
+    "last": 20161007,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 8,
+            "reg": 1170,
+            "name": "Koalice SPOZ, PPL a HOK",
+            "coalition": [
+              724,
+              790,
+              1117
+            ],
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,69 @@
-{"reg":1205,"name":"KOLONÁDA - HNUTÍ PATRIOTŮ","hash":"kolonada","short":"KOLONÁDA","links":{"global":[],"regional":[]},"color":"#5756c3","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":1205,"pct":3.12,"elected":0}],"top10":[{"num":554961,"townName":"Karlovy Vary","reg":1205,"pct":3.12,"elected":0}],"elected":0}]}}
+{
+  "reg": 1205,
+  "name": "KOLONÁDA - HNUTÍ PATRIOTŮ",
+  "hash": "kolonada",
+  "short": "KOLONÁDA",
+  "color": "#5756c3",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1205,
+            "nominee": 785,
+            "candidate": [
+              "",
+              "Martin",
+              "Lojda",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.41,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1205,
+            "pct": 3.12,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1205,
+            "pct": 3.12,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

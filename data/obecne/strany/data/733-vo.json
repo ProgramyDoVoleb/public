@@ -1,1 +1,80 @@
-{"reg":733,"name":"\"Volím Orlovou\"","hash":"vo","short":"\"VO\"","links":{"global":[],"regional":[]},"color":"#96179b","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":599069,"townName":"Orlová","reg":733,"pct":8.28,"elected":3}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":599069,"townName":"Orlová","reg":733,"pct":7.18,"elected":3}],"elected":3},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":599069,"townName":"Orlová","reg":733,"pct":11.18,"elected":5}],"elected":5}]}}
+{
+  "reg": 733,
+  "name": "\"Volím Orlovou\"",
+  "hash": "\"vo\"",
+  "short": "\"VO\"",
+  "color": "#96179b",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 599069,
+            "townName": "Orlová",
+            "reg": 733,
+            "pct": 8.28,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 599069,
+            "townName": "Orlová",
+            "reg": 733,
+            "pct": 7.18,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 599069,
+            "townName": "Orlová",
+            "reg": 733,
+            "pct": 11.18,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

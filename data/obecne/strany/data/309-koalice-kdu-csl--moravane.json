@@ -1,1 +1,42 @@
-{"reg":309,"name":"Koalice KDU-ČSL, Moravané","hash":"koalice-kdu-csl--moravane","short":"Koalice KDU-ČSL, Moravané","coalition":[1,83],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551244,"townName":"Brno-Řečkovice a Mokrá Hora","reg":309,"pct":16.97,"elected":4}],"elected":4}]}}
+{
+  "reg": 309,
+  "name": "Koalice KDU-ČSL, Moravané",
+  "hash": "koalice-kdu-csl--moravane",
+  "short": "Koalice KDU-ČSL, Moravané",
+  "coalition": [
+    1,
+    83
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551244,
+            "townName": "Brno-Řečkovice a Mokrá Hora",
+            "reg": 309,
+            "pct": 16.97,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

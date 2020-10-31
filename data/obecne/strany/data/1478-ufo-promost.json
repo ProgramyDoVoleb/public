@@ -1,0 +1,33 @@
+{
+  "reg": 1478,
+  "name": "Koalice UFO a ProMOST",
+  "hash": "ufo+promost",
+  "short": "UFO+ProMOST",
+  "coalition": [
+    1012,
+    1175
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 5,
+            "reg": 1478,
+            "pct": 5.97,
+            "elected": 4
+          }
+        ]
+      }
+    ]
+  }
+}

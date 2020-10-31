@@ -1,1 +1,79 @@
-{"reg":85,"name":"Pražané Praze","hash":"pp","short":"PP","links":{"global":[],"regional":[]},"color":"#bf3327","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"senatni-volby","id":20121012,"date":20121012,"list":[{"area":23,"reg":85,"nominee":85,"candidate":["Bc.","Dagmar","Jungová",""],"elected":false,"round1":{"pct":2.32,"progress":false}},{"area":26,"reg":85,"nominee":85,"candidate":["Ing.","Karel","Berka",""],"elected":false,"round1":{"pct":1.1,"progress":false}}]},{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":21,"reg":85,"nominee":85,"candidate":["RNDr.","Ladislav","Blažek",""],"elected":false,"round1":{"pct":0.57,"progress":false}}]}]}}
+{
+  "reg": 85,
+  "name": "Pražané Praze",
+  "hash": "pp",
+  "short": "PP",
+  "color": "#bf3327",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 23,
+            "reg": 85,
+            "nominee": 85,
+            "candidate": [
+              "Bc.",
+              "Dagmar",
+              "Jungová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.32,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 85,
+            "nominee": 85,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Berka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.1,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 21,
+            "reg": 85,
+            "nominee": 85,
+            "candidate": [
+              "RNDr.",
+              "Ladislav",
+              "Blažek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.57,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

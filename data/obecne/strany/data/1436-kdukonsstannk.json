@@ -1,1 +1,44 @@
-{"reg":1436,"name":"Sdružení KDU-ČSL, KONS, STAN, NK","hash":"kdukonsstannk","short":"KDUKONSSTANNK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":547107,"townName":"Praha 12","reg":1436,"pct":14.93,"elected":5}],"elected":5}]},"coalition":[1,24,80,166]}
+{
+  "reg": 1436,
+  "name": "Sdružení KDU-ČSL, KONS, STAN, NK",
+  "hash": "kdukonsstannk",
+  "short": "KDUKONSSTANNK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547107,
+            "townName": "Praha 12",
+            "reg": 1436,
+            "pct": 14.93,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    24,
+    80,
+    166
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

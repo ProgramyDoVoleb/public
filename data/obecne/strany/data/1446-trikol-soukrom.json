@@ -1,0 +1,39 @@
+{
+  "reg": 1446,
+  "name": "Koalice Trikolóra a Soukromníci",
+  "hash": "trikol+soukrom",
+  "short": "Trikol+Soukrom",
+  "coalition": [
+    716,
+    1227
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 8,
+            "reg": 1446,
+            "pct": 2.68,
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 1446,
+            "pct": 2.79,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

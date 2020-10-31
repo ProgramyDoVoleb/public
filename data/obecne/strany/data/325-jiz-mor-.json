@@ -1,1 +1,35 @@
-{"reg":325,"name":"Koalice jižní Morava","hash":"jiz-mor-","short":"JIŽ.MOR.","coalition":[20,83,101],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20041105,"list":[{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":10,"reg":325,"pct":0.58,"elected":0}]}]}}
+{
+  "reg": 325,
+  "name": "Koalice jižní Morava",
+  "hash": "jiz-mor-",
+  "short": "JIŽ.MOR.",
+  "coalition": [
+    20,
+    83,
+    101
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20041105,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 10,
+            "reg": 325,
+            "pct": 0.58,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

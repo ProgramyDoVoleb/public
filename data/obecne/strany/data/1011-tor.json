@@ -1,1 +1,74 @@
-{"reg":1011,"name":"Toryové","hash":"tor","short":"TOR","links":{"global":[],"regional":[]},"color":"#748680","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":554821,"townName":"Ostrava","reg":1011,"pct":1.81,"elected":0}],"top10":[{"num":599999,"townName":"Trojanovice","reg":1011,"pct":15.88,"elected":2},{"num":544256,"townName":"České Budějovice","reg":1011,"pct":2.47,"elected":0},{"num":546224,"townName":"Poruba","reg":1011,"pct":2.23,"elected":0},{"num":554821,"townName":"Ostrava","reg":1011,"pct":1.81,"elected":0},{"num":567027,"townName":"Most","reg":1011,"pct":1.39,"elected":0}],"elected":2}]}}
+{
+  "reg": 1011,
+  "name": "Toryové",
+  "hash": "tor",
+  "short": "TOR",
+  "color": "#748680",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 1011,
+            "pct": 1.81,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 599999,
+            "townName": "Trojanovice",
+            "reg": 1011,
+            "pct": 15.88,
+            "elected": 2
+          },
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1011,
+            "pct": 2.47,
+            "elected": 0
+          },
+          {
+            "num": 546224,
+            "townName": "Poruba",
+            "reg": 1011,
+            "pct": 2.23,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 1011,
+            "pct": 1.81,
+            "elected": 0
+          },
+          {
+            "num": 567027,
+            "townName": "Most",
+            "reg": 1011,
+            "pct": 1.39,
+            "elected": 0
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

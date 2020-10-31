@@ -1,1 +1,34 @@
-{"reg":640,"name":"STŘEDOČEŠI","hash":"stredoc-","short":"STŘEDOČ.","coalition":[40,102,103],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":1,"reg":640,"elected":0}]}]}}
+{
+  "reg": 640,
+  "name": "STŘEDOČEŠI",
+  "hash": "stredoc-",
+  "short": "STŘEDOČ.",
+  "coalition": [
+    40,
+    102,
+    103
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 640,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

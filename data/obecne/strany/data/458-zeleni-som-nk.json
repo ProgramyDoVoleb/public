@@ -1,1 +1,43 @@
-{"reg":458,"name":"Sdružení Zelení, SOM, NK","hash":"zeleni-som-nk","short":"Zelení+SOM+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551031,"townName":"Brno-sever","reg":458,"pct":19.73,"elected":7}],"elected":7}]},"coalition":[5,80,158]}
+{
+  "reg": 458,
+  "name": "Sdružení Zelení, SOM, NK",
+  "hash": "zeleni+som+nk",
+  "short": "Zelení+SOM+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551031,
+            "townName": "Brno-sever",
+            "reg": 458,
+            "pct": 19.73,
+            "elected": 7
+          }
+        ],
+        "elected": 7
+      }
+    ]
+  },
+  "coalition": [
+    5,
+    80,
+    158
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

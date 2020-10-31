@@ -1,1 +1,57 @@
-{"reg":1309,"name":"Sdružení HPP, ODA, NK","hash":"hpp-oda-nk","short":"HPP+ODA+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":3,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":547417,"townName":"Praha 18","reg":1309,"pct":13.29,"elected":3},{"num":500216,"townName":"Praha 9","reg":1309,"pct":0.9,"elected":0},{"num":500143,"townName":"Praha 5","reg":1309,"pct":0.64,"elected":0}],"elected":3}]},"coalition":[80,791,117]}
+{
+  "reg": 1309,
+  "name": "Sdružení HPP, ODA, NK",
+  "hash": "hpp+oda+nk",
+  "short": "HPP+ODA+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547417,
+            "townName": "Praha 18",
+            "reg": 1309,
+            "pct": 13.29,
+            "elected": 3
+          },
+          {
+            "num": 500216,
+            "townName": "Praha 9",
+            "reg": 1309,
+            "pct": 0.9,
+            "elected": 0
+          },
+          {
+            "num": 500143,
+            "townName": "Praha 5",
+            "reg": 1309,
+            "pct": 0.64,
+            "elected": 0
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    791,
+    117
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

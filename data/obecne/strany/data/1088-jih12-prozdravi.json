@@ -1,1 +1,42 @@
-{"reg":1088,"name":"Koalice JIH 12 a PRO Zdraví","hash":"jih12-prozdravi","short":"JIH12+PROZdraví","coalition":[766,785],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":544256,"townName":"České Budějovice","reg":1088,"pct":3.59,"elected":0}],"elected":0}]}}
+{
+  "reg": 1088,
+  "name": "Koalice JIH 12 a PRO Zdraví",
+  "hash": "jih12+prozdravi",
+  "short": "JIH12+PROZdraví",
+  "coalition": [
+    766,
+    785
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1088,
+            "pct": 3.59,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

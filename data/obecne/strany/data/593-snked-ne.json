@@ -1,1 +1,33 @@
-{"reg":593,"name":"Koalice SNK ED a Nestraníci","hash":"snked-ne","short":"SNKED+NE","coalition":[129,181],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":9,"reg":593,"elected":3}]}]}}
+{
+  "reg": 593,
+  "name": "Koalice SNK ED a Nestraníci",
+  "hash": "snked+ne",
+  "short": "SNKED+NE",
+  "coalition": [
+    129,
+    181
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 9,
+            "reg": 593,
+            "elected": 3
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

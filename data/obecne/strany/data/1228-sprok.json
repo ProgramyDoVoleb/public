@@ -1,1 +1,36 @@
-{"reg":1228,"name":"Společně pro kraj","hash":"spolecne-pro-kraj","short":"SproK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1228,
+  "name": "Společně pro kraj",
+  "hash": "sprok",
+  "short": "SproK",
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "usualCoalitionWith": [],
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 8,
+            "reg": 1468,
+            "name": "Koalice ČSSD a SproK",
+            "coalition": [
+              7,
+              1228
+            ],
+            "pct": 14.76,
+            "elected": 8
+          }
+        ]
+      }
+    ]
+  }
+}

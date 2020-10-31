@@ -1,0 +1,33 @@
+{
+  "reg": 1457,
+  "name": "Koalice STAN a SOL",
+  "hash": "stan+sol",
+  "short": "STAN+SOL",
+  "coalition": [
+    166,
+    1031
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 10,
+            "reg": 1457,
+            "pct": 10.4,
+            "elected": 7
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,1 +1,43 @@
-{"reg":484,"name":"Sdružení Zelení, VV, NK","hash":"zeleni-vv-nk","short":"Zelení+VV+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":574988,"townName":"Holice","reg":484,"pct":7.51,"elected":1}],"elected":1}]},"coalition":[5,80,144]}
+{
+  "reg": 484,
+  "name": "Sdružení Zelení, VV, NK",
+  "hash": "zeleni+vv+nk",
+  "short": "Zelení+VV+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 574988,
+            "townName": "Holice",
+            "reg": 484,
+            "pct": 7.51,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    5,
+    80,
+    144
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

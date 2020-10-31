@@ -1,1 +1,49 @@
-{"reg":1082,"name":"Koalice KDU-ČSL a KONS","hash":"koalice-kdu-csl-a-kons","short":"Koalice KDU-ČSL a KONS","coalition":[1,24],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":586021,"townName":"Hodonín","reg":1082,"pct":12.06,"elected":4},{"num":599069,"townName":"Orlová","reg":1082,"pct":5.51,"elected":2}],"elected":6}]}}
+{
+  "reg": 1082,
+  "name": "Koalice KDU-ČSL a KONS",
+  "hash": "koalice-kdu-csl-a-kons",
+  "short": "Koalice KDU-ČSL a KONS",
+  "coalition": [
+    1,
+    24
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 586021,
+            "townName": "Hodonín",
+            "reg": 1082,
+            "pct": 12.06,
+            "elected": 4
+          },
+          {
+            "num": 599069,
+            "townName": "Orlová",
+            "reg": 1082,
+            "pct": 5.51,
+            "elected": 2
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

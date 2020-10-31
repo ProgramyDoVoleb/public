@@ -1,1 +1,77 @@
-{"reg":1031,"name":"Hnutí SOL","hash":"sol","short":"SOL","links":{"global":[],"regional":[]},"color":"#474c98","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551031,"townName":"Brno-sever","reg":1031,"pct":30.56,"elected":15}],"elected":15},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551031,"townName":"Brno-sever","reg":1031,"pct":21.98,"elected":9}],"elected":9}]}}
+{
+  "reg": 1031,
+  "name": "Hnutí SOL",
+  "hash": "sol",
+  "short": "SOL",
+  "color": "#474c98",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 10,
+            "reg": 1457,
+            "name": "Koalice STAN a SOL",
+            "coalition": [
+              166,
+              1031
+            ],
+            "pct": 10.4,
+            "elected": 7
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551031,
+            "townName": "Brno-sever",
+            "reg": 1031,
+            "pct": 30.56,
+            "elected": 15
+          }
+        ],
+        "elected": 15
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551031,
+            "townName": "Brno-sever",
+            "reg": 1031,
+            "pct": 21.98,
+            "elected": 9
+          }
+        ],
+        "elected": 9
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,153 @@
-{"reg":1118,"name":"VOK - Volba pro Karlovarský kraj","hash":"vok","short":"VOK","links":{"global":[],"regional":[]},"color":"#c4bcb5","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":554979,"townName":"Abertamy","reg":1118,"pct":45.76,"elected":4},{"num":538159,"townName":"Hájek","reg":1118,"pct":16.82,"elected":1},{"num":554499,"townName":"Aš","reg":1118,"pct":15.48,"elected":4},{"num":537918,"townName":"Dalovice","reg":1118,"pct":10.75,"elected":1},{"num":560472,"townName":"Kraslice","reg":1118,"pct":8.5,"elected":1},{"num":555428,"townName":"Ostrov","reg":1118,"pct":1.91,"elected":0}],"elected":11},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":4,"reg":1118,"elected":0}]}]}}
+{
+  "reg": 1118,
+  "name": "VOK - Volba pro kraj",
+  "hash": "vok",
+  "short": "VOK",
+  "color": "#f9ae2e",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 33,
+            "reg": 1118,
+            "nominee": 1118,
+            "candidate": [
+              "Mgr.",
+              "Vladimír",
+              "Navara",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.96,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 4,
+            "reg": 1451,
+            "name": "Koalice KVC a VOK",
+            "coalition": [
+              1028,
+              1118
+            ],
+            "pct": 6.51,
+            "elected": 3
+          },
+          {
+            "area": 5,
+            "reg": 1118,
+            "pct": 0.39,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 1118,
+            "pct": 0.66,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 1
+        },
+        "coalitions": [
+          1414
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 554979,
+            "townName": "Abertamy",
+            "reg": 1118,
+            "pct": 45.76,
+            "elected": 4
+          },
+          {
+            "num": 538159,
+            "townName": "Hájek",
+            "reg": 1118,
+            "pct": 16.82,
+            "elected": 1
+          },
+          {
+            "num": 554499,
+            "townName": "Aš",
+            "reg": 1118,
+            "pct": 15.48,
+            "elected": 4
+          },
+          {
+            "num": 537918,
+            "townName": "Dalovice",
+            "reg": 1118,
+            "pct": 10.75,
+            "elected": 1
+          },
+          {
+            "num": 560472,
+            "townName": "Kraslice",
+            "reg": 1118,
+            "pct": 8.5,
+            "elected": 1
+          },
+          {
+            "num": 554642,
+            "townName": "Mariánské Lázně",
+            "reg": 1414,
+            "name": "Koalice STAN a VOK",
+            "coalition": [
+              166,
+              1118
+            ],
+            "pct": 2.08,
+            "elected": 0
+          },
+          {
+            "num": 555428,
+            "townName": "Ostrov",
+            "reg": 1118,
+            "pct": 1.91,
+            "elected": 0
+          }
+        ],
+        "elected": 11
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 4,
+            "reg": 1118,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/1118-vok-2.png",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

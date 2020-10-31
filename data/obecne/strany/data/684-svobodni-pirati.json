@@ -1,1 +1,70 @@
-{"reg":684,"name":"Koalice Svobodní a Piráti","hash":"svobodni-pirati","short":"Svobodní+Piráti","coalition":[714,720],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":586021,"townName":"Hodonín","reg":684,"pct":8.89,"elected":3},{"num":599191,"townName":"Nový Jičín","reg":684,"pct":7.18,"elected":2}],"elected":5},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":544256,"townName":"České Budějovice","reg":684,"pct":1.22,"elected":0}],"elected":0}]}}
+{
+  "reg": 684,
+  "name": "Koalice Svobodní a Piráti",
+  "hash": "svobodni+pirati",
+  "short": "Svobodní+Piráti",
+  "coalition": [
+    714,
+    720
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 586021,
+            "townName": "Hodonín",
+            "reg": 684,
+            "pct": 8.89,
+            "elected": 3
+          },
+          {
+            "num": 599191,
+            "townName": "Nový Jičín",
+            "reg": 684,
+            "pct": 7.18,
+            "elected": 2
+          }
+        ],
+        "elected": 5
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 684,
+            "pct": 1.22,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

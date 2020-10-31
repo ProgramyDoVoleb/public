@@ -1,0 +1,34 @@
+{
+  "reg": 1454,
+  "name": "Koalice ODS, STAN a VČ",
+  "hash": "ods+stan+vc",
+  "short": "ODS+STAN+VČ",
+  "coalition": [
+    53,
+    166,
+    770
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 7,
+            "reg": 1454,
+            "pct": 23.53,
+            "elected": 12
+          }
+        ]
+      }
+    ]
+  }
+}

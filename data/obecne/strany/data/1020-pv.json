@@ -1,1 +1,59 @@
-{"reg":1020,"name":"Pévéčko","hash":"pv","short":"PV","links":{"global":[],"regional":[]},"color":"#786c25","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":589250,"townName":"Prostějov","reg":1020,"pct":12.92,"elected":5}],"elected":5},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":589250,"townName":"Prostějov","reg":1020,"pct":11.01,"elected":4}],"elected":4}]}}
+{
+  "reg": 1020,
+  "name": "Pévéčko",
+  "hash": "pv",
+  "short": "PV",
+  "color": "#786c25",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 589250,
+            "townName": "Prostějov",
+            "reg": 1020,
+            "pct": 12.92,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 589250,
+            "townName": "Prostějov",
+            "reg": 1020,
+            "pct": 11.01,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

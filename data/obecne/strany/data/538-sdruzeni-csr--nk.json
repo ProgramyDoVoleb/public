@@ -1,1 +1,127 @@
-{"reg":538,"name":"Sdružení ČSR, NK","hash":"sdruzeni-csr--nk","short":"Sdružení ČSR, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":580481,"townName":"Králíky","reg":538,"pct":10.38,"elected":1}],"elected":1},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":9,"coalition":0},"coalitions":[],"list":[{"num":555134,"townName":"Pardubice","reg":538,"pct":7.19,"elected":3}],"top10":[{"num":555096,"townName":"Pardubice IV","reg":538,"pct":9.88,"elected":1},{"num":555118,"townName":"Pardubice VII","reg":538,"pct":9.71,"elected":1},{"num":557064,"townName":"Pardubice III","reg":538,"pct":7.95,"elected":1},{"num":574716,"townName":"Pardubice I","reg":538,"pct":7.37,"elected":1},{"num":555134,"townName":"Pardubice","reg":538,"pct":7.19,"elected":3},{"num":555126,"townName":"Pardubice II","reg":538,"pct":6.4,"elected":1},{"num":557072,"townName":"Pardubice V","reg":538,"pct":5.08,"elected":1},{"num":580481,"townName":"Králíky","reg":538,"pct":4.66,"elected":0},{"num":555100,"townName":"Pardubice VI","reg":538,"pct":2.86,"elected":0}],"elected":9}]},"coalition":[80,756]}
+{
+  "reg": 538,
+  "name": "Sdružení ČSR, NK",
+  "hash": "sdruzeni-csr--nk",
+  "short": "Sdružení ČSR, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 580481,
+            "townName": "Králíky",
+            "reg": 538,
+            "pct": 10.38,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 9,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 538,
+            "pct": 7.19,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 555096,
+            "townName": "Pardubice IV",
+            "reg": 538,
+            "pct": 9.88,
+            "elected": 1
+          },
+          {
+            "num": 555118,
+            "townName": "Pardubice VII",
+            "reg": 538,
+            "pct": 9.71,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 538,
+            "pct": 7.95,
+            "elected": 1
+          },
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 538,
+            "pct": 7.37,
+            "elected": 1
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 538,
+            "pct": 7.19,
+            "elected": 3
+          },
+          {
+            "num": 555126,
+            "townName": "Pardubice II",
+            "reg": 538,
+            "pct": 6.4,
+            "elected": 1
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 538,
+            "pct": 5.08,
+            "elected": 1
+          },
+          {
+            "num": 580481,
+            "townName": "Králíky",
+            "reg": 538,
+            "pct": 4.66,
+            "elected": 0
+          },
+          {
+            "num": 555100,
+            "townName": "Pardubice VI",
+            "reg": 538,
+            "pct": 2.86,
+            "elected": 0
+          }
+        ],
+        "elected": 9
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    756
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,91 @@
-{"reg":1350,"name":"Koalice STAN a Piráti","hash":"stan-pirati","short":"STAN+Piráti","coalition":[166,720],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":500496,"townName":"Olomouc","reg":1350,"pct":11.95,"elected":6}],"top10":[{"num":538949,"townName":"Praha 21","reg":1350,"pct":25.92,"elected":5},{"num":538094,"townName":"Brandýs nad Labem-Stará Boleslav","reg":1350,"pct":21.04,"elected":5},{"num":560286,"townName":"Sokolov","reg":1350,"pct":14.38,"elected":4},{"num":500496,"townName":"Olomouc","reg":1350,"pct":11.95,"elected":6},{"num":598917,"townName":"Karviná","reg":1350,"pct":5.97,"elected":2}],"elected":22}]}}
+{
+  "reg": 1350,
+  "name": "Koalice STAN a Piráti",
+  "hash": "stan+pirati",
+  "short": "STAN+Piráti",
+  "coalition": [
+    166,
+    720
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 11,
+            "reg": 1350,
+            "pct": 19.51,
+            "elected": 13
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 1350,
+            "pct": 11.95,
+            "elected": 6
+          }
+        ],
+        "top10": [
+          {
+            "num": 538949,
+            "townName": "Praha 21",
+            "reg": 1350,
+            "pct": 25.92,
+            "elected": 5
+          },
+          {
+            "num": 538094,
+            "townName": "Brandýs nad Labem-Stará Boleslav",
+            "reg": 1350,
+            "pct": 21.04,
+            "elected": 5
+          },
+          {
+            "num": 560286,
+            "townName": "Sokolov",
+            "reg": 1350,
+            "pct": 14.38,
+            "elected": 4
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 1350,
+            "pct": 11.95,
+            "elected": 6
+          },
+          {
+            "num": 598917,
+            "townName": "Karviná",
+            "reg": 1350,
+            "pct": 5.97,
+            "elected": 2
+          }
+        ],
+        "elected": 22
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

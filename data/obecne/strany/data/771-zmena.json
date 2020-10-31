@@ -1,1 +1,582 @@
-{"reg":771,"name":"politické hnutí Změna","hash":"zmena","short":"Změna","links":{"global":[],"regional":[]},"color":"#4e21b3","usualCoalitionWith":[{"count":7,"reg":80},{"count":7,"reg":5},{"count":7,"reg":720},{"count":2,"reg":83},{"count":2,"reg":163},{"count":2,"reg":166},{"count":1,"reg":199},{"count":1,"reg":129},{"count":1,"reg":88},{"count":1,"reg":1}],"memberOf":[510,521,539,584,1060,1068,1079,1080,1081,1084,1109,1157,1324,1337,1406,1427],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":17},"coalitions":[510,1406,510,510,510,510,1324,510,521,521,521,510,510,1427,1337,510,510],"list":[{"num":563889,"townName":"Liberec","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":13.27,"elected":6},{"num":569810,"townName":"Hradec Králové","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":6.84,"elected":3}],"top10":[{"num":562114,"townName":"Stvolínky","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":46.06,"elected":3},{"num":580511,"townName":"Lanškroun","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":35.4,"elected":9},{"num":563633,"townName":"Josefův Důl","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":28.51,"elected":3},{"num":558435,"townName":"Štěnovice","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":14.3,"elected":2},{"num":544337,"townName":"Hamr na Jezeře","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":13.87,"elected":1},{"num":563889,"townName":"Liberec","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":13.27,"elected":6},{"num":563510,"townName":"Jablonec nad Nisou","reg":1324,"name":"Sdružení KDU-ČSL, Změna, NK","coalition":[1,80,771],"pct":11.57,"elected":4},{"num":511382,"townName":"Přerov","reg":1337,"name":"Koalice NV, Piráti a Změna","coalition":[163,720,771],"pct":11.47,"elected":4},{"num":563811,"townName":"Smržovka","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":11.43,"elected":2},{"num":554642,"townName":"Mariánské Lázně","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":11.08,"elected":2}],"elected":50},{"type":"senatni-volby","id":20161007,"date":20161007,"list":[{"area":34,"reg":771,"nominee":771,"candidate":["Mgr.","Jan","Korytář",""],"elected":false,"round1":{"pct":10.94,"progress":false}}]},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":6,"reg":584,"name":"Koalice Zelení a Změna","coalition":[5,771],"elected":4},{"area":8,"reg":1080,"name":"Koalice Zelení, Piráti a Změna","coalition":[5,720,771],"elected":0},{"area":9,"reg":1157,"name":"ZMĚNA pro Vysočinu","coalition":[88,771],"elected":0},{"area":11,"reg":1060,"name":"Koalice Piráti a Změna","coalition":[720,771],"elected":0}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":36},"coalitions":[510,1079,1080,510,1084,1084,1084,1084,1084,1084,510,510,510,510,510,510,510,510,521,521,510,510,510,510,510,539,1109,1068,510,510,510,510,1060,510,1081,1081],"list":[{"num":554791,"townName":"Plzeň","reg":1084,"name":"Sdružení Zelení, STAN, Piráti, Změna, NK","coalition":[5,80,166,720,771],"pct":4.78,"elected":0},{"num":563889,"townName":"Liberec","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":25.46,"elected":12},{"num":569810,"townName":"Hradec Králové","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":5.67,"elected":2},{"num":586846,"townName":"Jihlava","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":0.6,"elected":0},{"num":554821,"townName":"Ostrava","reg":1081,"name":"Koalice SNK ED a Změna","coalition":[129,771],"pct":1.34,"elected":0}],"top10":[{"num":568686,"townName":"Mošnov","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":42.97,"elected":4},{"num":563633,"townName":"Josefův Důl","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":42.42,"elected":4},{"num":562114,"townName":"Stvolínky","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":31.78,"elected":2},{"num":563889,"townName":"Liberec","reg":521,"name":"Sdružení Zelení, Změna, NK","coalition":[5,80,771],"pct":25.46,"elected":12},{"num":580511,"townName":"Lanškroun","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":22.9,"elected":6},{"num":566551,"townName":"Peruc","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":22.26,"elected":3},{"num":511382,"townName":"Přerov","reg":1068,"name":"Koalice Zelení, NV, Piráti a Změna","coalition":[5,163,720,771],"pct":20.07,"elected":8},{"num":567167,"townName":"Hora Svaté Kateřiny","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":16.47,"elected":1},{"num":547492,"townName":"Pelhřimov","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":15.91,"elected":3},{"num":558435,"townName":"Štěnovice","reg":510,"name":"Sdružení Změna, NK","coalition":[80,771],"pct":15.85,"elected":2}],"elected":73},{"type":"snemovni-volby","id":2013,"date":20131025,"reg":771,"pct":0.57,"elected":0},{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":6,"reg":584,"name":"Koalice Zelení a Změna","coalition":[5,771],"elected":10},{"area":7,"reg":584,"name":"Koalice Zelení a Změna","coalition":[5,771],"elected":0}]}]}}
+{
+  "reg": 771,
+  "name": "politické hnutí Změna",
+  "hash": "zmena",
+  "short": "Změna",
+  "color": "#72bf44",
+  "memberOf": [
+    510,
+    521,
+    539,
+    584,
+    1060,
+    1068,
+    1079,
+    1080,
+    1081,
+    1084,
+    1109,
+    1157,
+    1324,
+    1337,
+    1406,
+    1427
+  ],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 1471,
+            "name": "Koalice Změna a NBPLK",
+            "coalition": [
+              771,
+              780
+            ],
+            "pct": 1.53,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 17
+        },
+        "coalitions": [
+          510,
+          1406,
+          510,
+          510,
+          510,
+          510,
+          1324,
+          510,
+          521,
+          521,
+          521,
+          510,
+          510,
+          1427,
+          1337,
+          510,
+          510
+        ],
+        "list": [
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 13.27,
+            "elected": 6
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 6.84,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 562114,
+            "townName": "Stvolínky",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 46.06,
+            "elected": 3
+          },
+          {
+            "num": 580511,
+            "townName": "Lanškroun",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 35.4,
+            "elected": 9
+          },
+          {
+            "num": 563633,
+            "townName": "Josefův Důl",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 28.51,
+            "elected": 3
+          },
+          {
+            "num": 558435,
+            "townName": "Štěnovice",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 14.3,
+            "elected": 2
+          },
+          {
+            "num": 544337,
+            "townName": "Hamr na Jezeře",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 13.87,
+            "elected": 1
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 13.27,
+            "elected": 6
+          },
+          {
+            "num": 563510,
+            "townName": "Jablonec nad Nisou",
+            "reg": 1324,
+            "name": "Sdružení KDU-ČSL, Změna, NK",
+            "coalition": [
+              1,
+              80,
+              771
+            ],
+            "pct": 11.57,
+            "elected": 4
+          },
+          {
+            "num": 511382,
+            "townName": "Přerov",
+            "reg": 1337,
+            "name": "Koalice NV, Piráti a Změna",
+            "coalition": [
+              163,
+              720,
+              771
+            ],
+            "pct": 11.47,
+            "elected": 4
+          },
+          {
+            "num": 563811,
+            "townName": "Smržovka",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 11.43,
+            "elected": 2
+          },
+          {
+            "num": 554642,
+            "townName": "Mariánské Lázně",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 11.08,
+            "elected": 2
+          }
+        ],
+        "elected": 50
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 34,
+            "reg": 771,
+            "nominee": 771,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Korytář",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 10.94,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 6,
+            "reg": 584,
+            "name": "Koalice Zelení a Změna",
+            "coalition": [
+              5,
+              771
+            ],
+            "elected": 4
+          },
+          {
+            "area": 8,
+            "reg": 1080,
+            "name": "Koalice Zelení, Piráti a Změna",
+            "coalition": [
+              5,
+              720,
+              771
+            ],
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 1157,
+            "name": "ZMĚNA pro Vysočinu",
+            "coalition": [
+              88,
+              771
+            ],
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 1060,
+            "name": "Koalice Piráti a Změna",
+            "coalition": [
+              720,
+              771
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 36
+        },
+        "coalitions": [
+          510,
+          1079,
+          1080,
+          510,
+          1084,
+          1084,
+          1084,
+          1084,
+          1084,
+          1084,
+          510,
+          510,
+          510,
+          510,
+          510,
+          510,
+          510,
+          510,
+          521,
+          521,
+          510,
+          510,
+          510,
+          510,
+          510,
+          539,
+          1109,
+          1068,
+          510,
+          510,
+          510,
+          510,
+          1060,
+          510,
+          1081,
+          1081
+        ],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 1084,
+            "name": "Sdružení Zelení, STAN, Piráti, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              166,
+              720,
+              771
+            ],
+            "pct": 4.78,
+            "elected": 0
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 25.46,
+            "elected": 12
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 5.67,
+            "elected": 2
+          },
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 0.6,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 1081,
+            "name": "Koalice SNK ED a Změna",
+            "coalition": [
+              129,
+              771
+            ],
+            "pct": 1.34,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 568686,
+            "townName": "Mošnov",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 42.97,
+            "elected": 4
+          },
+          {
+            "num": 563633,
+            "townName": "Josefův Důl",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 42.42,
+            "elected": 4
+          },
+          {
+            "num": 562114,
+            "townName": "Stvolínky",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 31.78,
+            "elected": 2
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 521,
+            "name": "Sdružení Zelení, Změna, NK",
+            "coalition": [
+              5,
+              80,
+              771
+            ],
+            "pct": 25.46,
+            "elected": 12
+          },
+          {
+            "num": 580511,
+            "townName": "Lanškroun",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 22.9,
+            "elected": 6
+          },
+          {
+            "num": 566551,
+            "townName": "Peruc",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 22.26,
+            "elected": 3
+          },
+          {
+            "num": 511382,
+            "townName": "Přerov",
+            "reg": 1068,
+            "name": "Koalice Zelení, NV, Piráti a Změna",
+            "coalition": [
+              5,
+              163,
+              720,
+              771
+            ],
+            "pct": 20.07,
+            "elected": 8
+          },
+          {
+            "num": 567167,
+            "townName": "Hora Svaté Kateřiny",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 16.47,
+            "elected": 1
+          },
+          {
+            "num": 547492,
+            "townName": "Pelhřimov",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 15.91,
+            "elected": 3
+          },
+          {
+            "num": 558435,
+            "townName": "Štěnovice",
+            "reg": 510,
+            "name": "Sdružení Změna, NK",
+            "coalition": [
+              80,
+              771
+            ],
+            "pct": 15.85,
+            "elected": 2
+          }
+        ],
+        "elected": 73
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2013,
+        "date": 20131025,
+        "reg": 771,
+        "pct": 0.57,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 6,
+            "reg": 584,
+            "name": "Koalice Zelení a Změna",
+            "coalition": [
+              5,
+              771
+            ],
+            "elected": 10
+          },
+          {
+            "area": 7,
+            "reg": 584,
+            "name": "Koalice Zelení a Změna",
+            "coalition": [
+              5,
+              771
+            ],
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/771-zmena.png",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

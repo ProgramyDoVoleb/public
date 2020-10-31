@@ -1,1 +1,93 @@
-{"reg":1387,"name":"Koalice KDU-ČSL, Nestran. a TOP 09","hash":"kdu-nestr--top","short":"KDU+Nestr.+TOP","coalition":[1,181,721],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":7,"coalition":0},"coalitions":[],"list":[{"num":555134,"townName":"Pardubice","reg":1387,"pct":7.18,"elected":3}],"top10":[{"num":555118,"townName":"Pardubice VII","reg":1387,"pct":10.65,"elected":1},{"num":555126,"townName":"Pardubice II","reg":1387,"pct":8.98,"elected":1},{"num":555134,"townName":"Pardubice","reg":1387,"pct":7.18,"elected":3},{"num":574716,"townName":"Pardubice I","reg":1387,"pct":7.07,"elected":1},{"num":555100,"townName":"Pardubice VI","reg":1387,"pct":7.02,"elected":1},{"num":557072,"townName":"Pardubice V","reg":1387,"pct":6.76,"elected":1},{"num":557064,"townName":"Pardubice III","reg":1387,"pct":5.56,"elected":1}],"elected":9}]}}
+{
+  "reg": 1387,
+  "name": "Koalice KDU-ČSL, Nestran. a TOP 09",
+  "hash": "kdu+nestr-+top",
+  "short": "KDU+Nestr.+TOP",
+  "coalition": [
+    1,
+    181,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 7,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 1387,
+            "pct": 7.18,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 555118,
+            "townName": "Pardubice VII",
+            "reg": 1387,
+            "pct": 10.65,
+            "elected": 1
+          },
+          {
+            "num": 555126,
+            "townName": "Pardubice II",
+            "reg": 1387,
+            "pct": 8.98,
+            "elected": 1
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 1387,
+            "pct": 7.18,
+            "elected": 3
+          },
+          {
+            "num": 574716,
+            "townName": "Pardubice I",
+            "reg": 1387,
+            "pct": 7.07,
+            "elected": 1
+          },
+          {
+            "num": 555100,
+            "townName": "Pardubice VI",
+            "reg": 1387,
+            "pct": 7.02,
+            "elected": 1
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 1387,
+            "pct": 6.76,
+            "elected": 1
+          },
+          {
+            "num": 557064,
+            "townName": "Pardubice III",
+            "reg": 1387,
+            "pct": 5.56,
+            "elected": 1
+          }
+        ],
+        "elected": 9
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

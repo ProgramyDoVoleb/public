@@ -1,1 +1,59 @@
-{"reg":732,"name":"NÁŠ HLUČÍN","hash":"nh","short":"NH","links":{"global":[],"regional":[]},"color":"#93d3af","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":507016,"townName":"Hlučín","reg":732,"pct":7.8,"elected":2}],"elected":2},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":507016,"townName":"Hlučín","reg":732,"pct":24.76,"elected":6}],"elected":6}]}}
+{
+  "reg": 732,
+  "name": "NÁŠ HLUČÍN",
+  "hash": "nh",
+  "short": "NH",
+  "color": "#93d3af",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 507016,
+            "townName": "Hlučín",
+            "reg": 732,
+            "pct": 7.8,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 507016,
+            "townName": "Hlučín",
+            "reg": 732,
+            "pct": 24.76,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

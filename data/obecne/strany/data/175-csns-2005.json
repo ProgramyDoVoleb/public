@@ -1,1 +1,686 @@
-{"reg":175,"name":"Česká strana národně socialistická","hash":"csns-2005","short":"ČSNS 2005","links":{"global":[],"regional":[]},"color":"#00ffe1","usualCoalitionWith":[{"count":3,"reg":137},{"count":2,"reg":80},{"count":2,"reg":2},{"count":1,"reg":103},{"count":1,"reg":5},{"count":1,"reg":24},{"count":1,"reg":102},{"count":1,"reg":7},{"count":1,"reg":68},{"count":1,"reg":83},{"count":1,"reg":13},{"count":1,"reg":715},{"count":1,"reg":118},{"count":1,"reg":155},{"count":1,"reg":759},{"count":1,"reg":762},{"count":1,"reg":112}],"memberOf":[453,468,607,624,626,629,677,1078,1137,1420,1429],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":1},"coalitions":[1420],"list":[],"top10":[{"num":544281,"townName":"Borovany","reg":175,"pct":19.69,"elected":3},{"num":583588,"townName":"Oslavany","reg":175,"pct":14.1,"elected":3},{"num":544256,"townName":"České Budějovice","reg":1420,"name":"Koalice ČSNS 2005 a NOB","coalition":[175,118],"pct":0.04,"elected":0}],"elected":6},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":1,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":2,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":3,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":4,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":5,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":6,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":7,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":8,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":9,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":10,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":11,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":12,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0},{"area":13,"reg":1137,"name":"Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ","coalition":[2,137,175,715],"elected":0}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":4},"coalitions":[453,453,1078,1078],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":453,"name":"Sdružení ČSNS 2005, NK","coalition":[80,175],"pct":0.27,"elected":0}],"top10":[{"num":538621,"townName":"Podolanka","reg":453,"name":"Sdružení ČSNS 2005, NK","coalition":[80,175],"pct":22.75,"elected":1},{"num":544281,"townName":"Borovany","reg":175,"pct":16.07,"elected":3},{"num":583588,"townName":"Oslavany","reg":175,"pct":14.89,"elected":3},{"num":550787,"townName":"Strakonice","reg":1078,"name":"Koalice ČSNS a ČSNS 2005","coalition":[2,175],"pct":1.63,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":453,"name":"Sdružení ČSNS 2005, NK","coalition":[80,175],"pct":0.27,"elected":0},{"num":544256,"townName":"České Budějovice","reg":1078,"name":"Koalice ČSNS a ČSNS 2005","coalition":[2,175],"pct":0.03,"elected":0}],"elected":7},{"type":"senatni-volby","id":20101015,"date":20101015,"list":[{"area":22,"reg":175,"nominee":175,"candidate":["MUDr.","Bohdan","Babinec",""],"elected":false,"round1":{"pct":0.41,"progress":false}},{"area":25,"reg":175,"nominee":175,"candidate":["prof.","Ivan","Šterzl",""],"elected":false,"round1":{"pct":0.45,"progress":false}}]},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":7,"coalition":2},"coalitions":[453,677],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":175,"pct":0.19,"elected":0},{"num":582786,"townName":"Brno","reg":677,"name":"Koalice Moravané, ČSNS 2005","coalition":[83,175],"pct":0.55,"elected":0}],"top10":[{"num":558401,"townName":"Střížovice","reg":175,"pct":100,"elected":7},{"num":531961,"townName":"Vysoký Újezd","reg":175,"pct":20.2,"elected":2},{"num":558362,"townName":"Spálené Poříčí","reg":175,"pct":11.69,"elected":2},{"num":584282,"townName":"Židlochovice","reg":175,"pct":1.68,"elected":0},{"num":576964,"townName":"Semily","reg":453,"name":"Sdružení ČSNS 2005, NK","coalition":[80,175],"pct":0.77,"elected":0},{"num":557587,"townName":"Blovice","reg":175,"pct":0.65,"elected":0},{"num":582786,"townName":"Brno","reg":677,"name":"Koalice Moravané, ČSNS 2005","coalition":[83,175],"pct":0.55,"elected":0},{"num":500216,"townName":"Praha 9","reg":175,"pct":0.52,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":175,"pct":0.19,"elected":0}],"elected":11},{"type":"snemovni-volby","id":2010,"date":20100528,"reg":175,"pct":0.02,"elected":0},{"type":"evropske-volby","id":2009,"date":20090605,"reg":175,"pct":0.13,"elected":0},{"type":"senatni-volby","id":20081017,"date":20081017,"list":[{"area":24,"reg":175,"nominee":175,"candidate":["MUDr.","Bohdan","Babinec",""],"elected":false,"round1":{"pct":0.72,"progress":false}},{"area":54,"reg":175,"nominee":137,"candidate":["","Jiří","Stanislav",""],"elected":false,"round1":{"pct":1.43,"progress":false}}]},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":3,"reg":175,"elected":0},{"area":6,"reg":626,"name":"Národní socialisté a Rozumní","coalition":[137,175],"elected":0},{"area":10,"reg":175,"elected":0}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":23,"coalition":6},"coalitions":[453,453,453,607,624,468],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":175,"pct":0.18,"elected":0},{"num":582786,"townName":"Brno","reg":175,"pct":0.31,"elected":0}],"top10":[{"num":558401,"townName":"Střížovice","reg":175,"pct":100,"elected":7},{"num":531961,"townName":"Vysoký Újezd","reg":175,"pct":39.1,"elected":4},{"num":575178,"townName":"Kladruby nad Labem","reg":175,"pct":36,"elected":6},{"num":594083,"townName":"Horní Dubňany","reg":175,"pct":31.47,"elected":2},{"num":531057,"townName":"Beroun","reg":453,"name":"Sdružení ČSNS 2005, NK","coalition":[80,175],"pct":29.39,"elected":7},{"num":586439,"townName":"Nechvalín","reg":175,"pct":23.61,"elected":1},{"num":563196,"townName":"Radimovice u Tábora","reg":175,"pct":21.7,"elected":2},{"num":538736,"townName":"Praha-Satalice","reg":175,"pct":20.06,"elected":2},{"num":577626,"townName":"Turnov","reg":607,"name":"Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005","coalition":[5,13,24,102,175],"pct":14.89,"elected":4},{"num":512281,"townName":"Beňov","reg":175,"pct":11.79,"elected":1}],"elected":44},{"type":"snemovni-volby","id":2006,"date":20060603,"reg":175,"pct":0.02,"elected":0}]}}
+{
+  "reg": 175,
+  "name": "Česká strana národně socialistická",
+  "hash": "csns-2005",
+  "short": "ČSNS 2005",
+  "color": "#00ffe1",
+  "memberOf": [
+    453,
+    468,
+    607,
+    624,
+    626,
+    629,
+    677,
+    1078,
+    1137,
+    1420,
+    1429
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 1
+        },
+        "coalitions": [
+          1420
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 544281,
+            "townName": "Borovany",
+            "reg": 175,
+            "pct": 19.69,
+            "elected": 3
+          },
+          {
+            "num": 583588,
+            "townName": "Oslavany",
+            "reg": 175,
+            "pct": 14.1,
+            "elected": 3
+          },
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1420,
+            "name": "Koalice ČSNS 2005 a NOB",
+            "coalition": [
+              175,
+              1189
+            ],
+            "pct": 0.04,
+            "elected": 0
+          }
+        ],
+        "elected": 6
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 1,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 2,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 4,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 1137,
+            "name": "Koalice ČSNS, Rozumní, ČSNS 2005 a DSZ",
+            "coalition": [
+              2,
+              137,
+              175,
+              715
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 4
+        },
+        "coalitions": [
+          453,
+          453,
+          1078,
+          1078
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 453,
+            "name": "Sdružení ČSNS 2005, NK",
+            "coalition": [
+              80,
+              175
+            ],
+            "pct": 0.27,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 538621,
+            "townName": "Podolanka",
+            "reg": 453,
+            "name": "Sdružení ČSNS 2005, NK",
+            "coalition": [
+              80,
+              175
+            ],
+            "pct": 22.75,
+            "elected": 1
+          },
+          {
+            "num": 544281,
+            "townName": "Borovany",
+            "reg": 175,
+            "pct": 16.07,
+            "elected": 3
+          },
+          {
+            "num": 583588,
+            "townName": "Oslavany",
+            "reg": 175,
+            "pct": 14.89,
+            "elected": 3
+          },
+          {
+            "num": 550787,
+            "townName": "Strakonice",
+            "reg": 1078,
+            "name": "Koalice ČSNS a ČSNS 2005",
+            "coalition": [
+              2,
+              175
+            ],
+            "pct": 1.63,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 453,
+            "name": "Sdružení ČSNS 2005, NK",
+            "coalition": [
+              80,
+              175
+            ],
+            "pct": 0.27,
+            "elected": 0
+          },
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1078,
+            "name": "Koalice ČSNS a ČSNS 2005",
+            "coalition": [
+              2,
+              175
+            ],
+            "pct": 0.03,
+            "elected": 0
+          }
+        ],
+        "elected": 7
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 22,
+            "reg": 175,
+            "nominee": 175,
+            "candidate": [
+              "MUDr.",
+              "Bohdan",
+              "Babinec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 175,
+            "nominee": 175,
+            "candidate": [
+              "prof.",
+              "Ivan",
+              "Šterzl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.45,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 7,
+          "coalition": 2
+        },
+        "coalitions": [
+          453,
+          677
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 175,
+            "pct": 0.19,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 677,
+            "name": "Koalice Moravané, ČSNS 2005",
+            "coalition": [
+              83,
+              175
+            ],
+            "pct": 0.55,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 558401,
+            "townName": "Střížovice",
+            "reg": 175,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 531961,
+            "townName": "Vysoký Újezd",
+            "reg": 175,
+            "pct": 20.2,
+            "elected": 2
+          },
+          {
+            "num": 558362,
+            "townName": "Spálené Poříčí",
+            "reg": 175,
+            "pct": 11.69,
+            "elected": 2
+          },
+          {
+            "num": 584282,
+            "townName": "Židlochovice",
+            "reg": 175,
+            "pct": 1.68,
+            "elected": 0
+          },
+          {
+            "num": 576964,
+            "townName": "Semily",
+            "reg": 453,
+            "name": "Sdružení ČSNS 2005, NK",
+            "coalition": [
+              80,
+              175
+            ],
+            "pct": 0.77,
+            "elected": 0
+          },
+          {
+            "num": 557587,
+            "townName": "Blovice",
+            "reg": 175,
+            "pct": 0.65,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 677,
+            "name": "Koalice Moravané, ČSNS 2005",
+            "coalition": [
+              83,
+              175
+            ],
+            "pct": 0.55,
+            "elected": 0
+          },
+          {
+            "num": 500216,
+            "townName": "Praha 9",
+            "reg": 175,
+            "pct": 0.52,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 175,
+            "pct": 0.19,
+            "elected": 0
+          }
+        ],
+        "elected": 11
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2010,
+        "date": 20100528,
+        "reg": 175,
+        "pct": 0.02,
+        "elected": 0
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2009,
+        "date": 20090605,
+        "reg": 175,
+        "pct": 0.13,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 24,
+            "reg": 175,
+            "nominee": 175,
+            "candidate": [
+              "MUDr.",
+              "Bohdan",
+              "Babinec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.72,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 175,
+            "nominee": 137,
+            "candidate": [
+              "",
+              "Jiří",
+              "Stanislav",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.43,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 3,
+            "reg": 175,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 626,
+            "name": "Národní socialisté a Rozumní",
+            "coalition": [
+              137,
+              175
+            ],
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 175,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 23,
+          "coalition": 6
+        },
+        "coalitions": [
+          453,
+          453,
+          453,
+          607,
+          624,
+          468
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 175,
+            "pct": 0.18,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 175,
+            "pct": 0.31,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 558401,
+            "townName": "Střížovice",
+            "reg": 175,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 531961,
+            "townName": "Vysoký Újezd",
+            "reg": 175,
+            "pct": 39.1,
+            "elected": 4
+          },
+          {
+            "num": 575178,
+            "townName": "Kladruby nad Labem",
+            "reg": 175,
+            "pct": 36,
+            "elected": 6
+          },
+          {
+            "num": 594083,
+            "townName": "Horní Dubňany",
+            "reg": 175,
+            "pct": 31.47,
+            "elected": 2
+          },
+          {
+            "num": 531057,
+            "townName": "Beroun",
+            "reg": 453,
+            "name": "Sdružení ČSNS 2005, NK",
+            "coalition": [
+              80,
+              175
+            ],
+            "pct": 29.39,
+            "elected": 7
+          },
+          {
+            "num": 586439,
+            "townName": "Nechvalín",
+            "reg": 175,
+            "pct": 23.61,
+            "elected": 1
+          },
+          {
+            "num": 563196,
+            "townName": "Radimovice u Tábora",
+            "reg": 175,
+            "pct": 21.7,
+            "elected": 2
+          },
+          {
+            "num": 538736,
+            "townName": "Praha-Satalice",
+            "reg": 175,
+            "pct": 20.06,
+            "elected": 2
+          },
+          {
+            "num": 577626,
+            "townName": "Turnov",
+            "reg": 607,
+            "name": "Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005",
+            "coalition": [
+              5,
+              13,
+              24,
+              102,
+              175
+            ],
+            "pct": 14.89,
+            "elected": 4
+          },
+          {
+            "num": 512281,
+            "townName": "Beňov",
+            "reg": 175,
+            "pct": 11.79,
+            "elected": 1
+          }
+        ],
+        "elected": 44
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2006,
+        "date": 20060603,
+        "reg": 175,
+        "pct": 0.02,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

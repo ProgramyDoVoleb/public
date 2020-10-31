@@ -1,1 +1,1396 @@
-{"reg":13,"name":"Občanská demokratická aliance","hash":"oda","short":"ODA","links":{"global":[],"regional":[]},"color":"#1d5958","usualCoalitionWith":[{"count":14,"reg":102},{"count":12,"reg":80},{"count":7,"reg":81},{"count":7,"reg":1},{"count":6,"reg":133},{"count":4,"reg":5},{"count":4,"reg":2},{"count":4,"reg":53},{"count":4,"reg":40},{"count":3,"reg":143},{"count":2,"reg":88},{"count":1,"reg":177},{"count":1,"reg":72},{"count":1,"reg":135},{"count":1,"reg":138},{"count":1,"reg":181},{"count":1,"reg":103},{"count":1,"reg":113},{"count":1,"reg":24},{"count":1,"reg":175},{"count":1,"reg":157},{"count":1,"reg":129}],"memberOf":[205,206,207,208,222,228,238,239,240,241,242,243,244,245,274,281,290,294,297,299,305,313,346,350,360,373,374,375,376,377,414,433,434,436,437,441,607,610,616],"activity":{"last":20180105,"list":[{"type":"senatni-volby","id":20180105,"date":20180105,"list":[{"area":39,"reg":13,"nominee":13,"candidate":["","Blanka","Horáková",""],"elected":false,"round1":{"pct":2,"progress":false}}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":5,"coalition":24},"coalitions":[350,350,414,374,346,297,374,374,374,374,374,205,610,610,610,610,610,607,374,374,374,374,297,616],"list":[{"num":554804,"townName":"Ústí nad Labem","reg":610,"name":"Koalice DEUČR, ODA, KAN","coalition":[13,40,157],"pct":1.26,"elected":0},{"num":563889,"townName":"Liberec","reg":13,"pct":0.04,"elected":0},{"num":586846,"townName":"Jihlava","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":1.21,"elected":0},{"num":554821,"townName":"Ostrava","reg":616,"name":"Koalice Z, ODA, US-DEU","coalition":[13,102,177],"pct":0.45,"elected":0}],"top10":[{"num":592447,"townName":"Ořechov","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":34.45,"elected":4},{"num":506486,"townName":"Boží Dar","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":22.49,"elected":1},{"num":585483,"townName":"Lutonina","reg":13,"pct":22.31,"elected":2},{"num":531201,"townName":"Hostomice","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":18.2,"elected":2},{"num":555452,"townName":"Pernink","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":17.66,"elected":2},{"num":577626,"townName":"Turnov","reg":607,"name":"Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005","coalition":[5,13,24,102,175],"pct":14.89,"elected":4},{"num":597180,"townName":"Bruntál","reg":297,"name":"Koalice US-DEU, ODA","coalition":[13,102],"pct":10.09,"elected":3},{"num":555380,"townName":"Nejdek","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":8.98,"elected":2},{"num":537918,"townName":"Dalovice","reg":374,"name":"Sdružení ODA, NK","coalition":[13,80],"pct":6.68,"elected":0},{"num":547492,"townName":"Pelhřimov","reg":13,"pct":6.02,"elected":1}],"elected":22},{"type":"senatni-volby","id":20061020,"date":20061020,"list":[{"area":26,"reg":13,"nominee":13,"candidate":["Ing.","Josef","Heller",""],"elected":false,"round1":{"pct":1.34,"progress":false}},{"area":44,"reg":13,"nominee":159,"candidate":["Ing.","Josef","Kolář",""],"elected":false,"round1":{"pct":0.47,"progress":false}},{"area":53,"reg":13,"nominee":13,"candidate":["Ing.","Petr","Hobl",""],"elected":false,"round1":{"pct":1.14,"progress":false}}]},{"type":"senatni-volby","id":20041105,"date":20041105,"list":[{"area":22,"reg":13,"nominee":13,"candidate":["Bc.","Blanka","Misconiová",""],"elected":false,"round1":{"pct":1.86,"progress":false}},{"area":25,"reg":13,"nominee":102,"candidate":["","Karel","Schwarzenberg",""],"elected":true,"round1":{"pct":33.2,"progress":true},"round2":{"pct":58.16,"progress":true}}]},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":13,"reg":13,"pct":0.29,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":313,"name":"Unie liberálních demokratů","coalition":[13,102,133,138],"pct":1.69,"elected":0},{"type":"senatni-volby","id":20031031,"date":20031031,"list":[{"area":12,"reg":13,"nominee":13,"candidate":["Ing.","Jan","Rampich",""],"elected":false,"round1":{"pct":5.47,"progress":false}}]},{"type":"senatni-volby","id":20021025,"date":20021025,"list":[{"area":24,"reg":13,"nominee":13,"candidate":["RNDr.","Jiřina","Nováková",""],"elected":false,"round1":{"pct":5.06,"progress":false}},{"area":6,"reg":13,"nominee":143,"candidate":["Mgr.","František","Povolný",""],"elected":false,"round1":{"pct":5.35,"progress":false}},{"area":69,"reg":13,"nominee":13,"candidate":["PhDr.","Zdeněk","Stolař",""],"elected":false,"round1":{"pct":9.81,"progress":false}}]},{"type":"snemovni-volby","id":2002,"date":20020614,"reg":13,"pct":0.5,"elected":0},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":1,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":21.3,"elected":16},{"area":2,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":22.52,"elected":13},{"area":3,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":16.69,"elected":8},{"area":4,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":19.1,"elected":10},{"area":5,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":13.73,"elected":9},{"area":6,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":14.79,"elected":8},{"area":7,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":26.23,"elected":14},{"area":8,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":29.37,"elected":15},{"area":9,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":25.46,"elected":13},{"area":10,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":31.64,"elected":23},{"area":11,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":24.19,"elected":15},{"area":12,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":31.36,"elected":15},{"area":13,"reg":208,"name":"Čtyřkoalice","coalition":[1,13,81,102],"pct":16.77,"elected":12}]},{"type":"senatni-volby","id":19981114,"date":19981114,"list":[{"area":10,"reg":13,"nominee":80,"candidate":["PhDr.","Zdeněk","Troup",""],"elected":false,"round1":{"pct":10.76,"progress":false}},{"area":16,"reg":13,"nominee":208,"candidate":["Ing.","Jiří","Rűckl",""],"elected":true,"round1":{"pct":37.35,"progress":true},"round2":{"pct":62.2,"progress":true}},{"area":19,"reg":13,"nominee":208,"candidate":["Mgr.","Daniel","Kroupa",""],"elected":true,"round1":{"pct":28.66,"progress":true},"round2":{"pct":57.78,"progress":true}},{"area":43,"reg":13,"nominee":208,"candidate":["doc.","Jaroslava","Moserová",""],"elected":true,"round1":{"pct":32.21,"progress":true},"round2":{"pct":59.97,"progress":true}},{"area":52,"reg":13,"nominee":208,"candidate":["Mgr.","Václav","Jehlička",""],"elected":true,"round1":{"pct":39.85,"progress":true},"round2":{"pct":68.03,"progress":true}}]},{"type":"snemovni-volby","id":1998,"date":19980619,"reg":13,"pct":0,"elected":0},{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":1,"reg":13,"nominee":13,"candidate":["Mgr.","Petr","Masák",""],"elected":false,"round1":{"pct":11.53,"progress":false}},{"area":10,"reg":13,"nominee":80,"candidate":["Ing.","Jan","Vondrouš",""],"elected":false,"round1":{"pct":10.83,"progress":false}},{"area":13,"reg":13,"nominee":13,"candidate":["RNDr.","Jiří","Vaníček",""],"elected":false,"round1":{"pct":17.28,"progress":false}},{"area":14,"reg":13,"nominee":13,"candidate":["MUDr.","Radoslav","Beránek",""],"elected":false,"round1":{"pct":12.81,"progress":false}},{"area":15,"reg":13,"nominee":13,"candidate":["PhDr","Miloslav","Paulík",""],"elected":false,"round1":{"pct":11.87,"progress":false}},{"area":17,"reg":13,"nominee":13,"candidate":["Ing.","Vladimír","Janský",""],"elected":false,"round1":{"pct":9.29,"progress":false}},{"area":19,"reg":13,"nominee":13,"candidate":["Ing.,Mgr.","Oldřich","Kužílek",""],"elected":false,"round1":{"pct":18.59,"progress":false}},{"area":24,"reg":13,"nominee":13,"candidate":["RNDr.","Jiřina","Nováková",""],"elected":false,"round1":{"pct":11.93,"progress":false}},{"area":25,"reg":13,"nominee":13,"candidate":["","Josef","Fořtl",""],"elected":false,"round1":{"pct":8.53,"progress":false}},{"area":27,"reg":13,"nominee":13,"candidate":["","Čestmír","Čejka",""],"elected":false,"round1":{"pct":1.52,"progress":false}},{"area":29,"reg":13,"nominee":13,"candidate":["","Petr","Brzák",""],"elected":false,"round1":{"pct":5.66,"progress":false}},{"area":30,"reg":13,"nominee":13,"candidate":["","","Bureš","CSc."],"elected":false,"round1":{"pct":6.15,"progress":false}},{"area":31,"reg":13,"nominee":13,"candidate":["Ing.","Petr","Novotný",""],"elected":false,"round1":{"pct":14.61,"progress":false}},{"area":33,"reg":13,"nominee":13,"candidate":["PhDr.","Stanislava","Holíková",""],"elected":false,"round1":{"pct":7.16,"progress":false}},{"area":34,"reg":13,"nominee":13,"candidate":["Mgr.","Alois","Čvančara",""],"elected":false,"round1":{"pct":4.53,"progress":false}},{"area":35,"reg":13,"nominee":13,"candidate":["Ing.","Miloš","Šnytr",""],"elected":false,"round1":{"pct":14.5,"progress":false}},{"area":36,"reg":13,"nominee":13,"candidate":["MUDr.","Miroslav","Čerbák",""],"elected":false,"round1":{"pct":7.97,"progress":false}},{"area":41,"reg":13,"nominee":13,"candidate":["Ing.","Vladimír","Šuman",""],"elected":false,"round1":{"pct":13.06,"progress":false}},{"area":43,"reg":13,"nominee":13,"candidate":["Doc.","Jaroslava","Moserová",""],"elected":true,"round1":{"pct":20.58,"progress":true},"round2":{"pct":56.06,"progress":true}},{"area":49,"reg":13,"nominee":13,"candidate":["RNDr.","Pavel","Henek",""],"elected":false,"round1":{"pct":9.15,"progress":false}},{"area":50,"reg":13,"nominee":13,"candidate":["Ing.","Pavel","Bobek",""],"elected":false,"round1":{"pct":5.58,"progress":false}},{"area":52,"reg":13,"nominee":13,"candidate":["Mgr.","Václav","Jehlička",""],"elected":true,"round1":{"pct":38.03,"progress":true},"round2":{"pct":70.49,"progress":true}},{"area":53,"reg":13,"nominee":13,"candidate":["ing.","Karel","Müller",""],"elected":false,"round1":{"pct":4.93,"progress":false}},{"area":55,"reg":13,"nominee":13,"candidate":["Ing.","Jiří","Březa",""],"elected":false,"round1":{"pct":9.04,"progress":false}},{"area":56,"reg":13,"nominee":13,"candidate":["RNDr.","Tomáš","Zejda",""],"elected":false,"round1":{"pct":12.29,"progress":false}},{"area":57,"reg":13,"nominee":13,"candidate":["MUDr.","Jiří","Berka",""],"elected":false,"round1":{"pct":5.94,"progress":false}},{"area":58,"reg":13,"nominee":13,"candidate":["PhDr.","Jiří","Pernes",""],"elected":false,"round1":{"pct":10.66,"progress":false}},{"area":59,"reg":13,"nominee":13,"candidate":["Mgr","Pavel","Rubina",""],"elected":false,"round1":{"pct":12.61,"progress":false}},{"area":6,"reg":13,"nominee":13,"candidate":["Ing.","Ivan","Dejmal",""],"elected":false,"round1":{"pct":6.51,"progress":false}},{"area":63,"reg":13,"nominee":13,"candidate":["RNDr.","Jitka","Seitlová",""],"elected":true,"round1":{"pct":26.27,"progress":true},"round2":{"pct":72.91,"progress":true}},{"area":64,"reg":13,"nominee":13,"candidate":["PhDr","Vladimír","Vocelka",""],"elected":false,"round1":{"pct":17.46,"progress":false}},{"area":65,"reg":13,"nominee":13,"candidate":["Ing.","Petr","Košacký",""],"elected":false,"round1":{"pct":14.84,"progress":false}},{"area":68,"reg":13,"nominee":13,"candidate":["doc.RNDr.Ing.","Jan","Mrázek",""],"elected":false,"round1":{"pct":16.06,"progress":false}},{"area":69,"reg":13,"nominee":13,"candidate":["PhDr.","Zdeněk","Stolař",""],"elected":false,"round1":{"pct":15.43,"progress":false}},{"area":71,"reg":13,"nominee":13,"candidate":["Ing.","Zbyněk","Matýsek",""],"elected":false,"round1":{"pct":5.7,"progress":false}},{"area":78,"reg":13,"nominee":13,"candidate":["MUDr.","Olga","Gröschlová",""],"elected":false,"round1":{"pct":11.45,"progress":false}},{"area":8,"reg":13,"nominee":13,"candidate":["","Stanislav","Rampas",""],"elected":false,"round1":{"pct":9.02,"progress":false}}]},{"type":"snemovni-volby","id":1996,"date":19960531,"reg":13,"pct":6.36,"elected":13}]}}
+{
+  "reg": 13,
+  "name": "Občanská demokratická aliance",
+  "hash": "oda",
+  "short": "ODA",
+  "color": "#1d5958",
+  "memberOf": [
+    205,
+    206,
+    207,
+    208,
+    222,
+    228,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    274,
+    281,
+    290,
+    294,
+    297,
+    299,
+    305,
+    313,
+    346,
+    350,
+    360,
+    373,
+    374,
+    375,
+    376,
+    377,
+    414,
+    433,
+    434,
+    436,
+    437,
+    441,
+    607,
+    610,
+    616
+  ],
+  "activity": {
+    "last": 20180105,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20180105,
+        "date": 20180105,
+        "list": [
+          {
+            "area": 39,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Blanka",
+              "Horáková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 5,
+          "coalition": 24
+        },
+        "coalitions": [
+          350,
+          350,
+          414,
+          374,
+          346,
+          297,
+          374,
+          374,
+          374,
+          374,
+          374,
+          205,
+          610,
+          610,
+          610,
+          610,
+          610,
+          607,
+          374,
+          374,
+          374,
+          374,
+          297,
+          616
+        ],
+        "list": [
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 610,
+            "name": "Koalice DEUČR, ODA, KAN",
+            "coalition": [
+              13,
+              40,
+              157
+            ],
+            "pct": 1.26,
+            "elected": 0
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 13,
+            "pct": 0.04,
+            "elected": 0
+          },
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 1.21,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 616,
+            "name": "Koalice Z, ODA, US-DEU",
+            "coalition": [
+              13,
+              102,
+              177
+            ],
+            "pct": 0.45,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 592447,
+            "townName": "Ořechov",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 34.45,
+            "elected": 4
+          },
+          {
+            "num": 506486,
+            "townName": "Boží Dar",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 22.49,
+            "elected": 1
+          },
+          {
+            "num": 585483,
+            "townName": "Lutonina",
+            "reg": 13,
+            "pct": 22.31,
+            "elected": 2
+          },
+          {
+            "num": 531201,
+            "townName": "Hostomice",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 18.2,
+            "elected": 2
+          },
+          {
+            "num": 555452,
+            "townName": "Pernink",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 17.66,
+            "elected": 2
+          },
+          {
+            "num": 577626,
+            "townName": "Turnov",
+            "reg": 607,
+            "name": "Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005",
+            "coalition": [
+              5,
+              13,
+              24,
+              102,
+              175
+            ],
+            "pct": 14.89,
+            "elected": 4
+          },
+          {
+            "num": 597180,
+            "townName": "Bruntál",
+            "reg": 297,
+            "name": "Koalice US-DEU, ODA",
+            "coalition": [
+              13,
+              102
+            ],
+            "pct": 10.09,
+            "elected": 3
+          },
+          {
+            "num": 555380,
+            "townName": "Nejdek",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 8.98,
+            "elected": 2
+          },
+          {
+            "num": 537918,
+            "townName": "Dalovice",
+            "reg": 374,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              13,
+              80
+            ],
+            "pct": 6.68,
+            "elected": 0
+          },
+          {
+            "num": 547492,
+            "townName": "Pelhřimov",
+            "reg": 13,
+            "pct": 6.02,
+            "elected": 1
+          }
+        ],
+        "elected": 22
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 26,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Heller",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.34,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 13,
+            "nominee": 159,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Kolář",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.47,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Hobl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.14,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 22,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Bc.",
+              "Blanka",
+              "Misconiová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 13,
+            "nominee": 102,
+            "candidate": [
+              "",
+              "Karel",
+              "Schwarzenberg",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 33.2,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.16,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 13,
+            "reg": 13,
+            "pct": 0.29,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 313,
+        "name": "Unie liberálních demokratů",
+        "coalition": [
+          13,
+          102,
+          133,
+          138
+        ],
+        "pct": 1.69,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20031031,
+        "date": 20031031,
+        "list": [
+          {
+            "area": 12,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Rampich",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.47,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 24,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Jiřina",
+              "Nováková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 13,
+            "nominee": 143,
+            "candidate": [
+              "Mgr.",
+              "František",
+              "Povolný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.35,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Zdeněk",
+              "Stolař",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.81,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2002,
+        "date": 20020614,
+        "reg": 13,
+        "pct": 0.5,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 1,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 21.3,
+            "elected": 16
+          },
+          {
+            "area": 2,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 22.52,
+            "elected": 13
+          },
+          {
+            "area": 3,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 16.69,
+            "elected": 8
+          },
+          {
+            "area": 4,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 19.1,
+            "elected": 10
+          },
+          {
+            "area": 5,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 13.73,
+            "elected": 9
+          },
+          {
+            "area": 6,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 14.79,
+            "elected": 8
+          },
+          {
+            "area": 7,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 26.23,
+            "elected": 14
+          },
+          {
+            "area": 8,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 29.37,
+            "elected": 15
+          },
+          {
+            "area": 9,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 25.46,
+            "elected": 13
+          },
+          {
+            "area": 10,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 31.64,
+            "elected": 23
+          },
+          {
+            "area": 11,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 24.19,
+            "elected": 15
+          },
+          {
+            "area": 12,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 31.36,
+            "elected": 15
+          },
+          {
+            "area": 13,
+            "reg": 208,
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "pct": 16.77,
+            "elected": 12
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 10,
+            "reg": 13,
+            "nominee": 80,
+            "candidate": [
+              "PhDr.",
+              "Zdeněk",
+              "Troup",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 10.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 16,
+            "reg": 13,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Rűckl",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 37.35,
+              "progress": true
+            },
+            "round2": {
+              "pct": 62.2,
+              "progress": true
+            }
+          },
+          {
+            "area": 19,
+            "reg": 13,
+            "nominee": 208,
+            "candidate": [
+              "Mgr.",
+              "Daniel",
+              "Kroupa",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 28.66,
+              "progress": true
+            },
+            "round2": {
+              "pct": 57.78,
+              "progress": true
+            }
+          },
+          {
+            "area": 43,
+            "reg": 13,
+            "nominee": 208,
+            "candidate": [
+              "doc.",
+              "Jaroslava",
+              "Moserová",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 32.21,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.97,
+              "progress": true
+            }
+          },
+          {
+            "area": 52,
+            "reg": 13,
+            "nominee": 208,
+            "candidate": [
+              "Mgr.",
+              "Václav",
+              "Jehlička",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 39.85,
+              "progress": true
+            },
+            "round2": {
+              "pct": 68.03,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 1998,
+        "date": 19980619,
+        "reg": 13,
+        "pct": 0,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 1,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Mgr.",
+              "Petr",
+              "Masák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 10,
+            "reg": 13,
+            "nominee": 80,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Vondrouš",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 10.83,
+              "progress": false
+            }
+          },
+          {
+            "area": 13,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Jiří",
+              "Vaníček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.28,
+              "progress": false
+            }
+          },
+          {
+            "area": 14,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Radoslav",
+              "Beránek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.81,
+              "progress": false
+            }
+          },
+          {
+            "area": 15,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr",
+              "Miloslav",
+              "Paulík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 17,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Janský",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.29,
+              "progress": false
+            }
+          },
+          {
+            "area": 19,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.,Mgr.",
+              "Oldřich",
+              "Kužílek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Jiřina",
+              "Nováková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.93,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Josef",
+              "Fořtl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Čestmír",
+              "Čejka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.52,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Petr",
+              "Brzák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.66,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "",
+              "Bureš",
+              "CSc."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 31,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Novotný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Stanislava",
+              "Holíková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Mgr.",
+              "Alois",
+              "Čvančara",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 35,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Miloš",
+              "Šnytr",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.5,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Miroslav",
+              "Čerbák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.97,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Šuman",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 13.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Doc.",
+              "Jaroslava",
+              "Moserová",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 20.58,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.06,
+              "progress": true
+            }
+          },
+          {
+            "area": 49,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Pavel",
+              "Henek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Bobek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.58,
+              "progress": false
+            }
+          },
+          {
+            "area": 52,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Mgr.",
+              "Václav",
+              "Jehlička",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 38.03,
+              "progress": true
+            },
+            "round2": {
+              "pct": 70.49,
+              "progress": true
+            }
+          },
+          {
+            "area": 53,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "ing.",
+              "Karel",
+              "Müller",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.93,
+              "progress": false
+            }
+          },
+          {
+            "area": 55,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Březa",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.04,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Tomáš",
+              "Zejda",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.29,
+              "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Berka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 58,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Jiří",
+              "Pernes",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 10.66,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Mgr",
+              "Pavel",
+              "Rubina",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Dejmal",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.51,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "RNDr.",
+              "Jitka",
+              "Seitlová",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 26.27,
+              "progress": true
+            },
+            "round2": {
+              "pct": 72.91,
+              "progress": true
+            }
+          },
+          {
+            "area": 64,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr",
+              "Vladimír",
+              "Vocelka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Košacký",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 68,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "doc.RNDr.Ing.",
+              "Jan",
+              "Mrázek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Zdeněk",
+              "Stolař",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 71,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Zbyněk",
+              "Matýsek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Olga",
+              "Gröschlová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 13,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Stanislav",
+              "Rampas",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.02,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 1996,
+        "date": 19960531,
+        "reg": 13,
+        "pct": 6.36,
+        "elected": 13
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,95 @@
-{"reg":1005,"name":"evropani.cz","hash":"evropani","short":"evropani","links":{"global":[],"regional":[]},"color":"#af1bcb","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":505161,"townName":"Štěpánov","reg":1005,"pct":17.95,"elected":3}],"elected":3},{"type":"evropske-volby","id":2014,"date":20140523,"reg":1005,"pct":0.04,"elected":0}]}}
+{
+  "reg": 1005,
+  "name": "evropani.cz",
+  "hash": "evropani",
+  "short": "evropani",
+  "color": "#af1bcb",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 1
+        },
+        "coalitions": [
+          1405
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1405,
+            "name": "Koalice KONS, KAN, KČ, SNK ED, evropani a SMS",
+            "coalition": [
+              24,
+              40,
+              55,
+              129,
+              1005,
+              1202
+            ],
+            "pct": 0.36,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1405,
+            "name": "Koalice KONS, KAN, KČ, SNK ED, evropani a SMS",
+            "coalition": [
+              24,
+              40,
+              55,
+              129,
+              1005,
+              1202
+            ],
+            "pct": 0.36,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 505161,
+            "townName": "Štěpánov",
+            "reg": 1005,
+            "pct": 17.95,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2014,
+        "date": 20140523,
+        "reg": 1005,
+        "pct": 0.04,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

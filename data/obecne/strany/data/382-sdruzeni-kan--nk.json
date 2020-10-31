@@ -1,1 +1,91 @@
-{"reg":382,"name":"Sdružení KAN, NK","hash":"sdruzeni-kan--nk","short":"Sdružení KAN, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":539911,"townName":"Příbram","reg":382,"pct":2.7,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":538833,"townName":"Sulice","reg":382,"pct":51.91,"elected":7},{"num":534951,"townName":"Kralupy nad Vltavou","reg":382,"pct":8.79,"elected":2}],"elected":9},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":573248,"townName":"Nová Paka","reg":382,"pct":5.37,"elected":1}],"elected":1}]},"coalition":[40,80]}
+{
+  "reg": 382,
+  "name": "Sdružení KAN, NK",
+  "hash": "sdruzeni-kan--nk",
+  "short": "Sdružení KAN, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 539911,
+            "townName": "Příbram",
+            "reg": 382,
+            "pct": 2.7,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 538833,
+            "townName": "Sulice",
+            "reg": 382,
+            "pct": 51.91,
+            "elected": 7
+          },
+          {
+            "num": 534951,
+            "townName": "Kralupy nad Vltavou",
+            "reg": 382,
+            "pct": 8.79,
+            "elected": 2
+          }
+        ],
+        "elected": 9
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 573248,
+            "townName": "Nová Paka",
+            "reg": 382,
+            "pct": 5.37,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    40,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

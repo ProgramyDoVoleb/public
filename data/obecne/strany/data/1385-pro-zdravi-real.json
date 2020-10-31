@@ -1,1 +1,42 @@
-{"reg":1385,"name":"Koalice PRO Zdraví a REAL","hash":"pro-zdravi-real","short":"PRO Zdraví+REAL","coalition":[785,117],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":550787,"townName":"Strakonice","reg":1385,"pct":2.1,"elected":0}],"elected":0}]}}
+{
+  "reg": 1385,
+  "name": "Koalice PRO Zdraví a REAL",
+  "hash": "pro-zdravi+real",
+  "short": "PRO Zdraví+REAL",
+  "coalition": [
+    785,
+    1176
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 550787,
+            "townName": "Strakonice",
+            "reg": 1385,
+            "pct": 2.1,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

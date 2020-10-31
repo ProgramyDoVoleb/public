@@ -1,1 +1,56 @@
-{"reg":348,"name":"Koalice SNK ED, COEX","hash":"koalice-snk-ed--coex","short":"Koalice SNK ED, COEX","coalition":[72,129],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":3,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":598933,"townName":"Český Těšín","reg":348,"pct":4.07,"elected":0},{"num":555088,"townName":"Havířov","reg":348,"pct":1.53,"elected":0},{"num":599051,"townName":"Bohumín","reg":348,"pct":1.16,"elected":0}],"elected":0}]}}
+{
+  "reg": 348,
+  "name": "Koalice SNK ED, COEX",
+  "hash": "koalice-snk-ed--coex",
+  "short": "Koalice SNK ED, COEX",
+  "coalition": [
+    72,
+    129
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 598933,
+            "townName": "Český Těšín",
+            "reg": 348,
+            "pct": 4.07,
+            "elected": 0
+          },
+          {
+            "num": 555088,
+            "townName": "Havířov",
+            "reg": 348,
+            "pct": 1.53,
+            "elected": 0
+          },
+          {
+            "num": 599051,
+            "townName": "Bohumín",
+            "reg": 348,
+            "pct": 1.16,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

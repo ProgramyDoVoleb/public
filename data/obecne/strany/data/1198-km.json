@@ -1,1 +1,38 @@
-{"reg":1198,"name":"Klidné město","hash":"km","short":"KM","links":{"global":[],"regional":[]},"color":"#cc4d57","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":538728,"townName":"Říčany","reg":1198,"pct":52.13,"elected":12}],"elected":12}]}}
+{
+  "reg": 1198,
+  "name": "Klidné město",
+  "hash": "km",
+  "short": "KM",
+  "color": "#cc4d57",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 538728,
+            "townName": "Říčany",
+            "reg": 1198,
+            "pct": 52.13,
+            "elected": 12
+          }
+        ],
+        "elected": 12
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

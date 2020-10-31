@@ -1,1 +1,259 @@
-{"reg":117,"name":"\"1.Sdružení nezávislých kandidátů Tábor\"","hash":"1-snk","short":"1.SNK","links":{"global":[],"regional":[]},"color":"#9f0384","usualCoalitionWith":[{"count":7,"reg":80},{"count":1,"reg":791},{"count":1,"reg":100},{"count":1,"reg":166},{"count":1,"reg":721},{"count":1,"reg":724},{"count":1,"reg":785},{"count":1,"reg":714}],"memberOf":[1304,1309,1317,1336,1342,1360,1366,1385,1399,1401],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":36},"coalitions":[1309,1399,1317,1309,1304,1399,1309,1399,1399,1304,1399,1399,1304,1399,1360,1304,1385,1399,1360,1366,1366,1399,1399,1401,1304,1336,1399,1399,1399,1399,1304,1304,1304,1304,1342,1399],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":0.25,"elected":0},{"num":554961,"townName":"Karlovy Vary","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":2.35,"elected":0},{"num":554804,"townName":"Ústí nad Labem","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":0.63,"elected":0},{"num":586846,"townName":"Jihlava","reg":1401,"name":"Sdružení Svobodní, REAL, NK","coalition":[80,714,117],"pct":4.14,"elected":0},{"num":500496,"townName":"Olomouc","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":1.35,"elected":0}],"top10":[{"num":567426,"townName":"Želenice","reg":1366,"name":"Sdružení ProMOST, NK","coalition":[80,117],"pct":42.9,"elected":4},{"num":539864,"townName":"Praha-Zbraslav","reg":1304,"name":"Sdružení REAL, NK","coalition":[80,117],"pct":18.21,"elected":3},{"num":599565,"townName":"Kopřivnice","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":14.56,"elected":3},{"num":513750,"townName":"Hranice","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":14.39,"elected":4},{"num":547417,"townName":"Praha 18","reg":1309,"name":"Sdružení HPP, ODA, NK","coalition":[80,791,117],"pct":13.29,"elected":3},{"num":568813,"townName":"Pražmo","reg":1304,"name":"Sdružení REAL, NK","coalition":[80,117],"pct":11.63,"elected":1},{"num":535214,"townName":"Střemy","reg":1304,"name":"Sdružení REAL, NK","coalition":[80,117],"pct":11.47,"elected":1},{"num":538141,"townName":"Čestlice","reg":1399,"name":"Sdružení ODA, NK","coalition":[80,117],"pct":11.28,"elected":1},{"num":590592,"townName":"Heraltice","reg":1304,"name":"Sdružení REAL, NK","coalition":[80,117],"pct":11.27,"elected":1},{"num":531723,"townName":"Rudná","reg":1360,"name":"Sdružení PLUS, NK","coalition":[80,117],"pct":9.91,"elected":1}],"elected":30}]}}
+{
+  "reg": 117,
+  "name": "\"1.Sdružení nezávislých kandidátů Tábor\"",
+  "hash": "1-snk",
+  "short": "1.SNK",
+  "color": "#9f0384",
+  "memberOf": [
+    1304,
+    1309,
+    1317,
+    1336,
+    1342,
+    1360,
+    1366,
+    1385,
+    1399,
+    1401
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 33
+        },
+        "coalitions": [
+          1309,
+          1399,
+          1317,
+          1309,
+          1304,
+          1399,
+          1309,
+          1399,
+          1399,
+          1304,
+          1399,
+          1399,
+          1304,
+          1399,
+          1360,
+          1304,
+          1399,
+          1360,
+          1366,
+          1366,
+          1399,
+          1399,
+          1401,
+          1304,
+          1399,
+          1399,
+          1399,
+          1399,
+          1304,
+          1304,
+          1304,
+          1304,
+          1399
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 0.25,
+            "elected": 0
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 2.35,
+            "elected": 0
+          },
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 0.63,
+            "elected": 0
+          },
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 1401,
+            "name": "Sdružení Svobodní, REAL, NK",
+            "coalition": [
+              80,
+              714,
+              117
+            ],
+            "pct": 4.14,
+            "elected": 0
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 1.35,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 567426,
+            "townName": "Želenice",
+            "reg": 1366,
+            "name": "Sdružení ProMOST, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 42.9,
+            "elected": 4
+          },
+          {
+            "num": 539864,
+            "townName": "Praha-Zbraslav",
+            "reg": 1304,
+            "name": "Sdružení REAL, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 18.21,
+            "elected": 3
+          },
+          {
+            "num": 599565,
+            "townName": "Kopřivnice",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 14.56,
+            "elected": 3
+          },
+          {
+            "num": 513750,
+            "townName": "Hranice",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 14.39,
+            "elected": 4
+          },
+          {
+            "num": 547417,
+            "townName": "Praha 18",
+            "reg": 1309,
+            "name": "Sdružení HPP, ODA, NK",
+            "coalition": [
+              80,
+              791,
+              117
+            ],
+            "pct": 13.29,
+            "elected": 3
+          },
+          {
+            "num": 568813,
+            "townName": "Pražmo",
+            "reg": 1304,
+            "name": "Sdružení REAL, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 11.63,
+            "elected": 1
+          },
+          {
+            "num": 535214,
+            "townName": "Střemy",
+            "reg": 1304,
+            "name": "Sdružení REAL, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 11.47,
+            "elected": 1
+          },
+          {
+            "num": 538141,
+            "townName": "Čestlice",
+            "reg": 1399,
+            "name": "Sdružení ODA, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 11.28,
+            "elected": 1
+          },
+          {
+            "num": 590592,
+            "townName": "Heraltice",
+            "reg": 1304,
+            "name": "Sdružení REAL, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 11.27,
+            "elected": 1
+          },
+          {
+            "num": 531723,
+            "townName": "Rudná",
+            "reg": 1360,
+            "name": "Sdružení PLUS, NK",
+            "coalition": [
+              80,
+              117
+            ],
+            "pct": 9.91,
+            "elected": 1
+          }
+        ],
+        "elected": 30
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

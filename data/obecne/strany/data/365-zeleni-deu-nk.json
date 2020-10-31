@@ -1,1 +1,21 @@
-{"reg":365,"name":"Sdružení Zelení, DEU, NK","hash":"zeleni-deu-nk","short":"Zelení+DEU+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[5,80,81]}
+{
+  "reg": 365,
+  "name": "Sdružení Zelení, DEU, NK",
+  "hash": "zeleni+deu+nk",
+  "short": "Zelení+DEU+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    5,
+    80,
+    81
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

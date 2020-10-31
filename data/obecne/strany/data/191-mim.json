@@ -1,1 +1,38 @@
-{"reg":191,"name":"MĚSTO I MLÁDEŽI","hash":"mim","short":"MIM","links":{"global":[],"regional":[]},"color":"#2ef2f9","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":552046,"townName":"Tábor","reg":191,"pct":4.18,"elected":0}],"elected":0}]}}
+{
+  "reg": 191,
+  "name": "MĚSTO I MLÁDEŽI",
+  "hash": "mim",
+  "short": "MIM",
+  "color": "#2ef2f9",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 552046,
+            "townName": "Tábor",
+            "reg": 191,
+            "pct": 4.18,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

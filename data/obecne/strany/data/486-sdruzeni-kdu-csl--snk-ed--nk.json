@@ -1,1 +1,92 @@
-{"reg":486,"name":"Sdružení KDU-ČSL, SNK ED, NK","hash":"sdruzeni-kdu-csl--snk-ed--nk","short":"Sdružení KDU-ČSL, SNK ED, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":534676,"townName":"Mělník","reg":486,"pct":9.19,"elected":2}],"elected":2},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":533165,"townName":"Kolín","reg":486,"pct":7.26,"elected":2}],"elected":2},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":580031,"townName":"Česká Třebová","reg":486,"pct":12.48,"elected":3},{"num":576964,"townName":"Semily","reg":486,"pct":7.65,"elected":1}],"elected":4}]},"coalition":[1,80,129]}
+{
+  "reg": 486,
+  "name": "Sdružení KDU-ČSL, SNK ED, NK",
+  "hash": "sdruzeni-kdu-csl--snk-ed--nk",
+  "short": "Sdružení KDU-ČSL, SNK ED, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 534676,
+            "townName": "Mělník",
+            "reg": 486,
+            "pct": 9.19,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 533165,
+            "townName": "Kolín",
+            "reg": 486,
+            "pct": 7.26,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 580031,
+            "townName": "Česká Třebová",
+            "reg": 486,
+            "pct": 12.48,
+            "elected": 3
+          },
+          {
+            "num": 576964,
+            "townName": "Semily",
+            "reg": 486,
+            "pct": 7.65,
+            "elected": 1
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    80,
+    129
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

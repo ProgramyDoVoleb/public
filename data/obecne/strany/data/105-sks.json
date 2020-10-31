@@ -1,1 +1,100 @@
-{"reg":105,"name":"Strana konzervativní smlouvy","hash":"sks","short":"SKS","links":{"global":[],"regional":[]},"color":"#073276","usualCoalitionWith":[{"count":3,"reg":80},{"count":2,"reg":1},{"count":1,"reg":43},{"count":1,"reg":98},{"count":1,"reg":40},{"count":1,"reg":113}],"memberOf":[218,250,267,358,409,1433],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":1},"coalitions":[1433],"list":[],"top10":[{"num":562335,"townName":"Děčín","reg":1433,"name":"Sdružení APAČI 2017, NK","coalition":[80,105],"pct":2.95,"elected":0}],"elected":0},{"type":"senatni-volby","id":20001112,"date":20001112,"list":[{"area":59,"reg":105,"nominee":105,"candidate":["RNDr.","Čestmír","Hofhanzl",""],"elected":false,"round1":{"pct":1.16,"progress":false}}]},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":10,"reg":105,"pct":0.31,"elected":0},{"area":11,"reg":267,"name":"ŠANCE PRO OLOMOUCKÝ KRAJ","coalition":[40,105,113],"pct":1.26,"elected":0}]}]}}
+{
+  "reg": 105,
+  "name": "Strana konzervativní smlouvy",
+  "hash": "sks",
+  "short": "SKS",
+  "color": "#073276",
+  "memberOf": [
+    218,
+    250,
+    267,
+    358,
+    409,
+    1433
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 1
+        },
+        "coalitions": [
+          1433
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 562335,
+            "townName": "Děčín",
+            "reg": 1433,
+            "name": "Sdružení APAČI 2017, NK",
+            "coalition": [
+              80,
+              105
+            ],
+            "pct": 2.95,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 59,
+            "reg": 105,
+            "nominee": 105,
+            "candidate": [
+              "RNDr.",
+              "Čestmír",
+              "Hofhanzl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.16,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 10,
+            "reg": 105,
+            "pct": 0.31,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 267,
+            "name": "ŠANCE PRO OLOMOUCKÝ KRAJ",
+            "coalition": [
+              40,
+              105,
+              113
+            ],
+            "pct": 1.26,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

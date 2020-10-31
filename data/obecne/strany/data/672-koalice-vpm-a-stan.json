@@ -1,1 +1,63 @@
-{"reg":672,"name":"Koalice VPM a STAN","hash":"koalice-vpm-a-stan","short":"Koalice VPM a STAN","coalition":[113,166],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":530883,"townName":"Vlašim","reg":672,"pct":43.19,"elected":10}],"elected":10},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":530883,"townName":"Vlašim","reg":672,"pct":46.13,"elected":11}],"elected":11}]}}
+{
+  "reg": 672,
+  "name": "Koalice VPM a STAN",
+  "hash": "koalice-vpm-a-stan",
+  "short": "Koalice VPM a STAN",
+  "coalition": [
+    113,
+    166
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 530883,
+            "townName": "Vlašim",
+            "reg": 672,
+            "pct": 43.19,
+            "elected": 10
+          }
+        ],
+        "elected": 10
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 530883,
+            "townName": "Vlašim",
+            "reg": 672,
+            "pct": 46.13,
+            "elected": 11
+          }
+        ],
+        "elected": 11
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

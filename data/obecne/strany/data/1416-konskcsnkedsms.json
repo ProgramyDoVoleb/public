@@ -1,1 +1,44 @@
-{"reg":1416,"name":"Koalice KONS, KČ, SNK ED a SMS","hash":"konskcsnkedsms","short":"KONSKČSNKEDSMS","coalition":[24,55,129,120],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":538175,"townName":"Praha-Dolní Počernice","reg":1416,"pct":27.64,"elected":4}],"elected":4}]}}
+{
+  "reg": 1416,
+  "name": "Koalice KONS, KČ, SNK ED a SMS",
+  "hash": "konskcsnkedsms",
+  "short": "KONSKČSNKEDSMS",
+  "coalition": [
+    24,
+    55,
+    129,
+    1202
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 538175,
+            "townName": "Praha-Dolní Počernice",
+            "reg": 1416,
+            "pct": 27.64,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

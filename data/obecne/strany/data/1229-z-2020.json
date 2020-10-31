@@ -1,0 +1,55 @@
+{
+  "reg": 1229,
+  "name": "Změna 2020",
+  "hash": "z-2020",
+  "short": "Z 2020",
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "usualCoalitionWith": [],
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 15,
+            "reg": 1229,
+            "nominee": 1229,
+            "candidate": [
+              "Ing.",
+              "Stanislav",
+              "Mrvka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.02,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 2,
+            "reg": 1229,
+            "pct": 1.91,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/1229-zmena-2020-2.png"
+}

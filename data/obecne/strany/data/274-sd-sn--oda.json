@@ -1,1 +1,20 @@
-{"reg":274,"name":"Koalice SD-SN, ODA","hash":"sd-sn--oda","short":"SD-SN, ODA","coalition":[13,143],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 274,
+  "name": "Koalice SD-SN, ODA",
+  "hash": "sd-sn--oda",
+  "short": "SD-SN, ODA",
+  "coalition": [
+    13,
+    143
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

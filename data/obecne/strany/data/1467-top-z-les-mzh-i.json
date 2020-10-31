@@ -1,0 +1,36 @@
+{
+  "reg": 1467,
+  "name": "Koalice TOP 09, Zelení, LES, MZH a Idealisté",
+  "hash": "top+z+les+mzh+i",
+  "short": "TOP+Z+LES+MZH+I",
+  "coalition": [
+    5,
+    721,
+    795,
+    1190,
+    1233
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 10,
+            "reg": 1467,
+            "pct": 6.62,
+            "elected": 5
+          }
+        ]
+      }
+    ]
+  }
+}

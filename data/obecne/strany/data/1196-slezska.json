@@ -1,1 +1,38 @@
-{"reg":1196,"name":"Slezská pro život","hash":"slezska","short":"Slezská","links":{"global":[],"regional":[]},"color":"#08c718","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":546046,"townName":"Slezská Ostrava","reg":1196,"pct":9.53,"elected":4}],"elected":4}]}}
+{
+  "reg": 1196,
+  "name": "Slezská pro život",
+  "hash": "slezska",
+  "short": "Slezská",
+  "color": "#08c718",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 546046,
+            "townName": "Slezská Ostrava",
+            "reg": 1196,
+            "pct": 9.53,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

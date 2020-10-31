@@ -1,0 +1,33 @@
+{
+  "reg": 1471,
+  "name": "Koalice Změna a NBPLK",
+  "hash": "zmena+nbplk",
+  "short": "Změna+NBPLK",
+  "coalition": [
+    771,
+    780
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 1471,
+            "pct": 1.53,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

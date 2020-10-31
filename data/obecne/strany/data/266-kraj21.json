@@ -1,1 +1,34 @@
-{"reg":266,"name":"Náš kraj 21","coalition":[5,103],"short":"KRAJ21","color":"#aaa","hash":"kraj21","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":11,"reg":266,"pct":2.57,"elected":0}]}]}}
+{
+  "reg": 266,
+  "name": "Náš kraj 21",
+  "coalition": [
+    5,
+    103
+  ],
+  "short": "KRAJ21",
+  "color": "#aaa",
+  "hash": "kraj21",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 11,
+            "reg": 266,
+            "pct": 2.57,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

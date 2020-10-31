@@ -1,1 +1,57 @@
-{"reg":1220,"name":"HLAS","hash":"hlas","short":"Hlas","links":{"global":[],"regional":[]},"logo":"/obecne/strany/loga/1220-hnuti-hlas-2.png","color":"#21e036","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20190524,"list":[{"type":"evropske-volby","id":2019,"date":20190524,"reg":1220,"pct":2.38,"elected":0}]}}
+{
+  "reg": 1220,
+  "name": "HLAS",
+  "hash": "hlas",
+  "short": "Hlas",
+  "logo": "/obecne/strany/loga/1220-hnuti-hlas-2.png",
+  "color": "#29235a",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 1,
+            "reg": 1470,
+            "name": "Koalice TOP 09, Hlas a Zelení",
+            "coalition": [
+              5,
+              721,
+              1220
+            ],
+            "pct": 5.89,
+            "elected": 4
+          },
+          {
+            "area": 13,
+            "reg": 1466,
+            "name": "Koalice ODA, Hlas a SNK ED",
+            "coalition": [
+              129,
+              1173,
+              1220
+            ],
+            "pct": 0.56,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1220,
+        "pct": 2.38,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "reg": 1444,
+  "name": "Koalice Zelení a LES",
+  "hash": "zeleni+les",
+  "short": "Zelení+LES",
+  "coalition": [
+    5,
+    795
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 1444,
+            "pct": 4.02,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

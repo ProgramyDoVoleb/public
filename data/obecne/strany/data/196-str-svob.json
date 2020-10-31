@@ -1,1 +1,16 @@
-{"reg":196,"name":"Strana Svobody","hash":"str-svob","short":"Str.Svob","links":{"global":[],"regional":[]},"color":"#f870f1","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 196,
+  "name": "Strana Svobody",
+  "hash": "str-svob",
+  "short": "Str.Svob",
+  "color": "#f870f1",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

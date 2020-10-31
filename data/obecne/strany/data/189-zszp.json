@@ -1,1 +1,46 @@
-{"reg":189,"name":"Zlínské sdružení živnostníků a podnikatelů","hash":"zszp","short":"ZSŽP","links":{"global":[],"regional":[]},"color":"#0f47d7","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":585068,"townName":"Zlín","reg":189,"pct":1.84,"elected":0}],"top10":[{"num":585068,"townName":"Zlín","reg":189,"pct":1.84,"elected":0}],"elected":0}]}}
+{
+  "reg": 189,
+  "name": "Zlínské sdružení živnostníků a podnikatelů",
+  "hash": "zszp",
+  "short": "ZSŽP",
+  "color": "#0f47d7",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 189,
+            "pct": 1.84,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 189,
+            "pct": 1.84,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

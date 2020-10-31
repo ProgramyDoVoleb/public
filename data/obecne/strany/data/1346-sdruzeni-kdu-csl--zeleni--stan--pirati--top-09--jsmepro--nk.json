@@ -1,0 +1,47 @@
+{
+  "reg": 1346,
+  "name": "Sdružení KDU-ČSL, Zelení, STAN, Piráti, TOP 09, JsmePRO!, NK",
+  "hash": "sdruzeni-kdu-csl--zeleni--stan--pirati--top-09--jsmepro--nk",
+  "short": "Sdružení KDU-ČSL, Zelení, STAN, Piráti, TOP 09, JsmePRO!, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 562971,
+            "townName": "Chomutov",
+            "reg": 1346,
+            "pct": 23.04,
+            "elected": 9
+          }
+        ],
+        "elected": 9
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    5,
+    80,
+    166,
+    720,
+    721,
+    112
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

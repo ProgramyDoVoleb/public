@@ -1,1 +1,70 @@
-{"reg":1085,"name":"Koalice Svobodní a TOP 09","hash":"koalice-svobodni-a-top-09","short":"Koalice Svobodní a TOP 09","coalition":[714,721],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":596230,"townName":"Nové Město na Moravě","reg":1085,"pct":7.33,"elected":2},{"num":595209,"townName":"Žďár nad Sázavou","reg":1085,"pct":5.07,"elected":1}],"elected":3},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":573094,"townName":"Lázně Bělohrad","reg":1085,"pct":5.34,"elected":1}],"elected":1}]}}
+{
+  "reg": 1085,
+  "name": "Koalice Svobodní a TOP 09",
+  "hash": "koalice-svobodni-a-top-09",
+  "short": "Koalice Svobodní a TOP 09",
+  "coalition": [
+    714,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 596230,
+            "townName": "Nové Město na Moravě",
+            "reg": 1085,
+            "pct": 7.33,
+            "elected": 2
+          },
+          {
+            "num": 595209,
+            "townName": "Žďár nad Sázavou",
+            "reg": 1085,
+            "pct": 5.07,
+            "elected": 1
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 573094,
+            "townName": "Lázně Bělohrad",
+            "reg": 1085,
+            "pct": 5.34,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

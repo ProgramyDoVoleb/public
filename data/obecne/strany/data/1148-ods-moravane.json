@@ -1,1 +1,20 @@
-{"reg":1148,"name":"Občanská demokratická strana a Moravané","hash":"ods-moravane","short":"ODS+Moravané","coalition":[53,83],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 1148,
+  "name": "Občanská demokratická strana a Moravané",
+  "hash": "ods+moravane",
+  "short": "ODS+Moravané",
+  "coalition": [
+    53,
+    83
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

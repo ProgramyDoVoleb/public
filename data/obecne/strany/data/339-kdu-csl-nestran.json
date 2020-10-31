@@ -1,1 +1,389 @@
-{"reg":339,"name":"Koalice KDU-ČSL, Nestraníci","hash":"kdu-csl-nestran","short":"KDU-ČSL+Nestran","coalition":[1,181],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":7,"coalition":0},"coalitions":[],"list":[{"num":569810,"townName":"Hradec Králové","reg":339,"pct":6.78,"elected":3}],"top10":[{"num":577936,"townName":"Cerekvice nad Loučnou","reg":339,"pct":61.01,"elected":7},{"num":578509,"townName":"Osík","reg":339,"pct":41.94,"elected":5},{"num":589667,"townName":"Krumsín","reg":339,"pct":37.6,"elected":3},{"num":533271,"townName":"Český Brod","reg":339,"pct":10.01,"elected":2},{"num":561380,"townName":"Česká Lípa","reg":339,"pct":7.71,"elected":2},{"num":571164,"townName":"Chrudim","reg":339,"pct":7.35,"elected":2},{"num":569810,"townName":"Hradec Králové","reg":339,"pct":6.78,"elected":3}],"elected":24},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":15,"coalition":0},"coalitions":[],"list":[{"num":569810,"townName":"Hradec Králové","reg":339,"pct":6.17,"elected":2},{"num":555134,"townName":"Pardubice","reg":339,"pct":5.07,"elected":2}],"top10":[{"num":577936,"townName":"Cerekvice nad Loučnou","reg":339,"pct":75.99,"elected":9},{"num":578509,"townName":"Osík","reg":339,"pct":57.47,"elected":7},{"num":593664,"townName":"Vážany nad Litavou","reg":339,"pct":26.91,"elected":2},{"num":574899,"townName":"Dašice","reg":339,"pct":11.15,"elected":2},{"num":571164,"townName":"Chrudim","reg":339,"pct":9.04,"elected":3},{"num":575071,"townName":"Chvaletice","reg":339,"pct":8.85,"elected":1},{"num":555096,"townName":"Pardubice IV","reg":339,"pct":8.84,"elected":1},{"num":555118,"townName":"Pardubice VII","reg":339,"pct":8.4,"elected":1},{"num":555126,"townName":"Pardubice II","reg":339,"pct":6.93,"elected":1},{"num":557072,"townName":"Pardubice V","reg":339,"pct":6.37,"elected":1}],"elected":34},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":22,"coalition":0},"coalitions":[],"list":[{"num":555134,"townName":"Pardubice","reg":339,"pct":4.37,"elected":0}],"top10":[{"num":558176,"townName":"Nové Mitrovice","reg":339,"pct":100,"elected":7},{"num":577936,"townName":"Cerekvice nad Loučnou","reg":339,"pct":63.36,"elected":7},{"num":578509,"townName":"Osík","reg":339,"pct":48.64,"elected":6},{"num":578193,"townName":"Jevíčko","reg":339,"pct":48.34,"elected":7},{"num":553441,"townName":"Bělá nad Radbuzou","reg":339,"pct":41.83,"elected":7},{"num":589896,"townName":"Plumlov","reg":339,"pct":24.19,"elected":4},{"num":501841,"townName":"Grygov","reg":339,"pct":19.26,"elected":2},{"num":554294,"townName":"Staňkov","reg":339,"pct":17.91,"elected":2},{"num":575071,"townName":"Chvaletice","reg":339,"pct":14.15,"elected":2},{"num":533271,"townName":"Český Brod","reg":339,"pct":12.57,"elected":3}],"elected":63},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":31,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":339,"pct":3.26,"elected":0},{"num":555134,"townName":"Pardubice","reg":339,"pct":5.35,"elected":2},{"num":585068,"townName":"Zlín","reg":339,"pct":9.36,"elected":4}],"top10":[{"num":572179,"townName":"Rosice","reg":339,"pct":71.51,"elected":11},{"num":552241,"townName":"Dolní Hořice","reg":339,"pct":47.56,"elected":7},{"num":577936,"townName":"Cerekvice nad Loučnou","reg":339,"pct":47.03,"elected":5},{"num":578193,"townName":"Jevíčko","reg":339,"pct":43.03,"elected":7},{"num":585793,"townName":"Spytihněv","reg":339,"pct":41.63,"elected":6},{"num":588288,"townName":"Ždírec","reg":339,"pct":40.84,"elected":4},{"num":573582,"townName":"Víska","reg":339,"pct":40.25,"elected":3},{"num":578509,"townName":"Osík","reg":339,"pct":27.17,"elected":3},{"num":575020,"townName":"Pardubice VIII","reg":339,"pct":26.02,"elected":2},{"num":578037,"townName":"Hartmanice","reg":339,"pct":24.78,"elected":2}],"elected":91}]}}
+{
+  "reg": 339,
+  "name": "Koalice KDU-ČSL, Nestraníci",
+  "hash": "kdu-csl+nestran",
+  "short": "KDU-ČSL+Nestran",
+  "coalition": [
+    1,
+    181
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 7,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 339,
+            "pct": 6.78,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 577936,
+            "townName": "Cerekvice nad Loučnou",
+            "reg": 339,
+            "pct": 61.01,
+            "elected": 7
+          },
+          {
+            "num": 578509,
+            "townName": "Osík",
+            "reg": 339,
+            "pct": 41.94,
+            "elected": 5
+          },
+          {
+            "num": 589667,
+            "townName": "Krumsín",
+            "reg": 339,
+            "pct": 37.6,
+            "elected": 3
+          },
+          {
+            "num": 533271,
+            "townName": "Český Brod",
+            "reg": 339,
+            "pct": 10.01,
+            "elected": 2
+          },
+          {
+            "num": 561380,
+            "townName": "Česká Lípa",
+            "reg": 339,
+            "pct": 7.71,
+            "elected": 2
+          },
+          {
+            "num": 571164,
+            "townName": "Chrudim",
+            "reg": 339,
+            "pct": 7.35,
+            "elected": 2
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 339,
+            "pct": 6.78,
+            "elected": 3
+          }
+        ],
+        "elected": 24
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 15,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 339,
+            "pct": 6.17,
+            "elected": 2
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 339,
+            "pct": 5.07,
+            "elected": 2
+          }
+        ],
+        "top10": [
+          {
+            "num": 577936,
+            "townName": "Cerekvice nad Loučnou",
+            "reg": 339,
+            "pct": 75.99,
+            "elected": 9
+          },
+          {
+            "num": 578509,
+            "townName": "Osík",
+            "reg": 339,
+            "pct": 57.47,
+            "elected": 7
+          },
+          {
+            "num": 593664,
+            "townName": "Vážany nad Litavou",
+            "reg": 339,
+            "pct": 26.91,
+            "elected": 2
+          },
+          {
+            "num": 574899,
+            "townName": "Dašice",
+            "reg": 339,
+            "pct": 11.15,
+            "elected": 2
+          },
+          {
+            "num": 571164,
+            "townName": "Chrudim",
+            "reg": 339,
+            "pct": 9.04,
+            "elected": 3
+          },
+          {
+            "num": 575071,
+            "townName": "Chvaletice",
+            "reg": 339,
+            "pct": 8.85,
+            "elected": 1
+          },
+          {
+            "num": 555096,
+            "townName": "Pardubice IV",
+            "reg": 339,
+            "pct": 8.84,
+            "elected": 1
+          },
+          {
+            "num": 555118,
+            "townName": "Pardubice VII",
+            "reg": 339,
+            "pct": 8.4,
+            "elected": 1
+          },
+          {
+            "num": 555126,
+            "townName": "Pardubice II",
+            "reg": 339,
+            "pct": 6.93,
+            "elected": 1
+          },
+          {
+            "num": 557072,
+            "townName": "Pardubice V",
+            "reg": 339,
+            "pct": 6.37,
+            "elected": 1
+          }
+        ],
+        "elected": 34
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 22,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 339,
+            "pct": 4.37,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 558176,
+            "townName": "Nové Mitrovice",
+            "reg": 339,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 577936,
+            "townName": "Cerekvice nad Loučnou",
+            "reg": 339,
+            "pct": 63.36,
+            "elected": 7
+          },
+          {
+            "num": 578509,
+            "townName": "Osík",
+            "reg": 339,
+            "pct": 48.64,
+            "elected": 6
+          },
+          {
+            "num": 578193,
+            "townName": "Jevíčko",
+            "reg": 339,
+            "pct": 48.34,
+            "elected": 7
+          },
+          {
+            "num": 553441,
+            "townName": "Bělá nad Radbuzou",
+            "reg": 339,
+            "pct": 41.83,
+            "elected": 7
+          },
+          {
+            "num": 589896,
+            "townName": "Plumlov",
+            "reg": 339,
+            "pct": 24.19,
+            "elected": 4
+          },
+          {
+            "num": 501841,
+            "townName": "Grygov",
+            "reg": 339,
+            "pct": 19.26,
+            "elected": 2
+          },
+          {
+            "num": 554294,
+            "townName": "Staňkov",
+            "reg": 339,
+            "pct": 17.91,
+            "elected": 2
+          },
+          {
+            "num": 575071,
+            "townName": "Chvaletice",
+            "reg": 339,
+            "pct": 14.15,
+            "elected": 2
+          },
+          {
+            "num": 533271,
+            "townName": "Český Brod",
+            "reg": 339,
+            "pct": 12.57,
+            "elected": 3
+          }
+        ],
+        "elected": 63
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 31,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 339,
+            "pct": 3.26,
+            "elected": 0
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 339,
+            "pct": 5.35,
+            "elected": 2
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 339,
+            "pct": 9.36,
+            "elected": 4
+          }
+        ],
+        "top10": [
+          {
+            "num": 572179,
+            "townName": "Rosice",
+            "reg": 339,
+            "pct": 71.51,
+            "elected": 11
+          },
+          {
+            "num": 552241,
+            "townName": "Dolní Hořice",
+            "reg": 339,
+            "pct": 47.56,
+            "elected": 7
+          },
+          {
+            "num": 577936,
+            "townName": "Cerekvice nad Loučnou",
+            "reg": 339,
+            "pct": 47.03,
+            "elected": 5
+          },
+          {
+            "num": 578193,
+            "townName": "Jevíčko",
+            "reg": 339,
+            "pct": 43.03,
+            "elected": 7
+          },
+          {
+            "num": 585793,
+            "townName": "Spytihněv",
+            "reg": 339,
+            "pct": 41.63,
+            "elected": 6
+          },
+          {
+            "num": 588288,
+            "townName": "Ždírec",
+            "reg": 339,
+            "pct": 40.84,
+            "elected": 4
+          },
+          {
+            "num": 573582,
+            "townName": "Víska",
+            "reg": 339,
+            "pct": 40.25,
+            "elected": 3
+          },
+          {
+            "num": 578509,
+            "townName": "Osík",
+            "reg": 339,
+            "pct": 27.17,
+            "elected": 3
+          },
+          {
+            "num": 575020,
+            "townName": "Pardubice VIII",
+            "reg": 339,
+            "pct": 26.02,
+            "elected": 2
+          },
+          {
+            "num": 578037,
+            "townName": "Hartmanice",
+            "reg": 339,
+            "pct": 24.78,
+            "elected": 2
+          }
+        ],
+        "elected": 91
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

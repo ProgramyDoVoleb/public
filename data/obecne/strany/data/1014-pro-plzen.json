@@ -1,1 +1,58 @@
-{"reg":1014,"name":"PRO PLZEŇ","hash":"pro-plzen","short":"PRO PLZEŇ","links":{"global":[],"regional":[]},"color":"#b5acad","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":545970,"townName":"Plzeň 1","reg":1014,"pct":5.75,"elected":2}],"elected":2}]}}
+{
+  "reg": 1014,
+  "name": "PRO PLZEŇ",
+  "hash": "pro-plzen",
+  "short": "PRO PLZEŇ",
+  "color": "#b5acad",
+  "logo": "/obecne/strany/loga/1014-proplzen.png",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1475,
+            "name": "Koalice STAN, Zelení a PRO PLZEŇ",
+            "coalition": [
+              5,
+              166,
+              1014
+            ],
+            "pct": 14.9,
+            "elected": 7
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 1014,
+            "pct": 5.75,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

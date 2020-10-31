@@ -1,1 +1,177 @@
-{"reg":165,"name":"Strana drobných živnostníků a podnikatelů","hash":"sdzp","short":"SDŽP","links":{"global":[],"regional":[]},"color":"#3e6c6d","usualCoalitionWith":[{"count":5,"reg":167},{"count":2,"reg":9},{"count":2,"reg":159},{"count":2,"reg":40},{"count":1,"reg":707},{"count":1,"reg":68},{"count":1,"reg":80},{"count":1,"reg":157},{"count":1,"reg":132},{"count":1,"reg":172},{"count":1,"reg":176},{"count":1,"reg":178},{"count":1,"reg":701},{"count":1,"reg":706},{"count":1,"reg":2}],"memberOf":[338,452,628,631,653,655],"activity":{"last":20090605,"list":[{"type":"evropske-volby","id":2009,"date":20090605,"reg":655,"name":"Nejen hasiči a živnostníci s učiteli do Evropy","coalition":[165,167],"pct":0.29,"elected":0},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":1,"reg":653,"name":"Nejen hasiči a živnostníci pro kraj","coalition":[165,167],"elected":0},{"area":8,"reg":165,"elected":0},{"area":10,"reg":628,"name":"\"DOHODA PRO JIŽNÍ MORAVU\"","coalition":[2,9,40,132,159,165,167,172,176,178,701,706,707],"elected":0},{"area":13,"reg":631,"name":"Nejen hasiči a živnostníci pro kraj - www.hnpd.cz, www.sdzp.cz","coalition":[165,167],"elected":0}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":4,"coalition":2},"coalitions":[452,452],"list":[],"top10":[{"num":578657,"townName":"Radiměř","reg":452,"name":"Sdružení SDŽP, NK","coalition":[80,165],"pct":16.25,"elected":2},{"num":564567,"townName":"Litoměřice","reg":165,"pct":12.73,"elected":3},{"num":580031,"townName":"Česká Třebová","reg":165,"pct":8.7,"elected":2},{"num":554511,"townName":"Drmoul","reg":165,"pct":7.84,"elected":1},{"num":560472,"townName":"Kraslice","reg":165,"pct":5.55,"elected":1},{"num":572691,"townName":"Hradec nad Svitavou","reg":452,"name":"Sdružení SDŽP, NK","coalition":[80,165],"pct":4.47,"elected":0}],"elected":9},{"type":"snemovni-volby","id":2006,"date":20060603,"reg":338,"name":"Koalice pro Českou republiku","coalition":[9,40,68,157,159,165,167],"pct":0.15,"elected":0}]}}
+{
+  "reg": 165,
+  "name": "Strana drobných živnostníků a podnikatelů",
+  "hash": "sdzp",
+  "short": "SDŽP",
+  "color": "#3e6c6d",
+  "memberOf": [
+    338,
+    452,
+    628,
+    631,
+    653,
+    655
+  ],
+  "activity": {
+    "last": 20090605,
+    "list": [
+      {
+        "type": "evropske-volby",
+        "id": 2009,
+        "date": 20090605,
+        "reg": 655,
+        "name": "Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz",
+        "coalition": [
+          165,
+          167
+        ],
+        "pct": 0.29,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 653,
+            "name": "Nejen hasiči a živnostníci pro kraj",
+            "coalition": [
+              165,
+              167
+            ],
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 165,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 628,
+            "name": "\"DOHODA PRO JIŽNÍ MORAVU\"",
+            "coalition": [
+              2,
+              9,
+              40,
+              132,
+              159,
+              165,
+              167,
+              172,
+              176,
+              178,
+              701,
+              706,
+              707
+            ],
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 631,
+            "name": "Nejen hasiči a živnostníci pro kraj - www.hnpd.cz, www.sdzp.cz",
+            "coalition": [
+              165,
+              167
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 4,
+          "coalition": 2
+        },
+        "coalitions": [
+          452,
+          452
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 578657,
+            "townName": "Radiměř",
+            "reg": 452,
+            "name": "Sdružení SDŽP, NK",
+            "coalition": [
+              80,
+              165
+            ],
+            "pct": 16.25,
+            "elected": 2
+          },
+          {
+            "num": 564567,
+            "townName": "Litoměřice",
+            "reg": 165,
+            "pct": 12.73,
+            "elected": 3
+          },
+          {
+            "num": 580031,
+            "townName": "Česká Třebová",
+            "reg": 165,
+            "pct": 8.7,
+            "elected": 2
+          },
+          {
+            "num": 554511,
+            "townName": "Drmoul",
+            "reg": 165,
+            "pct": 7.84,
+            "elected": 1
+          },
+          {
+            "num": 560472,
+            "townName": "Kraslice",
+            "reg": 165,
+            "pct": 5.55,
+            "elected": 1
+          },
+          {
+            "num": 572691,
+            "townName": "Hradec nad Svitavou",
+            "reg": 452,
+            "name": "Sdružení SDŽP, NK",
+            "coalition": [
+              80,
+              165
+            ],
+            "pct": 4.47,
+            "elected": 0
+          }
+        ],
+        "elected": 9
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2006,
+        "date": 20060603,
+        "reg": 338,
+        "name": "Koalice pro Českou republiku",
+        "coalition": [
+          9,
+          40,
+          68,
+          157,
+          159,
+          165,
+          167
+        ],
+        "pct": 0.15,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

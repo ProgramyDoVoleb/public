@@ -1,1 +1,150 @@
-{"reg":118,"name":"Sdružení pro sport a zdraví","hash":"ssz","short":"SSZ","links":{"global":[],"regional":[]},"color":"#cf39b4","usualCoalitionWith":[{"count":4,"reg":80},{"count":1,"reg":175}],"memberOf":[1343,1363,1368,1373,1420],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":7},"coalitions":[1373,1420,1363,1363,1363,1343,1368],"list":[{"num":563889,"townName":"Liberec","reg":1363,"name":"Sdružení TJ., NK","coalition":[80,118],"pct":5.27,"elected":2}],"top10":[{"num":500054,"townName":"Praha 1","reg":1373,"name":"Sdružení PRAHA SOBĚ, NK","coalition":[80,118],"pct":21.26,"elected":6},{"num":539279,"townName":"Velká Hleďsebe","reg":1363,"name":"Sdružení TJ., NK","coalition":[80,118],"pct":17.99,"elected":2},{"num":554529,"townName":"Františkovy Lázně","reg":1363,"name":"Sdružení TJ., NK","coalition":[80,118],"pct":15.97,"elected":2},{"num":590266,"townName":"Třebíč","reg":1368,"name":"Sdružení OSB, NK","coalition":[80,118],"pct":15.84,"elected":5},{"num":580481,"townName":"Králíky","reg":1343,"name":"Sdružení SPORTOVCI, NK","coalition":[80,118],"pct":14.32,"elected":2},{"num":563889,"townName":"Liberec","reg":1363,"name":"Sdružení TJ., NK","coalition":[80,118],"pct":5.27,"elected":2},{"num":544256,"townName":"České Budějovice","reg":1420,"name":"Koalice ČSNS 2005 a NOB","coalition":[175,118],"pct":0.04,"elected":0}],"elected":19},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567027,"townName":"Most","reg":118,"pct":3.92,"elected":0}],"elected":0}]}}
+{
+  "reg": 118,
+  "name": "Sdružení pro sport a zdraví",
+  "hash": "ssz",
+  "short": "SSZ",
+  "color": "#cf39b4",
+  "memberOf": [
+    1343,
+    1363,
+    1368,
+    1373,
+    1420
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 6
+        },
+        "coalitions": [
+          1373,
+          1363,
+          1363,
+          1363,
+          1343,
+          1368
+        ],
+        "list": [
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 1363,
+            "name": "Sdružení TJ., NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 5.27,
+            "elected": 2
+          }
+        ],
+        "top10": [
+          {
+            "num": 500054,
+            "townName": "Praha 1",
+            "reg": 1373,
+            "name": "Sdružení PRAHA SOBĚ, NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 21.26,
+            "elected": 6
+          },
+          {
+            "num": 539279,
+            "townName": "Velká Hleďsebe",
+            "reg": 1363,
+            "name": "Sdružení TJ., NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 17.99,
+            "elected": 2
+          },
+          {
+            "num": 554529,
+            "townName": "Františkovy Lázně",
+            "reg": 1363,
+            "name": "Sdružení TJ., NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 15.97,
+            "elected": 2
+          },
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 1368,
+            "name": "Sdružení OSB, NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 15.84,
+            "elected": 5
+          },
+          {
+            "num": 580481,
+            "townName": "Králíky",
+            "reg": 1343,
+            "name": "Sdružení SPORTOVCI, NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 14.32,
+            "elected": 2
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 1363,
+            "name": "Sdružení TJ., NK",
+            "coalition": [
+              80,
+              118
+            ],
+            "pct": 5.27,
+            "elected": 2
+          }
+        ],
+        "elected": 19
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567027,
+            "townName": "Most",
+            "reg": 118,
+            "pct": 3.92,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

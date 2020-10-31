@@ -1,1 +1,244 @@
-{"reg":210,"name":"Koalice KDU-ČSL, ODS","hash":"kdu-csl-ods","short":"KDU-ČSL+ODS","coalition":[1,53],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":6,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":595021,"townName":"Únanov","reg":210,"pct":56.33,"elected":9},{"num":584584,"townName":"Krumvíř","reg":210,"pct":30.18,"elected":5},{"num":562564,"townName":"Jílové","reg":210,"pct":24.5,"elected":5},{"num":577308,"townName":"Lomnice nad Popelkou","reg":210,"pct":19.06,"elected":3},{"num":563820,"townName":"Tanvald","reg":210,"pct":12.61,"elected":3},{"num":551210,"townName":"Brno-Kníničky","reg":210,"pct":10.1,"elected":1}],"elected":26},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":3,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":595021,"townName":"Únanov","reg":210,"pct":100,"elected":15},{"num":577308,"townName":"Lomnice nad Popelkou","reg":210,"pct":25.13,"elected":5},{"num":552151,"townName":"Skrbeň","reg":210,"pct":13.34,"elected":1}],"elected":21},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":5,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":594300,"townName":"Kuchařovice","reg":210,"pct":79.3,"elected":12},{"num":595021,"townName":"Únanov","reg":210,"pct":62.83,"elected":10},{"num":560251,"townName":"Volduchy","reg":210,"pct":36.29,"elected":3},{"num":584363,"townName":"Brumovice","reg":210,"pct":18.83,"elected":2},{"num":532029,"townName":"Žebrák","reg":210,"pct":15.14,"elected":2}],"elected":29},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":8,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":595021,"townName":"Únanov","reg":210,"pct":75.22,"elected":12},{"num":560251,"townName":"Volduchy","reg":210,"pct":49.52,"elected":5},{"num":554375,"townName":"Proskovice","reg":210,"pct":38.53,"elected":6},{"num":579645,"townName":"Rudník","reg":210,"pct":36.61,"elected":6},{"num":599743,"townName":"Petřvald","reg":210,"pct":31.73,"elected":5},{"num":541231,"townName":"Rožmitál pod Třemšínem","reg":210,"pct":25.52,"elected":6},{"num":560928,"townName":"Kladruby","reg":210,"pct":21.71,"elected":3},{"num":532029,"townName":"Žebrák","reg":210,"pct":14.88,"elected":2}],"elected":45}]}}
+{
+  "reg": 210,
+  "name": "Koalice KDU-ČSL, ODS",
+  "hash": "kdu-csl+ods",
+  "short": "KDU-ČSL+ODS",
+  "coalition": [
+    1,
+    53
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 4,
+            "reg": 210,
+            "pct": 7.35,
+            "elected": 4
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 595021,
+            "townName": "Únanov",
+            "reg": 210,
+            "pct": 56.33,
+            "elected": 9
+          },
+          {
+            "num": 584584,
+            "townName": "Krumvíř",
+            "reg": 210,
+            "pct": 30.18,
+            "elected": 5
+          },
+          {
+            "num": 562564,
+            "townName": "Jílové",
+            "reg": 210,
+            "pct": 24.5,
+            "elected": 5
+          },
+          {
+            "num": 577308,
+            "townName": "Lomnice nad Popelkou",
+            "reg": 210,
+            "pct": 19.06,
+            "elected": 3
+          },
+          {
+            "num": 563820,
+            "townName": "Tanvald",
+            "reg": 210,
+            "pct": 12.61,
+            "elected": 3
+          },
+          {
+            "num": 551210,
+            "townName": "Brno-Kníničky",
+            "reg": 210,
+            "pct": 10.1,
+            "elected": 1
+          }
+        ],
+        "elected": 26
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 595021,
+            "townName": "Únanov",
+            "reg": 210,
+            "pct": 100,
+            "elected": 15
+          },
+          {
+            "num": 577308,
+            "townName": "Lomnice nad Popelkou",
+            "reg": 210,
+            "pct": 25.13,
+            "elected": 5
+          },
+          {
+            "num": 552151,
+            "townName": "Skrbeň",
+            "reg": 210,
+            "pct": 13.34,
+            "elected": 1
+          }
+        ],
+        "elected": 21
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 594300,
+            "townName": "Kuchařovice",
+            "reg": 210,
+            "pct": 79.3,
+            "elected": 12
+          },
+          {
+            "num": 595021,
+            "townName": "Únanov",
+            "reg": 210,
+            "pct": 62.83,
+            "elected": 10
+          },
+          {
+            "num": 560251,
+            "townName": "Volduchy",
+            "reg": 210,
+            "pct": 36.29,
+            "elected": 3
+          },
+          {
+            "num": 584363,
+            "townName": "Brumovice",
+            "reg": 210,
+            "pct": 18.83,
+            "elected": 2
+          },
+          {
+            "num": 532029,
+            "townName": "Žebrák",
+            "reg": 210,
+            "pct": 15.14,
+            "elected": 2
+          }
+        ],
+        "elected": 29
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 8,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 595021,
+            "townName": "Únanov",
+            "reg": 210,
+            "pct": 75.22,
+            "elected": 12
+          },
+          {
+            "num": 560251,
+            "townName": "Volduchy",
+            "reg": 210,
+            "pct": 49.52,
+            "elected": 5
+          },
+          {
+            "num": 554375,
+            "townName": "Proskovice",
+            "reg": 210,
+            "pct": 38.53,
+            "elected": 6
+          },
+          {
+            "num": 579645,
+            "townName": "Rudník",
+            "reg": 210,
+            "pct": 36.61,
+            "elected": 6
+          },
+          {
+            "num": 599743,
+            "townName": "Petřvald",
+            "reg": 210,
+            "pct": 31.73,
+            "elected": 5
+          },
+          {
+            "num": 541231,
+            "townName": "Rožmitál pod Třemšínem",
+            "reg": 210,
+            "pct": 25.52,
+            "elected": 6
+          },
+          {
+            "num": 560928,
+            "townName": "Kladruby",
+            "reg": 210,
+            "pct": 21.71,
+            "elected": 3
+          },
+          {
+            "num": 532029,
+            "townName": "Žebrák",
+            "reg": 210,
+            "pct": 14.88,
+            "elected": 2
+          }
+        ],
+        "elected": 45
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

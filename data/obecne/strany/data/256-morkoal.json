@@ -1,1 +1,46 @@
-{"reg":256,"name":"MORAVSKÁ KOALICE","hash":"morkoal","short":"MORKOAL","coalition":[82,83],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":10,"reg":256,"pct":2.16,"elected":0},{"area":11,"reg":256,"pct":2.01,"elected":0},{"area":12,"reg":256,"pct":2.51,"elected":0}]}]}}
+{
+  "reg": 256,
+  "name": "MORAVSKÁ KOALICE",
+  "hash": "morkoal",
+  "short": "MORKOAL",
+  "coalition": [
+    82,
+    83
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 10,
+            "reg": 256,
+            "pct": 2.16,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 256,
+            "pct": 2.01,
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 256,
+            "pct": 2.51,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

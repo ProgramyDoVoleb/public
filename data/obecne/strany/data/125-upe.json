@@ -1,1 +1,58 @@
-{"reg":125,"name":"Unie pro Evropu","hash":"upe","short":"UPE","links":{"global":[],"regional":[]},"color":"#08ad91","usualCoalitionWith":[{"count":1,"reg":5}],"memberOf":[269],"activity":{"last":20001112,"list":[{"type":"senatni-volby","id":20001112,"date":20001112,"list":[{"area":11,"reg":125,"nominee":125,"candidate":["","Vladimír","Šimčík",""],"elected":false,"round1":{"pct":1.15,"progress":false}},{"area":8,"reg":125,"nominee":125,"candidate":["","Jan","Roj",""],"elected":false,"round1":{"pct":1.74,"progress":false}}]}]}}
+{
+  "reg": 125,
+  "name": "Unie pro Evropu",
+  "hash": "upe",
+  "short": "UPE",
+  "color": "#08ad91",
+  "memberOf": [
+    269
+  ],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 11,
+            "reg": 125,
+            "nominee": 125,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Šimčík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 125,
+            "nominee": 125,
+            "candidate": [
+              "",
+              "Jan",
+              "Roj",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.74,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

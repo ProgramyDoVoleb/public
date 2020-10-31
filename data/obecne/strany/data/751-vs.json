@@ -1,1 +1,66 @@
-{"reg":751,"name":"VLASTENECKÁ STRANA","hash":"vs","short":"VS","links":{"global":[],"regional":[]},"color":"#afb3fa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":5,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":562220,"townName":"Volfartice","reg":751,"pct":3.32,"elected":0},{"num":561380,"townName":"Česká Lípa","reg":751,"pct":0.78,"elected":0},{"num":562092,"townName":"Stráž pod Ralskem","reg":751,"pct":0.33,"elected":0},{"num":561835,"townName":"Mimoň","reg":751,"pct":0.12,"elected":0},{"num":562335,"townName":"Děčín","reg":751,"pct":0,"elected":0}],"elected":0}]}}
+{
+  "reg": 751,
+  "name": "VLASTENECKÁ STRANA",
+  "hash": "vs",
+  "short": "VS",
+  "color": "#afb3fa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 562220,
+            "townName": "Volfartice",
+            "reg": 751,
+            "pct": 3.32,
+            "elected": 0
+          },
+          {
+            "num": 561380,
+            "townName": "Česká Lípa",
+            "reg": 751,
+            "pct": 0.78,
+            "elected": 0
+          },
+          {
+            "num": 562092,
+            "townName": "Stráž pod Ralskem",
+            "reg": 751,
+            "pct": 0.33,
+            "elected": 0
+          },
+          {
+            "num": 561835,
+            "townName": "Mimoň",
+            "reg": 751,
+            "pct": 0.12,
+            "elected": 0
+          },
+          {
+            "num": 562335,
+            "townName": "Děčín",
+            "reg": 751,
+            "pct": 0,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

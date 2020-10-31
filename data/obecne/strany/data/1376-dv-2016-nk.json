@@ -1,1 +1,42 @@
-{"reg":1376,"name":"Sdružení DV 2016, NK","hash":"dv-2016-nk","short":"DV 2016+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":576964,"townName":"Semily","reg":1376,"pct":16.74,"elected":4}],"elected":4}]},"coalition":[80,112]}
+{
+  "reg": 1376,
+  "name": "Sdružení DV 2016, NK",
+  "hash": "dv-2016+nk",
+  "short": "DV 2016+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 576964,
+            "townName": "Semily",
+            "reg": 1376,
+            "pct": 16.74,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    112
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

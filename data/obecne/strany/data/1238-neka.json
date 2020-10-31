@@ -7,5 +7,33 @@
     "global": [],
     "regional": []
   },
-  "color": "#aaa"
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 51,
+            "reg": 1238,
+            "nominee": 1238,
+            "candidate": [
+              "Ing. Bc.",
+              "Ivana",
+              "Horká",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.93,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,1 +1,63 @@
-{"reg":341,"name":"Koalice Zelení a SOM","hash":"zeleni-som","short":"Zelení+SOM","coalition":[5,158],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551058,"townName":"Brno-Židenice","reg":341,"pct":14.18,"elected":4}],"elected":4},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551058,"townName":"Brno-Židenice","reg":341,"pct":18.63,"elected":6}],"elected":6}]}}
+{
+  "reg": 341,
+  "name": "Koalice Zelení a SOM",
+  "hash": "zeleni+som",
+  "short": "Zelení+SOM",
+  "coalition": [
+    5,
+    158
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551058,
+            "townName": "Brno-Židenice",
+            "reg": 341,
+            "pct": 14.18,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551058,
+            "townName": "Brno-Židenice",
+            "reg": 341,
+            "pct": 18.63,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

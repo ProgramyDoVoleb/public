@@ -1,1 +1,123 @@
-{"reg":739,"name":"Královopolští patrioti","hash":"kpp","short":"KPP","links":{"global":[],"regional":[]},"color":"#f1a167","usualCoalitionWith":[{"count":1,"reg":80}],"memberOf":[545],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":2},"coalitions":[545,545],"list":[],"top10":[{"num":551112,"townName":"Brno-Nový Lískovec","reg":545,"name":"Sdružení KPP, NK","coalition":[80,739],"pct":11.05,"elected":2},{"num":551007,"townName":"Brno-Královo Pole","reg":739,"pct":6.39,"elected":2},{"num":547174,"townName":"Praha 17","reg":545,"name":"Sdružení KPP, NK","coalition":[80,739],"pct":3.17,"elected":0}],"elected":4},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":1},"coalitions":[545],"list":[],"top10":[{"num":551007,"townName":"Brno-Královo Pole","reg":739,"pct":7.26,"elected":2},{"num":551112,"townName":"Brno-Nový Lískovec","reg":545,"name":"Sdružení KPP, NK","coalition":[80,739],"pct":7.1,"elected":1}],"elected":3},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551007,"townName":"Brno-Královo Pole","reg":739,"pct":8.89,"elected":2}],"elected":2}]}}
+{
+  "reg": 739,
+  "name": "Královopolští patrioti",
+  "hash": "kpp",
+  "short": "KPP",
+  "color": "#f1a167",
+  "memberOf": [
+    545
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 2
+        },
+        "coalitions": [
+          545,
+          545
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 551112,
+            "townName": "Brno-Nový Lískovec",
+            "reg": 545,
+            "name": "Sdružení KPP, NK",
+            "coalition": [
+              80,
+              739
+            ],
+            "pct": 11.05,
+            "elected": 2
+          },
+          {
+            "num": 551007,
+            "townName": "Brno-Královo Pole",
+            "reg": 739,
+            "pct": 6.39,
+            "elected": 2
+          },
+          {
+            "num": 547174,
+            "townName": "Praha 17",
+            "reg": 545,
+            "name": "Sdružení KPP, NK",
+            "coalition": [
+              80,
+              739
+            ],
+            "pct": 3.17,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 1
+        },
+        "coalitions": [
+          545
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 551007,
+            "townName": "Brno-Královo Pole",
+            "reg": 739,
+            "pct": 7.26,
+            "elected": 2
+          },
+          {
+            "num": 551112,
+            "townName": "Brno-Nový Lískovec",
+            "reg": 545,
+            "name": "Sdružení KPP, NK",
+            "coalition": [
+              80,
+              739
+            ],
+            "pct": 7.1,
+            "elected": 1
+          }
+        ],
+        "elected": 3
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551007,
+            "townName": "Brno-Královo Pole",
+            "reg": 739,
+            "pct": 8.89,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

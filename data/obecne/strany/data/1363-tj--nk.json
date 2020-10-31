@@ -1,1 +1,64 @@
-{"reg":1363,"name":"Sdružení TJ., NK","hash":"tj--nk","short":"TJ.+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":3,"coalition":0},"coalitions":[],"list":[{"num":563889,"townName":"Liberec","reg":1363,"pct":5.27,"elected":2}],"top10":[{"num":539279,"townName":"Velká Hleďsebe","reg":1363,"pct":17.99,"elected":2},{"num":554529,"townName":"Františkovy Lázně","reg":1363,"pct":15.97,"elected":2},{"num":563889,"townName":"Liberec","reg":1363,"pct":5.27,"elected":2}],"elected":6}]},"coalition":[80,118]}
+{
+  "reg": 1363,
+  "name": "Sdružení TJ., NK",
+  "hash": "tj-+nk",
+  "short": "TJ.+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 1363,
+            "pct": 5.27,
+            "elected": 2
+          }
+        ],
+        "top10": [
+          {
+            "num": 539279,
+            "townName": "Velká Hleďsebe",
+            "reg": 1363,
+            "pct": 17.99,
+            "elected": 2
+          },
+          {
+            "num": 554529,
+            "townName": "Františkovy Lázně",
+            "reg": 1363,
+            "pct": 15.97,
+            "elected": 2
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 1363,
+            "pct": 5.27,
+            "elected": 2
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    118
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

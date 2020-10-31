@@ -1,1 +1,66 @@
-{"reg":1025,"name":"Ta naše Třebíč","hash":"tnt","short":"TnT","links":{"global":[],"regional":[]},"color":"#385b38","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":590266,"townName":"Třebíč","reg":1025,"pct":5.17,"elected":1}],"elected":1}]}}
+{
+  "reg": 1025,
+  "name": "Ta naše Třebíč",
+  "hash": "tnt",
+  "short": "TnT",
+  "color": "#385b38",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 1
+        },
+        "coalitions": [
+          1319
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 1319,
+            "name": "Koalice ODS a TnT",
+            "coalition": [
+              53,
+              1025
+            ],
+            "pct": 7.25,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 1025,
+            "pct": 5.17,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

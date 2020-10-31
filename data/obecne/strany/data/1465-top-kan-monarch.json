@@ -1,0 +1,34 @@
+{
+  "reg": 1465,
+  "name": "Koalice TOP 09, KAN a Monarchiste.cz",
+  "hash": "top+kan+monarch",
+  "short": "TOP+KAN+Monarch",
+  "coalition": [
+    40,
+    55,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 9,
+            "reg": 1465,
+            "pct": 4.99,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

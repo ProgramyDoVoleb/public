@@ -1,1 +1,46 @@
-{"reg":652,"name":"Koalice pro Pardubický kraj","coalition":[1,129,181],"short":"KOALPAR1","color":"#aaa","hash":"koalpar1","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":8,"reg":652,"elected":10}]},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":8,"reg":652,"elected":9}]}]}}
+{
+  "reg": 652,
+  "name": "Koalice pro Pardubický kraj",
+  "coalition": [
+    1,
+    129,
+    181
+  ],
+  "short": "KOALPAR1",
+  "color": "#aaa",
+  "hash": "koalpar1",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 8,
+            "reg": 652,
+            "elected": 10
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 8,
+            "reg": 652,
+            "elected": 9
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

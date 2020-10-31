@@ -1,1 +1,63 @@
-{"reg":554,"name":"Sdružení Úsvit, NK","hash":"sdruzeni-usvit--nk","short":"Sdružení Úsvit, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":581283,"townName":"Blansko","reg":554,"pct":3.71,"elected":0},{"num":544256,"townName":"České Budějovice","reg":554,"pct":2.58,"elected":0},{"num":547174,"townName":"Praha 17","reg":554,"pct":2.48,"elected":0},{"num":500178,"townName":"Praha 6","reg":554,"pct":0.68,"elected":0}],"elected":0}]},"coalition":[80,792]}
+{
+  "reg": 554,
+  "name": "Sdružení Úsvit, NK",
+  "hash": "sdruzeni-usvit--nk",
+  "short": "Sdružení Úsvit, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 581283,
+            "townName": "Blansko",
+            "reg": 554,
+            "pct": 3.71,
+            "elected": 0
+          },
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 554,
+            "pct": 2.58,
+            "elected": 0
+          },
+          {
+            "num": 547174,
+            "townName": "Praha 17",
+            "reg": 554,
+            "pct": 2.48,
+            "elected": 0
+          },
+          {
+            "num": 500178,
+            "townName": "Praha 6",
+            "reg": 554,
+            "pct": 0.68,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    792
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,21 @@
-{"reg":333,"name":"Koalice rozumu a citu za pořádek v naší zemi","coalition":[20,101,137],"short":"K_ROZCIT","color":"#aaa","hash":"k_rozcit","memberOf":[],"usualCoalitionWith":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 333,
+  "name": "Koalice rozumu a citu za pořádek v naší zemi",
+  "coalition": [
+    20,
+    101,
+    137
+  ],
+  "short": "K_ROZCIT",
+  "color": "#aaa",
+  "hash": "k_rozcit",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

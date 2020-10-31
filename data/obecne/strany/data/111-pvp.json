@@ -1,1 +1,317 @@
-{"reg":111,"name":"Pravá volba pro Plzeň","hash":"pvp","short":"PVP","links":{"global":[],"regional":[]},"color":"#de382a","usualCoalitionWith":[{"count":4,"reg":80},{"count":2,"reg":724},{"count":1,"reg":790},{"count":1,"reg":785},{"count":1,"reg":166}],"memberOf":[506,1138,1170,1305,1397,1398,1414],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":0,"coalition":14},"coalitions":[1414,1138,1138,1397,1397,1398,1305,1305,1305,1138,1138,1138,1138,1305],"list":[{"num":500496,"townName":"Olomouc","reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"pct":5.57,"elected":3}],"top10":[{"num":572551,"townName":"Vysočina","reg":1397,"name":"Sdružení HOK, NK","coalition":[80,111],"pct":27.63,"elected":2},{"num":582247,"townName":"Ráječko","reg":1305,"name":"Sdružení SPD, NK","coalition":[80,111],"pct":15.47,"elected":2},{"num":585599,"townName":"Otrokovice","reg":1305,"name":"Sdružení SPD, NK","coalition":[80,111],"pct":10.36,"elected":3},{"num":571393,"townName":"Hlinsko","reg":1397,"name":"Sdružení HOK, NK","coalition":[80,111],"pct":9.86,"elected":2},{"num":536385,"townName":"Jeseník","reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"pct":6.18,"elected":2},{"num":551058,"townName":"Brno-Židenice","reg":1305,"name":"Sdružení SPD, NK","coalition":[80,111],"pct":6.11,"elected":2},{"num":500496,"townName":"Olomouc","reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"pct":5.57,"elected":3},{"num":581186,"townName":"Vysoké Mýto","reg":1398,"name":"Sdružení PRO Zdraví, HOK, NK","coalition":[80,785,111],"pct":5.18,"elected":1},{"num":588296,"townName":"Kroměříž","reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"pct":4.4,"elected":0},{"num":551074,"townName":"Brno-jih","reg":1305,"name":"Sdružení SPD, NK","coalition":[80,111],"pct":3.61,"elected":0}],"elected":17},{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":1,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":0},{"area":2,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":0},{"area":3,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":2},{"area":4,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":3},{"area":5,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":5},{"area":6,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":2},{"area":7,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":2},{"area":8,"reg":1170,"name":"Koalice SPOZ, PPL a HOK","coalition":[724,790,111],"elected":0},{"area":9,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":3},{"area":10,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":4},{"area":11,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":5},{"area":13,"reg":1138,"name":"Koalice SPOZ a SPD","coalition":[724,111],"elected":6}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":554791,"townName":"Plzeň","reg":111,"pct":2.74,"elected":0}],"top10":[{"num":546208,"townName":"Plzeň 4","reg":111,"pct":3.44,"elected":0},{"num":545970,"townName":"Plzeň 1","reg":111,"pct":3.09,"elected":0},{"num":554791,"townName":"Plzeň","reg":111,"pct":2.74,"elected":0},{"num":546003,"townName":"Plzeň 3","reg":111,"pct":2.31,"elected":0},{"num":545988,"townName":"Plzeň 2-Slovany","reg":111,"pct":2.22,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":5,"coalition":1},"coalitions":[506],"list":[{"num":554791,"townName":"Plzeň","reg":111,"pct":5.04,"elected":2}],"top10":[{"num":554766,"townName":"Plzeň 7-Radčice","reg":506,"name":"Sdružení PVP, NK","coalition":[80,111],"pct":62.95,"elected":6},{"num":546208,"townName":"Plzeň 4","reg":111,"pct":7.15,"elected":2},{"num":545970,"townName":"Plzeň 1","reg":111,"pct":6.91,"elected":2},{"num":546003,"townName":"Plzeň 3","reg":111,"pct":6.39,"elected":2},{"num":545988,"townName":"Plzeň 2-Slovany","reg":111,"pct":5.04,"elected":1},{"num":554791,"townName":"Plzeň","reg":111,"pct":5.04,"elected":2}],"elected":15},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":554791,"townName":"Plzeň","reg":111,"pct":7.98,"elected":3}],"top10":[{"num":545970,"townName":"Plzeň 1","reg":111,"pct":9.05,"elected":2},{"num":546208,"townName":"Plzeň 4","reg":111,"pct":9.02,"elected":2},{"num":554791,"townName":"Plzeň","reg":111,"pct":7.98,"elected":3},{"num":546003,"townName":"Plzeň 3","reg":111,"pct":7.46,"elected":2},{"num":545988,"townName":"Plzeň 2-Slovany","reg":111,"pct":6.11,"elected":1}],"elected":10}]}}
+{
+  "reg": 111,
+  "name": "Pravá volba pro Plzeň",
+  "hash": "pvp",
+  "short": "PVP",
+  "color": "#de382a",
+  "memberOf": [
+    506,
+    1138,
+    1170,
+    1305,
+    1397,
+    1398,
+    1414
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 0,
+          "coalition": 7
+        },
+        "coalitions": [
+          1397,
+          1397,
+          1398,
+          1305,
+          1305,
+          1305,
+          1305
+        ],
+        "list": [],
+        "top10": [
+          {
+            "num": 572551,
+            "townName": "Vysočina",
+            "reg": 1397,
+            "name": "Sdružení HOK, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 27.63,
+            "elected": 2
+          },
+          {
+            "num": 582247,
+            "townName": "Ráječko",
+            "reg": 1305,
+            "name": "Sdružení SPD, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 15.47,
+            "elected": 2
+          },
+          {
+            "num": 585599,
+            "townName": "Otrokovice",
+            "reg": 1305,
+            "name": "Sdružení SPD, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 10.36,
+            "elected": 3
+          },
+          {
+            "num": 571393,
+            "townName": "Hlinsko",
+            "reg": 1397,
+            "name": "Sdružení HOK, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 9.86,
+            "elected": 2
+          },
+          {
+            "num": 551058,
+            "townName": "Brno-Židenice",
+            "reg": 1305,
+            "name": "Sdružení SPD, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 6.11,
+            "elected": 2
+          },
+          {
+            "num": 581186,
+            "townName": "Vysoké Mýto",
+            "reg": 1398,
+            "name": "Sdružení PRO Zdraví, HOK, NK",
+            "coalition": [
+              80,
+              785,
+              111
+            ],
+            "pct": 5.18,
+            "elected": 1
+          },
+          {
+            "num": 551074,
+            "townName": "Brno-jih",
+            "reg": 1305,
+            "name": "Sdružení SPD, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 3.61,
+            "elected": 0
+          }
+        ],
+        "elected": 12
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 2.74,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 546208,
+            "townName": "Plzeň 4",
+            "reg": 111,
+            "pct": 3.44,
+            "elected": 0
+          },
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 111,
+            "pct": 3.09,
+            "elected": 0
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 2.74,
+            "elected": 0
+          },
+          {
+            "num": 546003,
+            "townName": "Plzeň 3",
+            "reg": 111,
+            "pct": 2.31,
+            "elected": 0
+          },
+          {
+            "num": 545988,
+            "townName": "Plzeň 2-Slovany",
+            "reg": 111,
+            "pct": 2.22,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 5,
+          "coalition": 1
+        },
+        "coalitions": [
+          506
+        ],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 5.04,
+            "elected": 2
+          }
+        ],
+        "top10": [
+          {
+            "num": 554766,
+            "townName": "Plzeň 7-Radčice",
+            "reg": 506,
+            "name": "Sdružení PVP, NK",
+            "coalition": [
+              80,
+              111
+            ],
+            "pct": 62.95,
+            "elected": 6
+          },
+          {
+            "num": 546208,
+            "townName": "Plzeň 4",
+            "reg": 111,
+            "pct": 7.15,
+            "elected": 2
+          },
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 111,
+            "pct": 6.91,
+            "elected": 2
+          },
+          {
+            "num": 546003,
+            "townName": "Plzeň 3",
+            "reg": 111,
+            "pct": 6.39,
+            "elected": 2
+          },
+          {
+            "num": 545988,
+            "townName": "Plzeň 2-Slovany",
+            "reg": 111,
+            "pct": 5.04,
+            "elected": 1
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 5.04,
+            "elected": 2
+          }
+        ],
+        "elected": 15
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 7.98,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 545970,
+            "townName": "Plzeň 1",
+            "reg": 111,
+            "pct": 9.05,
+            "elected": 2
+          },
+          {
+            "num": 546208,
+            "townName": "Plzeň 4",
+            "reg": 111,
+            "pct": 9.02,
+            "elected": 2
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 111,
+            "pct": 7.98,
+            "elected": 3
+          },
+          {
+            "num": 546003,
+            "townName": "Plzeň 3",
+            "reg": 111,
+            "pct": 7.46,
+            "elected": 2
+          },
+          {
+            "num": 545988,
+            "townName": "Plzeň 2-Slovany",
+            "reg": 111,
+            "pct": 6.11,
+            "elected": 1
+          }
+        ],
+        "elected": 10
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

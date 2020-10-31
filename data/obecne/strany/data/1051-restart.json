@@ -1,1 +1,38 @@
-{"reg":1051,"name":"RESTART","hash":"restart","short":"RESTART","links":{"global":[],"regional":[]},"color":"#3629ef","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":550094,"townName":"Prachatice","reg":1051,"pct":3.47,"elected":0}],"elected":0}]}}
+{
+  "reg": 1051,
+  "name": "RESTART",
+  "hash": "restart",
+  "short": "RESTART",
+  "color": "#3629ef",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 550094,
+            "townName": "Prachatice",
+            "reg": 1051,
+            "pct": 3.47,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,288 @@
-{"reg":1125,"name":"Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka","hash":"sprrsc-m-sladka","short":"SPRRSČ M.Sládka","links":{"global":[],"regional":[]},"logo":"/obecne/strany/loga/1125-spr-rsc.jpg","color":"#1681be","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20190524,"list":[{"type":"evropske-volby","id":2019,"date":20190524,"reg":1125,"pct":0.18,"elected":0},{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":3,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1125,"pct":0.01,"elected":0}],"top10":[{"num":550647,"townName":"Vimperk","reg":1125,"pct":0.96,"elected":0},{"num":539911,"townName":"Příbram","reg":1125,"pct":0.02,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":1125,"pct":0.01,"elected":0}],"elected":0},{"type":"snemovni-volby","id":2017,"date":20171020,"reg":1125,"pct":0.19,"elected":0},{"type":"senatni-volby","id":20161007,"date":20161007,"list":[{"area":64,"reg":1125,"nominee":1125,"candidate":["PhDr.","Miroslav","Sládek",""],"elected":false,"round1":{"pct":3.27,"progress":false}}]}]}}
+{
+  "reg": 1125,
+  "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
+  "hash": "sprrsc-m-sladka",
+  "short": "SPRRSČ M.Sládka",
+  "logo": "/obecne/strany/loga/1125-spr-rsc.jpg",
+  "color": "#1681be",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 30,
+            "reg": 1125,
+            "nominee": 1116,
+            "candidate": [
+              "",
+              "Michal",
+              "Oliva",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.39,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1125,
+        "pct": 0.18,
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 3,
+          "coalition": 1
+        },
+        "coalitions": [
+          1381
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1125,
+            "pct": 0.01,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 530841,
+            "townName": "Týnec nad Sázavou",
+            "reg": 1381,
+            "name": "Koalice DSSS a SPR-RSČ Miroslava Sládka",
+            "coalition": [
+              156,
+              1125
+            ],
+            "pct": 3.62,
+            "elected": 0
+          },
+          {
+            "num": 550647,
+            "townName": "Vimperk",
+            "reg": 1125,
+            "pct": 0.96,
+            "elected": 0
+          },
+          {
+            "num": 539911,
+            "townName": "Příbram",
+            "reg": 1125,
+            "pct": 0.02,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1125,
+            "pct": 0.01,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2017,
+        "date": 20171020,
+        "reg": 1125,
+        "pct": 0.19,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 64,
+            "reg": 1125,
+            "nominee": 1125,
+            "candidate": [
+              "PhDr.",
+              "Miroslav",
+              "Sládek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.27,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 1,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 2,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 4,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 1168,
+            "name": "Koalice Republikánů Miroslava Sládka, Patriotů České republiky, HOZK a Nového směru",
+            "coalition": [
+              772,
+              793,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 1139,
+            "name": "Ilegálním imigrantům NE - peníze raději pro naše děti",
+            "coalition": [
+              772,
+              1004,
+              1125
+            ],
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

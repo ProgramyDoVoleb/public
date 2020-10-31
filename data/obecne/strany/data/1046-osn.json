@@ -1,1 +1,87 @@
-{"reg":1046,"name":"OBČANÉ SPOLU - NEZÁVISLÍ","hash":"osn","short":"\"OSN\"","links":{"global":[],"regional":[]},"color":"#6b620e","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":569631,"townName":"Sviadnov","reg":1046,"pct":7.12,"elected":1},{"num":598003,"townName":"Frýdek-Místek","reg":1046,"pct":2.87,"elected":0}],"elected":1},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":598003,"townName":"Frýdek-Místek","reg":1046,"pct":4.53,"elected":0},{"num":552739,"townName":"Horní Suchá","reg":1046,"pct":2.4,"elected":0},{"num":569631,"townName":"Sviadnov","reg":1046,"pct":1.46,"elected":0},{"num":598143,"townName":"Frýdlant nad Ostravicí","reg":1046,"pct":0.23,"elected":0}],"elected":0}]}}
+{
+  "reg": 1046,
+  "name": "OBČANÉ SPOLU - NEZÁVISLÍ",
+  "hash": "\"osn\"",
+  "short": "\"OSN\"",
+  "color": "#6b620e",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 569631,
+            "townName": "Sviadnov",
+            "reg": 1046,
+            "pct": 7.12,
+            "elected": 1
+          },
+          {
+            "num": 598003,
+            "townName": "Frýdek-Místek",
+            "reg": 1046,
+            "pct": 2.87,
+            "elected": 0
+          }
+        ],
+        "elected": 1
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 598003,
+            "townName": "Frýdek-Místek",
+            "reg": 1046,
+            "pct": 4.53,
+            "elected": 0
+          },
+          {
+            "num": 552739,
+            "townName": "Horní Suchá",
+            "reg": 1046,
+            "pct": 2.4,
+            "elected": 0
+          },
+          {
+            "num": 569631,
+            "townName": "Sviadnov",
+            "reg": 1046,
+            "pct": 1.46,
+            "elected": 0
+          },
+          {
+            "num": 598143,
+            "townName": "Frýdlant nad Ostravicí",
+            "reg": 1046,
+            "pct": 0.23,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

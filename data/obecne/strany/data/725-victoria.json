@@ -1,1 +1,53 @@
-{"reg":725,"name":"Victoria.cz","hash":"victoria","short":"Victoria","links":{"global":[],"regional":[]},"color":"#c35206","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":725,"pct":2.42,"elected":0}],"top10":[{"num":560286,"townName":"Sokolov","reg":725,"pct":3.49,"elected":0},{"num":554961,"townName":"Karlovy Vary","reg":725,"pct":2.42,"elected":0}],"elected":0}]}}
+{
+  "reg": 725,
+  "name": "Victoria.cz",
+  "hash": "victoria",
+  "short": "Victoria",
+  "color": "#c35206",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 725,
+            "pct": 2.42,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 560286,
+            "townName": "Sokolov",
+            "reg": 725,
+            "pct": 3.49,
+            "elected": 0
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 725,
+            "pct": 2.42,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

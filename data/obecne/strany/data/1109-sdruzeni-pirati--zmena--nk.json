@@ -1,1 +1,43 @@
-{"reg":1109,"name":"Sdružení Piráti, Změna, NK","hash":"sdruzeni-pirati--zmena--nk","short":"Sdružení Piráti, Změna, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":593711,"townName":"Znojmo","reg":1109,"pct":8.58,"elected":3}],"elected":3}]},"coalition":[80,720,771]}
+{
+  "reg": 1109,
+  "name": "Sdružení Piráti, Změna, NK",
+  "hash": "sdruzeni-pirati--zmena--nk",
+  "short": "Sdružení Piráti, Změna, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 593711,
+            "townName": "Znojmo",
+            "reg": 1109,
+            "pct": 8.58,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    720,
+    771
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,46 @@
-{"reg":151,"name":"Helax - Ostrava se baví","hash":"hob","short":"HOB","links":{"global":[],"regional":[]},"color":"#dfea81","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20060603,"list":[{"type":"snemovni-volby","id":2006,"date":20060603,"reg":151,"pct":0.02,"elected":0},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":13,"reg":151,"pct":0.11,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":151,"pct":0.14,"elected":0}]}}
+{
+  "reg": 151,
+  "name": "Helax - Ostrava se baví",
+  "hash": "hob",
+  "short": "HOB",
+  "color": "#dfea81",
+  "memberOf": [],
+  "activity": {
+    "last": 20060603,
+    "list": [
+      {
+        "type": "snemovni-volby",
+        "id": 2006,
+        "date": 20060603,
+        "reg": 151,
+        "pct": 0.02,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 13,
+            "reg": 151,
+            "pct": 0.11,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 151,
+        "pct": 0.14,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

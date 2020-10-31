@@ -1,1 +1,20 @@
-{"reg":246,"name":"Koalice SŽJ, CAO","hash":"koalice-szj--cao","short":"Koalice SŽJ, CAO","coalition":[20,25],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 246,
+  "name": "Koalice SŽJ, CAO",
+  "hash": "koalice-szj--cao",
+  "short": "Koalice SŽJ, CAO",
+  "coalition": [
+    20,
+    25
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

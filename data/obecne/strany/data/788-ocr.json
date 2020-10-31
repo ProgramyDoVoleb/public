@@ -1,1 +1,103 @@
-{"reg":788,"name":"Občané České republiky","hash":"ocr","short":"OČR","links":{"global":[],"regional":[]},"color":"#e3390f","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"senatni-volby","id":20181005,"date":20181005,"list":[{"area":32,"reg":788,"nominee":788,"candidate":["","Josef","Barta",""],"elected":false,"round1":{"pct":1.42,"progress":false}}]},{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":4,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":568058,"townName":"Libouchec","reg":788,"pct":44.35,"elected":7},{"num":567850,"townName":"Újezdeček","reg":788,"pct":26.79,"elected":2},{"num":567175,"townName":"Horní Jiřetín","reg":788,"pct":8.27,"elected":1},{"num":563129,"townName":"Klášterec nad Ohří","reg":788,"pct":4.07,"elected":0}],"elected":10},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":568058,"townName":"Libouchec","reg":788,"pct":30.46,"elected":5}],"elected":5}]}}
+{
+  "reg": 788,
+  "name": "Občané České republiky",
+  "hash": "ocr",
+  "short": "OČR",
+  "color": "#e3390f",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 32,
+            "reg": 788,
+            "nominee": 788,
+            "candidate": [
+              "",
+              "Josef",
+              "Barta",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.42,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 568058,
+            "townName": "Libouchec",
+            "reg": 788,
+            "pct": 44.35,
+            "elected": 7
+          },
+          {
+            "num": 567850,
+            "townName": "Újezdeček",
+            "reg": 788,
+            "pct": 26.79,
+            "elected": 2
+          },
+          {
+            "num": 567175,
+            "townName": "Horní Jiřetín",
+            "reg": 788,
+            "pct": 8.27,
+            "elected": 1
+          },
+          {
+            "num": 563129,
+            "townName": "Klášterec nad Ohří",
+            "reg": 788,
+            "pct": 4.07,
+            "elected": 0
+          }
+        ],
+        "elected": 10
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 568058,
+            "townName": "Libouchec",
+            "reg": 788,
+            "pct": 30.46,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "reg": 1453,
+  "name": "Koalice DSSS a ČiKR",
+  "hash": "dsss+cikr",
+  "short": "DSSS+ČiKR",
+  "coalition": [
+    156,
+    1021
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1453,
+            "pct": 0.51,
+            "elected": 0
+          },
+          {
+            "area": 4,
+            "reg": 1453,
+            "pct": 0.27,
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 1453,
+            "pct": 0.63,
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 1453,
+            "pct": 0.25,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 1453,
+            "pct": 0.11,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

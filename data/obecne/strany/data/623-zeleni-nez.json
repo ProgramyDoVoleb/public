@@ -1,1 +1,63 @@
-{"reg":623,"name":"Koalice Zelení a NEZ","hash":"zeleni-nez","short":"Zelení+NEZ","coalition":[5,88],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":555088,"townName":"Havířov","reg":623,"pct":3.87,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":581186,"townName":"Vysoké Mýto","reg":623,"pct":7.68,"elected":1}],"elected":1}]}}
+{
+  "reg": 623,
+  "name": "Koalice Zelení a NEZ",
+  "hash": "zeleni+nez",
+  "short": "Zelení+NEZ",
+  "coalition": [
+    5,
+    88
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 555088,
+            "townName": "Havířov",
+            "reg": 623,
+            "pct": 3.87,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 581186,
+            "townName": "Vysoké Mýto",
+            "reg": 623,
+            "pct": 7.68,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

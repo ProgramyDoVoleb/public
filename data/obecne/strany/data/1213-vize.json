@@ -1,1 +1,40 @@
-{"reg":1213,"name":"VIZE pro Česko","hash":"vize","short":"VIZE","links":{"global":[],"regional":[]},"color":"#ba9de9","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20190405,"list":[{"type":"senatni-volby","id":20190405,"date":20190405,"list":[{"area":24,"reg":1213,"nominee":1213,"candidate":["Mgr.","Libor","Michálek",""],"elected":false,"round1":{"pct":5.87,"progress":false}}]}]}}
+{
+  "reg": 1213,
+  "name": "VIZE pro Česko",
+  "hash": "vize",
+  "short": "VIZE",
+  "color": "#ba9de9",
+  "memberOf": [],
+  "activity": {
+    "last": 20190405,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20190405,
+        "date": 20190405,
+        "list": [
+          {
+            "area": 24,
+            "reg": 1213,
+            "nominee": 1213,
+            "candidate": [
+              "Mgr.",
+              "Libor",
+              "Michálek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.87,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

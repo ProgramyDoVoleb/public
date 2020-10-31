@@ -1,1 +1,33 @@
-{"reg":581,"name":"Koalice SNK ED a Starostové","hash":"snk-ed-starost-","short":"SNK ED+Starost.","coalition":[129,142],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":5,"reg":581,"elected":0}]}]}}
+{
+  "reg": 581,
+  "name": "Koalice SNK ED a Starostové",
+  "hash": "snk-ed+starost-",
+  "short": "SNK ED+Starost.",
+  "coalition": [
+    129,
+    142
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 5,
+            "reg": 581,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

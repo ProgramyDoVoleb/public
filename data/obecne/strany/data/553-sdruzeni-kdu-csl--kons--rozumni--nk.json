@@ -1,0 +1,44 @@
+{
+  "reg": 553,
+  "name": "Sdružení KDU-ČSL, KONS, Rozumní, NK",
+  "hash": "sdruzeni-kdu-csl--kons--rozumni--nk",
+  "short": "Sdružení KDU-ČSL, KONS, Rozumní, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547107,
+            "townName": "Praha 12",
+            "reg": 553,
+            "pct": 16.54,
+            "elected": 7
+          }
+        ],
+        "elected": 7
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    24,
+    80,
+    137
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

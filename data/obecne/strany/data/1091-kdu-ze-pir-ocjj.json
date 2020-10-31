@@ -1,1 +1,52 @@
-{"reg":1091,"name":"Koalice KDU-ČSL, Zelení, Piráti a OCJJ","hash":"kdu-ze-pir-ocjj","short":"KDU+Ze+Pir+OCJJ","coalition":[1,5,720,743],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":1091,"pct":7.42,"elected":3}],"top10":[{"num":554961,"townName":"Karlovy Vary","reg":1091,"pct":7.42,"elected":3}],"elected":3}]}}
+{
+  "reg": 1091,
+  "name": "Koalice KDU-ČSL, Zelení, Piráti a OCJJ",
+  "hash": "kdu+ze+pir+ocjj",
+  "short": "KDU+Ze+Pir+OCJJ",
+  "coalition": [
+    1,
+    5,
+    720,
+    743
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1091,
+            "pct": 7.42,
+            "elected": 3
+          }
+        ],
+        "top10": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1091,
+            "pct": 7.42,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

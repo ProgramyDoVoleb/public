@@ -1,1 +1,141 @@
-{"reg":454,"name":"Sdružení NEZ/DEM, NK","hash":"sdruzeni-nez-dem--nk","short":"Sdružení NEZ/DEM, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":523704,"townName":"Šumperk","reg":454,"pct":1.94,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":10,"coalition":0},"coalitions":[],"list":[{"num":569810,"townName":"Hradec Králové","reg":454,"pct":1.11,"elected":0},{"num":554821,"townName":"Ostrava","reg":454,"pct":0.48,"elected":0}],"top10":[{"num":576671,"townName":"Potštejn","reg":454,"pct":36.88,"elected":4},{"num":509612,"townName":"Otice","reg":454,"pct":21.59,"elected":3},{"num":572926,"townName":"Hořice","reg":454,"pct":9.84,"elected":2},{"num":597520,"townName":"Krnov","reg":454,"pct":5.61,"elected":1},{"num":511021,"townName":"Vítkov","reg":454,"pct":4.64,"elected":0},{"num":505927,"townName":"Opava","reg":454,"pct":4.18,"elected":0},{"num":507580,"townName":"Kravaře","reg":454,"pct":3.57,"elected":0},{"num":544256,"townName":"České Budějovice","reg":454,"pct":3.4,"elected":0},{"num":569810,"townName":"Hradec Králové","reg":454,"pct":1.11,"elected":0},{"num":554821,"townName":"Ostrava","reg":454,"pct":0.48,"elected":0}],"elected":10}]},"coalition":[80,172]}
+{
+  "reg": 454,
+  "name": "Sdružení NEZ/DEM, NK",
+  "hash": "sdruzeni-nez/dem--nk",
+  "short": "Sdružení NEZ/DEM, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 523704,
+            "townName": "Šumperk",
+            "reg": 454,
+            "pct": 1.94,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 10,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 454,
+            "pct": 1.11,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 454,
+            "pct": 0.48,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 576671,
+            "townName": "Potštejn",
+            "reg": 454,
+            "pct": 36.88,
+            "elected": 4
+          },
+          {
+            "num": 509612,
+            "townName": "Otice",
+            "reg": 454,
+            "pct": 21.59,
+            "elected": 3
+          },
+          {
+            "num": 572926,
+            "townName": "Hořice",
+            "reg": 454,
+            "pct": 9.84,
+            "elected": 2
+          },
+          {
+            "num": 597520,
+            "townName": "Krnov",
+            "reg": 454,
+            "pct": 5.61,
+            "elected": 1
+          },
+          {
+            "num": 511021,
+            "townName": "Vítkov",
+            "reg": 454,
+            "pct": 4.64,
+            "elected": 0
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 454,
+            "pct": 4.18,
+            "elected": 0
+          },
+          {
+            "num": 507580,
+            "townName": "Kravaře",
+            "reg": 454,
+            "pct": 3.57,
+            "elected": 0
+          },
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 454,
+            "pct": 3.4,
+            "elected": 0
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 454,
+            "pct": 1.11,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 454,
+            "pct": 0.48,
+            "elected": 0
+          }
+        ],
+        "elected": 10
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    172
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

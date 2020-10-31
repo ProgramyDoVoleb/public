@@ -1,1 +1,16 @@
-{"reg":94,"name":"Česká volba","hash":"cv","short":"ČV","links":{"global":[],"regional":[]},"color":"#e87642","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 94,
+  "name": "Česká volba",
+  "hash": "cv",
+  "short": "ČV",
+  "color": "#e87642",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

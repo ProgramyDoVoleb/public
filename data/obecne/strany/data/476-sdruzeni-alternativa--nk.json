@@ -1,1 +1,204 @@
-{"reg":476,"name":"Sdružení ALTERNATIVA, NK","hash":"sdruzeni-alternativa--nk","short":"Sdružení ALTERNATIVA, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":12,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":560561,"townName":"Nová Ves","reg":476,"pct":79.65,"elected":4},{"num":554600,"townName":"Lázně Kynžvart","reg":476,"pct":24.42,"elected":2},{"num":531995,"townName":"Zaječov","reg":476,"pct":20.84,"elected":2},{"num":560162,"townName":"Strašice","reg":476,"pct":19.94,"elected":3},{"num":539279,"townName":"Velká Hleďsebe","reg":476,"pct":17.11,"elected":2},{"num":554481,"townName":"Cheb","reg":476,"pct":16.82,"elected":6},{"num":554529,"townName":"Františkovy Lázně","reg":476,"pct":14.55,"elected":2},{"num":540765,"townName":"Mníšek pod Brdy","reg":476,"pct":9.39,"elected":1},{"num":556637,"townName":"Měčín","reg":476,"pct":9.09,"elected":1},{"num":538060,"townName":"Praha-Běchovice","reg":476,"pct":8.57,"elected":1}],"elected":27},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":17,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":476,"pct":10.98,"elected":5},{"num":569810,"townName":"Hradec Králové","reg":476,"pct":12.51,"elected":5}],"top10":[{"num":531995,"townName":"Zaječov","reg":476,"pct":64.43,"elected":7},{"num":560561,"townName":"Nová Ves","reg":476,"pct":59.02,"elected":3},{"num":556947,"townName":"Pila","reg":476,"pct":42.68,"elected":3},{"num":555258,"townName":"Kolová","reg":476,"pct":30.08,"elected":3},{"num":555398,"townName":"Nová Role","reg":476,"pct":22.02,"elected":4},{"num":560162,"townName":"Strašice","reg":476,"pct":18.48,"elected":3},{"num":555614,"townName":"Šemnice","reg":476,"pct":17.62,"elected":1},{"num":580511,"townName":"Lanškroun","reg":476,"pct":15.75,"elected":4},{"num":555380,"townName":"Nejdek","reg":476,"pct":13.95,"elected":2},{"num":569810,"townName":"Hradec Králové","reg":476,"pct":12.51,"elected":5}],"elected":45}]},"coalition":[80,702]}
+{
+  "reg": 476,
+  "name": "Sdružení ALTERNATIVA, NK",
+  "hash": "sdruzeni-alternativa--nk",
+  "short": "Sdružení ALTERNATIVA, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 12,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 560561,
+            "townName": "Nová Ves",
+            "reg": 476,
+            "pct": 79.65,
+            "elected": 4
+          },
+          {
+            "num": 554600,
+            "townName": "Lázně Kynžvart",
+            "reg": 476,
+            "pct": 24.42,
+            "elected": 2
+          },
+          {
+            "num": 531995,
+            "townName": "Zaječov",
+            "reg": 476,
+            "pct": 20.84,
+            "elected": 2
+          },
+          {
+            "num": 560162,
+            "townName": "Strašice",
+            "reg": 476,
+            "pct": 19.94,
+            "elected": 3
+          },
+          {
+            "num": 539279,
+            "townName": "Velká Hleďsebe",
+            "reg": 476,
+            "pct": 17.11,
+            "elected": 2
+          },
+          {
+            "num": 554481,
+            "townName": "Cheb",
+            "reg": 476,
+            "pct": 16.82,
+            "elected": 6
+          },
+          {
+            "num": 554529,
+            "townName": "Františkovy Lázně",
+            "reg": 476,
+            "pct": 14.55,
+            "elected": 2
+          },
+          {
+            "num": 540765,
+            "townName": "Mníšek pod Brdy",
+            "reg": 476,
+            "pct": 9.39,
+            "elected": 1
+          },
+          {
+            "num": 556637,
+            "townName": "Měčín",
+            "reg": 476,
+            "pct": 9.09,
+            "elected": 1
+          },
+          {
+            "num": 538060,
+            "townName": "Praha-Běchovice",
+            "reg": 476,
+            "pct": 8.57,
+            "elected": 1
+          }
+        ],
+        "elected": 27
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 17,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 476,
+            "pct": 10.98,
+            "elected": 5
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 476,
+            "pct": 12.51,
+            "elected": 5
+          }
+        ],
+        "top10": [
+          {
+            "num": 531995,
+            "townName": "Zaječov",
+            "reg": 476,
+            "pct": 64.43,
+            "elected": 7
+          },
+          {
+            "num": 560561,
+            "townName": "Nová Ves",
+            "reg": 476,
+            "pct": 59.02,
+            "elected": 3
+          },
+          {
+            "num": 556947,
+            "townName": "Pila",
+            "reg": 476,
+            "pct": 42.68,
+            "elected": 3
+          },
+          {
+            "num": 555258,
+            "townName": "Kolová",
+            "reg": 476,
+            "pct": 30.08,
+            "elected": 3
+          },
+          {
+            "num": 555398,
+            "townName": "Nová Role",
+            "reg": 476,
+            "pct": 22.02,
+            "elected": 4
+          },
+          {
+            "num": 560162,
+            "townName": "Strašice",
+            "reg": 476,
+            "pct": 18.48,
+            "elected": 3
+          },
+          {
+            "num": 555614,
+            "townName": "Šemnice",
+            "reg": 476,
+            "pct": 17.62,
+            "elected": 1
+          },
+          {
+            "num": 580511,
+            "townName": "Lanškroun",
+            "reg": 476,
+            "pct": 15.75,
+            "elected": 4
+          },
+          {
+            "num": 555380,
+            "townName": "Nejdek",
+            "reg": 476,
+            "pct": 13.95,
+            "elected": 2
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 476,
+            "pct": 12.51,
+            "elected": 5
+          }
+        ],
+        "elected": 45
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    702
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

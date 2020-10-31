@@ -2,12 +2,24 @@ const fs = require('fs');
 const util = require('util')
 
 function writeJSON (json, file) {
-  fs.writeFile(file, JSON.stringify(json), function(err) {
+  fs.writeFile(file, JSON.stringify(json, null, 2), function(err) {
 
       if(err) {
           return console.log(err);
       }
   });
+}
+
+function betterURL (url) {
+  var newURL = url;
+
+  var repl = [[' ', '-'],['.', '-'],[',', '-'],['–', '-'],['?', ''],['!', ''],['(', ''],[')', ''],['á', 'a'],['č', 'c'],['ď', 'd'],['é', 'e'],['ě', 'e'],['í', 'i'],['ľ', 'l'],['ň', 'n'],['ó', 'o'],['ř', 'r'],['š', 's'],['ť', 't'],['ú', 'u'],['ů', 'u'],['ý', 'y'],['ž', 'z']];
+
+  newURL = newURL.toLowerCase();
+
+  repl.forEach(r => newURL = newURL.split(r[0]).join(r[1]));
+
+  return newURL;
 }
 
 var main = JSON.parse(fs.readFileSync("../data/obecne/strany.json"));
@@ -25,12 +37,18 @@ parties.forEach(party => {
     last: 0,
     list: []
   }
+
+  if (!isNaN(Number(party.short))) {
+    party.short = party.name;
+    party.hash = betterURL(party.name);
+  }
+
 });
 
 elec.forEach(type => {
   if (['snemovni-volby', 'evropske-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
-      var results = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json")).parties;
+      var results = JSON.parse(fs.readFileSync("../data/" + el.path + "/vysledky.json")).parties;
 
       results.forEach(result => {
         var party = parties.find(p => p.reg === result.reg);
@@ -70,7 +88,7 @@ elec.forEach(type => {
 
   if (['krajske-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
-      var results = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json"));
+      var results = JSON.parse(fs.readFileSync("../data/" + el.path + "/vysledky.json"));
       results.forEach(area => {
         area.parties.forEach(result => {
           var party = parties.find(p => p.reg === result.reg);
@@ -122,8 +140,8 @@ elec.forEach(type => {
 
   if (['prezidentske-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
-      var results = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json"));
-      var candidates = JSON.parse(fs.readFileSync("../" + el.path + "/kandidati.json")).list;
+      var results = JSON.parse(fs.readFileSync("../data/" + el.path + "/vysledky.json"));
+      var candidates = JSON.parse(fs.readFileSync("../data/" + el.path + "/kandidati.json")).list;
 
       candidates.forEach(candidate => {
         var obj = {
@@ -210,14 +228,14 @@ elec.forEach(type => {
   if (['senatni-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
       try {
-      var resultsAll = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json"));
-      var candidatesAll = JSON.parse(fs.readFileSync("../" + el.path + "/kandidati.json")).list;
+      var resultsAll = JSON.parse(fs.readFileSync("../data/" + el.path + "/vysledky.json"));
+      var candidatesAll = JSON.parse(fs.readFileSync("../data/" + el.path + "/kandidati.json")).list;
 
       resultsAll.areas.forEach(results => {
         var candidates = [];
 
         results.round1.candidates.forEach(cand => {
-          candidates.push(candidatesAll.find(c => c.id === cand.id && c.reg === results.id));
+          candidates.push(candidatesAll.find(c => (c.id || c.no) === (cand.id || cand.no) && c.reg === results.id));
         });
 
         candidates.forEach(candidate => {
@@ -225,11 +243,14 @@ elec.forEach(type => {
             name: candidate.name,
             member: candidate.member,
             nominee: candidate.nominee || candidate.nominee,
+            party: candidate.party ? candidate.party.reg :  candidate.member,
             elected: false
           }
 
+          if (candidate.party) console.log(candidate.party.reg, candidate.name);
+
           if (results.round1) {
-            var res = results.round1.candidates.find(c => c.id === candidate.id);
+            var res = results.round1.candidates.find(c => c.id === (candidate.id || candidate.no));
 
             if (res) {
               obj.round1 = {
@@ -244,7 +265,7 @@ elec.forEach(type => {
           }
 
           if (results.round2) {
-            var res = results.round2.candidates.find(c => c.id === candidate.id);
+            var res = results.round2.candidates.find(c => c.id === (candidate.id || candidate.no));
 
             if (res) {
               obj.round2 = {
@@ -262,6 +283,10 @@ elec.forEach(type => {
 
           if (!party) {
             party = parties.find(p => p.reg === obj.nominee);
+          }
+
+          if (!party) {
+            party = parties.find(p => p.reg === obj.party);
           }
 
           if (party) {
@@ -306,6 +331,8 @@ elec.forEach(type => {
                 round2: obj.round2
               })
             });
+          } else {
+            console.log('cannot add to party, none selected')
           }
         });
       });
@@ -317,7 +344,7 @@ elec.forEach(type => {
 
   if (['komunalni-volby'].indexOf(type.hash) > -1) {
     type.list.forEach(el => {
-      var districts = JSON.parse(fs.readFileSync("../" + el.path + "/vysledky.json")).list;
+      var districts = JSON.parse(fs.readFileSync("../data/" + el.path + "/vysledky.json")).list;
 
       districts.forEach(district => {
 
@@ -413,23 +440,23 @@ parties.forEach(party => {
 
 parties.forEach(party => {
 
-  var file = "../data/obecne/strany/data/" + party.reg + "-" + party.hash + ".json";
+  var file = "../data/obecne/strany/data/" + party.reg + "-" + party.hash.split('+').join('-').split('/').join('-').split('"').join('') + ".json";
 
   try {
-    o = JSON.parse(fs.readFileSync(file));
+    // o = JSON.parse(fs.readFileSync(file));
 
-    o.activity = party.activity;
+    // o.activity = party.activity;
 
-    writeJSON(o, file);
+    writeJSON(party, file);
 
-    o.activity.list = undefined;
+    // o.activity.list = undefined;
 
   } catch (e) {
     console.log(e);
   }
 });
 
-writeJSON(main, "../data/obecne/strany.json");
+// writeJSON(main, "../data/obecne/strany.json");
 
 var check = parties.find(p => p.reg === 53);
 

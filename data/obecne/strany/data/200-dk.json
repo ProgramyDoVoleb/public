@@ -1,1 +1,93 @@
-{"reg":200,"name":"Demokracie","hash":"dk","short":"DK","links":{"global":[],"regional":[]},"color":"#403e68","usualCoalitionWith":[{"count":1,"reg":24},{"count":1,"reg":40},{"count":1,"reg":68},{"count":1,"reg":159},{"count":1,"reg":706}],"memberOf":[678],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":507504,"townName":"Kobeřice","reg":200,"pct":22.57,"elected":4}],"elected":4},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":585068,"townName":"Zlín","reg":200,"pct":0.03,"elected":0}],"top10":[{"num":507504,"townName":"Kobeřice","reg":200,"pct":27.68,"elected":5},{"num":585068,"townName":"Zlín","reg":200,"pct":0.03,"elected":0}],"elected":5},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":8,"reg":200,"elected":0},{"area":13,"reg":200,"elected":0}]}]}}
+{
+  "reg": 200,
+  "name": "Demokracie",
+  "hash": "dk",
+  "short": "DK",
+  "color": "#403e68",
+  "memberOf": [
+    678
+  ],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 507504,
+            "townName": "Kobeřice",
+            "reg": 200,
+            "pct": 22.57,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 200,
+            "pct": 0.03,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 507504,
+            "townName": "Kobeřice",
+            "reg": 200,
+            "pct": 27.68,
+            "elected": 5
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 200,
+            "pct": 0.03,
+            "elected": 0
+          }
+        ],
+        "elected": 5
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 8,
+            "reg": 200,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 200,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

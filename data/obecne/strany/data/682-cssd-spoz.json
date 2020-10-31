@@ -1,1 +1,63 @@
-{"reg":682,"name":"Koalice ČSSD a SPOZ","hash":"cssd-spoz","short":"ČSSD+SPOZ","coalition":[7,724],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":581186,"townName":"Vysoké Mýto","reg":682,"pct":16.31,"elected":4}],"elected":4},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":538574,"townName":"Odolena Voda","reg":682,"pct":23.65,"elected":4}],"elected":4}]}}
+{
+  "reg": 682,
+  "name": "Koalice ČSSD a SPOZ",
+  "hash": "cssd+spoz",
+  "short": "ČSSD+SPOZ",
+  "coalition": [
+    7,
+    724
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 581186,
+            "townName": "Vysoké Mýto",
+            "reg": 682,
+            "pct": 16.31,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 538574,
+            "townName": "Odolena Voda",
+            "reg": 682,
+            "pct": 23.65,
+            "elected": 4
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "reg": 687,
+  "name": "Koalice TOP 09 a ODS",
+  "hash": "ods+top-09",
+  "short": "ODS+TOP 09",
+  "coalition": [
+    53,
+    721
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 687,
+            "pct": 21.23,
+            "elected": 11
+          },
+          {
+            "area": 8,
+            "reg": 687,
+            "pct": 14.1,
+            "elected": 8
+          },
+          {
+            "area": 13,
+            "reg": 687,
+            "pct": 13.84,
+            "elected": 10
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 572268,
+            "townName": "Slatiňany",
+            "reg": 687,
+            "pct": 21.96,
+            "elected": 5
+          },
+          {
+            "num": 569569,
+            "townName": "Světlá nad Sázavou",
+            "reg": 687,
+            "pct": 10.73,
+            "elected": 2
+          },
+          {
+            "num": 599107,
+            "townName": "Rychvald",
+            "reg": 687,
+            "pct": 9.82,
+            "elected": 1
+          }
+        ],
+        "elected": 8
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 559822,
+            "townName": "Hrádek",
+            "reg": 687,
+            "pct": 14.54,
+            "elected": 2
+          },
+          {
+            "num": 534951,
+            "townName": "Kralupy nad Vltavou",
+            "reg": 687,
+            "pct": 12.38,
+            "elected": 3
+          },
+          {
+            "num": 569569,
+            "townName": "Světlá nad Sázavou",
+            "reg": 687,
+            "pct": 8.37,
+            "elected": 1
+          },
+          {
+            "num": 599140,
+            "townName": "Stonava",
+            "reg": 687,
+            "pct": 8.21,
+            "elected": 0
+          },
+          {
+            "num": 544281,
+            "townName": "Borovany",
+            "reg": 687,
+            "pct": 7.93,
+            "elected": 1
+          }
+        ],
+        "elected": 7
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 542580,
+            "townName": "Obora",
+            "reg": 687,
+            "pct": 42.79,
+            "elected": 3
+          },
+          {
+            "num": 546941,
+            "townName": "Dobšice",
+            "reg": 687,
+            "pct": 13.52,
+            "elected": 2
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -7,5 +7,28 @@
     "global": [],
     "regional": []
   },
-  "color": "#aaa"
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 11,
+            "reg": 1442,
+            "name": "Koalice ČSSD a POK",
+            "coalition": [
+              7,
+              1230
+            ],
+            "pct": 4.82,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
 }

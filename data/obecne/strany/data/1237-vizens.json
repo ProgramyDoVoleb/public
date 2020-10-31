@@ -7,5 +7,29 @@
     "global": [],
     "regional": []
   },
-  "color": "#aaa"
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 2,
+            "reg": 1237,
+            "pct": 0.07,
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 1237,
+            "pct": 0.12,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
 }

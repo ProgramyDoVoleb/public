@@ -1,1 +1,53 @@
-{"reg":1197,"name":"Brněnští senioři","hash":"bsen","short":"BSen","links":{"global":[],"regional":[]},"color":"#f2385b","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":1197,"pct":0.3,"elected":0}],"top10":[{"num":551198,"townName":"Brno-Bystrc","reg":1197,"pct":1.57,"elected":0},{"num":582786,"townName":"Brno","reg":1197,"pct":0.3,"elected":0}],"elected":0}]}}
+{
+  "reg": 1197,
+  "name": "Brněnští senioři",
+  "hash": "bsen",
+  "short": "BSen",
+  "color": "#f2385b",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1197,
+            "pct": 0.3,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 551198,
+            "townName": "Brno-Bystrc",
+            "reg": 1197,
+            "pct": 1.57,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1197,
+            "pct": 0.3,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,67 @@
-{"reg":1056,"name":"Hnutí občanů Prahy","hash":"hop","short":"HOP","links":{"global":[],"regional":[]},"color":"#850290","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1056,"pct":0.2,"elected":0}],"top10":[{"num":539899,"townName":"Praha-Zličín","reg":1056,"pct":5.69,"elected":1},{"num":500143,"townName":"Praha 5","reg":1056,"pct":1.09,"elected":0},{"num":539694,"townName":"Praha 13","reg":1056,"pct":0.22,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":1056,"pct":0.2,"elected":0}],"elected":1}]}}
+{
+  "reg": 1056,
+  "name": "Hnutí občanů Prahy",
+  "hash": "hop",
+  "short": "HOP",
+  "color": "#850290",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1056,
+            "pct": 0.2,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 539899,
+            "townName": "Praha-Zličín",
+            "reg": 1056,
+            "pct": 5.69,
+            "elected": 1
+          },
+          {
+            "num": 500143,
+            "townName": "Praha 5",
+            "reg": 1056,
+            "pct": 1.09,
+            "elected": 0
+          },
+          {
+            "num": 539694,
+            "townName": "Praha 13",
+            "reg": 1056,
+            "pct": 0.22,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1056,
+            "pct": 0.2,
+            "elected": 0
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

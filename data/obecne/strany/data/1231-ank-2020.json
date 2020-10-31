@@ -7,5 +7,68 @@
     "global": [],
     "regional": []
   },
-  "color": "#aaa"
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 24,
+            "reg": 1231,
+            "nominee": 1231,
+            "candidate": [
+              "RNDr. PhDr.",
+              "Zdeněk",
+              "Hostomský",
+              "CSc."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 1231,
+            "nominee": 1231,
+            "candidate": [
+              "doc. MUDr.",
+              "Peter",
+              "Koliba",
+              "CSc."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.67,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1231,
+            "pct": 0.18,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 1231,
+            "pct": 0.84,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
 }

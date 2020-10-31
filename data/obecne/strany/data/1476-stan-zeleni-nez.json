@@ -1,0 +1,34 @@
+{
+  "reg": 1476,
+  "name": "Koalice STAN, Zelení a NEZ",
+  "hash": "stan+zeleni+nez",
+  "short": "STAN+Zelení+NEZ",
+  "coalition": [
+    5,
+    88,
+    166
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  },
+  "color": "#aaa",
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 13,
+            "reg": 1476,
+            "pct": 4.3,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  }
+}

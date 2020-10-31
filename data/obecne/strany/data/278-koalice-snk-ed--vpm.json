@@ -1,1 +1,42 @@
-{"reg":278,"name":"Koalice SNK ED, VPM","hash":"koalice-snk-ed--vpm","short":"Koalice SNK ED, VPM","coalition":[113,129],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":554642,"townName":"Mariánské Lázně","reg":278,"pct":8.59,"elected":2}],"elected":2}]}}
+{
+  "reg": 278,
+  "name": "Koalice SNK ED, VPM",
+  "hash": "koalice-snk-ed--vpm",
+  "short": "Koalice SNK ED, VPM",
+  "coalition": [
+    113,
+    129
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 554642,
+            "townName": "Mariánské Lázně",
+            "reg": 278,
+            "pct": 8.59,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

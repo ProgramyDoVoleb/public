@@ -1,1 +1,33 @@
-{"reg":638,"name":"Osobnosti kraje","coalition":[72,129],"short":"OSOBNOST","color":"#aaa","hash":"osobnost","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":13,"reg":638,"elected":0}]}]}}
+{
+  "reg": 638,
+  "name": "Osobnosti kraje",
+  "coalition": [
+    72,
+    129
+  ],
+  "short": "OSOBNOST",
+  "color": "#aaa",
+  "hash": "osobnost",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 13,
+            "reg": 638,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

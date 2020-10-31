@@ -1,1 +1,20 @@
-{"reg":596,"name":"Koalice STAN a HOPB","hash":"stan-hopb","short":"STAN+HOPB","coalition":[166,753],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 596,
+  "name": "Koalice STAN a HOPB",
+  "hash": "stan+hopb",
+  "short": "STAN+HOPB",
+  "coalition": [
+    166,
+    753
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

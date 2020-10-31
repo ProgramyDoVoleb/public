@@ -1,1 +1,82 @@
-{"reg":1182,"name":"SPORTOVCI","hash":"sportovci","short":"SPORTOVCI","links":{"global":[],"regional":[]},"color":"#4c99e1","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":5,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":1182,"pct":0.27,"elected":0}],"top10":[{"num":581968,"townName":"Lipůvka","reg":1182,"pct":12.4,"elected":1},{"num":563552,"townName":"Desná","reg":1182,"pct":11.7,"elected":2},{"num":597783,"townName":"Rýmařov","reg":1182,"pct":6.12,"elected":1},{"num":551198,"townName":"Brno-Bystrc","reg":1182,"pct":2.59,"elected":0},{"num":582786,"townName":"Brno","reg":1182,"pct":0.27,"elected":0}],"elected":4},{"type":"snemovni-volby","id":2017,"date":20171020,"reg":1182,"pct":0.2,"elected":0}]}}
+{
+  "reg": 1182,
+  "name": "SPORTOVCI",
+  "hash": "sportovci",
+  "short": "SPORTOVCI",
+  "color": "#4c99e1",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1182,
+            "pct": 0.27,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 581968,
+            "townName": "Lipůvka",
+            "reg": 1182,
+            "pct": 12.4,
+            "elected": 1
+          },
+          {
+            "num": 563552,
+            "townName": "Desná",
+            "reg": 1182,
+            "pct": 11.7,
+            "elected": 2
+          },
+          {
+            "num": 597783,
+            "townName": "Rýmařov",
+            "reg": 1182,
+            "pct": 6.12,
+            "elected": 1
+          },
+          {
+            "num": 551198,
+            "townName": "Brno-Bystrc",
+            "reg": 1182,
+            "pct": 2.59,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 1182,
+            "pct": 0.27,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2017,
+        "date": 20171020,
+        "reg": 1182,
+        "pct": 0.2,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

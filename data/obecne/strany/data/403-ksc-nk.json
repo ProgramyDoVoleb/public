@@ -1,1 +1,20 @@
-{"reg":403,"name":"Sdružení KSČ, NK","hash":"ksc-nk","short":"KSČ+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[80,93]}
+{
+  "reg": 403,
+  "name": "Sdružení KSČ, NK",
+  "hash": "ksc+nk",
+  "short": "KSČ+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    80,
+    93
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

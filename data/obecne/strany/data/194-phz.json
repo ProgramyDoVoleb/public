@@ -1,1 +1,59 @@
-{"reg":194,"name":"ZVON","hash":"phz","short":"PHZ","links":{"global":[],"regional":[]},"color":"#2a361b","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":535419,"townName":"Mladá Boleslav","reg":194,"pct":2.47,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":535419,"townName":"Mladá Boleslav","reg":194,"pct":7.13,"elected":2}],"elected":2}]}}
+{
+  "reg": 194,
+  "name": "ZVON",
+  "hash": "phz",
+  "short": "PHZ",
+  "color": "#2a361b",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 535419,
+            "townName": "Mladá Boleslav",
+            "reg": 194,
+            "pct": 2.47,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 535419,
+            "townName": "Mladá Boleslav",
+            "reg": 194,
+            "pct": 7.13,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,71 @@
-{"reg":347,"name":"Koalice SNK ED a SOM","hash":"snk-ed-som","short":"SNK ED+SOM","coalition":[129,158],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":4,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":347,"pct":1.63,"elected":0}],"top10":[{"num":551210,"townName":"Brno-Kníničky","reg":347,"pct":21.56,"elected":2},{"num":551198,"townName":"Brno-Bystrc","reg":347,"pct":7.14,"elected":2},{"num":550973,"townName":"Brno-střed","reg":347,"pct":3.57,"elected":0},{"num":582786,"townName":"Brno","reg":347,"pct":1.63,"elected":0}],"elected":4}]}}
+{
+  "reg": 347,
+  "name": "Koalice SNK ED a SOM",
+  "hash": "snk-ed+som",
+  "short": "SNK ED+SOM",
+  "coalition": [
+    129,
+    158
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 4,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 347,
+            "pct": 1.63,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 551210,
+            "townName": "Brno-Kníničky",
+            "reg": 347,
+            "pct": 21.56,
+            "elected": 2
+          },
+          {
+            "num": 551198,
+            "townName": "Brno-Bystrc",
+            "reg": 347,
+            "pct": 7.14,
+            "elected": 2
+          },
+          {
+            "num": 550973,
+            "townName": "Brno-střed",
+            "reg": 347,
+            "pct": 3.57,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 347,
+            "pct": 1.63,
+            "elected": 0
+          }
+        ],
+        "elected": 4
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

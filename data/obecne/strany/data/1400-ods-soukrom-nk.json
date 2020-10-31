@@ -1,1 +1,43 @@
-{"reg":1400,"name":"Sdružení ODS, Soukromníci, NK","hash":"ods-soukrom-nk","short":"ODS+Soukrom+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":598143,"townName":"Frýdlant nad Ostravicí","reg":1400,"pct":5.71,"elected":1}],"elected":1}]},"coalition":[53,80,716]}
+{
+  "reg": 1400,
+  "name": "Sdružení ODS, Soukromníci, NK",
+  "hash": "ods+soukrom+nk",
+  "short": "ODS+Soukrom+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 598143,
+            "townName": "Frýdlant nad Ostravicí",
+            "reg": 1400,
+            "pct": 5.71,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    53,
+    80,
+    716
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

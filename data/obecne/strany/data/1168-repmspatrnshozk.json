@@ -1,1 +1,35 @@
-{"reg":1168,"name":"Koalice Republikánů Miroslava Sládka, Patriotů České republiky, HOZK a Nového směru","hash":"repmspatrnshozk","short":"RepMSPatrNSHOZK","coalition":[772,793,100,112],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20161007,"list":[{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":6,"reg":1168,"elected":0}]}]}}
+{
+  "reg": 1168,
+  "name": "Koalice Republikánů Miroslava Sládka, Patriotů České republiky, HOZK a Nového směru",
+  "hash": "repmspatrnshozk",
+  "short": "RepMSPatrNSHOZK",
+  "coalition": [
+    772,
+    793,
+    1004,
+    1125
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20161007,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 6,
+            "reg": 1168,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

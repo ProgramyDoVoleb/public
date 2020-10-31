@@ -1,1 +1,488 @@
-{"reg":172,"name":"NEZÁVISLÍ DEMOKRATÉ","hash":"nez-dem","short":"NEZ/DEM","links":{"global":[],"regional":[]},"color":"#9e216f","usualCoalitionWith":[{"count":1,"reg":165},{"count":1,"reg":80},{"count":1,"reg":2},{"count":1,"reg":9},{"count":1,"reg":40},{"count":1,"reg":132},{"count":1,"reg":159},{"count":1,"reg":102},{"count":1,"reg":167},{"count":1,"reg":176},{"count":1,"reg":178},{"count":1,"reg":701},{"count":1,"reg":706},{"count":1,"reg":707},{"count":1,"reg":137}],"memberOf":[454,614,628,657],"activity":{"last":20141010,"list":[{"type":"senatni-volby","id":20141010,"date":20141010,"list":[{"area":54,"reg":172,"nominee":172,"candidate":["PhDr.","Vladimír","Železný",""],"elected":false,"round1":{"pct":9.05,"progress":false}}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551091,"townName":"Brno-Starý Lískovec","reg":172,"pct":7.68,"elected":1},{"num":563129,"townName":"Klášterec nad Ohří","reg":172,"pct":4.35,"elected":0}],"elected":1},{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":10,"reg":172,"elected":0}]},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":12,"coalition":13},"coalitions":[657,657,657,657,657,657,657,657,657,657,657,657,454],"list":[{"num":582786,"townName":"Brno","reg":657,"name":"Koalice Rozumní a NEZ/DEM","coalition":[137,172],"pct":1.68,"elected":0}],"top10":[{"num":505161,"townName":"Štěpánov","reg":172,"pct":32.44,"elected":6},{"num":595641,"townName":"Bory","reg":172,"pct":29.94,"elected":5},{"num":572497,"townName":"Vítanov","reg":172,"pct":27.59,"elected":2},{"num":540196,"townName":"Loštice","reg":172,"pct":21.36,"elected":4},{"num":593516,"townName":"Račice-Pístovice","reg":657,"name":"Koalice Rozumní a NEZ/DEM","coalition":[137,172],"pct":19.4,"elected":3},{"num":563242,"townName":"Místo","reg":172,"pct":16.59,"elected":1},{"num":529516,"townName":"Čerčany","reg":172,"pct":15.6,"elected":2},{"num":587729,"townName":"Nový Šaldorf-Sedlešovice","reg":172,"pct":13.39,"elected":1},{"num":551091,"townName":"Brno-Starý Lískovec","reg":172,"pct":11.96,"elected":3},{"num":571393,"townName":"Hlinsko","reg":172,"pct":9.07,"elected":2}],"elected":32},{"type":"senatni-volby","id":20081017,"date":20081017,"list":[{"area":6,"reg":172,"nominee":172,"candidate":["","Jaromír","Vápeník",""],"elected":false,"round1":{"pct":1.48,"progress":false}}]},{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":3,"reg":172,"elected":0},{"area":10,"reg":628,"name":"\"DOHODA PRO JIŽNÍ MORAVU\"","coalition":[2,9,40,132,159,165,167,172,176,178,701,706,707],"elected":0}]},{"type":"senatni-volby","id":20061020,"date":20061020,"list":[{"area":32,"reg":172,"nominee":172,"candidate":["Ing.","Vladimír","Procházka",""],"elected":false,"round1":{"pct":2.77,"progress":false}},{"area":59,"reg":172,"nominee":172,"candidate":["Mgr.","Růžena","Šalomonová",""],"elected":false,"round1":{"pct":2.56,"progress":false}},{"area":71,"reg":172,"nominee":172,"candidate":["Mgr.","Jana","Volfová",""],"elected":false,"round1":{"pct":1.57,"progress":false}}]},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":82,"coalition":11},"coalitions":[454,454,454,454,614,454,454,454,454,454,454],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":172,"pct":0.09,"elected":0},{"num":554961,"townName":"Karlovy Vary","reg":172,"pct":2.37,"elected":0},{"num":563889,"townName":"Liberec","reg":172,"pct":0.17,"elected":0},{"num":569810,"townName":"Hradec Králové","reg":454,"name":"Sdružení NEZ/DEM, NK","coalition":[80,172],"pct":1.11,"elected":0},{"num":555134,"townName":"Pardubice","reg":172,"pct":0.17,"elected":0},{"num":582786,"townName":"Brno","reg":172,"pct":1.19,"elected":0},{"num":500496,"townName":"Olomouc","reg":172,"pct":1.12,"elected":0},{"num":554821,"townName":"Ostrava","reg":454,"name":"Sdružení NEZ/DEM, NK","coalition":[80,172],"pct":0.48,"elected":0}],"top10":[{"num":515787,"townName":"Nelešovice","reg":172,"pct":100,"elected":9},{"num":552429,"townName":"Svésedlice","reg":172,"pct":87.04,"elected":6},{"num":505650,"townName":"Velký Týnec","reg":172,"pct":56.24,"elected":5},{"num":501841,"townName":"Grygov","reg":172,"pct":44.29,"elected":4},{"num":517607,"townName":"Rokytnice","reg":172,"pct":42.91,"elected":6},{"num":552909,"townName":"Měrovice nad Hanou","reg":172,"pct":41.79,"elected":6},{"num":587729,"townName":"Nový Šaldorf-Sedlešovice","reg":172,"pct":41.7,"elected":3},{"num":576671,"townName":"Potštejn","reg":454,"name":"Sdružení NEZ/DEM, NK","coalition":[80,172],"pct":36.88,"elected":4},{"num":505161,"townName":"Štěpánov","reg":172,"pct":33.4,"elected":5},{"num":592072,"townName":"Břestek","reg":172,"pct":31.34,"elected":3}],"elected":101},{"type":"snemovni-volby","id":2006,"date":20060603,"reg":172,"pct":0.68,"elected":0}]}}
+{
+  "reg": 172,
+  "name": "NEZÁVISLÍ DEMOKRATÉ",
+  "hash": "nez/dem",
+  "short": "NEZ/DEM",
+  "color": "#9e216f",
+  "memberOf": [
+    454,
+    614,
+    628,
+    657
+  ],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 54,
+            "reg": 172,
+            "nominee": 172,
+            "candidate": [
+              "PhDr.",
+              "Vladimír",
+              "Železný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.05,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551091,
+            "townName": "Brno-Starý Lískovec",
+            "reg": 172,
+            "pct": 7.68,
+            "elected": 1
+          },
+          {
+            "num": 563129,
+            "townName": "Klášterec nad Ohří",
+            "reg": 172,
+            "pct": 4.35,
+            "elected": 0
+          }
+        ],
+        "elected": 1
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 10,
+            "reg": 172,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 12,
+          "coalition": 13
+        },
+        "coalitions": [
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          657,
+          454
+        ],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 657,
+            "name": "Koalice Rozumní a NEZ/DEM",
+            "coalition": [
+              137,
+              172
+            ],
+            "pct": 1.68,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 505161,
+            "townName": "Štěpánov",
+            "reg": 172,
+            "pct": 32.44,
+            "elected": 6
+          },
+          {
+            "num": 595641,
+            "townName": "Bory",
+            "reg": 172,
+            "pct": 29.94,
+            "elected": 5
+          },
+          {
+            "num": 572497,
+            "townName": "Vítanov",
+            "reg": 172,
+            "pct": 27.59,
+            "elected": 2
+          },
+          {
+            "num": 540196,
+            "townName": "Loštice",
+            "reg": 172,
+            "pct": 21.36,
+            "elected": 4
+          },
+          {
+            "num": 593516,
+            "townName": "Račice-Pístovice",
+            "reg": 657,
+            "name": "Koalice Rozumní a NEZ/DEM",
+            "coalition": [
+              137,
+              172
+            ],
+            "pct": 19.4,
+            "elected": 3
+          },
+          {
+            "num": 563242,
+            "townName": "Místo",
+            "reg": 172,
+            "pct": 16.59,
+            "elected": 1
+          },
+          {
+            "num": 529516,
+            "townName": "Čerčany",
+            "reg": 172,
+            "pct": 15.6,
+            "elected": 2
+          },
+          {
+            "num": 587729,
+            "townName": "Nový Šaldorf-Sedlešovice",
+            "reg": 172,
+            "pct": 13.39,
+            "elected": 1
+          },
+          {
+            "num": 551091,
+            "townName": "Brno-Starý Lískovec",
+            "reg": 172,
+            "pct": 11.96,
+            "elected": 3
+          },
+          {
+            "num": 571393,
+            "townName": "Hlinsko",
+            "reg": 172,
+            "pct": 9.07,
+            "elected": 2
+          }
+        ],
+        "elected": 32
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 6,
+            "reg": 172,
+            "nominee": 172,
+            "candidate": [
+              "",
+              "Jaromír",
+              "Vápeník",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.48,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 3,
+            "reg": 172,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 628,
+            "name": "\"DOHODA PRO JIŽNÍ MORAVU\"",
+            "coalition": [
+              2,
+              9,
+              40,
+              132,
+              159,
+              165,
+              167,
+              172,
+              176,
+              178,
+              701,
+              706,
+              707
+            ],
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 32,
+            "reg": 172,
+            "nominee": 172,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Procházka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 172,
+            "nominee": 172,
+            "candidate": [
+              "Mgr.",
+              "Růžena",
+              "Šalomonová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.56,
+              "progress": false
+            }
+          },
+          {
+            "area": 71,
+            "reg": 172,
+            "nominee": 172,
+            "candidate": [
+              "Mgr.",
+              "Jana",
+              "Volfová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.57,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 82,
+          "coalition": 11
+        },
+        "coalitions": [
+          454,
+          454,
+          454,
+          454,
+          614,
+          454,
+          454,
+          454,
+          454,
+          454,
+          454
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 172,
+            "pct": 0.09,
+            "elected": 0
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 172,
+            "pct": 2.37,
+            "elected": 0
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 172,
+            "pct": 0.17,
+            "elected": 0
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 454,
+            "name": "Sdružení NEZ/DEM, NK",
+            "coalition": [
+              80,
+              172
+            ],
+            "pct": 1.11,
+            "elected": 0
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 172,
+            "pct": 0.17,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 172,
+            "pct": 1.19,
+            "elected": 0
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 172,
+            "pct": 1.12,
+            "elected": 0
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 454,
+            "name": "Sdružení NEZ/DEM, NK",
+            "coalition": [
+              80,
+              172
+            ],
+            "pct": 0.48,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 515787,
+            "townName": "Nelešovice",
+            "reg": 172,
+            "pct": 100,
+            "elected": 9
+          },
+          {
+            "num": 552429,
+            "townName": "Svésedlice",
+            "reg": 172,
+            "pct": 87.04,
+            "elected": 6
+          },
+          {
+            "num": 505650,
+            "townName": "Velký Týnec",
+            "reg": 172,
+            "pct": 56.24,
+            "elected": 5
+          },
+          {
+            "num": 501841,
+            "townName": "Grygov",
+            "reg": 172,
+            "pct": 44.29,
+            "elected": 4
+          },
+          {
+            "num": 517607,
+            "townName": "Rokytnice",
+            "reg": 172,
+            "pct": 42.91,
+            "elected": 6
+          },
+          {
+            "num": 552909,
+            "townName": "Měrovice nad Hanou",
+            "reg": 172,
+            "pct": 41.79,
+            "elected": 6
+          },
+          {
+            "num": 587729,
+            "townName": "Nový Šaldorf-Sedlešovice",
+            "reg": 172,
+            "pct": 41.7,
+            "elected": 3
+          },
+          {
+            "num": 576671,
+            "townName": "Potštejn",
+            "reg": 454,
+            "name": "Sdružení NEZ/DEM, NK",
+            "coalition": [
+              80,
+              172
+            ],
+            "pct": 36.88,
+            "elected": 4
+          },
+          {
+            "num": 505161,
+            "townName": "Štěpánov",
+            "reg": 172,
+            "pct": 33.4,
+            "elected": 5
+          },
+          {
+            "num": 592072,
+            "townName": "Břestek",
+            "reg": 172,
+            "pct": 31.34,
+            "elected": 3
+          }
+        ],
+        "elected": 101
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2006,
+        "date": 20060603,
+        "reg": 172,
+        "pct": 0.68,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

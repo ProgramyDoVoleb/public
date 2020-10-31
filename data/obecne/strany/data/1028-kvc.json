@@ -1,1 +1,94 @@
-{"reg":1028,"name":"Karlovaráci","hash":"kvc","short":"KVC","links":{"global":[],"regional":[]},"color":"#0a357f","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":1028,"pct":15.63,"elected":8}],"top10":[{"num":554961,"townName":"Karlovy Vary","reg":1028,"pct":15.63,"elected":8}],"elected":8},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":554961,"townName":"Karlovy Vary","reg":1028,"pct":11.87,"elected":5}],"top10":[{"num":554961,"townName":"Karlovy Vary","reg":1028,"pct":11.87,"elected":5}],"elected":5}]}}
+{
+  "reg": 1028,
+  "name": "Karlovaráci",
+  "hash": "kvc",
+  "short": "KVC",
+  "color": "#0a357f",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 4,
+            "reg": 1451,
+            "name": "Koalice KVC a VOK",
+            "coalition": [
+              1028,
+              1118
+            ],
+            "pct": 6.51,
+            "elected": 3
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1028,
+            "pct": 15.63,
+            "elected": 8
+          }
+        ],
+        "top10": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1028,
+            "pct": 15.63,
+            "elected": 8
+          }
+        ],
+        "elected": 8
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1028,
+            "pct": 11.87,
+            "elected": 5
+          }
+        ],
+        "top10": [
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1028,
+            "pct": 11.87,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/1028-karlovaraci.jpg",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,296 @@
-{"reg":407,"name":"Sdružení SOS, NK","hash":"sdruzeni-sos--nk","short":"Sdružení SOS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":592731,"townName":"Uherský Brod","reg":407,"pct":11.18,"elected":3},{"num":564028,"townName":"Frýdlant","reg":407,"pct":10.49,"elected":3}],"elected":6},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":5,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":564265,"townName":"Nové Město pod Smrkem","reg":407,"pct":15.44,"elected":3},{"num":564028,"townName":"Frýdlant","reg":407,"pct":13.57,"elected":3},{"num":592731,"townName":"Uherský Brod","reg":407,"pct":8.16,"elected":2},{"num":570508,"townName":"Nový Bydžov","reg":407,"pct":8.06,"elected":2},{"num":598933,"townName":"Český Těšín","reg":407,"pct":3.06,"elected":0}],"elected":10},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":17,"coalition":0},"coalitions":[],"list":[{"num":563889,"townName":"Liberec","reg":407,"pct":3.57,"elected":0},{"num":582786,"townName":"Brno","reg":407,"pct":3.14,"elected":0}],"top10":[{"num":506753,"townName":"Háj ve Slezsku","reg":407,"pct":36.75,"elected":8},{"num":505927,"townName":"Opava","reg":407,"pct":28.21,"elected":17},{"num":500861,"townName":"Bouzov","reg":407,"pct":27.2,"elected":4},{"num":564265,"townName":"Nové Město pod Smrkem","reg":407,"pct":24.76,"elected":5},{"num":598933,"townName":"Český Těšín","reg":407,"pct":19.14,"elected":6},{"num":570508,"townName":"Nový Bydžov","reg":407,"pct":14.6,"elected":4},{"num":564028,"townName":"Frýdlant","reg":407,"pct":14.48,"elected":3},{"num":592731,"townName":"Uherský Brod","reg":407,"pct":14.09,"elected":4},{"num":555274,"townName":"Nové Sedlice","reg":407,"pct":13.46,"elected":1},{"num":505188,"townName":"Šternberk","reg":407,"pct":9.47,"elected":2}],"elected":54},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":29,"coalition":0},"coalitions":[],"list":[{"num":569810,"townName":"Hradec Králové","reg":407,"pct":7.72,"elected":3},{"num":582786,"townName":"Brno","reg":407,"pct":8.91,"elected":5}],"top10":[{"num":548961,"townName":"Sedliště","reg":407,"pct":100,"elected":7},{"num":531472,"townName":"Lochovice","reg":407,"pct":81.4,"elected":9},{"num":560057,"townName":"Osek","reg":407,"pct":62.89,"elected":7},{"num":558605,"townName":"Ždírec","reg":407,"pct":52.69,"elected":5},{"num":563552,"townName":"Desná","reg":407,"pct":39.74,"elected":7},{"num":567027,"townName":"Most","reg":407,"pct":33.36,"elected":18},{"num":557650,"townName":"Čížkov","reg":407,"pct":27.44,"elected":6},{"num":571211,"townName":"Klínec","reg":407,"pct":25.57,"elected":2},{"num":539457,"townName":"Líšnice","reg":407,"pct":25.51,"elected":2},{"num":564265,"townName":"Nové Město pod Smrkem","reg":407,"pct":25.27,"elected":5}],"elected":114}]},"coalition":[80,103]}
+{
+  "reg": 407,
+  "name": "Sdružení SOS, NK",
+  "hash": "sdruzeni-sos--nk",
+  "short": "Sdružení SOS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 407,
+            "pct": 11.18,
+            "elected": 3
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 407,
+            "pct": 10.49,
+            "elected": 3
+          }
+        ],
+        "elected": 6
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 5,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 564265,
+            "townName": "Nové Město pod Smrkem",
+            "reg": 407,
+            "pct": 15.44,
+            "elected": 3
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 407,
+            "pct": 13.57,
+            "elected": 3
+          },
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 407,
+            "pct": 8.16,
+            "elected": 2
+          },
+          {
+            "num": 570508,
+            "townName": "Nový Bydžov",
+            "reg": 407,
+            "pct": 8.06,
+            "elected": 2
+          },
+          {
+            "num": 598933,
+            "townName": "Český Těšín",
+            "reg": 407,
+            "pct": 3.06,
+            "elected": 0
+          }
+        ],
+        "elected": 10
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 17,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 407,
+            "pct": 3.57,
+            "elected": 0
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 407,
+            "pct": 3.14,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 506753,
+            "townName": "Háj ve Slezsku",
+            "reg": 407,
+            "pct": 36.75,
+            "elected": 8
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 407,
+            "pct": 28.21,
+            "elected": 17
+          },
+          {
+            "num": 500861,
+            "townName": "Bouzov",
+            "reg": 407,
+            "pct": 27.2,
+            "elected": 4
+          },
+          {
+            "num": 564265,
+            "townName": "Nové Město pod Smrkem",
+            "reg": 407,
+            "pct": 24.76,
+            "elected": 5
+          },
+          {
+            "num": 598933,
+            "townName": "Český Těšín",
+            "reg": 407,
+            "pct": 19.14,
+            "elected": 6
+          },
+          {
+            "num": 570508,
+            "townName": "Nový Bydžov",
+            "reg": 407,
+            "pct": 14.6,
+            "elected": 4
+          },
+          {
+            "num": 564028,
+            "townName": "Frýdlant",
+            "reg": 407,
+            "pct": 14.48,
+            "elected": 3
+          },
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 407,
+            "pct": 14.09,
+            "elected": 4
+          },
+          {
+            "num": 555274,
+            "townName": "Nové Sedlice",
+            "reg": 407,
+            "pct": 13.46,
+            "elected": 1
+          },
+          {
+            "num": 505188,
+            "townName": "Šternberk",
+            "reg": 407,
+            "pct": 9.47,
+            "elected": 2
+          }
+        ],
+        "elected": 54
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 29,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 407,
+            "pct": 7.72,
+            "elected": 3
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 407,
+            "pct": 8.91,
+            "elected": 5
+          }
+        ],
+        "top10": [
+          {
+            "num": 548961,
+            "townName": "Sedliště",
+            "reg": 407,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 531472,
+            "townName": "Lochovice",
+            "reg": 407,
+            "pct": 81.4,
+            "elected": 9
+          },
+          {
+            "num": 560057,
+            "townName": "Osek",
+            "reg": 407,
+            "pct": 62.89,
+            "elected": 7
+          },
+          {
+            "num": 558605,
+            "townName": "Ždírec",
+            "reg": 407,
+            "pct": 52.69,
+            "elected": 5
+          },
+          {
+            "num": 563552,
+            "townName": "Desná",
+            "reg": 407,
+            "pct": 39.74,
+            "elected": 7
+          },
+          {
+            "num": 567027,
+            "townName": "Most",
+            "reg": 407,
+            "pct": 33.36,
+            "elected": 18
+          },
+          {
+            "num": 557650,
+            "townName": "Čížkov",
+            "reg": 407,
+            "pct": 27.44,
+            "elected": 6
+          },
+          {
+            "num": 571211,
+            "townName": "Klínec",
+            "reg": 407,
+            "pct": 25.57,
+            "elected": 2
+          },
+          {
+            "num": 539457,
+            "townName": "Líšnice",
+            "reg": 407,
+            "pct": 25.51,
+            "elected": 2
+          },
+          {
+            "num": 564265,
+            "townName": "Nové Město pod Smrkem",
+            "reg": 407,
+            "pct": 25.27,
+            "elected": 5
+          }
+        ],
+        "elected": 114
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    103
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

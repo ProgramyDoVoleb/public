@@ -1,1 +1,140 @@
-{"reg":774,"name":"PRO","hash":"pro","short":"PRO","links":{"global":[],"regional":[]},"color":"#01368d","usualCoalitionWith":[{"count":1,"reg":80},{"count":1,"reg":759},{"count":1,"reg":714}],"memberOf":[556,1059,1070],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":4,"coalition":3},"coalitions":[1059,556,1070],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1059,"name":"Koalice ČS a PRO","coalition":[759,774],"pct":0.32,"elected":0},{"num":554961,"townName":"Karlovy Vary","reg":1070,"name":"Koalice Svobodní a PRO","coalition":[714,774],"pct":2.92,"elected":0}],"top10":[{"num":554529,"townName":"Františkovy Lázně","reg":556,"name":"Sdružení PRO, NK","coalition":[80,774],"pct":37.99,"elected":5},{"num":554499,"townName":"Aš","reg":774,"pct":8.34,"elected":2},{"num":554855,"townName":"Trstěnice","reg":774,"pct":7.46,"elected":0},{"num":560588,"townName":"Oloví","reg":774,"pct":5.74,"elected":0},{"num":554961,"townName":"Karlovy Vary","reg":1070,"name":"Koalice Svobodní a PRO","coalition":[714,774],"pct":2.92,"elected":0},{"num":554481,"townName":"Cheb","reg":774,"pct":2.11,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":1059,"name":"Koalice ČS a PRO","coalition":[759,774],"pct":0.32,"elected":0}],"elected":7},{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":1,"reg":774,"elected":0}]}]}}
+{
+  "reg": 774,
+  "name": "PRO",
+  "hash": "pro",
+  "short": "PRO",
+  "color": "#01368d",
+  "memberOf": [
+    556,
+    1059,
+    1070
+  ],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 4,
+          "coalition": 3
+        },
+        "coalitions": [
+          1059,
+          556,
+          1070
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1059,
+            "name": "Koalice ČS a PRO",
+            "coalition": [
+              759,
+              774
+            ],
+            "pct": 0.32,
+            "elected": 0
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1070,
+            "name": "Koalice Svobodní a PRO",
+            "coalition": [
+              714,
+              774
+            ],
+            "pct": 2.92,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 554529,
+            "townName": "Františkovy Lázně",
+            "reg": 556,
+            "name": "Sdružení PRO, NK",
+            "coalition": [
+              80,
+              774
+            ],
+            "pct": 37.99,
+            "elected": 5
+          },
+          {
+            "num": 554499,
+            "townName": "Aš",
+            "reg": 774,
+            "pct": 8.34,
+            "elected": 2
+          },
+          {
+            "num": 554855,
+            "townName": "Trstěnice",
+            "reg": 774,
+            "pct": 7.46,
+            "elected": 0
+          },
+          {
+            "num": 560588,
+            "townName": "Oloví",
+            "reg": 774,
+            "pct": 5.74,
+            "elected": 0
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 1070,
+            "name": "Koalice Svobodní a PRO",
+            "coalition": [
+              714,
+              774
+            ],
+            "pct": 2.92,
+            "elected": 0
+          },
+          {
+            "num": 554481,
+            "townName": "Cheb",
+            "reg": 774,
+            "pct": 2.11,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1059,
+            "name": "Koalice ČS a PRO",
+            "coalition": [
+              759,
+              774
+            ],
+            "pct": 0.32,
+            "elected": 0
+          }
+        ],
+        "elected": 7
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 1,
+            "reg": 774,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

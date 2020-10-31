@@ -1,1 +1,42 @@
-{"reg":1373,"name":"Sdružení PRAHA SOBĚ, NK","hash":"praha-sobe-nk","short":"PRAHA SOBĚ+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":500054,"townName":"Praha 1","reg":1373,"pct":21.26,"elected":6}],"elected":6}]},"coalition":[80,118]}
+{
+  "reg": 1373,
+  "name": "Sdružení PRAHA SOBĚ, NK",
+  "hash": "praha-sobe+nk",
+  "short": "PRAHA SOBĚ+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500054,
+            "townName": "Praha 1",
+            "reg": 1373,
+            "pct": 21.26,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    118
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

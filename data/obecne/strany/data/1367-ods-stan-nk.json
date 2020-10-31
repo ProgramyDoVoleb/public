@@ -1,1 +1,43 @@
-{"reg":1367,"name":"Sdružení ODS, STAN, NK","hash":"ods-stan-nk","short":"ODS+STAN+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":538981,"townName":"Velké Popovice","reg":1367,"pct":34.93,"elected":5}],"elected":5}]},"coalition":[53,80,166]}
+{
+  "reg": 1367,
+  "name": "Sdružení ODS, STAN, NK",
+  "hash": "ods+stan+nk",
+  "short": "ODS+STAN+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 538981,
+            "townName": "Velké Popovice",
+            "reg": 1367,
+            "pct": 34.93,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "coalition": [
+    53,
+    80,
+    166
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

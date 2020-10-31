@@ -1,1 +1,53 @@
-{"reg":1195,"name":"Za lepší Střekov","hash":"zls","short":"ZLS","links":{"global":[],"regional":[]},"color":"#1997cf","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":554804,"townName":"Ústí nad Labem","reg":1195,"pct":2.1,"elected":0}],"top10":[{"num":502316,"townName":"Ústí nad Labem-Střekov","reg":1195,"pct":12.68,"elected":2},{"num":554804,"townName":"Ústí nad Labem","reg":1195,"pct":2.1,"elected":0}],"elected":2}]}}
+{
+  "reg": 1195,
+  "name": "Za lepší Střekov",
+  "hash": "zls",
+  "short": "ZLS",
+  "color": "#1997cf",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 1195,
+            "pct": 2.1,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 502316,
+            "townName": "Ústí nad Labem-Střekov",
+            "reg": 1195,
+            "pct": 12.68,
+            "elected": 2
+          },
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 1195,
+            "pct": 2.1,
+            "elected": 0
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

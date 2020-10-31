@@ -1,1 +1,44 @@
-{"reg":569,"name":"Sdružení KDU-ČSL, Zelení, STAN, NK","hash":"kdu-zel-stan-nk","short":"KDU+Zel+STAN+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":500097,"townName":"Praha 3","reg":569,"pct":27.29,"elected":11}],"elected":11}]},"coalition":[1,5,80,166]}
+{
+  "reg": 569,
+  "name": "Sdružení KDU-ČSL, Zelení, STAN, NK",
+  "hash": "kdu+zel+stan+nk",
+  "short": "KDU+Zel+STAN+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 500097,
+            "townName": "Praha 3",
+            "reg": 569,
+            "pct": 27.29,
+            "elected": 11
+          }
+        ],
+        "elected": 11
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    5,
+    80,
+    166
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

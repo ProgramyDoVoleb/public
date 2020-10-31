@@ -1,1 +1,42 @@
-{"reg":1089,"name":"Koalice ND a ČHNJ","hash":"koalice-nd-a-chnj","short":"Koalice ND a ČHNJ","coalition":[79,123],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":532053,"townName":"Kladno","reg":1089,"pct":1.02,"elected":0}],"elected":0}]}}
+{
+  "reg": 1089,
+  "name": "Koalice ND a ČHNJ",
+  "hash": "koalice-nd-a-chnj",
+  "short": "Koalice ND a ČHNJ",
+  "coalition": [
+    79,
+    123
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 532053,
+            "townName": "Kladno",
+            "reg": 1089,
+            "pct": 1.02,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,42 @@
-{"reg":1057,"name":"Koalice Zelení a OMMO","hash":"zeleni-ommo","short":"Zelení+OMMO","coalition":[5,734],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":547336,"townName":"Třeboň","reg":1057,"pct":10.34,"elected":3}],"elected":3}]}}
+{
+  "reg": 1057,
+  "name": "Koalice Zelení a OMMO",
+  "hash": "zeleni+ommo",
+  "short": "Zelení+OMMO",
+  "coalition": [
+    5,
+    734
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 547336,
+            "townName": "Třeboň",
+            "reg": 1057,
+            "pct": 10.34,
+            "elected": 3
+          }
+        ],
+        "elected": 3
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

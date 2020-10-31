@@ -1,1 +1,33 @@
-{"reg":646,"name":"Koalice pro Plzeňský kraj","coalition":[1,129],"short":"KOALPLZ1","color":"#aaa","hash":"koalplz1","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":3,"reg":646,"elected":3}]}]}}
+{
+  "reg": 646,
+  "name": "Koalice pro Plzeňský kraj",
+  "coalition": [
+    1,
+    129
+  ],
+  "short": "KOALPLZ1",
+  "color": "#aaa",
+  "hash": "koalplz1",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 3,
+            "reg": 646,
+            "elected": 3
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

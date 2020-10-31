@@ -1,1 +1,33 @@
-{"reg":592,"name":"Koalice SNK ED a ML","hash":"snked-ml","short":"SNKED+ML","coalition":[129,147],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20121012,"list":[{"type":"krajske-volby","id":2012,"date":20121012,"list":[{"area":13,"reg":592,"elected":0}]}]}}
+{
+  "reg": 592,
+  "name": "Koalice SNK ED a ML",
+  "hash": "snked+ml",
+  "short": "SNKED+ML",
+  "coalition": [
+    129,
+    147
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20121012,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 13,
+            "reg": 592,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

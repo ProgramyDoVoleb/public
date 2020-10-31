@@ -1,1 +1,42 @@
-{"reg":1368,"name":"Sdružení OSB, NK","hash":"osb-nk","short":"OSB+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":590266,"townName":"Třebíč","reg":1368,"pct":15.84,"elected":5}],"elected":5}]},"coalition":[80,118]}
+{
+  "reg": 1368,
+  "name": "Sdružení OSB, NK",
+  "hash": "osb+nk",
+  "short": "OSB+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 590266,
+            "townName": "Třebíč",
+            "reg": 1368,
+            "pct": 15.84,
+            "elected": 5
+          }
+        ],
+        "elected": 5
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    118
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,56 @@
-{"reg":270,"name":"Koalice KDU-ČSL, US-DEU","coalition":[1,102],"color":"#aaa","hash":"koalice-kdu-csl--us-deu","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":3,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":553441,"townName":"Bělá nad Radbuzou","reg":270,"pct":39.25,"elected":6},{"num":560383,"townName":"Chodov","reg":270,"pct":8.33,"elected":2},{"num":531057,"townName":"Beroun","reg":270,"pct":4.82,"elected":0}],"elected":8}]}}
+{
+  "reg": 270,
+  "name": "Koalice KDU-ČSL, US-DEU",
+  "coalition": [
+    1,
+    102
+  ],
+  "color": "#aaa",
+  "hash": "koalice-kdu-csl--us-deu",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 3,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 553441,
+            "townName": "Bělá nad Radbuzou",
+            "reg": 270,
+            "pct": 39.25,
+            "elected": 6
+          },
+          {
+            "num": 560383,
+            "townName": "Chodov",
+            "reg": 270,
+            "pct": 8.33,
+            "elected": 2
+          },
+          {
+            "num": 531057,
+            "townName": "Beroun",
+            "reg": 270,
+            "pct": 4.82,
+            "elected": 0
+          }
+        ],
+        "elected": 8
+      }
+    ]
+  },
+  "short": "Koalice KDU-ČSL, US-DEU",
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

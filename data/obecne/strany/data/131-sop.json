@@ -1,1 +1,36 @@
-{"reg":131,"name":"Strana občanského porozumění","hash":"sop","short":"SOP","links":{"global":[],"regional":[]},"color":"#039016","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":5,"reg":131,"pct":0.39,"elected":0},{"area":6,"reg":131,"pct":0.6,"elected":0}]}]}}
+{
+  "reg": 131,
+  "name": "Strana občanského porozumění",
+  "hash": "sop",
+  "short": "SOP",
+  "color": "#039016",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 5,
+            "reg": 131,
+            "pct": 0.39,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 131,
+            "pct": 0.6,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

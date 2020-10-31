@@ -1,1 +1,301 @@
-{"reg":791,"name":"Pro Prahu","hash":"hpp","short":"HPP","links":{"global":[],"regional":[]},"color":"#b41479","usualCoalitionWith":[{"count":3,"reg":80},{"count":2,"reg":714},{"count":1,"reg":1},{"count":1,"reg":750},{"count":1,"reg":117},{"count":1,"reg":129},{"count":1,"reg":88},{"count":1,"reg":716}],"memberOf":[551,1075,1076,1309,1378,1393,1395],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":4,"coalition":17},"coalitions":[551,1393,551,1395,1309,1378,551,1309,551,551,551,551,551,551,551,1309,551],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":1.92,"elected":0}],"top10":[{"num":539791,"townName":"Praha-Újezd","reg":791,"pct":57.71,"elected":6},{"num":547310,"townName":"Praha-Čakovice","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":34.23,"elected":8},{"num":547115,"townName":"Praha-Velká Chuchle","reg":791,"pct":26.98,"elected":4},{"num":538213,"townName":"Praha 20","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":22.45,"elected":6},{"num":538931,"townName":"Praha 22","reg":791,"pct":21.64,"elected":6},{"num":547395,"townName":"Praha-Petrovice","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":19.42,"elected":3},{"num":538736,"townName":"Praha-Satalice","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":18.6,"elected":2},{"num":547417,"townName":"Praha 18","reg":1309,"name":"Sdružení HPP, ODA, NK","coalition":[80,791,117],"pct":13.29,"elected":3},{"num":539449,"townName":"Praha-Lipence","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":12.2,"elected":2},{"num":547174,"townName":"Praha 17","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":7.45,"elected":2}],"elected":45},{"type":"senatni-volby","id":20161007,"date":20161007,"list":[{"area":19,"reg":791,"nominee":791,"candidate":["","Vlastimil","Vilímec",""],"elected":false,"round1":{"pct":2.38,"progress":false}}]},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":28,"coalition":4},"coalitions":[1076,551,551,1075],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":791,"pct":2.4,"elected":0}],"top10":[{"num":538531,"townName":"Praha-Nedvězí","reg":791,"pct":85.15,"elected":5},{"num":539899,"townName":"Praha-Zličín","reg":791,"pct":42.75,"elected":7},{"num":539724,"townName":"Praha-Šeberov","reg":551,"name":"Sdružení HPP, NK","coalition":[80,791],"pct":40.27,"elected":6},{"num":539449,"townName":"Praha-Lipence","reg":791,"pct":35.47,"elected":6},{"num":539791,"townName":"Praha-Újezd","reg":791,"pct":30.92,"elected":3},{"num":538931,"townName":"Praha 22","reg":791,"pct":30.87,"elected":8},{"num":538353,"townName":"Praha-Koloděje","reg":791,"pct":24.22,"elected":2},{"num":547115,"townName":"Praha-Velká Chuchle","reg":791,"pct":22.09,"elected":2},{"num":547310,"townName":"Praha-Čakovice","reg":791,"pct":21.4,"elected":5},{"num":547417,"townName":"Praha 18","reg":791,"pct":18.34,"elected":4}],"elected":61}]}}
+{
+  "reg": 791,
+  "name": "Pro Prahu",
+  "hash": "hpp",
+  "short": "HPP",
+  "color": "#b41479",
+  "memberOf": [
+    551,
+    1075,
+    1076,
+    1309,
+    1378,
+    1393,
+    1395
+  ],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 4,
+          "coalition": 17
+        },
+        "coalitions": [
+          551,
+          1393,
+          551,
+          1395,
+          1309,
+          1378,
+          551,
+          1309,
+          551,
+          551,
+          551,
+          551,
+          551,
+          551,
+          551,
+          1309,
+          551
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 1.92,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 539791,
+            "townName": "Praha-Újezd",
+            "reg": 791,
+            "pct": 57.71,
+            "elected": 6
+          },
+          {
+            "num": 547310,
+            "townName": "Praha-Čakovice",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 34.23,
+            "elected": 8
+          },
+          {
+            "num": 547115,
+            "townName": "Praha-Velká Chuchle",
+            "reg": 791,
+            "pct": 26.98,
+            "elected": 4
+          },
+          {
+            "num": 538213,
+            "townName": "Praha 20",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 22.45,
+            "elected": 6
+          },
+          {
+            "num": 538931,
+            "townName": "Praha 22",
+            "reg": 791,
+            "pct": 21.64,
+            "elected": 6
+          },
+          {
+            "num": 547395,
+            "townName": "Praha-Petrovice",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 19.42,
+            "elected": 3
+          },
+          {
+            "num": 538736,
+            "townName": "Praha-Satalice",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 18.6,
+            "elected": 2
+          },
+          {
+            "num": 547417,
+            "townName": "Praha 18",
+            "reg": 1309,
+            "name": "Sdružení HPP, ODA, NK",
+            "coalition": [
+              80,
+              791,
+              117
+            ],
+            "pct": 13.29,
+            "elected": 3
+          },
+          {
+            "num": 539449,
+            "townName": "Praha-Lipence",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 12.2,
+            "elected": 2
+          },
+          {
+            "num": 547174,
+            "townName": "Praha 17",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 7.45,
+            "elected": 2
+          }
+        ],
+        "elected": 45
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 19,
+            "reg": 791,
+            "nominee": 791,
+            "candidate": [
+              "",
+              "Vlastimil",
+              "Vilímec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.38,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 28,
+          "coalition": 4
+        },
+        "coalitions": [
+          1076,
+          551,
+          551,
+          1075
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 791,
+            "pct": 2.4,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 538531,
+            "townName": "Praha-Nedvězí",
+            "reg": 791,
+            "pct": 85.15,
+            "elected": 5
+          },
+          {
+            "num": 539899,
+            "townName": "Praha-Zličín",
+            "reg": 791,
+            "pct": 42.75,
+            "elected": 7
+          },
+          {
+            "num": 539724,
+            "townName": "Praha-Šeberov",
+            "reg": 551,
+            "name": "Sdružení HPP, NK",
+            "coalition": [
+              80,
+              791
+            ],
+            "pct": 40.27,
+            "elected": 6
+          },
+          {
+            "num": 539449,
+            "townName": "Praha-Lipence",
+            "reg": 791,
+            "pct": 35.47,
+            "elected": 6
+          },
+          {
+            "num": 539791,
+            "townName": "Praha-Újezd",
+            "reg": 791,
+            "pct": 30.92,
+            "elected": 3
+          },
+          {
+            "num": 538931,
+            "townName": "Praha 22",
+            "reg": 791,
+            "pct": 30.87,
+            "elected": 8
+          },
+          {
+            "num": 538353,
+            "townName": "Praha-Koloděje",
+            "reg": 791,
+            "pct": 24.22,
+            "elected": 2
+          },
+          {
+            "num": 547115,
+            "townName": "Praha-Velká Chuchle",
+            "reg": 791,
+            "pct": 22.09,
+            "elected": 2
+          },
+          {
+            "num": 547310,
+            "townName": "Praha-Čakovice",
+            "reg": 791,
+            "pct": 21.4,
+            "elected": 5
+          },
+          {
+            "num": 547417,
+            "townName": "Praha 18",
+            "reg": 791,
+            "pct": 18.34,
+            "elected": 4
+          }
+        ],
+        "elected": 61
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

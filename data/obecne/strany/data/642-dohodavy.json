@@ -1,1 +1,34 @@
-{"reg":642,"name":"DOHODA pro Vysočinu","hash":"dohodavy","short":"DOHODAVY","coalition":[102,132,159],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":9,"reg":642,"elected":0}]}]}}
+{
+  "reg": 642,
+  "name": "DOHODA pro Vysočinu",
+  "hash": "dohodavy",
+  "short": "DOHODAVY",
+  "coalition": [
+    102,
+    132,
+    159
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 9,
+            "reg": 642,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

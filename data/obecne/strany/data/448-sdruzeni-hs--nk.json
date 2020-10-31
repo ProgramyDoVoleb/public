@@ -1,1 +1,42 @@
-{"reg":448,"name":"Sdružení HS, NK","hash":"sdruzeni-hs--nk","short":"Sdružení HS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":572926,"townName":"Hořice","reg":448,"pct":8.22,"elected":2}],"elected":2}]},"coalition":[80,100]}
+{
+  "reg": 448,
+  "name": "Sdružení HS, NK",
+  "hash": "sdruzeni-hs--nk",
+  "short": "Sdružení HS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 572926,
+            "townName": "Hořice",
+            "reg": 448,
+            "pct": 8.22,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    100
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

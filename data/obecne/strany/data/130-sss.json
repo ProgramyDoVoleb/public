@@ -1,1 +1,30 @@
-{"reg":130,"name":"Strana svobodných severu","hash":"sss","short":"SSS","links":{"global":[],"regional":[]},"color":"#31e7c8","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20001112,"list":[{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":6,"reg":130,"pct":1.69,"elected":0}]}]}}
+{
+  "reg": 130,
+  "name": "Strana svobodných severu",
+  "hash": "sss",
+  "short": "SSS",
+  "color": "#31e7c8",
+  "memberOf": [],
+  "activity": {
+    "last": 20001112,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 6,
+            "reg": 130,
+            "pct": 1.69,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

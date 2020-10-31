@@ -1,1 +1,72 @@
-{"reg":573,"name":"Sdružení ČSSD, SPOZ, NK","hash":"cssd-spoz-nk","short":"ČSSD+SPOZ+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[{"num":585068,"townName":"Zlín","reg":573,"pct":4.17,"elected":0}],"top10":[{"num":585068,"townName":"Zlín","reg":573,"pct":4.17,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":572551,"townName":"Vysočina","reg":573,"pct":27.62,"elected":2}],"elected":2}]},"coalition":[7,80,724]}
+{
+  "reg": 573,
+  "name": "Sdružení ČSSD, SPOZ, NK",
+  "hash": "cssd+spoz+nk",
+  "short": "ČSSD+SPOZ+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 573,
+            "pct": 4.17,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 573,
+            "pct": 4.17,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 572551,
+            "townName": "Vysočina",
+            "reg": 573,
+            "pct": 27.62,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "coalition": [
+    7,
+    80,
+    724
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

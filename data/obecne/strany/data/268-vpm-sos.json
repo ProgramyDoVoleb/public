@@ -1,1 +1,20 @@
-{"reg":268,"name":"Koalice politických stran Volba pro město a Strana pro otevřenou společnost","hash":"vpm-sos","short":"VPM+SOS","coalition":[103,113],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 268,
+  "name": "Koalice politických stran Volba pro město a Strana pro otevřenou společnost",
+  "hash": "vpm+sos",
+  "short": "VPM+SOS",
+  "coalition": [
+    103,
+    113
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

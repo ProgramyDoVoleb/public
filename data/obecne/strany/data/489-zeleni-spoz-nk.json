@@ -1,1 +1,43 @@
-{"reg":489,"name":"Sdružení Zelení, SPOZ, NK","hash":"zeleni-spoz-nk","short":"Zelení+SPOZ+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551279,"townName":"Brno-Vinohrady","reg":489,"pct":4.49,"elected":0}],"elected":0}]},"coalition":[5,80,724]}
+{
+  "reg": 489,
+  "name": "Sdružení Zelení, SPOZ, NK",
+  "hash": "zeleni+spoz+nk",
+  "short": "Zelení+SPOZ+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551279,
+            "townName": "Brno-Vinohrady",
+            "reg": 489,
+            "pct": 4.49,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "coalition": [
+    5,
+    80,
+    724
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

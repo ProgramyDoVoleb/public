@@ -1,1 +1,70 @@
-{"reg":361,"name":"Sdružení ČSNS, NK","hash":"sdruzeni-csns--nk","short":"Sdružení ČSNS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20101015,"list":[{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567639,"townName":"Krupka","reg":361,"pct":23.22,"elected":6}],"elected":6},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":2,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":567639,"townName":"Krupka","reg":361,"pct":17.35,"elected":4},{"num":552461,"townName":"Chotoviny","reg":361,"pct":14.73,"elected":2}],"elected":6}]},"coalition":[2,80]}
+{
+  "reg": 361,
+  "name": "Sdružení ČSNS, NK",
+  "hash": "sdruzeni-csns--nk",
+  "short": "Sdružení ČSNS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20101015,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567639,
+            "townName": "Krupka",
+            "reg": 361,
+            "pct": 23.22,
+            "elected": 6
+          }
+        ],
+        "elected": 6
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 567639,
+            "townName": "Krupka",
+            "reg": 361,
+            "pct": 17.35,
+            "elected": 4
+          },
+          {
+            "num": 552461,
+            "townName": "Chotoviny",
+            "reg": 361,
+            "pct": 14.73,
+            "elected": 2
+          }
+        ],
+        "elected": 6
+      }
+    ]
+  },
+  "coalition": [
+    2,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

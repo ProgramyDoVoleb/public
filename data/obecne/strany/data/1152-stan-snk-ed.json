@@ -1,1 +1,47 @@
-{"reg":1152,"name":"Starostové PRO VYSOČINU","hash":"stan-snk-ed","short":"STAN+SNK ED","coalition":[129,166],"links":{"global":[{"url":"https://www.facebook.com/ProVysocinu/","icon":"fb"}],"regional":[]},"color":"#aaa","logo":"/obecne/strany/loga/1152-starostovepv.png","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20161007,"list":[{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":9,"reg":1152,"elected":4}]}]}}
+{
+  "reg": 1152,
+  "name": "Starostové PRO VYSOČINU",
+  "hash": "stan+snk-ed",
+  "short": "STAN+SNK ED",
+  "coalition": [
+    129,
+    166
+  ],
+  "color": "#f4af03",
+  "logo": "/obecne/strany/loga/1152-starostovepv.png",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 9,
+            "reg": 1152,
+            "pct": 10.87,
+            "elected": 6
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 9,
+            "reg": 1152,
+            "elected": 4
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

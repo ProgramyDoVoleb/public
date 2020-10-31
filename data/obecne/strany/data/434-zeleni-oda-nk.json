@@ -1,1 +1,21 @@
-{"reg":434,"name":"Sdružení Zelení, ODA, NK","hash":"zeleni-oda-nk","short":"Zelení+ODA+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[5,13,80]}
+{
+  "reg": 434,
+  "name": "Sdružení Zelení, ODA, NK",
+  "hash": "zeleni+oda+nk",
+  "short": "Zelení+ODA+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    5,
+    13,
+    80
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

@@ -1,1 +1,309 @@
-{"reg":127,"name":"Republikáni Miroslava Sládka","hash":"rms","short":"RMS","links":{"global":[],"regional":[]},"color":"#18f260","usualCoalitionWith":[{"count":3,"reg":79},{"count":2,"reg":11},{"count":2,"reg":80},{"count":1,"reg":20}],"memberOf":[258,287,291,418,430],"activity":{"last":20061020,"list":[{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":6,"coalition":0},"coalitions":[],"list":[{"num":500496,"townName":"Olomouc","reg":127,"pct":0.15,"elected":0}],"top10":[{"num":576590,"townName":"Opočno","reg":127,"pct":1.24,"elected":0},{"num":533271,"townName":"Český Brod","reg":127,"pct":0.22,"elected":0},{"num":511382,"townName":"Přerov","reg":127,"pct":0.17,"elected":0},{"num":500496,"townName":"Olomouc","reg":127,"pct":0.15,"elected":0},{"num":513750,"townName":"Hranice","reg":127,"pct":0.04,"elected":0},{"num":552046,"townName":"Tábor","reg":127,"pct":0.02,"elected":0}],"elected":0},{"type":"krajske-volby","id":2004,"date":20041105,"list":[{"area":1,"reg":127,"pct":0.4,"elected":0},{"area":2,"reg":127,"pct":0.28,"elected":0},{"area":7,"reg":127,"pct":0.36,"elected":0},{"area":9,"reg":127,"pct":0.34,"elected":0},{"area":11,"reg":127,"pct":0.35,"elected":0},{"area":13,"reg":127,"pct":0.46,"elected":0}]},{"type":"evropske-volby","id":2004,"date":20040611,"reg":127,"pct":0.67,"elected":0},{"type":"snemovni-volby","id":2002,"date":20020614,"reg":127,"pct":0.97,"elected":0},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":1,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.29,"elected":0},{"area":2,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":0.99,"elected":0},{"area":3,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.07,"elected":0},{"area":4,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.86,"elected":0},{"area":5,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":3.14,"elected":0},{"area":6,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.56,"elected":0},{"area":7,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.15,"elected":0},{"area":8,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.02,"elected":0},{"area":9,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.21,"elected":0},{"area":10,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.44,"elected":0},{"area":11,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.23,"elected":0},{"area":12,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.07,"elected":0},{"area":13,"reg":258,"name":"REPUBLIKÁNI MIROSLAVA SLÁDKA","coalition":[11,79,127],"pct":1.49,"elected":0}]}]}}
+{
+  "reg": 127,
+  "name": "Republikáni Miroslava Sládka",
+  "hash": "rms",
+  "short": "RMS",
+  "color": "#18f260",
+  "memberOf": [
+    258,
+    287,
+    291,
+    418,
+    430
+  ],
+  "activity": {
+    "last": 20061020,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 6,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 127,
+            "pct": 0.15,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 576590,
+            "townName": "Opočno",
+            "reg": 127,
+            "pct": 1.24,
+            "elected": 0
+          },
+          {
+            "num": 533271,
+            "townName": "Český Brod",
+            "reg": 127,
+            "pct": 0.22,
+            "elected": 0
+          },
+          {
+            "num": 511382,
+            "townName": "Přerov",
+            "reg": 127,
+            "pct": 0.17,
+            "elected": 0
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 127,
+            "pct": 0.15,
+            "elected": 0
+          },
+          {
+            "num": 513750,
+            "townName": "Hranice",
+            "reg": 127,
+            "pct": 0.04,
+            "elected": 0
+          },
+          {
+            "num": 552046,
+            "townName": "Tábor",
+            "reg": 127,
+            "pct": 0.02,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 127,
+            "pct": 0.4,
+            "elected": 0
+          },
+          {
+            "area": 2,
+            "reg": 127,
+            "pct": 0.28,
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 127,
+            "pct": 0.36,
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 127,
+            "pct": 0.34,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 127,
+            "pct": 0.35,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 127,
+            "pct": 0.46,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2004,
+        "date": 20040611,
+        "reg": 127,
+        "pct": 0.67,
+        "elected": 0
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 2002,
+        "date": 20020614,
+        "reg": 127,
+        "pct": 0.97,
+        "elected": 0
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 1,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.29,
+            "elected": 0
+          },
+          {
+            "area": 2,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 0.99,
+            "elected": 0
+          },
+          {
+            "area": 3,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.07,
+            "elected": 0
+          },
+          {
+            "area": 4,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.86,
+            "elected": 0
+          },
+          {
+            "area": 5,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 3.14,
+            "elected": 0
+          },
+          {
+            "area": 6,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.56,
+            "elected": 0
+          },
+          {
+            "area": 7,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.15,
+            "elected": 0
+          },
+          {
+            "area": 8,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.02,
+            "elected": 0
+          },
+          {
+            "area": 9,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.21,
+            "elected": 0
+          },
+          {
+            "area": 10,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.44,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.23,
+            "elected": 0
+          },
+          {
+            "area": 12,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.07,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 258,
+            "name": "REPUBLIKÁNI MIROSLAVA SLÁDKA",
+            "coalition": [
+              11,
+              79,
+              127
+            ],
+            "pct": 1.49,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

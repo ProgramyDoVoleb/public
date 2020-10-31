@@ -1,1 +1,24 @@
-{"reg":604,"name":"Koalice pro Českou republiku","hash":"koal_cr","short":"Koal_ČR","coalition":[2,9,40,157,159,178],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 604,
+  "name": "Koalice pro Českou republiku",
+  "hash": "koal_cr",
+  "short": "Koal_ČR",
+  "coalition": [
+    2,
+    9,
+    40,
+    157,
+    159,
+    178
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

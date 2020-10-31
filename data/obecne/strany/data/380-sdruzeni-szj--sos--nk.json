@@ -1,1 +1,21 @@
-{"reg":380,"name":"Sdružení SŽJ, SOS, NK","hash":"sdruzeni-szj--sos--nk","short":"Sdružení SŽJ, SOS, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]},"coalition":[20,80,103]}
+{
+  "reg": 380,
+  "name": "Sdružení SŽJ, SOS, NK",
+  "hash": "sdruzeni-szj--sos--nk",
+  "short": "Sdružení SŽJ, SOS, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "coalition": [
+    20,
+    80,
+    103
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

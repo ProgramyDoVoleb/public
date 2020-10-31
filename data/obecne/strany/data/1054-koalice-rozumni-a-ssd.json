@@ -1,1 +1,57 @@
-{"reg":1054,"name":"Koalice Rozumní a SSD","hash":"koalice-rozumni-a-ssd","short":"Koalice Rozumní a SSD","coalition":[29,137],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":2,"coalition":0},"coalitions":[],"list":[{"num":554782,"townName":"Hlavní město Praha","reg":1054,"pct":0.4,"elected":0}],"top10":[{"num":547042,"townName":"Praha-Kunratice","reg":1054,"pct":4.81,"elected":0},{"num":554782,"townName":"Hlavní město Praha","reg":1054,"pct":0.4,"elected":0}],"elected":0}]}}
+{
+  "reg": 1054,
+  "name": "Koalice Rozumní a SSD",
+  "hash": "koalice-rozumni-a-ssd",
+  "short": "Koalice Rozumní a SSD",
+  "coalition": [
+    29,
+    137
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 2,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1054,
+            "pct": 0.4,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 547042,
+            "townName": "Praha-Kunratice",
+            "reg": 1054,
+            "pct": 4.81,
+            "elected": 0
+          },
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 1054,
+            "pct": 0.4,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

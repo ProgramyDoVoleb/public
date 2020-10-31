@@ -1,1 +1,45 @@
-{"reg":1417,"name":"Sdružení KDU-ČSL, Nestran., Piráti, TOP 09, NK","hash":"kdu-ne-p-top-nk","short":"KDU+Ne+P+TOP+NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":555096,"townName":"Pardubice IV","reg":1417,"pct":11.76,"elected":2}],"elected":2}]},"coalition":[1,80,181,720,721]}
+{
+  "reg": 1417,
+  "name": "Sdružení KDU-ČSL, Nestran., Piráti, TOP 09, NK",
+  "hash": "kdu+ne+p+top+nk",
+  "short": "KDU+Ne+P+TOP+NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 555096,
+            "townName": "Pardubice IV",
+            "reg": 1417,
+            "pct": 11.76,
+            "elected": 2
+          }
+        ],
+        "elected": 2
+      }
+    ]
+  },
+  "coalition": [
+    1,
+    80,
+    181,
+    720,
+    721
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

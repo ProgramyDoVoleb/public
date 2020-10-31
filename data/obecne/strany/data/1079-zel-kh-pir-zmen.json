@@ -1,1 +1,44 @@
-{"reg":1079,"name":"Koalice Zelení, KH, Piráti a Změna","hash":"zel-kh-pir-zmen","short":"Zel+KH+Pir+Změn","coalition":[5,199,720,771],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20141010,"list":[{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":544256,"townName":"České Budějovice","reg":1079,"pct":3.96,"elected":0}],"elected":0}]}}
+{
+  "reg": 1079,
+  "name": "Koalice Zelení, KH, Piráti a Změna",
+  "hash": "zel+kh+pir+zmen",
+  "short": "Zel+KH+Pir+Změn",
+  "coalition": [
+    5,
+    199,
+    720,
+    771
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20141010,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 544256,
+            "townName": "České Budějovice",
+            "reg": 1079,
+            "pct": 3.96,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

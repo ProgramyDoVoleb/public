@@ -1,0 +1,49 @@
+{
+  "reg": 1209,
+  "name": "Vize národních socialistů",
+  "hash": "vize-ns",
+  "short": "VIZE-NS",
+  "logo": "/obecne/strany/loga/1209-ne-volim.png",
+  "color": "#0b8c04",
+  "memberOf": [],
+  "activity": {
+    "last": 20190524,
+    "list": [
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1209,
+        "pct": 0.09,
+        "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 29,
+            "reg": 1209,
+            "nominee": 1209,
+            "candidate": [
+              "",
+              "Jan",
+              "Vondrouš",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.88,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

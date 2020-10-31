@@ -1,1 +1,21 @@
-{"reg":241,"name":"Koalice ODA, ODS, DEU","hash":"koalice-oda--ods--deu","short":"Koalice ODA, ODS, DEU","coalition":[13,53,81],"links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":0,"list":[]}}
+{
+  "reg": 241,
+  "name": "Koalice ODA, ODS, DEU",
+  "hash": "koalice-oda--ods--deu",
+  "short": "Koalice ODA, ODS, DEU",
+  "coalition": [
+    13,
+    53,
+    81
+  ],
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 0,
+    "list": []
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

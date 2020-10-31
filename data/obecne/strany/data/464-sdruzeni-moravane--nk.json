@@ -1,1 +1,204 @@
-{"reg":464,"name":"Sdružení Moravané, NK","hash":"sdruzeni-moravane--nk","short":"Sdružení Moravané, NK","links":{"global":[],"regional":[]},"color":"#aaa","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20181005,"list":[{"type":"komunalni-volby","id":2018,"date":20181005,"count":{"self":7,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":586765,"townName":"Vracov","reg":464,"pct":39.35,"elected":6},{"num":541079,"townName":"Staré Město","reg":464,"pct":24.28,"elected":4},{"num":584291,"townName":"Břeclav","reg":464,"pct":19.33,"elected":5},{"num":592170,"townName":"Hluk","reg":464,"pct":13.52,"elected":3},{"num":586722,"townName":"Veselí nad Moravou","reg":464,"pct":12.71,"elected":3},{"num":552674,"townName":"Střítež","reg":464,"pct":5.82,"elected":0},{"num":551147,"townName":"Brno-Kohoutovice","reg":464,"pct":3.02,"elected":0}],"elected":21},{"type":"komunalni-volby","id":2014,"date":20141010,"count":{"self":8,"coalition":0},"coalitions":[],"list":[{"num":582786,"townName":"Brno","reg":464,"pct":1.34,"elected":0}],"top10":[{"num":596396,"townName":"Pavlov","reg":464,"pct":30.91,"elected":2},{"num":583537,"townName":"Ochoz u Brna","reg":464,"pct":30.4,"elected":3},{"num":541079,"townName":"Staré Město","reg":464,"pct":16.53,"elected":2},{"num":592901,"townName":"Bohdalice-Pavlovice","reg":464,"pct":13.09,"elected":1},{"num":551147,"townName":"Brno-Kohoutovice","reg":464,"pct":4.77,"elected":1},{"num":582786,"townName":"Brno","reg":464,"pct":1.34,"elected":0},{"num":592731,"townName":"Uherský Brod","reg":464,"pct":0.93,"elected":0},{"num":505927,"townName":"Opava","reg":464,"pct":0.42,"elected":0}],"elected":9},{"type":"komunalni-volby","id":2010,"date":20101015,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551279,"townName":"Brno-Vinohrady","reg":464,"pct":3.04,"elected":0}],"elected":0},{"type":"komunalni-volby","id":2006,"date":20061020,"count":{"self":1,"coalition":0},"coalitions":[],"list":[],"top10":[{"num":551279,"townName":"Brno-Vinohrady","reg":464,"pct":5.74,"elected":1}],"elected":1}]},"coalition":[80,83]}
+{
+  "reg": 464,
+  "name": "Sdružení Moravané, NK",
+  "hash": "sdruzeni-moravane--nk",
+  "short": "Sdružení Moravané, NK",
+  "color": "#aaa",
+  "memberOf": [],
+  "activity": {
+    "last": 20181005,
+    "list": [
+      {
+        "type": "komunalni-volby",
+        "id": 2018,
+        "date": 20181005,
+        "count": {
+          "self": 7,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 586765,
+            "townName": "Vracov",
+            "reg": 464,
+            "pct": 39.35,
+            "elected": 6
+          },
+          {
+            "num": 541079,
+            "townName": "Staré Město",
+            "reg": 464,
+            "pct": 24.28,
+            "elected": 4
+          },
+          {
+            "num": 584291,
+            "townName": "Břeclav",
+            "reg": 464,
+            "pct": 19.33,
+            "elected": 5
+          },
+          {
+            "num": 592170,
+            "townName": "Hluk",
+            "reg": 464,
+            "pct": 13.52,
+            "elected": 3
+          },
+          {
+            "num": 586722,
+            "townName": "Veselí nad Moravou",
+            "reg": 464,
+            "pct": 12.71,
+            "elected": 3
+          },
+          {
+            "num": 552674,
+            "townName": "Střítež",
+            "reg": 464,
+            "pct": 5.82,
+            "elected": 0
+          },
+          {
+            "num": 551147,
+            "townName": "Brno-Kohoutovice",
+            "reg": 464,
+            "pct": 3.02,
+            "elected": 0
+          }
+        ],
+        "elected": 21
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2014,
+        "date": 20141010,
+        "count": {
+          "self": 8,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 464,
+            "pct": 1.34,
+            "elected": 0
+          }
+        ],
+        "top10": [
+          {
+            "num": 596396,
+            "townName": "Pavlov",
+            "reg": 464,
+            "pct": 30.91,
+            "elected": 2
+          },
+          {
+            "num": 583537,
+            "townName": "Ochoz u Brna",
+            "reg": 464,
+            "pct": 30.4,
+            "elected": 3
+          },
+          {
+            "num": 541079,
+            "townName": "Staré Město",
+            "reg": 464,
+            "pct": 16.53,
+            "elected": 2
+          },
+          {
+            "num": 592901,
+            "townName": "Bohdalice-Pavlovice",
+            "reg": 464,
+            "pct": 13.09,
+            "elected": 1
+          },
+          {
+            "num": 551147,
+            "townName": "Brno-Kohoutovice",
+            "reg": 464,
+            "pct": 4.77,
+            "elected": 1
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 464,
+            "pct": 1.34,
+            "elected": 0
+          },
+          {
+            "num": 592731,
+            "townName": "Uherský Brod",
+            "reg": 464,
+            "pct": 0.93,
+            "elected": 0
+          },
+          {
+            "num": 505927,
+            "townName": "Opava",
+            "reg": 464,
+            "pct": 0.42,
+            "elected": 0
+          }
+        ],
+        "elected": 9
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551279,
+            "townName": "Brno-Vinohrady",
+            "reg": 464,
+            "pct": 3.04,
+            "elected": 0
+          }
+        ],
+        "elected": 0
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2006,
+        "date": 20061020,
+        "count": {
+          "self": 1,
+          "coalition": 0
+        },
+        "coalitions": [],
+        "list": [],
+        "top10": [
+          {
+            "num": 551279,
+            "townName": "Brno-Vinohrady",
+            "reg": 464,
+            "pct": 5.74,
+            "elected": 1
+          }
+        ],
+        "elected": 1
+      }
+    ]
+  },
+  "coalition": [
+    80,
+    83
+  ],
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

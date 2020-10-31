@@ -1,1 +1,54 @@
-{"reg":76,"name":"Československá strana socialistická","hash":"css","short":"ČSS","links":{"global":[],"regional":[]},"color":"#b32f8e","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20161007,"list":[{"type":"krajske-volby","id":2016,"date":20161007,"list":[{"area":11,"reg":76,"elected":0}]},{"type":"krajske-volby","id":2000,"date":20001112,"list":[{"area":5,"reg":76,"pct":0.2,"elected":0},{"area":11,"reg":76,"pct":0.11,"elected":0},{"area":13,"reg":76,"pct":0.12,"elected":0}]}]}}
+{
+  "reg": 76,
+  "name": "Československá strana socialistická",
+  "hash": "css",
+  "short": "ČSS",
+  "color": "#b32f8e",
+  "memberOf": [],
+  "activity": {
+    "last": 20161007,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 11,
+            "reg": 76,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2000,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 5,
+            "reg": 76,
+            "pct": 0.2,
+            "elected": 0
+          },
+          {
+            "area": 11,
+            "reg": 76,
+            "pct": 0.11,
+            "elected": 0
+          },
+          {
+            "area": 13,
+            "reg": 76,
+            "pct": 0.12,
+            "elected": 0
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

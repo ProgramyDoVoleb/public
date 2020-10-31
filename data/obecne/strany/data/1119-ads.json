@@ -1,1 +1,45 @@
-{"reg":1119,"name":"Agrární demokratická strana","hash":"ads","short":"ADS","links":{"global":[],"regional":[]},"logo":"/obecne/strany/loga/1119-ads-2.png","color":"#e959d2","usualCoalitionWith":[],"memberOf":[],"activity":{"last":20190524,"list":[{"type":"evropske-volby","id":2019,"date":20190524,"reg":1119,"pct":0.16,"elected":0}]}}
+{
+  "reg": 1119,
+  "name": "Agrární demokratická strana",
+  "hash": "ads",
+  "short": "ADS",
+  "logo": "/obecne/strany/loga/1119-ads-2.png",
+  "color": "#e959d2",
+  "memberOf": [],
+  "activity": {
+    "last": 20201002,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2020,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 3,
+            "reg": 1474,
+            "name": "Koalice KDU-ČSL, ADS a Nestran.",
+            "coalition": [
+              1,
+              181,
+              1119
+            ],
+            "pct": 4.36,
+            "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "evropske-volby",
+        "id": 2019,
+        "date": 20190524,
+        "reg": 1119,
+        "pct": 0.16,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

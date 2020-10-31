@@ -1,1 +1,178 @@
-{"reg":32,"name":"Českomoravská unie středu","hash":"cmus","short":"ČMUS","links":{"global":[],"regional":[]},"color":"#a9ab4b","usualCoalitionWith":[{"count":1,"reg":46},{"count":1,"reg":83}],"memberOf":[345],"activity":{"last":19961116,"list":[{"type":"senatni-volby","id":19961116,"date":19961116,"list":[{"area":13,"reg":32,"nominee":80,"candidate":["JUDr.","Vladimír","Trojáček",""],"elected":false,"round1":{"pct":1.69,"progress":false}},{"area":52,"reg":32,"nominee":80,"candidate":["MUDr.","Jaroslav","Řičánek",""],"elected":false,"round1":{"pct":4.82,"progress":false}},{"area":56,"reg":32,"nominee":80,"candidate":["","Václav","Petrásek",""],"elected":false,"round1":{"pct":9.84,"progress":false}},{"area":62,"reg":32,"nominee":80,"candidate":["","","Procházka","CSc."],"elected":false,"round1":{"pct":5.83,"progress":false}},{"area":66,"reg":32,"nominee":80,"candidate":["Ing.","Josef","Křížek",""],"elected":false,"round1":{"pct":6.14,"progress":false}},{"area":74,"reg":32,"nominee":80,"candidate":["","Petr","Hrubý",""],"elected":false,"round1":{"pct":0.42,"progress":false}},{"area":75,"reg":32,"nominee":80,"candidate":["Mgr.","Jaroslav","Dadok",""],"elected":false,"round1":{"pct":1.53,"progress":false}},{"area":79,"reg":32,"nominee":80,"candidate":["Ing.","František","Karkoška",""],"elected":false,"round1":{"pct":1.22,"progress":false}},{"area":81,"reg":32,"nominee":80,"candidate":["JUDr.,Ing.","Jan","Jegla",""],"elected":false,"round1":{"pct":4.71,"progress":false}}]},{"type":"snemovni-volby","id":1996,"date":19960531,"reg":32,"pct":0.45,"elected":0}]}}
+{
+  "reg": 32,
+  "name": "Českomoravská unie středu",
+  "hash": "cmus",
+  "short": "ČMUS",
+  "color": "#a9ab4b",
+  "memberOf": [
+    345
+  ],
+  "activity": {
+    "last": 19961116,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 13,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "JUDr.",
+              "Vladimír",
+              "Trojáček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.69,
+              "progress": false
+            }
+          },
+          {
+            "area": 52,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "MUDr.",
+              "Jaroslav",
+              "Řičánek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Václav",
+              "Petrásek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 62,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "",
+              "Procházka",
+              "CSc."
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.83,
+              "progress": false
+            }
+          },
+          {
+            "area": 66,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Křížek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Petr",
+              "Hrubý",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.42,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "Mgr.",
+              "Jaroslav",
+              "Dadok",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Karkoška",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.22,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 32,
+            "nominee": 80,
+            "candidate": [
+              "JUDr.,Ing.",
+              "Jan",
+              "Jegla",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.71,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "snemovni-volby",
+        "id": 1996,
+        "date": 19960531,
+        "reg": 32,
+        "pct": 0.45,
+        "elected": 0
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}

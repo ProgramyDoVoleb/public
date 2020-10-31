@@ -1,1 +1,33 @@
-{"reg":630,"name":"Koalice pro Karlovarský kraj","coalition":[1,112],"short":"KOAL_KV1","color":"#aaa","hash":"koal_kv1","memberOf":[],"usualCoalitionWith":[],"activity":{"last":20081017,"list":[{"type":"krajske-volby","id":2008,"date":20081017,"list":[{"area":4,"reg":630,"elected":3}]}]}}
+{
+  "reg": 630,
+  "name": "Koalice pro Karlovarský kraj",
+  "coalition": [
+    1,
+    112
+  ],
+  "short": "KOAL_KV1",
+  "color": "#aaa",
+  "hash": "koal_kv1",
+  "memberOf": [],
+  "activity": {
+    "last": 20081017,
+    "list": [
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 4,
+            "reg": 630,
+            "elected": 3
+          }
+        ]
+      }
+    ]
+  },
+  "links": {
+    "global": [],
+    "regional": []
+  }
+}
