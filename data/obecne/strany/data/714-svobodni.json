@@ -1459,7 +1459,35 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.svobodni.cz",
+      "https://cs.wikipedia.org/wiki/Strana_svobodn%C3%BDch_ob%C4%8Dan%C5%AF",
+      "https://www.facebook.com/svobodni",
+      "http://www.youtube.com/user/svobodni",
+      "https://www.instagram.com/svobodni_cz",
+      "https://twitter.com/svobodni"
+    ],
+    "regional": [
+      {
+        "region": 2,
+        "links": []
+      },
+      {
+        "region": 7,
+        "links": []
+      },
+      {
+        "region": 10,
+        "links": []
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://zlinskykraj.svobodni.cz/",
+          "https://www.facebook.com/svobodnizk/",
+          "https://twitter.com/SvobodniVychod"
+        ]
+      }
+    ]
   }
 }

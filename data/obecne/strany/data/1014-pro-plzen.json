@@ -53,6 +53,11 @@
   },
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 3,
+        "links": []
+      }
+    ]
   }
 }

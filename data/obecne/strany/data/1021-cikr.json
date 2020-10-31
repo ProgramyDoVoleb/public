@@ -1,9 +1,9 @@
 {
   "reg": 1021,
   "name": "Čistý kraj",
-  "hash": "cikr",
-  "short": "ČiKR",
-  "color": "#2ee5e7",
+  "hash": "cisty-kraj",
+  "short": "Čistý kraj",
+  "color": "#fb171b",
   "memberOf": [],
   "activity": {
     "last": 20201002,
@@ -208,5 +208,6 @@
   "links": {
     "global": [],
     "regional": []
-  }
+  },
+  "logo": "obecne/strany/loga/x-cisty-kraj.jpg"
 }

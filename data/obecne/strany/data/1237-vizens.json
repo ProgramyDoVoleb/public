@@ -4,10 +4,13 @@
   "hash": "vizens",
   "short": "VIZENS",
   "links": {
-    "global": [],
+    "global": [
+      "https://www.vizens.cz/",
+      "https://www.facebook.com/Vize-n%C3%A1rodn%C3%AD-socialist%C3%A9-109573630813341/"
+    ],
     "regional": []
   },
-  "color": "#aaa",
+  "color": "#f81c1c",
   "activity": {
     "last": 20201002,
     "list": [
@@ -31,5 +34,6 @@
         ]
       }
     ]
-  }
+  },
+  "logo": "obecne/strany/loga/x-vize-narsoc.jpg"
 }

@@ -380,7 +380,28 @@
   },
   "logo": "/obecne/strany/loga/795-les.png",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://stranales.cz/"
+    ],
+    "regional": [
+      {
+        "region": 5,
+        "links": []
+      },
+      {
+        "region": 6,
+        "links": []
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://www.facebook.com/lesvhk/"
+        ]
+      },
+      {
+        "region": 10,
+        "links": []
+      }
+    ]
   }
 }

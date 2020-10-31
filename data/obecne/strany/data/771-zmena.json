@@ -1,6 +1,6 @@
 {
   "reg": 771,
-  "name": "politické hnutí Změna",
+  "name": "Změna",
   "hash": "zmena",
   "short": "Změna",
   "color": "#72bf44",
@@ -576,7 +576,20 @@
   },
   "logo": "/obecne/strany/loga/771-zmena.png",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://zmenaprolidiaprokrajinu.cz/",
+      "https://www.facebook.com/ZmenaproLK/",
+      "https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
+    ],
+    "regional": [
+      {
+        "region": 6,
+        "links": [
+          "https://zmenaprolidiaprokrajinu.cz/",
+          "https://www.facebook.com/ZmenaproLK/",
+          "https://www.youtube.com/channel/UCxj1s0fejmtMzz69YCUMNlg/"
+        ]
+      }
+    ]
   }
 }

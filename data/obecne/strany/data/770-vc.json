@@ -371,7 +371,18 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://vychodocesi.cz/",
+      "https://www.facebook.com/vychodocesi/"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://www.vychodocesi.cz",
+          "https://www.facebook.com/vychodocesi"
+        ]
+      }
+    ]
   }
 }

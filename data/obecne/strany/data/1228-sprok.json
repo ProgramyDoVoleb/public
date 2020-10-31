@@ -1,11 +1,16 @@
 {
   "reg": 1228,
   "name": "Společně pro kraj",
-  "hash": "sprok",
-  "short": "SproK",
+  "hash": "spolecne-pro-kraj",
+  "short": "Společně pro kraj",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 8,
+        "links": []
+      }
+    ]
   },
   "color": "#aaa",
   "usualCoalitionWith": [],

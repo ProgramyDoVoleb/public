@@ -1,11 +1,16 @@
 {
   "reg": 1230,
   "name": "Patrioti Olomouckého kraje",
-  "hash": "pok",
-  "short": "POK",
+  "hash": "patrioti-olomouckeho-kraje",
+  "short": "Patrioti Olomouckého kraje",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 11,
+        "links": []
+      }
+    ]
   },
   "color": "#aaa",
   "activity": {
@@ -30,5 +35,6 @@
         ]
       }
     ]
-  }
+  },
+  "logo": "obecne/strany/loga/x-patrioti-olk.png"
 }

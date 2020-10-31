@@ -1119,7 +1119,86 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://spd.cz",
+      "https://cs.wikipedia.org/wiki/Svoboda_a_p%C5%99%C3%ADm%C3%A1_demokracie",
+      "https://www.facebook.com/hnutispd",
+      "https://www.twitter.com/spd_cz"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.facebook.com/SPDstredocesky/"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://www.facebook.com/SPDjihocesky/"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://www.facebook.com/SPDplzensky/"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://www.facebook.com/SPDkarlovarsky/"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.spd.cz/region/ustecky-kraj",
+          "https://www.facebook.com/SPDustecky"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.facebook.com/spdliberecky/"
+        ]
+      },
+      {
+        "region": 7,
+        "links": []
+      },
+      {
+        "region": 8,
+        "links": []
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.facebook.com/spdvysocina/"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://www.facebook.com/SPDjiznimorava/"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.facebook.com/spdolomoucky/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://www.facebook.com/spdzlinsky/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": []
+      }
+    ]
   }
 }

@@ -598,7 +598,14 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.starostovepromoravu.cz/"
+    ],
+    "regional": [
+      {
+        "region": 10,
+        "links": []
+      }
+    ]
   }
 }

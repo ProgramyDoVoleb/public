@@ -207,6 +207,11 @@
   },
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 10,
+        "links": []
+      }
+    ]
   }
 }

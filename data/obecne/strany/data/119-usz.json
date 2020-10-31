@@ -471,6 +471,11 @@
   "logo": "/obecne/strany/loga/119-unie-pro-zdravi-a-sport.png",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 5,
+        "links": []
+      }
+    ]
   }
 }

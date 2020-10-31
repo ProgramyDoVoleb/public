@@ -39,7 +39,20 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.adstrana.cz",
+      "https://www.facebook.com/adstrana",
+      "https://www.instagram.com/verni_agrarnici_ads"
+    ],
+    "regional": [
+      {
+        "region": 3,
+        "links": [
+          "http://www.adstrana.cz",
+          "https://www.facebook.com/adstrana",
+          "https://www.instagram.com/verni_agrarnici_ads"
+        ]
+      }
+    ]
   }
 }

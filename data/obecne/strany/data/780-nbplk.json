@@ -3,7 +3,7 @@
   "name": "Nová budoucnost pro Liberecký kraj",
   "hash": "nbplk",
   "short": "NBPLK",
-  "color": "#9fbf1f",
+  "color": "#72bf44",
   "memberOf": [
     550,
     1149
@@ -202,7 +202,17 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
-  }
+    "global": [
+      "https://www.facebook.com/NBPLK/"
+    ],
+    "regional": [
+      {
+        "region": 6,
+        "links": [
+          "https://www.facebook.com/NBPLK/"
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/780-nbplk.jpg"
 }

@@ -122,7 +122,20 @@
   },
   "logo": "/obecne/strany/loga/136-tabor2020.jpg",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.tabor2020.cz",
+      "https://www.facebook.com/tabor2020",
+      "https://www.instagram.com/tabor2020"
+    ],
+    "regional": [
+      {
+        "region": 2,
+        "links": [
+          "https://www.tabor2020.cz",
+          "https://www.facebook.com/tabor2020",
+          "https://www.instagram.com/tabor2020"
+        ]
+      }
+    ]
   }
 }

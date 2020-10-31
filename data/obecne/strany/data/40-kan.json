@@ -768,6 +768,15 @@
   },
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 1,
+        "links": []
+      },
+      {
+        "region": 9,
+        "links": []
+      }
+    ]
   }
 }

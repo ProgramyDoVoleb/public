@@ -107,7 +107,18 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://hdkhk.cz/",
+      "https://www.facebook.com/hdkhk/"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://www.hdkhk.cz",
+          "https://www.facebook.com/hdkhk"
+        ]
+      }
+    ]
   }
 }

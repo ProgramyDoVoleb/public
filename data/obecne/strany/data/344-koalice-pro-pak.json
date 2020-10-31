@@ -1,8 +1,8 @@
 {
   "reg": 344,
-  "name": "Koalice KDU-ČSL, SNK ED, Nestraníci",
-  "hash": "koalice-pro-pak",
-  "short": "Koalice pro PaK",
+  "name": "Koalice pro Pardubický kraj",
+  "hash": "kdu-snked-nestr",
+  "short": "Koalice pro PAK",
   "coalition": [
     1,
     129,
@@ -63,7 +63,22 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.koalicepk.cz/",
+      "http://pardubicky-kraj.kdu.cz",
+      "https://www.facebook.com/koalicepropardubickykraj/",
+      "https://www.instagram.com/koalice_pro_pardubicky_kraj/"
+    ],
+    "regional": [
+      {
+        "region": 8,
+        "links": [
+          "https://www.koalicepk.cz",
+          "http://pardubicky-kraj.kdu.cz",
+          "https://www.facebook.com/koalicepropardubickykraj/",
+          "https://www.instagram.com/koalice_pro_pardubicky_kraj/"
+        ]
+      }
+    ]
   }
 }

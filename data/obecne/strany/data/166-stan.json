@@ -2704,7 +2704,104 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.starostove-nezavisli.cz",
+      "https://cs.wikipedia.org/wiki/Starostov%C3%A9_a_nez%C3%A1visl%C3%AD",
+      "https://www.facebook.com/starostove",
+      "https://www.youtube.com/channel/UC_IGa0-F710u9c0WMNgdOSA",
+      "https://twitter.com/STANcz"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/stredocesky-kraj",
+          "https://www.facebook.com/starostove.stredocesky",
+          "https://twitter.com/STAN_Stc"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/jihocesky-kraj",
+          "https://www.facebook.com/starostove.jihocesky",
+          "https://twitter.com/stan_jck"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/plzensky-kraj",
+          "https://www.facebook.com/starostove.plzensky/",
+          "https://twitter.com/STAN_Plz"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/karlovarsky-kraj",
+          "https://www.facebook.com/stankarlovarskykraj"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/ustecky-kraj",
+          "https://www.facebook.com/starostove.ustecky/"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/kralovehradecky-kraj",
+          "https://www.facebook.com/starostove.kralovehradecky/",
+          "https://twitter.com/stan_kraj"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.stan-pardubickykraj.cz",
+          "https://www.facebook.com/starostove.pardubicky",
+          "https://twitter.com/stan_pardk"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/vysocina",
+          "https://www.facebook.com/STAN.Kraj.Vysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/jihomoravsky-kraj",
+          "https://twitter.com/stan_jmk"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/olomoucky-kraj",
+          "https://www.facebook.com/starostoveolomouckykraj/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://www.starostove-nezavisli.cz/regiony/zlinsky-kraj",
+          "https://www.facebook.com/starostove.zlinsky/",
+          "https://twitter.com/STANzlk"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://www.starostove-nezavisli.cz/regiony/moravskoslezsky-kraj",
+          "https://www.facebook.com/StanMoravskoslezskyKraj/"
+        ]
+      }
+    ]
   }
 }

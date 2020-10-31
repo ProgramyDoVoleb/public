@@ -1356,7 +1356,22 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.nezavisli.cz/",
+      "https://www.facebook.com/nezavisliostrava.cz/",
+      "https://www.youtube.com/channel/UCfo7SCMrjB0apRKJoR1OP4w"
+    ],
+    "regional": [
+      {
+        "region": 12,
+        "links": []
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://www.facebook.com/hnutinezavisli"
+        ]
+      }
+    ]
   }
 }

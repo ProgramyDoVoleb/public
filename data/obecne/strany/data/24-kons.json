@@ -807,6 +807,11 @@
   },
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 1,
+        "links": []
+      }
+    ]
   }
 }

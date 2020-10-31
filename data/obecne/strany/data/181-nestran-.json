@@ -794,6 +794,19 @@
   },
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 3,
+        "links": []
+      },
+      {
+        "region": 7,
+        "links": []
+      },
+      {
+        "region": 8,
+        "links": []
+      }
+    ]
   }
 }

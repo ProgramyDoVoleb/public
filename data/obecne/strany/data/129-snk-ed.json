@@ -1961,7 +1961,27 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.snked.cz/",
+      "https://www.facebook.com/snked/"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": []
+      },
+      {
+        "region": 5,
+        "links": []
+      },
+      {
+        "region": 8,
+        "links": []
+      },
+      {
+        "region": 9,
+        "links": []
+      }
+    ]
   }
 }

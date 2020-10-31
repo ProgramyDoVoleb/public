@@ -3,7 +3,7 @@
   "name": "Strana pro otevřenou společnost",
   "hash": "sos",
   "short": "SOS",
-  "color": "#e5b0e2",
+  "color": "#ffca00",
   "memberOf": [
     217,
     245,
@@ -942,7 +942,18 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
-  }
+    "global": [
+      "https://www.instagram.com/aznakraj"
+    ],
+    "regional": [
+      {
+        "region": 6,
+        "links": [
+          "https://www.instagram.com/aznakraj",
+          "https://www.facebook.com/SOSzaLK/"
+        ]
+      }
+    ]
+  },
+  "logo": "/obecne/strany/loga/103-sos.jpg"
 }

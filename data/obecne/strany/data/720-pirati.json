@@ -1453,7 +1453,121 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.pirati.cz",
+      "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_pir%C3%A1tsk%C3%A1_strana",
+      "https://www.facebook.com/ceska.piratska.strana",
+      "https://www.instagram.com/pirati.cz",
+      "https://twitter.com/PiratskaStrana"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://stredocesky.pirati.cz",
+          "https://www.facebook.com/PiratiStredniCechy",
+          "https://www.twitter.com/pirati_sck",
+          "https://www.instagram.com/stredocestipirati/"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://jihocesky.pirati.cz",
+          "https://www.facebook.com/pirati.jck",
+          "https://www.twitter.com/PiratiJcK",
+          "https://www.instagram.com/pirati.jihocesky"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://plzensky.pirati.cz",
+          "https://www.facebook.com/pirati.plzensky.kraj",
+          "https://twitter.com/pirati_pl"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://karlovarsky.pirati.cz/",
+          "https://www.facebook.com/pirati.karlovarsko",
+          "https://twitter.com/Pirati_KaKr",
+          "https://www.instagram.com/pirati.karlovarsko"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://ustecky.pirati.cz",
+          "https://www.facebook.com/pirati.ulk",
+          "https://twitter.com/PiratiUstecko",
+          "https://www.instagram.com/pirati_uk"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://liberecky.pirati.cz",
+          "https://www.facebook.com/PiratiLib",
+          "https://twitter.com/PiratiLik",
+          "https://www.instagram.com/piratiliberecko/"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://kralovehradecky.pirati.cz/",
+          "https://www.facebook.com/pirati.khk"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://pardubicky.pirati.cz",
+          "https://www.facebook.com/pirati.pardubicko/",
+          "https://www.instagram.com/pirati.pardubickykraj/"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://vysocina.pirati.cz",
+          "https://www.facebook.com/pirati.vysocina",
+          "https://twitter.com/pirativys",
+          "https://www.instagram.com/pirati_vysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://jihomoravsky.pirati.cz",
+          "https://www.facebook.com/CPS.JMK"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://olomoucko.pirati.cz",
+          "https://www.facebook.com/piratiOlomoucko"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://zlinsky.pirati.cz",
+          "https://www.facebook.com/piratizlk/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://moravskoslezsky.pirati.cz/",
+          "https://www.facebook.com/cpsmsk/",
+          "https://twitter.com/PiratiMSK",
+          "https://www.instagram.com/msk_pirati/"
+        ]
+      }
+    ]
   }
 }

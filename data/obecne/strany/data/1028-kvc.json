@@ -88,7 +88,20 @@
   },
   "logo": "/obecne/strany/loga/1028-karlovaraci.jpg",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.karlovaraci.cz",
+      "https://www.facebook.com/karlovaraci",
+      "https://twitter.com/karlovaraci"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.karlovaraci.cz",
+          "https://www.facebook.com/karlovaraci",
+          "https://twitter.com/karlovaraci"
+        ]
+      }
+    ]
   }
 }

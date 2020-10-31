@@ -598,7 +598,18 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.hnhrm.cz/",
+      "https://cs.wikipedia.org/wiki/Hnut%C3%AD_nez%C3%A1visl%C3%BDch_za_harmonick%C3%BD_rozvoj_obc%C3%AD_a_m%C4%9Bst"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "https://www.hnhrm.cz/index.php/karlovarsky-kraj",
+          "https://www.facebook.com/hnhrmkv"
+        ]
+      }
+    ]
   }
 }

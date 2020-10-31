@@ -1,8 +1,8 @@
 {
   "reg": 1209,
-  "name": "Vize národních socialistů",
-  "hash": "vize-ns",
-  "short": "VIZE-NS",
+  "name": "NE-VOLIM.CZ",
+  "hash": "ne-volim-cz",
+  "short": "NE-VOLIM.CZ",
   "logo": "/obecne/strany/loga/1209-ne-volim.png",
   "color": "#0b8c04",
   "memberOf": [],
@@ -43,7 +43,9 @@
     ]
   },
   "links": {
-    "global": [],
+    "global": [
+      "https://www.facebook.com/nevolim.cz/"
+    ],
     "regional": []
   }
 }

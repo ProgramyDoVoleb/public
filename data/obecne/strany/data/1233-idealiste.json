@@ -1,13 +1,22 @@
 {
   "reg": 1233,
-  "name": "Hnutí Idealisté",
+  "name": "Idealisté",
   "hash": "idealiste",
   "short": "Idealisté",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 3,
+        "links": []
+      },
+      {
+        "region": 10,
+        "links": []
+      }
+    ]
   },
-  "color": "#aaa",
+  "color": "#00dcc2",
   "activity": {
     "last": 20201002,
     "list": [
@@ -33,5 +42,6 @@
         ]
       }
     ]
-  }
+  },
+  "logo": "obecne/strany/loga/x-idealiste.png"
 }

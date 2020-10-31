@@ -287,9 +287,22 @@
       }
     ]
   },
-  "logo": "/obecne/strany/loga/769-SKP-RN.jpg",
+  "logo": "obecne/strany/loga/769-SKP-RN.jpg",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.skp-rn.cz",
+      "https://www.facebook.com/radnaroda2017",
+      "https://instagram.com/SKP.RN"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "https://www.skp-rn.cz",
+          "https://www.facebook.com/radnaroda2017",
+          "https://instagram.com/SKP.RN"
+        ]
+      }
+    ]
   }
 }

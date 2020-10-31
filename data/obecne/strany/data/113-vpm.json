@@ -771,7 +771,18 @@
   },
   "logo": "/obecne/strany/loga/113-vpm.png",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://vpm2014.cz",
+      "https://www.facebook.com/volbapromestohk"
+    ],
+    "regional": [
+      {
+        "region": 7,
+        "links": [
+          "http://vpm2014.cz",
+          "https://www.facebook.com/volbapromestohk"
+        ]
+      }
+    ]
   }
 }

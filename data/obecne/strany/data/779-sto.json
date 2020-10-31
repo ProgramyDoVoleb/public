@@ -264,7 +264,18 @@
   },
   "logo": "/obecne/strany/loga/779-sto.png",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.starostoveproobcany.cz",
+      "https://www.facebook.com/starostoveproobcany"
+    ],
+    "regional": [
+      {
+        "region": 9,
+        "links": [
+          "https://www.starostoveproobcany.cz",
+          "https://www.facebook.com/starostoveproobcany"
+        ]
+      }
+    ]
   }
 }

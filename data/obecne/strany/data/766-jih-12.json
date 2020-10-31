@@ -235,7 +235,20 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://www.jihocesi2012.cz/",
+      "https://www.facebook.com/Jihocesi2012/",
+      "https://twitter.com/Jihocesi2012"
+    ],
+    "regional": [
+      {
+        "region": 2,
+        "links": [
+          "http://jihocesi2012.cz",
+          "https://www.facebook.com/Jihocesi2012",
+          "https://twitter.com/Jihocesi2012"
+        ]
+      }
+    ]
   }
 }

@@ -4,8 +4,17 @@
   "hash": "z-2020",
   "short": "Z 2020",
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.facebook.com/zmena2020"
+    ],
+    "regional": [
+      {
+        "region": 2,
+        "links": [
+          "https://www.facebook.com/zmena2020"
+        ]
+      }
+    ]
   },
   "color": "#aaa",
   "usualCoalitionWith": [],

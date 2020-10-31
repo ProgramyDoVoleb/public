@@ -1134,7 +1134,20 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "http://moravane.cz",
+      "https://www.facebook.com/moravaci",
+      "https://twitter.com/moravaci"
+    ],
+    "regional": [
+      {
+        "region": 10,
+        "links": [
+          "http://moravane.cz/domains/moravane.cz/krajske-volby-2020",
+          "https://www.facebook.com/moravaci",
+          "https://twitter.com/moravaci"
+        ]
+      }
+    ]
   }
 }

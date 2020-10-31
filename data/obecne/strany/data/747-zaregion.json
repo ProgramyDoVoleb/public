@@ -1,9 +1,9 @@
 {
   "reg": 747,
-  "name": "ZaRegion",
+  "name": "Za Region",
   "hash": "zaregion",
   "short": "ZaRegion",
-  "color": "#bafbfd",
+  "color": "#3ab867",
   "memberOf": [
     518,
     579,
@@ -259,7 +259,19 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
-  }
+    "global": [
+      "http://www.zaregion.info/",
+      "https://www.facebook.com/zaregion/"
+    ],
+    "regional": [
+      {
+        "region": 4,
+        "links": [
+          "http://www.zaregion.info/",
+          "https://www.facebook.com/zaregion/"
+        ]
+      }
+    ]
+  },
+  "logo": "obecne/strany/loga/x-za-region.png"
 }

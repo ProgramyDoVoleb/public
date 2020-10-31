@@ -51,7 +51,14 @@
     ]
   },
   "links": {
-    "global": [],
-    "regional": []
+    "global": [
+      "https://www.facebook.com/hnutihlas"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": []
+      }
+    ]
   }
 }

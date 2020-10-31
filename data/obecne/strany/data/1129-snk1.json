@@ -121,9 +121,14 @@
       }
     ]
   },
-  "logo": "/obecne/strany/loga/1129-snk1.jpg",
+  "logo": "obecne/strany/loga/1129-snk1.jpg",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 4,
+        "links": []
+      }
+    ]
   }
 }

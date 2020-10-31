@@ -108,6 +108,11 @@
   "logo": "/obecne/strany/loga/1039-prool.png",
   "links": {
     "global": [],
-    "regional": []
+    "regional": [
+      {
+        "region": 11,
+        "links": []
+      }
+    ]
   }
 }
