@@ -10,14 +10,14 @@
     "id": 6379,
     "stats": {
       "voted": {
-        "total": 0,
-        "yes": 0,
-        "no": 0,
-        "none": 0
+        "total": 5648,
+        "yes": 2691,
+        "no": 2085,
+        "none": 872
       },
-      "excused": 0,
-      "missing": 0,
-      "lastUpdate": -1
+      "excused": 1449,
+      "missing": 148,
+      "lastUpdate": 1606750472903
     },
     "seeksReelection": -1
   },

@@ -1,9 +1,4 @@
-var fs = require('fs'),
-    util = require('util'),
-    xml2js = require('xml2js'),
-    iconv = require('iconv-lite');
-
-var parser = new xml2js.Parser();
+var fs = require('fs');
 
 var cis = undefined;
 
