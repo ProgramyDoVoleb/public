@@ -33,7 +33,6 @@
     "https://facebook.com/jana.vildumetzova",
     "https://nasipolitici.cz/detail/jana-mrackova-vildumetzova",
     "https://hlidacstatu.cz/osoba/jana-mrackova-vildumetzova",
-    "vildumetzovaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jana_Mra%C4%8Dkov%C3%A1_Vildumetzov%C3%A1"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/mrackova-vildumetzova-jana-73-8670.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "vildumetzovaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Jaltská 1, 360 01  Karlovy Vary",
+      "town": "Karlovy Vary",
+      "street": "Jaltská 1",
+      "psc": 36001
+    }
+  }
 }

@@ -31,7 +31,6 @@
     "https://facebook.com/eva.matyasova.754",
     "https://nasipolitici.cz/detail/eva-matyasova",
     "https://hlidacstatu.cz/osoba/eva-matyasova",
-    "matyasovae@psp.cz",
     "https://cs.wikipedia.org/wiki/Eva_Maty%C3%A1%C5%A1ov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/matyasova-eva-59-0482.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "matyasovae@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "ČSA 287, 500 03  Hradec Králové",
+      "town": "Hradec Králové",
+      "street": "ČSA 287",
+      "psc": 50003
+    }
+  }
 }

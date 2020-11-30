@@ -23,7 +23,7 @@
     "election": {
       "region": 1,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -31,7 +31,6 @@
     "https://facebook.com/100006160635264",
     "https://nasipolitici.cz/detail/andrea-brzobohata",
     "https://hlidacstatu.cz/osoba/andrea-brzobohata",
-    "brzobohataa@psp.cz",
     "https://cs.wikipedia.org/wiki/Andrea_Brzobohat%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/brzobohata-andrea-71-2517.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "brzobohataa@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Tyršova 2071, 256 01  Benešov",
+      "town": "Benešov",
+      "street": "Tyršova 2071",
+      "psc": 25601
+    }
+  }
 }

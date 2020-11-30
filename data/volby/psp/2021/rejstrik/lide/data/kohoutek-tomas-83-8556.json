@@ -32,7 +32,6 @@
     "https://facebook.com/tomas.kohoutek.357",
     "https://nasipolitici.cz/detail/tomas-kohoutek-7",
     "https://hlidacstatu.cz/osoba/tomas-kohoutek-7",
-    "kohoutekt@psp.cz",
     "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Kohoutek"
   ],
   "embeds": [],
@@ -44,5 +43,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kohoutek-tomas-83-8556.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kohoutekt@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Radniční 23/1, 405 02  Děčín 1",
+      "town": "Děčín 1",
+      "street": "Radniční 23/1",
+      "psc": 40502
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://twitter.com/vondraczech",
     "https://nasipolitici.cz/detail/radek-vondracek",
     "https://hlidacstatu.cz/osoba/radek-vondracek",
-    "predseda@psp.cz",
     "https://cs.wikipedia.org/wiki/Radek_Vondr%C3%A1%C4%8Dek"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/vondracek-radek-73-2632.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "predseda@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykovo náměstí 128, 767 01  Kroměříž",
+      "town": "Kroměříž",
+      "street": "Masarykovo náměstí 128",
+      "psc": 76701
+    }
+  }
 }

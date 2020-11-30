@@ -33,7 +33,6 @@
     "https://facebook.com/foldyna.jaroslav",
     "https://nasipolitici.cz/detail/jaroslav-foldyna",
     "https://hlidacstatu.cz/osoba/jaroslav-foldyna",
-    "foldynaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jaroslav_Foldyna",
     "https://demagog.cz/politici/365"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/foldyna-jaroslav-60-6948.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "foldynaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Husovo náměstí 74/5, 405 02  Děčín",
+      "town": "Děčín",
+      "street": "Husovo náměstí 74/5",
+      "psc": 40502
+    }
+  }
 }

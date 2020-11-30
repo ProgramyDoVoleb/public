@@ -32,7 +32,6 @@
     "https://facebook.com/roman.kubicek.31",
     "https://nasipolitici.cz/detail/roman-kubicek",
     "https://hlidacstatu.cz/osoba/roman-kubicek",
-    "kubicekr@psp.cz",
     "https://cs.wikipedia.org/wiki/Roman_Kub%C3%AD%C4%8Dek"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kubicek-roman-63-5861.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kubicekr@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Senovážné náměstí 248, 370 01  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Senovážné náměstí 248",
+      "psc": 37001
+    }
+  }
 }

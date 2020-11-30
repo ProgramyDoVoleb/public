@@ -34,7 +34,6 @@
     "https://instagram.com/bartosek_jan",
     "https://nasipolitici.cz/detail/jan-bartosek",
     "https://hlidacstatu.cz/osoba/jan-bartosek",
-    "bartosekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Barto%C5%A1ek",
     "https://demagog.cz/politici/370"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/bartosek-jan-71-4641.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1
+  "party": 1,
+  "contact": {
+    "email": [
+      "bartosekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Lannova 16/13, 370 01  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Lannova 16/13",
+      "psc": 37001
+    }
+  }
 }

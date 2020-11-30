@@ -34,7 +34,6 @@
     "https://facebook.com/pavelbelobradek",
     "https://nasipolitici.cz/detail/pavel-belobradek",
     "https://hlidacstatu.cz/osoba/pavel-belobradek",
-    "belobradekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_B%C4%9Blobr%C3%A1dek",
     "https://demagog.cz/politici/79"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/belobradek-pavel-76-0190.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1
+  "party": 1,
+  "contact": {
+    "email": [
+      "belobradekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Vrchlického 582/18, 500 02  Hradec Králové",
+      "town": "Hradec Králové",
+      "street": "Vrchlického 582/18",
+      "psc": 50002
+    }
+  }
 }

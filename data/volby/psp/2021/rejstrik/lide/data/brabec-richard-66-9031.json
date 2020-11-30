@@ -32,7 +32,6 @@
     "https://facebook.com/richard.brabec.9",
     "https://nasipolitici.cz/detail/richard-brabec",
     "https://hlidacstatu.cz/osoba/richard-brabec",
-    "brabecr@psp.cz",
     "https://cs.wikipedia.org/wiki/Richard_Brabec",
     "https://demagog.cz/politici/444"
   ],
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/brabec-richard-66-9031.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "brabecr@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Mírové nám. 157/30, 412 01  Litoměřice",
+      "town": "Litoměřice",
+      "street": "Mírové nám. 157/30",
+      "psc": 41201
+    }
+  }
 }

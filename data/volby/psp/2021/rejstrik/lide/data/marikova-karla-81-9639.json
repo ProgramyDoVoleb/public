@@ -33,7 +33,6 @@
     "https://twitter.com/MarikovaKarla",
     "https://nasipolitici.cz/detail/karla-marikova",
     "https://hlidacstatu.cz/osoba/karla-marikova",
-    "marikovak@psp.cz",
     "https://cs.wikipedia.org/wiki/Karla_Ma%C5%99%C3%ADkov%C3%A1",
     "https://demagog.cz/politici/442"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/marikova-karla-81-9639.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "marikovak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Jáchymovská 371, 363 01  Ostrov",
+      "town": "Ostrov",
+      "street": "Jáchymovská 371",
+      "psc": 36301
+    }
+  }
 }

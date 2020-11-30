@@ -32,7 +32,6 @@
     "https://facebook.com/LenkaDrazilovaPolitik",
     "https://nasipolitici.cz/detail/lenka-drazilova",
     "https://hlidacstatu.cz/osoba/lenka-drazilova",
-    "draziloval@psp.cz",
     "https://cs.wikipedia.org/wiki/Lenka_Dra%C5%BEilov%C3%A1"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/drazilova-lenka-63-1359.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "draziloval@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Sukova 2324/4, 678 01  Blansko",
+      "town": "Blansko",
+      "street": "Sukova 2324/4",
+      "psc": 67801
+    }
+  }
 }

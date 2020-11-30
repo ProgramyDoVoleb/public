@@ -32,7 +32,6 @@
     "https://twitter.com/BohuslavSvoboda",
     "https://nasipolitici.cz/detail/bohuslav-svoboda",
     "https://hlidacstatu.cz/osoba/bohuslav-svoboda",
-    "svobodab@psp.cz",
     "https://cs.wikipedia.org/wiki/Bohuslav_Svoboda",
     "https://demagog.cz/politici/74"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/svoboda-bohuslav-44-6829.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "svobodab@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Truhlářská 1106, 110 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Truhlářská 1106",
+      "psc": 11000
+    }
+  }
 }

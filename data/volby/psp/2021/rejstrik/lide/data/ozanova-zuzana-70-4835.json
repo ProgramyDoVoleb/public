@@ -32,7 +32,6 @@
     "https://facebook.com/zuzana.ozanova.980",
     "https://nasipolitici.cz/detail/zuzana-ozanova",
     "https://hlidacstatu.cz/osoba/zuzana-ozanova",
-    "ozanovaz@psp.cz",
     "https://cs.wikipedia.org/wiki/Zuzana_O%C5%BEanov%C3%A1"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/ozanova-zuzana-70-4835.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "ozanovaz@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Dlouhá 194, 702 00  Ostrava - Moravská Ostrava",
+      "town": "Ostrava - Moravská Ostrava",
+      "street": "Dlouhá 194",
+      "psc": 70200
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://twitter.com/tomio_cz",
     "https://nasipolitici.cz/detail/tomio-okamura",
     "https://hlidacstatu.cz/osoba/tomio-okamura",
-    "okamurat@psp.cz",
     "https://cs.wikipedia.org/wiki/Tomio_Okamura",
     "https://demagog.cz/politici/180"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/okamura-tomio-72-8126.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "okamurat@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Maroldova 1977, 272 01  Kladno",
+      "town": "Kladno",
+      "street": "Maroldova 1977",
+      "psc": 27201
+    }
+  }
 }

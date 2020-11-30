@@ -31,7 +31,6 @@
     "https://facebook.com/zdenek.podal",
     "https://nasipolitici.cz/detail/zdenek-podal",
     "https://hlidacstatu.cz/osoba/zdenek-podal",
-    "podalz@psp.cz",
     "https://cs.wikipedia.org/wiki/Zden%C4%9Bk_Podal"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/podal-zdenek-53-8425.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "podalz@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Malé náměstí 6/22, 500 02  Hradec Králové",
+      "town": "Hradec Králové",
+      "street": "Malé náměstí 6/22",
+      "psc": 50002
+    }
+  }
 }

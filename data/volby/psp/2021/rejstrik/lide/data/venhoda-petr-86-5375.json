@@ -34,7 +34,6 @@
     "https://facebook.com/petr.venhoda",
     "https://nasipolitici.cz/detail/petr-venhoda",
     "https://hlidacstatu.cz/osoba/petr-venhoda",
-    "venhodap@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Venhoda"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/venhoda-petr-86-5375.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "venhodap@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Štítného 819/3, 130 00  Praha 3",
+      "town": "Praha 3",
+      "street": "Štítného 819/3",
+      "psc": 13000
+    }
+  }
 }

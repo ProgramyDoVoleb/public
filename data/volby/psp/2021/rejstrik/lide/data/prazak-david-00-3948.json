@@ -28,7 +28,6 @@
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6527",
-    "prazakd@psp.cz",
     "https://cs.wikipedia.org/wiki/David_Pra%C5%BE%C3%A1k"
   ],
   "embeds": [],
@@ -40,5 +39,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/prazak-david-00-3948.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "prazakd@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Tyršova 42, 513 01  Semily",
+      "town": "Semily",
+      "street": "Tyršova 42",
+      "psc": 51301
+    }
+  }
 }

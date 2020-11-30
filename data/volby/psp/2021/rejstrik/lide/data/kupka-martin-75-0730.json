@@ -34,7 +34,6 @@
     "https://facebook.com/martin.kupka.50",
     "https://nasipolitici.cz/detail/martin-kupka",
     "https://hlidacstatu.cz/osoba/martin-kupka",
-    "kupkam@psp.cz",
     "https://cs.wikipedia.org/wiki/Martin_Kupka",
     "https://demagog.cz/politici/443"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kupka-martin-75-0730.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "kupkam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Na Kozině 1438, 293 01  Mladá Boleslav",
+      "town": "Mladá Boleslav",
+      "street": "Na Kozině 1438",
+      "psc": 29301
+    }
+  }
 }

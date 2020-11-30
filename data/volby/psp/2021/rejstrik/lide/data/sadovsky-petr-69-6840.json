@@ -35,7 +35,6 @@
     "https://facebook.com/1st.Sado",
     "https://nasipolitici.cz/detail/petr-sadovsky-4",
     "https://hlidacstatu.cz/osoba/petr-sadovsky-4",
-    "sadovskyp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Sadovsk%C3%BD"
   ],
   "embeds": [
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/sadovsky-petr-69-6840.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "sadovskyp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "nám. F. L. Věka 29, 518 01  Dobruška",
+      "town": "Dobruška",
+      "street": "nám. F. L. Věka 29",
+      "psc": 51801
+    }
+  }
 }

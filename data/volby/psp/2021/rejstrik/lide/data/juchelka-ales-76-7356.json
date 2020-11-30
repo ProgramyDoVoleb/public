@@ -23,7 +23,7 @@
     "election": {
       "region": 13,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -33,7 +33,6 @@
     "https://twitter.com/JuchelkaAles",
     "https://nasipolitici.cz/detail/ales-juchelka",
     "https://hlidacstatu.cz/osoba/ales-juchelka",
-    "juchelkaa@psp.cz",
     "https://cs.wikipedia.org/wiki/Ale%C5%A1_Juchelka"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/juchelka-ales-76-7356.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "juchelkaa@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Dlouhá 3355/6, 702 00  Ostrava",
+      "town": "Ostrava",
+      "street": "Dlouhá 3355/6",
+      "psc": 70200
+    }
+  }
 }

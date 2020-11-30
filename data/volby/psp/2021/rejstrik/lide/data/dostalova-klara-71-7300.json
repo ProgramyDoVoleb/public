@@ -23,7 +23,7 @@
     "election": {
       "region": 7,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/100009551461833",
     "https://nasipolitici.cz/detail/klara-dostalova",
     "https://hlidacstatu.cz/osoba/klara-dostalova",
-    "dostalovak@psp.cz",
     "https://cs.wikipedia.org/wiki/Kl%C3%A1ra_Dost%C3%A1lov%C3%A1"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/dostalova-klara-71-7300.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "dostalovak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Tylova 1412, 508 01  Hořice",
+      "town": "Hořice",
+      "street": "Tylova 1412",
+      "psc": 50801
+    }
+  }
 }

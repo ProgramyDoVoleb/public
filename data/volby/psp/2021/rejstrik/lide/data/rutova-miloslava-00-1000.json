@@ -28,7 +28,6 @@
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6379",
-    "rutovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Miloslava_Rutov%C3%A1"
   ],
   "embeds": [],
@@ -40,5 +39,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/rutova-miloslava-00-1000.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "rutovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Slovanská alej 2182/30, 326 00  Plzeň",
+      "town": "Plzeň",
+      "street": "Slovanská alej 2182/30",
+      "psc": 32600
+    }
+  }
 }

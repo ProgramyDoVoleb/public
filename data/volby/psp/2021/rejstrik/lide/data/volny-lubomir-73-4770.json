@@ -34,7 +34,6 @@
     "https://facebook.com/lubomir.volny.777",
     "https://nasipolitici.cz/detail/lubomir-volny-1",
     "https://hlidacstatu.cz/osoba/lubomir-volny-1",
-    "volnyl@psp.cz",
     "https://cs.wikipedia.org/wiki/Lubom%C3%ADr_Voln%C3%BD",
     "https://demagog.cz/politici/540"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/volny-lubomir-73-4770.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "volnyl@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Mongolská 1529/6, 708 00  Ostrava - Poruba",
+      "town": "Ostrava - Poruba",
+      "street": "Mongolská 1529/6",
+      "psc": 70800
+    }
+  }
 }

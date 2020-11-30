@@ -31,7 +31,6 @@
     "https://facebook.com/profile.php?id=100012011986496",
     "https://nasipolitici.cz/detail/jana-levova-7",
     "https://hlidacstatu.cz/osoba/jana-levova-7",
-    "levovaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jana_Levov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/levova-jana-77-8815.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "levovaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "U Seřadiště 223, 326 00  Plzeň",
+      "town": "Plzeň",
+      "street": "U Seřadiště 223",
+      "psc": 32600
+    }
+  }
 }

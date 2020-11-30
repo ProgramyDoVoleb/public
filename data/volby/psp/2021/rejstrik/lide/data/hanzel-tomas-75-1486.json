@@ -32,7 +32,6 @@
     "https://facebook.com/tomas.hanzel.9",
     "https://nasipolitici.cz/detail/tomas-hanzel",
     "https://hlidacstatu.cz/osoba/tomas-hanzel",
-    "hanzelt@psp.cz",
     "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Hanzel"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/hanzel-tomas-75-1486.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "hanzelt@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Fryštátská 72, 733 24  Karviná - Fryštát",
+      "town": "Karviná - Fryštát",
+      "street": "Fryštátská 72",
+      "psc": 73324
+    }
+  }
 }

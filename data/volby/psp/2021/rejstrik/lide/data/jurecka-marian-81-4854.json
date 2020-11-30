@@ -33,7 +33,6 @@
     "https://twitter.com/MJureka",
     "https://nasipolitici.cz/detail/marian-jurecka",
     "https://hlidacstatu.cz/osoba/marian-jurecka",
-    "jureckam@psp.cz",
     "https://cs.wikipedia.org/wiki/Marian_Jure%C4%8Dka",
     "https://demagog.cz/politici/133"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/jurecka-marian-81-4854.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1
+  "party": 1,
+  "contact": {
+    "email": [
+      "jureckam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Nešverova 683/2, 779 00  Olomouc",
+      "town": "Olomouc",
+      "street": "Nešverova 683/2",
+      "psc": 77900
+    }
+  }
 }

@@ -32,7 +32,6 @@
     "https://facebook.com/jaroslav.bzoch.3",
     "https://nasipolitici.cz/detail/jaroslav-bzoch-1",
     "https://hlidacstatu.cz/osoba/jaroslav-bzoch-1",
-    "bzochj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jaroslav_B%C5%BEoch",
     "https://demagog.cz/politici/321"
   ],
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/bzoch-jaroslav-83-0234.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "bzochj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykova 357/10, 415 01  Teplice",
+      "town": "Teplice",
+      "street": "Masarykova 357/10",
+      "psc": 41501
+    }
+  }
 }

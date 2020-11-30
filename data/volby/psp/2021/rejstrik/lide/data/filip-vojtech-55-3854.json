@@ -32,7 +32,6 @@
     "https://twitter.com/vojtafilip",
     "https://nasipolitici.cz/detail/vojtech-filip",
     "https://hlidacstatu.cz/osoba/vojtech-filip",
-    "filip@psp.cz",
     "https://cs.wikipedia.org/wiki/Vojt%C4%9Bch_Filip",
     "https://demagog.cz/politici/20"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/filip-vojtech-55-3854.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "filip@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Čéčova 11, 370 04  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Čéčova 11",
+      "psc": 37004
+    }
+  }
 }

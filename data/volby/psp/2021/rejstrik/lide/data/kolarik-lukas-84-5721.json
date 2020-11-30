@@ -33,7 +33,6 @@
     "https://twitter.com/kolarik_lukas",
     "https://nasipolitici.cz/detail/lukas-kolarik-1",
     "https://hlidacstatu.cz/osoba/lukas-kolarik-1",
-    "kolarikl@psp.cz",
     "https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Kol%C3%A1%C5%99%C3%ADk"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kolarik-lukas-84-5721.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "kolarikl@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Hradební 334, 370 01  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Hradební 334",
+      "psc": 37001
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://facebook.com/radek.holomcik",
     "https://nasipolitici.cz/detail/radek-holomcik",
     "https://hlidacstatu.cz/osoba/radek-holomcik",
-    "holomcikr@psp.cz",
     "https://cs.wikipedia.org/wiki/Radek_Holom%C4%8D%C3%ADk"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/holomcik-radek-85-3102.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "holomcikr@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Kostelní 1407, 696 62  Strážnice",
+      "town": "Strážnice",
+      "street": "Kostelní 1407",
+      "psc": 69662
+    }
+  }
 }

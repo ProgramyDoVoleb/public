@@ -33,7 +33,6 @@
     "https://facebook.com/barbora.koranova",
     "https://nasipolitici.cz/detail/barbora-koranova-1",
     "https://hlidacstatu.cz/osoba/barbora-koranova-1",
-    "koranovab@psp.cz",
     "https://cs.wikipedia.org/wiki/Barbora_Ko%C5%99anov%C3%A1"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/koranova-barbora-84-8608.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "koranovab@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Pražská 84/15, 301 00  Plzeň",
+      "town": "Plzeň",
+      "street": "Pražská 84/15",
+      "psc": 30100
+    }
+  }
 }

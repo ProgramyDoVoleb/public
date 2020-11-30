@@ -23,7 +23,7 @@
     "election": {
       "region": 12,
       "nominee": 720,
-      "party": 99
+      "party": 720
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/felfmark",
     "https://nasipolitici.cz/detail/frantisek-elfmark-1",
     "https://hlidacstatu.cz/osoba/frantisek-elfmark-1",
-    "elfmarkf@psp.cz",
     "https://cs.wikipedia.org/wiki/Franti%C5%A1ek_Elfmark"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/elfmark-frantisek-78-5625.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "elfmarkf@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Stojanova 1334, 686 01  Uherské Hradiště",
+      "town": "Uherské Hradiště",
+      "street": "Stojanova 1334",
+      "psc": 68601
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://twitter.com/MajerovaZ",
     "https://nasipolitici.cz/detail/zuzana-majerova-zahradnikova",
     "https://hlidacstatu.cz/osoba/zuzana-majerova-zahradnikova",
-    "majerovaz@psp.cz",
     "https://cs.wikipedia.org/wiki/Zuzana_Majerov%C3%A1_Zahradn%C3%ADkov%C3%A1"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/majerova-zahradnikova-zuzana-72-8742.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "majerovaz@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Za Poštou 416/2, 779 00  Olomouc",
+      "town": "Olomouc",
+      "street": "Za Poštou 416/2",
+      "psc": 77900
+    }
+  }
 }

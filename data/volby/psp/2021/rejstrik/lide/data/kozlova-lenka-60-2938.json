@@ -33,7 +33,6 @@
     "https://facebook.com/lenka.kozlova.5",
     "https://nasipolitici.cz/detail/lenka-kozlova-4",
     "https://hlidacstatu.cz/osoba/lenka-kozlova-4",
-    "kozloval@psp.cz",
     "https://cs.wikipedia.org/wiki/Lenka_Kozlov%C3%A1"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kozlova-lenka-60-2938.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "kozloval@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Na Příkopech 103, 261 01  Příbram",
+      "town": "Příbram",
+      "street": "Na Příkopech 103",
+      "psc": 26101
+    }
+  }
 }

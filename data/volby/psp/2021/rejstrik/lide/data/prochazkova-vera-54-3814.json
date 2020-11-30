@@ -33,7 +33,6 @@
     "https://facebook.com/vera.prochazkova.357",
     "https://nasipolitici.cz/detail/vera-prochazkova-19",
     "https://hlidacstatu.cz/osoba/vera-prochazkova-19",
-    "prochazkovav@psp.cz",
     "https://cs.wikipedia.org/wiki/V%C4%9Bra_Proch%C3%A1zkov%C3%A1"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/prochazkova-vera-54-3814.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "prochazkovav@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Svobody 547/19, 350 02  Cheb",
+      "town": "Cheb",
+      "street": "Svobody 547/19",
+      "psc": 35002
+    }
+  }
 }

@@ -31,7 +31,6 @@
     "https://josefkott.cz/",
     "https://nasipolitici.cz/detail/josef-kott",
     "https://hlidacstatu.cz/osoba/josef-kott",
-    "kottj@psp.cz",
     "https://cs.wikipedia.org/wiki/Josef_Kott_(politik)"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kott-josef-70-3926.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kottj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Žižkova 15/1696, 586 01  Jihlava",
+      "town": "Jihlava",
+      "street": "Žižkova 15/1696",
+      "psc": 58601
+    }
+  }
 }

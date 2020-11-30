@@ -23,7 +23,7 @@
     "election": {
       "region": 0,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -32,7 +32,6 @@
     "https://twitter.com/adamkova_vera",
     "https://nasipolitici.cz/detail/vera-adamkova-1",
     "https://hlidacstatu.cz/osoba/vera-adamkova-1",
-    "adamkovav@psp.cz",
     "https://cs.wikipedia.org/wiki/V%C4%9Bra_Ad%C3%A1mkov%C3%A1"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/adamkova-vera-54-0233.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "adamkovav@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Dobronická 1257, 148 00  Praha 4 - Kunratice",
+      "town": "Praha 4 - Kunratice",
+      "street": "Dobronická 1257",
+      "psc": 14800
+    }
+  }
 }

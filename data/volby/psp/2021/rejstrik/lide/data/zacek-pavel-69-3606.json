@@ -23,7 +23,7 @@
     "election": {
       "region": 0,
       "nominee": 53,
-      "party": 99
+      "party": 53
     }
   },
   "links": [
@@ -31,7 +31,6 @@
     "https://facebook.com/profile.php?id=100006714558350",
     "https://nasipolitici.cz/detail/pavel-zacek",
     "https://hlidacstatu.cz/osoba/pavel-zacek",
-    "zacekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_%C5%BD%C3%A1%C4%8Dek",
     "https://demagog.cz/politici/332"
   ],
@@ -44,5 +43,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/zacek-pavel-69-3606.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "zacekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Truhlářská 1106, 110 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Truhlářská 1106",
+      "psc": 11000
+    }
+  }
 }

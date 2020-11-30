@@ -33,7 +33,6 @@
     "https://twitter.com/kralicek_psp",
     "https://nasipolitici.cz/detail/robert-kralicek",
     "https://hlidacstatu.cz/osoba/robert-kralicek",
-    "kralicekr@psp.cz",
     "https://cs.wikipedia.org/wiki/Robert_Kr%C3%A1l%C3%AD%C4%8Dek"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kralicek-robert-77-5051.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kralicekr@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Zelený pruh 95/97, 140 00  Praha 4 - Braník",
+      "town": "Praha 4 - Braník",
+      "street": "Zelený pruh 95/97",
+      "psc": 14000
+    }
+  }
 }

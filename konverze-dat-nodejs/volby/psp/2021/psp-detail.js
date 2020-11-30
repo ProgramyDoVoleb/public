@@ -29,7 +29,27 @@ sweep.forEach(member => {
   var links = $('.mail a', html);
 
   if (links.length > 0) {
-    // data.links.push(links[0].children[0].data);
+
+    var email = links[0].children[0].data;
+    var address = $('address', html);
+    var addressData = '';
+
+    if (address && address.length > 0 && address[0].type != 'root') {
+      addressData = $('address', html)[0].children[0].data;
+    }
+
+    data.contact = {
+      email: [email],
+      phone: [],
+      address: {
+        full: addressData != '' ? addressData : undefined,
+        town: addressData.split('  ').length > 1 ? addressData.split('  ')[1] : undefined,
+        street: addressData.split(',').length > 1 ? addressData.split(', ')[0] : undefined,
+        psc: addressData.split(',').length > 1 ? Number(addressData.split(',')[1].split('  ')[0].split(' ').join('')) : undefined
+      }
+    };
+
+    data.links.splice(data.links.indexOf(email), 1);
   }
 
   // narozeni
@@ -71,11 +91,10 @@ sweep.forEach(member => {
       console.log(data);
     }
 
-    data.psp.stats.updated = new Date(data.psp.stats.lastUpdate).toISOString().split('T')[0];
-    data.psp.stats.lastUpdate = undefined;
+    data.psp.stats.updated = new Date().toISOString().split('T')[0];
   }
 
-  if (data.psp.id === 6150) {
+  if (data.psp.id === 4) {
     console.log(data);
   }
 

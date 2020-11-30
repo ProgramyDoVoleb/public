@@ -33,7 +33,6 @@
     "https://twitter.com/Juranek",
     "https://nasipolitici.cz/detail/stanislav-juranek",
     "https://hlidacstatu.cz/osoba/stanislav-juranek",
-    "juraneks@psp.cz",
     "https://cs.wikipedia.org/wiki/Stanislav_Jur%C3%A1nek",
     "https://demagog.cz/politici/150"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/juranek-stanislav-56-6486.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1
+  "party": 1,
+  "contact": {
+    "email": [
+      "juraneks@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Kurská 792/3, 625 00  Brno",
+      "town": "Brno",
+      "street": "Kurská 792/3",
+      "psc": 62500
+    }
+  }
 }

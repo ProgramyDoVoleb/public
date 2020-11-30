@@ -33,7 +33,6 @@
     "https://twitter.com/OklestekLa",
     "https://nasipolitici.cz/detail/ladislav-oklestek",
     "https://hlidacstatu.cz/osoba/ladislav-oklestek",
-    "oklestekl@psp.cz",
     "https://cs.wikipedia.org/wiki/Ladislav_Okle%C5%A1t%C4%9Bk"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/oklestek-ladislav-61-4239.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "oklestekl@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Určická 4220, 796 01  Prostějov",
+      "town": "Prostějov",
+      "street": "Určická 4220",
+      "psc": 79601
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://facebook.com/roman.onderka",
     "https://nasipolitici.cz/detail/roman-onderka",
     "https://hlidacstatu.cz/osoba/roman-onderka",
-    "onderkar@psp.cz",
     "https://cs.wikipedia.org/wiki/Roman_Onderka",
     "https://demagog.cz/politici/300"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/onderka-roman-65-4097.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "onderkar@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykova 427/31, 602 00  Brno",
+      "town": "Brno",
+      "street": "Masarykova 427/31",
+      "psc": 60200
+    }
+  }
 }

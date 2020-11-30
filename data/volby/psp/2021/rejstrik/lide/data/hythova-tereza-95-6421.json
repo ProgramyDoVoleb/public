@@ -31,7 +31,6 @@
     "https://facebook.com/teruska.hythova",
     "https://nasipolitici.cz/detail/tereza-hythova",
     "https://hlidacstatu.cz/osoba/tereza-hythova",
-    "hythovat@psp.cz",
     "https://cs.wikipedia.org/wiki/Tereza_Hy%C5%A5hov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/hythova-tereza-95-6421.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "hythovat@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Hrnčířská 64, 400 01  Ústí nad Labem",
+      "town": "Ústí nad Labem",
+      "street": "Hrnčířská 64",
+      "psc": 40001
+    }
+  }
 }

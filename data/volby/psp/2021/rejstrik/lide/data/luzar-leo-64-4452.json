@@ -34,7 +34,6 @@
     "https://facebook.com/leo.luzar",
     "https://nasipolitici.cz/detail/leo-luzar",
     "https://hlidacstatu.cz/osoba/leo-luzar",
-    "luzarl@psp.cz",
     "https://cs.wikipedia.org/wiki/Leo_Luzar",
     "https://demagog.cz/politici/441"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/luzar-leo-64-4452.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "luzarl@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Českobratrská 1579/4, 702 00  Ostrava",
+      "town": "Ostrava",
+      "street": "Českobratrská 1579/4",
+      "psc": 70200
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://twitter.com/p_fiala",
     "https://nasipolitici.cz/detail/petr-fiala",
     "https://hlidacstatu.cz/osoba/petr-fiala",
-    "fialap@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Fiala",
     "https://demagog.cz/politici/67"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/fiala-petr-64-9820.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "fialap@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Šilingrovo náměstí 257/3, 602 00  Brno",
+      "town": "Brno",
+      "street": "Šilingrovo náměstí 257/3",
+      "psc": 60200
+    }
+  }
 }

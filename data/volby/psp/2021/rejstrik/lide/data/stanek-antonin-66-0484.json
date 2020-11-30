@@ -34,7 +34,6 @@
     "https://facebook.com/antonin.stanek.71",
     "https://nasipolitici.cz/detail/antonin-stanek",
     "https://hlidacstatu.cz/osoba/antonin-stanek",
-    "staneka@psp.cz",
     "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Stan%C4%9Bk",
     "https://demagog.cz/politici/314"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/stanek-antonin-66-0484.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "staneka@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Tovární 44, 779 00  Olomouc",
+      "town": "Olomouc",
+      "street": "Tovární 44",
+      "psc": 77900
+    }
+  }
 }

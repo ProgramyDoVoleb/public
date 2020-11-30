@@ -33,7 +33,6 @@
     "https://facebook.com/benda2018",
     "https://nasipolitici.cz/detail/marek-benda",
     "https://hlidacstatu.cz/osoba/marek-benda",
-    "bendam@psp.cz",
     "https://cs.wikipedia.org/wiki/Marek_Benda",
     "https://demagog.cz/politici/206"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/benda-marek-68-6929.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "bendam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Truhlářská 1106, 110 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Truhlářská 1106",
+      "psc": 11000
+    }
+  }
 }

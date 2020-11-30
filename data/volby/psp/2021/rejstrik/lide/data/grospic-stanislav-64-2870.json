@@ -31,7 +31,6 @@
     "https://facebook.com/stanislav.grospic",
     "https://nasipolitici.cz/detail/stanislav-grospic",
     "https://hlidacstatu.cz/osoba/stanislav-grospic",
-    "grospics@psp.cz",
     "https://cs.wikipedia.org/wiki/Stanislav_Grospi%C4%8D",
     "https://demagog.cz/politici/45"
   ],
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/grospic-stanislav-64-2870.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "grospics@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Máchova 613, 293 01  Mladá Boleslav",
+      "town": "Mladá Boleslav",
+      "street": "Máchova 613",
+      "psc": 29301
+    }
+  }
 }

@@ -34,7 +34,6 @@
     "https://facebook.com/monika.oborna.1",
     "https://nasipolitici.cz/detail/monika-oborna",
     "https://hlidacstatu.cz/osoba/monika-oborna",
-    "obornam@psp.cz",
     "https://cs.wikipedia.org/wiki/Monika_Oborn%C3%A1"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/oborna-monika-89-4484.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "obornam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Karlovo náměstí 31/25, 674 01  Třebíč",
+      "town": "Třebíč",
+      "street": "Karlovo náměstí 31/25",
+      "psc": 67401
+    }
+  }
 }

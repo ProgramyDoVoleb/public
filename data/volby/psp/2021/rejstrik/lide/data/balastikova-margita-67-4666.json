@@ -34,7 +34,6 @@
     "https://facebook.com/margit.balastikova",
     "https://nasipolitici.cz/detail/margita-balastikova",
     "https://hlidacstatu.cz/osoba/margita-balastikova",
-    "balastikovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Margita_Bala%C5%A1t%C3%ADkov%C3%A1",
     "https://demagog.cz/politici/399"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/balastikova-margita-67-4666.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "balastikovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Kvítková 4323, 760 01  Zlín",
+      "town": "Zlín",
+      "street": "Kvítková 4323",
+      "psc": 76001
+    }
+  }
 }

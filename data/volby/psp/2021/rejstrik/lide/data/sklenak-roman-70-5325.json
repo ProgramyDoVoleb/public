@@ -32,7 +32,6 @@
     "https://facebook.com/roman.sklenak",
     "https://nasipolitici.cz/detail/roman-sklenak",
     "https://hlidacstatu.cz/osoba/roman-sklenak",
-    "sklenakr@psp.cz",
     "https://cs.wikipedia.org/wiki/Roman_Sklen%C3%A1k"
   ],
   "embeds": [
@@ -46,5 +45,12 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/sklenak-roman-70-5325.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "sklenakr@psp.cz"
+    ],
+    "phone": [],
+    "address": {}
+  }
 }

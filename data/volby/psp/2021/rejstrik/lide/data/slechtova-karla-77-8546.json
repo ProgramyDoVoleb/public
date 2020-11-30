@@ -23,7 +23,7 @@
     "election": {
       "region": 3,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/karla.slechtova",
     "https://nasipolitici.cz/detail/karla-slechtova",
     "https://hlidacstatu.cz/osoba/karla-slechtova",
-    "slechtovak@psp.cz",
     "https://cs.wikipedia.org/wiki/Karla_%C5%A0lechtov%C3%A1",
     "https://demagog.cz/politici/427"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/slechtova-karla-77-8546.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "slechtovak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Pražská 82/11, 301 00  Plzeň",
+      "town": "Plzeň",
+      "street": "Pražská 82/11",
+      "psc": 30100
+    }
+  }
 }

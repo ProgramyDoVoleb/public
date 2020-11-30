@@ -32,7 +32,6 @@
     "https://facebook.com/mudr.pavelplzak",
     "https://nasipolitici.cz/detail/pavel-plzak",
     "https://hlidacstatu.cz/osoba/pavel-plzak",
-    "plzakp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Plz%C3%A1k"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/plzak-pavel-60-0792.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "plzakp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Poštovní 420, 541 01  Trutnov",
+      "town": "Trutnov",
+      "street": "Poštovní 420",
+      "psc": 54101
+    }
+  }
 }

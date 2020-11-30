@@ -31,7 +31,6 @@
     "https://facebook.com/jan.schiller.967",
     "https://nasipolitici.cz/detail/jan-schiller",
     "https://hlidacstatu.cz/osoba/jan-schiller",
-    "schillerj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Schiller_(politik)"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/schiller-jan-72-9000.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "schillerj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Báňská 1635, 464 01  Most",
+      "town": "Most",
+      "street": "Báňská 1635",
+      "psc": 46401
+    }
+  }
 }

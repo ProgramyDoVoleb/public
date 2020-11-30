@@ -33,7 +33,6 @@
     "https://facebook.com/petr.tresnak",
     "https://nasipolitici.cz/detail/petr-tresnak-12",
     "https://hlidacstatu.cz/osoba/petr-tresnak-12",
-    "tresnakp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_T%C5%99e%C5%A1%C5%88%C3%A1k_(politik)"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/tresnak-petr-83-5561.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "tresnakp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Skalníkova 471, 353 01  Mariánské Lázně",
+      "town": "Mariánské Lázně",
+      "street": "Skalníkova 471",
+      "psc": 35301
+    }
+  }
 }

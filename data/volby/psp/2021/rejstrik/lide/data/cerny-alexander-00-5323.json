@@ -28,7 +28,6 @@
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5307",
-    "cernya@psp.cz",
     "https://cs.wikipedia.org/wiki/Alexander_%C4%8Cern%C3%BD",
     "https://demagog.cz/politici/128"
   ],
@@ -41,5 +40,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/cerny-alexander-00-5323.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "cernya@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Holická 31/1, 779 00  Olomouc",
+      "town": "Olomouc",
+      "street": "Holická 31/1",
+      "psc": 77900
+    }
+  }
 }

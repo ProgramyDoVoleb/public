@@ -32,7 +32,6 @@
     "https://facebook.com/mikfer",
     "https://nasipolitici.cz/detail/mikulas-ferjencik",
     "https://hlidacstatu.cz/osoba/mikulas-ferjencik",
-    "ferjencikm@psp.cz",
     "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Ferjen%C4%8D%C3%ADk_(1987)",
     "https://demagog.cz/politici/346"
   ],
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/ferjencik-mikulas-87-3251.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "ferjencikm@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykovo náměstí 1484, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "Masarykovo náměstí 1484",
+      "psc": 53002
+    }
+  }
 }

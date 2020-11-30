@@ -34,7 +34,6 @@
     "https://facebook.com/jan.rehounek",
     "https://nasipolitici.cz/detail/jan-rehounek",
     "https://hlidacstatu.cz/osoba/jan-rehounek",
-    "rehounekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_%C5%98ehounek"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/rehounek-jan-74-3570.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "rehounekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "tř. Míru 302, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "tř. Míru 302",
+      "psc": 53002
+    }
+  }
 }

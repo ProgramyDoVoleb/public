@@ -32,7 +32,6 @@
     "https://facebook.com/AdamecIvan",
     "https://nasipolitici.cz/detail/ivan-adamec",
     "https://hlidacstatu.cz/osoba/ivan-adamec",
-    "adameci@psp.cz",
     "https://cs.wikipedia.org/wiki/Ivan_Adamec"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/adamec-ivan-60-2293.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "adameci@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Vančurovo nám. 663, 500 02  Hradec Králové",
+      "town": "Hradec Králové",
+      "street": "Vančurovo nám. 663",
+      "psc": 50002
+    }
+  }
 }

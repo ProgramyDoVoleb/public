@@ -33,7 +33,6 @@
     "https://facebook.com/farsky.jan",
     "https://nasipolitici.cz/detail/jan-farsky",
     "https://hlidacstatu.cz/osoba/jan-farsky",
-    "farskyj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Farsk%C3%BD",
     "https://demagog.cz/politici/230"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/farsky-jan-79-6885.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 166
+  "party": 166,
+  "contact": {
+    "email": [
+      "farskyj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Malostranské náměstí 266/5, 118 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Malostranské náměstí 266/5",
+      "psc": 11800
+    }
+  }
 }

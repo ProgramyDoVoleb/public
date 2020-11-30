@@ -28,7 +28,6 @@
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6079",
-    "blazekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Bla%C5%BEek_(politik)",
     "https://demagog.cz/politici/78"
   ],
@@ -41,5 +40,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/blazek-pavel-00-5475.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "blazekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Šilingrovo náměstí 257/3, 602 00  Brno",
+      "town": "Brno",
+      "street": "Šilingrovo náměstí 257/3",
+      "psc": 60200
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://facebook.com/ondrej.vesely.94",
     "https://nasipolitici.cz/detail/ondrej-vesely",
     "https://hlidacstatu.cz/osoba/ondrej-vesely",
-    "veselyo@psp.cz",
     "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Vesel%C3%BD_(politik)"
   ],
   "embeds": [
@@ -48,5 +47,14 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/vesely-ondrej-76-8468.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "veselyo@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "V Koutě 92/1"
+    }
+  }
 }

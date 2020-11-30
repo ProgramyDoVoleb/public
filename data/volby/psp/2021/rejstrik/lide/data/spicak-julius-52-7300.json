@@ -31,7 +31,6 @@
     "https://facebook.com/julius.spicak.5",
     "https://nasipolitici.cz/detail/julius-spicak",
     "https://hlidacstatu.cz/osoba/julius-spicak",
-    "spicakj@psp.cz",
     "https://cs.wikipedia.org/wiki/Julius_%C5%A0pi%C4%8D%C3%A1k"
   ],
   "embeds": [],
@@ -43,5 +42,12 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/spicak-julius-52-7300.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "spicakj@psp.cz"
+    ],
+    "phone": [],
+    "address": {}
+  }
 }

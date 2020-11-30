@@ -31,7 +31,6 @@
     "https://facebook.com/pavel.juricek.313",
     "https://nasipolitici.cz/detail/pavel-juricek-4",
     "https://hlidacstatu.cz/osoba/pavel-juricek-4",
-    "juricekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Ju%C5%99%C3%AD%C4%8Dek"
   ],
   "embeds": [],
@@ -43,5 +42,12 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/juricek-pavel-56-4471.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "juricekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {}
+  }
 }

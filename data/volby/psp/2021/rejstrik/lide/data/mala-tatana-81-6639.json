@@ -34,7 +34,6 @@
     "https://facebook.com/tatana.mala",
     "https://nasipolitici.cz/detail/tatana-mala-2",
     "https://hlidacstatu.cz/osoba/tatana-mala-2",
-    "malat@psp.cz",
     "https://cs.wikipedia.org/wiki/Ta%C5%A5%C3%A1na_Mal%C3%A1"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/mala-tatana-81-6639.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "malat@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Kobližná 683, 602 00  Brno",
+      "town": "Brno",
+      "street": "Kobližná 683",
+      "psc": 60200
+    }
+  }
 }

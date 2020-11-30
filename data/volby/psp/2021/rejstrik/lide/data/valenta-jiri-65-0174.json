@@ -32,7 +32,6 @@
     "https://twitter.com/JiValenta",
     "https://nasipolitici.cz/detail/jiri-valenta",
     "https://hlidacstatu.cz/osoba/jiri-valenta",
-    "valentaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Valenta_(politik)"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/valenta-jiri-65-0174.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "valentaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Purkyňova 994/29, 301 00  Plzeň",
+      "town": "Plzeň",
+      "street": "Purkyňova 994/29",
+      "psc": 30100
+    }
+  }
 }

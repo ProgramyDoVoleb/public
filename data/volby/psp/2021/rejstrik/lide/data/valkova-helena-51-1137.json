@@ -32,7 +32,6 @@
     "https://twitter.com/HelenaValkova",
     "https://nasipolitici.cz/detail/helena-valkova",
     "https://hlidacstatu.cz/osoba/helena-valkova",
-    "valkovah@psp.cz",
     "https://cs.wikipedia.org/wiki/Helena_V%C3%A1lkov%C3%A1",
     "https://demagog.cz/politici/417"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/valkova-helena-51-1137.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "valkovah@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Na Slupi 133/17, 128 00  Praha 2 - Vyšehrad",
+      "town": "Praha 2 - Vyšehrad",
+      "street": "Na Slupi 133/17",
+      "psc": 12800
+    }
+  }
 }

@@ -28,7 +28,6 @@
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5945",
-    "martinuj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jaroslav_Martin%C5%AF"
   ],
   "embeds": [],
@@ -40,5 +39,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/martinu-jaroslav-00-8839.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "martinuj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Sladkovského 601, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "Sladkovského 601",
+      "psc": 53002
+    }
+  }
 }

@@ -34,7 +34,6 @@
     "https://facebook.com/jan.birke.39",
     "https://nasipolitici.cz/detail/jan-birke",
     "https://hlidacstatu.cz/osoba/jan-birke",
-    "birkej@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Birke"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/birke-jan-69-3663.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "birkej@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykovo nám. 19, 547 01  Náchod",
+      "town": "Náchod",
+      "street": "Masarykovo nám. 19",
+      "psc": 54701
+    }
+  }
 }

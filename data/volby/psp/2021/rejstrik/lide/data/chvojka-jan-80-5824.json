@@ -33,7 +33,6 @@
     "https://facebook.com/chvojkaj",
     "https://nasipolitici.cz/detail/jan-chvojka",
     "https://hlidacstatu.cz/osoba/jan-chvojka",
-    "chvojkaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Chvojka",
     "https://demagog.cz/politici/34"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/chvojka-jan-80-5824.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "chvojkaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Češkova 1299, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "Češkova 1299",
+      "psc": 53002
+    }
+  }
 }

@@ -32,7 +32,6 @@
     "https://twitter.com/ZaoralekL",
     "https://nasipolitici.cz/detail/lubomir-zaoralek",
     "https://hlidacstatu.cz/osoba/lubomir-zaoralek",
-    "zaoralek@psp.cz",
     "https://cs.wikipedia.org/wiki/Lubom%C3%ADr_Zaor%C3%A1lek",
     "https://demagog.cz/politici/1"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/zaoralek-lubomir-56-8031.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "zaoralek@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Sokolská třída 944, 702 00  Ostrava - Moravská Ostrava",
+      "town": "Ostrava - Moravská Ostrava",
+      "street": "Sokolská třída 944",
+      "psc": 70200
+    }
+  }
 }

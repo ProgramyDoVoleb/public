@@ -33,7 +33,6 @@
     "https://facebook.com/profile.php?id=100013738530484",
     "https://nasipolitici.cz/detail/jiri-masek-50",
     "https://hlidacstatu.cz/osoba/jiri-masek-50",
-    "masekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Ma%C5%A1ek"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/masek-jiri-58-2091.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "masekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Gočárova 504, 500 02  Hradec Králové",
+      "town": "Hradec Králové",
+      "street": "Gočárova 504",
+      "psc": 50002
+    }
+  }
 }

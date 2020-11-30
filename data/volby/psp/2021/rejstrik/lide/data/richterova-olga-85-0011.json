@@ -33,7 +33,6 @@
     "https://facebook.com/olga.richterova",
     "https://nasipolitici.cz/detail/olga-richterova",
     "https://hlidacstatu.cz/osoba/olga-richterova",
-    "richterovao@psp.cz",
     "https://cs.wikipedia.org/wiki/Olga_Richterov%C3%A1",
     "https://demagog.cz/politici/505"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/richterova-olga-85-0011.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "richterovao@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Francouzská 164/108, 101 00  Praha 10 - Vršovice",
+      "town": "Praha 10 - Vršovice",
+      "street": "Francouzská 164/108",
+      "psc": 10100
+    }
+  }
 }

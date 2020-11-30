@@ -32,7 +32,6 @@
     "https://facebook.com/frantisek.navrkal",
     "https://nasipolitici.cz/detail/frantisek-navrkal-2",
     "https://hlidacstatu.cz/osoba/frantisek-navrkal-2",
-    "navrkalf@psp.cz",
     "https://cs.wikipedia.org/wiki/Franti%C5%A1ek_Navrkal"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/navrkal-frantisek-92-4745.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "navrkalf@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Pařížská 1290/5, 400 01  Ústí nad Labem",
+      "town": "Ústí nad Labem",
+      "street": "Pařížská 1290/5",
+      "psc": 40001
+    }
+  }
 }

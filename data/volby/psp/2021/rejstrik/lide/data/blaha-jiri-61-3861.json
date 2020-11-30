@@ -23,7 +23,7 @@
     "election": {
       "region": 6,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/jiri.blaha.1829405",
     "https://nasipolitici.cz/detail/jiri-blaha-82",
     "https://hlidacstatu.cz/osoba/jiri-blaha-82",
-    "blahaji@psp.cz",
     "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Bl%C3%A1ha_(podnikatel)"
   ],
   "embeds": [
@@ -49,5 +48,12 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/blaha-jiri-61-3861.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "blahaji@psp.cz"
+    ],
+    "phone": [],
+    "address": {}
+  }
 }

@@ -33,7 +33,6 @@
     "https://facebook.com/bauer.honza",
     "https://nasipolitici.cz/detail/jan-bauer",
     "https://hlidacstatu.cz/osoba/jan-bauer",
-    "bauerj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Bauer_(politik)"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/bauer-jan-69-0586.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "bauerj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Branišovská 16, 370 05  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Branišovská 16",
+      "psc": 37005
+    }
+  }
 }

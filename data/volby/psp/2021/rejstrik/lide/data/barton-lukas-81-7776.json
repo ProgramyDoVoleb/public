@@ -33,7 +33,6 @@
     "https://facebook.com/Lukas.Barton",
     "https://nasipolitici.cz/detail/lukas-barton",
     "https://hlidacstatu.cz/osoba/lukas-barton",
-    "bartonl@psp.cz",
     "https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Barto%C5%88",
     "https://demagog.cz/politici/509"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/barton-lukas-81-7776.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "bartonl@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "U Zvonu 4/9, 301 00  Plzeň",
+      "town": "Plzeň",
+      "street": "U Zvonu 4/9",
+      "psc": 30100
+    }
+  }
 }

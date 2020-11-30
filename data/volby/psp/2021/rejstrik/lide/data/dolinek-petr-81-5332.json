@@ -34,7 +34,6 @@
     "https://facebook.com/petr.dolinek",
     "https://nasipolitici.cz/detail/petr-dolinek",
     "https://hlidacstatu.cz/osoba/petr-dolinek",
-    "dolinekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Dol%C3%ADnek"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/dolinek-petr-81-5332.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "dolinekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Bořivojova 885, 130 00  Praha 3 - Žižkov",
+      "town": "Praha 3 - Žižkov",
+      "street": "Bořivojova 885",
+      "psc": 13000
+    }
+  }
 }

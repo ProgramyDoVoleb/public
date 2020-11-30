@@ -33,7 +33,6 @@
     "https://twitter.com/schwarzenberg_k",
     "https://nasipolitici.cz/detail/karel-schwarzenberg",
     "https://hlidacstatu.cz/osoba/karel-schwarzenberg",
-    "schwarzenbergk@psp.cz",
     "https://cs.wikipedia.org/wiki/Karel_Schwarzenberg",
     "https://demagog.cz/politici/16"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/schwarzenberg-karel-37-8011.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 721
+  "party": 721,
+  "contact": {
+    "email": [
+      "schwarzenbergk@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Bělohorská 165/688, 169 00  Praha 6",
+      "town": "Praha 6",
+      "street": "Bělohorská 165/688",
+      "psc": 16900
+    }
+  }
 }

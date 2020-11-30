@@ -34,7 +34,6 @@
     "https://facebook.com/PetrBeitl",
     "https://nasipolitici.cz/detail/petr-beitl",
     "https://hlidacstatu.cz/osoba/petr-beitl",
-    "beitlp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Beitl"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/beitl-petr-66-6421.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "beitlp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Komenského 23/7, 466 01  Jablonec nad Nisou",
+      "town": "Jablonec nad Nisou",
+      "street": "Komenského 23/7",
+      "psc": 46601
+    }
+  }
 }

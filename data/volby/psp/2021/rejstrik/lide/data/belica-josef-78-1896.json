@@ -33,7 +33,6 @@
     "https://twitter.com/JosefBelica",
     "https://nasipolitici.cz/detail/josef-belica",
     "https://hlidacstatu.cz/osoba/josef-belica",
-    "belicaj@psp.cz",
     "https://cs.wikipedia.org/wiki/Josef_B%C4%9Blica"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/belica-josef-78-1896.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "belicaj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Dlouhá třída 473/23, 736 01  Havířov - Město",
+      "town": "Havířov - Město",
+      "street": "Dlouhá třída 473/23",
+      "psc": 73601
+    }
+  }
 }

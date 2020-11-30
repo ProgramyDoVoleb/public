@@ -34,7 +34,6 @@
     "https://facebook.com/tmartinek",
     "https://nasipolitici.cz/detail/tomas-martinek-10",
     "https://hlidacstatu.cz/osoba/tomas-martinek-10",
-    "martinekt@psp.cz",
     "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Mart%C3%ADnek",
     "https://demagog.cz/politici/511"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/martinek-tomas-86-3992.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "martinekt@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Děčínská 361, 470 01  Česká Lípa",
+      "town": "Česká Lípa",
+      "street": "Děčínská 361",
+      "psc": 47001
+    }
+  }
 }

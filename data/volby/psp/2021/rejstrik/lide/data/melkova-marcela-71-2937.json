@@ -31,7 +31,6 @@
     "https://facebook.com/marcela.melkova",
     "https://nasipolitici.cz/detail/marcela-melkova",
     "https://hlidacstatu.cz/osoba/marcela-melkova",
-    "melkovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Marcela_Melkov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/melkova-marcela-71-2937.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "melkovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Tyršova 2071, 256 01  Benešov",
+      "town": "Benešov",
+      "street": "Tyršova 2071",
+      "psc": 25601
+    }
+  }
 }

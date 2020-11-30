@@ -23,7 +23,7 @@
     "election": {
       "region": 3,
       "nominee": 53,
-      "party": 99
+      "party": 53
     }
   },
   "links": [
@@ -32,7 +32,6 @@
     "https://facebook.com/ilona.mauritzova.50",
     "https://nasipolitici.cz/detail/ilona-mauritzova",
     "https://hlidacstatu.cz/osoba/ilona-mauritzova",
-    "mauritzovai@psp.cz",
     "https://cs.wikipedia.org/wiki/Ilona_Mauritzov%C3%A1"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/mauritzova-ilona-59-9918.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "mauritzovai@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "5. května 304/44, 301 00  Plzeň",
+      "town": "Plzeň",
+      "street": "5. května 304/44",
+      "psc": 30100
+    }
+  }
 }

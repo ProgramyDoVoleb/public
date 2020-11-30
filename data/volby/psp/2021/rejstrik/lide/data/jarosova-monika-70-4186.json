@@ -31,7 +31,6 @@
     "https://facebook.com/monika.jarosova.3726",
     "https://nasipolitici.cz/detail/monika-jarosova-6",
     "https://hlidacstatu.cz/osoba/monika-jarosova-6",
-    "jarosovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Monika_Jaro%C5%A1ov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/jarosova-monika-70-4186.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "jarosovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Michalská 28, 412 01  Litoměřice",
+      "town": "Litoměřice",
+      "street": "Michalská 28",
+      "psc": 41201
+    }
+  }
 }

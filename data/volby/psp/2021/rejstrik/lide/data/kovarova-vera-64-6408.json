@@ -34,7 +34,6 @@
     "https://facebook.com/vera.kovarovazelezna",
     "https://nasipolitici.cz/detail/vera-kovarova",
     "https://hlidacstatu.cz/osoba/vera-kovarova",
-    "kovarovav@psp.cz",
     "https://cs.wikipedia.org/wiki/V%C4%9Bra_Kov%C3%A1%C5%99ov%C3%A1",
     "https://demagog.cz/politici/539"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kovarova-vera-64-6408.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 166
+  "party": 166,
+  "contact": {
+    "email": [
+      "kovarovav@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Husovo náměstí 90/18, 266 01  Beroun",
+      "town": "Beroun",
+      "street": "Husovo náměstí 90/18",
+      "psc": 26601
+    }
+  }
 }

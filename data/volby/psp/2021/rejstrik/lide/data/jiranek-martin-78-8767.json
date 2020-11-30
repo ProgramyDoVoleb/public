@@ -32,7 +32,6 @@
     "https://facebook.com/martin.jiranek.trutnov",
     "https://nasipolitici.cz/detail/martin-jiranek-1",
     "https://hlidacstatu.cz/osoba/martin-jiranek-1",
-    "jiranekm@psp.cz",
     "https://cs.wikipedia.org/wiki/Martin_Jir%C3%A1nek_(politik)"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/jiranek-martin-78-8767.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "jiranekm@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Veleslavínova 66, 541 01  Trutnov",
+      "town": "Trutnov",
+      "street": "Veleslavínova 66",
+      "psc": 54101
+    }
+  }
 }

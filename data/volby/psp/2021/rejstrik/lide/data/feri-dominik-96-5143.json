@@ -33,7 +33,6 @@
     "https://facebook.com/DominikFeri",
     "https://nasipolitici.cz/detail/dominik-feri",
     "https://hlidacstatu.cz/osoba/dominik-feri",
-    "ferid@psp.cz",
     "https://cs.wikipedia.org/wiki/Dominik_Feri",
     "https://demagog.cz/politici/439"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/feri-dominik-96-5143.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 721
+  "party": 721,
+  "contact": {
+    "email": [
+      "ferid@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Opletalova 1603/57, 110 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Opletalova 1603/57",
+      "psc": 11000
+    }
+  }
 }

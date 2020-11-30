@@ -23,7 +23,7 @@
     "election": {
       "region": 13,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -33,7 +33,6 @@
     "https://facebook.com/profile.php?id=100006318243764",
     "https://nasipolitici.cz/detail/stanislav-fridrich-2",
     "https://hlidacstatu.cz/osoba/stanislav-fridrich-2",
-    "fridrichs@psp.cz",
     "https://cs.wikipedia.org/wiki/Stanislav_Fridrich"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/fridrich-stanislav-56-7715.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "fridrichs@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "28. října 1495, 738 01  Frýdek-Místek",
+      "town": "Frýdek-Místek",
+      "street": "28. října 1495",
+      "psc": 73801
+    }
+  }
 }

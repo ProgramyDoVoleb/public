@@ -23,7 +23,7 @@
     "election": {
       "region": 2,
       "nominee": 721,
-      "party": 99
+      "party": 721
     }
   },
   "links": [
@@ -33,7 +33,6 @@
     "https://facebook.com/vachaf",
     "https://nasipolitici.cz/detail/frantisek-vacha",
     "https://hlidacstatu.cz/osoba/frantisek-vacha",
-    "vachaf@psp.cz",
     "https://cs.wikipedia.org/wiki/Franti%C5%A1ek_V%C3%A1cha_(d%C4%9Bkan)"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/vacha-frantisek-66-4316.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "vachaf@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Lannova 238/2, 370 01  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Lannova 238/2",
+      "psc": 37001
+    }
+  }
 }

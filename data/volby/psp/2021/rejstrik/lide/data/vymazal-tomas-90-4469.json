@@ -32,7 +32,6 @@
     "https://facebook.com/tom.vymazal",
     "https://nasipolitici.cz/detail/tomas-vymazal-7",
     "https://hlidacstatu.cz/osoba/tomas-vymazal-7",
-    "vymazalt@psp.cz",
     "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Vymazal"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/vymazal-tomas-90-4469.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "vymazalt@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Lidická 960/81, 602 00  Brno",
+      "town": "Brno",
+      "street": "Lidická 960/81",
+      "psc": 60200
+    }
+  }
 }

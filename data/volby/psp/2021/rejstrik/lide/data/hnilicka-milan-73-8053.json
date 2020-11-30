@@ -23,7 +23,7 @@
     "election": {
       "region": 1,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -32,7 +32,6 @@
     "https://facebook.com/profile.php?id=100008818365570",
     "https://nasipolitici.cz/detail/milan-hnilicka-1",
     "https://hlidacstatu.cz/osoba/milan-hnilicka-1",
-    "hnilickam@psp.cz",
     "https://cs.wikipedia.org/wiki/Milan_Hnili%C4%8Dka"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/hnilicka-milan-73-8053.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "hnilickam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Jar. Merhauta 1403, 272 01  Kladno",
+      "town": "Kladno",
+      "street": "Jar. Merhauta 1403",
+      "psc": 27201
+    }
+  }
 }

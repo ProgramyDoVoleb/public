@@ -34,7 +34,6 @@
     "https://facebook.com/dana.balcarova",
     "https://nasipolitici.cz/detail/dana-balcarova-3",
     "https://hlidacstatu.cz/osoba/dana-balcarova-3",
-    "balcarovad@psp.cz",
     "https://cs.wikipedia.org/wiki/Dana_Balcarov%C3%A1"
   ],
   "embeds": [
@@ -49,5 +48,14 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/balcarova-dana-60-0704.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "balcarovad@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "číslo kanceláře 164"
+    }
+  }
 }

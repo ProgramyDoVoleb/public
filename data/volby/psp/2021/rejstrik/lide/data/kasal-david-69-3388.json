@@ -32,7 +32,6 @@
     "https://facebook.com/pediatrchrudim",
     "https://nasipolitici.cz/detail/david-kasal",
     "https://hlidacstatu.cz/osoba/david-kasal",
-    "kasald@psp.cz",
     "https://cs.wikipedia.org/wiki/David_Kasal"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kasal-david-69-3388.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kasald@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Masarykovo nám. 32, 537 01  Chrudim",
+      "town": "Chrudim",
+      "street": "Masarykovo nám. 32",
+      "psc": 53701
+    }
+  }
 }

@@ -33,7 +33,6 @@
     "https://twitter.com/PavelJelnek8",
     "https://nasipolitici.cz/detail/pavel-jelinek-66",
     "https://hlidacstatu.cz/osoba/pavel-jelinek-66",
-    "jelinekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Jel%C3%ADnek_(politik_SPD)"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/jelinek-pavel-62-0018.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "jelinekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Havlíčkova 7, 772 00  Olomouc",
+      "town": "Olomouc",
+      "street": "Havlíčkova 7",
+      "psc": 77200
+    }
+  }
 }

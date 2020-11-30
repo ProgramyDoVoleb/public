@@ -32,7 +32,6 @@
     "https://facebook.com/profile.php?id=100011247881063",
     "https://nasipolitici.cz/detail/jan-richter",
     "https://hlidacstatu.cz/osoba/jan-richter",
-    "richterj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Richter_(politik)"
   ],
   "embeds": [],
@@ -44,5 +43,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/richter-jan-67-9666.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "richterj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "28. října 1113/16, 430 01  Chomutov",
+      "town": "Chomutov",
+      "street": "28. října 1113/16",
+      "psc": 43001
+    }
+  }
 }

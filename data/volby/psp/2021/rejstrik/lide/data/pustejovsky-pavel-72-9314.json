@@ -33,7 +33,6 @@
     "https://facebook.com/pavel.pustejovsky.754",
     "https://nasipolitici.cz/detail/pavel-pustejovsky",
     "https://hlidacstatu.cz/osoba/pavel-pustejovsky",
-    "pustejovskyp@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Pust%C4%9Bjovsk%C3%BD"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/pustejovsky-pavel-72-9314.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "pustejovskyp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Náměstí 93, 757 01  Valašské Meziříčí",
+      "town": "Valašské Meziříčí",
+      "street": "Náměstí 93",
+      "psc": 75701
+    }
+  }
 }

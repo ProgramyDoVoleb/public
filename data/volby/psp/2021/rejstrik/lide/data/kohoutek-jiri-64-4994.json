@@ -31,7 +31,6 @@
     "https://facebook.com/jiri.kohoutek.585",
     "https://nasipolitici.cz/detail/jiri-kohoutek-9",
     "https://hlidacstatu.cz/osoba/jiri-kohoutek-9",
-    "kohoutekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Kohoutek_(politik)"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kohoutek-jiri-64-4994.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "kohoutekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Pernerova 2802, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "Pernerova 2802",
+      "psc": 53002
+    }
+  }
 }

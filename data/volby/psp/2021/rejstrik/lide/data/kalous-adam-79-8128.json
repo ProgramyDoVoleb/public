@@ -33,7 +33,6 @@
     "https://facebook.com/adam.kalous",
     "https://nasipolitici.cz/detail/adam-kalous-1",
     "https://hlidacstatu.cz/osoba/adam-kalous-1",
-    "kalousa@psp.cz",
     "https://cs.wikipedia.org/wiki/Adam_Kalous"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kalous-adam-79-8128.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kalousa@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Zeyerova 918, 790 01  Jeseník",
+      "town": "Jeseník",
+      "street": "Zeyerova 918",
+      "psc": 79001
+    }
+  }
 }

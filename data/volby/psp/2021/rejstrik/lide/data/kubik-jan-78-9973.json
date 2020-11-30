@@ -31,7 +31,6 @@
     "https://facebook.com/JanKubik.cz",
     "https://nasipolitici.cz/detail/jan-kubik-9",
     "https://hlidacstatu.cz/osoba/jan-kubik-9",
-    "kubikj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Kub%C3%ADk"
   ],
   "embeds": [
@@ -45,5 +44,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kubik-jan-78-9973.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "kubikj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "U Poráků 511, 381 01  Český Krumlov",
+      "town": "Český Krumlov",
+      "street": "U Poráků 511",
+      "psc": 38101
+    }
+  }
 }

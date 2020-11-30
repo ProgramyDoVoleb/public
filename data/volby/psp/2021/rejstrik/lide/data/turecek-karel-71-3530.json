@@ -23,7 +23,7 @@
     "election": {
       "region": 2,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -32,7 +32,6 @@
     "https://facebook.com/profile.php?id=100020483557493",
     "https://nasipolitici.cz/detail/karel-turecek",
     "https://hlidacstatu.cz/osoba/karel-turecek",
-    "turecekk@psp.cz",
     "https://cs.wikipedia.org/wiki/Karel_Ture%C4%8Dek"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/turecek-karel-71-3530.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "turecekk@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Jeronýmova 1894, 390 02  Tábor",
+      "town": "Tábor",
+      "street": "Jeronýmova 1894",
+      "psc": 39002
+    }
+  }
 }

@@ -34,7 +34,6 @@
     "https://facebook.com/marketa.adamova.92",
     "https://nasipolitici.cz/detail/marketa-pekarova-adamova",
     "https://hlidacstatu.cz/osoba/marketa-pekarova-adamova",
-    "adamovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Mark%C3%A9ta_Pekarov%C3%A1_Adamov%C3%A1",
     "https://demagog.cz/politici/502"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/pekarova-adamova-marketa-84-4215.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 721
+  "party": 721,
+  "contact": {
+    "email": [
+      "adamovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Opletalova 1603/57, 110 00  Praha 1",
+      "town": "Praha 1",
+      "street": "Opletalova 1603/57",
+      "psc": 11000
+    }
+  }
 }

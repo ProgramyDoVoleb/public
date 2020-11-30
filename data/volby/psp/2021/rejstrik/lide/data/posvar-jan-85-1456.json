@@ -34,7 +34,6 @@
     "https://facebook.com/ArAx666",
     "https://nasipolitici.cz/detail/jan-posvar-3",
     "https://hlidacstatu.cz/osoba/jan-posvar-3",
-    "posvarj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Po%C5%A1v%C3%A1%C5%99"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/posvar-jan-85-1456.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "posvarj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Matky Boží 1182/9, 586 01  Jihlava",
+      "town": "Jihlava",
+      "street": "Matky Boží 1182/9",
+      "psc": 58601
+    }
+  }
 }

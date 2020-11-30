@@ -32,7 +32,6 @@
     "https://facebook.com/Michal-Ratiborský-132718927422795",
     "https://nasipolitici.cz/detail/michal-ratiborsky",
     "https://hlidacstatu.cz/osoba/michal-ratiborsky",
-    "ratiborskym@psp.cz",
     "https://cs.wikipedia.org/wiki/Michal_Ratiborsk%C3%BD"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/ratiborsky-michal-81-2649.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "ratiborskym@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Stará 233/4, 794 01  Krnov",
+      "town": "Krnov",
+      "street": "Stará 233/4",
+      "psc": 79401
+    }
+  }
 }

@@ -31,7 +31,6 @@
     "https://facebook.com/lubomir.spanel",
     "https://nasipolitici.cz/detail/lubomir-spanel-1",
     "https://hlidacstatu.cz/osoba/lubomir-spanel-1",
-    "spanell@psp.cz",
     "https://cs.wikipedia.org/wiki/Lubom%C3%ADr_%C5%A0pan%C4%9Bl"
   ],
   "embeds": [
@@ -45,5 +44,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/spanel-lubomir-55-1188.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 1114
+  "party": 1114,
+  "contact": {
+    "email": [
+      "spanell@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Národní třída 2311/18, 695 01  Hodonín",
+      "town": "Hodonín",
+      "street": "Národní třída 2311/18",
+      "psc": 69501
+    }
+  }
 }

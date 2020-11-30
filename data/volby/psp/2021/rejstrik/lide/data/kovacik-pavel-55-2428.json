@@ -31,7 +31,6 @@
     "https://facebook.com/kovacik.pavel",
     "https://nasipolitici.cz/detail/pavel-kovacik",
     "https://hlidacstatu.cz/osoba/pavel-kovacik",
-    "kovacik@psp.cz",
     "https://cs.wikipedia.org/wiki/Pavel_Kov%C3%A1%C4%8Dik",
     "https://demagog.cz/politici/12"
   ],
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/kovacik-pavel-55-2428.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "kovacik@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Vítězslava Nezvala 212/49, 674 01  Třebíč",
+      "town": "Třebíč",
+      "street": "Vítězslava Nezvala 212/49",
+      "psc": 67401
+    }
+  }
 }

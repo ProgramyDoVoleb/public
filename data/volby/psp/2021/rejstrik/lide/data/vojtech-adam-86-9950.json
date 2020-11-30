@@ -23,7 +23,7 @@
     "election": {
       "region": 2,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/adam.vojtech.5",
     "https://nasipolitici.cz/detail/adam-vojtech-1",
     "https://hlidacstatu.cz/osoba/adam-vojtech-1",
-    "vojtecha@psp.cz",
     "https://cs.wikipedia.org/wiki/Adam_Vojt%C4%9Bch",
     "https://demagog.cz/politici/500"
   ],
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/vojtech-adam-86-9950.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "vojtecha@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Krajinská 35, 370 01  České Budějovice",
+      "town": "České Budějovice",
+      "street": "Krajinská 35",
+      "psc": 37001
+    }
+  }
 }

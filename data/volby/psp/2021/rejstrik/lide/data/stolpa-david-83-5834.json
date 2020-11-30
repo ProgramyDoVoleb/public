@@ -33,7 +33,6 @@
     "https://facebook.com/stolpa",
     "https://nasipolitici.cz/detail/david-stolpa",
     "https://hlidacstatu.cz/osoba/david-stolpa",
-    "stolpad@psp.cz",
     "https://cs.wikipedia.org/wiki/David_%C5%A0tolpa"
   ],
   "embeds": [
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/stolpa-david-83-5834.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "stolpad@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Palliardiho 1367, 669 02  Znojmo",
+      "town": "Znojmo",
+      "street": "Palliardiho 1367",
+      "psc": 66902
+    }
+  }
 }

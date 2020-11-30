@@ -33,7 +33,6 @@
     "https://facebook.com/jan.hamacek",
     "https://nasipolitici.cz/detail/jan-hamacek",
     "https://hlidacstatu.cz/osoba/jan-hamacek",
-    "hamacekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Ham%C3%A1%C4%8Dek",
     "https://demagog.cz/politici/41"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/hamacek-jan-78-3995.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "hamacekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Bezručova 496, 293 01  Mladá Boleslav",
+      "town": "Mladá Boleslav",
+      "street": "Bezručova 496",
+      "psc": 29301
+    }
+  }
 }

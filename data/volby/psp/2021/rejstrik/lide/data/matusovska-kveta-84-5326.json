@@ -31,7 +31,6 @@
     "https://facebook.com/Ing-Kv%C4%9Bta-Matu%C5%A1ovsk%C3%A1-910433849071337",
     "https://nasipolitici.cz/detail/kveta-matusovska",
     "https://hlidacstatu.cz/osoba/kveta-matusovska",
-    "koncickak@psp.cz",
     "https://cs.wikipedia.org/wiki/Kv%C4%9Bta_Matu%C5%A1ovsk%C3%A1"
   ],
   "embeds": [
@@ -45,5 +44,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/matusovska-kveta-84-5326.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "koncickak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Gorkého 1611, 530 02  Pardubice",
+      "town": "Pardubice",
+      "street": "Gorkého 1611",
+      "psc": 53002
+    }
+  }
 }

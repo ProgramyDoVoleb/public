@@ -33,7 +33,6 @@
     "https://facebook.com/ondrej.profant",
     "https://nasipolitici.cz/detail/ondrej-profant",
     "https://hlidacstatu.cz/osoba/ondrej-profant",
-    "profanto@psp.cz",
     "https://cs.wikipedia.org/wiki/Ond%C5%99ej_Profant"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/profant-ondrej-88-1017.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 720
+  "party": 720,
+  "contact": {
+    "email": [
+      "profanto@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Na Moráni 360/3, 128 00  Praha 2",
+      "town": "Praha 2",
+      "street": "Na Moráni 360/3",
+      "psc": 12800
+    }
+  }
 }

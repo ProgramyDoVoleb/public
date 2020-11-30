@@ -35,7 +35,6 @@
     "https://facebook.com/stanislav.blaha.7",
     "https://nasipolitici.cz/detail/stanislav-blaha",
     "https://hlidacstatu.cz/osoba/stanislav-blaha",
-    "blahas@psp.cz",
     "https://cs.wikipedia.org/wiki/Stanislav_Blaha"
   ],
   "embeds": [
@@ -50,5 +49,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/blaha-stanislav-69-0799.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "blahas@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Vavrečkova 7074, 760 01  Zlín",
+      "town": "Zlín",
+      "street": "Vavrečkova 7074",
+      "psc": 76001
+    }
+  }
 }

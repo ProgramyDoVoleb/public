@@ -31,7 +31,6 @@
     "https://facebook.com/marie.pencikova",
     "https://nasipolitici.cz/detail/marie-pencikova",
     "https://hlidacstatu.cz/osoba/marie-pencikova",
-    "pencikovam@psp.cz",
     "https://cs.wikipedia.org/wiki/Marie_P%C4%9Bn%C4%8D%C3%ADkov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/pencikova-marie-79-5101.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "pencikovam@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "A. Randýskové 1800, 760 01  Zlín",
+      "town": "Zlín",
+      "street": "A. Randýskové 1800",
+      "psc": 76001
+    }
+  }
 }

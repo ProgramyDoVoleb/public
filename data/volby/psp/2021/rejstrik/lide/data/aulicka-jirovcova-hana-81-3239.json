@@ -31,7 +31,6 @@
     "https://facebook.com/hana.aulickajirovcova",
     "https://nasipolitici.cz/detail/hana-aulicka-jirovcova",
     "https://hlidacstatu.cz/osoba/hana-aulicka-jirovcova",
-    "aulickah@psp.cz",
     "https://cs.wikipedia.org/wiki/Hana_Aulick%C3%A1_J%C3%ADrovcov%C3%A1"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/aulicka-jirovcova-hana-81-3239.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "aulickah@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Javorová 3102/525, 434 01  Most",
+      "town": "Most",
+      "street": "Javorová 3102/525",
+      "psc": 43401
+    }
+  }
 }

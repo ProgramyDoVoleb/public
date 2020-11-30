@@ -33,7 +33,6 @@
     "https://facebook.com/valachova.katerina",
     "https://nasipolitici.cz/detail/katerina-valachova",
     "https://hlidacstatu.cz/osoba/katerina-valachova",
-    "valachovak@psp.cz",
     "https://cs.wikipedia.org/wiki/Kate%C5%99ina_Valachov%C3%A1",
     "https://demagog.cz/politici/376"
   ],
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/valachova-katerina-76-4881.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 7
+  "party": 7,
+  "contact": {
+    "email": [
+      "valachovak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "nám. Svobody 1460, 272 01  Kladno",
+      "town": "Kladno",
+      "street": "nám. Svobody 1460",
+      "psc": 27201
+    }
+  }
 }

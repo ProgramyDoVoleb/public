@@ -33,7 +33,6 @@
     "https://facebook.com/daniel.pawlas.585",
     "https://nasipolitici.cz/detail/daniel-pawlas",
     "https://hlidacstatu.cz/osoba/daniel-pawlas",
-    "pawlasd@psp.cz",
     "https://cs.wikipedia.org/wiki/Daniel_Pawlas",
     "https://demagog.cz/politici/508"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/pawlas-daniel-75-1022.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "pawlasd@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Českobratrská 1579/4, 702 00  Ostrava",
+      "town": "Ostrava",
+      "street": "Českobratrská 1579/4",
+      "psc": 70200
+    }
+  }
 }

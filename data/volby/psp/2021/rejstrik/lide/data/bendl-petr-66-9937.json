@@ -35,7 +35,6 @@
     "https://facebook.com/petr.bendl.92",
     "https://nasipolitici.cz/detail/petr-bendl",
     "https://hlidacstatu.cz/osoba/petr-bendl",
-    "bendlp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_Bendl",
     "https://demagog.cz/politici/11"
   ],
@@ -51,5 +50,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/bendl-petr-66-9937.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "bendlp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Vysoká 92, 269 01  Rakovník",
+      "town": "Rakovník",
+      "street": "Vysoká 92",
+      "psc": 26901
+    }
+  }
 }

@@ -32,7 +32,6 @@
     "https://facebook.com/mr.hajek",
     "https://nasipolitici.cz/detail/josef-hajek",
     "https://hlidacstatu.cz/osoba/josef-hajek",
-    "hajekj@psp.cz",
     "https://cs.wikipedia.org/wiki/Josef_H%C3%A1jek_(politik)"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/hajek-josef-56-2521.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "hajekj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Poděbradova 856/24, 702 00  Ostrava - Moravská Ostrava",
+      "town": "Ostrava - Moravská Ostrava",
+      "street": "Poděbradova 856/24",
+      "psc": 70200
+    }
+  }
 }

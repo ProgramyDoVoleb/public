@@ -32,7 +32,6 @@
     "https://twitter.com/DolejsJiri",
     "https://nasipolitici.cz/detail/jiri-dolejs",
     "https://hlidacstatu.cz/osoba/jiri-dolejs",
-    "dolejsj@psp.cz",
     "https://cs.wikipedia.org/wiki/Ji%C5%99%C3%AD_Dolej%C5%A1",
     "https://demagog.cz/politici/50"
   ],
@@ -48,5 +47,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/dolejs-jiri-61-5000.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "dolejsj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Politických vězňů 1531/9, 111 21  Praha 1",
+      "town": "Praha 1",
+      "street": "Politických vězňů 1531/9",
+      "psc": 11121
+    }
+  }
 }

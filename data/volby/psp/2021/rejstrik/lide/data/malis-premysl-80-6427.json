@@ -32,7 +32,6 @@
     "https://twitter.com/Premysl_Malis",
     "https://nasipolitici.cz/detail/premysl-malis-1",
     "https://hlidacstatu.cz/osoba/premysl-malis-1",
-    "malisp@psp.cz",
     "https://cs.wikipedia.org/wiki/P%C5%99emysl_Mali%C5%A1"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/malis-premysl-80-6427.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "malisp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "V Pražské bráně 74, 266 01  Beroun",
+      "town": "Beroun",
+      "street": "V Pražské bráně 74",
+      "psc": 26601
+    }
+  }
 }

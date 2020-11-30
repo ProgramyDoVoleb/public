@@ -34,7 +34,6 @@
     "https://facebook.com/100011529815889",
     "https://nasipolitici.cz/detail/karel-krejza",
     "https://hlidacstatu.cz/osoba/karel-krejza",
-    "krejzak@psp.cz",
     "https://cs.wikipedia.org/wiki/Karel_Krejza"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/krejza-karel-68-1753.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 53
+  "party": 53,
+  "contact": {
+    "email": [
+      "krejzak@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Klíšská 2058/33, 400 01  Ústí nad Labem",
+      "town": "Ústí nad Labem",
+      "street": "Klíšská 2058/33",
+      "psc": 40001
+    }
+  }
 }

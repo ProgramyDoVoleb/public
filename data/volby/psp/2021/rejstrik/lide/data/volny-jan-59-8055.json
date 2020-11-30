@@ -32,7 +32,6 @@
     "https://facebook.com/jan.volny.129",
     "https://nasipolitici.cz/detail/jan-volny",
     "https://hlidacstatu.cz/osoba/jan-volny",
-    "volnyj@psp.cz",
     "https://cs.wikipedia.org/wiki/Jan_Voln%C3%BD_(politik)",
     "https://demagog.cz/politici/361"
   ],
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/volny-jan-59-8055.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "volnyj@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Smetanovy sady 1, 300 00  Plzeň",
+      "town": "Plzeň",
+      "street": "Smetanovy sady 1",
+      "psc": 30000
+    }
+  }
 }

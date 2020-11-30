@@ -31,7 +31,6 @@
     "https://facebook.com/miroslav.grebenicek",
     "https://nasipolitici.cz/detail/miroslav-grebenicek",
     "https://hlidacstatu.cz/osoba/miroslav-grebenicek",
-    "grebenicekm@psp.cz",
     "https://cs.wikipedia.org/wiki/Miroslav_Greben%C3%AD%C4%8Dek"
   ],
   "embeds": [],
@@ -43,5 +42,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/grebenicek-miroslav-47-0734.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 47
+  "party": 47,
+  "contact": {
+    "email": [
+      "grebenicekm@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Sokolská 2048/28, 669 02  Znojmo",
+      "town": "Znojmo",
+      "street": "Sokolská 2048/28",
+      "psc": 66902
+    }
+  }
 }

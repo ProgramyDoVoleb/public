@@ -32,7 +32,6 @@
     "https://facebook.com/andrea.babisova.5",
     "https://nasipolitici.cz/detail/andrea-babisova",
     "https://hlidacstatu.cz/osoba/andrea-babisova",
-    "babisovaa@psp.cz",
     "https://cs.wikipedia.org/wiki/Andrea_Babi%C5%A1ov%C3%A1"
   ],
   "embeds": [
@@ -46,5 +45,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/babisova-andrea-72-2557.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 768
+  "party": 768,
+  "contact": {
+    "email": [
+      "babisovaa@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "tř. Dr. E. Beneše 1124, 735 81  Bohumín",
+      "town": "Bohumín",
+      "street": "tř. Dr. E. Beneše 1124",
+      "psc": 73581
+    }
+  }
 }

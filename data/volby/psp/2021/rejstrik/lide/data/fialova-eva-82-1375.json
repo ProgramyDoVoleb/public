@@ -23,7 +23,7 @@
     "election": {
       "region": 5,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -31,7 +31,6 @@
     "https://facebook.com/eva.fialova.79",
     "https://nasipolitici.cz/detail/eva-fialova-8",
     "https://hlidacstatu.cz/osoba/eva-fialova-8",
-    "fialovae@psp.cz",
     "https://cs.wikipedia.org/wiki/Eva_Fialov%C3%A1"
   ],
   "embeds": [
@@ -45,5 +44,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/fialova-eva-82-1375.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "fialovae@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Bratislavská 1444/10, 400 01  Ústí nad Labem",
+      "town": "Ústí nad Labem",
+      "street": "Bratislavská 1444/10",
+      "psc": 40001
+    }
+  }
 }

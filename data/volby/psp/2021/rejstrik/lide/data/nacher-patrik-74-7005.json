@@ -23,7 +23,7 @@
     "election": {
       "region": 0,
       "nominee": 768,
-      "party": 99
+      "party": 768
     }
   },
   "links": [
@@ -34,7 +34,6 @@
     "https://facebook.com/patrik.nacher",
     "https://nasipolitici.cz/detail/patrik-nacher",
     "https://hlidacstatu.cz/osoba/patrik-nacher",
-    "nacherp@psp.cz",
     "https://cs.wikipedia.org/wiki/Patrik_Nacher"
   ],
   "embeds": [
@@ -49,5 +48,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/nacher-patrik-74-7005.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 99
+  "party": 99,
+  "contact": {
+    "email": [
+      "nacherp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Zelený pruh 95/97, 140 00  Praha 4 - Braník",
+      "town": "Praha 4 - Braník",
+      "street": "Zelený pruh 95/97",
+      "psc": 14000
+    }
+  }
 }

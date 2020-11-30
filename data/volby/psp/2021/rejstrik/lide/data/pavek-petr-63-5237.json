@@ -33,7 +33,6 @@
     "https://facebook.com/petr.pavek.967",
     "https://nasipolitici.cz/detail/petr-pavek-8",
     "https://hlidacstatu.cz/osoba/petr-pavek-8",
-    "pavekp@psp.cz",
     "https://cs.wikipedia.org/wiki/Petr_P%C3%A1vek"
   ],
   "embeds": [
@@ -47,5 +46,17 @@
     "source": "https://data.programydovoleb.cz/volby/psp/2021/rejstrik/lide/fotky/pavek-petr-63-5237.jpg",
     "licence": "Použití fotografie je se svolením ředitele tiskového odboru PSP, Romana Žambocha, ze dne 11. listopadu 2020"
   },
-  "party": 166
+  "party": 166,
+  "contact": {
+    "email": [
+      "pavekp@psp.cz"
+    ],
+    "phone": [],
+    "address": {
+      "full": "Dr. M. Horákové 10,   Liberec VII - Horní Růžodol",
+      "town": "Liberec VII - Horní Růžodol",
+      "street": "Dr. M. Horákové 10",
+      "psc": 0
+    }
+  }
 }
