@@ -134,6 +134,23 @@
             }
           },
           {
+            "area": 47,
+            "reg": 99,
+            "nominee": 77,
+            "candidate": [
+              "",
+              "Josef",
+              "Veselka",
+              ""
+            ],
+            "name": "Česká pravice",
+            "elected": false,
+            "round1": {
+              "pct": 2.17,
+              "progress": false
+            }
+          },
+          {
             "area": 62,
             "reg": 77,
             "nominee": 77,
@@ -288,6 +305,23 @@
             "elected": false,
             "round1": {
               "pct": 3.08,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 77,
+            "candidate": [
+              "PhDr.",
+              "Otakar",
+              "Štajf",
+              ""
+            ],
+            "name": "Česká pravice",
+            "elected": false,
+            "round1": {
+              "pct": 1.59,
               "progress": false
             }
           }

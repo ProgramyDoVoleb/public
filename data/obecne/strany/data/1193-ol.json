@@ -6,8 +6,33 @@
   "color": "#073618",
   "memberOf": [],
   "activity": {
-    "last": 0,
-    "list": []
+    "last": 20181005,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 44,
+            "reg": 99,
+            "nominee": 1193,
+            "candidate": [
+              "Mgr.",
+              "Emanuel",
+              "Žďárský",
+              ""
+            ],
+            "name": "OBYČEJNÍ LIDÉ",
+            "elected": false,
+            "round1": {
+              "pct": 4.01,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
   },
   "links": {
     "global": [],

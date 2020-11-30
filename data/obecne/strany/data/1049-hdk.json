@@ -10,6 +10,34 @@
     "last": 20201002,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 1049,
+            "candidate": [
+              "JUDr.",
+              "Jan",
+              "Holásek",
+              "LL.M."
+            ],
+            "name": "Hradecký demokratický klub",
+            "elected": true,
+            "round1": {
+              "pct": 16.91,
+              "progress": true
+            },
+            "round2": {
+              "pct": 70.23,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2020,
         "date": 20201002,

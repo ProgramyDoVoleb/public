@@ -19,6 +19,30 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 1052,
+            "candidate": [
+              "mjr.",
+              "Stanislav",
+              "Balík",
+              ""
+            ],
+            "name": "Alternativa pro Českou republiku 2017",
+            "elected": false,
+            "round1": {
+              "pct": 2.69,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20161007,
         "date": 20161007,
         "list": [
@@ -83,6 +107,23 @@
             "elected": false,
             "round1": {
               "pct": 3.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 61,
+            "reg": 99,
+            "nominee": 1052,
+            "candidate": [
+              "Ing.",
+              "Eva",
+              "Hrindová",
+              ""
+            ],
+            "name": "Alternativa pro Českou republiku 2017",
+            "elected": false,
+            "round1": {
+              "pct": 2.45,
               "progress": false
             }
           }

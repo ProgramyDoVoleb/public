@@ -39,6 +39,30 @@
         "elected": 2
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 188,
+            "candidate": [
+              "Mgr.",
+              "Stanislav",
+              "Pěnička",
+              ""
+            ],
+            "name": "SEMILÁCI",
+            "elected": false,
+            "round1": {
+              "pct": 3.19,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

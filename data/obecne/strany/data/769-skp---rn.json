@@ -197,6 +197,30 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 769,
+            "candidate": [
+              "",
+              "Alessandro",
+              "Alagia",
+              ""
+            ],
+            "name": "Strana konzervativní pravice - Řád národa",
+            "elected": false,
+            "round1": {
+              "pct": 1.81,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,

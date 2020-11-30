@@ -247,8 +247,6 @@ elec.forEach(type => {
             elected: false
           }
 
-          if (candidate.party) console.log(candidate.party.reg, candidate.name);
-
           if (results.round1) {
             var res = results.round1.candidates.find(c => c.id === (candidate.id || candidate.no));
 
@@ -279,9 +277,11 @@ elec.forEach(type => {
             }
           }
 
-          var party = parties.find(p => p.reg === obj.member);
+          var party;
 
-          if (!party) {
+          if (!party && obj.member != 99) party = parties.find(p => p.reg === obj.member);
+
+          if (!party && obj.nominee != 99) {
             party = parties.find(p => p.reg === obj.nominee);
           }
 
@@ -337,7 +337,8 @@ elec.forEach(type => {
         });
       });
     } catch (e) {
-      console.log("Neznámé volby", type.hash, el.label)
+      console.log("Chyba", type.hash, el.label);
+      console.log(e);
     }
     });
   }
@@ -443,11 +444,11 @@ parties.forEach(party => {
   var file = "../data/obecne/strany/data/" + party.reg + "-" + party.hash.split('+').join('-').split('/').join('-').split('"').join('') + ".json";
 
   try {
-    // o = JSON.parse(fs.readFileSync(file));
+    o = JSON.parse(fs.readFileSync(file));
 
-    // o.activity = party.activity;
+    o.activity = party.activity;
 
-    writeJSON(party, file);
+    writeJSON(o, file);
 
     // o.activity.list = undefined;
 

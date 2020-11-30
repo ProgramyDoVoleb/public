@@ -55,6 +55,47 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 14,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "Ing.",
+              "Marie",
+              "Paukejová",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 2.47,
+              "progress": false
+            }
+          },
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "pplk.",
+              "Marek",
+              "Obrtel",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 7.92,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -338,6 +379,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Jan",
+              "Zenkl",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 1.04,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2012,
         "date": 20121012,
@@ -371,6 +436,29 @@
             "area": 9,
             "reg": 2,
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 1,
+            "reg": 2,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Rovný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.34,
+              "progress": false
+            }
           }
         ]
       },
@@ -464,29 +552,6 @@
           }
         ],
         "elected": 26
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20101015,
-        "date": 20101015,
-        "list": [
-          {
-            "area": 1,
-            "reg": 2,
-            "nominee": 2,
-            "candidate": [
-              "",
-              "Jaroslav",
-              "Rovný",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.34,
-              "progress": false
-            }
-          }
-        ]
       },
       {
         "type": "snemovni-volby",
@@ -673,6 +738,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "RNDr.",
+              "Jiří",
+              "Hanzlíček",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 0.66,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2002,
         "date": 20020614,
@@ -789,6 +878,105 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 11,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "Mgr.",
+              "Jaroslav",
+              "Fridrich",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 0.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 17,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "MUDr.",
+              "Radim",
+              "Uzel",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 20.11,
+              "progress": false
+            }
+          },
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Kracík",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 4.18,
+              "progress": false
+            }
+          },
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "MUDr.",
+              "Oto",
+              "Košta",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 2.28,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 37,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "ing.",
+              "Jiří",
+              "Drobeček",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 5.84,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 1998,
         "date": 19980619,
@@ -814,6 +1002,23 @@
             "elected": false,
             "round1": {
               "pct": 1.93,
+              "progress": false
+            }
+          },
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Žák",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 3.77,
               "progress": false
             }
           },
@@ -846,6 +1051,23 @@
             "elected": false,
             "round1": {
               "pct": 7.44,
+              "progress": false
+            }
+          },
+          {
+            "area": 2,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Jiří",
+              "Dytrych",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 3.63,
               "progress": false
             }
           },
@@ -978,6 +1200,23 @@
             }
           },
           {
+            "area": 4,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Petr",
+              "Pakosta",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 6.37,
+              "progress": false
+            }
+          },
+          {
             "area": 40,
             "reg": 2,
             "nominee": 2,
@@ -1106,6 +1345,23 @@
             }
           },
           {
+            "area": 68,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "František",
+              "Peringer",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 4.25,
+              "progress": false
+            }
+          },
+          {
             "area": 7,
             "reg": 2,
             "nominee": 2,
@@ -1150,6 +1406,40 @@
             "elected": false,
             "round1": {
               "pct": 1.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 77,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Aglaia",
+              "Škarpová",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 1.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 2,
+            "candidate": [
+              "",
+              "Václav",
+              "Beneda",
+              ""
+            ],
+            "name": "Česká strana národně sociální",
+            "elected": false,
+            "round1": {
+              "pct": 5.19,
               "progress": false
             }
           }

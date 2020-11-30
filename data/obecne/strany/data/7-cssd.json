@@ -306,6 +306,23 @@
             }
           },
           {
+            "area": 48,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "brig. gen. Ing.",
+              "František",
+              "Mencl",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 6.43,
+              "progress": false
+            }
+          },
+          {
             "area": 51,
             "reg": 7,
             "nominee": 7,
@@ -509,6 +526,404 @@
         "reg": 7,
         "pct": 3.95,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 11,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jan",
+              "Látka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.47,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.4,
+              "progress": false
+            }
+          },
+          {
+            "area": 14,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Miloslav",
+              "Procházka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.01,
+              "progress": false
+            }
+          },
+          {
+            "area": 17,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "František",
+              "Dobšík",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 2.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 2,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Bc.",
+              "Jan",
+              "Picka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Miroslava",
+              "Skovajsová",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 7.81,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Roman",
+              "Petrus",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.48,
+              "progress": false
+            }
+          },
+          {
+            "area": 32,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Ivan",
+              "Vinický",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.38,
+              "progress": false
+            }
+          },
+          {
+            "area": 35,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jindřich",
+              "Berounský",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "doc.",
+              "Ladislav",
+              "Horák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Petr",
+              "Petržílek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Lucie",
+              "Orgoníková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Miroslav",
+              "Brát",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.83,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Jaroslav",
+              "Krákora",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Havíř",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 20.76,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Naděžda",
+              "Dobešová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Válka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Bc.",
+              "Pavel",
+              "Kosorin",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 4.51,
+              "progress": false
+            }
+          },
+          {
+            "area": 62,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Božena",
+              "Sekaninová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.68,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Dana",
+              "Galuszková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.5,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Vícha",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 36.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 72.06,
+              "progress": true
+            }
+          },
+          {
+            "area": 77,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Petr",
+              "Kořenek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Doc.",
+              "Milada",
+              "Emmerová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.79,
+              "progress": true
+            },
+            "round2": {
+              "pct": 31.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 80,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Milena",
+              "Kovaříková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.16,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "komunalni-volby",
@@ -774,346 +1189,23 @@
       },
       {
         "type": "senatni-volby",
-        "id": 20181005,
-        "date": 20181005,
+        "id": 20180518,
+        "date": 20180518,
         "list": [
           {
-            "area": 11,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Jan",
-              "Látka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 21.47,
-              "progress": true
-            },
-            "round2": {
-              "pct": 47.4,
-              "progress": false
-            }
-          },
-          {
-            "area": 14,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Miloslav",
-              "Procházka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 4.01,
-              "progress": false
-            }
-          },
-          {
-            "area": 2,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Bc.",
-              "Jan",
-              "Picka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 17.59,
-              "progress": false
-            }
-          },
-          {
-            "area": 23,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Roman",
-              "Petrus",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.48,
-              "progress": false
-            }
-          },
-          {
-            "area": 32,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Ivan",
-              "Vinický",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 4.38,
-              "progress": false
-            }
-          },
-          {
-            "area": 35,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Jindřich",
-              "Berounský",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.39,
-              "progress": false
-            }
-          },
-          {
-            "area": 38,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "doc.",
-              "Ladislav",
-              "Horák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.46,
-              "progress": false
-            }
-          },
-          {
-            "area": 41,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "JUDr.",
-              "Petr",
-              "Petržílek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 3.71,
-              "progress": false
-            }
-          },
-          {
-            "area": 44,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Lucie",
-              "Orgoníková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.94,
-              "progress": false
-            }
-          },
-          {
-            "area": 47,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Miroslav",
-              "Brát",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.83,
-              "progress": false
-            }
-          },
-          {
-            "area": 5,
-            "reg": 7,
+            "area": 78,
+            "reg": 99,
             "nominee": 7,
             "candidate": [
               "MUDr.",
-              "Jaroslav",
-              "Krákora",
+              "Radim",
+              "Jünger",
               ""
             ],
+            "name": "Česká strana sociálně demokratická",
             "elected": false,
             "round1": {
-              "pct": 5.16,
-              "progress": false
-            }
-          },
-          {
-            "area": 50,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MUDr.",
-              "Pavel",
-              "Havíř",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 20.76,
-              "progress": true
-            },
-            "round2": {
-              "pct": 37.23,
-              "progress": false
-            }
-          },
-          {
-            "area": 53,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Naděžda",
-              "Dobešová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.77,
-              "progress": false
-            }
-          },
-          {
-            "area": 56,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Jaroslav",
-              "Válka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.9,
-              "progress": false
-            }
-          },
-          {
-            "area": 62,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Božena",
-              "Sekaninová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 18.68,
-              "progress": true
-            },
-            "round2": {
-              "pct": 40.14,
-              "progress": false
-            }
-          },
-          {
-            "area": 65,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MUDr.",
-              "Dana",
-              "Galuszková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.5,
-              "progress": false
-            }
-          },
-          {
-            "area": 74,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Petr",
-              "Vícha",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 36.72,
-              "progress": true
-            },
-            "round2": {
-              "pct": 72.06,
-              "progress": true
-            }
-          },
-          {
-            "area": 77,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Mgr.",
-              "Petr",
-              "Kořenek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.84,
-              "progress": false
-            }
-          },
-          {
-            "area": 8,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Doc.",
-              "Milada",
-              "Emmerová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.79,
-              "progress": true
-            },
-            "round2": {
-              "pct": 31.61,
-              "progress": false
-            }
-          },
-          {
-            "area": 80,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Mgr.",
-              "Milena",
-              "Kovaříková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.16,
+              "pct": 7.45,
               "progress": false
             }
           }
@@ -1151,74 +1243,26 @@
         "elected": 15
       },
       {
-        "type": "krajske-volby",
-        "id": 2016,
-        "date": 20161007,
+        "type": "senatni-volby",
+        "id": 20170127,
+        "date": 20170127,
         "list": [
           {
-            "area": 1,
-            "reg": 7,
-            "elected": 11
-          },
-          {
-            "area": 2,
-            "reg": 7,
-            "elected": 15
-          },
-          {
-            "area": 3,
-            "reg": 7,
-            "elected": 9
-          },
-          {
             "area": 4,
-            "reg": 7,
-            "elected": 8
-          },
-          {
-            "area": 5,
-            "reg": 7,
-            "elected": 10
-          },
-          {
-            "area": 6,
-            "reg": 7,
-            "elected": 4
-          },
-          {
-            "area": 7,
-            "reg": 7,
-            "elected": 6
-          },
-          {
-            "area": 8,
-            "reg": 7,
-            "elected": 11
-          },
-          {
-            "area": 9,
-            "reg": 7,
-            "elected": 11
-          },
-          {
-            "area": 10,
-            "reg": 7,
-            "elected": 11
-          },
-          {
-            "area": 11,
-            "reg": 7,
-            "elected": 9
-          },
-          {
-            "area": 12,
-            "reg": 7,
-            "elected": 6
-          },
-          {
-            "area": 13,
-            "reg": 7,
-            "elected": 14
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jiří",
+              "Šlégr",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 15.73,
+              "progress": false
+            }
           }
         ]
       },
@@ -1300,6 +1344,44 @@
             }
           },
           {
+            "area": 19,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Miroslava",
+              "Skovajsová",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 15.42,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Václav",
+              "Bělohradský",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 16.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 27.93,
+              "progress": false
+            }
+          },
+          {
             "area": 28,
             "reg": 7,
             "nominee": 7,
@@ -1360,6 +1442,27 @@
             "elected": false,
             "round1": {
               "pct": 14.18,
+              "progress": false
+            }
+          },
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jiří",
+              "Šlégr",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 16.42,
+              "progress": true
+            },
+            "round2": {
+              "pct": 29.18,
               "progress": false
             }
           },
@@ -1445,6 +1548,27 @@
             "round1": {
               "pct": 10.55,
               "progress": false
+            }
+          },
+          {
+            "area": 55,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Jan",
+              "Žaloudík",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 18.62,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.63,
+              "progress": true
             }
           },
           {
@@ -1600,6 +1724,599 @@
             },
             "round2": {
               "pct": 32.21,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2016,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 1,
+            "reg": 7,
+            "elected": 11
+          },
+          {
+            "area": 2,
+            "reg": 7,
+            "elected": 15
+          },
+          {
+            "area": 3,
+            "reg": 7,
+            "elected": 9
+          },
+          {
+            "area": 4,
+            "reg": 7,
+            "elected": 8
+          },
+          {
+            "area": 5,
+            "reg": 7,
+            "elected": 10
+          },
+          {
+            "area": 6,
+            "reg": 7,
+            "elected": 4
+          },
+          {
+            "area": 7,
+            "reg": 7,
+            "elected": 6
+          },
+          {
+            "area": 8,
+            "reg": 7,
+            "elected": 11
+          },
+          {
+            "area": 9,
+            "reg": 7,
+            "elected": 11
+          },
+          {
+            "area": 10,
+            "reg": 7,
+            "elected": 11
+          },
+          {
+            "area": 11,
+            "reg": 7,
+            "elected": 9
+          },
+          {
+            "area": 12,
+            "reg": 7,
+            "elected": 6
+          },
+          {
+            "area": 13,
+            "reg": 7,
+            "elected": 14
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 12,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Kratochvíle",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 16.38,
+              "progress": true
+            },
+            "round2": {
+              "pct": 51.25,
+              "progress": true
+            }
+          },
+          {
+            "area": 15,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Milan",
+              "Štěch",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 36.29,
+              "progress": true
+            },
+            "round2": {
+              "pct": 61.7,
+              "progress": true
+            }
+          },
+          {
+            "area": 18,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MVDr.",
+              "Josef",
+              "Řihák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Stanislav",
+              "Štech",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 11.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Plk.",
+              "Oldřich",
+              "Pelčák",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 10.66,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Pavlík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 3,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Miroslav",
+              "Nenutil",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 28.41,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.35,
+              "progress": true
+            }
+          },
+          {
+            "area": 30,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "DIENSTBIER",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 30.63,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.4,
+              "progress": true
+            }
+          },
+          {
+            "area": 33,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Sykáček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.73,
+              "progress": true
+            },
+            "round2": {
+              "pct": 28.56,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Kapoun",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.61,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 39,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Trpák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.88,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Emilie",
+              "Třísková",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 26.11,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.24,
+              "progress": true
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Jaroslav",
+              "Malý",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 21.95,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.12,
+              "progress": true
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Antl",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 41.12,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.76,
+              "progress": true
+            }
+          },
+          {
+            "area": 51,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Dagmar",
+              "Zvěřinová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 27.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Štohl",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 24.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 53.87,
+              "progress": true
+            }
+          },
+          {
+            "area": 57,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Ivo",
+              "Bárek",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 33.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 53.22,
+              "progress": true
+            }
+          },
+          {
+            "area": 6,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "PhDr.",
+              "Marcel",
+              "Chládek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 26.88,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.68,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Doležal",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.47,
+              "progress": true
+            },
+            "round2": {
+              "pct": 36.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Michal",
+              "Chromec",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 12.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 66,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Korytář",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.56,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Bc.",
+              "Jiří",
+              "Hájek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.62,
+              "progress": true
+            },
+            "round2": {
+              "pct": 43.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Mihálik",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.81,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Radek",
+              "Sušil",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 35.73,
+              "progress": true
+            },
+            "round2": {
+              "pct": 62.63,
+              "progress": true
+            }
+          },
+          {
+            "area": 78,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "PaedDr.",
+              "Alena",
+              "Gajdůšková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 23.68,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Hana",
+              "Doupovcová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 7,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Václav",
+              "Šimánek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.4,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.73,
               "progress": false
             }
           }
@@ -1800,413 +2517,6 @@
           }
         ],
         "elected": 3826
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20141010,
-        "date": 20141010,
-        "list": [
-          {
-            "area": 12,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Karel",
-              "Kratochvíle",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 16.38,
-              "progress": true
-            },
-            "round2": {
-              "pct": 51.25,
-              "progress": true
-            }
-          },
-          {
-            "area": 15,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Milan",
-              "Štěch",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 36.29,
-              "progress": true
-            },
-            "round2": {
-              "pct": 61.7,
-              "progress": true
-            }
-          },
-          {
-            "area": 18,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MVDr.",
-              "Josef",
-              "Řihák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 18.89,
-              "progress": false
-            }
-          },
-          {
-            "area": 27,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Petr",
-              "Pavlík",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.87,
-              "progress": false
-            }
-          },
-          {
-            "area": 3,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Mgr.",
-              "Miroslav",
-              "Nenutil",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 28.41,
-              "progress": true
-            },
-            "round2": {
-              "pct": 55.35,
-              "progress": true
-            }
-          },
-          {
-            "area": 30,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Mgr.",
-              "Jiří",
-              "DIENSTBIER",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 30.63,
-              "progress": true
-            },
-            "round2": {
-              "pct": 55.4,
-              "progress": true
-            }
-          },
-          {
-            "area": 33,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Jaroslav",
-              "Sykáček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 16.73,
-              "progress": true
-            },
-            "round2": {
-              "pct": 28.56,
-              "progress": false
-            }
-          },
-          {
-            "area": 36,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Karel",
-              "Kapoun",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 18.61,
-              "progress": true
-            },
-            "round2": {
-              "pct": 40.67,
-              "progress": false
-            }
-          },
-          {
-            "area": 39,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MUDr.",
-              "Pavel",
-              "Trpák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.88,
-              "progress": false
-            }
-          },
-          {
-            "area": 42,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "",
-              "Emilie",
-              "Třísková",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 26.11,
-              "progress": true
-            },
-            "round2": {
-              "pct": 56.24,
-              "progress": true
-            }
-          },
-          {
-            "area": 51,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Dagmar",
-              "Zvěřinová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 27.74,
-              "progress": true
-            },
-            "round2": {
-              "pct": 46.77,
-              "progress": false
-            }
-          },
-          {
-            "area": 57,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Ivo",
-              "Bárek",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 33.72,
-              "progress": true
-            },
-            "round2": {
-              "pct": 53.22,
-              "progress": true
-            }
-          },
-          {
-            "area": 6,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "PhDr.",
-              "Marcel",
-              "Chládek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 26.88,
-              "progress": true
-            },
-            "round2": {
-              "pct": 47.68,
-              "progress": false
-            }
-          },
-          {
-            "area": 60,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Karel",
-              "Doležal",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 17.47,
-              "progress": true
-            },
-            "round2": {
-              "pct": 36.3,
-              "progress": false
-            }
-          },
-          {
-            "area": 66,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Karel",
-              "Korytář",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.56,
-              "progress": false
-            }
-          },
-          {
-            "area": 69,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Bc.",
-              "Jiří",
-              "Hájek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.62,
-              "progress": true
-            },
-            "round2": {
-              "pct": 43.98,
-              "progress": false
-            }
-          },
-          {
-            "area": 72,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Petr",
-              "Mihálik",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.81,
-              "progress": true
-            },
-            "round2": {
-              "pct": 47.06,
-              "progress": false
-            }
-          },
-          {
-            "area": 75,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MUDr.",
-              "Radek",
-              "Sušil",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 35.73,
-              "progress": true
-            },
-            "round2": {
-              "pct": 62.63,
-              "progress": true
-            }
-          },
-          {
-            "area": 78,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "PaedDr.",
-              "Alena",
-              "Gajdůšková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 23.68,
-              "progress": true
-            },
-            "round2": {
-              "pct": 45.98,
-              "progress": false
-            }
-          },
-          {
-            "area": 81,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "Ing.",
-              "Hana",
-              "Doupovcová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.45,
-              "progress": false
-            }
-          },
-          {
-            "area": 9,
-            "reg": 7,
-            "nominee": 7,
-            "candidate": [
-              "MUDr.",
-              "Václav",
-              "Šimánek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 21.4,
-              "progress": true
-            },
-            "round2": {
-              "pct": 45.73,
-              "progress": false
-            }
-          }
-        ]
       },
       {
         "type": "evropske-volby",
@@ -2418,6 +2728,44 @@
             }
           },
           {
+            "area": 20,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Eva",
+              "Syková",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 24.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.5,
+              "progress": true
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Martin",
+              "Potůček",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 21.38,
+              "progress": false
+            }
+          },
+          {
             "area": 26,
             "reg": 7,
             "nominee": 7,
@@ -2455,6 +2803,23 @@
             "round2": {
               "pct": 52.56,
               "progress": true
+            }
+          },
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Jiří",
+              "Vorálek",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 8.13,
+              "progress": false
             }
           },
           {
@@ -2590,6 +2955,27 @@
             },
             "round2": {
               "pct": 69.71,
+              "progress": true
+            }
+          },
+          {
+            "area": 53,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "František",
+              "Bublan",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 27.4,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.1,
               "progress": true
             }
           },
@@ -3357,6 +3743,27 @@
             }
           },
           {
+            "area": 55,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "prof.",
+              "Jan",
+              "Žaloudík",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 32.37,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.31,
+              "progress": true
+            }
+          },
+          {
             "area": 58,
             "reg": 7,
             "nominee": 7,
@@ -3620,6 +4027,27 @@
             }
           },
           {
+            "area": 21,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.",
+              "Jiří",
+              "Witzany",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 22.33,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.98,
+              "progress": false
+            }
+          },
+          {
             "area": 24,
             "reg": 7,
             "nominee": 7,
@@ -3640,6 +4068,27 @@
             }
           },
           {
+            "area": 27,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Blanka",
+              "Haindlová",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 17.81,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.78,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 7,
             "nominee": 7,
@@ -3656,6 +4105,48 @@
             },
             "round2": {
               "pct": 67.36,
+              "progress": true
+            }
+          },
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jiří",
+              "Dienstbier",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 36.88,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.14,
+              "progress": true
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Sykáček",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 24.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 61.65,
               "progress": true
             }
           },
@@ -3700,6 +4191,27 @@
             }
           },
           {
+            "area": 42,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Lebeda",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 25.53,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.96,
+              "progress": true
+            }
+          },
+          {
             "area": 45,
             "reg": 7,
             "nominee": 7,
@@ -3716,6 +4228,27 @@
             },
             "round2": {
               "pct": 53.66,
+              "progress": true
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Antl",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 43.83,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.6,
               "progress": true
             }
           },
@@ -3753,6 +4286,27 @@
             "round1": {
               "pct": 16.93,
               "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Ivo",
+              "Bárek",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 39.6,
+              "progress": true
+            },
+            "round2": {
+              "pct": 61.09,
+              "progress": true
             }
           },
           {
@@ -3872,6 +4426,23 @@
             },
             "round2": {
               "pct": 64.97,
+              "progress": true
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Radek",
+              "Sušil",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 53.34,
               "progress": true
             }
           },
@@ -4343,6 +4914,44 @@
             }
           },
           {
+            "area": 20,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.Ing.",
+              "Richard",
+              "Hindls",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 17.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 26.92,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "doc.Ing.",
+              "Jiří",
+              "Patočka",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 12.69,
+              "progress": false
+            }
+          },
+          {
             "area": 26,
             "reg": 7,
             "nominee": 7,
@@ -4395,6 +5004,23 @@
             }
           },
           {
+            "area": 35,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Imrich",
+              "Bugár",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 7.99,
+              "progress": false
+            }
+          },
+          {
             "area": 38,
             "reg": 7,
             "nominee": 7,
@@ -4443,6 +5069,40 @@
             "elected": false,
             "round1": {
               "pct": 14.62,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Uhlíř",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 10.57,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Mgr.",
+              "Marie",
+              "Benešová",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 12.72,
               "progress": false
             }
           },
@@ -4555,6 +5215,27 @@
             }
           },
           {
+            "area": 68,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.PhDr.",
+              "Zdeněk",
+              "Jirásek",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 24.19,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.32,
+              "progress": false
+            }
+          },
+          {
             "area": 71,
             "reg": 7,
             "nominee": 7,
@@ -4653,6 +5334,91 @@
         "elected": 74
       },
       {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 7,
+            "pct": 16.7,
+            "elected": 12
+          },
+          {
+            "area": 2,
+            "reg": 7,
+            "pct": 12.65,
+            "elected": 7
+          },
+          {
+            "area": 3,
+            "reg": 7,
+            "pct": 14.92,
+            "elected": 8
+          },
+          {
+            "area": 4,
+            "reg": 7,
+            "pct": 14.97,
+            "elected": 7
+          },
+          {
+            "area": 5,
+            "reg": 7,
+            "pct": 15.29,
+            "elected": 10
+          },
+          {
+            "area": 6,
+            "reg": 7,
+            "pct": 10.8,
+            "elected": 6
+          },
+          {
+            "area": 7,
+            "reg": 7,
+            "pct": 11.97,
+            "elected": 6
+          },
+          {
+            "area": 8,
+            "reg": 7,
+            "pct": 13.22,
+            "elected": 6
+          },
+          {
+            "area": 9,
+            "reg": 7,
+            "pct": 13.28,
+            "elected": 6
+          },
+          {
+            "area": 10,
+            "reg": 7,
+            "pct": 11.93,
+            "elected": 9
+          },
+          {
+            "area": 11,
+            "reg": 7,
+            "pct": 15.02,
+            "elected": 10
+          },
+          {
+            "area": 12,
+            "reg": 7,
+            "pct": 13.66,
+            "elected": 7
+          },
+          {
+            "area": 13,
+            "reg": 7,
+            "pct": 15.43,
+            "elected": 11
+          }
+        ]
+      },
+      {
         "type": "senatni-volby",
         "id": 20041105,
         "date": 20041105,
@@ -4686,6 +5452,27 @@
             "elected": false,
             "round1": {
               "pct": 17.18,
+              "progress": false
+            }
+          },
+          {
+            "area": 13,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Stanislav",
+              "Kázecký",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 19.08,
+              "progress": true
+            },
+            "round2": {
+              "pct": 34.74,
               "progress": false
             }
           },
@@ -4834,6 +5621,61 @@
             }
           },
           {
+            "area": 40,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "PhDr.",
+              "Běla",
+              "Hejná",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 21.02,
+              "progress": true
+            },
+            "round2": {
+              "pct": 48.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Zdeněk",
+              "Černý",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 10.35,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "RNDr.",
+              "Jaroslav",
+              "Demel",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 14.7,
+              "progress": false
+            }
+          },
+          {
             "area": 49,
             "reg": 7,
             "nominee": 7,
@@ -4846,6 +5688,23 @@
             "elected": false,
             "round1": {
               "pct": 10.75,
+              "progress": false
+            }
+          },
+          {
+            "area": 52,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "PhDr.",
+              "Zdeněk",
+              "Jaroš",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 10.79,
               "progress": false
             }
           },
@@ -4918,6 +5777,23 @@
             }
           },
           {
+            "area": 67,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "František",
+              "Kačenka",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 6.76,
+              "progress": false
+            }
+          },
+          {
             "area": 7,
             "reg": 7,
             "nominee": 7,
@@ -4980,91 +5856,23 @@
               "pct": 12.4,
               "progress": false
             }
-          }
-        ]
-      },
-      {
-        "type": "krajske-volby",
-        "id": 2004,
-        "date": 20041105,
-        "list": [
-          {
-            "area": 1,
-            "reg": 7,
-            "pct": 16.7,
-            "elected": 12
           },
           {
-            "area": 2,
-            "reg": 7,
-            "pct": 12.65,
-            "elected": 7
-          },
-          {
-            "area": 3,
-            "reg": 7,
-            "pct": 14.92,
-            "elected": 8
-          },
-          {
-            "area": 4,
-            "reg": 7,
-            "pct": 14.97,
-            "elected": 7
-          },
-          {
-            "area": 5,
-            "reg": 7,
-            "pct": 15.29,
-            "elected": 10
-          },
-          {
-            "area": 6,
-            "reg": 7,
-            "pct": 10.8,
-            "elected": 6
-          },
-          {
-            "area": 7,
-            "reg": 7,
-            "pct": 11.97,
-            "elected": 6
-          },
-          {
-            "area": 8,
-            "reg": 7,
-            "pct": 13.22,
-            "elected": 6
-          },
-          {
-            "area": 9,
-            "reg": 7,
-            "pct": 13.28,
-            "elected": 6
-          },
-          {
-            "area": 10,
-            "reg": 7,
-            "pct": 11.93,
-            "elected": 9
-          },
-          {
-            "area": 11,
-            "reg": 7,
-            "pct": 15.02,
-            "elected": 10
-          },
-          {
-            "area": 12,
-            "reg": 7,
-            "pct": 13.66,
-            "elected": 7
-          },
-          {
-            "area": 13,
-            "reg": 7,
-            "pct": 15.43,
-            "elected": 11
+            "area": 79,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Josef",
+              "Černý",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 8.55,
+              "progress": false
+            }
           }
         ]
       },
@@ -5090,6 +5898,23 @@
             },
             "round2": {
               "pct": 39.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jindřich",
+              "Laky",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 9.4,
               "progress": false
             }
           }
@@ -5307,6 +6132,27 @@
             }
           },
           {
+            "area": 33,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Anna",
+              "Briestenská",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 25.84,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.84,
+              "progress": false
+            }
+          },
+          {
             "area": 36,
             "reg": 7,
             "nominee": 7,
@@ -5347,6 +6193,27 @@
             }
           },
           {
+            "area": 42,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Jan",
+              "Rakušan",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 25.46,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.91,
+              "progress": true
+            }
+          },
+          {
             "area": 45,
             "reg": 7,
             "nominee": 7,
@@ -5359,6 +6226,23 @@
             "elected": false,
             "round1": {
               "pct": 9.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Ivan",
+              "Přikryl",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 10.22,
               "progress": false
             }
           },
@@ -5376,6 +6260,27 @@
             "round1": {
               "pct": 8.48,
               "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Ivo",
+              "Bárek",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 22.29,
+              "progress": true
+            },
+            "round2": {
+              "pct": 51.6,
+              "progress": true
             }
           },
           {
@@ -5751,6 +6656,23 @@
             }
           },
           {
+            "area": 26,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "MUDr.",
+              "Vladimír",
+              "Polanecký",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 18.18,
+              "progress": false
+            }
+          },
+          {
             "area": 29,
             "reg": 7,
             "nominee": 7,
@@ -5799,6 +6721,27 @@
             }
           },
           {
+            "area": 38,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Jiří",
+              "Dienstbier",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 30.01,
+              "progress": true
+            },
+            "round2": {
+              "pct": 49.78,
+              "progress": false
+            }
+          },
+          {
             "area": 41,
             "reg": 7,
             "nominee": 7,
@@ -5827,6 +6770,23 @@
             "elected": false,
             "round1": {
               "pct": 10.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Richard",
+              "Sacher",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 21.71,
               "progress": false
             }
           },
@@ -6070,6 +7030,30 @@
       },
       {
         "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Karel",
+              "Srp",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 1.04,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 19981114,
         "date": 19981114,
         "list": [
@@ -6271,6 +7255,27 @@
             "round2": {
               "pct": 35.94,
               "progress": false
+            }
+          },
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "JUDr.",
+              "Richard",
+              "Falbr",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 41.55,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.59,
+              "progress": true
             }
           },
           {
@@ -6681,6 +7686,27 @@
             }
           },
           {
+            "area": 15,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Milan",
+              "Štěch",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 25.11,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.41,
+              "progress": true
+            }
+          },
+          {
             "area": 16,
             "reg": 7,
             "nominee": 7,
@@ -6777,6 +7803,23 @@
             }
           },
           {
+            "area": 20,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.,",
+              "Vladimír",
+              "Kočandrle",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 19.88,
+              "progress": false
+            }
+          },
+          {
             "area": 21,
             "reg": 7,
             "nominee": 7,
@@ -6789,6 +7832,23 @@
             "elected": false,
             "round1": {
               "pct": 15.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.,MUDr.",
+              "Václav",
+              "Kordač",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 19,
               "progress": false
             }
           },
@@ -6881,6 +7941,44 @@
             }
           },
           {
+            "area": 28,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Chalupník",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 19.38,
+              "progress": true
+            },
+            "round2": {
+              "pct": 44.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Josef",
+              "Pol",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 19.9,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 7,
             "nominee": 7,
@@ -6957,6 +8055,27 @@
             },
             "round2": {
               "pct": 52.68,
+              "progress": true
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Egon",
+              "Lansky",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": true,
+            "round1": {
+              "pct": 30.34,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.96,
               "progress": true
             }
           },
@@ -7117,6 +8236,27 @@
             }
           },
           {
+            "area": 41,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Josef",
+              "Dráb",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 20.04,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.12,
+              "progress": false
+            }
+          },
+          {
             "area": 42,
             "reg": 7,
             "nominee": 7,
@@ -7133,6 +8273,23 @@
             },
             "round2": {
               "pct": 44.72,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Ing.",
+              "Ota",
+              "Karen",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 18.9,
               "progress": false
             }
           },
@@ -7181,6 +8338,23 @@
             "elected": false,
             "round1": {
               "pct": 17.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "",
+              "Uršula",
+              "Kluková",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 15.56,
               "progress": false
             }
           },
@@ -7441,6 +8615,23 @@
             "elected": false,
             "round1": {
               "pct": 18.27,
+              "progress": false
+            }
+          },
+          {
+            "area": 61,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Prof.,PhDr.",
+              "František",
+              "Mezihorák",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 23.2,
               "progress": false
             }
           },
@@ -7749,6 +8940,23 @@
             },
             "round2": {
               "pct": 47.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 7,
+            "candidate": [
+              "Doc.",
+              "Věra",
+              "Chytilová",
+              ""
+            ],
+            "name": "Česká strana sociálně demokratická",
+            "elected": false,
+            "round1": {
+              "pct": 18.37,
               "progress": false
             }
           },

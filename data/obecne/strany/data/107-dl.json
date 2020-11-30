@@ -40,6 +40,30 @@
         "reg": 107,
         "pct": 0.08,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 70,
+            "reg": 99,
+            "nominee": 107,
+            "candidate": [
+              "JUDr.",
+              "Václav",
+              "Vápeník",
+              ""
+            ],
+            "name": "Demokratická liga",
+            "elected": false,
+            "round1": {
+              "pct": 4.09,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

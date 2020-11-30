@@ -198,6 +198,30 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 142,
+            "candidate": [
+              "PaedDr.",
+              "Jan",
+              "Eichler",
+              ""
+            ],
+            "name": "Starostové pro kraj",
+            "elected": false,
+            "round1": {
+              "pct": 11.67,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,
@@ -394,6 +418,19 @@
         "elected": 32
       },
       {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 5,
+            "reg": 142,
+            "pct": 3.19,
+            "elected": 0
+          }
+        ]
+      },
+      {
         "type": "senatni-volby",
         "id": 20041105,
         "date": 20041105,
@@ -413,19 +450,6 @@
               "pct": 6,
               "progress": false
             }
-          }
-        ]
-      },
-      {
-        "type": "krajske-volby",
-        "id": 2004,
-        "date": 20041105,
-        "list": [
-          {
-            "area": 5,
-            "reg": 142,
-            "pct": 3.19,
-            "elected": 0
           }
         ]
       }

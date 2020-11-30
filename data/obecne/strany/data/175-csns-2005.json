@@ -63,6 +63,30 @@
         "elected": 6
       },
       {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "JUDr.",
+              "Josef",
+              "Hőrl",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 0.55,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2016,
         "date": 20161007,
@@ -320,45 +344,6 @@
         "elected": 7
       },
       {
-        "type": "senatni-volby",
-        "id": 20101015,
-        "date": 20101015,
-        "list": [
-          {
-            "area": 22,
-            "reg": 175,
-            "nominee": 175,
-            "candidate": [
-              "MUDr.",
-              "Bohdan",
-              "Babinec",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 0.41,
-              "progress": false
-            }
-          },
-          {
-            "area": 25,
-            "reg": 175,
-            "nominee": 175,
-            "candidate": [
-              "prof.",
-              "Ivan",
-              "Šterzl",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 0.45,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,
@@ -469,6 +454,79 @@
         "elected": 11
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 13,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "Mgr.",
+              "Vilém",
+              "Mikula",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 1.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 19,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "MUDr.",
+              "Peter",
+              "Ondrejka",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 1.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 175,
+            "nominee": 175,
+            "candidate": [
+              "MUDr.",
+              "Bohdan",
+              "Babinec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 175,
+            "nominee": 175,
+            "candidate": [
+              "prof.",
+              "Ivan",
+              "Šterzl",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.45,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2010,
         "date": 20100528,
@@ -490,6 +548,40 @@
         "date": 20081017,
         "list": [
           {
+            "area": 12,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "Mgr.",
+              "Vilém",
+              "Mikula",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 1.97,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "",
+              "Eva",
+              "Hurychová",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 0.82,
+              "progress": false
+            }
+          },
+          {
             "area": 24,
             "reg": 175,
             "nominee": 175,
@@ -506,6 +598,23 @@
             }
           },
           {
+            "area": 42,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "",
+              "Jiří",
+              "Zub",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 1.49,
+              "progress": false
+            }
+          },
+          {
             "area": 54,
             "reg": 175,
             "nominee": 137,
@@ -518,6 +627,23 @@
             "elected": false,
             "round1": {
               "pct": 1.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 175,
+            "candidate": [
+              "",
+              "Eva",
+              "Hůlová",
+              ""
+            ],
+            "name": "Česká strana národně socialistická",
+            "elected": false,
+            "round1": {
+              "pct": 3.28,
               "progress": false
             }
           }

@@ -74,6 +74,40 @@
             }
           },
           {
+            "area": 44,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "Sylor Augustin",
+              "",
+              "Andrle",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 0.36,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "Sylor Richard",
+              "",
+              "Andrle",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 2.2,
+              "progress": false
+            }
+          },
+          {
             "area": 59,
             "reg": 55,
             "nominee": 55,
@@ -229,6 +263,40 @@
         "date": 20161007,
         "list": [
           {
+            "area": 40,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "RNDr.",
+              "Radim",
+              "Špaček",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 3.17,
+              "progress": false
+            }
+          },
+          {
+            "area": 52,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "",
+              "Jiří",
+              "Nápravník",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 1.83,
+              "progress": false
+            }
+          },
+          {
             "area": 58,
             "reg": 55,
             "nominee": 55,
@@ -257,6 +325,23 @@
             "elected": false,
             "round1": {
               "pct": 1.5,
+              "progress": false
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Šico",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 2.09,
               "progress": false
             }
           }
@@ -411,6 +496,29 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 26,
+            "reg": 55,
+            "nominee": 55,
+            "candidate": [
+              "",
+              "Václav",
+              "Srb",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.4,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2012,
         "date": 20121012,
@@ -434,22 +542,39 @@
       },
       {
         "type": "senatni-volby",
-        "id": 20121012,
-        "date": 20121012,
+        "id": 20101015,
+        "date": 20101015,
         "list": [
           {
-            "area": 26,
+            "area": 40,
             "reg": 55,
             "nominee": 55,
             "candidate": [
-              "",
-              "Václav",
-              "Srb",
+              "Ing.",
+              "Josef",
+              "Mrocek",
               ""
             ],
             "elected": false,
             "round1": {
-              "pct": 1.4,
+              "pct": 0.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "Ing.arch.",
+              "Oldřich",
+              "Kodeda",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 1.35,
               "progress": false
             }
           }
@@ -632,29 +757,6 @@
         "elected": 6
       },
       {
-        "type": "senatni-volby",
-        "id": 20101015,
-        "date": 20101015,
-        "list": [
-          {
-            "area": 40,
-            "reg": 55,
-            "nominee": 55,
-            "candidate": [
-              "Ing.",
-              "Josef",
-              "Mrocek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 0.55,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
         "type": "snemovni-volby",
         "id": 2010,
         "date": 20100528,
@@ -669,6 +771,30 @@
         "reg": 55,
         "pct": 0.18,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "Ing.",
+              "Oldřich",
+              "Kodeda",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 2.27,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "krajske-volby",
@@ -756,29 +882,6 @@
             "area": 11,
             "reg": 55,
             "elected": 0
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20061020,
-        "date": 20061020,
-        "list": [
-          {
-            "area": 26,
-            "reg": 55,
-            "nominee": 55,
-            "candidate": [
-              "",
-              "Václav",
-              "Srb",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 0.79,
-              "progress": false
-            }
           }
         ]
       },
@@ -938,6 +1041,29 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 26,
+            "reg": 55,
+            "nominee": 55,
+            "candidate": [
+              "",
+              "Václav",
+              "Srb",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 0.79,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2006,
         "date": 20060603,
@@ -1012,6 +1138,23 @@
             "elected": false,
             "round1": {
               "pct": 0.99,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 55,
+            "candidate": [
+              "",
+              "Adam",
+              "Bubna-Litic",
+              ""
+            ],
+            "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+            "elected": false,
+            "round1": {
+              "pct": 1.21,
               "progress": false
             }
           },

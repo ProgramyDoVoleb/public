@@ -353,6 +353,30 @@
         "elected": 349
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 158,
+            "candidate": [
+              "Mgr.",
+              "Petr",
+              "Kovač",
+              ""
+            ],
+            "name": "Starostové a osobnosti pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 8.46,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2012,
         "date": 20121012,
@@ -478,6 +502,54 @@
               181
             ],
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 158,
+            "candidate": [
+              "",
+              "Květoslav",
+              "Šafránek",
+              ""
+            ],
+            "name": "Starostové a osobnosti pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 2.31,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 56,
+            "reg": 99,
+            "nominee": 158,
+            "candidate": [
+              "",
+              "Josef",
+              "Ševčík",
+              ""
+            ],
+            "name": "Starostové a osobnosti pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 4.01,
+              "progress": false
+            }
           }
         ]
       },

@@ -26,6 +26,112 @@
             "elected": 0
           }
         ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 14,
+            "candidate": [
+              "Ing.",
+              "Otakar",
+              "Tyl",
+              ""
+            ],
+            "name": "Republikánská unie",
+            "elected": false,
+            "round1": {
+              "pct": 0.15,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 14,
+            "candidate": [
+              "",
+              "Josef",
+              "Krejsa",
+              ""
+            ],
+            "name": "Republikánská unie",
+            "elected": false,
+            "round1": {
+              "pct": 0.56,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 14,
+            "candidate": [
+              "",
+              "František",
+              "Kollman",
+              ""
+            ],
+            "name": "Republikánská unie",
+            "elected": false,
+            "round1": {
+              "pct": 0.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 14,
+            "candidate": [
+              "JUDr.",
+              "Vladimír",
+              "Nechanický",
+              ""
+            ],
+            "name": "Republikánská unie",
+            "elected": false,
+            "round1": {
+              "pct": 0.52,
+              "progress": false
+            }
+          },
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 14,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Bavor",
+              ""
+            ],
+            "name": "Republikánská unie",
+            "elected": false,
+            "round1": {
+              "pct": 0.72,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

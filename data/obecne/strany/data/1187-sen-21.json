@@ -32,6 +32,187 @@
               "pct": 54.37,
               "progress": true
             }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "",
+              "Daniel",
+              "Pitek",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": false,
+            "round1": {
+              "pct": 8.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "Ing.",
+              "Tomáš",
+              "Goláň",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": true,
+            "round1": {
+              "pct": 32.53,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.94,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20200605,
+        "date": 20200605,
+        "list": [
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "RNDr.",
+              "Zdeněk",
+              "Bergman",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": false,
+            "round1": {
+              "pct": 22.15,
+              "progress": true
+            },
+            "round2": {
+              "pct": 42.82,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "",
+              "Libor",
+              "Uhlík",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": false,
+            "round1": {
+              "pct": 11.72,
+              "progress": false
+            }
+          },
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "RNDr.",
+              "Zdeněk",
+              "Bergman",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": false,
+            "round1": {
+              "pct": 21.1,
+              "progress": true
+            },
+            "round2": {
+              "pct": 44.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "Mgr.",
+              "Michaela",
+              "Tejmlová",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": false,
+            "round1": {
+              "pct": 22.21,
+              "progress": true
+            },
+            "round2": {
+              "pct": 43.57,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "MVDr.",
+              "Přemysl",
+              "Rabas",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": true,
+            "round1": {
+              "pct": 33.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 62.52,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180518,
+        "date": 20180518,
+        "list": [
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 1187,
+            "candidate": [
+              "Ing.",
+              "Tomáš",
+              "Goláň",
+              ""
+            ],
+            "name": "SENÁTOR 21",
+            "elected": true,
+            "round1": {
+              "pct": 18.99,
+              "progress": true
+            },
+            "round2": {
+              "pct": 53.78,
+              "progress": true
+            }
           }
         ]
       }

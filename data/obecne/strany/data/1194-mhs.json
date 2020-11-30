@@ -6,8 +6,32 @@
   "color": "#8e6186",
   "memberOf": [],
   "activity": {
-    "last": 20181005,
+    "last": 20201002,
     "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 1194,
+            "candidate": [
+              "MgA.",
+              "Lukáš",
+              "Berta",
+              ""
+            ],
+            "name": "\"Marek Hilšer do Senátu\"",
+            "elected": false,
+            "round1": {
+              "pct": 2.07,
+              "progress": false
+            }
+          }
+        ]
+      },
       {
         "type": "senatni-volby",
         "id": 20181005,

@@ -293,6 +293,34 @@
         "elected": 55
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 71,
+            "reg": 99,
+            "nominee": 755,
+            "candidate": [
+              "Ing.",
+              "Leopold",
+              "Sulovský",
+              ""
+            ],
+            "name": "Ostravak",
+            "elected": true,
+            "round1": {
+              "pct": 31.75,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.52,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

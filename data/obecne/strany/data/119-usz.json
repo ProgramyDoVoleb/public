@@ -16,8 +16,32 @@
     1383
   ],
   "activity": {
-    "last": 20181005,
+    "last": 20201002,
     "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 119,
+            "candidate": [
+              "Mgr.",
+              "Zdeňka",
+              "Hamousová",
+              ""
+            ],
+            "name": "Unie pro sport a zdraví",
+            "elected": false,
+            "round1": {
+              "pct": 10.23,
+              "progress": false
+            }
+          }
+        ]
+      },
       {
         "type": "komunalni-volby",
         "id": 2018,

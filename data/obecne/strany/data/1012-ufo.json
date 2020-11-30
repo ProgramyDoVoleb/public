@@ -10,6 +10,30 @@
     "last": 20201002,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 1012,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Veselý",
+              ""
+            ],
+            "name": "ÚSTECKÉ FÓRUM OBČANŮ",
+            "elected": false,
+            "round1": {
+              "pct": 3.01,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2020,
         "date": 20201002,

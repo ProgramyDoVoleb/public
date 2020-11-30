@@ -12,6 +12,64 @@
     "last": 20001112,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 25,
+            "candidate": [
+              "",
+              "Vilém",
+              "Schneider",
+              ""
+            ],
+            "name": "Celostátní aktiv občanů",
+            "elected": false,
+            "round1": {
+              "pct": 1.56,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 99,
+            "nominee": 25,
+            "candidate": [
+              "",
+              "Ludmila",
+              "Kramolišová",
+              ""
+            ],
+            "name": "Celostátní aktiv občanů",
+            "elected": false,
+            "round1": {
+              "pct": 5.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 25,
+            "candidate": [
+              "",
+              "Karol",
+              "Schneider",
+              ""
+            ],
+            "name": "Celostátní aktiv občanů",
+            "elected": false,
+            "round1": {
+              "pct": 0.9,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2000,
         "date": 20001112,
@@ -37,6 +95,23 @@
         "id": 19961116,
         "date": 19961116,
         "list": [
+          {
+            "area": 36,
+            "reg": 99,
+            "nominee": 25,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Čarnogurský",
+              ""
+            ],
+            "name": "Celostátní aktiv občanů",
+            "elected": false,
+            "round1": {
+              "pct": 3.11,
+              "progress": false
+            }
+          },
           {
             "area": 65,
             "reg": 25,

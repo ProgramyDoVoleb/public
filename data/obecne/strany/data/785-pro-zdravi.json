@@ -21,6 +21,64 @@
     "last": 20201002,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "Bc.",
+              "Filip",
+              "Smoljak",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 3.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "MUDr.",
+              "Vladimír",
+              "Dryml",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 1.17,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "Ing.",
+              "Bohuslav",
+              "Chalupa",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 0.95,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2020,
         "date": 20201002,
@@ -55,6 +113,30 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20190405,
+        "date": 20190405,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "Prof.",
+              "Eva",
+              "Syková",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 1.98,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20181005,
         "date": 20181005,
         "list": [
@@ -71,6 +153,40 @@
             "elected": false,
             "round1": {
               "pct": 4.04,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "MUDr.",
+              "Miroslav",
+              "Jiránek",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 12.92,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 99,
+            "nominee": 785,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Svoboda",
+              ""
+            ],
+            "name": "Zdraví Sport Prosperita",
+            "elected": false,
+            "round1": {
+              "pct": 4.19,
               "progress": false
             }
           },

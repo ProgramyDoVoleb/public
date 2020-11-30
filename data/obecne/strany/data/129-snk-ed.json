@@ -147,6 +147,23 @@
               "pct": 4.72,
               "progress": false
             }
+          },
+          {
+            "area": 44,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Martinec",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 4.6,
+              "progress": false
+            }
           }
         ]
       },
@@ -320,29 +337,6 @@
         "elected": 315
       },
       {
-        "type": "senatni-volby",
-        "id": 20161007,
-        "date": 20161007,
-        "list": [
-          {
-            "area": 64,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Ing.",
-              "Salome",
-              "Sýkorová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.96,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
         "type": "krajske-volby",
         "id": 2016,
         "date": 20161007,
@@ -399,6 +393,29 @@
               129
             ],
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 64,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Salome",
+              "Sýkorová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.96,
+              "progress": false
+            }
           }
         ]
       },
@@ -585,6 +602,30 @@
         "elected": 476
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "JUDr.",
+              "Miloslav",
+              "Dočekal",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 1.77,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2014,
         "date": 20140523,
@@ -734,6 +775,23 @@
             }
           },
           {
+            "area": 56,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Zbyněk",
+              "Chlumecký",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 4.16,
+              "progress": false
+            }
+          },
+          {
             "area": 8,
             "reg": 129,
             "nominee": 129,
@@ -746,6 +804,30 @@
             "elected": false,
             "round1": {
               "pct": 5.75,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 19,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Augustin",
+              "Bubník",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 2.36,
               "progress": false
             }
           }
@@ -985,6 +1067,187 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Zuzana",
+              "Baudyšová",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 14.51,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "JUDr.",
+              "František",
+              "Novosad",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 4.65,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "MUDr.",
+              "Václav",
+              "Navrátil",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 20.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Doc.",
+              "Karel",
+              "Barták",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 6.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Václava",
+              "Domšová",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 18.96,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Novotný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 23.12,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.68,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Josef",
+              "Molín",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 1.57,
+              "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Alena",
+              "Machayová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Radovan",
+              "Šabata",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 3.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Eliška",
+              "Kovářová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 2.04,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2008,
         "date": 20081017,
@@ -1080,81 +1343,6 @@
       },
       {
         "type": "senatni-volby",
-        "id": 20081017,
-        "date": 20081017,
-        "list": [
-          {
-            "area": 42,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "MUDr.",
-              "Václav",
-              "Navrátil",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 20.15,
-              "progress": false
-            }
-          },
-          {
-            "area": 51,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Ing.",
-              "Josef",
-              "Novotný",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 23.12,
-              "progress": true
-            },
-            "round2": {
-              "pct": 40.68,
-              "progress": false
-            }
-          },
-          {
-            "area": 57,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Ing.",
-              "Alena",
-              "Machayová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 2.21,
-              "progress": false
-            }
-          },
-          {
-            "area": 60,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Mgr.",
-              "Eliška",
-              "Kovářová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 2.04,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
         "id": 20070427,
         "date": 20070427,
         "list": [
@@ -1171,125 +1359,6 @@
             "elected": false,
             "round1": {
               "pct": 1.97,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20061020,
-        "date": 20061020,
-        "list": [
-          {
-            "area": 14,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "MUDr.",
-              "Lumír",
-              "Mraček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.4,
-              "progress": false
-            }
-          },
-          {
-            "area": 26,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Ing.",
-              "Tomáš",
-              "Mikeska",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.46,
-              "progress": false
-            }
-          },
-          {
-            "area": 32,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "",
-              "Pavel",
-              "Rajčan",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 6.26,
-              "progress": false
-            }
-          },
-          {
-            "area": 38,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "",
-              "Zdeněk",
-              "Šverma",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.8,
-              "progress": false
-            }
-          },
-          {
-            "area": 47,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "",
-              "Jan",
-              "Regner",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.53,
-              "progress": false
-            }
-          },
-          {
-            "area": 56,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Mgr.",
-              "Zdeněk",
-              "Petr",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 4.75,
-              "progress": false
-            }
-          },
-          {
-            "area": 68,
-            "reg": 129,
-            "nominee": 129,
-            "candidate": [
-              "Doc.RNDr.Ing.",
-              "Jan",
-              "Mrázek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.78,
               "progress": false
             }
           }
@@ -1660,6 +1729,159 @@
         "elected": 1847
       },
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 14,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "MUDr.",
+              "Lumír",
+              "Mraček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.4,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "MUDr.",
+              "Zdeněk",
+              "Bašný",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 8.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Tomáš",
+              "Mikeska",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Květoslava",
+              "Pecková",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 13.64,
+              "progress": false
+            }
+          },
+          {
+            "area": 32,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Pavel",
+              "Rajčan",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.26,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Šverma",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.8,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Jan",
+              "Regner",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Zdeněk",
+              "Petr",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.75,
+              "progress": false
+            }
+          },
+          {
+            "area": 68,
+            "reg": 129,
+            "nominee": 129,
+            "candidate": [
+              "Doc.RNDr.Ing.",
+              "Jan",
+              "Mrázek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.78,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2006,
         "date": 20060603,
@@ -1776,6 +1998,23 @@
             }
           },
           {
+            "area": 31,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Roman",
+              "Hanusch",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 4.54,
+              "progress": false
+            }
+          },
+          {
             "area": 4,
             "reg": 129,
             "nominee": 129,
@@ -1788,6 +2027,23 @@
             "elected": false,
             "round1": {
               "pct": 7.47,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Mgr.",
+              "Ervín",
+              "Kukuczka",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 6.32,
               "progress": false
             }
           },
@@ -1858,6 +2114,23 @@
               "pct": 59.55,
               "progress": true
             }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Kroupa",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 6.09,
+              "progress": false
+            }
           }
         ]
       },
@@ -1876,9 +2149,101 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20031031,
+        "date": 20031031,
+        "list": [
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "MUDr.",
+              "Petr",
+              "Pumpr",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 12.55,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20021025,
         "date": 20021025,
         "list": [
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Prokopec",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 7.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Martin",
+              "Schulz",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 8.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Doc.PhDr.",
+              "Jiří",
+              "Kotalík",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 11.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Marie",
+              "Bednářová",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 15.66,
+              "progress": false
+            }
+          },
           {
             "area": 36,
             "reg": 129,
@@ -1893,6 +2258,44 @@
             "round1": {
               "pct": 12.36,
               "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "Zdenka",
+              "Majerová",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 15.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Václava",
+              "Domšová",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": true,
+            "round1": {
+              "pct": 20.32,
+              "progress": true
+            },
+            "round2": {
+              "pct": 63.98,
+              "progress": true
             }
           },
           {
@@ -1916,6 +2319,23 @@
             }
           },
           {
+            "area": 57,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "",
+              "František",
+              "Kopecký",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 7.7,
+              "progress": false
+            }
+          },
+          {
             "area": 6,
             "reg": 129,
             "nominee": 129,
@@ -1928,6 +2348,40 @@
             "elected": false,
             "round1": {
               "pct": 12.96,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Květuše",
+              "Szyroká",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 9.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 129,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Deml",
+              ""
+            ],
+            "name": "SNK Evropští demokraté",
+            "elected": false,
+            "round1": {
+              "pct": 12.72,
               "progress": false
             }
           }

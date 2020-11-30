@@ -67,6 +67,40 @@
         "date": 20081017,
         "list": [
           {
+            "area": 21,
+            "reg": 99,
+            "nominee": 176,
+            "candidate": [
+              "",
+              "Karel",
+              "Berka",
+              ""
+            ],
+            "name": "Strana občanské sebeobrany",
+            "elected": false,
+            "round1": {
+              "pct": 0.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 176,
+            "candidate": [
+              "Mgr.",
+              "Vít",
+              "Olmer",
+              ""
+            ],
+            "name": "Strana občanské sebeobrany",
+            "elected": false,
+            "round1": {
+              "pct": 1,
+              "progress": false
+            }
+          },
+          {
             "area": 27,
             "reg": 176,
             "nominee": 176,

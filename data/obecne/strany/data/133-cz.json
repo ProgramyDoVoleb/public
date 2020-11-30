@@ -150,6 +150,47 @@
         "elected": 15
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 19,
+            "reg": 99,
+            "nominee": 133,
+            "candidate": [
+              "Mgr.",
+              "Daniel",
+              "Kroupa",
+              ""
+            ],
+            "name": "Cesta změny",
+            "elected": false,
+            "round1": {
+              "pct": 11.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 133,
+            "candidate": [
+              "Ing.",
+              "Marian",
+              "Páleník",
+              ""
+            ],
+            "name": "Cesta změny",
+            "elected": false,
+            "round1": {
+              "pct": 2.31,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2004,
         "date": 20040611,
@@ -163,6 +204,68 @@
         ],
         "pct": 1.69,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 133,
+            "candidate": [
+              "",
+              "Martin",
+              "Mejstřík",
+              ""
+            ],
+            "name": "Cesta změny",
+            "elected": true,
+            "round1": {
+              "pct": 13.05,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.96,
+              "progress": true
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 133,
+            "candidate": [
+              "",
+              "Nataša",
+              "Hradecká",
+              ""
+            ],
+            "name": "Cesta změny",
+            "elected": false,
+            "round1": {
+              "pct": 2.75,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 133,
+            "candidate": [
+              "Ing.",
+              "Vavřinec",
+              "Fójcik",
+              ""
+            ],
+            "name": "Cesta změny",
+            "elected": false,
+            "round1": {
+              "pct": 5.57,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "snemovni-volby",

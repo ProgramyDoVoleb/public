@@ -13,6 +13,30 @@
     "last": 20141010,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 132,
+            "candidate": [
+              "MgA.",
+              "Radek",
+              "STEHLÍK",
+              ""
+            ],
+            "name": "Aktiv nezávislých občanů",
+            "elected": false,
+            "round1": {
+              "pct": 1.65,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,
@@ -106,6 +130,47 @@
               707
             ],
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 132,
+            "candidate": [
+              "",
+              "John",
+              "Bok",
+              ""
+            ],
+            "name": "Aktiv nezávislých občanů",
+            "elected": false,
+            "round1": {
+              "pct": 4.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 132,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Baďura",
+              ""
+            ],
+            "name": "Aktiv nezávislých občanů",
+            "elected": false,
+            "round1": {
+              "pct": 1.47,
+              "progress": false
+            }
           }
         ]
       }

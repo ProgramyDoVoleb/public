@@ -9,6 +9,47 @@
     "last": 20061020,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 146,
+            "candidate": [
+              "JUDr.",
+              "Václav",
+              "Musílek",
+              ""
+            ],
+            "name": "Nezávislí pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 2.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 146,
+            "candidate": [
+              "",
+              "John",
+              "Bok",
+              ""
+            ],
+            "name": "Nezávislí pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 1.59,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,

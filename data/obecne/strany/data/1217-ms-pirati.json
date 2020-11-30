@@ -43,6 +43,47 @@
             "elected": 0
           }
         ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 1217,
+            "candidate": [
+              "Mgr.",
+              "Karel",
+              "Světnička",
+              ""
+            ],
+            "name": "Moravská a Slezská pirátská strana",
+            "elected": false,
+            "round1": {
+              "pct": 4.28,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 1217,
+            "candidate": [
+              "",
+              "Michal",
+              "Drabík",
+              ""
+            ],
+            "name": "Moravská a Slezská pirátská strana",
+            "elected": false,
+            "round1": {
+              "pct": 1.17,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

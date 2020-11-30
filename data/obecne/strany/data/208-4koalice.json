@@ -98,6 +98,185 @@
             "elected": 12
           }
         ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "Ivan",
+              "Medek",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 9.35,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Mgr.",
+              "Zdeněk",
+              "Šmíd",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 21.66,
+              "progress": false
+            }
+          },
+          {
+            "area": 10,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Štěpán",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 17.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "MUDr.",
+              "Zuzana",
+              "Roithová",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": true,
+            "round1": {
+              "pct": 39.54,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.1,
+              "progress": true
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "",
+              "Novobilský",
+              "CSc."
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 17.22,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Doc.",
+              "Bohuslav",
+              "Svoboda",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 13.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 37,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "PhDr.",
+              "Čestmír",
+              "Jung",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": false,
+            "round1": {
+              "pct": 18.85,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Skalický",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": true,
+            "round1": {
+              "pct": 25.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.09,
+              "progress": true
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Kroupa",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "elected": true,
+            "round1": {
+              "pct": 29.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.86,
+              "progress": true
+            }
+          }
+        ]
       }
     ]
   },

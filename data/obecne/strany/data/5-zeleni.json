@@ -128,6 +128,23 @@
         "date": 20201002,
         "list": [
           {
+            "area": 18,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "PhDr.",
+              "Jiřina",
+              "Rosáková",
+              " "
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 4.55,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 5,
             "nominee": 5,
@@ -140,6 +157,27 @@
             "elected": false,
             "round1": {
               "pct": 4.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Mgr.",
+              "Anna",
+              "Šabatová",
+              "Ph.D."
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 17.94,
+              "progress": true
+            },
+            "round2": {
+              "pct": 42.28,
               "progress": false
             }
           }
@@ -272,6 +310,30 @@
             ],
             "pct": 4.3,
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "PhDr.",
+              "Ivan",
+              "Gabal",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.37,
+              "progress": false
+            }
           }
         ]
       },
@@ -643,81 +705,6 @@
         "elected": 0
       },
       {
-        "type": "senatni-volby",
-        "id": 20161007,
-        "date": 20161007,
-        "list": [
-          {
-            "area": 10,
-            "reg": 5,
-            "nominee": 5,
-            "candidate": [
-              "doc.",
-              "Pavel",
-              "Himl",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 3.6,
-              "progress": false
-            }
-          },
-          {
-            "area": 22,
-            "reg": 5,
-            "nominee": 5,
-            "candidate": [
-              "Mgr.",
-              "Ivana",
-              "Cabrnochová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.69,
-              "progress": false
-            }
-          },
-          {
-            "area": 28,
-            "reg": 5,
-            "nominee": 5,
-            "candidate": [
-              "Ing.",
-              "Martin",
-              "Mach",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 6.95,
-              "progress": false
-            }
-          },
-          {
-            "area": 67,
-            "reg": 5,
-            "nominee": 5,
-            "candidate": [
-              "",
-              "Petr",
-              "Orel",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 33.73,
-              "progress": true
-            },
-            "round2": {
-              "pct": 74.23,
-              "progress": true
-            }
-          }
-        ]
-      },
-      {
         "type": "krajske-volby",
         "id": 2016,
         "date": 20161007,
@@ -849,71 +836,92 @@
       },
       {
         "type": "senatni-volby",
-        "id": 20141010,
-        "date": 20141010,
+        "id": 20161007,
+        "date": 20161007,
         "list": [
           {
-            "area": 15,
-            "reg": 5,
-            "nominee": 5,
-            "candidate": [
-              "",
-              "Stanislav",
-              "Kovář",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 1.26,
-              "progress": false
-            }
-          },
-          {
-            "area": 24,
-            "reg": 5,
+            "area": 1,
+            "reg": 99,
             "nominee": 5,
             "candidate": [
               "Ing.",
-              "Ilona",
-              "Picková",
+              "Věra",
+              "Ježková",
               ""
             ],
+            "name": "Strana zelených",
             "elected": false,
             "round1": {
-              "pct": 5.95,
+              "pct": 3.1,
               "progress": false
             }
           },
           {
-            "area": 36,
+            "area": 10,
             "reg": 5,
             "nominee": 5,
             "candidate": [
-              "",
-              "Josef",
-              "Jadrný",
+              "doc.",
+              "Pavel",
+              "Himl",
               ""
             ],
             "elected": false,
             "round1": {
-              "pct": 4.9,
+              "pct": 3.6,
               "progress": false
             }
           },
           {
-            "area": 45,
+            "area": 22,
             "reg": 5,
             "nominee": 5,
             "candidate": [
               "Mgr.",
-              "Pavel",
-              "Křížek",
+              "Ivana",
+              "Cabrnochová",
               ""
             ],
             "elected": false,
             "round1": {
-              "pct": 5.88,
+              "pct": 12.69,
               "progress": false
+            }
+          },
+          {
+            "area": 28,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Martin",
+              "Mach",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.95,
+              "progress": false
+            }
+          },
+          {
+            "area": 67,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Petr",
+              "Orel",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 33.73,
+              "progress": true
+            },
+            "round2": {
+              "pct": 74.23,
+              "progress": true
             }
           }
         ]
@@ -1320,6 +1328,136 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 15,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Stanislav",
+              "Kovář",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.26,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Mgr.",
+              "Václav",
+              "Láska",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": true,
+            "round1": {
+              "pct": 30.01,
+              "progress": true
+            },
+            "round2": {
+              "pct": 65.08,
+              "progress": true
+            }
+          },
+          {
+            "area": 24,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Ilona",
+              "Picková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.95,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Josef",
+              "Jadrný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "Mgr.",
+              "Pavel",
+              "Křížek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.88,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Miloslava",
+              "Pošvářová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 10.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "RNDr.",
+              "Jitka",
+              "Seitlová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": true,
+            "round1": {
+              "pct": 39.95,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.26,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20140919,
         "date": 20140919,
         "list": [
@@ -1496,28 +1634,26 @@
               "pct": 16.27,
               "progress": false
             }
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20101015,
-        "date": 20101015,
-        "list": [
+          },
           {
-            "area": 76,
-            "reg": 5,
+            "area": 59,
+            "reg": 99,
             "nominee": 5,
             "candidate": [
-              "Ing.",
-              "Zdeňka",
-              "Dokoupilová",
+              "JUDr.",
+              "Eliška",
+              "Wagnerová",
               ""
             ],
-            "elected": false,
+            "name": "Strana zelených",
+            "elected": true,
             "round1": {
-              "pct": 6.51,
-              "progress": false
+              "pct": 26.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 73.75,
+              "progress": true
             }
           }
         ]
@@ -1802,6 +1938,63 @@
         "elected": 314
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Eva",
+              "Stříteská",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.56,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Richard",
+              "Sequens",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 13.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 76,
+            "reg": 5,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Zdeňka",
+              "Dokoupilová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.51,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2010,
         "date": 20100528,
@@ -1822,6 +2015,23 @@
         "id": 20081017,
         "date": 20081017,
         "list": [
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Buček",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 6.06,
+              "progress": false
+            }
+          },
           {
             "area": 15,
             "reg": 5,
@@ -1855,6 +2065,23 @@
             }
           },
           {
+            "area": 21,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Prof.",
+              "Helena",
+              "Illnerová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 18.52,
+              "progress": false
+            }
+          },
+          {
             "area": 24,
             "reg": 5,
             "nominee": 5,
@@ -1871,6 +2098,23 @@
             }
           },
           {
+            "area": 27,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Michael",
+              "Kocáb",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 15.38,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 5,
             "nominee": 5,
@@ -1883,6 +2127,23 @@
             "elected": false,
             "round1": {
               "pct": 3.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Monika",
+              "Lampová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.95,
               "progress": false
             }
           },
@@ -1935,6 +2196,91 @@
             }
           },
           {
+            "area": 45,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Pavel",
+              "Dobeš",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Tomáš",
+              "Rothröckl",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.95,
+              "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Anna",
+              "Šabatová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 6.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Svatopluk",
+              "Karásek",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 2.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Roman",
+              "Haken",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 2.81,
+              "progress": false
+            }
+          },
+          {
             "area": 66,
             "reg": 5,
             "nominee": 5,
@@ -1963,6 +2309,23 @@
             "elected": false,
             "round1": {
               "pct": 1.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "BcA.",
+              "Vladimír",
+              "Líbal",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.3,
               "progress": false
             }
           }
@@ -2037,6 +2400,30 @@
             "area": 13,
             "reg": 5,
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20070413,
+        "date": 20070413,
+        "list": [
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Mgr.",
+              "Josef",
+              "Märc",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 10.13,
+              "progress": false
+            }
           }
         ]
       },
@@ -2310,6 +2697,27 @@
             }
           },
           {
+            "area": 17,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Pavel",
+              "Klener",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 12.83,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.57,
+              "progress": false
+            }
+          },
+          {
             "area": 2,
             "reg": 5,
             "nominee": 5,
@@ -2338,6 +2746,40 @@
             "elected": false,
             "round1": {
               "pct": 10.91,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Jiří",
+              "Dědeček",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 9.49,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "PhDr.",
+              "Ivan",
+              "Rynda",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.64,
               "progress": false
             }
           },
@@ -2390,6 +2832,23 @@
             }
           },
           {
+            "area": 47,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "František",
+              "Molík",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.7,
+              "progress": false
+            }
+          },
+          {
             "area": 5,
             "reg": 5,
             "nominee": 5,
@@ -2418,6 +2877,40 @@
             "elected": false,
             "round1": {
               "pct": 7.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "RNDr.",
+              "Jiří",
+              "Matuška",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 7.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "RNDr.",
+              "Mojmír",
+              "Vlašín",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 16.68,
               "progress": false
             }
           },
@@ -2605,6 +3098,34 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Jaromír",
+              "Štětina",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": true,
+            "round1": {
+              "pct": 24.7,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.32,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2004,
         "date": 20040611,
@@ -2630,6 +3151,23 @@
             "elected": false,
             "round1": {
               "pct": 7.03,
+              "progress": false
+            }
+          },
+          {
+            "area": 3,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "RNDr.",
+              "Karel",
+              "Nykles",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 4.43,
               "progress": false
             }
           }
@@ -2761,6 +3299,40 @@
               "pct": 11.03,
               "progress": false
             }
+          },
+          {
+            "area": 19,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Karel",
+              "Hurt",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 9.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Věra",
+              "Řezníčková",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 3.09,
+              "progress": false
+            }
           }
         ]
       },
@@ -2777,6 +3349,40 @@
         "id": 19961116,
         "date": 19961116,
         "list": [
+          {
+            "area": 11,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Marie",
+              "Haisová",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 2.44,
+              "progress": false
+            }
+          },
+          {
+            "area": 15,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "",
+              "Petr",
+              "Koch",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 1.41,
+              "progress": false
+            }
+          },
           {
             "area": 18,
             "reg": 5,
@@ -2874,6 +3480,40 @@
             }
           },
           {
+            "area": 48,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Ing.",
+              "Miloslav",
+              "Kejval",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 5.73,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Jaroslav",
+              "Krákora",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 18.31,
+              "progress": false
+            }
+          },
+          {
             "area": 58,
             "reg": 5,
             "nominee": 5,
@@ -2922,6 +3562,23 @@
             }
           },
           {
+            "area": 66,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "Mgr.",
+              "Jaroslav",
+              "Kabilka",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 1.63,
+              "progress": false
+            }
+          },
+          {
             "area": 67,
             "reg": 5,
             "nominee": 5,
@@ -2966,6 +3623,23 @@
             "elected": false,
             "round1": {
               "pct": 1.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 71,
+            "reg": 99,
+            "nominee": 5,
+            "candidate": [
+              "MUDr.",
+              "Radim",
+              "Uzel",
+              ""
+            ],
+            "name": "Strana zelených",
+            "elected": false,
+            "round1": {
+              "pct": 7.87,
               "progress": false
             }
           },

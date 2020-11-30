@@ -26,6 +26,88 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20190405,
+        "date": 20190405,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Koskuba",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 3.53,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 11,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "Mgr.",
+              "Miroslav",
+              "Timura",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 1.33,
+              "progress": false
+            }
+          },
+          {
+            "area": 2,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "",
+              "Jan",
+              "Teplík",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 1.57,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "MUDr.",
+              "David",
+              "Rath",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 4.97,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -370,6 +452,30 @@
         "elected": 3
       },
       {
+        "type": "senatni-volby",
+        "id": 20140919,
+        "date": 20140919,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "",
+              "Pavel",
+              "Jánský",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 0.32,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2014,
         "date": 20140523,
@@ -525,6 +631,40 @@
             "elected": false,
             "round1": {
               "pct": 1.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "PaedDr.",
+              "Václav",
+              "Netolický",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 3.01,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 99,
+            "nominee": 759,
+            "candidate": [
+              "",
+              "Jiří",
+              "Novák",
+              ""
+            ],
+            "name": "Česká Suverenita",
+            "elected": false,
+            "round1": {
+              "pct": 0.8,
               "progress": false
             }
           },

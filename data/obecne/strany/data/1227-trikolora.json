@@ -95,6 +95,23 @@
         "date": 20201002,
         "list": [
           {
+            "area": 12,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Ušatý",
+              ""
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 3.78,
+              "progress": false
+            }
+          },
+          {
             "area": 21,
             "reg": 1227,
             "nominee": 1227,
@@ -139,6 +156,23 @@
             "elected": false,
             "round1": {
               "pct": 4.12,
+              "progress": false
+            }
+          },
+          {
+            "area": 3,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Sedláček",
+              ""
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 5.64,
               "progress": false
             }
           },
@@ -191,6 +225,23 @@
             }
           },
           {
+            "area": 42,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "PhDr.",
+              "Ivanka",
+              "Kohoutová",
+              "Ph.D."
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 3.64,
+              "progress": false
+            }
+          },
+          {
             "area": 45,
             "reg": 1227,
             "nominee": 1227,
@@ -219,6 +270,23 @@
             "elected": false,
             "round1": {
               "pct": 4.19,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "PhDr.",
+              "Vladimír",
+              "Železný",
+              ""
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 2.87,
               "progress": false
             }
           },
@@ -255,6 +323,23 @@
             }
           },
           {
+            "area": 69,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "MUDr.",
+              "Jaroslav",
+              "Matýs",
+              ""
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 3.67,
+              "progress": false
+            }
+          },
+          {
             "area": 72,
             "reg": 1227,
             "nominee": 1227,
@@ -267,6 +352,23 @@
             "elected": false,
             "round1": {
               "pct": 4.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 1227,
+            "candidate": [
+              "MUDr.",
+              "Daniel",
+              "Placzek",
+              ""
+            ],
+            "name": "Trikolóra hnutí občanů",
+            "elected": false,
+            "round1": {
+              "pct": 3.66,
               "progress": false
             }
           }

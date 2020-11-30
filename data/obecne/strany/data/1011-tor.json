@@ -9,6 +9,30 @@
     "last": 20141010,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 1011,
+            "candidate": [
+              "Ing.",
+              "Petr",
+              "Chodura",
+              ""
+            ],
+            "name": "Toryové",
+            "elected": false,
+            "round1": {
+              "pct": 6.65,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,

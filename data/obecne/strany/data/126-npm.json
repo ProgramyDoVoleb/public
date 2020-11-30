@@ -96,6 +96,71 @@
         "elected": 63
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 49,
+            "reg": 99,
+            "nominee": 126,
+            "candidate": [
+              "PaedDr.",
+              "Zdeněk",
+              "Peša",
+              ""
+            ],
+            "name": "Nestraníci pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 18.92,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 99,
+            "nominee": 126,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Kubrický",
+              ""
+            ],
+            "name": "Nestraníci pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 8.16,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 126,
+            "candidate": [
+              "",
+              "Karel",
+              "Rada",
+              ""
+            ],
+            "name": "Nestraníci pro Moravu",
+            "elected": false,
+            "round1": {
+              "pct": 4.15,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2000,
         "date": 20001112,

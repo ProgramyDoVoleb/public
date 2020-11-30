@@ -41,6 +41,30 @@
         "elected": 1
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 61,
+            "reg": 99,
+            "nominee": 135,
+            "candidate": [
+              "RNDr.",
+              "Pavel",
+              "Foretník",
+              ""
+            ],
+            "name": "Naděje",
+            "elected": false,
+            "round1": {
+              "pct": 2.89,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2004,
         "date": 20041105,

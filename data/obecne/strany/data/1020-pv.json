@@ -9,6 +9,30 @@
     "last": 20181005,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 1020,
+            "candidate": [
+              "PaedDr.",
+              "Jan",
+              "Krchňavý",
+              ""
+            ],
+            "name": "Pévéčko",
+            "elected": false,
+            "round1": {
+              "pct": 8.08,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,

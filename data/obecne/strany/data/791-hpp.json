@@ -17,6 +17,64 @@
     "last": 20181005,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 17,
+            "reg": 99,
+            "nominee": 791,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Nouza",
+              ""
+            ],
+            "name": "Pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 2.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 791,
+            "candidate": [
+              "",
+              "Josef",
+              "Nosek",
+              ""
+            ],
+            "name": "Pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 5.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 791,
+            "candidate": [
+              "Ing.",
+              "Vladislava",
+              "Hujová",
+              ""
+            ],
+            "name": "Pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 4.43,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -185,6 +243,23 @@
             "elected": false,
             "round1": {
               "pct": 2.38,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 791,
+            "candidate": [
+              "MUDr.",
+              "Zdeněk",
+              "Schwarz",
+              ""
+            ],
+            "name": "Pro Prahu",
+            "elected": false,
+            "round1": {
+              "pct": 9.86,
               "progress": false
             }
           }

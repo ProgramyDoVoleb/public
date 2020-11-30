@@ -114,6 +114,23 @@
         "date": 20181005,
         "list": [
           {
+            "area": 23,
+            "reg": 99,
+            "nominee": 159,
+            "candidate": [
+              "JUDr.",
+              "Marta",
+              "Chovancová",
+              ""
+            ],
+            "name": "Strana státu přímé demokracie - Strana práce",
+            "elected": false,
+            "round1": {
+              "pct": 0.48,
+              "progress": false
+            }
+          },
+          {
             "area": 71,
             "reg": 159,
             "nominee": 159,
@@ -208,6 +225,23 @@
             "elected": false,
             "round1": {
               "pct": 1.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 159,
+            "candidate": [
+              "",
+              "Jana",
+              "Lorencová",
+              ""
+            ],
+            "name": "Strana státu přímé demokracie - Strana práce",
+            "elected": false,
+            "round1": {
+              "pct": 17.25,
               "progress": false
             }
           }
@@ -393,6 +427,57 @@
         "id": 20041105,
         "date": 20041105,
         "list": [
+          {
+            "area": 64,
+            "reg": 99,
+            "nominee": 159,
+            "candidate": [
+              "",
+              "Václav",
+              "Blažek",
+              ""
+            ],
+            "name": "Strana státu přímé demokracie - Strana práce",
+            "elected": false,
+            "round1": {
+              "pct": 1.63,
+              "progress": false
+            }
+          },
+          {
+            "area": 67,
+            "reg": 99,
+            "nominee": 159,
+            "candidate": [
+              "MUDr.",
+              "Roman",
+              "Jelínek",
+              ""
+            ],
+            "name": "Strana státu přímé demokracie - Strana práce",
+            "elected": false,
+            "round1": {
+              "pct": 4.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 70,
+            "reg": 99,
+            "nominee": 159,
+            "candidate": [
+              "",
+              "Maxmilián",
+              "Šimek",
+              ""
+            ],
+            "name": "Strana státu přímé demokracie - Strana práce",
+            "elected": false,
+            "round1": {
+              "pct": 1.22,
+              "progress": false
+            }
+          },
           {
             "area": 73,
             "reg": 159,

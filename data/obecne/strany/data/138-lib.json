@@ -60,6 +60,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "prof.",
+              "Jiří",
+              "Zlatuška",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": false,
+            "round1": {
+              "pct": 19.24,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2008,
         "date": 20081017,
@@ -170,6 +194,71 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 16,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Besser",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": false,
+            "round1": {
+              "pct": 12.52,
+              "progress": false
+            }
+          },
+          {
+            "area": 58,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "Doc.",
+              "Jiří",
+              "Löw",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": false,
+            "round1": {
+              "pct": 11.74,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20041008,
+        "date": 20041008,
+        "list": [
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "Doc.",
+              "Tomáš",
+              "Ježek",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": false,
+            "round1": {
+              "pct": 16.22,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2004,
         "date": 20040611,
@@ -183,6 +272,58 @@
         ],
         "pct": 1.69,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20031107,
+        "date": 20031107,
+        "list": [
+          {
+            "area": 58,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "Doc.",
+              "Jiří",
+              "Löw",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": false,
+            "round1": {
+              "pct": 12.7,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 138,
+            "candidate": [
+              "prof.",
+              "Jiří",
+              "Zlatuška",
+              ""
+            ],
+            "name": "Liberálové.CZ",
+            "elected": true,
+            "round1": {
+              "pct": 24.3,
+              "progress": true
+            },
+            "round2": {
+              "pct": 57.85,
+              "progress": true
+            }
+          }
+        ]
       }
     ]
   },

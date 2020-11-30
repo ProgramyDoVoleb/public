@@ -229,6 +229,30 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 756,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Engelmajer",
+              ""
+            ],
+            "name": "Česká strana regionů",
+            "elected": false,
+            "round1": {
+              "pct": 7.78,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

@@ -229,6 +229,30 @@
         "elected": 39
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 747,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "Řehák",
+              ""
+            ],
+            "name": "ZaRegion",
+            "elected": false,
+            "round1": {
+              "pct": 11.22,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

@@ -33,6 +33,23 @@
             }
           },
           {
+            "area": 69,
+            "reg": 99,
+            "nominee": 1231,
+            "candidate": [
+              "",
+              "Radim",
+              "Bača",
+              ""
+            ],
+            "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
+            "elected": false,
+            "round1": {
+              "pct": 13.21,
+              "progress": false
+            }
+          },
+          {
             "area": 72,
             "reg": 1231,
             "nominee": 1231,
@@ -45,6 +62,23 @@
             "elected": false,
             "round1": {
               "pct": 2.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 1231,
+            "candidate": [
+              "MUDr.",
+              "Eliška",
+              "Lazarová",
+              ""
+            ],
+            "name": "Alternativa pro nezávislé kandidáty 2020 - ANK 2020",
+            "elected": false,
+            "round1": {
+              "pct": 1.53,
               "progress": false
             }
           }

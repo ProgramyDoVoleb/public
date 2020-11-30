@@ -148,6 +148,47 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 15,
+            "reg": 99,
+            "nominee": 779,
+            "candidate": [
+              "",
+              "Zdeňka",
+              "Bečková",
+              ""
+            ],
+            "name": "Starostové pro občany",
+            "elected": false,
+            "round1": {
+              "pct": 3.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 779,
+            "candidate": [
+              "Mgr.",
+              "Ladislav",
+              "Stalmach",
+              ""
+            ],
+            "name": "Starostové pro občany",
+            "elected": false,
+            "round1": {
+              "pct": 5.97,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,

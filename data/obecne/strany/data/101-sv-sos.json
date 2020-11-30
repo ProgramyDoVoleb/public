@@ -379,6 +379,64 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 101,
+            "candidate": [
+              "Ing.",
+              "Eduard",
+              "Katzer",
+              ""
+            ],
+            "name": "Strana venkova - spojené občanské síly",
+            "elected": false,
+            "round1": {
+              "pct": 0.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 101,
+            "candidate": [
+              "",
+              "Stanislav",
+              "Pecka",
+              ""
+            ],
+            "name": "Strana venkova - spojené občanské síly",
+            "elected": false,
+            "round1": {
+              "pct": 3.63,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 101,
+            "candidate": [
+              "Ing.",
+              "Ladislav",
+              "Vašíček",
+              ""
+            ],
+            "name": "Strana venkova - spojené občanské síly",
+            "elected": false,
+            "round1": {
+              "pct": 0.37,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2002,
         "date": 20020614,
@@ -438,6 +496,30 @@
             "reg": 101,
             "pct": 4.11,
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 101,
+            "candidate": [
+              "JUDr.",
+              "Elvíra",
+              "Tomášková",
+              ""
+            ],
+            "name": "Strana venkova - spojené občanské síly",
+            "elected": false,
+            "round1": {
+              "pct": 0.41,
+              "progress": false
+            }
           }
         ]
       }

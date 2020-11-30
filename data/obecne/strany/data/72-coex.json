@@ -424,6 +424,54 @@
             "elected": 0
           }
         ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 72,
+            "candidate": [
+              "PaedDr.",
+              "Jiří",
+              "Pinkava",
+              ""
+            ],
+            "name": "COEXISTENTIA",
+            "elected": false,
+            "round1": {
+              "pct": 4.66,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 72,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Czap",
+              ""
+            ],
+            "name": "COEXISTENTIA",
+            "elected": false,
+            "round1": {
+              "pct": 7.76,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

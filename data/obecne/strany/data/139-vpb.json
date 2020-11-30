@@ -37,6 +37,30 @@
         "elected": 1
       },
       {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 139,
+            "candidate": [
+              "Ing.",
+              "Luděk",
+              "Maděra",
+              ""
+            ],
+            "name": "Volba pro budoucnost",
+            "elected": false,
+            "round1": {
+              "pct": 1.94,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2002,
         "date": 20020614,

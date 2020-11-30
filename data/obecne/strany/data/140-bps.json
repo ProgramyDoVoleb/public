@@ -207,6 +207,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 140,
+            "candidate": [
+              "",
+              "John",
+              "Bok",
+              ""
+            ],
+            "name": "Balbínova poetická strana",
+            "elected": false,
+            "round1": {
+              "pct": 1.48,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2004,
         "date": 20040611,
@@ -232,6 +256,23 @@
             "elected": false,
             "round1": {
               "pct": 1.42,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 140,
+            "candidate": [
+              "",
+              "Pavel",
+              "Dobeš",
+              ""
+            ],
+            "name": "Balbínova poetická strana",
+            "elected": false,
+            "round1": {
+              "pct": 6.22,
               "progress": false
             }
           }

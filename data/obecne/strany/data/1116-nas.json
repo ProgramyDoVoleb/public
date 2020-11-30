@@ -14,6 +14,40 @@
         "date": 20201002,
         "list": [
           {
+            "area": 24,
+            "reg": 99,
+            "nominee": 1116,
+            "candidate": [
+              "",
+              "Ladislav",
+              "Pavlíček",
+              ""
+            ],
+            "name": "Národ Sobě",
+            "elected": false,
+            "round1": {
+              "pct": 0.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 1116,
+            "candidate": [
+              "",
+              "Oldřich",
+              "Duchoň",
+              ""
+            ],
+            "name": "Národ Sobě",
+            "elected": false,
+            "round1": {
+              "pct": 0.47,
+              "progress": false
+            }
+          },
+          {
             "area": 63,
             "reg": 1116,
             "nominee": 1116,
@@ -26,6 +60,23 @@
             "elected": false,
             "round1": {
               "pct": 0.19,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 1116,
+            "candidate": [
+              "",
+              "Jiří",
+              "Sapeta",
+              ""
+            ],
+            "name": "Národ Sobě",
+            "elected": false,
+            "round1": {
+              "pct": 0.53,
               "progress": false
             }
           }

@@ -56,9 +56,118 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Tomášek",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 2.1,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20061020,
         "date": 20061020,
         "list": [
+          {
+            "area": 14,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Kříženecký",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 1.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 17,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "Ing.",
+              "Mirka",
+              "Čejková",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 4.05,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "",
+              "Helena",
+              "Kohoutová",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 0.44,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "",
+              "Anděla",
+              "Dvořáková",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 1.08,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "RNDr.",
+              "Jitka",
+              "Hořejšová",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 2.07,
+              "progress": false
+            }
+          },
           {
             "area": 41,
             "reg": 192,
@@ -72,6 +181,91 @@
             "elected": false,
             "round1": {
               "pct": 0.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "",
+              "Ivan",
+              "Varga",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 5.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "prof.",
+              "Rom",
+              "Kostřica",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 6.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 71,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "Ing.",
+              "Pavla",
+              "Topolánková",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 9.63,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "Ing.",
+              "Jaroslava",
+              "Kraftová",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 2.99,
+              "progress": false
+            }
+          },
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 192,
+            "candidate": [
+              "Prof.",
+              "Ladislav",
+              "Pilka",
+              ""
+            ],
+            "name": "HLAVU VZHŮRU - volební blok",
+            "elected": false,
+            "round1": {
+              "pct": 3.24,
               "progress": false
             }
           }

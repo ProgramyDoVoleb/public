@@ -111,6 +111,40 @@
         "date": 20161007,
         "list": [
           {
+            "area": 25,
+            "reg": 99,
+            "nominee": 1125,
+            "candidate": [
+              "",
+              "Daniel",
+              "Solis",
+              ""
+            ],
+            "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
+            "elected": false,
+            "round1": {
+              "pct": 1.11,
+              "progress": false
+            }
+          },
+          {
+            "area": 28,
+            "reg": 99,
+            "nominee": 1125,
+            "candidate": [
+              "",
+              "Pavel",
+              "Matějka",
+              ""
+            ],
+            "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
+            "elected": false,
+            "round1": {
+              "pct": 0.42,
+              "progress": false
+            }
+          },
+          {
             "area": 64,
             "reg": 1125,
             "nominee": 1125,
@@ -123,6 +157,23 @@
             "elected": false,
             "round1": {
               "pct": 3.27,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 99,
+            "nominee": 1125,
+            "candidate": [
+              "",
+              "Květoslav",
+              "Přibil",
+              ""
+            ],
+            "name": "Sdružení pro republiku - Republikánská strana Československa Miroslava Sládka",
+            "elected": false,
+            "round1": {
+              "pct": 1.74,
               "progress": false
             }
           }

@@ -124,6 +124,23 @@
         "date": 19981114,
         "list": [
           {
+            "area": 34,
+            "reg": 99,
+            "nominee": 43,
+            "candidate": [
+              "",
+              "Jan",
+              "Horčic",
+              ""
+            ],
+            "name": "Pravá alternativa",
+            "elected": false,
+            "round1": {
+              "pct": 0.57,
+              "progress": false
+            }
+          },
+          {
             "area": 4,
             "reg": 43,
             "nominee": 43,

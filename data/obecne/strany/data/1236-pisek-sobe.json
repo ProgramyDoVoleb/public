@@ -9,7 +9,32 @@
   },
   "color": "#aaa",
   "activity": {
-    "last": 0,
-    "list": []
+    "last": 20201002,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 1236,
+            "candidate": [
+              "",
+              "Marek",
+              "Anděl",
+              ""
+            ],
+            "name": "PÍSEK SOBĚ - sdružení nezávislých kandidátů",
+            "elected": false,
+            "round1": {
+              "pct": 5.01,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
   }
 }

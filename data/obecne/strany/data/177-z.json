@@ -196,6 +196,34 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 177,
+            "candidate": [
+              "",
+              "Taťana",
+              "Fischerová",
+              ""
+            ],
+            "name": "Zelení",
+            "elected": false,
+            "round1": {
+              "pct": 14.46,
+              "progress": true
+            },
+            "round2": {
+              "pct": 38.55,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,

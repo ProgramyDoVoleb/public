@@ -232,9 +232,112 @@
       },
       {
         "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "Ivan",
+              "Medek",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.35,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 19981114,
         "date": 19981114,
         "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Mgr.",
+              "Zdeněk",
+              "Šmíd",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.66,
+              "progress": false
+            }
+          },
+          {
+            "area": 10,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Štěpán",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "MUDr.",
+              "Zuzana",
+              "Roithová",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 39.54,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.1,
+              "progress": true
+            }
+          },
           {
             "area": 28,
             "reg": 81,
@@ -249,6 +352,129 @@
             "round1": {
               "pct": 19.22,
               "progress": false
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "",
+              "Novobilský",
+              "CSc."
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.22,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Doc.",
+              "Bohuslav",
+              "Svoboda",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 13.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 37,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "PhDr.",
+              "Čestmír",
+              "Jung",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.85,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Skalický",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 25.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.09,
+              "progress": true
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Kroupa",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 29.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.86,
+              "progress": true
             }
           }
         ]
@@ -315,6 +541,23 @@
             }
           },
           {
+            "area": 23,
+            "reg": 99,
+            "nominee": 81,
+            "candidate": [
+              "",
+              "Ivan",
+              "Vyskočil",
+              ""
+            ],
+            "name": "Demokratická unie",
+            "elected": false,
+            "round1": {
+              "pct": 2.79,
+              "progress": false
+            }
+          },
+          {
             "area": 24,
             "reg": 81,
             "nominee": 81,
@@ -359,6 +602,23 @@
             "elected": false,
             "round1": {
               "pct": 4.79,
+              "progress": false
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 81,
+            "candidate": [
+              "JUDr.",
+              "Jiří",
+              "Šetina",
+              ""
+            ],
+            "name": "Demokratická unie",
+            "elected": false,
+            "round1": {
+              "pct": 1.95,
               "progress": false
             }
           },
@@ -427,6 +687,27 @@
             }
           },
           {
+            "area": 53,
+            "reg": 99,
+            "nominee": 81,
+            "candidate": [
+              "MVDr.",
+              "Pavel",
+              "Heřman",
+              ""
+            ],
+            "name": "Demokratická unie",
+            "elected": true,
+            "round1": {
+              "pct": 21.17,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.66,
+              "progress": true
+            }
+          },
+          {
             "area": 65,
             "reg": 81,
             "nominee": 81,
@@ -487,6 +768,23 @@
             "elected": false,
             "round1": {
               "pct": 1.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 81,
+            "candidate": [
+              "",
+              "Jan",
+              "Beneš",
+              ""
+            ],
+            "name": "Demokratická unie",
+            "elected": false,
+            "round1": {
+              "pct": 1.58,
               "progress": false
             }
           },

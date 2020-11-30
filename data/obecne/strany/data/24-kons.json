@@ -349,6 +349,23 @@
               "pct": 0.47,
               "progress": false
             }
+          },
+          {
+            "area": 56,
+            "reg": 99,
+            "nominee": 24,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Volařík",
+              ""
+            ],
+            "name": "Konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 7.54,
+              "progress": false
+            }
           }
         ]
       },
@@ -602,6 +619,23 @@
         "date": 20061020,
         "list": [
           {
+            "area": 14,
+            "reg": 99,
+            "nominee": 24,
+            "candidate": [
+              "JUDr.",
+              "Elvíra",
+              "Tomášková",
+              ""
+            ],
+            "name": "Konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 2.73,
+              "progress": false
+            }
+          },
+          {
             "area": 2,
             "reg": 24,
             "nominee": 24,
@@ -614,6 +648,23 @@
             "elected": false,
             "round1": {
               "pct": 5.07,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 99,
+            "nominee": 24,
+            "candidate": [
+              "",
+              "Karel",
+              "Ledvinka",
+              ""
+            ],
+            "name": "Konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 0.32,
               "progress": false
             }
           }
@@ -746,6 +797,30 @@
           }
         ],
         "elected": 8
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 24,
+            "candidate": [
+              "JUDr.",
+              "Radan",
+              "Večerka",
+              ""
+            ],
+            "name": "Konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 1.35,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "krajske-volby",

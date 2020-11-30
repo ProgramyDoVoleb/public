@@ -14,6 +14,40 @@
         "date": 20121012,
         "list": [
           {
+            "area": 17,
+            "reg": 99,
+            "nominee": 85,
+            "candidate": [
+              "Ing.",
+              "Valentin",
+              "Papazian",
+              ""
+            ],
+            "name": "Pražané Praze",
+            "elected": false,
+            "round1": {
+              "pct": 1.54,
+              "progress": false
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 85,
+            "candidate": [
+              "",
+              "Karel",
+              "Kolář",
+              ""
+            ],
+            "name": "Pražané Praze",
+            "elected": false,
+            "round1": {
+              "pct": 1.35,
+              "progress": false
+            }
+          },
+          {
             "area": 23,
             "reg": 85,
             "nominee": 85,
@@ -65,6 +99,23 @@
             "elected": false,
             "round1": {
               "pct": 0.57,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 85,
+            "candidate": [
+              "PhDr.",
+              "Vlastislav",
+              "Vondrák",
+              ""
+            ],
+            "name": "Pražané Praze",
+            "elected": false,
+            "round1": {
+              "pct": 0.59,
               "progress": false
             }
           }

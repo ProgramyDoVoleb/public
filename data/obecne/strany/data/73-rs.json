@@ -7,8 +7,33 @@
   "hash": "rs",
   "memberOf": [],
   "activity": {
-    "last": 0,
-    "list": []
+    "last": 19961116,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 19961116,
+        "date": 19961116,
+        "list": [
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 73,
+            "candidate": [
+              "",
+              "Petr",
+              "Hanzlík",
+              ""
+            ],
+            "name": "Republikánská strana",
+            "elected": false,
+            "round1": {
+              "pct": 1.98,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
   },
   "links": {
     "global": [],

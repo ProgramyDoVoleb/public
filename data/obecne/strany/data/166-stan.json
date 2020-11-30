@@ -137,6 +137,124 @@
             }
           },
           {
+            "area": 3,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Miroslav",
+              "Plevný",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 27.43,
+              "progress": true
+            },
+            "round2": {
+              "pct": 70.31,
+              "progress": true
+            }
+          },
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Markéta",
+              "Fröhlichová",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 8.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Zbyněk",
+              "Linhart",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 52.77,
+              "progress": true
+            }
+          },
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Sobotka",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 41.71,
+              "progress": true
+            },
+            "round2": {
+              "pct": 74.58,
+              "progress": true
+            }
+          },
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Mgr.",
+              "Pavel",
+              "Kárník",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 20.05,
+              "progress": true
+            },
+            "round2": {
+              "pct": 79.48,
+              "progress": true
+            }
+          },
+          {
+            "area": 57,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Karel",
+              "Zitterbart",
+              "Ph.D."
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 27.15,
+              "progress": true
+            },
+            "round2": {
+              "pct": 50.08,
+              "progress": true
+            }
+          },
+          {
             "area": 6,
             "reg": 166,
             "nominee": 166,
@@ -177,6 +295,44 @@
             }
           },
           {
+            "area": 69,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "RNDr.",
+              "Helena",
+              "Pešatová",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 20.71,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.03,
+              "progress": true
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Rostislav",
+              "Gromnica",
+              "Ph.D."
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 3.06,
+              "progress": false
+            }
+          },
+          {
             "area": 78,
             "reg": 166,
             "nominee": 166,
@@ -189,6 +345,23 @@
             "elected": false,
             "round1": {
               "pct": 14.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Jindřich",
+              "Sitta",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 16.4,
               "progress": false
             }
           }
@@ -346,6 +519,34 @@
         ],
         "pct": 11.65,
         "elected": 3
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20190405,
+        "date": 20190405,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "David",
+              "Smoljak",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 23.53,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.5,
+              "progress": true
+            }
+          }
+        ]
       },
       {
         "type": "komunalni-volby",
@@ -1152,12 +1353,213 @@
         "elected": 4098
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 2,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Balatka",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 28.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.47,
+              "progress": true
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "prof.",
+              "Jiří",
+              "Drahoš",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 52.65,
+              "progress": true
+            }
+          },
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "JUDr.",
+              "Zdeněk",
+              "Hraba",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 20.93,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.95,
+              "progress": true
+            }
+          },
+          {
+            "area": 50,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Bohuslav",
+              "Fliedr",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 13.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Hana",
+              "Žáková",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 28.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 77.46,
+              "progress": true
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "doc.",
+              "Mikuláš",
+              "Bek",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 38.17,
+              "progress": true
+            },
+            "round2": {
+              "pct": 72.4,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180518,
+        "date": 20180518,
+        "list": [
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Miroslav",
+              "Adámek",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 16.36,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180105,
+        "date": 20180105,
+        "list": [
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Sobotka",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 33.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.11,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2017,
         "date": 20171020,
         "reg": 166,
         "pct": 5.18,
         "elected": 6
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20170127,
+        "date": 20170127,
+        "list": [
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Biolek",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 5.91,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "senatni-volby",
@@ -1185,6 +1587,65 @@
             }
           },
           {
+            "area": 28,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Petr",
+              "Holeček",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 23.26,
+              "progress": true
+            },
+            "round2": {
+              "pct": 63.64,
+              "progress": true
+            }
+          },
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Biolek",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 15.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 40,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "RNDr.",
+              "Ivo",
+              "Šanc",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 25,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.2,
+              "progress": false
+            }
+          },
+          {
             "area": 49,
             "reg": 166,
             "nominee": 166,
@@ -1197,6 +1658,57 @@
             "elected": false,
             "round1": {
               "pct": 13.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 55,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Michal",
+              "Burian",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 17.26,
+              "progress": false
+            }
+          },
+          {
+            "area": 64,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Bronislav",
+              "Sedláček",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 7.74,
+              "progress": false
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "MUDr.",
+              "Vojtěch",
+              "Škrabal",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 11.31,
               "progress": false
             }
           }
@@ -1311,45 +1823,6 @@
               755
             ],
             "elected": 0
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20141010,
-        "date": 20141010,
-        "list": [
-          {
-            "area": 6,
-            "reg": 166,
-            "nominee": 80,
-            "candidate": [
-              "",
-              "Jiří",
-              "Loskot",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 4.39,
-              "progress": false
-            }
-          },
-          {
-            "area": 78,
-            "reg": 166,
-            "nominee": 166,
-            "candidate": [
-              "Mgr.",
-              "Petr",
-              "Žůrek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.76,
-              "progress": false
-            }
           }
         ]
       },
@@ -1967,6 +2440,83 @@
         "elected": 3195
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "doc.",
+              "Vladimír",
+              "Balaš",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 13.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Zbyněk",
+              "Linhart",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 33.34,
+              "progress": true
+            },
+            "round2": {
+              "pct": 71.43,
+              "progress": true
+            }
+          },
+          {
+            "area": 6,
+            "reg": 166,
+            "nominee": 80,
+            "candidate": [
+              "",
+              "Jiří",
+              "Loskot",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 4.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 166,
+            "nominee": 166,
+            "candidate": [
+              "Mgr.",
+              "Petr",
+              "Žůrek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.76,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2014,
         "date": 20140523,
@@ -1978,6 +2528,30 @@
         ],
         "pct": 15.95,
         "elected": 4
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20140110,
+        "date": 20140110,
+        "list": [
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Lapčíková Zuzana",
+              "",
+              "Zdráhalová",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 7.02,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "krajske-volby",
@@ -2122,6 +2696,44 @@
         "date": 20121012,
         "list": [
           {
+            "area": 35,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Mgr.",
+              "Soňa",
+              "Paukrtová",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 11.73,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Mgr.",
+              "Luděk",
+              "Jeništa",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 16.19,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.05,
+              "progress": true
+            }
+          },
+          {
             "area": 50,
             "reg": 166,
             "nominee": 166,
@@ -2134,6 +2746,23 @@
             "elected": false,
             "round1": {
               "pct": 8.4,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Vlastimil",
+              "Bařinka",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 13.44,
               "progress": false
             }
           },
@@ -2166,6 +2795,30 @@
             "elected": false,
             "round1": {
               "pct": 12.18,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20110318,
+        "date": 20110318,
+        "list": [
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Luděk",
+              "Kvapil",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 7.51,
               "progress": false
             }
           }
@@ -2563,6 +3216,68 @@
         "elected": 2413
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Jan",
+              "Horník",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 22.25,
+              "progress": true
+            },
+            "round2": {
+              "pct": 71.75,
+              "progress": true
+            }
+          },
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Igor",
+              "Petrov",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 10.85,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Mgr.",
+              "Risto",
+              "Ljasovský",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 7.18,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2009,
         "date": 20090605,
@@ -2604,6 +3319,47 @@
               166
             ],
             "elected": 5
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "",
+              "Pavel",
+              "Jungmann",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 11.18,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Bartoněk",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": false,
+            "round1": {
+              "pct": 8.19,
+              "progress": false
+            }
           }
         ]
       },
@@ -2700,6 +3456,34 @@
           }
         ],
         "elected": 42
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 166,
+            "candidate": [
+              "Ing.",
+              "Jana",
+              "Juřenčáková",
+              ""
+            ],
+            "name": "STAROSTOVÉ A NEZÁVISLÍ",
+            "elected": true,
+            "round1": {
+              "pct": 19.18,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.58,
+              "progress": true
+            }
+          }
+        ]
       }
     ]
   },

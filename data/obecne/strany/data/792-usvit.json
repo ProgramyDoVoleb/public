@@ -22,6 +22,159 @@
         "date": 20161007,
         "list": [
           {
+            "area": 37,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "MUDr.",
+              "Vladimír",
+              "Dryml",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 3.18,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Daňhel",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 2.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 49,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Robert",
+              "Štěpánek",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 2.8,
+              "progress": false
+            }
+          },
+          {
+            "area": 55,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Ivo",
+              "Minařík",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 3.42,
+              "progress": false
+            }
+          },
+          {
+            "area": 58,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Luděk",
+              "Moudrý",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 2.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 64,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "MVDr.",
+              "Rudolf",
+              "Skandera",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 2.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 67,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Jurečka",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 7.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Martin",
+              "Koller",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 3.24,
+              "progress": false
+            }
+          },
+          {
+            "area": 70,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Ing.",
+              "Alena",
+              "Vitásková",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 12.16,
+              "progress": false
+            }
+          },
+          {
             "area": 73,
             "reg": 792,
             "nominee": 792,
@@ -163,6 +316,183 @@
               792
             ],
             "elected": 0
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 12,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "JUDr.",
+              "Elvíra",
+              "Tomášková",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 1.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 18,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Martin",
+              "Bartoš",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 5.05,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "JUDr.",
+              "Karol",
+              "Hrádela",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 1.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Petr",
+              "Šefl",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 1.01,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Ing.",
+              "Roman",
+              "Škrabánek",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 8.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "gen.",
+              "Ladislav",
+              "Minařík",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 2.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "",
+              "Jiří",
+              "Nekovář",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 5.25,
+              "progress": false
+            }
+          },
+          {
+            "area": 66,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "RNDr.",
+              "Pavel",
+              "Foretník",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 5.35,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Bravenec",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 3.13,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "Bc.",
+              "Jiřina",
+              "Holotová",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 3.85,
+              "progress": false
+            }
           }
         ]
       },
@@ -363,6 +693,30 @@
         "reg": 792,
         "pct": 3.12,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20140110,
+        "date": 20140110,
+        "list": [
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 792,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Talaš",
+              ""
+            ],
+            "name": "Úsvit - Národní Koalice",
+            "elected": false,
+            "round1": {
+              "pct": 12.92,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "snemovni-volby",

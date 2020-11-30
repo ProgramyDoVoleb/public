@@ -10,8 +10,32 @@
     628
   ],
   "activity": {
-    "last": 20180105,
+    "last": 20201002,
     "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20201002,
+        "date": 20201002,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 9,
+            "candidate": [
+              "",
+              "Václav",
+              "Fischer",
+              ""
+            ],
+            "name": "Nezávislá iniciativa (NEI)",
+            "elected": false,
+            "round1": {
+              "pct": 2.25,
+              "progress": false
+            }
+          }
+        ]
+      },
       {
         "type": "senatni-volby",
         "id": 20180105,
@@ -162,6 +186,23 @@
         "date": 19961116,
         "list": [
           {
+            "area": 14,
+            "reg": 99,
+            "nominee": 9,
+            "candidate": [
+              "",
+              "František",
+              "Kubát",
+              ""
+            ],
+            "name": "Nezávislá iniciativa (NEI)",
+            "elected": false,
+            "round1": {
+              "pct": 2.12,
+              "progress": false
+            }
+          },
+          {
             "area": 20,
             "reg": 9,
             "nominee": 9,
@@ -178,6 +219,23 @@
             }
           },
           {
+            "area": 36,
+            "reg": 99,
+            "nominee": 9,
+            "candidate": [
+              "",
+              "Josef",
+              "Procházka",
+              ""
+            ],
+            "name": "Nezávislá iniciativa (NEI)",
+            "elected": false,
+            "round1": {
+              "pct": 1.67,
+              "progress": false
+            }
+          },
+          {
             "area": 7,
             "reg": 9,
             "nominee": 9,
@@ -190,6 +248,23 @@
             "elected": false,
             "round1": {
               "pct": 1.17,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 9,
+            "candidate": [
+              "Ing.",
+              "Marek",
+              "Pánek",
+              ""
+            ],
+            "name": "Nezávislá iniciativa (NEI)",
+            "elected": false,
+            "round1": {
+              "pct": 0.87,
               "progress": false
             }
           }

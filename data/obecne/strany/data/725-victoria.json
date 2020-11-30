@@ -9,6 +9,30 @@
     "last": 20101015,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 725,
+            "candidate": [
+              "MUDr.",
+              "Ivan",
+              "Poustka",
+              ""
+            ],
+            "name": "Victoria.cz",
+            "elected": false,
+            "round1": {
+              "pct": 4.82,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

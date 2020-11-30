@@ -240,6 +240,64 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Noveský",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 0.78,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "Ing.",
+              "Zdeňka",
+              "Chromíková",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 0.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "MUDr.",
+              "Vladimír",
+              "Dryml",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 1.87,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,
@@ -778,6 +836,23 @@
             }
           },
           {
+            "area": 3,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "",
+              "Jaromír",
+              "Dušek",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 5.61,
+              "progress": false
+            }
+          },
+          {
             "area": 30,
             "reg": 155,
             "nominee": 155,
@@ -810,6 +885,23 @@
             }
           },
           {
+            "area": 36,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "Mgr.",
+              "Oldřich",
+              "Němec",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 3.96,
+              "progress": false
+            }
+          },
+          {
             "area": 42,
             "reg": 155,
             "nominee": 155,
@@ -822,6 +914,40 @@
             "elected": false,
             "round1": {
               "pct": 0.69,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Syrový",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 2.42,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "",
+              "Jiří",
+              "Peřinka",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 1.94,
               "progress": false
             }
           },
@@ -842,6 +968,23 @@
             }
           },
           {
+            "area": 66,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "JUDr.",
+              "Jan",
+              "Rytíř",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 2.79,
+              "progress": false
+            }
+          },
+          {
             "area": 75,
             "reg": 155,
             "nominee": 155,
@@ -854,6 +997,47 @@
             "elected": false,
             "round1": {
               "pct": 0.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Vítek",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 0.9,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20070413,
+        "date": 20070413,
+        "list": [
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 155,
+            "candidate": [
+              "",
+              "František",
+              "Lehotský",
+              ""
+            ],
+            "name": "Blok proti islamizaci - Obrana domova",
+            "elected": false,
+            "round1": {
+              "pct": 0.93,
               "progress": false
             }
           }

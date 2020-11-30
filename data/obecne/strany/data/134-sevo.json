@@ -14,6 +14,34 @@
     "last": 20041105,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 28,
+            "reg": 99,
+            "nominee": 134,
+            "candidate": [
+              "MUDr.",
+              "Radim",
+              "Uzel",
+              ""
+            ],
+            "name": "\"Sebeobrana voličů-Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu\"",
+            "elected": false,
+            "round1": {
+              "pct": 15.15,
+              "progress": true
+            },
+            "round2": {
+              "pct": 43.72,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2004,
         "date": 20041105,

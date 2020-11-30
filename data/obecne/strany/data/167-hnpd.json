@@ -110,6 +110,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 167,
+            "candidate": [
+              "Bc.",
+              "Aleš",
+              "Znamenáček",
+              ""
+            ],
+            "name": "Fair play - HNPD",
+            "elected": false,
+            "round1": {
+              "pct": 5.98,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2012,
         "date": 20121012,
@@ -123,29 +147,6 @@
             "area": 13,
             "reg": 167,
             "elected": 0
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20101015,
-        "date": 20101015,
-        "list": [
-          {
-            "area": 73,
-            "reg": 167,
-            "nominee": 137,
-            "candidate": [
-              "Mgr.",
-              "Jan",
-              "Szotkowski",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 3.09,
-              "progress": false
-            }
           }
         ]
       },
@@ -242,6 +243,29 @@
         "elected": 30
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 73,
+            "reg": 167,
+            "nominee": 137,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Szotkowski",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 3.09,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2009,
         "date": 20090605,
@@ -253,6 +277,47 @@
         ],
         "pct": 0.29,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 167,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Němeček",
+              ""
+            ],
+            "name": "Fair play - HNPD",
+            "elected": false,
+            "round1": {
+              "pct": 1.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 167,
+            "candidate": [
+              "",
+              "František",
+              "Bušek",
+              ""
+            ],
+            "name": "Fair play - HNPD",
+            "elected": false,
+            "round1": {
+              "pct": 2.71,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "krajske-volby",

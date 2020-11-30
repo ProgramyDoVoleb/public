@@ -57,6 +57,47 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 128,
+            "candidate": [
+              "",
+              "Ladislav",
+              "Půlpán",
+              ""
+            ],
+            "name": "\"Akce za skutečnou demokracii\"",
+            "elected": false,
+            "round1": {
+              "pct": 7.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 128,
+            "candidate": [
+              "",
+              "Jiřina",
+              "Suchá",
+              ""
+            ],
+            "name": "\"Akce za skutečnou demokracii\"",
+            "elected": false,
+            "round1": {
+              "pct": 4.38,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20001112,
         "date": 20001112,
         "list": [

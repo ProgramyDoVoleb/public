@@ -321,6 +321,23 @@
               "pct": 1.14,
               "progress": false
             }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Karel",
+              "Světnička",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 1.2,
+              "progress": false
+            }
           }
         ]
       },
@@ -440,6 +457,23 @@
             }
           },
           {
+            "area": 57,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Prof.",
+              "Ignác",
+              "Hoza",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 4.88,
+              "progress": false
+            }
+          },
+          {
             "area": 6,
             "reg": 13,
             "nominee": 143,
@@ -470,6 +504,40 @@
               "pct": 9.81,
               "progress": false
             }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Olga",
+              "Gröschlová",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 9.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Ladislav",
+              "Šupka",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 5.49,
+              "progress": false
+            }
           }
         ]
       },
@@ -480,6 +548,51 @@
         "reg": 13,
         "pct": 0.5,
         "elected": 0
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20001112,
+        "date": 20001112,
+        "list": [
+          {
+            "area": 68,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Josef",
+              "Jařab",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": true,
+            "round1": {
+              "pct": 28.47,
+              "progress": true
+            },
+            "round2": {
+              "pct": 57.09,
+              "progress": true
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Doc.",
+              "Jiří",
+              "Holenda",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 14.63,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "krajske-volby",
@@ -659,9 +772,62 @@
       },
       {
         "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "Ivan",
+              "Medek",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.35,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 19981114,
         "date": 19981114,
         "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Mgr.",
+              "Zdeněk",
+              "Šmíd",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.66,
+              "progress": false
+            }
+          },
           {
             "area": 10,
             "reg": 13,
@@ -675,6 +841,29 @@
             "elected": false,
             "round1": {
               "pct": 10.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 10,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Štěpán",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.3,
               "progress": false
             }
           },
@@ -719,6 +908,102 @@
             }
           },
           {
+            "area": 22,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "MUDr.",
+              "Zuzana",
+              "Roithová",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 39.54,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.1,
+              "progress": true
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "",
+              "",
+              "Novobilský",
+              "CSc."
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.22,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Doc.",
+              "Bohuslav",
+              "Svoboda",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 13.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 37,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "PhDr.",
+              "Čestmír",
+              "Jung",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.85,
+              "progress": false
+            }
+          },
+          {
             "area": 43,
             "reg": 13,
             "nominee": 208,
@@ -755,6 +1040,60 @@
             },
             "round2": {
               "pct": 68.03,
+              "progress": true
+            }
+          },
+          {
+            "area": 7,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Skalický",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 25.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.09,
+              "progress": true
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 208,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Kroupa",
+              ""
+            ],
+            "name": "Čtyřkoalice",
+            "coalition": [
+              1,
+              13,
+              81,
+              102
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 29.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.86,
               "progress": true
             }
           }
@@ -854,6 +1193,27 @@
             }
           },
           {
+            "area": 16,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Rückl",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": true,
+            "round1": {
+              "pct": 19.02,
+              "progress": true
+            },
+            "round2": {
+              "pct": 50.16,
+              "progress": true
+            }
+          },
+          {
             "area": 17,
             "reg": 13,
             "nominee": 13,
@@ -882,6 +1242,44 @@
             "elected": false,
             "round1": {
               "pct": 18.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Michael",
+              "Žantovský",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": true,
+            "round1": {
+              "pct": 36.55,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.07,
+              "progress": true
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Prof.,MUDr.",
+              "Cyril",
+              "Hőschl",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 15.96,
               "progress": false
             }
           },
@@ -1046,6 +1444,40 @@
             }
           },
           {
+            "area": 39,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Ondřej",
+              "Šik",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 8.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "",
+              "Kamila",
+              "Moučková",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 3.07,
+              "progress": false
+            }
+          },
+          {
             "area": 41,
             "reg": 13,
             "nominee": 13,
@@ -1058,6 +1490,23 @@
             "elected": false,
             "round1": {
               "pct": 13.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Doc.JUDr.",
+              "Václav",
+              "Mezřický",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 15.35,
               "progress": false
             }
           },
@@ -1082,6 +1531,27 @@
             }
           },
           {
+            "area": 45,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Doc.",
+              "Karel",
+              "Barták",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": true,
+            "round1": {
+              "pct": 21.31,
+              "progress": true
+            },
+            "round2": {
+              "pct": 50.48,
+              "progress": true
+            }
+          },
+          {
             "area": 49,
             "reg": 13,
             "nominee": 13,
@@ -1094,6 +1564,23 @@
             "elected": false,
             "round1": {
               "pct": 9.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Novotný",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 8.43,
               "progress": false
             }
           },
@@ -1246,6 +1733,44 @@
             }
           },
           {
+            "area": 61,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Prof.,PhDr.",
+              "Josef",
+              "Jařab",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": true,
+            "round1": {
+              "pct": 25.21,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.02,
+              "progress": true
+            }
+          },
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "PhDr.",
+              "Václav",
+              "Kolář",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 23.55,
+              "progress": false
+            }
+          },
+          {
             "area": 63,
             "reg": 13,
             "nominee": 13,
@@ -1330,6 +1855,23 @@
             }
           },
           {
+            "area": 70,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "prof.",
+              "Miroslav",
+              "Nejezchleba",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 7.02,
+              "progress": false
+            }
+          },
+          {
             "area": 71,
             "reg": 13,
             "nominee": 13,
@@ -1342,6 +1884,40 @@
             "elected": false,
             "round1": {
               "pct": 5.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Pekárek",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 6.99,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "MUDr.",
+              "Bohuslav",
+              "Chwajol",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 11.13,
               "progress": false
             }
           },
@@ -1374,6 +1950,23 @@
             "elected": false,
             "round1": {
               "pct": 9.02,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 13,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Stelzer",
+              ""
+            ],
+            "name": "Občanská demokratická aliance",
+            "elected": false,
+            "round1": {
+              "pct": 9.41,
               "progress": false
             }
           }

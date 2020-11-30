@@ -226,6 +226,23 @@
             }
           },
           {
+            "area": 36,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Miloš",
+              "Tita",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 6.56,
+              "progress": false
+            }
+          },
+          {
             "area": 42,
             "reg": 47,
             "nominee": 47,
@@ -366,6 +383,23 @@
             "elected": false,
             "round1": {
               "pct": 4.09,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Zdena",
+              "Černínová",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 8.67,
               "progress": false
             }
           },
@@ -841,6 +875,23 @@
             }
           },
           {
+            "area": 35,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Mgr.",
+              "Šárka",
+              "Kalvová",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 4.93,
+              "progress": false
+            }
+          },
+          {
             "area": 38,
             "reg": 47,
             "nominee": 47,
@@ -1049,6 +1100,27 @@
             }
           },
           {
+            "area": 74,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PaedDr.",
+              "Milada",
+              "Halíková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 16.45,
+              "progress": true
+            },
+            "round2": {
+              "pct": 27.93,
+              "progress": false
+            }
+          },
+          {
             "area": 77,
             "reg": 47,
             "nominee": 47,
@@ -1116,6 +1188,30 @@
             "elected": false,
             "round1": {
               "pct": 5.26,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180105,
+        "date": 20180105,
+        "list": [
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Iva",
+              "Řezníčková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 7.09,
               "progress": false
             }
           }
@@ -1230,6 +1326,23 @@
         "date": 20161007,
         "list": [
           {
+            "area": 1,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Věra",
+              "Bartůňková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 9.95,
+              "progress": false
+            }
+          },
+          {
             "area": 10,
             "reg": 47,
             "nominee": 47,
@@ -1342,6 +1455,23 @@
             }
           },
           {
+            "area": 31,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "JUDr.",
+              "Stanislav",
+              "Körner",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 6.77,
+              "progress": false
+            }
+          },
+          {
             "area": 34,
             "reg": 47,
             "nominee": 47,
@@ -1390,6 +1520,23 @@
             }
           },
           {
+            "area": 40,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Lenka",
+              "Bochníčková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 14.07,
+              "progress": false
+            }
+          },
+          {
             "area": 43,
             "reg": 47,
             "nominee": 47,
@@ -1402,6 +1549,23 @@
             "elected": false,
             "round1": {
               "pct": 9.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Antonín",
+              "Vyšohlíd",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 8.09,
               "progress": false
             }
           },
@@ -1470,6 +1634,23 @@
             }
           },
           {
+            "area": 61,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Zdenka",
+              "Szukalská",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 8.13,
+              "progress": false
+            }
+          },
+          {
             "area": 64,
             "reg": 47,
             "nominee": 47,
@@ -1486,6 +1667,23 @@
             },
             "round2": {
               "pct": 46.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 67,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Pavel",
+              "Pisch",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 13.64,
               "progress": false
             }
           },
@@ -1518,6 +1716,23 @@
             "elected": false,
             "round1": {
               "pct": 8.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Gustav",
+              "Pilch",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 4.85,
               "progress": false
             }
           },
@@ -1824,6 +2039,23 @@
             }
           },
           {
+            "area": 24,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "František",
+              "Křížek",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 5.22,
+              "progress": false
+            }
+          },
+          {
             "area": 27,
             "reg": 47,
             "nominee": 47,
@@ -1852,6 +2084,23 @@
             "elected": false,
             "round1": {
               "pct": 14.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Bc.",
+              "Rudolf",
+              "CARVAN",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.94,
               "progress": false
             }
           },
@@ -2012,6 +2261,23 @@
             "elected": false,
             "round1": {
               "pct": 11.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "MUDr.",
+              "Eva",
+              "Kašová",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 14.76,
               "progress": false
             }
           },
@@ -2638,6 +2904,23 @@
             }
           },
           {
+            "area": 65,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "František",
+              "Mencner",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 19.27,
+              "progress": false
+            }
+          },
+          {
             "area": 68,
             "reg": 47,
             "nominee": 47,
@@ -2666,6 +2949,27 @@
             "elected": false,
             "round1": {
               "pct": 15.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PaedDr.",
+              "Milada",
+              "Halíková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 29.56,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.29,
               "progress": false
             }
           },
@@ -2702,6 +3006,23 @@
             },
             "round2": {
               "pct": 45.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Václav",
+              "Ransdorf",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 7.44,
               "progress": false
             }
           }
@@ -2978,6 +3299,23 @@
             }
           },
           {
+            "area": 13,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Straka",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.46,
+              "progress": false
+            }
+          },
+          {
             "area": 16,
             "reg": 47,
             "nominee": 47,
@@ -3186,6 +3524,23 @@
             }
           },
           {
+            "area": 55,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "MUDr.",
+              "Vojtěch",
+              "Adam",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 17.1,
+              "progress": false
+            }
+          },
+          {
             "area": 58,
             "reg": 47,
             "nominee": 47,
@@ -3278,6 +3633,23 @@
             "elected": false,
             "round1": {
               "pct": 12.49,
+              "progress": false
+            }
+          },
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Boublík",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.39,
               "progress": false
             }
           },
@@ -3401,6 +3773,23 @@
             }
           },
           {
+            "area": 24,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Evžen",
+              "Smrkovský",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 8.82,
+              "progress": false
+            }
+          },
+          {
             "area": 27,
             "reg": 47,
             "nominee": 47,
@@ -3465,6 +3854,23 @@
             }
           },
           {
+            "area": 36,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Miloš",
+              "Tita",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 15.79,
+              "progress": false
+            }
+          },
+          {
             "area": 39,
             "reg": 47,
             "nominee": 47,
@@ -3493,6 +3899,23 @@
             "elected": false,
             "round1": {
               "pct": 15.52,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Lenka",
+              "Trkalová",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 9.9,
               "progress": false
             }
           },
@@ -3613,6 +4036,23 @@
             }
           },
           {
+            "area": 66,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Černý",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 17.12,
+              "progress": false
+            }
+          },
+          {
             "area": 69,
             "reg": 47,
             "nominee": 47,
@@ -3673,6 +4113,23 @@
             "elected": false,
             "round1": {
               "pct": 6.73,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Jindřich",
+              "Kovář",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 9.77,
               "progress": false
             }
           },
@@ -4064,6 +4521,23 @@
             }
           },
           {
+            "area": 14,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Tekel",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 9.54,
+              "progress": false
+            }
+          },
+          {
             "area": 17,
             "reg": 47,
             "nominee": 47,
@@ -4196,6 +4670,23 @@
             }
           },
           {
+            "area": 38,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Václav",
+              "Jakubec",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.95,
+              "progress": false
+            }
+          },
+          {
             "area": 41,
             "reg": 47,
             "nominee": 47,
@@ -4256,6 +4747,23 @@
             "elected": false,
             "round1": {
               "pct": 13.85,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Krejčí",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 16.09,
               "progress": false
             }
           },
@@ -4340,6 +4848,23 @@
             "elected": false,
             "round1": {
               "pct": 17.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 68,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Mgr.",
+              "Josef",
+              "Kimpl",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.53,
               "progress": false
             }
           },
@@ -4544,6 +5069,27 @@
             }
           },
           {
+            "area": 10,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Miloslav",
+              "Šimánek",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 18.48,
+              "progress": true
+            },
+            "round2": {
+              "pct": 28.48,
+              "progress": false
+            }
+          },
+          {
             "area": 13,
             "reg": 47,
             "nominee": 47,
@@ -4680,6 +5226,27 @@
             }
           },
           {
+            "area": 37,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Jeník",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 16.9,
+              "progress": true
+            },
+            "round2": {
+              "pct": 28.59,
+              "progress": false
+            }
+          },
+          {
             "area": 4,
             "reg": 47,
             "nominee": 47,
@@ -4728,6 +5295,23 @@
             "elected": false,
             "round1": {
               "pct": 18.45,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "RSDr.",
+              "Jaroslav",
+              "Fišer",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 13.08,
               "progress": false
             }
           },
@@ -4961,6 +5545,23 @@
               "pct": 11.48,
               "progress": false
             }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Augustin",
+              "Forman",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 26.9,
+              "progress": false
+            }
           }
         ]
       },
@@ -5024,6 +5625,23 @@
         "date": 20021025,
         "list": [
           {
+            "area": 12,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Poláček",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 12.21,
+              "progress": false
+            }
+          },
+          {
             "area": 15,
             "reg": 47,
             "nominee": 47,
@@ -5068,6 +5686,23 @@
             "elected": false,
             "round1": {
               "pct": 8.88,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Evžen",
+              "Smrkovský",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 11.5,
               "progress": false
             }
           },
@@ -5204,6 +5839,40 @@
             }
           },
           {
+            "area": 48,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Langr",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 16.44,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Alois",
+              "Koukola",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 13.01,
+              "progress": false
+            }
+          },
+          {
             "area": 54,
             "reg": 47,
             "nominee": 47,
@@ -5308,6 +5977,23 @@
             }
           },
           {
+            "area": 66,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Švec",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 18,
+              "progress": false
+            }
+          },
+          {
             "area": 69,
             "reg": 47,
             "nominee": 47,
@@ -5376,6 +6062,23 @@
             "elected": false,
             "round1": {
               "pct": 10.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PhDr.",
+              "Josef",
+              "Páč",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 14.16,
               "progress": false
             }
           },
@@ -5680,6 +6383,23 @@
             }
           },
           {
+            "area": 41,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "RNDr.",
+              "Jan",
+              "Minář",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.34,
+              "progress": false
+            }
+          },
+          {
             "area": 44,
             "reg": 47,
             "nominee": 47,
@@ -5728,6 +6448,23 @@
             },
             "round2": {
               "pct": 46.41,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PaedDr.",
+              "Jitka",
+              "Gruntová",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 18.93,
               "progress": false
             }
           },
@@ -5856,6 +6593,27 @@
             }
           },
           {
+            "area": 74,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PaedDr.",
+              "Milada",
+              "Halíková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 32.64,
+              "progress": true
+            },
+            "round2": {
+              "pct": 48.33,
+              "progress": false
+            }
+          },
+          {
             "area": 77,
             "reg": 47,
             "nominee": 47,
@@ -5868,6 +6626,27 @@
             "elected": false,
             "round1": {
               "pct": 11.69,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Helena",
+              "Suchá",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 23.57,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.23,
               "progress": false
             }
           },
@@ -6633,6 +7412,23 @@
             }
           },
           {
+            "area": 24,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Alois",
+              "Josef",
+              "Tichý",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 10.17,
+              "progress": false
+            }
+          },
+          {
             "area": 25,
             "reg": 47,
             "nominee": 47,
@@ -6797,6 +7593,23 @@
             }
           },
           {
+            "area": 34,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "Ing.",
+              "Karel",
+              "Hanauer",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 7.46,
+              "progress": false
+            }
+          },
+          {
             "area": 35,
             "reg": 47,
             "nominee": 47,
@@ -6905,6 +7718,23 @@
             "elected": false,
             "round1": {
               "pct": 15.33,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "RNDr.",
+              "Jan",
+              "Minář",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 13.18,
               "progress": false
             }
           },
@@ -7221,6 +8051,23 @@
             }
           },
           {
+            "area": 6,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "",
+              "Helena",
+              "Růžičková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 22.72,
+              "progress": false
+            }
+          },
+          {
             "area": 60,
             "reg": 47,
             "nominee": 47,
@@ -7457,6 +8304,23 @@
             "elected": false,
             "round1": {
               "pct": 22.34,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 47,
+            "candidate": [
+              "PaedDr.",
+              "Milada",
+              "Halíková",
+              ""
+            ],
+            "name": "Komunistická strana Čech a Moravy",
+            "elected": false,
+            "round1": {
+              "pct": 20.45,
               "progress": false
             }
           },

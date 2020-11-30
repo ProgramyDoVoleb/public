@@ -9,6 +9,47 @@
     "last": 20141010,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 749,
+            "candidate": [
+              "JUDr.",
+              "Milan",
+              "Jančík",
+              ""
+            ],
+            "name": "Konzervativní aliance 2014",
+            "elected": false,
+            "round1": {
+              "pct": 0.92,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 749,
+            "candidate": [
+              "",
+              "Miroslav",
+              "Froněk",
+              ""
+            ],
+            "name": "Konzervativní aliance 2014",
+            "elected": false,
+            "round1": {
+              "pct": 2.02,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,

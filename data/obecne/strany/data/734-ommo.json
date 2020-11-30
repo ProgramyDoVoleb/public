@@ -179,6 +179,30 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20101015,
+        "date": 20101015,
+        "list": [
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 734,
+            "candidate": [
+              "RSDr.",
+              "Vlastimil",
+              "Balín",
+              ""
+            ],
+            "name": "Občané městu, město občanům",
+            "elected": false,
+            "round1": {
+              "pct": 3.14,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2010,
         "date": 20101015,

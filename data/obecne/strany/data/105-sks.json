@@ -90,6 +90,30 @@
             "elected": 0
           }
         ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19981114,
+        "date": 19981114,
+        "list": [
+          {
+            "area": 13,
+            "reg": 99,
+            "nominee": 105,
+            "candidate": [
+              "MUDr.",
+              "Lubor",
+              "Tůma",
+              ""
+            ],
+            "name": "Strana konzervativní smlouvy",
+            "elected": false,
+            "round1": {
+              "pct": 7.71,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

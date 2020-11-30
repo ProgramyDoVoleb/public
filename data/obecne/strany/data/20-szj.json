@@ -31,6 +31,30 @@
     "last": 20041105,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 20,
+            "candidate": [
+              "",
+              "Jiří",
+              "Bezák",
+              ""
+            ],
+            "name": "Strana za životní jistoty",
+            "elected": false,
+            "round1": {
+              "pct": 2.5,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2004,
         "date": 20041105,
@@ -106,6 +130,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 20,
+            "candidate": [
+              "",
+              "Viktor",
+              "Hubert",
+              ""
+            ],
+            "name": "Strana za životní jistoty",
+            "elected": false,
+            "round1": {
+              "pct": 1.8,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2002,
         "date": 20020614,
@@ -118,6 +166,23 @@
         "id": 20001112,
         "date": 20001112,
         "list": [
+          {
+            "area": 38,
+            "reg": 99,
+            "nominee": 20,
+            "candidate": [
+              "JUDr.",
+              "Jan",
+              "Hutař",
+              ""
+            ],
+            "name": "Strana za životní jistoty",
+            "elected": false,
+            "round1": {
+              "pct": 0.92,
+              "progress": false
+            }
+          },
           {
             "area": 59,
             "reg": 20,
@@ -325,6 +390,23 @@
             "elected": false,
             "round1": {
               "pct": 5.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 99,
+            "nominee": 20,
+            "candidate": [
+              "Mgr.",
+              "Marta",
+              "Novotná",
+              ""
+            ],
+            "name": "Strana za životní jistoty",
+            "elected": false,
+            "round1": {
+              "pct": 5.28,
               "progress": false
             }
           },

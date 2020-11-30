@@ -23,6 +23,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 153,
+            "candidate": [
+              "Ing.",
+              "Stanislav",
+              "Horňák",
+              ""
+            ],
+            "name": "Dělnická strana",
+            "elected": false,
+            "round1": {
+              "pct": 2.88,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2008,
         "date": 20081017,

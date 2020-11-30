@@ -407,6 +407,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20070413,
+        "date": 20070413,
+        "list": [
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 100,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Jánský",
+              ""
+            ],
+            "name": "Humanistická strana",
+            "elected": false,
+            "round1": {
+              "pct": 0.81,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,
@@ -483,6 +507,30 @@
           }
         ],
         "elected": 4
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 100,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Jánský",
+              ""
+            ],
+            "name": "Humanistická strana",
+            "elected": false,
+            "round1": {
+              "pct": 1.13,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "snemovni-volby",

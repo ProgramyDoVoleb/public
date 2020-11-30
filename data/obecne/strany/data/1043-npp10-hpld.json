@@ -49,6 +49,30 @@
           }
         ],
         "elected": 2
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20140919,
+        "date": 20140919,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 1043,
+            "candidate": [
+              "",
+              "Antonín",
+              "Panenka",
+              ""
+            ],
+            "name": "NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU",
+            "elected": false,
+            "round1": {
+              "pct": 13.44,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },

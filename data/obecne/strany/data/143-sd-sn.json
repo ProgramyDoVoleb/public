@@ -183,6 +183,30 @@
         "elected": 65
       },
       {
+        "type": "senatni-volby",
+        "id": 20170127,
+        "date": 20170127,
+        "list": [
+          {
+            "area": 4,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "MUDr.",
+              "Alena",
+              "Dernerová",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 54.9,
+              "progress": true
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,
@@ -346,6 +370,71 @@
           }
         ],
         "elected": 63
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "",
+              "Karel",
+              "Kasal",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 3.98,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 17,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "",
+              "Karel",
+              "Kasal",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 6.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Klepsa",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 9.73,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "komunalni-volby",
@@ -724,6 +813,143 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Horník",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": true,
+            "round1": {
+              "pct": 21.25,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.18,
+              "progress": true
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "MUDr.",
+              "Milan",
+              "Kudyn",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 8.24,
+              "progress": false
+            }
+          },
+          {
+            "area": 40,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "Ing.",
+              "Vladimír",
+              "Zeman",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 4.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 49,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Bernášek",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 4.69,
+              "progress": false
+            }
+          },
+          {
+            "area": 61,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "Prof.MUDr.PhDr.",
+              "Jana",
+              "Mačáková",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 19.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 70,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "MUDr.",
+              "Helena",
+              "Fousková",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 7.58,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20041008,
+        "date": 20041008,
+        "list": [
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "",
+              "Jan",
+              "Vávra",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 12.35,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2004,
         "date": 20040611,
@@ -735,6 +961,30 @@
         ],
         "pct": 11.02,
         "elected": 3
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20021025,
+        "date": 20021025,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 143,
+            "candidate": [
+              "",
+              "Jiří",
+              "Tráva",
+              ""
+            ],
+            "name": "Spojení demokraté - Sdružení nezávislých",
+            "elected": false,
+            "round1": {
+              "pct": 3.15,
+              "progress": false
+            }
+          }
+        ]
       },
       {
         "type": "snemovni-volby",

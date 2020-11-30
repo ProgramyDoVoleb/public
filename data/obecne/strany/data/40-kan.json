@@ -190,6 +190,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 40,
+            "candidate": [
+              "Mgr.",
+              "Jana",
+              "ŠRÁMKOVÁ",
+              ""
+            ],
+            "name": "Klub angažovaných nestraníků",
+            "elected": false,
+            "round1": {
+              "pct": 7.1,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2014,
         "date": 20140523,
@@ -350,6 +374,47 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20081017,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 40,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Joukl",
+              ""
+            ],
+            "name": "Klub angažovaných nestraníků",
+            "elected": false,
+            "round1": {
+              "pct": 2.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 99,
+            "nominee": 40,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Hučín",
+              ""
+            ],
+            "name": "Klub angažovaných nestraníků",
+            "elected": false,
+            "round1": {
+              "pct": 10.34,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,
@@ -480,6 +545,23 @@
         "id": 20061020,
         "date": 20061020,
         "list": [
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 40,
+            "candidate": [
+              "Ing.",
+              "Zdeněk",
+              "Joukl",
+              ""
+            ],
+            "name": "Klub angažovaných nestraníků",
+            "elected": false,
+            "round1": {
+              "pct": 1.69,
+              "progress": false
+            }
+          },
           {
             "area": 62,
             "reg": 40,

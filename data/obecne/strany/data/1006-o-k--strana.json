@@ -32,6 +32,64 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 15,
+            "reg": 99,
+            "nominee": 1006,
+            "candidate": [
+              "",
+              "Miroslav",
+              "Lidinský",
+              ""
+            ],
+            "name": "Občanská konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 2.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 1006,
+            "candidate": [
+              "Ing.",
+              "Rudolf",
+              "Mládek",
+              ""
+            ],
+            "name": "Občanská konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 0.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 99,
+            "nominee": 1006,
+            "candidate": [
+              "",
+              "Ivo",
+              "Kaštan",
+              ""
+            ],
+            "name": "Občanská konzervativní strana",
+            "elected": false,
+            "round1": {
+              "pct": 2.01,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2014,
         "date": 20141010,

@@ -6,8 +6,33 @@
   "color": "#1d1ad5",
   "memberOf": [],
   "activity": {
-    "last": 0,
-    "list": []
+    "last": 20141010,
+    "list": [
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 1038,
+            "candidate": [
+              "",
+              "Stanislav",
+              "Penc",
+              ""
+            ],
+            "name": "iČesko",
+            "elected": false,
+            "round1": {
+              "pct": 5.8,
+              "progress": false
+            }
+          }
+        ]
+      }
+    ]
   },
   "links": {
     "global": [],

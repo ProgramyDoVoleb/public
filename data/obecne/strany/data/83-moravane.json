@@ -94,6 +94,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 62,
+            "reg": 99,
+            "nominee": 83,
+            "candidate": [
+              "Mgr.",
+              "Petr",
+              "Michek",
+              ""
+            ],
+            "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+            "elected": false,
+            "round1": {
+              "pct": 3.5,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -216,6 +240,23 @@
         "date": 20161007,
         "list": [
           {
+            "area": 52,
+            "reg": 99,
+            "nominee": 83,
+            "candidate": [
+              "",
+              "Zdeněk",
+              "Kučírek",
+              ""
+            ],
+            "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+            "elected": false,
+            "round1": {
+              "pct": 0.96,
+              "progress": false
+            }
+          },
+          {
             "area": 55,
             "reg": 83,
             "nominee": 83,
@@ -244,6 +285,23 @@
             "elected": false,
             "round1": {
               "pct": 9.63,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 99,
+            "nominee": 83,
+            "candidate": [
+              "JUDr.",
+              "Vítězslav",
+              "Krabička",
+              ""
+            ],
+            "name": "Moravané, pro zachování Moravy se při sčítání lidu 2021 opět přihlasme k moravské národnosti",
+            "elected": false,
+            "round1": {
+              "pct": 7.26,
               "progress": false
             }
           }
@@ -425,6 +483,29 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20121012,
+        "date": 20121012,
+        "list": [
+          {
+            "area": 77,
+            "reg": 83,
+            "nominee": 83,
+            "candidate": [
+              "",
+              "Aleš",
+              "Bardoň",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 1.7,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "krajske-volby",
         "id": 2012,
         "date": 20121012,
@@ -463,29 +544,6 @@
             "area": 13,
             "reg": 83,
             "elected": 0
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20121012,
-        "date": 20121012,
-        "list": [
-          {
-            "area": 77,
-            "reg": 83,
-            "nominee": 83,
-            "candidate": [
-              "",
-              "Aleš",
-              "Bardoň",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 1.7,
-              "progress": false
-            }
           }
         ]
       },

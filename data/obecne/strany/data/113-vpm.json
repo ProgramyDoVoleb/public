@@ -526,6 +526,34 @@
         ]
       },
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 113,
+            "candidate": [
+              "Ing.",
+              "Helena",
+              "Rőgnerová",
+              ""
+            ],
+            "name": "Volba pro město",
+            "elected": false,
+            "round1": {
+              "pct": 19.56,
+              "progress": true
+            },
+            "round2": {
+              "pct": 38.86,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,
@@ -720,6 +748,23 @@
             },
             "round2": {
               "pct": 37.91,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 99,
+            "nominee": 113,
+            "candidate": [
+              "",
+              "Petr",
+              "Vančura",
+              ""
+            ],
+            "name": "Volba pro město",
+            "elected": false,
+            "round1": {
+              "pct": 3.21,
               "progress": false
             }
           }

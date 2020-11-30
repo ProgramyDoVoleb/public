@@ -466,6 +466,30 @@
         "elected": 43
       },
       {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 65,
+            "reg": 99,
+            "nominee": 163,
+            "candidate": [
+              "PhDr.",
+              "Jindřich",
+              "Němčík",
+              ""
+            ],
+            "name": "NEZÁVISLÁ VOLBA",
+            "elected": false,
+            "round1": {
+              "pct": 13.13,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2006,
         "date": 20061020,

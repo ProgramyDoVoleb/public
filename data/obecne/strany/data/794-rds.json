@@ -18,6 +18,30 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 794,
+            "candidate": [
+              "",
+              "Petr",
+              "Kováč",
+              ""
+            ],
+            "name": "Romská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 0.73,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,

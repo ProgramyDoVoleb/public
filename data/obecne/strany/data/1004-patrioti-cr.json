@@ -23,6 +23,47 @@
         "elected": 0
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 1004,
+            "candidate": [
+              "",
+              "Hana",
+              "Dolejší",
+              ""
+            ],
+            "name": "Patrioti České republiky",
+            "elected": false,
+            "round1": {
+              "pct": 1.03,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 99,
+            "nominee": 1004,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Novák",
+              ""
+            ],
+            "name": "Patrioti České republiky",
+            "elected": false,
+            "round1": {
+              "pct": 2.3,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,

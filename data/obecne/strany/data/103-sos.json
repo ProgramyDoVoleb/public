@@ -549,6 +549,40 @@
         "date": 20081017,
         "list": [
           {
+            "area": 21,
+            "reg": 99,
+            "nominee": 103,
+            "candidate": [
+              "",
+              "Klára",
+              "Rulíková",
+              ""
+            ],
+            "name": "Strana pro otevřenou společnost",
+            "elected": false,
+            "round1": {
+              "pct": 2.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 103,
+            "candidate": [
+              "JUDr.",
+              "Šárka",
+              "Weberová",
+              ""
+            ],
+            "name": "Strana pro otevřenou společnost",
+            "elected": false,
+            "round1": {
+              "pct": 1.55,
+              "progress": false
+            }
+          },
+          {
             "area": 33,
             "reg": 103,
             "nominee": 103,
@@ -578,6 +612,75 @@
             "round1": {
               "pct": 9.13,
               "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 103,
+            "candidate": [
+              "MUDr.",
+              "Richard",
+              "Sequens",
+              ""
+            ],
+            "name": "Strana pro otevřenou společnost",
+            "elected": false,
+            "round1": {
+              "pct": 24.44,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20070427,
+        "date": 20070427,
+        "list": [
+          {
+            "area": 63,
+            "reg": 99,
+            "nominee": 103,
+            "candidate": [
+              "PhDr.",
+              "Vladimír",
+              "Juračka",
+              ""
+            ],
+            "name": "Strana pro otevřenou společnost",
+            "elected": false,
+            "round1": {
+              "pct": 14.38,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20061020,
+        "date": 20061020,
+        "list": [
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 103,
+            "candidate": [
+              "Mgr.",
+              "Soňa",
+              "Paukrtová",
+              ""
+            ],
+            "name": "Strana pro otevřenou společnost",
+            "elected": true,
+            "round1": {
+              "pct": 29.82,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.94,
+              "progress": true
             }
           }
         ]

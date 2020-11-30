@@ -182,6 +182,27 @@
         "date": 20201002,
         "list": [
           {
+            "area": 12,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr. Bc.",
+              "Tomáš",
+              "Fiala",
+              "MBA"
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 27.84,
+              "progress": true
+            },
+            "round2": {
+              "pct": 50.13,
+              "progress": true
+            }
+          },
+          {
             "area": 18,
             "reg": 53,
             "nominee": 53,
@@ -198,6 +219,27 @@
             },
             "round2": {
               "pct": 29.81,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "plk. gšt. v záloze PhDr.",
+              "Eduard",
+              "Stehlík",
+              "Ph.D., MBA"
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 30.19,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.14,
               "progress": false
             }
           },
@@ -238,6 +280,27 @@
             },
             "round2": {
               "pct": 32.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Vít",
+              "Vomáčka",
+              "MBA"
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 15.28,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.12,
               "progress": false
             }
           },
@@ -290,6 +353,44 @@
             }
           },
           {
+            "area": 48,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jana",
+              "Drejslová",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 18.96,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Vladimír",
+              "Drápal",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 20.63,
+              "progress": true
+            },
+            "round2": {
+              "pct": 41.6,
+              "progress": false
+            }
+          },
+          {
             "area": 60,
             "reg": 53,
             "nominee": 53,
@@ -310,6 +411,23 @@
             }
           },
           {
+            "area": 63,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr. Mgr.",
+              "Tomáš",
+              "Kocourek",
+              "MBA"
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 12.75,
+              "progress": false
+            }
+          },
+          {
             "area": 66,
             "reg": 53,
             "nominee": 53,
@@ -322,6 +440,44 @@
             "elected": false,
             "round1": {
               "pct": 17.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "doc. MUDr.",
+              "Ondřej",
+              "Šimetka",
+              "Ph.D., MBA"
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 21.68,
+              "progress": true
+            },
+            "round2": {
+              "pct": 67.89,
+              "progress": true
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Petr",
+              "Sládek",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 23.21,
               "progress": false
             }
           },
@@ -405,6 +561,347 @@
             "round2": {
               "pct": 40.49,
               "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 11,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Vladislav",
+              "Vilímec",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 21.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.59,
+              "progress": true
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Martin",
+              "Dvořák",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 12.44,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "JUDr.",
+              "Milan",
+              "Golas",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.99,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Vladimír",
+              "Kratina",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 11.71,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Ladislav",
+              "Chlupáč",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 24.5,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.4,
+              "progress": true
+            }
+          },
+          {
+            "area": 32,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Kubera",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 41.81,
+              "progress": true
+            },
+            "round2": {
+              "pct": 55.6,
+              "progress": true
+            }
+          },
+          {
+            "area": 35,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Zeman",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 34.31,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.42,
+              "progress": true
+            }
+          },
+          {
+            "area": 38,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Raduan",
+              "Nwelati",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 33.86,
+              "progress": true
+            },
+            "round2": {
+              "pct": 61.96,
+              "progress": true
+            }
+          },
+          {
+            "area": 41,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "Kozák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.29,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.04,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Tecl",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 15.44,
+              "progress": true
+            },
+            "round2": {
+              "pct": 63.89,
+              "progress": true
+            }
+          },
+          {
+            "area": 47,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "brig.gen.v.v.",
+              "Martin",
+              "Červíček",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 26.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 56.46,
+              "progress": true
+            }
+          },
+          {
+            "area": 5,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jaroslav",
+              "Zahrádka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.08,
+              "progress": false
+            }
+          },
+          {
+            "area": 50,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Michal",
+              "Kortyš",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 24.73,
+              "progress": true
+            },
+            "round2": {
+              "pct": 62.76,
+              "progress": true
+            }
+          },
+          {
+            "area": 56,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Rostislav",
+              "Koštial",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 27.11,
+              "progress": true
+            },
+            "round2": {
+              "pct": 64.03,
+              "progress": true
+            }
+          },
+          {
+            "area": 62,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Dagmar",
+              "Halašová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Ťulpík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 77,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Zbyněk",
+              "Fojtíček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.99,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Karpíšek",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 28.55,
+              "progress": true
+            },
+            "round2": {
+              "pct": 68.38,
+              "progress": true
             }
           }
         ]
@@ -740,313 +1237,6 @@
         "elected": 2839
       },
       {
-        "type": "senatni-volby",
-        "id": 20181005,
-        "date": 20181005,
-        "list": [
-          {
-            "area": 11,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Vladislav",
-              "Vilímec",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 21.49,
-              "progress": true
-            },
-            "round2": {
-              "pct": 52.59,
-              "progress": true
-            }
-          },
-          {
-            "area": 23,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "JUDr.",
-              "Milan",
-              "Golas",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.99,
-              "progress": false
-            }
-          },
-          {
-            "area": 29,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Ladislav",
-              "Chlupáč",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 24.5,
-              "progress": true
-            },
-            "round2": {
-              "pct": 56.4,
-              "progress": true
-            }
-          },
-          {
-            "area": 32,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Jaroslav",
-              "Kubera",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 41.81,
-              "progress": true
-            },
-            "round2": {
-              "pct": 55.6,
-              "progress": true
-            }
-          },
-          {
-            "area": 35,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Jaroslav",
-              "Zeman",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 34.31,
-              "progress": true
-            },
-            "round2": {
-              "pct": 56.42,
-              "progress": true
-            }
-          },
-          {
-            "area": 38,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "MUDr.",
-              "Raduan",
-              "Nwelati",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 33.86,
-              "progress": true
-            },
-            "round2": {
-              "pct": 61.96,
-              "progress": true
-            }
-          },
-          {
-            "area": 41,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Jiří",
-              "Kozák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 17.29,
-              "progress": true
-            },
-            "round2": {
-              "pct": 39.04,
-              "progress": false
-            }
-          },
-          {
-            "area": 44,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Jan",
-              "Tecl",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 15.44,
-              "progress": true
-            },
-            "round2": {
-              "pct": 63.89,
-              "progress": true
-            }
-          },
-          {
-            "area": 47,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "brig.gen.v.v.",
-              "Martin",
-              "Červíček",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 26.49,
-              "progress": true
-            },
-            "round2": {
-              "pct": 56.46,
-              "progress": true
-            }
-          },
-          {
-            "area": 5,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Jaroslav",
-              "Zahrádka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 11.08,
-              "progress": false
-            }
-          },
-          {
-            "area": 50,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Michal",
-              "Kortyš",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 24.73,
-              "progress": true
-            },
-            "round2": {
-              "pct": 62.76,
-              "progress": true
-            }
-          },
-          {
-            "area": 56,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Rostislav",
-              "Koštial",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 27.11,
-              "progress": true
-            },
-            "round2": {
-              "pct": 64.03,
-              "progress": true
-            }
-          },
-          {
-            "area": 62,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Dagmar",
-              "Halašová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.76,
-              "progress": false
-            }
-          },
-          {
-            "area": 65,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Josef",
-              "Ťulpík",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 16.39,
-              "progress": false
-            }
-          },
-          {
-            "area": 77,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Zbyněk",
-              "Fojtíček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.99,
-              "progress": false
-            }
-          },
-          {
-            "area": 8,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Pavel",
-              "Karpíšek",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 28.55,
-              "progress": true
-            },
-            "round2": {
-              "pct": 68.38,
-              "progress": true
-            }
-          }
-        ]
-      },
-      {
         "type": "snemovni-volby",
         "id": 2017,
         "date": 20171020,
@@ -1171,6 +1361,40 @@
             }
           },
           {
+            "area": 22,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Pálková Irena",
+              "",
+              "Bartoňová",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 9.28,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Bc.",
+              "František",
+              "Stárek",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 13.71,
+              "progress": false
+            }
+          },
+          {
             "area": 28,
             "reg": 53,
             "nominee": 53,
@@ -1203,6 +1427,23 @@
             "elected": false,
             "round1": {
               "pct": 7.8,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Rychecká Martina",
+              "",
+              "Bufková",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 4.38,
               "progress": false
             }
           },
@@ -1255,6 +1496,27 @@
             }
           },
           {
+            "area": 49,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "prim.",
+              "Jan",
+              "Machač",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 15.48,
+              "progress": true
+            },
+            "round2": {
+              "pct": 38.93,
+              "progress": false
+            }
+          },
+          {
             "area": 52,
             "reg": 53,
             "nominee": 53,
@@ -1287,6 +1549,23 @@
             "elected": false,
             "round1": {
               "pct": 17.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 61,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jaroslav",
+              "Morávek",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 6.78,
               "progress": false
             }
           },
@@ -1425,6 +1704,430 @@
             "area": 13,
             "reg": 53,
             "elected": 6
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 12,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "Mánek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 13.97,
+              "progress": false
+            }
+          },
+          {
+            "area": 15,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "JUDr.",
+              "Josef",
+              "Doubek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.81,
+              "progress": false
+            }
+          },
+          {
+            "area": 18,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Burian",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 19.36,
+              "progress": true
+            },
+            "round2": {
+              "pct": 53.46,
+              "progress": true
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "PhDr.",
+              "Pavel",
+              "Žáček",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 16.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 34.91,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Tomáš",
+              "Kladívko",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.71,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Zdeněk",
+              "Schwarz",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 20.3,
+              "progress": true
+            },
+            "round2": {
+              "pct": 31.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 3,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "RNDr.",
+              "Jaroslav",
+              "Kočvara",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.14,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Lenka",
+              "KOHOUTOVÁ",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 7.79,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Josef",
+              "Holub",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 6.64,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Karel",
+              "Tejnora",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 39,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Pavel",
+              "Káňa",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 42,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Milan",
+              "Rak",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 18.39,
+              "progress": true
+            },
+            "round2": {
+              "pct": 43.75,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Oldřich",
+              "Vlasák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.91,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.87,
+              "progress": false
+            }
+          },
+          {
+            "area": 51,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "PaedDr.",
+              "Jaroslav",
+              "Ptáček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.31,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Karel",
+              "Podzimek",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "PaedDr.",
+              "Luděk",
+              "Štíbr",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.98,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Bobrovský",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 15.77,
+              "progress": false
+            }
+          },
+          {
+            "area": 66,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Radek",
+              "Vincour",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Eva",
+              "Pastušková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.29,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Bartoš",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 8.16,
+              "progress": false
+            }
+          },
+          {
+            "area": 75,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Werner",
+              "Bernatík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.29,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "Sýkora",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 5.43,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jan",
+              "Pijáček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.31,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 53,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Lumír",
+              "Aschenbrenner",
+              ""
+            ],
+            "elected": true,
+            "round1": {
+              "pct": 24.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 54.26,
+              "progress": true
+            }
           }
         ]
       },
@@ -1732,333 +2435,6 @@
       },
       {
         "type": "senatni-volby",
-        "id": 20141010,
-        "date": 20141010,
-        "list": [
-          {
-            "area": 12,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Jiří",
-              "Mánek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 13.97,
-              "progress": false
-            }
-          },
-          {
-            "area": 15,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "JUDr.",
-              "Josef",
-              "Doubek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.81,
-              "progress": false
-            }
-          },
-          {
-            "area": 18,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Jiří",
-              "Burian",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 19.36,
-              "progress": true
-            },
-            "round2": {
-              "pct": 53.46,
-              "progress": true
-            }
-          },
-          {
-            "area": 24,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Tomáš",
-              "Kladívko",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 16.71,
-              "progress": true
-            },
-            "round2": {
-              "pct": 37.46,
-              "progress": false
-            }
-          },
-          {
-            "area": 3,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "RNDr.",
-              "Jaroslav",
-              "Kočvara",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.14,
-              "progress": false
-            }
-          },
-          {
-            "area": 30,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Lenka",
-              "KOHOUTOVÁ",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 7.79,
-              "progress": false
-            }
-          },
-          {
-            "area": 33,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Josef",
-              "Holub",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 6.64,
-              "progress": false
-            }
-          },
-          {
-            "area": 36,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "MUDr.",
-              "Karel",
-              "Tejnora",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.94,
-              "progress": false
-            }
-          },
-          {
-            "area": 39,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Pavel",
-              "Káňa",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.16,
-              "progress": false
-            }
-          },
-          {
-            "area": 45,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Oldřich",
-              "Vlasák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 18.91,
-              "progress": true
-            },
-            "round2": {
-              "pct": 39.87,
-              "progress": false
-            }
-          },
-          {
-            "area": 51,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "PaedDr.",
-              "Jaroslav",
-              "Ptáček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 11.31,
-              "progress": false
-            }
-          },
-          {
-            "area": 54,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "MUDr.",
-              "Karel",
-              "Podzimek",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.7,
-              "progress": false
-            }
-          },
-          {
-            "area": 6,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "PaedDr.",
-              "Luděk",
-              "Štíbr",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.98,
-              "progress": false
-            }
-          },
-          {
-            "area": 66,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Mgr.",
-              "Radek",
-              "Vincour",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.21,
-              "progress": false
-            }
-          },
-          {
-            "area": 69,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Eva",
-              "Pastušková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.29,
-              "progress": false
-            }
-          },
-          {
-            "area": 75,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Werner",
-              "Bernatík",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.29,
-              "progress": false
-            }
-          },
-          {
-            "area": 78,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "MUDr.",
-              "Jiří",
-              "Sýkora",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 5.43,
-              "progress": false
-            }
-          },
-          {
-            "area": 81,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "",
-              "Jan",
-              "Pijáček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 11.31,
-              "progress": false
-            }
-          },
-          {
-            "area": 9,
-            "reg": 53,
-            "nominee": 53,
-            "candidate": [
-              "Ing.",
-              "Lumír",
-              "Aschenbrenner",
-              ""
-            ],
-            "elected": true,
-            "round1": {
-              "pct": 24.72,
-              "progress": true
-            },
-            "round2": {
-              "pct": 54.26,
-              "progress": true
-            }
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
         "id": 20140919,
         "date": 20140919,
         "list": [
@@ -2290,6 +2666,27 @@
             "elected": false,
             "round1": {
               "pct": 16.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Tomáš",
+              "Töpfer",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 23.67,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.49,
               "progress": false
             }
           },
@@ -2538,6 +2935,23 @@
             }
           },
           {
+            "area": 62,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Ladislav",
+              "Županič",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 12.68,
+              "progress": false
+            }
+          },
+          {
             "area": 65,
             "reg": 53,
             "nominee": 53,
@@ -2681,6 +3095,210 @@
             }
           }
         ]
+      },
+      {
+        "type": "komunalni-volby",
+        "id": 2010,
+        "date": 20101015,
+        "count": {
+          "self": 1415,
+          "coalition": 34
+        },
+        "coalitions": [
+          210,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          210,
+          389,
+          687,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          389,
+          210,
+          353,
+          687,
+          210,
+          389,
+          210,
+          389,
+          389,
+          389
+        ],
+        "list": [
+          {
+            "num": 554782,
+            "townName": "Hlavní město Praha",
+            "reg": 53,
+            "pct": 23.1,
+            "elected": 20
+          },
+          {
+            "num": 554791,
+            "townName": "Plzeň",
+            "reg": 53,
+            "pct": 24.78,
+            "elected": 14
+          },
+          {
+            "num": 554961,
+            "townName": "Karlovy Vary",
+            "reg": 53,
+            "pct": 14.16,
+            "elected": 7
+          },
+          {
+            "num": 554804,
+            "townName": "Ústí nad Labem",
+            "reg": 53,
+            "pct": 19,
+            "elected": 9
+          },
+          {
+            "num": 563889,
+            "townName": "Liberec",
+            "reg": 53,
+            "pct": 17.74,
+            "elected": 8
+          },
+          {
+            "num": 569810,
+            "townName": "Hradec Králové",
+            "reg": 53,
+            "pct": 15.81,
+            "elected": 6
+          },
+          {
+            "num": 555134,
+            "townName": "Pardubice",
+            "reg": 53,
+            "pct": 15.6,
+            "elected": 7
+          },
+          {
+            "num": 586846,
+            "townName": "Jihlava",
+            "reg": 53,
+            "pct": 22.67,
+            "elected": 10
+          },
+          {
+            "num": 582786,
+            "townName": "Brno",
+            "reg": 53,
+            "pct": 21.96,
+            "elected": 14
+          },
+          {
+            "num": 500496,
+            "townName": "Olomouc",
+            "reg": 53,
+            "pct": 24.18,
+            "elected": 14
+          },
+          {
+            "num": 585068,
+            "townName": "Zlín",
+            "reg": 53,
+            "pct": 12.97,
+            "elected": 6
+          },
+          {
+            "num": 554821,
+            "townName": "Ostrava",
+            "reg": 53,
+            "pct": 18.48,
+            "elected": 12
+          }
+        ],
+        "top10": [
+          {
+            "num": 562122,
+            "townName": "Boudy",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 537811,
+            "townName": "Sokoleč",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 509108,
+            "townName": "Kostelní Radouň",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 531219,
+            "townName": "Hředle",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 591068,
+            "townName": "Litovany",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 537217,
+            "townName": "Choťánky",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 539465,
+            "townName": "Praha-Lochkov",
+            "reg": 53,
+            "pct": 100,
+            "elected": 9
+          },
+          {
+            "num": 574856,
+            "townName": "Čeperka",
+            "reg": 53,
+            "pct": 100,
+            "elected": 15
+          },
+          {
+            "num": 535192,
+            "townName": "Spomyšl",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          },
+          {
+            "num": 541541,
+            "townName": "Voznice",
+            "reg": 53,
+            "pct": 100,
+            "elected": 7
+          }
+        ],
+        "elected": 5235
       },
       {
         "type": "senatni-volby",
@@ -3198,210 +3816,6 @@
         ]
       },
       {
-        "type": "komunalni-volby",
-        "id": 2010,
-        "date": 20101015,
-        "count": {
-          "self": 1415,
-          "coalition": 34
-        },
-        "coalitions": [
-          210,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          210,
-          389,
-          687,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          389,
-          210,
-          353,
-          687,
-          210,
-          389,
-          210,
-          389,
-          389,
-          389
-        ],
-        "list": [
-          {
-            "num": 554782,
-            "townName": "Hlavní město Praha",
-            "reg": 53,
-            "pct": 23.1,
-            "elected": 20
-          },
-          {
-            "num": 554791,
-            "townName": "Plzeň",
-            "reg": 53,
-            "pct": 24.78,
-            "elected": 14
-          },
-          {
-            "num": 554961,
-            "townName": "Karlovy Vary",
-            "reg": 53,
-            "pct": 14.16,
-            "elected": 7
-          },
-          {
-            "num": 554804,
-            "townName": "Ústí nad Labem",
-            "reg": 53,
-            "pct": 19,
-            "elected": 9
-          },
-          {
-            "num": 563889,
-            "townName": "Liberec",
-            "reg": 53,
-            "pct": 17.74,
-            "elected": 8
-          },
-          {
-            "num": 569810,
-            "townName": "Hradec Králové",
-            "reg": 53,
-            "pct": 15.81,
-            "elected": 6
-          },
-          {
-            "num": 555134,
-            "townName": "Pardubice",
-            "reg": 53,
-            "pct": 15.6,
-            "elected": 7
-          },
-          {
-            "num": 586846,
-            "townName": "Jihlava",
-            "reg": 53,
-            "pct": 22.67,
-            "elected": 10
-          },
-          {
-            "num": 582786,
-            "townName": "Brno",
-            "reg": 53,
-            "pct": 21.96,
-            "elected": 14
-          },
-          {
-            "num": 500496,
-            "townName": "Olomouc",
-            "reg": 53,
-            "pct": 24.18,
-            "elected": 14
-          },
-          {
-            "num": 585068,
-            "townName": "Zlín",
-            "reg": 53,
-            "pct": 12.97,
-            "elected": 6
-          },
-          {
-            "num": 554821,
-            "townName": "Ostrava",
-            "reg": 53,
-            "pct": 18.48,
-            "elected": 12
-          }
-        ],
-        "top10": [
-          {
-            "num": 562122,
-            "townName": "Boudy",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 537811,
-            "townName": "Sokoleč",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 509108,
-            "townName": "Kostelní Radouň",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 531219,
-            "townName": "Hředle",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 591068,
-            "townName": "Litovany",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 537217,
-            "townName": "Choťánky",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 539465,
-            "townName": "Praha-Lochkov",
-            "reg": 53,
-            "pct": 100,
-            "elected": 9
-          },
-          {
-            "num": 574856,
-            "townName": "Čeperka",
-            "reg": 53,
-            "pct": 100,
-            "elected": 15
-          },
-          {
-            "num": 535192,
-            "townName": "Spomyšl",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          },
-          {
-            "num": 541541,
-            "townName": "Voznice",
-            "reg": 53,
-            "pct": 100,
-            "elected": 7
-          }
-        ],
-        "elected": 5235
-      },
-      {
         "type": "snemovni-volby",
         "id": 2010,
         "date": 20100528,
@@ -3416,78 +3830,6 @@
         "reg": 53,
         "pct": 31.45,
         "elected": 9
-      },
-      {
-        "type": "krajske-volby",
-        "id": 2008,
-        "date": 20081017,
-        "list": [
-          {
-            "area": 1,
-            "reg": 53,
-            "elected": 25
-          },
-          {
-            "area": 2,
-            "reg": 53,
-            "elected": 19
-          },
-          {
-            "area": 3,
-            "reg": 53,
-            "elected": 14
-          },
-          {
-            "area": 4,
-            "reg": 53,
-            "elected": 9
-          },
-          {
-            "area": 5,
-            "reg": 53,
-            "elected": 13
-          },
-          {
-            "area": 6,
-            "reg": 53,
-            "elected": 12
-          },
-          {
-            "area": 7,
-            "reg": 53,
-            "elected": 13
-          },
-          {
-            "area": 8,
-            "reg": 53,
-            "elected": 11
-          },
-          {
-            "area": 9,
-            "reg": 53,
-            "elected": 11
-          },
-          {
-            "area": 10,
-            "reg": 53,
-            "elected": 11
-          },
-          {
-            "area": 11,
-            "reg": 53,
-            "elected": 13
-          },
-          {
-            "area": 12,
-            "reg": 53,
-            "elected": 11
-          },
-          {
-            "area": 13,
-            "reg": 53,
-            "elected": 18
-          }
-        ]
       },
       {
         "type": "senatni-volby",
@@ -3507,6 +3849,27 @@
             "elected": false,
             "round1": {
               "pct": 22.35,
+              "progress": false
+            }
+          },
+          {
+            "area": 15,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Ing.",
+              "Stanislav",
+              "Bernard",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 31.65,
+              "progress": true
+            },
+            "round2": {
+              "pct": 39.73,
               "progress": false
             }
           },
@@ -3567,6 +3930,27 @@
             },
             "round2": {
               "pct": 54.05,
+              "progress": true
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Zdeněk",
+              "Schwarz",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 25.78,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.21,
               "progress": true
             }
           },
@@ -3683,6 +4067,27 @@
             },
             "round2": {
               "pct": 40.03,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Doc.",
+              "Leoš",
+              "Heger",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 32.51,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.33,
               "progress": false
             }
           },
@@ -3925,6 +4330,99 @@
               "pct": 20.07,
               "progress": false
             }
+          },
+          {
+            "area": 9,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Doc.",
+              "Zdeněk",
+              "Rokyta",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 27.28,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.02,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2008,
+        "date": 20081017,
+        "list": [
+          {
+            "area": 1,
+            "reg": 53,
+            "elected": 25
+          },
+          {
+            "area": 2,
+            "reg": 53,
+            "elected": 19
+          },
+          {
+            "area": 3,
+            "reg": 53,
+            "elected": 14
+          },
+          {
+            "area": 4,
+            "reg": 53,
+            "elected": 9
+          },
+          {
+            "area": 5,
+            "reg": 53,
+            "elected": 13
+          },
+          {
+            "area": 6,
+            "reg": 53,
+            "elected": 12
+          },
+          {
+            "area": 7,
+            "reg": 53,
+            "elected": 13
+          },
+          {
+            "area": 8,
+            "reg": 53,
+            "elected": 11
+          },
+          {
+            "area": 9,
+            "reg": 53,
+            "elected": 11
+          },
+          {
+            "area": 10,
+            "reg": 53,
+            "elected": 11
+          },
+          {
+            "area": 11,
+            "reg": 53,
+            "elected": 13
+          },
+          {
+            "area": 12,
+            "reg": 53,
+            "elected": 11
+          },
+          {
+            "area": 13,
+            "reg": 53,
+            "elected": 18
           }
         ]
       },
@@ -4198,6 +4696,27 @@
         "date": 20061020,
         "list": [
           {
+            "area": 11,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "rozená",
+              "",
+              "Coolidge,",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 26.17,
+              "progress": true
+            },
+            "round2": {
+              "pct": 42.15,
+              "progress": false
+            }
+          },
+          {
             "area": 14,
             "reg": 53,
             "nominee": 53,
@@ -4258,6 +4777,27 @@
             }
           },
           {
+            "area": 20,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Tomáš",
+              "Töpfer",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 49.61,
+              "progress": true
+            },
+            "round2": {
+              "pct": 73.07,
+              "progress": true
+            }
+          },
+          {
             "area": 23,
             "reg": 53,
             "nominee": 53,
@@ -4294,6 +4834,27 @@
             },
             "round2": {
               "pct": 61.44,
+              "progress": true
+            }
+          },
+          {
+            "area": 29,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "RNDr.",
+              "Alexandr",
+              "Vondra",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 35.74,
+              "progress": true
+            },
+            "round2": {
+              "pct": 58.59,
               "progress": true
             }
           },
@@ -4682,6 +5243,91 @@
         "reg": 53,
         "pct": 35.38,
         "elected": 81
+      },
+      {
+        "type": "krajske-volby",
+        "id": 2004,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 1,
+            "reg": 53,
+            "pct": 44.65,
+            "elected": 32
+          },
+          {
+            "area": 2,
+            "reg": 53,
+            "pct": 44.19,
+            "elected": 27
+          },
+          {
+            "area": 3,
+            "reg": 53,
+            "pct": 41.29,
+            "elected": 22
+          },
+          {
+            "area": 4,
+            "reg": 53,
+            "pct": 40.25,
+            "elected": 21
+          },
+          {
+            "area": 5,
+            "reg": 53,
+            "pct": 39.62,
+            "elected": 28
+          },
+          {
+            "area": 6,
+            "reg": 53,
+            "pct": 36.05,
+            "elected": 22
+          },
+          {
+            "area": 7,
+            "reg": 53,
+            "pct": 39.28,
+            "elected": 21
+          },
+          {
+            "area": 8,
+            "reg": 53,
+            "pct": 34.45,
+            "elected": 18
+          },
+          {
+            "area": 9,
+            "reg": 53,
+            "pct": 29.47,
+            "elected": 15
+          },
+          {
+            "area": 10,
+            "reg": 53,
+            "pct": 25.8,
+            "elected": 19
+          },
+          {
+            "area": 11,
+            "reg": 53,
+            "pct": 30.56,
+            "elected": 21
+          },
+          {
+            "area": 12,
+            "reg": 53,
+            "pct": 30.08,
+            "elected": 16
+          },
+          {
+            "area": 13,
+            "reg": 53,
+            "pct": 37.87,
+            "elected": 29
+          }
+        ]
       },
       {
         "type": "senatni-volby",
@@ -5239,91 +5885,6 @@
         ]
       },
       {
-        "type": "krajske-volby",
-        "id": 2004,
-        "date": 20041105,
-        "list": [
-          {
-            "area": 1,
-            "reg": 53,
-            "pct": 44.65,
-            "elected": 32
-          },
-          {
-            "area": 2,
-            "reg": 53,
-            "pct": 44.19,
-            "elected": 27
-          },
-          {
-            "area": 3,
-            "reg": 53,
-            "pct": 41.29,
-            "elected": 22
-          },
-          {
-            "area": 4,
-            "reg": 53,
-            "pct": 40.25,
-            "elected": 21
-          },
-          {
-            "area": 5,
-            "reg": 53,
-            "pct": 39.62,
-            "elected": 28
-          },
-          {
-            "area": 6,
-            "reg": 53,
-            "pct": 36.05,
-            "elected": 22
-          },
-          {
-            "area": 7,
-            "reg": 53,
-            "pct": 39.28,
-            "elected": 21
-          },
-          {
-            "area": 8,
-            "reg": 53,
-            "pct": 34.45,
-            "elected": 18
-          },
-          {
-            "area": 9,
-            "reg": 53,
-            "pct": 29.47,
-            "elected": 15
-          },
-          {
-            "area": 10,
-            "reg": 53,
-            "pct": 25.8,
-            "elected": 19
-          },
-          {
-            "area": 11,
-            "reg": 53,
-            "pct": 30.56,
-            "elected": 21
-          },
-          {
-            "area": 12,
-            "reg": 53,
-            "pct": 30.08,
-            "elected": 16
-          },
-          {
-            "area": 13,
-            "reg": 53,
-            "pct": 37.87,
-            "elected": 29
-          }
-        ]
-      },
-      {
         "type": "senatni-volby",
         "id": 20041008,
         "date": 20041008,
@@ -5346,6 +5907,27 @@
             "round2": {
               "pct": 60.12,
               "progress": true
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "M.",
+              "Jaroslav",
+              "Pařík",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 29.32,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.68,
+              "progress": false
             }
           }
         ]
@@ -5810,6 +6392,27 @@
             }
           },
           {
+            "area": 72,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Prof.",
+              "Václav",
+              "Roubíček",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 42.32,
+              "progress": true
+            },
+            "round2": {
+              "pct": 51.45,
+              "progress": true
+            }
+          },
+          {
             "area": 75,
             "reg": 53,
             "nominee": 53,
@@ -5990,6 +6593,23 @@
         "date": 20001112,
         "list": [
           {
+            "area": 11,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "Mgr.",
+              "Pavel",
+              "Faschingbauer",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 18.01,
+              "progress": false
+            }
+          },
+          {
             "area": 14,
             "reg": 53,
             "nominee": 53,
@@ -6026,6 +6646,27 @@
             },
             "round2": {
               "pct": 37.74,
+              "progress": false
+            }
+          },
+          {
+            "area": 2,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "PaedDr.",
+              "Karel",
+              "Černík",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 23.13,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.21,
               "progress": false
             }
           },
@@ -6198,6 +6839,27 @@
             },
             "round2": {
               "pct": 35.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Miloslav",
+              "Čermák",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 28.92,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.62,
               "progress": false
             }
           },
@@ -6402,6 +7064,27 @@
             }
           },
           {
+            "area": 8,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "MUDr.",
+              "Luděk",
+              "Sefzig",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": true,
+            "round1": {
+              "pct": 22.15,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.76,
+              "progress": true
+            }
+          },
+          {
             "area": 80,
             "reg": 53,
             "nominee": 53,
@@ -6414,6 +7097,30 @@
             "elected": false,
             "round1": {
               "pct": 13.21,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 19990828,
+        "date": 19990828,
+        "list": [
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jiřina",
+              "Jirásková",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 12.19,
               "progress": false
             }
           }
@@ -6482,6 +7189,27 @@
             "round2": {
               "pct": 59.52,
               "progress": true
+            }
+          },
+          {
+            "area": 16,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "prof.",
+              "Milan",
+              "Knížák",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 30.49,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.8,
+              "progress": false
             }
           },
           {
@@ -7365,6 +8093,27 @@
             "round2": {
               "pct": 60.6,
               "progress": true
+            }
+          },
+          {
+            "area": 3,
+            "reg": 99,
+            "nominee": 53,
+            "candidate": [
+              "",
+              "Jiří",
+              "Gruša",
+              ""
+            ],
+            "name": "Občanská demokratická strana",
+            "elected": false,
+            "round1": {
+              "pct": 38.68,
+              "progress": true
+            },
+            "round2": {
+              "pct": 42.19,
+              "progress": false
             }
           },
           {

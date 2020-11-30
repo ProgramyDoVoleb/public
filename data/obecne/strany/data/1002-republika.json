@@ -35,6 +35,74 @@
         "date": 20141010,
         "list": [
           {
+            "area": 12,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Krejča",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 6.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "Mgr.",
+              "Dimiter",
+              "Petrov",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 0.21,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "Uwe",
+              "Ludvík",
+              "Vaník",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 0.63,
+              "progress": false
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "Mgr.",
+              "Eva",
+              "Jurinová",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 1.83,
+              "progress": false
+            }
+          },
+          {
             "area": 30,
             "reg": 1002,
             "nominee": 1002,
@@ -51,6 +119,40 @@
             }
           },
           {
+            "area": 42,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "MUDr.",
+              "Pavel",
+              "Lebeda",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 2.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "prof.",
+              "Miloš",
+              "Janeček",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 3.78,
+              "progress": false
+            }
+          },
+          {
             "area": 66,
             "reg": 1002,
             "nominee": 1002,
@@ -63,6 +165,23 @@
             "elected": false,
             "round1": {
               "pct": 0.95,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 1002,
+            "candidate": [
+              "PaedDr.",
+              "Olga",
+              "Křížová",
+              ""
+            ],
+            "name": "Republika",
+            "elected": false,
+            "round1": {
+              "pct": 3.09,
               "progress": false
             }
           }

@@ -570,6 +570,30 @@
       },
       {
         "type": "senatni-volby",
+        "id": 20041105,
+        "date": 20041105,
+        "list": [
+          {
+            "area": 70,
+            "reg": 99,
+            "nominee": 112,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Broulík",
+              ""
+            ],
+            "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
+            "elected": false,
+            "round1": {
+              "pct": 0.62,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
         "id": 20021025,
         "date": 20021025,
         "list": [

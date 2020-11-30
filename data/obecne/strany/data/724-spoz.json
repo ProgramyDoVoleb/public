@@ -28,6 +28,47 @@
     "last": 20181005,
     "list": [
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 32,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "PhDr.",
+              "Terezie",
+              "Holovská",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 1.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 80,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "doc.",
+              "Jan",
+              "Popelka",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 6.36,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -483,6 +524,23 @@
             }
           },
           {
+            "area": 27,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "",
+              "Milan",
+              "Jurových",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 0.59,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 724,
             "nominee": 724,
@@ -575,6 +633,23 @@
             "elected": false,
             "round1": {
               "pct": 3.11,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "MUDr.",
+              "Petr",
+              "Guziana",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 1.84,
               "progress": false
             }
           },
@@ -832,6 +907,23 @@
         "id": 20121012,
         "date": 20121012,
         "list": [
+          {
+            "area": 11,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "JUDr.",
+              "Jiřina",
+              "Rippelová",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 17.58,
+              "progress": false
+            }
+          },
           {
             "area": 14,
             "reg": 724,
@@ -1121,6 +1213,23 @@
             "elected": false,
             "round1": {
               "pct": 2.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 724,
+            "candidate": [
+              "Ing.",
+              "Jaromír",
+              "Dušek",
+              ""
+            ],
+            "name": "Strana Práv Občanů ZEMANOVCI",
+            "elected": false,
+            "round1": {
+              "pct": 8.31,
               "progress": false
             }
           },

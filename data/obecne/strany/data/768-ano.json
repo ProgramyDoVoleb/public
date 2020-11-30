@@ -35,6 +35,23 @@
             }
           },
           {
+            "area": 15,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Vítězslav",
+              "Jandák",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 12.09,
+              "progress": false
+            }
+          },
+          {
             "area": 3,
             "reg": 768,
             "nominee": 768,
@@ -51,6 +68,40 @@
             },
             "round2": {
               "pct": 29.68,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Michaela",
+              "Vojtová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 11.65,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Anděl",
+              "CSc."
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 19.14,
               "progress": false
             }
           },
@@ -115,6 +166,40 @@
             }
           },
           {
+            "area": 51,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Libor",
+              "Černý",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 14.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Martin",
+              "Pavlík",
+              "Ph.D., EDIC, DESA"
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 20.18,
+              "progress": false
+            }
+          },
+          {
             "area": 57,
             "reg": 768,
             "nominee": 768,
@@ -143,6 +228,23 @@
             "elected": false,
             "round1": {
               "pct": 19.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 60,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "prof. Ing.",
+              "Karel",
+              "Rais",
+              "CSc., MBA"
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.93,
               "progress": false
             }
           },
@@ -183,6 +285,23 @@
             },
             "round2": {
               "pct": 31.23,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Bc.",
+              "Radim",
+              "Mamula",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.08,
               "progress": false
             }
           },
@@ -368,189 +487,6 @@
         ]
       },
       {
-        "type": "senatni-volby",
-        "id": 20181005,
-        "date": 20181005,
-        "list": [
-          {
-            "area": 11,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "JUDr.",
-              "Miroslav",
-              "Vokáč",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.65,
-              "progress": false
-            }
-          },
-          {
-            "area": 17,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Ivan",
-              "Pilný",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.51,
-              "progress": false
-            }
-          },
-          {
-            "area": 2,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Renata",
-              "Oulehlová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 25.72,
-              "progress": true
-            },
-            "round2": {
-              "pct": 40.52,
-              "progress": false
-            }
-          },
-          {
-            "area": 26,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "MUDr.",
-              "Roman",
-              "Kerekeš",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 8.6,
-              "progress": false
-            }
-          },
-          {
-            "area": 29,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "MUDr.",
-              "Ondřej",
-              "Štěrba",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.53,
-              "progress": true
-            },
-            "round2": {
-              "pct": 43.59,
-              "progress": false
-            }
-          },
-          {
-            "area": 38,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Jiří",
-              "Müller",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 17.9,
-              "progress": true
-            },
-            "round2": {
-              "pct": 38.03,
-              "progress": false
-            }
-          },
-          {
-            "area": 41,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Jiří",
-              "Švadlena",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.2,
-              "progress": false
-            }
-          },
-          {
-            "area": 47,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Petr",
-              "Koleta",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 22.47,
-              "progress": false
-            }
-          },
-          {
-            "area": 62,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Irena",
-              "Blažková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 12.67,
-              "progress": false
-            }
-          },
-          {
-            "area": 68,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Mgr.",
-              "Simona",
-              "Horáková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 21.54,
-              "progress": true
-            },
-            "round2": {
-              "pct": 31.49,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
         "type": "komunalni-volby",
         "id": 2018,
         "date": 20181005,
@@ -724,6 +660,469 @@
         "elected": 1695
       },
       {
+        "type": "senatni-volby",
+        "id": 20181005,
+        "date": 20181005,
+        "list": [
+          {
+            "area": 11,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Vokáč",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.65,
+              "progress": false
+            }
+          },
+          {
+            "area": 17,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Ivan",
+              "Pilný",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.51,
+              "progress": false
+            }
+          },
+          {
+            "area": 2,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Renata",
+              "Oulehlová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 25.72,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.52,
+              "progress": false
+            }
+          },
+          {
+            "area": 20,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "prof.",
+              "Eva",
+              "Syková",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.06,
+              "progress": false
+            }
+          },
+          {
+            "area": 23,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Haramul",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 12.69,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Roman",
+              "Kerekeš",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 8.6,
+              "progress": false
+            }
+          },
+          {
+            "area": 29,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Ondřej",
+              "Štěrba",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.53,
+              "progress": true
+            },
+            "round2": {
+              "pct": 43.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 35,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Josef",
+              "Chuchlík",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 17.61,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Jiří",
+              "Müller",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.9,
+              "progress": true
+            },
+            "round2": {
+              "pct": 38.03,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Švadlena",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.2,
+              "progress": false
+            }
+          },
+          {
+            "area": 44,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Petr",
+              "Novák",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 7.4,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Petr",
+              "Koleta",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 22.47,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Martina",
+              "Chodacká",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 21.35,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.47,
+              "progress": false
+            }
+          },
+          {
+            "area": 53,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Miroslav",
+              "Michálek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 14.77,
+              "progress": true
+            },
+            "round2": {
+              "pct": 22.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 56,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Libor",
+              "Nazarčuk",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 20.67,
+              "progress": true
+            },
+            "round2": {
+              "pct": 35.96,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Jaromír",
+              "Ostrý",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 18.7,
+              "progress": true
+            },
+            "round2": {
+              "pct": 27.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 62,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Irena",
+              "Blažková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 12.67,
+              "progress": false
+            }
+          },
+          {
+            "area": 65,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Miroslav",
+              "Adámek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 29.21,
+              "progress": true
+            },
+            "round2": {
+              "pct": 60.55,
+              "progress": true
+            }
+          },
+          {
+            "area": 68,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Simona",
+              "Horáková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.54,
+              "progress": true
+            },
+            "round2": {
+              "pct": 31.49,
+              "progress": false
+            }
+          },
+          {
+            "area": 71,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Ivo",
+              "Gondek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 19.19,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 74,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Matěj",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.83,
+              "progress": false
+            }
+          },
+          {
+            "area": 8,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Lucie",
+              "Groene",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.22,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180518,
+        "date": 20180518,
+        "list": [
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Doc.",
+              "Michal",
+              "Filip",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 12.98,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20180105,
+        "date": 20180105,
+        "list": [
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Hlavatý",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 25.21,
+              "progress": true
+            },
+            "round2": {
+              "pct": 32.88,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "snemovni-volby",
         "id": 2017,
         "date": 20171020,
@@ -749,6 +1148,482 @@
             "elected": false,
             "round1": {
               "pct": 6.69,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20161007,
+        "date": 20161007,
+        "list": [
+          {
+            "area": 1,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Josef",
+              "Váňa",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 18.96,
+              "progress": true
+            },
+            "round2": {
+              "pct": 33.82,
+              "progress": false
+            }
+          },
+          {
+            "area": 13,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Jaroslav",
+              "Větrovský",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 17.83,
+              "progress": true
+            },
+            "round2": {
+              "pct": 59.83,
+              "progress": true
+            }
+          },
+          {
+            "area": 16,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Bohumil",
+              "Stibal",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.78,
+              "progress": true
+            },
+            "round2": {
+              "pct": 36.85,
+              "progress": false
+            }
+          },
+          {
+            "area": 19,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "prof.",
+              "Helena",
+              "Válková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.23,
+              "progress": true
+            },
+            "round2": {
+              "pct": 44.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "prof.",
+              "Eva",
+              "Kislingerová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.12,
+              "progress": false
+            }
+          },
+          {
+            "area": 25,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Vlastimil",
+              "Harapes",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.3,
+              "progress": false
+            }
+          },
+          {
+            "area": 28,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Igor",
+              "Karen",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 17.8,
+              "progress": false
+            }
+          },
+          {
+            "area": 31,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Prof.",
+              "František",
+              "Holešovský",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.33,
+              "progress": true
+            },
+            "round2": {
+              "pct": 42.1,
+              "progress": false
+            }
+          },
+          {
+            "area": 34,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Marek",
+              "Vávra",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.38,
+              "progress": true
+            },
+            "round2": {
+              "pct": 19.81,
+              "progress": false
+            }
+          },
+          {
+            "area": 37,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Jan",
+              "Malý",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 25.11,
+              "progress": true
+            },
+            "round2": {
+              "pct": 40.86,
+              "progress": false
+            }
+          },
+          {
+            "area": 40,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Prof.",
+              "Julius",
+              "Špičák",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 17.54,
+              "progress": false
+            }
+          },
+          {
+            "area": 43,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jaroslav",
+              "Menšík",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.57,
+              "progress": true
+            },
+            "round2": {
+              "pct": 29.7,
+              "progress": false
+            }
+          },
+          {
+            "area": 46,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Jan",
+              "Lipavský",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 18.61,
+              "progress": true
+            },
+            "round2": {
+              "pct": 36.07,
+              "progress": false
+            }
+          },
+          {
+            "area": 49,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Míšenský",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 11.03,
+              "progress": false
+            }
+          },
+          {
+            "area": 52,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Zdeněk",
+              "Faltus",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.34,
+              "progress": false
+            }
+          },
+          {
+            "area": 55,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Staněk",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.65,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.36,
+              "progress": false
+            }
+          },
+          {
+            "area": 58,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Jiří",
+              "Dušek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 28.16,
+              "progress": true
+            },
+            "round2": {
+              "pct": 51.94,
+              "progress": true
+            }
+          },
+          {
+            "area": 61,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Milan",
+              "Brázdil",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 33.18,
+              "progress": true
+            },
+            "round2": {
+              "pct": 47.55,
+              "progress": false
+            }
+          },
+          {
+            "area": 64,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Ladislav",
+              "Václavec",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 24.88,
+              "progress": true
+            },
+            "round2": {
+              "pct": 53.4,
+              "progress": true
+            }
+          },
+          {
+            "area": 67,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Jiří",
+              "Strýček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 18.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 7,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Miloslava",
+              "Rutová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 16.79,
+              "progress": false
+            }
+          },
+          {
+            "area": 70,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Radim",
+              "Babinec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.39,
+              "progress": false
+            }
+          },
+          {
+            "area": 73,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Ivo",
+              "Raška",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 16.28,
+              "progress": false
+            }
+          },
+          {
+            "area": 76,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Hašek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 16.07,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.51,
+              "progress": false
+            }
+          },
+          {
+            "area": 79,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Josef",
+              "Zimovčák",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 17.77,
               "progress": false
             }
           }
@@ -823,420 +1698,6 @@
             "area": 13,
             "reg": 768,
             "elected": 22
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20161007,
-        "date": 20161007,
-        "list": [
-          {
-            "area": 16,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Bohumil",
-              "Stibal",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 16.78,
-              "progress": true
-            },
-            "round2": {
-              "pct": 36.85,
-              "progress": false
-            }
-          },
-          {
-            "area": 19,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "prof.",
-              "Helena",
-              "Válková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.23,
-              "progress": true
-            },
-            "round2": {
-              "pct": 44.1,
-              "progress": false
-            }
-          },
-          {
-            "area": 37,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "JUDr.",
-              "Jan",
-              "Malý",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 25.11,
-              "progress": true
-            },
-            "round2": {
-              "pct": 40.86,
-              "progress": false
-            }
-          },
-          {
-            "area": 40,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Prof.",
-              "Julius",
-              "Špičák",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 17.54,
-              "progress": false
-            }
-          },
-          {
-            "area": 43,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Jaroslav",
-              "Menšík",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.57,
-              "progress": true
-            },
-            "round2": {
-              "pct": 29.7,
-              "progress": false
-            }
-          },
-          {
-            "area": 49,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Jiří",
-              "Míšenský",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 11.03,
-              "progress": false
-            }
-          },
-          {
-            "area": 52,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "MUDr.",
-              "Zdeněk",
-              "Faltus",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.34,
-              "progress": false
-            }
-          },
-          {
-            "area": 55,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Pavel",
-              "Staněk",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.65,
-              "progress": true
-            },
-            "round2": {
-              "pct": 47.36,
-              "progress": false
-            }
-          },
-          {
-            "area": 61,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "MUDr.",
-              "Milan",
-              "Brázdil",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 33.18,
-              "progress": true
-            },
-            "round2": {
-              "pct": 47.55,
-              "progress": false
-            }
-          },
-          {
-            "area": 67,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Jiří",
-              "Strýček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 18.9,
-              "progress": false
-            }
-          },
-          {
-            "area": 7,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Mgr.",
-              "Miloslava",
-              "Rutová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 16.79,
-              "progress": false
-            }
-          },
-          {
-            "area": 70,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Mgr.",
-              "Radim",
-              "Babinec",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.39,
-              "progress": false
-            }
-          }
-        ]
-      },
-      {
-        "type": "senatni-volby",
-        "id": 20141010,
-        "date": 20141010,
-        "list": [
-          {
-            "area": 12,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Mario",
-              "Vlček",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 9.46,
-              "progress": false
-            }
-          },
-          {
-            "area": 3,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Jiří",
-              "Dufka",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 21.86,
-              "progress": true
-            },
-            "round2": {
-              "pct": 44.64,
-              "progress": false
-            }
-          },
-          {
-            "area": 30,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "MUDr.",
-              "Jiří",
-              "LANDA",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.89,
-              "progress": false
-            }
-          },
-          {
-            "area": 33,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Bc.",
-              "Marcela",
-              "Dvořáčková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.95,
-              "progress": false
-            }
-          },
-          {
-            "area": 36,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Bc.",
-              "Milan",
-              "Adamec",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.49,
-              "progress": false
-            }
-          },
-          {
-            "area": 42,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Regina",
-              "Davídková",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 15.93,
-              "progress": false
-            }
-          },
-          {
-            "area": 48,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "",
-              "Petr",
-              "Sadovský",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 13.72,
-              "progress": false
-            }
-          },
-          {
-            "area": 57,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Pavel",
-              "Zůna",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 20.28,
-              "progress": false
-            }
-          },
-          {
-            "area": 60,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "doc.Ing.arch.PhDr.",
-              "Karel",
-              "Schmeidler",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 14.88,
-              "progress": false
-            }
-          },
-          {
-            "area": 63,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Ing.",
-              "Antonín",
-              "Prachař",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 30.17,
-              "progress": true
-            },
-            "round2": {
-              "pct": 45.73,
-              "progress": false
-            }
-          },
-          {
-            "area": 9,
-            "reg": 768,
-            "nominee": 768,
-            "candidate": [
-              "Mgr.",
-              "Miloslava",
-              "Rutová",
-              ""
-            ],
-            "elected": false,
-            "round1": {
-              "pct": 19.09,
-              "progress": false
-            }
           }
         ]
       },
@@ -1421,6 +1882,508 @@
         "elected": 1625
       },
       {
+        "type": "senatni-volby",
+        "id": 20141010,
+        "date": 20141010,
+        "list": [
+          {
+            "area": 12,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Mario",
+              "Vlček",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 9.46,
+              "progress": false
+            }
+          },
+          {
+            "area": 15,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Josef",
+              "Fučík",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.84,
+              "progress": false
+            }
+          },
+          {
+            "area": 18,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Vladimír",
+              "Danda",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 21.02,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.53,
+              "progress": false
+            }
+          },
+          {
+            "area": 21,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Doc.",
+              "Věra",
+              "Adámková",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.76,
+              "progress": false
+            }
+          },
+          {
+            "area": 24,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Zuzana",
+              "Baudyšová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 37.02,
+              "progress": true
+            },
+            "round2": {
+              "pct": 62.53,
+              "progress": true
+            }
+          },
+          {
+            "area": 27,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Doc.",
+              "Laura",
+              "Janáčková",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 13.26,
+              "progress": false
+            }
+          },
+          {
+            "area": 3,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Dufka",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 21.86,
+              "progress": true
+            },
+            "round2": {
+              "pct": 44.64,
+              "progress": false
+            }
+          },
+          {
+            "area": 30,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Jiří",
+              "LANDA",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.89,
+              "progress": false
+            }
+          },
+          {
+            "area": 33,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Bc.",
+              "Marcela",
+              "Dvořáčková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.95,
+              "progress": false
+            }
+          },
+          {
+            "area": 36,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Bc.",
+              "Milan",
+              "Adamec",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.49,
+              "progress": false
+            }
+          },
+          {
+            "area": 39,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jiří",
+              "Hlavatý",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 34.39,
+              "progress": true
+            },
+            "round2": {
+              "pct": 63.94,
+              "progress": true
+            }
+          },
+          {
+            "area": 42,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Regina",
+              "Davídková",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 15.93,
+              "progress": false
+            }
+          },
+          {
+            "area": 45,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Přemysl",
+              "Škácha",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.15,
+              "progress": false
+            }
+          },
+          {
+            "area": 48,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Petr",
+              "Sadovský",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 13.72,
+              "progress": false
+            }
+          },
+          {
+            "area": 54,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "doc.",
+              "Petr",
+              "Firbas",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 9.27,
+              "progress": false
+            }
+          },
+          {
+            "area": 57,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Pavel",
+              "Zůna",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 20.28,
+              "progress": false
+            }
+          },
+          {
+            "area": 6,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Zdeňka",
+              "Hamousová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 25.79,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.31,
+              "progress": true
+            }
+          },
+          {
+            "area": 60,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "doc.Ing.arch.PhDr.",
+              "Karel",
+              "Schmeidler",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 14.88,
+              "progress": false
+            }
+          },
+          {
+            "area": 63,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Antonín",
+              "Prachař",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 30.17,
+              "progress": true
+            },
+            "round2": {
+              "pct": 45.73,
+              "progress": false
+            }
+          },
+          {
+            "area": 66,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Jan",
+              "Zahradníček",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 25.34,
+              "progress": true
+            },
+            "round2": {
+              "pct": 46.12,
+              "progress": false
+            }
+          },
+          {
+            "area": 69,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "Stanislav",
+              "Fridrich",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 19.25,
+              "progress": false
+            }
+          },
+          {
+            "area": 72,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "doc.",
+              "Peter",
+              "Koliba",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": true,
+            "round1": {
+              "pct": 20.04,
+              "progress": true
+            },
+            "round2": {
+              "pct": 52.93,
+              "progress": true
+            }
+          },
+          {
+            "area": 75,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "MUDr.",
+              "Martin",
+              "Gebauer",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 21.55,
+              "progress": true
+            },
+            "round2": {
+              "pct": 37.36,
+              "progress": false
+            }
+          },
+          {
+            "area": 78,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Aloisie",
+              "Jurkovičová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 6.59,
+              "progress": false
+            }
+          },
+          {
+            "area": 81,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "doc.",
+              "Zdeněk",
+              "Botek",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 11.9,
+              "progress": false
+            }
+          },
+          {
+            "area": 9,
+            "reg": 768,
+            "nominee": 768,
+            "candidate": [
+              "Mgr.",
+              "Miloslava",
+              "Rutová",
+              ""
+            ],
+            "elected": false,
+            "round1": {
+              "pct": 19.09,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20140919,
+        "date": 20140919,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "prof.",
+              "Jana",
+              "Dušková",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 15.59,
+              "progress": true
+            },
+            "round2": {
+              "pct": 49.08,
+              "progress": false
+            }
+          }
+        ]
+      },
+      {
         "type": "evropske-volby",
         "id": 2014,
         "date": 20140523,
@@ -1454,6 +2417,108 @@
             "elected": false,
             "round1": {
               "pct": 4.92,
+              "progress": false
+            }
+          },
+          {
+            "area": 26,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "JUDr.",
+              "Milan",
+              "Hulík",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 3.48,
+              "progress": false
+            }
+          },
+          {
+            "area": 38,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "Ing.",
+              "František",
+              "Petrtýl",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 7.4,
+              "progress": false
+            }
+          },
+          {
+            "area": 41,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "PaedDr.Bc.",
+              "Ivana",
+              "Dobešová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 7.25,
+              "progress": false
+            }
+          },
+          {
+            "area": 47,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Václava",
+              "Domšová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 8.35,
+              "progress": false
+            }
+          },
+          {
+            "area": 5,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "",
+              "Milada",
+              "Benešová",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 6.94,
+              "progress": false
+            }
+          },
+          {
+            "area": 59,
+            "reg": 99,
+            "nominee": 768,
+            "candidate": [
+              "prof.",
+              "Rostislav",
+              "Vyzula",
+              ""
+            ],
+            "name": "ANO 2011",
+            "elected": false,
+            "round1": {
+              "pct": 6.06,
               "progress": false
             }
           }

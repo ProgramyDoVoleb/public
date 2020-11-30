@@ -143,6 +143,30 @@
           }
         ],
         "elected": 8
+      },
+      {
+        "type": "senatni-volby",
+        "id": 20140919,
+        "date": 20140919,
+        "list": [
+          {
+            "area": 22,
+            "reg": 99,
+            "nominee": 787,
+            "candidate": [
+              "Ing.",
+              "Miroslav",
+              "Kos",
+              ""
+            ],
+            "name": "Sdružení nezávislých občanů Prahy",
+            "elected": false,
+            "round1": {
+              "pct": 3.01,
+              "progress": false
+            }
+          }
+        ]
       }
     ]
   },
