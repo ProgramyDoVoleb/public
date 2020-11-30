@@ -19,21 +19,27 @@
       "missing": 345,
       "lastUpdate": 1606750472475
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6536",
     "https://facebook.com/premysl.malis.ano",
     "https://twitter.com/Premysl_Malis",
     "https://nasipolitici.cz/detail/premysl-malis-1",
-    "https://hlidacstatu.cz/osoba/premysl-malis-1"
+    "https://hlidacstatu.cz/osoba/premysl-malis-1",
+    "malisp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/premysl.malis.ano",
     "https://twitter.com/Premysl_Malis"
   ],
   "sex": 1,
-  "born": "1980-01-28",
+  "born": "1980-1-28",
   "work": "poslanec",
   "hash": "malis-premysl-80-6427",
   "photo": {

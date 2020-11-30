@@ -19,7 +19,12 @@
       "missing": 136,
       "lastUpdate": 1606750472044
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6454",
@@ -27,14 +32,15 @@
     "https://twitter.com/RadekHolomcik",
     "https://facebook.com/radek.holomcik",
     "https://nasipolitici.cz/detail/radek-holomcik",
-    "https://hlidacstatu.cz/osoba/radek-holomcik"
+    "https://hlidacstatu.cz/osoba/radek-holomcik",
+    "holomcikr@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/holomcik",
     "https://twitter.com/RadekHolomcik"
   ],
   "sex": 1,
-  "born": "1985-07-31",
+  "born": "1985-7-31",
   "work": "poslanec",
   "hash": "holomcik-radek-85-3102",
   "photo": {

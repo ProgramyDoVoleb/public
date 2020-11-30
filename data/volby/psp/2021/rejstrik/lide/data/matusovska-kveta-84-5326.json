@@ -19,19 +19,25 @@
       "missing": 242,
       "lastUpdate": 1606750472505
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5938",
     "https://facebook.com/Ing-Kv%C4%9Bta-Matu%C5%A1ovsk%C3%A1-910433849071337",
     "https://nasipolitici.cz/detail/kveta-matusovska",
-    "https://hlidacstatu.cz/osoba/kveta-matusovska"
+    "https://hlidacstatu.cz/osoba/kveta-matusovska",
+    "koncickak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Ing-Kv%C4%9Bta-Matu%C5%A1ovsk%C3%A1-910433849071337"
   ],
   "sex": 2,
-  "born": "1984-06-04",
+  "born": "1984-6-4",
   "work": "poslankyně",
   "hash": "matusovska-kveta-84-5326",
   "photo": {

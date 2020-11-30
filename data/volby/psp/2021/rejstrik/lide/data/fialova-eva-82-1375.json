@@ -19,19 +19,25 @@
       "missing": 139,
       "lastUpdate": 1606750471891
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6457",
     "https://facebook.com/eva.fialova.79",
     "https://nasipolitici.cz/detail/eva-fialova-8",
-    "https://hlidacstatu.cz/osoba/eva-fialova-8"
+    "https://hlidacstatu.cz/osoba/eva-fialova-8",
+    "fialovae@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/eva.fialova.79"
   ],
   "sex": 2,
-  "born": "1982-02-13",
+  "born": "1982-2-13",
   "work": "poslankyně",
   "hash": "fialova-eva-82-1375",
   "photo": {

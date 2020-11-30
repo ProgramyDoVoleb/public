@@ -19,7 +19,12 @@
       "missing": 47,
       "lastUpdate": 1606750472077
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6459",
@@ -29,14 +34,15 @@
     "https://instagram.com/jandys.j",
     "https://facebook.com/jakub.janda.1610",
     "https://nasipolitici.cz/detail/jakub-janda",
-    "https://hlidacstatu.cz/osoba/jakub-janda"
+    "https://hlidacstatu.cz/osoba/jakub-janda",
+    "jandaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jandysj",
     "https://twitter.com/jandysj"
   ],
   "sex": 1,
-  "born": "1978-04-27",
+  "born": "1978-4-27",
   "work": "poslanec",
   "hash": "janda-jakub-78-9582",
   "photo": {

@@ -19,20 +19,26 @@
       "missing": 303,
       "lastUpdate": 1606750472670
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6224",
     "https://facebook.com/OndracekZdenek",
     "https://facebook.com/zdenek.ondracek.56",
     "https://nasipolitici.cz/detail/zdenek-ondracek",
-    "https://hlidacstatu.cz/osoba/zdenek-ondracek"
+    "https://hlidacstatu.cz/osoba/zdenek-ondracek",
+    "ondracekz@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/OndracekZdenek"
   ],
   "sex": 1,
-  "born": "1969-07-28",
+  "born": "1969-7-28",
   "work": "poslanec",
   "hash": "ondracek-zdenek-69-1715",
   "photo": {

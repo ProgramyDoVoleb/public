@@ -19,21 +19,27 @@
       "missing": 460,
       "lastUpdate": 1606750471755
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5261",
     "https://facebook.com/jiridolejs.dosnemovny",
     "https://twitter.com/DolejsJiri",
     "https://nasipolitici.cz/detail/jiri-dolejs",
-    "https://hlidacstatu.cz/osoba/jiri-dolejs"
+    "https://hlidacstatu.cz/osoba/jiri-dolejs",
+    "dolejsj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jiridolejs.dosnemovny",
     "https://twitter.com/DolejsJiri"
   ],
   "sex": 1,
-  "born": "1961-01-24",
+  "born": "1961-1-24",
   "work": "poslanec",
   "hash": "dolejs-jiri-61-5000",
   "photo": {

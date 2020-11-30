@@ -19,20 +19,26 @@
       "missing": 168,
       "lastUpdate": 1606750472419
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6537",
     "https://twitter.com/JanLipavsky",
     "https://facebook.com/honzyk",
     "https://nasipolitici.cz/detail/jan-lipavsky-2",
-    "https://hlidacstatu.cz/osoba/jan-lipavsky-2"
+    "https://hlidacstatu.cz/osoba/jan-lipavsky-2",
+    "lipavskyj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/JanLipavsky"
   ],
   "sex": 1,
-  "born": "1985-07-02",
+  "born": "1985-7-2",
   "work": "poslanec",
   "hash": "lipavsky-jan-85-9264",
   "photo": {

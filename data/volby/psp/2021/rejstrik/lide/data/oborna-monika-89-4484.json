@@ -19,7 +19,12 @@
       "missing": 163,
       "lastUpdate": 1606750472616
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6475",
@@ -28,14 +33,15 @@
     "https://twitter.com/ObornaMonika",
     "https://facebook.com/monika.oborna.1",
     "https://nasipolitici.cz/detail/monika-oborna",
-    "https://hlidacstatu.cz/osoba/monika-oborna"
+    "https://hlidacstatu.cz/osoba/monika-oborna",
+    "obornam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/ObornaMonika",
     "https://twitter.com/ObornaMonika"
   ],
   "sex": 2,
-  "born": "1989-04-02",
+  "born": "1989-4-2",
   "work": "poslankyně",
   "hash": "oborna-monika-89-4484",
   "photo": {

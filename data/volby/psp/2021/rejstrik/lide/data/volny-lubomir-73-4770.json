@@ -19,7 +19,12 @@
       "missing": 308,
       "lastUpdate": 1606750473199
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6481",
@@ -28,14 +33,15 @@
     "https://twitter.com/lubomir_volny",
     "https://facebook.com/lubomir.volny.777",
     "https://nasipolitici.cz/detail/lubomir-volny-1",
-    "https://hlidacstatu.cz/osoba/lubomir-volny-1"
+    "https://hlidacstatu.cz/osoba/lubomir-volny-1",
+    "volnyl@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Mgr-Lubom%C3%ADr-Voln%C3%BD-193203844428379",
     "https://twitter.com/lubomir_volny"
   ],
   "sex": 1,
-  "born": "1973-07-03",
+  "born": "1973-7-3",
   "work": "poslanec",
   "hash": "volny-lubomir-73-4770",
   "photo": {

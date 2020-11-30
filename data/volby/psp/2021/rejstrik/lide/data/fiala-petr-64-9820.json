@@ -19,7 +19,12 @@
       "missing": 688,
       "lastUpdate": 1606750471877
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6074",
@@ -27,14 +32,15 @@
     "https://facebook.com/petr.fiala1964",
     "https://twitter.com/p_fiala",
     "https://nasipolitici.cz/detail/petr-fiala",
-    "https://hlidacstatu.cz/osoba/petr-fiala"
+    "https://hlidacstatu.cz/osoba/petr-fiala",
+    "fialap@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/petr.fiala1964",
     "https://twitter.com/p_fiala"
   ],
   "sex": 1,
-  "born": "1964-09-01",
+  "born": "1964-9-1",
   "work": "poslanec",
   "hash": "fiala-petr-64-9820",
   "photo": {

@@ -19,18 +19,24 @@
       "missing": 345,
       "lastUpdate": 1606750471803
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6190",
     "https://www.jaroslavfaltynek.cz/",
     "https://facebook.com/jaroslav.faltynek.547",
     "https://nasipolitici.cz/detail/jaroslav-faltynek",
-    "https://hlidacstatu.cz/osoba/jaroslav-faltynek"
+    "https://hlidacstatu.cz/osoba/jaroslav-faltynek",
+    "faltynekj@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1962-04-28",
+  "born": "1962-4-28",
   "work": "poslanec",
   "hash": "faltynek-jaroslav-62-0549",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 572,
       "lastUpdate": 1606750473000
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5969",
@@ -27,14 +32,15 @@
     "https://facebook.com/ZbynekStanjura",
     "https://twitter.com/Zbynek_Stanjura",
     "https://nasipolitici.cz/detail/zbynek-stanjura",
-    "https://hlidacstatu.cz/osoba/zbynek-stanjura"
+    "https://hlidacstatu.cz/osoba/zbynek-stanjura",
+    "stanjuraz@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/ZbynekStanjura",
     "https://twitter.com/Zbynek_Stanjura"
   ],
   "sex": 1,
-  "born": "1964-02-15",
+  "born": "1964-2-15",
   "work": "poslanec",
   "hash": "stanjura-zbynek-64-9661",
   "photo": {

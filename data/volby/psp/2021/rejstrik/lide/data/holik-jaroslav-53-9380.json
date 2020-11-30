@@ -19,21 +19,27 @@
       "missing": 267,
       "lastUpdate": 1606750472012
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6198",
     "https://facebook.com/jaroslavholik.cz",
     "https://twitter.com/HolikJSPD",
     "https://nasipolitici.cz/detail/jaroslav-holik",
-    "https://hlidacstatu.cz/osoba/jaroslav-holik"
+    "https://hlidacstatu.cz/osoba/jaroslav-holik",
+    "holikj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jaroslavholik.cz",
     "https://twitter.com/HolikJSPD"
   ],
   "sex": 1,
-  "born": "1953-06-29",
+  "born": "1953-6-29",
   "work": "poslanec",
   "hash": "holik-jaroslav-53-9380",
   "photo": {

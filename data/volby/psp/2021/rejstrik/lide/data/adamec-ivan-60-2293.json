@@ -19,20 +19,26 @@
       "missing": 514,
       "lastUpdate": 1606750471161
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5700",
     "http://adamecivan.cz/",
     "https://facebook.com/AdamecIvan",
     "https://nasipolitici.cz/detail/ivan-adamec",
-    "https://hlidacstatu.cz/osoba/ivan-adamec"
+    "https://hlidacstatu.cz/osoba/ivan-adamec",
+    "adameci@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/AdamecIvan"
   ],
   "sex": 1,
-  "born": "1960-03-21",
+  "born": "1960-3-21",
   "work": "poslanec",
   "hash": "adamec-ivan-60-2293",
   "photo": {

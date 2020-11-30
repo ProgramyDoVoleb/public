@@ -19,7 +19,12 @@
       "missing": 682,
       "lastUpdate": 1606750471392
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6178",
@@ -28,7 +33,8 @@
     "https://twitter.com/honzabartosek",
     "https://instagram.com/bartosek_jan",
     "https://nasipolitici.cz/detail/jan-bartosek",
-    "https://hlidacstatu.cz/osoba/jan-bartosek"
+    "https://hlidacstatu.cz/osoba/jan-bartosek",
+    "bartosekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/bartosekKDU",

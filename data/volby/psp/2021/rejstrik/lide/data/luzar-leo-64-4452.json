@@ -19,7 +19,12 @@
       "missing": 258,
       "lastUpdate": 1606750472449
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6279",
@@ -28,14 +33,15 @@
     "https://twitter.com/leoluzar",
     "https://facebook.com/leo.luzar",
     "https://nasipolitici.cz/detail/leo-luzar",
-    "https://hlidacstatu.cz/osoba/leo-luzar"
+    "https://hlidacstatu.cz/osoba/leo-luzar",
+    "luzarl@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/ing.et.ing.leo.luzar",
     "https://twitter.com/leoluzar"
   ],
   "sex": 1,
-  "born": "1964-12-06",
+  "born": "1964-12-6",
   "work": "poslanec",
   "hash": "luzar-leo-64-4452",
   "photo": {

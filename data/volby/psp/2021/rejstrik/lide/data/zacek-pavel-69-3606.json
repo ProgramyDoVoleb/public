@@ -19,17 +19,23 @@
       "missing": 345,
       "lastUpdate": 1606750473304
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5226",
     "https://facebook.com/profile.php?id=100006714558350",
     "https://nasipolitici.cz/detail/pavel-zacek",
-    "https://hlidacstatu.cz/osoba/pavel-zacek"
+    "https://hlidacstatu.cz/osoba/pavel-zacek",
+    "zacekp@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1969-05-18",
+  "born": "1969-5-18",
   "work": "poslanec",
   "hash": "zacek-pavel-69-3606",
   "photo": {

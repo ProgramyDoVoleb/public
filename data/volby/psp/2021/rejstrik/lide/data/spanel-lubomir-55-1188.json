@@ -19,19 +19,25 @@
       "missing": 458,
       "lastUpdate": 1606750473062
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6514",
     "https://facebook.com/lubomir.spanel",
     "https://nasipolitici.cz/detail/lubomir-spanel-1",
-    "https://hlidacstatu.cz/osoba/lubomir-spanel-1"
+    "https://hlidacstatu.cz/osoba/lubomir-spanel-1",
+    "spanell@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/lubomir.spanel"
   ],
   "sex": 1,
-  "born": "1955-10-01",
+  "born": "1955-10-1",
   "work": "poslanec",
   "hash": "spanel-lubomir-55-1188",
   "photo": {

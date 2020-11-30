@@ -19,20 +19,26 @@
       "missing": 782,
       "lastUpdate": 1606750473274
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6489",
     "https://twitter.com/tom_vymazal",
     "https://facebook.com/tom.vymazal",
     "https://nasipolitici.cz/detail/tomas-vymazal-7",
-    "https://hlidacstatu.cz/osoba/tomas-vymazal-7"
+    "https://hlidacstatu.cz/osoba/tomas-vymazal-7",
+    "vymazalt@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/tom_vymazal"
   ],
   "sex": 1,
-  "born": "1990-05-11",
+  "born": "1990-5-11",
   "work": "poslanec",
   "hash": "vymazal-tomas-90-4469",
   "photo": {

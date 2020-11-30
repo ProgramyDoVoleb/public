@@ -19,17 +19,23 @@
       "missing": 405,
       "lastUpdate": 1606750472409
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6502",
     "https://facebook.com/profile.php?id=100012011986496",
     "https://nasipolitici.cz/detail/jana-levova-7",
-    "https://hlidacstatu.cz/osoba/jana-levova-7"
+    "https://hlidacstatu.cz/osoba/jana-levova-7",
+    "levovaj@psp.cz"
   ],
   "embeds": [],
   "sex": 2,
-  "born": "1977-06-17",
+  "born": "1977-6-17",
   "work": "poslankyně",
   "hash": "levova-jana-77-8815",
   "photo": {

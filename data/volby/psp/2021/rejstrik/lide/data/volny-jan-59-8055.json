@@ -19,20 +19,26 @@
       "missing": 422,
       "lastUpdate": 1606750473188
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6166",
     "https://twitter.com/JanVolnyANO",
     "https://facebook.com/jan.volny.129",
     "https://nasipolitici.cz/detail/jan-volny",
-    "https://hlidacstatu.cz/osoba/jan-volny"
+    "https://hlidacstatu.cz/osoba/jan-volny",
+    "volnyj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/JanVolnyANO"
   ],
   "sex": 1,
-  "born": "1959-06-15",
+  "born": "1959-6-15",
   "work": "poslanec",
   "hash": "volny-jan-59-8055",
   "photo": {

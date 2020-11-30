@@ -19,7 +19,12 @@
       "missing": 624,
       "lastUpdate": 1606750472150
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6205",
@@ -27,14 +32,15 @@
     "https://facebook.com/JureckaMarian",
     "https://twitter.com/MJureka",
     "https://nasipolitici.cz/detail/marian-jurecka",
-    "https://hlidacstatu.cz/osoba/marian-jurecka"
+    "https://hlidacstatu.cz/osoba/marian-jurecka",
+    "jureckam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/JureckaMarian",
     "https://twitter.com/MJureka"
   ],
   "sex": 1,
-  "born": "1981-03-15",
+  "born": "1981-3-15",
   "work": "poslanec",
   "hash": "jurecka-marian-81-4854",
   "photo": {

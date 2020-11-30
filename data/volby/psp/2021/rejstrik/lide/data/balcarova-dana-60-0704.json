@@ -19,7 +19,12 @@
       "missing": 285,
       "lastUpdate": 1606750471351
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6429",
@@ -28,14 +33,15 @@
     "https://twitter.com/DanaBalcarova",
     "https://facebook.com/dana.balcarova",
     "https://nasipolitici.cz/detail/dana-balcarova-3",
-    "https://hlidacstatu.cz/osoba/dana-balcarova-3"
+    "https://hlidacstatu.cz/osoba/dana-balcarova-3",
+    "balcarovad@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Dana-Balcarová-107368970734411",
     "https://twitter.com/DanaBalcarova"
   ],
   "sex": 2,
-  "born": "1960-09-22",
+  "born": "1960-9-22",
   "work": "poslankyně",
   "hash": "balcarova-dana-60-0704",
   "photo": {

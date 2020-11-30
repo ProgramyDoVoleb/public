@@ -19,7 +19,12 @@
       "missing": 233,
       "lastUpdate": 1606750472144
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5847",
@@ -27,14 +32,15 @@
     "https://facebook.com/juranek.stanislav",
     "https://twitter.com/Juranek",
     "https://nasipolitici.cz/detail/stanislav-juranek",
-    "https://hlidacstatu.cz/osoba/stanislav-juranek"
+    "https://hlidacstatu.cz/osoba/stanislav-juranek",
+    "juraneks@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/juranek.stanislav",
     "https://twitter.com/Juranek"
   ],
   "sex": 1,
-  "born": "1956-01-24",
+  "born": "1956-1-24",
   "work": "poslanec",
   "hash": "juranek-stanislav-56-6486",
   "photo": {

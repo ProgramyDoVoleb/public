@@ -19,7 +19,12 @@
       "missing": 184,
       "lastUpdate": 1606750471960
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6292",
@@ -27,13 +32,14 @@
     "https://twitter.com/pgolasowska",
     "https://facebook.com/pavla.golasowska",
     "https://nasipolitici.cz/detail/pavla-golasowska",
-    "https://hlidacstatu.cz/osoba/pavla-golasowska"
+    "https://hlidacstatu.cz/osoba/pavla-golasowska",
+    "golasowskap@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/pgolasowska"
   ],
   "sex": 2,
-  "born": "1964-05-18",
+  "born": "1964-5-18",
   "work": "poslankyně",
   "hash": "golasowska-pavla-64-3535",
   "photo": {

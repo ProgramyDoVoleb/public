@@ -19,7 +19,12 @@
       "missing": 540,
       "lastUpdate": 1606750472694
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6485",
@@ -27,13 +32,14 @@
     "https://facebook.com/pawlasdaniel",
     "https://facebook.com/daniel.pawlas.585",
     "https://nasipolitici.cz/detail/daniel-pawlas",
-    "https://hlidacstatu.cz/osoba/daniel-pawlas"
+    "https://hlidacstatu.cz/osoba/daniel-pawlas",
+    "pawlasd@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/pawlasdaniel"
   ],
   "sex": 1,
-  "born": "1975-10-01",
+  "born": "1975-10-1",
   "work": "poslanec",
   "hash": "pawlas-daniel-75-1022",
   "photo": {

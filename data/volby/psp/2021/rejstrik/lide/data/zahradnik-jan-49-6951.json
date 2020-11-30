@@ -19,7 +19,12 @@
       "missing": 162,
       "lastUpdate": 1606750473284
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5844",
@@ -28,14 +33,15 @@
     "https://twitter.com/janzahradnik_jc",
     "https://facebook.com/profile.php?id=100011978055448",
     "https://nasipolitici.cz/detail/jan-zahradnik",
-    "https://hlidacstatu.cz/osoba/jan-zahradnik"
+    "https://hlidacstatu.cz/osoba/jan-zahradnik",
+    "zahradnikj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Jan-Zahradník-oficiální-stránka-967482186692431",
     "https://twitter.com/janzahradnik_jc"
   ],
   "sex": 1,
-  "born": "1949-03-23",
+  "born": "1949-3-23",
   "work": "poslanec",
   "hash": "zahradnik-jan-49-6951",
   "photo": {

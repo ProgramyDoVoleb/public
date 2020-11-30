@@ -19,14 +19,20 @@
       "missing": 46,
       "lastUpdate": 1606750472486
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
-    "https://www.psp.cz/sqw/detail.sqw?id=5945"
+    "https://www.psp.cz/sqw/detail.sqw?id=5945",
+    "martinuj@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1900-01-01",
+  "born": "1959-4-18",
   "work": "poslanec",
   "hash": "martinu-jaroslav-00-8839",
   "photo": {

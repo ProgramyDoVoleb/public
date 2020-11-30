@@ -19,20 +19,26 @@
       "missing": 187,
       "lastUpdate": 1606750472748
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6531",
     "https://twitter.com/VPikal",
     "https://facebook.com/vpikal",
     "https://nasipolitici.cz/detail/vojtech-pikal",
-    "https://hlidacstatu.cz/osoba/vojtech-pikal"
+    "https://hlidacstatu.cz/osoba/vojtech-pikal",
+    "pikalv@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/VPikal"
   ],
   "sex": 1,
-  "born": "1987-02-19",
+  "born": "1987-2-19",
   "work": "poslanec",
   "hash": "pikal-vojtech-87-0541",
   "photo": {

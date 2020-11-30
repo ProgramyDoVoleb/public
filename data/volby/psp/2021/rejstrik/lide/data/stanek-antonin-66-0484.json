@@ -19,7 +19,12 @@
       "missing": 242,
       "lastUpdate": 1606750472988
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6516",
@@ -28,14 +33,15 @@
     "https://twitter.com/StanekAntonin",
     "https://facebook.com/antonin.stanek.71",
     "https://nasipolitici.cz/detail/antonin-stanek",
-    "https://hlidacstatu.cz/osoba/antonin-stanek"
+    "https://hlidacstatu.cz/osoba/antonin-stanek",
+    "staneka@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/stanek.antonin",
     "https://twitter.com/StanekAntonin"
   ],
   "sex": 1,
-  "born": "1966-03-02",
+  "born": "1966-3-2",
   "work": "poslanec",
   "hash": "stanek-antonin-66-0484",
   "photo": {

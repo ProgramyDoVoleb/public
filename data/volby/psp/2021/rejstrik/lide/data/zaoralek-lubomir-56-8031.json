@@ -19,21 +19,27 @@
       "missing": 1330,
       "lastUpdate": 1606750473291
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=252",
     "https://facebook.com/lubomir.zaoralek",
     "https://twitter.com/ZaoralekL",
     "https://nasipolitici.cz/detail/lubomir-zaoralek",
-    "https://hlidacstatu.cz/osoba/lubomir-zaoralek"
+    "https://hlidacstatu.cz/osoba/lubomir-zaoralek",
+    "zaoralek@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/lubomir.zaoralek",
     "https://twitter.com/ZaoralekL"
   ],
   "sex": 1,
-  "born": "1956-09-06",
+  "born": "1956-9-6",
   "work": "poslanec",
   "hash": "zaoralek-lubomir-56-8031",
   "photo": {

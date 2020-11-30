@@ -19,7 +19,12 @@
       "missing": 132,
       "lastUpdate": 1606750472823
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6525",
@@ -27,13 +32,14 @@
     "https://twitter.com/chp1530",
     "https://facebook.com/pavel.pustejovsky.754",
     "https://nasipolitici.cz/detail/pavel-pustejovsky",
-    "https://hlidacstatu.cz/osoba/pavel-pustejovsky"
+    "https://hlidacstatu.cz/osoba/pavel-pustejovsky",
+    "pustejovskyp@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/chp1530"
   ],
   "sex": 1,
-  "born": "1972-01-17",
+  "born": "1972-1-17",
   "work": "poslanec",
   "hash": "pustejovsky-pavel-72-9314",
   "photo": {

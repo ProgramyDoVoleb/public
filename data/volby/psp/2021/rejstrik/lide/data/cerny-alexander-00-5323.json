@@ -19,14 +19,20 @@
       "missing": 309,
       "lastUpdate": 1606750471701
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
-    "https://www.psp.cz/sqw/detail.sqw?id=5307"
+    "https://www.psp.cz/sqw/detail.sqw?id=5307",
+    "cernya@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1900-01-01",
+  "born": "1953-5-21",
   "work": "poslanec",
   "hash": "cerny-alexander-00-5323",
   "photo": {

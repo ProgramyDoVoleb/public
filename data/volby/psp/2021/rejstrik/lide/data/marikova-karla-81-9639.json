@@ -19,7 +19,12 @@
       "missing": 55,
       "lastUpdate": 1606750472492
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 4,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6469",
@@ -27,14 +32,15 @@
     "https://facebook.com/Karla-Maříková-614434815422565",
     "https://twitter.com/MarikovaKarla",
     "https://nasipolitici.cz/detail/karla-marikova",
-    "https://hlidacstatu.cz/osoba/karla-marikova"
+    "https://hlidacstatu.cz/osoba/karla-marikova",
+    "marikovak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Karla-Maříková-614434815422565",
     "https://twitter.com/MarikovaKarla"
   ],
   "sex": 2,
-  "born": "1981-03-19",
+  "born": "1981-3-19",
   "work": "poslankyně",
   "hash": "marikova-karla-81-9639",
   "photo": {

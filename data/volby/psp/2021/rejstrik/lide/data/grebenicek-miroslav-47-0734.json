@@ -19,17 +19,23 @@
       "missing": 815,
       "lastUpdate": 1606750471972
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=305",
     "https://facebook.com/miroslav.grebenicek",
     "https://nasipolitici.cz/detail/miroslav-grebenicek",
-    "https://hlidacstatu.cz/osoba/miroslav-grebenicek"
+    "https://hlidacstatu.cz/osoba/miroslav-grebenicek",
+    "grebenicekm@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1947-03-21",
+  "born": "1947-3-21",
   "work": "poslanec",
   "hash": "grebenicek-miroslav-47-0734",
   "photo": {

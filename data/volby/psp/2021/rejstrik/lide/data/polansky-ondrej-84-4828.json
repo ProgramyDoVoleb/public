@@ -19,20 +19,26 @@
       "missing": 243,
       "lastUpdate": 1606750472780
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6529",
     "https://twitter.com/ondrej_polansky",
     "https://facebook.com/ondrej.polansky",
     "https://nasipolitici.cz/detail/ondrej-polansky",
-    "https://hlidacstatu.cz/osoba/ondrej-polansky"
+    "https://hlidacstatu.cz/osoba/ondrej-polansky",
+    "polanskyo@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/ondrej_polansky"
   ],
   "sex": 1,
-  "born": "1984-01-22",
+  "born": "1984-1-22",
   "work": "poslanec",
   "hash": "polansky-ondrej-84-4828",
   "photo": {

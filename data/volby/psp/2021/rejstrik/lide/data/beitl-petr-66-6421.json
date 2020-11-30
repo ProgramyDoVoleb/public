@@ -19,7 +19,12 @@
       "missing": 672,
       "lastUpdate": 1606750471470
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6436",
@@ -28,14 +33,15 @@
     "https://twitter.com/PetrBeitl",
     "https://facebook.com/PetrBeitl",
     "https://nasipolitici.cz/detail/petr-beitl",
-    "https://hlidacstatu.cz/osoba/petr-beitl"
+    "https://hlidacstatu.cz/osoba/petr-beitl",
+    "beitlp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/PetrBeitl",
     "https://twitter.com/PetrBeitl"
   ],
   "sex": 1,
-  "born": "1966-12-05",
+  "born": "1966-12-5",
   "work": "poslanec",
   "hash": "beitl-petr-66-6421",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 303,
       "lastUpdate": 1606750471842
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 166,
+      "party": 166
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5909",
@@ -27,14 +32,15 @@
     "https://twitter.com/farskyjan",
     "https://facebook.com/farsky.jan",
     "https://nasipolitici.cz/detail/jan-farsky",
-    "https://hlidacstatu.cz/osoba/jan-farsky"
+    "https://hlidacstatu.cz/osoba/jan-farsky",
+    "farskyj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/farskyjansemily",
     "https://twitter.com/farskyjan"
   ],
   "sex": 1,
-  "born": "1979-07-11",
+  "born": "1979-7-11",
   "work": "poslanec",
   "hash": "farsky-jan-79-6885",
   "photo": {

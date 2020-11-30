@@ -19,7 +19,12 @@
       "missing": 129,
       "lastUpdate": 1606750472463
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6468",
@@ -28,14 +33,15 @@
     "https://twitter.com/TatanaMala",
     "https://facebook.com/tatana.mala",
     "https://nasipolitici.cz/detail/tatana-mala-2",
-    "https://hlidacstatu.cz/osoba/tatana-mala-2"
+    "https://hlidacstatu.cz/osoba/tatana-mala-2",
+    "malat@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/MalaTatana",
     "https://twitter.com/TatanaMala"
   ],
   "sex": 2,
-  "born": "1981-10-01",
+  "born": "1981-10-1",
   "work": "poslankyně",
   "hash": "mala-tatana-81-6639",
   "photo": {

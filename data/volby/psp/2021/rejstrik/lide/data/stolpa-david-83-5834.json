@@ -19,7 +19,12 @@
       "missing": 30,
       "lastUpdate": 1606750473074
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6484",
@@ -27,14 +32,15 @@
     "https://twitter.com/DavidStolpa",
     "https://facebook.com/stolpa",
     "https://nasipolitici.cz/detail/david-stolpa",
-    "https://hlidacstatu.cz/osoba/david-stolpa"
+    "https://hlidacstatu.cz/osoba/david-stolpa",
+    "stolpad@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/StolpaDavid",
     "https://twitter.com/DavidStolpa"
   ],
   "sex": 1,
-  "born": "1983-03-03",
+  "born": "1983-3-3",
   "work": "poslanec",
   "hash": "stolpa-david-83-5834",
   "photo": {

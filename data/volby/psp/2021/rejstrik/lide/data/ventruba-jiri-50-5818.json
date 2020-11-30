@@ -19,20 +19,26 @@
       "missing": 159,
       "lastUpdate": 1606750473165
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6493",
     "https://twitter.com/jiriventruba",
     "https://facebook.com/profile.php?id=100011995626608",
     "https://nasipolitici.cz/detail/jiri-ventruba",
-    "https://hlidacstatu.cz/osoba/jiri-ventruba"
+    "https://hlidacstatu.cz/osoba/jiri-ventruba",
+    "ventrubaj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/jiriventruba"
   ],
   "sex": 1,
-  "born": "1950-02-02",
+  "born": "1950-2-2",
   "work": "poslanec",
   "hash": "ventruba-jiri-50-5818",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 525,
       "lastUpdate": 1606750472263
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6211",
@@ -28,14 +33,15 @@
     "https://twitter.com/kolovratnikm",
     "https://facebook.com/hrabje.kolovrat",
     "https://nasipolitici.cz/detail/martin-kolovratnik",
-    "https://hlidacstatu.cz/osoba/martin-kolovratnik"
+    "https://hlidacstatu.cz/osoba/martin-kolovratnik",
+    "kolovratnikm@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/KolovratnikM",
     "https://twitter.com/kolovratnikm"
   ],
   "sex": 1,
-  "born": "1975-04-11",
+  "born": "1975-4-11",
   "work": "poslanec",
   "hash": "kolovratnik-martin-75-8544",
   "photo": {

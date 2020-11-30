@@ -19,7 +19,12 @@
       "missing": 297,
       "lastUpdate": 1606750472653
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6172",
@@ -27,14 +32,15 @@
     "https://facebook.com/OklestekLadislav",
     "https://twitter.com/OklestekLa",
     "https://nasipolitici.cz/detail/ladislav-oklestek",
-    "https://hlidacstatu.cz/osoba/ladislav-oklestek"
+    "https://hlidacstatu.cz/osoba/ladislav-oklestek",
+    "oklestekl@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/OklestekLadislav",
     "https://twitter.com/OklestekLa"
   ],
   "sex": 1,
-  "born": "1961-03-10",
+  "born": "1961-3-10",
   "work": "poslanec",
   "hash": "oklestek-ladislav-61-4239",
   "photo": {

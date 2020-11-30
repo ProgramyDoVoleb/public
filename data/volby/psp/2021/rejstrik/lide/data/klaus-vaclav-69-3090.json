@@ -19,21 +19,27 @@
       "missing": 1168,
       "lastUpdate": 1606750472207
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6498",
     "https://facebook.com/vaclavklausml",
     "https://twitter.com/VaclavKlaus_ml",
     "https://nasipolitici.cz/detail/vaclav-klaus-2",
-    "https://hlidacstatu.cz/osoba/vaclav-klaus-2"
+    "https://hlidacstatu.cz/osoba/vaclav-klaus-2",
+    "klausv@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vaclavklausml",
     "https://twitter.com/VaclavKlaus_ml"
   ],
   "sex": 1,
-  "born": "1969-09-10",
+  "born": "1969-9-10",
   "work": "poslanec",
   "hash": "klaus-vaclav-69-3090",
   "photo": {

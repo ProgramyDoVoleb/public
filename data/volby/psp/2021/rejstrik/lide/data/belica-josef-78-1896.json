@@ -19,7 +19,12 @@
       "missing": 135,
       "lastUpdate": 1606750471477
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6437",
@@ -27,14 +32,15 @@
     "https://facebook.com/JosefBělica",
     "https://twitter.com/JosefBelica",
     "https://nasipolitici.cz/detail/josef-belica",
-    "https://hlidacstatu.cz/osoba/josef-belica"
+    "https://hlidacstatu.cz/osoba/josef-belica",
+    "belicaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/JosefBělica",
     "https://twitter.com/JosefBelica"
   ],
   "sex": 1,
-  "born": "1978-07-16",
+  "born": "1978-7-16",
   "work": "poslanec",
   "hash": "belica-josef-78-1896",
   "photo": {

@@ -19,21 +19,27 @@
       "missing": 465,
       "lastUpdate": 1606750471260
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6150",
     "https://facebook.com/andrejbabis",
     "https://twitter.com/andrejbabis",
     "https://nasipolitici.cz/detail/andrej-babis",
-    "https://hlidacstatu.cz/osoba/andrej-babis"
+    "https://hlidacstatu.cz/osoba/andrej-babis",
+    "babisa@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/andrejbabis",
     "https://twitter.com/andrejbabis"
   ],
   "sex": 1,
-  "born": "1954-09-02",
+  "born": "1954-9-2",
   "work": "poslanec",
   "hash": "babis-andrej-54-8537",
   "photo": {

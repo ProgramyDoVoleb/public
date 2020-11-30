@@ -19,14 +19,20 @@
       "missing": 0,
       "lastUpdate": 1606750471633
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
-    "https://www.psp.cz/sqw/detail.sqw?id=6661"
+    "https://www.psp.cz/sqw/detail.sqw?id=6661",
+    "blazkovai@psp.cz"
   ],
   "embeds": [],
   "sex": 2,
-  "born": "1900-01-01",
+  "born": "1969-5-6",
   "work": "poslankyně",
   "hash": "blazkova-irena-00-0225",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 19,
       "lastUpdate": 1606750471369
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6432",
@@ -27,13 +32,14 @@
     "https://twitter.com/BartonPirat",
     "https://facebook.com/Lukas.Barton",
     "https://nasipolitici.cz/detail/lukas-barton",
-    "https://hlidacstatu.cz/osoba/lukas-barton"
+    "https://hlidacstatu.cz/osoba/lukas-barton",
+    "bartonl@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/BartonPirat"
   ],
   "sex": 1,
-  "born": "1981-01-30",
+  "born": "1981-1-30",
   "work": "poslanec",
   "hash": "barton-lukas-81-7776",
   "photo": {

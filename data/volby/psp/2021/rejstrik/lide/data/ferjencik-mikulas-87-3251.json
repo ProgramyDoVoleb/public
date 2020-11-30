@@ -19,20 +19,26 @@
       "missing": 180,
       "lastUpdate": 1606750471871
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6450",
     "https://twitter.com/Mikiferjencik",
     "https://facebook.com/mikfer",
     "https://nasipolitici.cz/detail/mikulas-ferjencik",
-    "https://hlidacstatu.cz/osoba/mikulas-ferjencik"
+    "https://hlidacstatu.cz/osoba/mikulas-ferjencik",
+    "ferjencikm@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/Mikiferjencik"
   ],
   "sex": 1,
-  "born": "1987-03-19",
+  "born": "1987-3-19",
   "work": "poslanec",
   "hash": "ferjencik-mikulas-87-3251",
   "photo": {

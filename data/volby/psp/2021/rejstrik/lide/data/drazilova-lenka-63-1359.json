@@ -19,20 +19,26 @@
       "missing": 223,
       "lastUpdate": 1606750471780
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6431",
     "https://www.lenkadrazilova.cz/",
     "https://facebook.com/LenkaDrazilovaPolitik",
     "https://nasipolitici.cz/detail/lenka-drazilova",
-    "https://hlidacstatu.cz/osoba/lenka-drazilova"
+    "https://hlidacstatu.cz/osoba/lenka-drazilova",
+    "draziloval@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/LenkaDrazilovaPolitik"
   ],
   "sex": 2,
-  "born": "1963-09-13",
+  "born": "1963-9-13",
   "work": "poslankyně",
   "hash": "drazilova-lenka-63-1359",
   "photo": {

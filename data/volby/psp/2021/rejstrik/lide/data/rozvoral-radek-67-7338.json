@@ -19,7 +19,12 @@
       "missing": 22,
       "lastUpdate": 1606750472897
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6521",
@@ -28,14 +33,15 @@
     "https://twitter.com/RadekRozvoral",
     "https://facebook.com/radek.rozvoral.3",
     "https://nasipolitici.cz/detail/radek-rozvoral",
-    "https://hlidacstatu.cz/osoba/radek-rozvoral"
+    "https://hlidacstatu.cz/osoba/radek-rozvoral",
+    "rozvoralr@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Radek-Rozvoral-338729052930562",
     "https://twitter.com/RadekRozvoral"
   ],
   "sex": 1,
-  "born": "1967-06-28",
+  "born": "1967-6-28",
   "work": "poslanec",
   "hash": "rozvoral-radek-67-7338",
   "photo": {

@@ -19,19 +19,25 @@
       "missing": 970,
       "lastUpdate": 1606750473219
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5268",
     "https://facebook.com/vostra.miloslava",
     "https://nasipolitici.cz/detail/miloslava-vostra",
-    "https://hlidacstatu.cz/osoba/miloslava-vostra"
+    "https://hlidacstatu.cz/osoba/miloslava-vostra",
+    "vostram@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vostra.miloslava"
   ],
   "sex": 2,
-  "born": "1965-05-26",
+  "born": "1965-5-26",
   "work": "poslankyně",
   "hash": "vostra-miloslava-65-8369",
   "photo": {

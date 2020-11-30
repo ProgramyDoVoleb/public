@@ -19,7 +19,12 @@
       "missing": 868,
       "lastUpdate": 1606750471883
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 11,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5459",
@@ -27,14 +32,15 @@
     "https://twitter.com/RadimFialacz",
     "https://facebook.com/Radim.Fiala.56",
     "https://nasipolitici.cz/detail/radim-fiala",
-    "https://hlidacstatu.cz/osoba/radim-fiala"
+    "https://hlidacstatu.cz/osoba/radim-fiala",
+    "fialar@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/radimfiala.cz",
     "https://twitter.com/RadimFialacz"
   ],
   "sex": 1,
-  "born": "1969-07-24",
+  "born": "1969-7-24",
   "work": "poslanec",
   "hash": "fiala-radim-69-7760",
   "photo": {

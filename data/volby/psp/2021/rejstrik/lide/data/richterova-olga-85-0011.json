@@ -19,7 +19,12 @@
       "missing": 71,
       "lastUpdate": 1606750472879
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6473",
@@ -27,13 +32,14 @@
     "https://twitter.com/OlgaRichterova",
     "https://facebook.com/olga.richterova",
     "https://nasipolitici.cz/detail/olga-richterova",
-    "https://hlidacstatu.cz/osoba/olga-richterova"
+    "https://hlidacstatu.cz/osoba/olga-richterova",
+    "richterovao@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/OlgaRichterova"
   ],
   "sex": 2,
-  "born": "1985-01-21",
+  "born": "1985-1-21",
   "work": "poslankyně",
   "hash": "richterova-olga-85-0011",
   "photo": {

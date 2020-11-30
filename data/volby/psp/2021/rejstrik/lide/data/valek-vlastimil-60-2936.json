@@ -19,7 +19,12 @@
       "missing": 317,
       "lastUpdate": 1606750473110
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6482",
@@ -28,14 +33,15 @@
     "https://twitter.com/vlvalek",
     "https://facebook.com/vlastimil.valek.9",
     "https://nasipolitici.cz/detail/vlastimil-valek",
-    "https://hlidacstatu.cz/osoba/vlastimil-valek"
+    "https://hlidacstatu.cz/osoba/vlastimil-valek",
+    "valekv@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vlvalek",
     "https://twitter.com/vlvalek"
   ],
   "sex": 1,
-  "born": "1960-05-17",
+  "born": "1960-5-17",
   "work": "poslanec",
   "hash": "valek-vlastimil-60-2936",
   "photo": {

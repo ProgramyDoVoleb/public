@@ -19,18 +19,24 @@
       "missing": 371,
       "lastUpdate": 1606750472250
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6506",
     "http://www.tomaskohoutek.cz/",
     "https://facebook.com/tomas.kohoutek.357",
     "https://nasipolitici.cz/detail/tomas-kohoutek-7",
-    "https://hlidacstatu.cz/osoba/tomas-kohoutek-7"
+    "https://hlidacstatu.cz/osoba/tomas-kohoutek-7",
+    "kohoutekt@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1983-03-16",
+  "born": "1983-3-16",
   "work": "poslanec",
   "hash": "kohoutek-tomas-83-8556",
   "photo": {

@@ -19,20 +19,26 @@
       "missing": 52,
       "lastUpdate": 1606750472868
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6523",
     "https://facebook.com/michal.ratiborsky.9",
     "https://facebook.com/Michal-Ratiborský-132718927422795",
     "https://nasipolitici.cz/detail/michal-ratiborsky",
-    "https://hlidacstatu.cz/osoba/michal-ratiborsky"
+    "https://hlidacstatu.cz/osoba/michal-ratiborsky",
+    "ratiborskym@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/michal.ratiborsky.9"
   ],
   "sex": 1,
-  "born": "1981-12-06",
+  "born": "1981-12-6",
   "work": "poslanec",
   "hash": "ratiborsky-michal-81-2649",
   "photo": {

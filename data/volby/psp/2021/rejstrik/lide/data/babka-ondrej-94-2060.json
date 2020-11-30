@@ -19,20 +19,26 @@
       "missing": 30,
       "lastUpdate": 1606750471301
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6623",
     "https://twitter.com/OndrejBabka",
     "https://facebook.com/OndrejBabka",
     "https://nasipolitici.cz/detail/ondrej-babka",
-    "https://hlidacstatu.cz/osoba/ondrej-babka"
+    "https://hlidacstatu.cz/osoba/ondrej-babka",
+    "babkao@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/OndrejBabka"
   ],
   "sex": 1,
-  "born": "1994-02-22",
+  "born": "1994-2-22",
   "work": "poslanec",
   "hash": "babka-ondrej-94-2060",
   "photo": {

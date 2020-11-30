@@ -19,7 +19,12 @@
       "missing": 92,
       "lastUpdate": 1606750471796
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6446",
@@ -28,7 +33,8 @@
     "https://twitter.com/ElfmarkF",
     "https://facebook.com/felfmark",
     "https://nasipolitici.cz/detail/frantisek-elfmark-1",
-    "https://hlidacstatu.cz/osoba/frantisek-elfmark-1"
+    "https://hlidacstatu.cz/osoba/frantisek-elfmark-1",
+    "elfmarkf@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/FrantisekElfmark.DiS",

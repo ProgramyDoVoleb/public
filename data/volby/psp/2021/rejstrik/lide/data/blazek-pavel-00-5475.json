@@ -19,14 +19,20 @@
       "missing": 981,
       "lastUpdate": 1606750471605
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
-    "https://www.psp.cz/sqw/detail.sqw?id=6079"
+    "https://www.psp.cz/sqw/detail.sqw?id=6079",
+    "blazekp@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1900-01-01",
+  "born": "1969-4-8",
   "work": "poslanec",
   "hash": "blazek-pavel-00-5475",
   "photo": {

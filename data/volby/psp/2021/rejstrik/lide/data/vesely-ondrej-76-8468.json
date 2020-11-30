@@ -19,7 +19,12 @@
       "missing": 204,
       "lastUpdate": 1606750473171
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6494",
@@ -27,14 +32,15 @@
     "https://twitter.com/ veselyposlanec",
     "https://facebook.com/ondrej.vesely.94",
     "https://nasipolitici.cz/detail/ondrej-vesely",
-    "https://hlidacstatu.cz/osoba/ondrej-vesely"
+    "https://hlidacstatu.cz/osoba/ondrej-vesely",
+    "veselyo@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/veselyondra/",
     "https://twitter.com/ veselyposlanec"
   ],
   "sex": 1,
-  "born": "1976-05-03",
+  "born": "1976-5-3",
   "work": "poslanec",
   "hash": "vesely-ondrej-76-8468",
   "photo": {

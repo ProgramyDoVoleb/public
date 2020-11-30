@@ -19,7 +19,12 @@
       "missing": 394,
       "lastUpdate": 1606750471944
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5703",
@@ -27,14 +32,15 @@
     "https://facebook.com/gajduskova.a",
     "https://twitter.com/GajduskovaAlena",
     "https://nasipolitici.cz/detail/alena-gajduskova",
-    "https://hlidacstatu.cz/osoba/alena-gajduskova"
+    "https://hlidacstatu.cz/osoba/alena-gajduskova",
+    "gajduskovaa@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/gajduskova.a",
     "https://twitter.com/GajduskovaAlena"
   ],
   "sex": 2,
-  "born": "1954-04-15",
+  "born": "1954-4-15",
   "work": "poslankyně",
   "hash": "gajduskova-alena-54-8837",
   "photo": {

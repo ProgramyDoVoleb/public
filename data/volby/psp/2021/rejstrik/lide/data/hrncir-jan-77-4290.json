@@ -19,7 +19,12 @@
       "missing": 559,
       "lastUpdate": 1606750472050
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6455",
@@ -27,13 +32,14 @@
     "https://facebook.com/hrncirjan",
     "https://facebook.com/jan.hrncir.980",
     "https://nasipolitici.cz/detail/jan-hrncir",
-    "https://hlidacstatu.cz/osoba/jan-hrncir"
+    "https://hlidacstatu.cz/osoba/jan-hrncir",
+    "hrncirj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/hrncirjan"
   ],
   "sex": 1,
-  "born": "1977-05-01",
+  "born": "1977-5-1",
   "work": "poslanec",
   "hash": "hrncir-jan-77-4290",
   "photo": {

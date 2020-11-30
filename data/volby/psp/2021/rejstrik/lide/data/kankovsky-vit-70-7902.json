@@ -19,20 +19,26 @@
       "missing": 124,
       "lastUpdate": 1606750472188
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6207",
     "http://vitkankovsky.cz/",
     "https://facebook.com/VitKankovsky",
     "https://nasipolitici.cz/detail/vit-kankovsky",
-    "https://hlidacstatu.cz/osoba/vit-kankovsky"
+    "https://hlidacstatu.cz/osoba/vit-kankovsky",
+    "kankovskyv@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/VitKankovsky"
   ],
   "sex": 1,
-  "born": "1970-02-05",
+  "born": "1970-2-5",
   "work": "poslanec",
   "hash": "kankovsky-vit-70-7902",
   "photo": {

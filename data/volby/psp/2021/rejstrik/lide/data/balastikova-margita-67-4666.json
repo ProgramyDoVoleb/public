@@ -19,7 +19,12 @@
       "missing": 313,
       "lastUpdate": 1606750471338
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6177",
@@ -28,13 +33,14 @@
     "https://instagram.com/margitbalastikova",
     "https://facebook.com/margit.balastikova",
     "https://nasipolitici.cz/detail/margita-balastikova",
-    "https://hlidacstatu.cz/osoba/margita-balastikova"
+    "https://hlidacstatu.cz/osoba/margita-balastikova",
+    "balastikovam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/margit2016"
   ],
   "sex": 2,
-  "born": "1967-09-16",
+  "born": "1967-9-16",
   "work": "poslankyně",
   "hash": "balastikova-margita-67-4666",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 71,
       "lastUpdate": 1606750472803
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6526",
@@ -27,13 +32,14 @@
     "https://twitter.com/ondrej_profant",
     "https://facebook.com/ondrej.profant",
     "https://nasipolitici.cz/detail/ondrej-profant",
-    "https://hlidacstatu.cz/osoba/ondrej-profant"
+    "https://hlidacstatu.cz/osoba/ondrej-profant",
+    "profanto@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/ondrej_profant"
   ],
   "sex": 1,
-  "born": "1988-05-02",
+  "born": "1988-5-2",
   "work": "poslanec",
   "hash": "profant-ondrej-88-1017",
   "photo": {

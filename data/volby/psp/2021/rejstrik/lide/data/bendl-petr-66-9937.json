@@ -19,7 +19,12 @@
       "missing": 311,
       "lastUpdate": 1606750471506
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=346",
@@ -29,14 +34,15 @@
     "https://instagram.com/bendlpetr",
     "https://facebook.com/petr.bendl.92",
     "https://nasipolitici.cz/detail/petr-bendl",
-    "https://hlidacstatu.cz/osoba/petr-bendl"
+    "https://hlidacstatu.cz/osoba/petr-bendl",
+    "bendlp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/petr.bendl",
     "https://twitter.com/BendlPetr"
   ],
   "sex": 1,
-  "born": "1966-01-24",
+  "born": "1966-1-24",
   "work": "poslanec",
   "hash": "bendl-petr-66-9937",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 246,
       "lastUpdate": 1606750472499
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6534",
@@ -27,13 +32,14 @@
     "https://facebook.com/mudrjirimasek",
     "https://facebook.com/profile.php?id=100013738530484",
     "https://nasipolitici.cz/detail/jiri-masek-50",
-    "https://hlidacstatu.cz/osoba/jiri-masek-50"
+    "https://hlidacstatu.cz/osoba/jiri-masek-50",
+    "masekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/mudrjirimasek"
   ],
   "sex": 1,
-  "born": "1958-07-16",
+  "born": "1958-7-16",
   "work": "poslanec",
   "hash": "masek-jiri-58-2091",
   "photo": {

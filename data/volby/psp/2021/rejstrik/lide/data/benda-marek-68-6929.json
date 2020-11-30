@@ -19,7 +19,12 @@
       "missing": 638,
       "lastUpdate": 1606750471494
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=4",
@@ -27,7 +32,8 @@
     "https://twitter.com/marekbenda2013",
     "https://facebook.com/benda2018",
     "https://nasipolitici.cz/detail/marek-benda",
-    "https://hlidacstatu.cz/osoba/marek-benda"
+    "https://hlidacstatu.cz/osoba/marek-benda",
+    "bendam@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/marekbenda2013"

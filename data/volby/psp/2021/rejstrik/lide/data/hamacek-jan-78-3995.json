@@ -19,7 +19,12 @@
       "missing": 1564,
       "lastUpdate": 1606750471990
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5462",
@@ -27,14 +32,15 @@
     "https://twitter.com/jhamacek",
     "https://facebook.com/jan.hamacek",
     "https://nasipolitici.cz/detail/jan-hamacek",
-    "https://hlidacstatu.cz/osoba/jan-hamacek"
+    "https://hlidacstatu.cz/osoba/jan-hamacek",
+    "hamacekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/hamacekjan",
     "https://twitter.com/jhamacek"
   ],
   "sex": 1,
-  "born": "1978-11-04",
+  "born": "1978-11-4",
   "work": "poslanec",
   "hash": "hamacek-jan-78-3995",
   "photo": {

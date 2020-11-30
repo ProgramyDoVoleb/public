@@ -19,7 +19,12 @@
       "missing": 33,
       "lastUpdate": 1606750472480
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6535",
@@ -28,14 +33,15 @@
     "https://twitter.com/TomasMartinekCZ",
     "https://facebook.com/tmartinek",
     "https://nasipolitici.cz/detail/tomas-martinek-10",
-    "https://hlidacstatu.cz/osoba/tomas-martinek-10"
+    "https://hlidacstatu.cz/osoba/tomas-martinek-10",
+    "martinekt@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/tomas.martinek.pirati",
     "https://twitter.com/TomasMartinekCZ"
   ],
   "sex": 1,
-  "born": "1986-01-23",
+  "born": "1986-1-23",
   "work": "poslanec",
   "hash": "martinek-tomas-86-3992",
   "photo": {

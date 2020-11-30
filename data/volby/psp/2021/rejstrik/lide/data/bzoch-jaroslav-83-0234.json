@@ -19,14 +19,20 @@
       "missing": 139,
       "lastUpdate": 1606750471672
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6441",
     "https://twitter.com/jaroslavbzoch",
     "https://facebook.com/jaroslav.bzoch.3",
     "https://nasipolitici.cz/detail/jaroslav-bzoch-1",
-    "https://hlidacstatu.cz/osoba/jaroslav-bzoch-1"
+    "https://hlidacstatu.cz/osoba/jaroslav-bzoch-1",
+    "bzochj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/jaroslavbzoch"

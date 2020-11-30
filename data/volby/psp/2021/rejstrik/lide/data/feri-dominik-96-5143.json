@@ -19,7 +19,12 @@
       "missing": 281,
       "lastUpdate": 1606750471864
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6449",
@@ -27,13 +32,14 @@
     "https://instagram.com/choco_afro",
     "https://facebook.com/DominikFeri",
     "https://nasipolitici.cz/detail/dominik-feri",
-    "https://hlidacstatu.cz/osoba/dominik-feri"
+    "https://hlidacstatu.cz/osoba/dominik-feri",
+    "ferid@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/DominikFeri"
   ],
   "sex": 1,
-  "born": "1996-07-11",
+  "born": "1996-7-11",
   "work": "poslanec",
   "hash": "feri-dominik-96-5143",
   "photo": {

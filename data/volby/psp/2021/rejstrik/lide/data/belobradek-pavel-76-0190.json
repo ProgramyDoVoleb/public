@@ -19,7 +19,12 @@
       "missing": 527,
       "lastUpdate": 1606750471486
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6138",
@@ -28,7 +33,8 @@
     "https://twitter.com/PavelBelobradek",
     "https://facebook.com/pavelbelobradek",
     "https://nasipolitici.cz/detail/pavel-belobradek",
-    "https://hlidacstatu.cz/osoba/pavel-belobradek"
+    "https://hlidacstatu.cz/osoba/pavel-belobradek",
+    "belobradekp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Belobradek",

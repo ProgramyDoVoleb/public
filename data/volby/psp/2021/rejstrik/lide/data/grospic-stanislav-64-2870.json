@@ -19,19 +19,25 @@
       "missing": 606,
       "lastUpdate": 1606750471977
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=4778",
     "https://facebook.com/stanislav.grospic",
     "https://nasipolitici.cz/detail/stanislav-grospic",
-    "https://hlidacstatu.cz/osoba/stanislav-grospic"
+    "https://hlidacstatu.cz/osoba/stanislav-grospic",
+    "grospics@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/stanislav.grospic"
   ],
   "sex": 1,
-  "born": "1964-07-25",
+  "born": "1964-7-25",
   "work": "poslanec",
   "hash": "grospic-stanislav-64-2870",
   "photo": {

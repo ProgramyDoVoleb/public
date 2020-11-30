@@ -19,20 +19,26 @@
       "missing": 405,
       "lastUpdate": 1606750472977
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5965",
     "https://twitter.com/RSklenak",
     "https://facebook.com/roman.sklenak",
     "https://nasipolitici.cz/detail/roman-sklenak",
-    "https://hlidacstatu.cz/osoba/roman-sklenak"
+    "https://hlidacstatu.cz/osoba/roman-sklenak",
+    "sklenakr@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/RSklenak"
   ],
   "sex": 1,
-  "born": "1970-07-23",
+  "born": "1970-7-23",
   "work": "poslanec",
   "hash": "sklenak-roman-70-5325",
   "photo": {

@@ -19,20 +19,26 @@
       "missing": 74,
       "lastUpdate": 1606750472595
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6624",
     "https://twitter.com/NavrkalF",
     "https://facebook.com/frantisek.navrkal",
     "https://nasipolitici.cz/detail/frantisek-navrkal-2",
-    "https://hlidacstatu.cz/osoba/frantisek-navrkal-2"
+    "https://hlidacstatu.cz/osoba/frantisek-navrkal-2",
+    "navrkalf@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/NavrkalF"
   ],
   "sex": 1,
-  "born": "1992-09-15",
+  "born": "1992-9-15",
   "work": "poslanec",
   "hash": "navrkal-frantisek-92-4745",
   "photo": {

@@ -19,20 +19,26 @@
       "missing": 610,
       "lastUpdate": 1606750473091
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6240",
     "https://facebook.com/Karel-Turecek-215887602290030",
     "https://facebook.com/profile.php?id=100020483557493",
     "https://nasipolitici.cz/detail/karel-turecek",
-    "https://hlidacstatu.cz/osoba/karel-turecek"
+    "https://hlidacstatu.cz/osoba/karel-turecek",
+    "turecekk@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Karel-Turecek-215887602290030"
   ],
   "sex": 1,
-  "born": "1971-02-01",
+  "born": "1971-2-1",
   "work": "poslanec",
   "hash": "turecek-karel-71-3530",
   "photo": {

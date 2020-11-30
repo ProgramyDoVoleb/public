@@ -19,17 +19,23 @@
       "missing": 31,
       "lastUpdate": 1606750472891
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6522",
     "https://facebook.com/mila.rozner",
     "https://nasipolitici.cz/detail/miloslav-rozner",
-    "https://hlidacstatu.cz/osoba/miloslav-rozner"
+    "https://hlidacstatu.cz/osoba/miloslav-rozner",
+    "roznerm@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1977-03-29",
+  "born": "1977-3-29",
   "work": "poslanec",
   "hash": "rozner-miloslav-77-6478",
   "photo": {

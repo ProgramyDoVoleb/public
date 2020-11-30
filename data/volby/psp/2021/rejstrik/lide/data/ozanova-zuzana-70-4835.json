@@ -19,20 +19,26 @@
       "missing": 112,
       "lastUpdate": 1606750472676
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6474",
     "https://facebook.com/Zuzana-Ožanová-ANO-2011-1982660762016859",
     "https://facebook.com/zuzana.ozanova.980",
     "https://nasipolitici.cz/detail/zuzana-ozanova",
-    "https://hlidacstatu.cz/osoba/zuzana-ozanova"
+    "https://hlidacstatu.cz/osoba/zuzana-ozanova",
+    "ozanovaz@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Zuzana-Ožanová-ANO-2011-1982660762016859"
   ],
   "sex": 2,
-  "born": "1970-09-25",
+  "born": "1970-9-25",
   "work": "poslankyně",
   "hash": "ozanova-zuzana-70-4835",
   "photo": {

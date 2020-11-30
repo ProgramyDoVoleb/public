@@ -19,7 +19,12 @@
       "missing": 230,
       "lastUpdate": 1606750472853
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6158",
@@ -28,7 +33,8 @@
     "https://twitter.com/KarelRais",
     "https://facebook.com/profKarelRais",
     "https://nasipolitici.cz/detail/karel-rais",
-    "https://hlidacstatu.cz/osoba/karel-rais"
+    "https://hlidacstatu.cz/osoba/karel-rais",
+    "raisk@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/RaisKarel",

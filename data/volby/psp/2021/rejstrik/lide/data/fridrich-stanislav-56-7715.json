@@ -19,7 +19,12 @@
       "missing": 107,
       "lastUpdate": 1606750471936
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6451",
@@ -27,7 +32,8 @@
     "https://facebook.com/ing.stanislav.fridrich",
     "https://facebook.com/profile.php?id=100006318243764",
     "https://nasipolitici.cz/detail/stanislav-fridrich-2",
-    "https://hlidacstatu.cz/osoba/stanislav-fridrich-2"
+    "https://hlidacstatu.cz/osoba/stanislav-fridrich-2",
+    "fridrichs@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/ing.stanislav.fridrich"

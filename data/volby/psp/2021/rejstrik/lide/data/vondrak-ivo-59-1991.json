@@ -19,7 +19,12 @@
       "missing": 166,
       "lastUpdate": 1606750473212
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6492",
@@ -27,14 +32,15 @@
     "https://facebook.com/vondrakivo",
     "https://twitter.com/ivondrak",
     "https://nasipolitici.cz/detail/ivo-vondrak",
-    "https://hlidacstatu.cz/osoba/ivo-vondrak"
+    "https://hlidacstatu.cz/osoba/ivo-vondrak",
+    "vondraki@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vondrakivo",
     "https://twitter.com/ivondrak"
   ],
   "sex": 1,
-  "born": "1959-04-15",
+  "born": "1959-4-15",
   "work": "poslanec",
   "hash": "vondrak-ivo-59-1991",
   "photo": {

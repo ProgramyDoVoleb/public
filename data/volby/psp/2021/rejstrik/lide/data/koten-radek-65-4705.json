@@ -19,20 +19,26 @@
       "missing": 314,
       "lastUpdate": 1606750472287
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6508",
     "https://www.parlamentnilisty.cz/profily/Radek-Koten-113861",
     "https://facebook.com/RadekKotenSPD",
     "https://nasipolitici.cz/detail/radek-koten",
-    "https://hlidacstatu.cz/osoba/radek-koten"
+    "https://hlidacstatu.cz/osoba/radek-koten",
+    "kotenr@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/RadekKotenSPD"
   ],
   "sex": 1,
-  "born": "1965-03-18",
+  "born": "1965-3-18",
   "work": "poslanec",
   "hash": "koten-radek-65-4705",
   "photo": {

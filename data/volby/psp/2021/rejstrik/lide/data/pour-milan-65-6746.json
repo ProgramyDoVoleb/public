@@ -19,18 +19,24 @@
       "missing": 55,
       "lastUpdate": 1606750472790
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6539",
     "http://milanpour.cz/",
     "https://facebook.com/milan.pour.1",
     "https://nasipolitici.cz/detail/milan-pour",
-    "https://hlidacstatu.cz/osoba/milan-pour"
+    "https://hlidacstatu.cz/osoba/milan-pour",
+    "pourm@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1965-06-06",
+  "born": "1965-6-6",
   "work": "poslanec",
   "hash": "pour-milan-65-6746",
   "photo": {

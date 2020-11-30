@@ -19,20 +19,26 @@
       "missing": 415,
       "lastUpdate": 1606750471651
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6184",
     "https://twitter.com/RibraRichard",
     "https://facebook.com/richard.brabec.9",
     "https://nasipolitici.cz/detail/richard-brabec",
-    "https://hlidacstatu.cz/osoba/richard-brabec"
+    "https://hlidacstatu.cz/osoba/richard-brabec",
+    "brabecr@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/RibraRichard"
   ],
   "sex": 1,
-  "born": "1966-07-05",
+  "born": "1966-7-5",
   "work": "poslanec",
   "hash": "brabec-richard-66-9031",
   "photo": {

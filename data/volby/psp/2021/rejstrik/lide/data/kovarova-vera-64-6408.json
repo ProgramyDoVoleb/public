@@ -19,7 +19,12 @@
       "missing": 238,
       "lastUpdate": 1606750472308
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 166,
+      "party": 166
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6214",
@@ -28,14 +33,15 @@
     "https://twitter.com/v_kovarova",
     "https://facebook.com/vera.kovarovazelezna",
     "https://nasipolitici.cz/detail/vera-kovarova",
-    "https://hlidacstatu.cz/osoba/vera-kovarova"
+    "https://hlidacstatu.cz/osoba/vera-kovarova",
+    "kovarovav@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/kovarova.v",
     "https://twitter.com/v_kovarova"
   ],
   "sex": 2,
-  "born": "1964-01-20",
+  "born": "1964-1-20",
   "work": "poslankyně",
   "hash": "kovarova-vera-64-6408",
   "photo": {

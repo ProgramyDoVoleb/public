@@ -19,7 +19,12 @@
       "missing": 159,
       "lastUpdate": 1606750471594
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6439",
@@ -28,14 +33,15 @@
     "https://instagram.com/blaha_jiri_ano",
     "https://facebook.com/jiri.blaha.1829405",
     "https://nasipolitici.cz/detail/jiri-blaha-82",
-    "https://hlidacstatu.cz/osoba/jiri-blaha-82"
+    "https://hlidacstatu.cz/osoba/jiri-blaha-82",
+    "blahaji@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/VolbyLiberec",
     "https://twitter.com/JiBlha6"
   ],
   "sex": 1,
-  "born": "1961-08-26",
+  "born": "1961-8-26",
   "work": "poslanec",
   "hash": "blaha-jiri-61-3861",
   "photo": {

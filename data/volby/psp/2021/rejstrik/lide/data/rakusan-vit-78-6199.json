@@ -19,7 +19,12 @@
       "missing": 518,
       "lastUpdate": 1606750472861
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 166,
+      "party": 166
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6524",
@@ -28,14 +33,15 @@
     "https://twitter.com/Vit_Rakusan",
     "https://facebook.com/vit.rakusan",
     "https://nasipolitici.cz/detail/vit-rakusan",
-    "https://hlidacstatu.cz/osoba/vit-rakusan"
+    "https://hlidacstatu.cz/osoba/vit-rakusan",
+    "rakusanv@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vitrakusancz",
     "https://twitter.com/Vit_Rakusan"
   ],
   "sex": 1,
-  "born": "1978-06-16",
+  "born": "1978-6-16",
   "work": "poslanec",
   "hash": "rakusan-vit-78-6199",
   "photo": {

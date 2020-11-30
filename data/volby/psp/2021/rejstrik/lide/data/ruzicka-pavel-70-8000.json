@@ -19,7 +19,12 @@
       "missing": 153,
       "lastUpdate": 1606750472910
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6520",
@@ -28,14 +33,15 @@
     "https://twitter.com/ruzickapavel70",
     "https://facebook.com/pavel.ruzicka.5055",
     "https://nasipolitici.cz/detail/pavel-ruzicka-19",
-    "https://hlidacstatu.cz/osoba/pavel-ruzicka-19"
+    "https://hlidacstatu.cz/osoba/pavel-ruzicka-19",
+    "ruzickap@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/PavelRuzickaPoslanec",
     "https://twitter.com/ruzickapavel70"
   ],
   "sex": 1,
-  "born": "1970-04-03",
+  "born": "1970-4-3",
   "work": "poslanec",
   "hash": "ruzicka-pavel-70-8000",
   "photo": {

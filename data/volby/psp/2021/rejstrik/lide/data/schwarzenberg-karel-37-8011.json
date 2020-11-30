@@ -19,7 +19,12 @@
       "missing": 806,
       "lastUpdate": 1606750472971
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5558",
@@ -27,7 +32,8 @@
     "https://facebook.com/karel.schwarzenberg",
     "https://twitter.com/schwarzenberg_k",
     "https://nasipolitici.cz/detail/karel-schwarzenberg",
-    "https://hlidacstatu.cz/osoba/karel-schwarzenberg"
+    "https://hlidacstatu.cz/osoba/karel-schwarzenberg",
+    "schwarzenbergk@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/karel.schwarzenberg",

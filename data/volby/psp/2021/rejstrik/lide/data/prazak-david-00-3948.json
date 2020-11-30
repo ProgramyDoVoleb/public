@@ -19,14 +19,20 @@
       "missing": 149,
       "lastUpdate": 1606750472797
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
-    "https://www.psp.cz/sqw/detail.sqw?id=6527"
+    "https://www.psp.cz/sqw/detail.sqw?id=6527",
+    "prazakd@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1900-01-01",
+  "born": "1979-9-13",
   "work": "poslanec",
   "hash": "prazak-david-00-3948",
   "photo": {

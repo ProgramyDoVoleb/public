@@ -19,7 +19,12 @@
       "missing": 675,
       "lastUpdate": 1606750472590
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6487",
@@ -28,7 +33,8 @@
     "https://instagram.com/nacherpatrik",
     "https://facebook.com/patrik.nacher",
     "https://nasipolitici.cz/detail/patrik-nacher",
-    "https://hlidacstatu.cz/osoba/patrik-nacher"
+    "https://hlidacstatu.cz/osoba/patrik-nacher",
+    "nacherp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/NacherPatrik",

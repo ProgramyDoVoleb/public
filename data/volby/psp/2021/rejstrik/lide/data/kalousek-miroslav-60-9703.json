@@ -19,7 +19,12 @@
       "missing": 1034,
       "lastUpdate": 1606750472182
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=377",
@@ -27,7 +32,8 @@
     "https://facebook.com/kalousek.miroslav",
     "https://twitter.com/kalousekm",
     "https://nasipolitici.cz/detail/miroslav-kalousek",
-    "https://hlidacstatu.cz/osoba/miroslav-kalousek"
+    "https://hlidacstatu.cz/osoba/miroslav-kalousek",
+    "kalousek@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/kalousek.miroslav",

@@ -19,18 +19,24 @@
       "missing": 68,
       "lastUpdate": 1606750471550
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6143",
     "https://www.poslanec-berkovec.cz/",
     "https://facebook.com/stanislav.berkovec.5",
     "https://nasipolitici.cz/detail/stanislav-berkovec",
-    "https://hlidacstatu.cz/osoba/stanislav-berkovec"
+    "https://hlidacstatu.cz/osoba/stanislav-berkovec",
+    "berkovecs@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1956-05-31",
+  "born": "1956-5-31",
   "work": "poslanec",
   "hash": "berkovec-stanislav-56-4834",
   "photo": {

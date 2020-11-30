@@ -19,7 +19,12 @@
       "missing": 197,
       "lastUpdate": 1606750472573
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 4,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6471",
@@ -27,14 +32,15 @@
     "https://twitter.com/JVildumetzova",
     "https://facebook.com/jana.vildumetzova",
     "https://nasipolitici.cz/detail/jana-mrackova-vildumetzova",
-    "https://hlidacstatu.cz/osoba/jana-mrackova-vildumetzova"
+    "https://hlidacstatu.cz/osoba/jana-mrackova-vildumetzova",
+    "vildumetzovaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Vildumetzova",
     "https://twitter.com/JVildumetzova"
   ],
   "sex": 2,
-  "born": "1973-05-08",
+  "born": "1973-5-8",
   "work": "poslankyně",
   "hash": "mrackova-vildumetzova-jana-73-8670",
   "photo": {

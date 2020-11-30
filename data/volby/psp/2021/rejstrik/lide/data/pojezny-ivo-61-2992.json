@@ -19,7 +19,12 @@
       "missing": 216,
       "lastUpdate": 1606750472773
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6233",
@@ -27,13 +32,14 @@
     "https://facebook.com/PojeznyIvo",
     "https://facebook.com/ivo.pojezny.9",
     "https://nasipolitici.cz/detail/ivo-pojezny",
-    "https://hlidacstatu.cz/osoba/ivo-pojezny"
+    "https://hlidacstatu.cz/osoba/ivo-pojezny",
+    "pojeznyi@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/PojeznyIvo"
   ],
   "sex": 1,
-  "born": "1961-05-21",
+  "born": "1961-5-21",
   "work": "poslanec",
   "hash": "pojezny-ivo-61-2992",
   "photo": {

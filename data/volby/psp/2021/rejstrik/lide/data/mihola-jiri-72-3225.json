@@ -19,7 +19,12 @@
       "missing": 231,
       "lastUpdate": 1606750472561
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6222",
@@ -28,14 +33,15 @@
     "https://twitter.com/JMihola",
     "https://facebook.com/jiri.mihola",
     "https://nasipolitici.cz/detail/jiri-mihola",
-    "https://hlidacstatu.cz/osoba/jiri-mihola"
+    "https://hlidacstatu.cz/osoba/jiri-mihola",
+    "miholaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Mihola.Jiri",
     "https://twitter.com/JMihola"
   ],
   "sex": 1,
-  "born": "1972-06-01",
+  "born": "1972-6-1",
   "work": "poslanec",
   "hash": "mihola-jiri-72-3225",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 1202,
       "lastUpdate": 1606750471766
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6444",
@@ -28,14 +33,15 @@
     "https://twitter.com/DolinekPetr",
     "https://facebook.com/petr.dolinek",
     "https://nasipolitici.cz/detail/petr-dolinek",
-    "https://hlidacstatu.cz/osoba/petr-dolinek"
+    "https://hlidacstatu.cz/osoba/petr-dolinek",
+    "dolinekp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/dolinekpetr",
     "https://twitter.com/DolinekPetr"
   ],
   "sex": 1,
-  "born": "1981-03-27",
+  "born": "1981-3-27",
   "work": "poslanec",
   "hash": "dolinek-petr-81-5332",
   "photo": {

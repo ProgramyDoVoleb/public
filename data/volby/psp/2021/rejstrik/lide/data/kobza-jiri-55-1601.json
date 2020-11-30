@@ -19,14 +19,20 @@
       "missing": 335,
       "lastUpdate": 1606750472215
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6503",
     "https://www.jiri-kobza.cz/o-me/",
     "https://facebook.com/jirikobza.cz",
     "https://nasipolitici.cz/detail/jiri-kobza-2",
-    "https://hlidacstatu.cz/osoba/jiri-kobza-2"
+    "https://hlidacstatu.cz/osoba/jiri-kobza-2",
+    "kobzaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jirikobza.cz"

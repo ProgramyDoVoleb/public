@@ -19,7 +19,12 @@
       "missing": 778,
       "lastUpdate": 1606750473177
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6495",
@@ -27,7 +32,8 @@
     "https://twitter.com/VichRadovan",
     "https://facebook.com/radovan.vich",
     "https://nasipolitici.cz/detail/radovan-vich-1",
-    "https://hlidacstatu.cz/osoba/radovan-vich-1"
+    "https://hlidacstatu.cz/osoba/radovan-vich-1",
+    "vichr@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/VichRadovan"

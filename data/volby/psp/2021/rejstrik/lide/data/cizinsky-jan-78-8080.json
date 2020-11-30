@@ -19,7 +19,12 @@
       "missing": 456,
       "lastUpdate": 1606750471745
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6443",
@@ -27,14 +32,15 @@
     "https://twitter.com/jancizinsky",
     "https://facebook.com/jan.cizinsky.1",
     "https://nasipolitici.cz/detail/jan-cizinsky",
-    "https://hlidacstatu.cz/osoba/jan-cizinsky"
+    "https://hlidacstatu.cz/osoba/jan-cizinsky",
+    "cizinskyj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jenda.cizinsky",
     "https://twitter.com/jancizinsky"
   ],
   "sex": 1,
-  "born": "1978-04-22",
+  "born": "1978-4-22",
   "work": "poslanec",
   "hash": "cizinsky-jan-78-8080",
   "photo": {

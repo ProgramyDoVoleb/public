@@ -19,7 +19,12 @@
       "missing": 166,
       "lastUpdate": 1606750472918
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6519",
@@ -28,7 +33,8 @@
     "https://twitter.com/rehounek",
     "https://facebook.com/jan.rehounek",
     "https://nasipolitici.cz/detail/jan-rehounek",
-    "https://hlidacstatu.cz/osoba/jan-rehounek"
+    "https://hlidacstatu.cz/osoba/jan-rehounek",
+    "rehounekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/rehounek",

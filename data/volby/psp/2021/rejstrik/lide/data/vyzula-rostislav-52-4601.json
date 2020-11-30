@@ -19,7 +19,12 @@
       "missing": 99,
       "lastUpdate": 1606750473279
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6161",
@@ -27,14 +32,15 @@
     "https://facebook.com/vyzula.ano2011",
     "https://twitter.com/rostislavvyzula",
     "https://nasipolitici.cz/detail/rostislav-vyzula",
-    "https://hlidacstatu.cz/osoba/rostislav-vyzula"
+    "https://hlidacstatu.cz/osoba/rostislav-vyzula",
+    "vyzular@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vyzula.ano2011",
     "https://twitter.com/rostislavvyzula"
   ],
   "sex": 1,
-  "born": "1952-12-03",
+  "born": "1952-12-3",
   "work": "poslanec",
   "hash": "vyzula-rostislav-52-4601",
   "photo": {

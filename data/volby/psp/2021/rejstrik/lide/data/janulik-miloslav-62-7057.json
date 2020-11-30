@@ -19,20 +19,26 @@
       "missing": 102,
       "lastUpdate": 1606750472089
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6201",
     "https://www.janulik.cz/",
     "https://facebook.com/janulikm",
     "https://nasipolitici.cz/detail/miloslav-janulik",
-    "https://hlidacstatu.cz/osoba/miloslav-janulik"
+    "https://hlidacstatu.cz/osoba/miloslav-janulik",
+    "janulikm@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/janulikm"
   ],
   "sex": 1,
-  "born": "1962-09-21",
+  "born": "1962-9-21",
   "work": "poslanec",
   "hash": "janulik-miloslav-62-7057",
   "photo": {

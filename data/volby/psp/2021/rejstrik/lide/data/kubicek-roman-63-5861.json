@@ -19,20 +19,26 @@
       "missing": 40,
       "lastUpdate": 1606750472373
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6215",
     "https://twitter.com/Roman_Kubicek",
     "https://facebook.com/roman.kubicek.31",
     "https://nasipolitici.cz/detail/roman-kubicek",
-    "https://hlidacstatu.cz/osoba/roman-kubicek"
+    "https://hlidacstatu.cz/osoba/roman-kubicek",
+    "kubicekr@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/Roman_Kubicek"
   ],
   "sex": 1,
-  "born": "1963-05-06",
+  "born": "1963-5-6",
   "work": "poslanec",
   "hash": "kubicek-roman-63-5861",
   "photo": {

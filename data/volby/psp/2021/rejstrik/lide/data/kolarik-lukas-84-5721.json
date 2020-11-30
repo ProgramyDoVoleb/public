@@ -19,7 +19,12 @@
       "missing": 184,
       "lastUpdate": 1606750472257
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6507",
@@ -27,14 +32,15 @@
     "https://facebook.com/pirat.kolarik",
     "https://twitter.com/kolarik_lukas",
     "https://nasipolitici.cz/detail/lukas-kolarik-1",
-    "https://hlidacstatu.cz/osoba/lukas-kolarik-1"
+    "https://hlidacstatu.cz/osoba/lukas-kolarik-1",
+    "kolarikl@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/pirat.kolarik",
     "https://twitter.com/kolarik_lukas"
   ],
   "sex": 1,
-  "born": "1984-03-05",
+  "born": "1984-3-5",
   "work": "poslanec",
   "hash": "kolarik-lukas-84-5721",
   "photo": {

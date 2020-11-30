@@ -19,7 +19,12 @@
       "missing": 705,
       "lastUpdate": 1606750472687
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 166,
+      "party": 166
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6541",
@@ -27,13 +32,14 @@
     "https://twitter.com/Petr_Pavek",
     "https://facebook.com/petr.pavek.967",
     "https://nasipolitici.cz/detail/petr-pavek-8",
-    "https://hlidacstatu.cz/osoba/petr-pavek-8"
+    "https://hlidacstatu.cz/osoba/petr-pavek-8",
+    "pavekp@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/Petr_Pavek"
   ],
   "sex": 1,
-  "born": "1963-05-13",
+  "born": "1963-5-13",
   "work": "poslanec",
   "hash": "pavek-petr-63-5237",
   "photo": {

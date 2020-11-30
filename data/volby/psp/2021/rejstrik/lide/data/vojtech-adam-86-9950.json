@@ -19,7 +19,12 @@
       "missing": 281,
       "lastUpdate": 1606750473183
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6491",
@@ -28,14 +33,15 @@
     "https://twitter.com/adamvojtechano",
     "https://facebook.com/adam.vojtech.5",
     "https://nasipolitici.cz/detail/adam-vojtech-1",
-    "https://hlidacstatu.cz/osoba/adam-vojtech-1"
+    "https://hlidacstatu.cz/osoba/adam-vojtech-1",
+    "vojtecha@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/adamvojtech2017",
     "https://twitter.com/adamvojtechano"
   ],
   "sex": 1,
-  "born": "1986-10-02",
+  "born": "1986-10-2",
   "work": "poslanec",
   "hash": "vojtech-adam-86-9950",
   "photo": {

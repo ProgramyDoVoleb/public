@@ -19,19 +19,25 @@
       "missing": 696,
       "lastUpdate": 1606750472301
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=309",
     "https://facebook.com/kovacik.pavel",
     "https://nasipolitici.cz/detail/pavel-kovacik",
-    "https://hlidacstatu.cz/osoba/pavel-kovacik"
+    "https://hlidacstatu.cz/osoba/pavel-kovacik",
+    "kovacik@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/kovacik.pavel"
   ],
   "sex": 1,
-  "born": "1955-07-02",
+  "born": "1955-7-2",
   "work": "poslanec",
   "hash": "kovacik-pavel-55-2428",
   "photo": {

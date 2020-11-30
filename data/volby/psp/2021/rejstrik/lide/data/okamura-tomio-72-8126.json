@@ -19,7 +19,12 @@
       "missing": 484,
       "lastUpdate": 1606750472624
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6105",
@@ -27,14 +32,15 @@
     "https://facebook.com/tomio.cz",
     "https://twitter.com/tomio_cz",
     "https://nasipolitici.cz/detail/tomio-okamura",
-    "https://hlidacstatu.cz/osoba/tomio-okamura"
+    "https://hlidacstatu.cz/osoba/tomio-okamura",
+    "okamurat@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/tomio.cz",
     "https://twitter.com/tomio_cz"
   ],
   "sex": 1,
-  "born": "1972-07-04",
+  "born": "1972-7-4",
   "work": "poslanec",
   "hash": "okamura-tomio-72-8126",
   "photo": {

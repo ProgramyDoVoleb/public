@@ -19,14 +19,20 @@
       "missing": 201,
       "lastUpdate": 1606750472873
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6500",
     "https://www.richterjan.cz/",
     "https://facebook.com/profile.php?id=100011247881063",
     "https://nasipolitici.cz/detail/jan-richter",
-    "https://hlidacstatu.cz/osoba/jan-richter"
+    "https://hlidacstatu.cz/osoba/jan-richter",
+    "richterj@psp.cz"
   ],
   "embeds": [],
   "sex": 1,

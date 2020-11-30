@@ -19,7 +19,12 @@
       "missing": 600,
       "lastUpdate": 1606750471436
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5379",
@@ -27,13 +32,14 @@
     "https://twitter.com/bauerjenda",
     "https://facebook.com/bauer.honza",
     "https://nasipolitici.cz/detail/jan-bauer",
-    "https://hlidacstatu.cz/osoba/jan-bauer"
+    "https://hlidacstatu.cz/osoba/jan-bauer",
+    "bauerj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/bauerjenda"
   ],
   "sex": 1,
-  "born": "1969-04-27",
+  "born": "1969-4-27",
   "work": "poslanec",
   "hash": "bauer-jan-69-0586",
   "photo": {

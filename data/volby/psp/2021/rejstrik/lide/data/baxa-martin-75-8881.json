@@ -19,21 +19,27 @@
       "missing": 80,
       "lastUpdate": 1606750471447
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6435",
     "https://facebook.com/MartinBaxa",
     "https://twitter.com/MartinBaxa2",
     "https://nasipolitici.cz/detail/martin-baxa",
-    "https://hlidacstatu.cz/osoba/martin-baxa"
+    "https://hlidacstatu.cz/osoba/martin-baxa",
+    "baxam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/MartinBaxa",
     "https://twitter.com/MartinBaxa2"
   ],
   "sex": 1,
-  "born": "1975-09-16",
+  "born": "1975-9-16",
   "work": "poslanec",
   "hash": "baxa-martin-75-8881",
   "photo": {

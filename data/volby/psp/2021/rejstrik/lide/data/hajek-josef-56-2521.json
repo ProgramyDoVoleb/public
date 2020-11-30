@@ -19,20 +19,26 @@
       "missing": 455,
       "lastUpdate": 1606750471983
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6139",
     "https://twitter.com/Pephaj",
     "https://facebook.com/mr.hajek",
     "https://nasipolitici.cz/detail/josef-hajek",
-    "https://hlidacstatu.cz/osoba/josef-hajek"
+    "https://hlidacstatu.cz/osoba/josef-hajek",
+    "hajekj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/Pephaj"
   ],
   "sex": 1,
-  "born": "1956-07-03",
+  "born": "1956-7-3",
   "work": "poslanec",
   "hash": "hajek-josef-56-2521",
   "photo": {

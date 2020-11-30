@@ -19,7 +19,12 @@
       "missing": 217,
       "lastUpdate": 1606750473096
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6137",
@@ -27,13 +32,14 @@
     "https://facebook.com/FrantisekVacha.cz",
     "https://facebook.com/vachaf",
     "https://nasipolitici.cz/detail/frantisek-vacha",
-    "https://hlidacstatu.cz/osoba/frantisek-vacha"
+    "https://hlidacstatu.cz/osoba/frantisek-vacha",
+    "vachaf@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/FrantisekVacha.cz"
   ],
   "sex": 1,
-  "born": "1966-09-11",
+  "born": "1966-9-11",
   "work": "poslanec",
   "hash": "vacha-frantisek-66-4316",
   "photo": {

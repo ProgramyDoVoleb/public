@@ -19,7 +19,12 @@
       "missing": 89,
       "lastUpdate": 1606750472319
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6465",
@@ -27,7 +32,8 @@
     "https://twitter.com/Kozlova_Pirati",
     "https://facebook.com/lenka.kozlova.5",
     "https://nasipolitici.cz/detail/lenka-kozlova-4",
-    "https://hlidacstatu.cz/osoba/lenka-kozlova-4"
+    "https://hlidacstatu.cz/osoba/lenka-kozlova-4",
+    "kozloval@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/Kozlova_Pirati"

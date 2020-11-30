@@ -19,20 +19,26 @@
       "missing": 366,
       "lastUpdate": 1606750472994
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 10,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6501",
     "http://www.pavel-stanek.cz/",
     "https://facebook.com/pavel.stanek.cz",
     "https://nasipolitici.cz/detail/pavel-stanek-1",
-    "https://hlidacstatu.cz/osoba/pavel-stanek-1"
+    "https://hlidacstatu.cz/osoba/pavel-stanek-1",
+    "stanekp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/pavel.stanek.cz"
   ],
   "sex": 1,
-  "born": "1967-01-20",
+  "born": "1967-1-20",
   "work": "poslanec",
   "hash": "stanek-pavel-67-6606",
   "photo": {

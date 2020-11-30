@@ -19,21 +19,27 @@
       "missing": 928,
       "lastUpdate": 1606750471903
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 2,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=303",
     "https://facebook.com/vojtech.filip.politik",
     "https://twitter.com/vojtafilip",
     "https://nasipolitici.cz/detail/vojtech-filip",
-    "https://hlidacstatu.cz/osoba/vojtech-filip"
+    "https://hlidacstatu.cz/osoba/vojtech-filip",
+    "filip@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vojtech.filip.politik",
     "https://twitter.com/vojtafilip"
   ],
   "sex": 1,
-  "born": "1955-01-13",
+  "born": "1955-1-13",
   "work": "poslanec",
   "hash": "filip-vojtech-55-3854",
   "photo": {

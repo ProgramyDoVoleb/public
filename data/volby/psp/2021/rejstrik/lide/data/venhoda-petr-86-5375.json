@@ -19,7 +19,12 @@
       "missing": 229,
       "lastUpdate": 1606750473158
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6587",
@@ -28,14 +33,15 @@
     "https://twitter.com/petrvenhoda",
     "https://facebook.com/petr.venhoda",
     "https://nasipolitici.cz/detail/petr-venhoda",
-    "https://hlidacstatu.cz/osoba/petr-venhoda"
+    "https://hlidacstatu.cz/osoba/petr-venhoda",
+    "venhodap@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/venhodapetr",
     "https://twitter.com/petrvenhoda"
   ],
   "sex": 1,
-  "born": "1986-07-25",
+  "born": "1986-7-25",
   "work": "poslanec",
   "hash": "venhoda-petr-86-5375",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 141,
       "lastUpdate": 1606750472681
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 6,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6225",
@@ -28,14 +33,15 @@
     "https://twitter.com/pastuchovaANO",
     "https://facebook.com/jana.p.kristekova",
     "https://nasipolitici.cz/detail/jana-pastuchova",
-    "https://hlidacstatu.cz/osoba/jana-pastuchova"
+    "https://hlidacstatu.cz/osoba/jana-pastuchova",
+    "pastuchovaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/janapastuchova2021",
     "https://twitter.com/pastuchovaANO"
   ],
   "sex": 2,
-  "born": "1965-07-21",
+  "born": "1965-7-21",
   "work": "poslankyně",
   "hash": "pastuchova-jana-65-2026",
   "photo": {

@@ -19,17 +19,23 @@
       "missing": 40,
       "lastUpdate": 1606750471812
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6447",
     "https://facebook.com/farhanpolitik",
     "https://nasipolitici.cz/detail/kamal-farhan",
-    "https://hlidacstatu.cz/osoba/kamal-farhan"
+    "https://hlidacstatu.cz/osoba/kamal-farhan",
+    "farhank@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1969-01-29",
+  "born": "1969-1-29",
   "work": "poslanec",
   "hash": "farhan-kamal-69-7217",
   "photo": {

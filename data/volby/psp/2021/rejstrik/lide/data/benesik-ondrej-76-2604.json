@@ -19,21 +19,27 @@
       "missing": 596,
       "lastUpdate": 1606750471540
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6179",
     "https://facebook.com/benesik",
     "https://twitter.com/OndrejBenesik",
     "https://nasipolitici.cz/detail/ondrej-benesik",
-    "https://hlidacstatu.cz/osoba/ondrej-benesik"
+    "https://hlidacstatu.cz/osoba/ondrej-benesik",
+    "benesiko@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/benesik",
     "https://twitter.com/OndrejBenesik"
   ],
   "sex": 1,
-  "born": "1976-06-27",
+  "born": "1976-6-27",
   "work": "poslanec",
   "hash": "benesik-ondrej-76-2604",
   "photo": {

@@ -19,17 +19,23 @@
       "missing": 456,
       "lastUpdate": 1606750472763
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 1114,
+      "party": 1114
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6530",
     "https://facebook.com/zdenek.podal",
     "https://nasipolitici.cz/detail/zdenek-podal",
-    "https://hlidacstatu.cz/osoba/zdenek-podal"
+    "https://hlidacstatu.cz/osoba/zdenek-podal",
+    "podalz@psp.cz"
   ],
   "embeds": [],
   "sex": 1,
-  "born": "1953-04-12",
+  "born": "1953-4-12",
   "work": "poslanec",
   "hash": "podal-zdenek-53-8425",
   "photo": {

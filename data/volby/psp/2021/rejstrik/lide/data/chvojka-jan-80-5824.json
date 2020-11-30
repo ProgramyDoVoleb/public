@@ -19,7 +19,12 @@
       "missing": 131,
       "lastUpdate": 1606750472064
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5926",
@@ -27,7 +32,8 @@
     "https://twitter.com/ChvojkaCssd",
     "https://facebook.com/chvojkaj",
     "https://nasipolitici.cz/detail/jan-chvojka",
-    "https://hlidacstatu.cz/osoba/jan-chvojka"
+    "https://hlidacstatu.cz/osoba/jan-chvojka",
+    "chvojkaj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jchvojka",

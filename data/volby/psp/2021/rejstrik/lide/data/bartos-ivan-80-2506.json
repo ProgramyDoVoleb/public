@@ -19,7 +19,12 @@
       "missing": 189,
       "lastUpdate": 1606750471381
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6433",
@@ -27,13 +32,14 @@
     "https://instagram.com/pirativanbartos",
     "https://facebook.com/ivan.bartos.37",
     "https://nasipolitici.cz/detail/ivan-bartos",
-    "https://hlidacstatu.cz/osoba/ivan-bartos"
+    "https://hlidacstatu.cz/osoba/ivan-bartos",
+    "bartosi@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/pirativanbartos"
   ],
   "sex": 1,
-  "born": "1980-03-20",
+  "born": "1980-3-20",
   "work": "poslanec",
   "hash": "bartos-ivan-80-2506",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 315,
       "lastUpdate": 1606750472704
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 721,
+      "party": 721
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6147",
@@ -28,14 +33,15 @@
     "https://twitter.com/market_a",
     "https://facebook.com/marketa.adamova.92",
     "https://nasipolitici.cz/detail/marketa-pekarova-adamova",
-    "https://hlidacstatu.cz/osoba/marketa-pekarova-adamova"
+    "https://hlidacstatu.cz/osoba/marketa-pekarova-adamova",
+    "adamovam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/AdamovaTOP09",
     "https://twitter.com/market_a"
   ],
   "sex": 2,
-  "born": "1984-10-02",
+  "born": "1984-10-2",
   "work": "poslankyně",
   "hash": "pekarova-adamova-marketa-84-4215",
   "photo": {

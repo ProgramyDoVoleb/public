@@ -19,7 +19,12 @@
       "missing": 671,
       "lastUpdate": 1606750472982
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6418",
@@ -27,7 +32,8 @@
     "https://facebook.com/jan.skopecek.3",
     "https://twitter.com/Jan_Skopecek",
     "https://nasipolitici.cz/detail/jan-skopecek",
-    "https://hlidacstatu.cz/osoba/jan-skopecek"
+    "https://hlidacstatu.cz/osoba/jan-skopecek",
+    "skopecekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/jan.skopecek.3",

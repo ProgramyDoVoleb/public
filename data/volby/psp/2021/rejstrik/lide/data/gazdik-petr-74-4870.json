@@ -19,7 +19,12 @@
       "missing": 568,
       "lastUpdate": 1606750471951
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 166,
+      "party": 166
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5914",
@@ -27,14 +32,15 @@
     "https://twitter.com/petrgazdik",
     "https://facebook.com/petr.gazdik.1",
     "https://nasipolitici.cz/detail/petr-gazdik",
-    "https://hlidacstatu.cz/osoba/petr-gazdik"
+    "https://hlidacstatu.cz/osoba/petr-gazdik",
+    "gazdikp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/petr.gazdik",
     "https://twitter.com/petrgazdik"
   ],
   "sex": 1,
-  "born": "1974-06-26",
+  "born": "1974-6-26",
   "work": "poslanec",
   "hash": "gazdik-petr-74-4870",
   "photo": {

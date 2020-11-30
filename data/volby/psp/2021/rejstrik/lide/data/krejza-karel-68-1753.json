@@ -19,7 +19,12 @@
       "missing": 692,
       "lastUpdate": 1606750472361
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 5,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6510",
@@ -28,14 +33,15 @@
     "https://instagram.com/karelkrejza.cz",
     "https://facebook.com/100011529815889",
     "https://nasipolitici.cz/detail/karel-krejza",
-    "https://hlidacstatu.cz/osoba/karel-krejza"
+    "https://hlidacstatu.cz/osoba/karel-krejza",
+    "krejzak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/karelkrejza.cz",
     "https://twitter.com/KrejzaODS"
   ],
   "sex": 1,
-  "born": "1968-02-12",
+  "born": "1968-2-12",
   "work": "poslanec",
   "hash": "krejza-karel-68-1753",
   "photo": {

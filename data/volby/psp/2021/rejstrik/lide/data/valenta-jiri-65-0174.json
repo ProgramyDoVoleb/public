@@ -19,14 +19,20 @@
       "missing": 78,
       "lastUpdate": 1606750473117
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 47,
+      "party": 47
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6169",
     "https://valenta.estranky.cz/",
     "https://twitter.com/JiValenta",
     "https://nasipolitici.cz/detail/jiri-valenta",
-    "https://hlidacstatu.cz/osoba/jiri-valenta"
+    "https://hlidacstatu.cz/osoba/jiri-valenta",
+    "valentaj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/JiValenta"

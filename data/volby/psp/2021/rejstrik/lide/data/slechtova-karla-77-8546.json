@@ -19,7 +19,12 @@
       "missing": 479,
       "lastUpdate": 1606750473055
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6287",
@@ -28,14 +33,15 @@
     "https://twitter.com/SlechtovaKarla",
     "https://facebook.com/karla.slechtova",
     "https://nasipolitici.cz/detail/karla-slechtova",
-    "https://hlidacstatu.cz/osoba/karla-slechtova"
+    "https://hlidacstatu.cz/osoba/karla-slechtova",
+    "slechtovak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/SlechtovaKarla",
     "https://twitter.com/SlechtovaKarla"
   ],
   "sex": 2,
-  "born": "1977-05-22",
+  "born": "1977-5-22",
   "work": "poslankyně",
   "hash": "slechtova-karla-77-8546",
   "photo": {

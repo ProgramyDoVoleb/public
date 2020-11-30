@@ -19,7 +19,12 @@
       "missing": 208,
       "lastUpdate": 1606750473257
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 1,
+      "party": 1
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6513",
@@ -28,14 +33,15 @@
     "https://twitter.com/MarekVyborny",
     "https://facebook.com/100007597217986",
     "https://nasipolitici.cz/detail/marek-vyborny",
-    "https://hlidacstatu.cz/osoba/marek-vyborny"
+    "https://hlidacstatu.cz/osoba/marek-vyborny",
+    "vybornym@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/vybornymarek",
     "https://twitter.com/MarekVyborny"
   ],
   "sex": 1,
-  "born": "1976-07-10",
+  "born": "1976-7-10",
   "work": "poslanec",
   "hash": "vyborny-marek-76-1317",
   "photo": {

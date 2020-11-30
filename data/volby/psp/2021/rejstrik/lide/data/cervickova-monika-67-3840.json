@@ -19,20 +19,26 @@
       "missing": 48,
       "lastUpdate": 1606750471712
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6580",
     "http://www.monikacervickova.cz/",
     "https://facebook.com/monikacervickova",
     "https://nasipolitici.cz/detail/monika-cervickova",
-    "https://hlidacstatu.cz/osoba/monika-cervickova"
+    "https://hlidacstatu.cz/osoba/monika-cervickova",
+    "cervickovam@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/monikacervickova"
   ],
   "sex": 2,
-  "born": "1967-02-09",
+  "born": "1967-2-9",
   "work": "poslankyně",
   "hash": "cervickova-monika-67-3840",
   "photo": {

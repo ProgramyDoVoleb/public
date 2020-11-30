@@ -19,21 +19,27 @@
       "missing": 768,
       "lastUpdate": 1606750473018
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6007",
     "https://facebook.com/bohuslav.svoboda",
     "https://twitter.com/BohuslavSvoboda",
     "https://nasipolitici.cz/detail/bohuslav-svoboda",
-    "https://hlidacstatu.cz/osoba/bohuslav-svoboda"
+    "https://hlidacstatu.cz/osoba/bohuslav-svoboda",
+    "svobodab@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/bohuslav.svoboda",
     "https://twitter.com/BohuslavSvoboda"
   ],
   "sex": 1,
-  "born": "1944-02-08",
+  "born": "1944-2-8",
   "work": "poslanec",
   "hash": "svoboda-bohuslav-44-6829",
   "photo": {

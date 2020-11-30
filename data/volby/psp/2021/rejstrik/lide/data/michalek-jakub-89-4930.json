@@ -19,20 +19,26 @@
       "missing": 312,
       "lastUpdate": 1606750472568
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6477",
     "https://twitter.com/JakubMichalek19",
     "https://facebook.com/smidak",
     "https://nasipolitici.cz/detail/jakub-michalek",
-    "https://hlidacstatu.cz/osoba/jakub-michalek"
+    "https://hlidacstatu.cz/osoba/jakub-michalek",
+    "michalekj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/JakubMichalek19"
   ],
   "sex": 1,
-  "born": "1989-02-06",
+  "born": "1989-2-6",
   "work": "poslanec",
   "hash": "michalek-jakub-89-4930",
   "photo": {

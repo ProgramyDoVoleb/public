@@ -19,7 +19,12 @@
       "missing": 157,
       "lastUpdate": 1606750472925
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6518",
@@ -29,14 +34,15 @@
     "https://instagram.com/sadovsky_petr",
     "https://facebook.com/1st.Sado",
     "https://nasipolitici.cz/detail/petr-sadovsky-4",
-    "https://hlidacstatu.cz/osoba/petr-sadovsky-4"
+    "https://hlidacstatu.cz/osoba/petr-sadovsky-4",
+    "sadovskyp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/PetrSadovskyANO",
     "https://twitter.com/PetrSadovskyp"
   ],
   "sex": 1,
-  "born": "1969-06-26",
+  "born": "1969-6-26",
   "work": "poslanec",
   "hash": "sadovsky-petr-69-6840",
   "photo": {

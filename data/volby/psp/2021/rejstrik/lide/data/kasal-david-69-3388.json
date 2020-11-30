@@ -19,20 +19,26 @@
       "missing": 213,
       "lastUpdate": 1606750472195
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6209",
     "https://mudrdavidkasal.cz/",
     "https://facebook.com/pediatrchrudim",
     "https://nasipolitici.cz/detail/david-kasal",
-    "https://hlidacstatu.cz/osoba/david-kasal"
+    "https://hlidacstatu.cz/osoba/david-kasal",
+    "kasald@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/pediatrchrudim"
   ],
   "sex": 1,
-  "born": "1969-01-01",
+  "born": "1969-1-1",
   "work": "poslanec",
   "hash": "kasal-david-69-3388",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 602,
       "lastUpdate": 1606750471773
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6430",
@@ -28,14 +33,15 @@
     "https://twitter.com/DostalovaK",
     "https://facebook.com/100009551461833",
     "https://nasipolitici.cz/detail/klara-dostalova",
-    "https://hlidacstatu.cz/osoba/klara-dostalova"
+    "https://hlidacstatu.cz/osoba/klara-dostalova",
+    "dostalovak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/KlaraDostalovaMMR",
     "https://twitter.com/DostalovaK"
   ],
   "sex": 2,
-  "born": "1971-03-13",
+  "born": "1971-3-13",
   "work": "poslankyně",
   "hash": "dostalova-klara-71-7300",
   "photo": {

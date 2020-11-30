@@ -19,7 +19,12 @@
       "missing": 267,
       "lastUpdate": 1606750472137
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 13,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6463",
@@ -27,14 +32,15 @@
     "https://facebook.com/juchelkaales",
     "https://twitter.com/JuchelkaAles",
     "https://nasipolitici.cz/detail/ales-juchelka",
-    "https://hlidacstatu.cz/osoba/ales-juchelka"
+    "https://hlidacstatu.cz/osoba/ales-juchelka",
+    "juchelkaa@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/juchelkaales",
     "https://twitter.com/JuchelkaAles"
   ],
   "sex": 1,
-  "born": "1976-04-18",
+  "born": "1976-4-18",
   "work": "poslanec",
   "hash": "juchelka-ales-76-7356",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 175,
       "lastUpdate": 1606750473085
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 4,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6483",
@@ -27,13 +32,14 @@
     "https://twitter.com/petr_tresnak",
     "https://facebook.com/petr.tresnak",
     "https://nasipolitici.cz/detail/petr-tresnak-12",
-    "https://hlidacstatu.cz/osoba/petr-tresnak-12"
+    "https://hlidacstatu.cz/osoba/petr-tresnak-12",
+    "tresnakp@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/petr_tresnak"
   ],
   "sex": 1,
-  "born": "1983-01-04",
+  "born": "1983-1-4",
   "work": "poslanec",
   "hash": "tresnak-petr-83-5561",
   "photo": {

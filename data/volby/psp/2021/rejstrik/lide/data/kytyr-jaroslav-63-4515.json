@@ -19,7 +19,12 @@
       "missing": 28,
       "lastUpdate": 1606750472391
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 8,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6512",
@@ -28,14 +33,15 @@
     "https://twitter.com/JaroslavKytyr",
     "https://facebook.com/jaroslav.kytyr.3",
     "https://nasipolitici.cz/detail/jaroslav-kytyr",
-    "https://hlidacstatu.cz/osoba/jaroslav-kytyr"
+    "https://hlidacstatu.cz/osoba/jaroslav-kytyr",
+    "kytyrj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/KytyrJaroslav",
     "https://twitter.com/JaroslavKytyr"
   ],
   "sex": 1,
-  "born": "1963-03-24",
+  "born": "1963-3-24",
   "work": "poslanec",
   "hash": "kytyr-jaroslav-63-4515",
   "photo": {

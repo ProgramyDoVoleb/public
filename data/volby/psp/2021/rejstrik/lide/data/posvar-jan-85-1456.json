@@ -19,7 +19,12 @@
       "missing": 157,
       "lastUpdate": 1606750472785
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 720,
+      "party": 720
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6528",
@@ -28,13 +33,14 @@
     "https://instagram.com/posvar_jan",
     "https://facebook.com/ArAx666",
     "https://nasipolitici.cz/detail/jan-posvar-3",
-    "https://hlidacstatu.cz/osoba/jan-posvar-3"
+    "https://hlidacstatu.cz/osoba/jan-posvar-3",
+    "posvarj@psp.cz"
   ],
   "embeds": [
     "https://twitter.com/PosvarJan"
   ],
   "sex": 1,
-  "born": "1985-05-16",
+  "born": "1985-5-16",
   "work": "poslanec",
   "hash": "posvar-jan-85-1456",
   "photo": {

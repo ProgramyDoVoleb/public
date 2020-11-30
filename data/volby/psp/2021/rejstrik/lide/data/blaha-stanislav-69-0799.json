@@ -19,7 +19,12 @@
       "missing": 380,
       "lastUpdate": 1606750471579
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 53,
+      "party": 53
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6438",
@@ -29,7 +34,8 @@
     "https://instagram.com/stanislav.blaha",
     "https://facebook.com/stanislav.blaha.7",
     "https://nasipolitici.cz/detail/stanislav-blaha",
-    "https://hlidacstatu.cz/osoba/stanislav-blaha"
+    "https://hlidacstatu.cz/osoba/stanislav-blaha",
+    "blahas@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/Ing.StanislavBlaha",

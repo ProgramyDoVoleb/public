@@ -19,7 +19,12 @@
       "missing": 74,
       "lastUpdate": 1606750472609
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 12,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6533",
@@ -29,14 +34,15 @@
     "https://instagram.com/marek.novak.ano",
     "https://facebook.com/marek.novak.357",
     "https://nasipolitici.cz/detail/marek-novak-12",
-    "https://hlidacstatu.cz/osoba/marek-novak-12"
+    "https://hlidacstatu.cz/osoba/marek-novak-12",
+    "novakm@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/MarekNovakAno",
     "https://twitter.com/ca340354"
   ],
   "sex": 1,
-  "born": "1976-08-02",
+  "born": "1976-8-2",
   "work": "poslanec",
   "hash": "novak-marek-76-4747",
   "photo": {

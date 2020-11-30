@@ -19,7 +19,12 @@
       "missing": 120,
       "lastUpdate": 1606750471455
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6002",
@@ -27,14 +32,15 @@
     "https://twitter.com/JiriJBehounek",
     "https://facebook.com/jiri.behounek.16",
     "https://nasipolitici.cz/detail/jiri-behounek",
-    "https://hlidacstatu.cz/osoba/jiri-behounek"
+    "https://hlidacstatu.cz/osoba/jiri-behounek",
+    "behounekj@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/behounek.jiri",
     "https://twitter.com/JiriJBehounek"
   ],
   "sex": 1,
-  "born": "1952-05-13",
+  "born": "1952-5-13",
   "work": "poslanec",
   "hash": "behounek-jiri-52-2578",
   "photo": {

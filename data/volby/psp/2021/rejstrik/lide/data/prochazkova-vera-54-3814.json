@@ -19,7 +19,12 @@
       "missing": 213,
       "lastUpdate": 1606750472809
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 4,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6472",
@@ -27,13 +32,14 @@
     "https://facebook.com/mudrveraprochazkova",
     "https://facebook.com/vera.prochazkova.357",
     "https://nasipolitici.cz/detail/vera-prochazkova-19",
-    "https://hlidacstatu.cz/osoba/vera-prochazkova-19"
+    "https://hlidacstatu.cz/osoba/vera-prochazkova-19",
+    "prochazkovav@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/mudrveraprochazkova"
   ],
   "sex": 2,
-  "born": "1954-04-03",
+  "born": "1954-4-3",
   "work": "poslankyně",
   "hash": "prochazkova-vera-54-3814",
   "photo": {

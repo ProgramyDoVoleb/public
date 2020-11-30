@@ -19,7 +19,12 @@
       "missing": 533,
       "lastUpdate": 1606750473104
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 1,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6337",
@@ -27,14 +32,15 @@
     "https://twitter.com/katavalachova",
     "https://facebook.com/valachova.katerina",
     "https://nasipolitici.cz/detail/katerina-valachova",
-    "https://hlidacstatu.cz/osoba/katerina-valachova"
+    "https://hlidacstatu.cz/osoba/katerina-valachova",
+    "valachovak@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/valachova.katka",
     "https://twitter.com/katavalachova"
   ],
   "sex": 2,
-  "born": "1976-09-15",
+  "born": "1976-9-15",
   "work": "poslankyně",
   "hash": "valachova-katerina-76-4881",
   "photo": {

@@ -19,7 +19,12 @@
       "missing": 120,
       "lastUpdate": 1606750472355
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 0,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6509",
@@ -27,14 +32,15 @@
     "https://facebook.com/KralicekRobert",
     "https://twitter.com/kralicek_psp",
     "https://nasipolitici.cz/detail/robert-kralicek",
-    "https://hlidacstatu.cz/osoba/robert-kralicek"
+    "https://hlidacstatu.cz/osoba/robert-kralicek",
+    "kralicekr@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/KralicekRobert",
     "https://twitter.com/kralicek_psp"
   ],
   "sex": 1,
-  "born": "1977-02-11",
+  "born": "1977-2-11",
   "work": "poslanec",
   "hash": "kralicek-robert-77-5051",
   "photo": {

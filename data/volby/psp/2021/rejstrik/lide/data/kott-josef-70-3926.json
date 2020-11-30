@@ -19,13 +19,19 @@
       "missing": 40,
       "lastUpdate": 1606750472294
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 9,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6246",
     "https://josefkott.cz/",
     "https://nasipolitici.cz/detail/josef-kott",
-    "https://hlidacstatu.cz/osoba/josef-kott"
+    "https://hlidacstatu.cz/osoba/josef-kott",
+    "kottj@psp.cz"
   ],
   "embeds": [],
   "sex": 1,

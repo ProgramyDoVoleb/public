@@ -19,7 +19,12 @@
       "missing": 214,
       "lastUpdate": 1606750473227
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 3,
+      "nominee": 7,
+      "party": 7
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=5272",
@@ -28,14 +33,15 @@
     "https://twitter.com/VotavaVaclav",
     "https://facebook.com/vaclav.votava.7",
     "https://nasipolitici.cz/detail/vaclav-votava",
-    "https://hlidacstatu.cz/osoba/vaclav-votava"
+    "https://hlidacstatu.cz/osoba/vaclav-votava",
+    "votavav@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/votavavaclav",
     "https://twitter.com/VotavaVaclav"
   ],
   "sex": 1,
-  "born": "1956-06-18",
+  "born": "1956-6-18",
   "work": "poslanec",
   "hash": "votava-vaclav-56-0741",
   "photo": {

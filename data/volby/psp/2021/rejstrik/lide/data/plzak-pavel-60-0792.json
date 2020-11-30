@@ -19,20 +19,26 @@
       "missing": 328,
       "lastUpdate": 1606750472754
     },
-    "seeksReelection": -1
+    "seeksReelection": -1,
+    "election": {
+      "region": 7,
+      "nominee": 768,
+      "party": 768
+    }
   },
   "links": [
     "https://www.psp.cz/sqw/detail.sqw?id=6171",
     "https://www.pavelplzak.cz/",
     "https://facebook.com/mudr.pavelplzak",
     "https://nasipolitici.cz/detail/pavel-plzak",
-    "https://hlidacstatu.cz/osoba/pavel-plzak"
+    "https://hlidacstatu.cz/osoba/pavel-plzak",
+    "plzakp@psp.cz"
   ],
   "embeds": [
     "https://facebook.com/mudr.pavelplzak"
   ],
   "sex": 1,
-  "born": "1960-08-18",
+  "born": "1960-8-18",
   "work": "poslanec",
   "hash": "plzak-pavel-60-0792",
   "photo": {
