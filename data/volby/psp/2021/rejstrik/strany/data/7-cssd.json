@@ -1,0 +1,110 @@
+{
+  "reg": 7,
+  "name": "Česká strana sociálně demokratická",
+  "hash": "cssd",
+  "short": "ČSSD",
+  "logo": "http://data.programydovoleb.cz/volby/psp/2021/rejstrik/strany/loga/7-cssd-2020.png",
+  "color": "#f70000",
+  "links": {
+    "global": [
+      "http://www.cssd.cz",
+      "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A1_strana_soci%C3%A1ln%C4%9B_demokratick%C3%A1",
+      "https://www.facebook.com/cssdcz",
+      "https://www.youtube.com/user/cssdtelevize",
+      "https://www.instagram.com/socdemcz",
+      "https://twitter.com/cssd"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "http://stredocesky-kraj.cssd.cz",
+          "https://www.facebook.com/JistotyproStredocechy",
+          "https://www.instagram.com/cssdstredocesky"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "http://jihocesky-kraj.cssd.cz",
+          "https://www.facebook.com/cssdjihoceskykraj"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "http://plzensky-kraj.cssd.cz",
+          "https://www.facebook.com/cssdplzenskykraj"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "http://karlovarsky-kraj.cssd.cz/"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "http://ustecky-kraj.cssd.cz/"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "http://www.cssdliberecko.cz",
+          "https://www.facebook.com/CSSDKVVLiberecko",
+          "https://twitter.com/CSSD_Liberecko"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "http://kralovehradecky-kraj.cssd.cz/"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "http://pardubicky-kraj.cssd.cz/"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "http://kraj-vysocina.cssd.cz",
+          "https://www.facebook.com/cssdkrajvysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "http://jihomoravsky-kraj.cssd.cz",
+          "https://www.facebook.com/cssdjiznimorava"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://olomoucky-kraj.cssd.cz/",
+          "https://www.facebook.com/CssdOlomouckyKraj/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "http://zlinsky-kraj.cssd.cz/",
+          "https://www.facebook.com/cssd.zlinsko/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "http://moravskoslezsky.socdem.cz/",
+          "https://www.facebook.com/CssdMoravskoslezskyKraj/",
+          "https://twitter.com/cssdmsk"
+        ]
+      }
+    ]
+  }
+}

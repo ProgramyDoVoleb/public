@@ -1,0 +1,112 @@
+{
+  "reg": 53,
+  "name": "Občanská demokratická strana",
+  "hash": "ods",
+  "short": "ODS",
+  "logo": "http://data.programydovoleb.cz/volby/psp/2021/rejstrik/strany/loga/53-ods.svg",
+  "color": "#194392",
+  "links": {
+    "global": [
+      "http://www.ods.cz",
+      "https://cs.wikipedia.org/wiki/Ob%C4%8Dansk%C3%A1_demokratick%C3%A1_strana",
+      "https://www.facebook.com/ods.cz",
+      "https://www.youtube.com/c/odscz",
+      "https://www.instagram.com/ods.cz",
+      "https://twitter.com/ODScz"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.ods.cz/region.stredocesky/volby2020/krajske",
+          "https://www.facebook.com/349496602364"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://www.ods.cz/region.jihocesky/volby2020/krajske"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://www.ods.cz/region.plzensky/volby2020/krajske",
+          "https://www.facebook.com/regionplzensky"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://www.ods.cz/region.karlovarsky/volby2020/krajske",
+          "https://www.facebook.com/rs.ods.karlovarsky.kraj"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.ods.cz/region.ustecky/volby2020/krajske",
+          "https://www.facebook.com/ODS-%C3%9Asteck%C3%BD-kraj-1818344011729113"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.ods.cz/region.liberecky/volby2020/krajske",
+          "https://www.facebook.com/ODS-LIBERECK%C3%9D-KRAJ-150956650459/",
+          "https://twitter.com/ODSLibereckkraj"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://www.ods.cz/region.kralovehradecky/volby2020/krajske",
+          "https://www.facebook.com/ODSKHK",
+          "https://twitter.com/ODSHradecKrlov"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.ods.cz/region.pardubicky/volby2020/krajske",
+          "https://www.facebook.com/ods.pardubickykraj",
+          "https://twitter.com/odsregionpk"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.ods.cz/region.vysocina/volby2020/krajske",
+          "https://www.facebook.com/ODSVysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://www.ods.cz/region.jihomoravsky/volby2020/krajske"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.ods.cz/region.olomoucky/volby2020/krajske",
+          "https://www.facebook.com/Zjednodusme.to/"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://www.ods.cz/region.zlinsky/volby2020/krajske",
+          "https://www.facebook.com/odszlinskykraj/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://www.ods.cz/region.moravskoslezsky/volby2020/krajske",
+          "https://www.facebook.com/ods.moravskoslezskykraj"
+        ]
+      }
+    ]
+  }
+}

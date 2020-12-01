@@ -1,0 +1,105 @@
+{
+  "reg": 768,
+  "name": "ANO 2011",
+  "hash": "ano",
+  "short": "ANO",
+  "color": "#2f2f65",
+  "logo": "http://data.programydovoleb.cz/volby/psp/2021/rejstrik/strany/loga/768-ano.svg",
+  "links": {
+    "global": [
+      "http://www.anobudelip.cz",
+      "https://cs.wikipedia.org/wiki/ANO_2011",
+      "https://www.facebook.com/anobudelip",
+      "http://www.youtube.com/anobudelip"
+    ],
+    "regional": [
+      {
+        "region": 1,
+        "links": [
+          "https://www.anobudelip.cz/stredocesky-kraj"
+        ]
+      },
+      {
+        "region": 2,
+        "links": [
+          "https://www.anobudelip.cz/jihocesky-kraj",
+          "https://www.facebook.com/ANOjihoceskykraj"
+        ]
+      },
+      {
+        "region": 3,
+        "links": [
+          "https://www.anobudelip.cz/plzensky-kraj",
+          "https://www.facebook.com/anoplzenskykraj"
+        ]
+      },
+      {
+        "region": 4,
+        "links": [
+          "https://www.anobudelip.cz/karlovarsky-kraj"
+        ]
+      },
+      {
+        "region": 5,
+        "links": [
+          "https://www.anobudelip.cz/ustecky-kraj"
+        ]
+      },
+      {
+        "region": 6,
+        "links": [
+          "https://www.anobudelip.cz/liberecky-kraj"
+        ]
+      },
+      {
+        "region": 7,
+        "links": [
+          "https://www.anobudelip.cz/kralovehradecky-kraj",
+          "https://www.facebook.com/AnoTohleJeHradec"
+        ]
+      },
+      {
+        "region": 8,
+        "links": [
+          "https://www.anopardubickykraj.cz",
+          "https://www.anobudelip.cz/pardubicky-kraj",
+          "https://www.facebook.com/ANOPardubickykraj"
+        ]
+      },
+      {
+        "region": 9,
+        "links": [
+          "https://www.anobudelip.cz/kraj-vysocina"
+        ]
+      },
+      {
+        "region": 10,
+        "links": [
+          "https://www.anobudelip.cz/jihomoravsky-kraj",
+          "https://www.facebook.com/AnoJmK"
+        ]
+      },
+      {
+        "region": 11,
+        "links": [
+          "https://www.anobudelip.cz/olomoucky-kraj"
+        ]
+      },
+      {
+        "region": 12,
+        "links": [
+          "https://www.anobudelip.cz/zlinsky-kraj",
+          "https://www.facebook.com/anotohlejezlinsko/",
+          "https://www.instagram.com/ano_zlinsky_kraj/"
+        ]
+      },
+      {
+        "region": 13,
+        "links": [
+          "https://www.anobudelip.cz/moravskoslezsky-kraj",
+          "https://www.facebook.com/ANOTohlejeMoravskoslezsko/"
+        ]
+      }
+    ]
+  }
+}
