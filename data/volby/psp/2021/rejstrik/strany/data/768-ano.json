@@ -1,7 +1,10 @@
 {
+  "run": {
+    "self": true
+  },
   "reg": 768,
   "name": "ANO 2011",
-  "hash": "ano",
+  "hash": "ano-2011",
   "short": "ANO",
   "color": "#2f2f65",
   "logo": "http://data.programydovoleb.cz/volby/psp/2021/rejstrik/strany/loga/768-ano.svg",

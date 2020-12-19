@@ -1,0 +1,37 @@
+{
+  "run": {
+    "self": true,
+    "members": [720, 166]
+  },
+  "name": "Piráti a Starostové",
+  "hash": "pirati-starostove",
+  "short": "Piráti+STAN",
+  "color": "#000",
+  "logo": "http://data.programydovoleb.cz/data/obecne/strany/loga/x-pas.png",
+  "status": [
+    {"date": "2020-12-14", "status": "Lídrem koalice zvolen Ivan Bartoš", "source": "https://www.irozhlas.cz/zpravy-domov/parlamentni-volby-pirati-starostove-stan-bartos-rakusan_2012141748_miz"},
+    {"date": "2020-11-23", "status": "Obě strany získaly povolení vyjednávat o možné koalici", "source": "https://domaci.ihned.cz/c1-66848530-pirati-budou-jednat-o-volebni-koalici-se-stan-pro-bylo-81-procent-hlasujicich-clenu"}
+  ],
+  "files": [
+    {"name": "Hlavní programové priority", "source": "https://www.pirati.cz/assets/pdf/Programove%CC%81%20priority%20Pira%CC%81ti%20a%20STAN.pdf", "icon": "pdf"}
+  ],
+  "leaders": {
+    "global": {
+      "name": "Ivan Bartoš", "reg": 720, "hash": "bartos-ivan-80-2506", "status": [
+        {"date": "2020-12-14", "status": "Lídrem koalice zvolen Ivan Bartoš", "source": "https://www.irozhlas.cz/zpravy-domov/parlamentni-volby-pirati-starostove-stan-bartos-rakusan_2012141748_miz"}
+      ]
+    },
+    "regional": [
+      {
+        "region": 1, "name": "Vít Rakušan", "reg": 166, "hash": "rakusan-vit-78-6199", "status": [
+          {"date": "2020-12-14", "status": "Předseda STAN chce kandidovat ve Středočeském kraji, záleží na výsledku primárek", "source": "https://www.irozhlas.cz/zpravy-domov/parlamentni-volby-pirati-starostove-stan-bartos-rakusan_2012141748_miz"}
+        ]
+      },
+      {
+        "region": 5, "name": "Ivan Bartoš", "reg": 720, "hash": "bartos-ivan-80-2506", "status": [
+          {"date": "2020-12-14", "status": "Lídrem koalice zvolen Ivan Bartoš", "source": "https://www.irozhlas.cz/zpravy-domov/parlamentni-volby-pirati-starostove-stan-bartos-rakusan_2012141748_miz"}
+        ]
+      }
+    ]
+  }
+}

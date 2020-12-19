@@ -1,0 +1,54 @@
+{
+  "run": {
+    "self": true,
+    "members": [53, 1, 721]
+  },
+  "name": "SPOLU: ODS, KDU-ČSL, TOP 09",
+  "hash": "spolu---ods-kducsl-top09",
+  "short": "SPOLU",
+  "color": "#232c77",
+  "status": [
+    {"date": "2020-12-9", "status": "Zvolen název koalice: SPOLU", "source": "https://www.seznamzpravy.cz/clanek/ods-kdu-csl-a-top-09-jsou-do-voleb-jako-koalice-spolu-133025"},
+    {"date": "2020-10-27", "status": "Lídrem koalice zvolen Petr Fiala", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"},
+    {"date": "2020-10-27", "status": "Strany podepsaly memorandum o spolupráci", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"}
+  ],
+  "links": {
+    "global": [
+      "https://www.pojdtesnami.cz/"
+    ]
+  },
+  "files": [
+    {"name": "Ideová východiska spolupráce", "source": "https://www.pojdtesnami.cz/file/Spolu.pdf", "icon": "pdf"}
+  ],
+  "poll": [
+    {"date": "2020-12-13", "author": "Kantar", "value": 19.5}
+  ],
+  "leaders": {
+    "global": {
+      "name": "Petr Fiala", "reg": 53, "hash": "fiala-petr-64-9820",
+      "status": [
+        {"date": "2020-10-27", "status": "Lídrem koalice zvolen Petr Fiala", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"}
+      ]
+    },
+    "regional": [
+      {
+        "region": 0, "name": "Markéta Pekarová Adamová", "reg": 721, "hash": "pekarova-adamova-marketa-84-4215",
+        "status": [
+          {"date": "2020-10-27", "status": "Měla by být lídrem v Praze", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"}
+        ]
+      },
+      {
+        "region": 10, "name": "Petr Fiala", "reg": 53, "hash": "fiala-petr-64-9820",
+        "status": [
+          {"date": "2020-10-27", "status": "Měl by být lídrem v Jihomoravském kraji", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"}
+        ]
+      },
+      {
+        "region": 11, "name": "Marian Jurečka", "reg": 1, "hash": "jurecka-marian-81-4854",
+        "status": [
+          {"date": "2020-10-27", "status": "Měl by být lídrem v Olomouckém kraji", "source": "https://zpravy.aktualne.cz/domaci/koalice-ods-kdu-csl-top09/r~5ea6df5e183a11eb842f0cc47ab5f122/"}
+        ]
+      }
+    ]
+  }
+}

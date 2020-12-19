@@ -1,0 +1,802 @@
+{
+  "reg": 720,
+  "key": "PIRATI",
+  "hash": "720-pirati",
+  "polls": [
+    {
+      "date": "2020-12-04",
+      "value": 20,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-11-30",
+      "value": 14,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2020-11-17",
+      "value": 16,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2020-11-06",
+      "value": 21,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-10-29",
+      "value": 13.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2020-10-09",
+      "value": 19,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-09-20",
+      "value": 16,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-09-13",
+      "value": 12.8,
+      "agency": "STEM"
+    },
+    {
+      "date": "2020-09-11",
+      "value": 19.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-08-27",
+      "value": 12.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2020-07-27",
+      "value": 14.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-07-03",
+      "value": 18,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-07-02",
+      "value": 13.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-06-05",
+      "value": 17,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2020-06-01",
+      "value": 12.8,
+      "agency": "STEM"
+    },
+    {
+      "date": "2020-05-13",
+      "value": 11.2,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2020-04-30",
+      "value": 16,
+      "agency": "KANTAR"
+    },
+    {
+      "date": "2020-04-30",
+      "value": 17,
+      "agency": "G82"
+    },
+    {
+      "date": "2020-03-27",
+      "value": 13.5,
+      "agency": "KANTAR"
+    },
+    {
+      "date": "2020-03-11",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-02-28",
+      "value": 15.5,
+      "agency": "KANTAR"
+    },
+    {
+      "date": "2020-02-13",
+      "value": 11.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2020-02-13",
+      "value": 13,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-01-31",
+      "value": 16.5,
+      "agency": "KANTAR"
+    },
+    {
+      "date": "2020-01-22",
+      "value": 13.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2020-01-12",
+      "value": 14,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2019-12-11",
+      "value": 14,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-12-10",
+      "value": 12.3,
+      "agency": "STEM"
+    },
+    {
+      "date": "2019-11-30",
+      "value": 12.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-11-29",
+      "value": 13.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-11-27",
+      "value": 8.9,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2019-11-26",
+      "value": 10.9,
+      "agency": "STEM"
+    },
+    {
+      "date": "2019-11-18",
+      "value": 10.5,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2019-11-15",
+      "value": 13.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-11-01",
+      "value": 17,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-10-28",
+      "value": 12.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-10-25",
+      "value": 12.2,
+      "agency": "STEM"
+    },
+    {
+      "date": "2019-10-20",
+      "value": 14,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-10-05",
+      "value": 15.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-09-29",
+      "value": 13.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-09-18",
+      "value": 19,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2019-09-17",
+      "value": 13,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-08-30",
+      "value": 17,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-08-26",
+      "value": 14.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-07-26",
+      "value": 14,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-06-30",
+      "value": 13,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-06-26",
+      "value": 18.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2019-06-17",
+      "value": 17,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-05-31",
+      "value": 17.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-05-25",
+      "value": 12,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-05-14",
+      "value": 13.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-05-03",
+      "value": 16,
+      "agency": "KANTAR"
+    },
+    {
+      "date": "2019-04-24",
+      "value": 14,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-04-17",
+      "value": 17.1,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2019-04-17",
+      "value": 11.1,
+      "agency": "STEM"
+    },
+    {
+      "date": "2019-04-10",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-04-05",
+      "value": 19,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-03-24",
+      "value": 14,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-03-20",
+      "value": 17.3,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2019-03-13",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-03-01",
+      "value": 17.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-02-24",
+      "value": 13,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-02-21",
+      "value": 16.5,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2019-02-13",
+      "value": 14.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2019-02-06",
+      "value": 15.7,
+      "agency": "STEM"
+    },
+    {
+      "date": "2019-02-01",
+      "value": 16.5,
+      "agency": "KANTAR CZ"
+    },
+    {
+      "date": "2019-01-24",
+      "value": 13.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2019-01-23",
+      "value": 16.3,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2019-01-17",
+      "value": 15,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-12-26",
+      "value": 16.1,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-12-13",
+      "value": 14,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-12-09",
+      "value": 13,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-12-08",
+      "value": 14.1,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2018-11-30",
+      "value": 13.1,
+      "agency": "STEM"
+    },
+    {
+      "date": "2018-11-28",
+      "value": 15.5,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-11-25",
+      "value": 19,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-11-15",
+      "value": 14,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-11-07",
+      "value": 13.2,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2018-10-26",
+      "value": 16,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-10-26",
+      "value": 11,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-10-25",
+      "value": 12,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-10-24",
+      "value": 12.6,
+      "agency": "STEM"
+    },
+    {
+      "date": "2018-10-17",
+      "value": 14.7,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-10-10",
+      "value": 13.8,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2018-09-21",
+      "value": 15.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-09-20",
+      "value": 13,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-09-12",
+      "value": 13.9,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-08-28",
+      "value": 10.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-08-26",
+      "value": 15,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-08-15",
+      "value": 13.1,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-07-23",
+      "value": 11.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-06-29",
+      "value": 10,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-06-27",
+      "value": 10.2,
+      "agency": "STEM"
+    },
+    {
+      "date": "2018-06-26",
+      "value": 11.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-06-24",
+      "value": 12.1,
+      "agency": "PHOENIX RESEARCH"
+    },
+    {
+      "date": "2018-06-22",
+      "value": 12,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-06-13",
+      "value": 14.2,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-06-01",
+      "value": 14.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-05-24",
+      "value": 11,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-05-23",
+      "value": 13.9,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-05-05",
+      "value": 11.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2018-04-29",
+      "value": 13.5,
+      "agency": "STEM"
+    },
+    {
+      "date": "2018-04-27",
+      "value": 14.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-04-25",
+      "value": 13.2,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-04-19",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-03-29",
+      "value": 13.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-03-28",
+      "value": 12.8,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-03-15",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-02-23",
+      "value": 12.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2018-02-21",
+      "value": 12.1,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2018-02-15",
+      "value": 13,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2018-02-08",
+      "value": 13.3,
+      "agency": "STEM"
+    },
+    {
+      "date": "2018-01-24",
+      "value": 12.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-12-17",
+      "value": 11.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-11-24",
+      "value": 14,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-10-16",
+      "value": 8.2,
+      "agency": "JAN HERZMAN"
+    },
+    {
+      "date": "2017-10-14",
+      "value": 8.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-10-11",
+      "value": 6.9,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-10-10",
+      "value": 6.6,
+      "agency": "FOCUS"
+    },
+    {
+      "date": "2017-10-06",
+      "value": 6.1,
+      "agency": "STEM-MARK"
+    },
+    {
+      "date": "2017-09-25",
+      "value": 3.61,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-09-25",
+      "value": 6,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-09-14",
+      "value": 6.4,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-08-30",
+      "value": 4,
+      "agency": "FOCUS"
+    },
+    {
+      "date": "2017-08-27",
+      "value": 8.79,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-08-23",
+      "value": 3.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-08-07",
+      "value": 6,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-07-24",
+      "value": 4,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-07-03",
+      "value": 3.1,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-07-02",
+      "value": 5.2,
+      "agency": "FOCUS"
+    },
+    {
+      "date": "2017-06-25",
+      "value": 4,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-06-25",
+      "value": 3.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-06-18",
+      "value": 3.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-06-15",
+      "value": 3.8,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-06-04",
+      "value": 6.23,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-05-29",
+      "value": 4,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-05-24",
+      "value": 3.4,
+      "agency": "FOCUS"
+    },
+    {
+      "date": "2017-05-18",
+      "value": 4,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-05-09",
+      "value": 5.8,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-05-03",
+      "value": 3,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-04-24",
+      "value": 4,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-04-14",
+      "value": 4.6,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-04-13",
+      "value": 3.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-04-12",
+      "value": 3.7,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2017-04-07",
+      "value": 3,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-03-24",
+      "value": 4,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-03-19",
+      "value": 1.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-03-06",
+      "value": 3.4,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2017-03-06",
+      "value": 5.5,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-03-04",
+      "value": 2,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-03-03",
+      "value": 3.5,
+      "agency": "KANTAR TNS"
+    },
+    {
+      "date": "2017-02-25",
+      "value": 2.1,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-02-19",
+      "value": 3,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-02-08",
+      "value": 3.4,
+      "agency": "SANEP"
+    },
+    {
+      "date": "2017-02-06",
+      "value": 6.3,
+      "agency": "MÉDEA RESEARCH"
+    },
+    {
+      "date": "2017-02-02",
+      "value": 3.5,
+      "agency": "MEDIAN"
+    },
+    {
+      "date": "2017-01-23",
+      "value": 4.1,
+      "agency": "STEM"
+    },
+    {
+      "date": "2017-01-22",
+      "value": 2.5,
+      "agency": "CVVM"
+    },
+    {
+      "date": "2017-01-11",
+      "value": 3.5,
+      "agency": "SANEP"
+    }
+  ]
+}

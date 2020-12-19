@@ -1,7 +1,11 @@
 {
+  "run": {
+    "self": false,
+    "coalition": "pirati-starostove"
+  },
   "reg": 720,
   "name": "Česká pirátská strana",
-  "hash": "pirati",
+  "hash": "ceska-piratska-strana---pirati",
   "short": "Piráti",
   "logo": "http://data.programydovoleb.cz/volby/psp/2021/rejstrik/strany/loga/720-pirati.svg",
   "color": "#000",
